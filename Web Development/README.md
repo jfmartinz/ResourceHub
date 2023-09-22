@@ -81,7 +81,11 @@ This category is a curated collection of valuable web development resources cont
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="#"></a></td>
-        <td></td>
+        <td> <a href="https://www.youtube.com/@WebDevSimplified/featured">Web Dev Simplified</a></td>
+        <td>Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner. If you are just getting started in web development Web Dev Simplified has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Web Dev Simplified also deep dives into advanced topics using the latest best practices for you seasoned web developers.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/@slayingthedragon/featured">Slaying The Dragon</a></td>
+        <td>Slaying the dragon is about facing your fears, pursuing meaning and transforming into the web developer you were always destined to be.</td>
       </tr>
   </table>
