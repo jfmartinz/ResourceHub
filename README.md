@@ -15,7 +15,7 @@ _ResourceHub_ is an open-source initiative aimed at two primary goals:
 Contributing to this repo benefits not just you, but the entire **community**. It not only help you start your open source journey but also empowers fellow developers to excel in their careers using the recommended resources found by the community.
 
 ## Category
-These are the current available categories in the project<br>
+Here are the currently available categories in the project.<br>
 - [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development)
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 
