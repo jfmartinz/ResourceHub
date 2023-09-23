@@ -6,13 +6,9 @@
 
 ## Welcome to ResourceHub
 
-_ResourceHub_ is an open-source initiative aimed at two primary goals:
+_ResourceHub_ is an open-source project that serves as a collection of valuable resources for web development, carefully curated by the community.
 
-**Empowering Beginners:** We're here to help you start your open source journey by offering beginner-friendly tasks, making your first pull request!
-
-**Resource Hub for Developers:** Find a curated collection of community-recommended tools, books, learning materials, etc. to enhance your projects and skills, and access it on one convenient place.
-
-Contributing to this repo benefits not just you, but the entire **community**. It not only help you start your open source journey but also empowers fellow developers to excel in their careers using the recommended resources found by the community.
+You can contribute helpful resources you've discovered on the internet and share them with the community! 
 
 ## Category
 Here are the currently available categories in the project.<br>
@@ -104,20 +100,16 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 Now submit the pull request.
 
-## Congratulations on Your First Pull Request! 🎉
+---
 
-Congrats! You just completed the standard `fork -> clone -> edit -> pull request` workflow that you'll often encounter as a contributor!
+Congratulations 🎉  on successfully submitting your pull request (PR) to our project! We want to express our gratitude for your valuable contribution. Your effort not only benefits our project but also help the entire community by adding resources you discovered on the internet.
 
-Your first PR marks the beginning of your open source journey. Thanks for your contribution—small steps lead to big impacts! Keep up the great work! 🚀
+Please consider sharing this repository with other developers to help us expand our community
 
 ## License 🛡️
 
 ResourceHub is licensed under the MIT License - see the [LICENSE](https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE) file for details.
 
-### Connect with me 🤝
-
-Twitter: [@jfmartinz](https://twitter.com/jfmartinz)<br>
-LinkedIn: [@jfmartinz](https://www.linkedin.com/in/jfmartinz/)<br>
-Github: [@jfmartinz](https://github.com/jfmartinz)<br>
+Please take a moment to review our [CODE_OF_CONDUCT.md](https://github.com/jfmartinz/ResourceHub/blob/main/CODE_OF_CONDUCT.md) for guidance on expected behavior.
 
 Show some ❤️ by giving this repository a ⭐️
