@@ -45,6 +45,10 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://www.cssportal.com/css-flexbox-generator/">CSS Portal</a></td>
         <td>CSS Portal is home to many examples of CSS / HTML and how it can be used in website design.</td>
       </tr>
+         <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi">Pesticide for Chrome</a></td>
+        <td>This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.</td>
+      </tr>
   </table>
 
 ### Books
