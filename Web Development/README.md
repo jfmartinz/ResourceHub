@@ -92,4 +92,8 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://www.youtube.com/@slayingthedragon/featured">Slaying The Dragon</a></td>
         <td>Slaying the dragon is about facing your fears, pursuing meaning and transforming into the web developer you were always destined to be.</td>
       </tr>
+        <tr>
+        <td> <a href="https://www.youtube.com/@TraversyMedia/featured">Traversy Media</a></td>
+        <td>Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP.</td>
+      </tr>
   </table>
