@@ -39,19 +39,18 @@ To ensure a smooth experience, please follow these important rules:
 
 There are many ways to contribute, and you don't need to be a coding wizard to get involved. Here are some beginner-friendly ways to contribute:
 
-- **Fix Typos or Grammar**: Help us maintain clean and error-free content.
+- **Fix Typos or Grammar**: Help us maintain clean and error-free content. Raise an [issue](https://github.com/jfmartinz/ResourceHub/issues/new?assignees=&labels=bug&projects=&template=bugreport.yml&title=%F0%9F%90%9E+%5BBUG%5D+-+%3Ctitle%3E)
 
 - **Add Valuable Resources**: If you find a resource that you think would benefit others, share it with the community.
 
 - **Documentation Updates**: Improve project documentation, or let us know if something is unclear.
 
-- **Share Ideas**: Have a suggestion or an idea for project improvement? Raise an [issue](https://github.com/jfmartinz/ResourceHub/issues/new).
+- **Share Ideas**: Have a suggestion or an idea for project improvement? Raise an [issue](https://github.com/jfmartinz/ResourceHub/issues/new?assignees=&labels=feature&projects=&template=feature.yml&title=%F0%9F%92%A1+%5BFEATURE%5D+-+%3Ctitle%3E).
 
-- **Outdated or broken link**: If you encounter broken links or outdated resources, please let us know so we can keep things up to date. Or if you have any resource that you can add as alternative, then raise an [issue](https://github.com/jfmartinz/ResourceHub/issues/new).
+- **Outdated or broken link**: If you encounter broken links or outdated resources, please let us know so we can keep things up to date. Or if you have any resource that you can add as alternative, then raise an [issue](https://github.com/jfmartinz/ResourceHub/issues/new?assignees=&labels=bug&projects=&template=bugreport.yml&title=%F0%9F%90%9E+%5BBUG%5D+-+%3Ctitle%3E).
 
 We recommend that if you're simply adding a resource to a specific category, there's no need to create an issue and submit a pull request (PR) automatically.
 
-If you encounter any issues or problems within the repository, please do raise an [issue](https://github.com/jfmartinz/ResourceHub/issues/new) and let us know. Your feedback is valuable!
 
 ## Stuck?
 
