@@ -18,7 +18,7 @@ body:
       description: Please provide a clear and detailed description of the bug you've encountered.
       placeholder: Describe the issue you're facing, including any error messages, unexpected behavior, and steps to reproduce.
     validations:
-      required: true
+      required: false
   - type: textarea
     id: expected-behavior
     attributes:
@@ -26,7 +26,7 @@ body:
       description: What did you expect to happen instead of the bug you've described?
       placeholder: Explain the expected outcome or behavior.
     validations:
-      required: true
+      required: false
   - type: textarea
     id: steps-to-reproduce
     attributes:
@@ -34,7 +34,7 @@ body:
       description: Please provide clear, step-by-step instructions on how to reproduce the bug.
       placeholder: List the exact steps you followed to encounter the bug.
     validations:
-      required: true
+      required: false
   - type: textarea
     attributes:
       label: Additional Context
