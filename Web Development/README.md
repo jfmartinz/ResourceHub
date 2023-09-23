@@ -21,12 +21,20 @@ This category is a curated collection of valuable web development resources cont
         <th>Description</th>
       </tr>
       <tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=UB1O30fR-EE&pp=ygURaHRtbCBjcmFzaCBjb3Vyc2U%3D">HTML Crash Course for Absolute Beginners</a></td>
+        <td>Fast-track HTML basics for beginners with Traversy Media's accessible tutorial</td>
+      </tr>
         <td> <a href="https://www.youtube.com/watch?v=EiNiSFIPIQE">Learn CSS Grid - A 13 Minute Deep Dive</a></td>
         <td>A short yet a concise and helpful video about learning CSS grid in just 13 minutes</td>
       </tr>
       <tr>
         <td> <a href="https://www.youtube.com/watch?v=phWxA89Dy94">Learn Flexbox CSS in 8 minutes</a></td>
         <td>A short video about Flexbox in just 8 minutes</td>
+      </tr>
+      <tr>
+        <td> <a href="https://youtu.be/g7T23Xzys-A">Master JavaScript in One Video!</a></td>
+        <td>Comprehensive 2-hour JavaScript crash course by JavaScript Mastery.</td>
       </tr>
   </table>
 
@@ -95,5 +103,11 @@ This category is a curated collection of valuable web development resources cont
         <tr>
         <td> <a href="https://www.youtube.com/@TraversyMedia/featured">Traversy Media</a></td>
         <td>Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP.</td>
+      </tr>
+      </tr>
+        <tr>
+        <td> <a href="https://www.youtube.com/@Fireship/featured">Fireship</a></td>
+        <td>Fireship is a popular YouTube channel dedicated to providing high-quality, concise tutorials on web development, covering topics like JavaScript, frameworks, and modern development practices.
+        </td>
       </tr>
   </table>
