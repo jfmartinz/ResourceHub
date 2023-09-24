@@ -12,9 +12,7 @@ To ensure a smooth experience, please follow these important rules:
 
 1. **Relevance**: Make sure that the resource you're adding matches the category. Web development resources go in the web development section, UI/UX design resources in the UI/UX design section, and so on.
 
-2. **Basic Git and GitHub Knowledge**: You should have a basic understanding of Git and GitHub to start contributing. If you're new to these tools, there are many beginner-friendly tutorials available online.
-
-3. **How to Add a Resource**:
+2. **How to Add a Resource**:
 
    **URL Format**: When adding a resource, follow this format:
 
