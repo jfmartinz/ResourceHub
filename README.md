@@ -1,4 +1,5 @@
-# ResourceHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# ResourceHub  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
@@ -10,7 +11,6 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-## Welcome to ResourceHub
 
 _ResourceHub_ is an open-source project that serves as a collection of valuable resources for web development, carefully curated by the amazing contributors in the community.
 
