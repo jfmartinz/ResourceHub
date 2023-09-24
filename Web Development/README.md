@@ -110,4 +110,9 @@ This category is a curated collection of valuable web development resources cont
         <td>Fireship is a popular YouTube channel dedicated to providing high-quality, concise tutorials on web development, covering topics like JavaScript, frameworks, and modern development practices.
         </td>
       </tr>
+        <tr>
+        <td> <a href="https://www.youtube.com/@freecodecamp">FreeCodeCamp</a></td>
+        <td>FreeCodeCamp, which has a YouTube channel, also offers more comprehensive online courses, and students can choose from 300-hour programs in skills like responsive web design, JavaScript algorithms, and data visualization. You can also find several free online courses in Python, an in-demand coding language.
+        </td>
+      </tr>
   </table>
