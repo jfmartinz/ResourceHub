@@ -1,6 +1,12 @@
 # ResourceHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
+[![First Contributors](https://img.shields.io/badge/first-contributors-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
+[![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
+[![Issues](https://img.shields.io/github/issues/jfmartinz/ResourceHub.svg?style=flat)](https://github.com/jfmartinz/ResourceHub/issues)
+[![Stars](https://img.shields.io/github/stars/jfmartinz/ResourceHub.svg?style=flat)](https://github.com/jfmartinz/ResourceHub/stars)
+[![Forks](https://img.shields.io/github/forks/jfmartinz/ResourceHub.svg?style=flat)](https://github.com/jfmartinz/ResourceHub/forks)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
