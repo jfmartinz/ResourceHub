@@ -59,7 +59,7 @@ This category is a curated collection of valuable web development resources cont
       </tr>
       <tr>
         <td> <a href="https://overapi.com/">Over API</a></td>
-        <td>overapi. com is a site collecting all the cheatsheets,all! Computers Electronics and Technology > Programming and Developer Software.</td>
+        <td>overapi. com is a site collecting all the cheatsheets,all! Computers Electronics and Technology-> Programming and Developer Software.</td>
       </tr>
   </table>
 
