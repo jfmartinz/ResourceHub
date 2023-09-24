@@ -1,10 +1,12 @@
 # Contributing Guidelines
 
-## Welcome to ResourceHub! 🌟
+Welcome!
 
 We're excited that you're interested in contributing to our open-source project. Whether you're new to open source or an experienced developer, we want your contributions to be smooth and enjoyable. Below, you'll find some guidelines and tips to help you get started.
 
-Please adhere to and review our [Code Of Conduct](https://github.com/jfmartinz/ResourceHub/blob/main/CODE_OF_CONDUCT.md) which outlines the expected behavior within our project.
+Please adhere to and review our [Code Of Conduct](https://github.com/jfmartinz/ResourceHub/blob/main/CODE_OF_CONDUCT.md).
+
+You can find all my socials [here](https://www.biodrop.io/jfmartinz). 
 
 ## Important Rules
 
@@ -51,11 +53,6 @@ There are many ways to contribute, and you don't need to be a coding wizard to g
 
 We recommend that if you're simply adding a resource to a specific category, there's no need to create an issue and submit a pull request (PR) automatically.
 
-
-## Stuck?
-
-If you ever need help or get stuck, don't hesitate to contact me at [Twitter](https://twitter.com/jfmartinz) or [LinkedIn](https://www.linkedin.com/in/jfmartinz/).
-
-Thank you for taking the time to read these guidelines. We appreciate your interest and look forward to your contributions to this project. Your input is valuable, and together, we can make this project even better.
+Thank you for taking the time to read these guidelines. We appreciate your interest and look forward to your contributions to this project. 
 
 Happy contributing! 🚀
