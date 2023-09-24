@@ -36,6 +36,10 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://youtu.be/g7T23Xzys-A">Master JavaScript in One Video!</a></td>
         <td>Comprehensive 2-hour JavaScript crash course by JavaScript Mastery.</td>
       </tr>
+       <tr>
+        <td> <a href="https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP">Namaste ( Hello ) Javascript!</a></td>
+        <td>A playlist for learning Javascript from basic to advance by Akshay Saini</td>
+      </tr>
   </table>
 
 ### Tools
