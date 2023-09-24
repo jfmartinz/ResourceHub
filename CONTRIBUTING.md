@@ -4,6 +4,8 @@
 
 We're excited that you're interested in contributing to our open-source project. Whether you're new to open source or an experienced developer, we want your contributions to be smooth and enjoyable. Below, you'll find some guidelines and tips to help you get started.
 
+Please adhere to and review our [Code Of Conduct](https://github.com/jfmartinz/ResourceHub/blob/main/CODE_OF_CONDUCT.md) which outlines the expected behavior within our project.
+
 ## Important Rules
 
 To ensure a smooth experience, please follow these important rules:
