@@ -116,6 +116,5 @@ Please consider sharing this repository with other developers to help us expand 
 
 ResourceHub is licensed under the MIT License - see the [LICENSE](https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE) file for details.
 
-Please take a moment to review our [CODE_OF_CONDUCT.md](https://github.com/jfmartinz/ResourceHub/blob/main/CODE_OF_CONDUCT.md) for guidance on expected behavior.
 
 Show some ❤️ by giving this repository a ⭐️
