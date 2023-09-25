@@ -150,7 +150,15 @@ to everyone - everywhere!</td>
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="#"></a></td>
-        <td></td>
+        <td> <a href="http://www.flexboxdefense.com/">Flexbox Defense</a></td>
+        <td>Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!</td>
+      </tr>
+      <tr>
+        <td> <a href="https://flexboxfroggy.com/">Flexbox Froggy</a></td>
+        <td>Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code!</td>
+      </tr>
+      <tr>
+        <td> <a href="https://cssgridgarden.com/">Grid Garden</a></td>
+        <td>Welcome to Grid Garden, where you write CSS code to grow your carrot garden! Water only the areas that have carrots by using the grid-column-start property. </td>
       </tr>
   </table>
