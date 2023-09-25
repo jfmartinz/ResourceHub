@@ -51,6 +51,14 @@ This category is a curated collection of valuable web development resources cont
             <td><a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Make 15 react projects</td>
 <td>A One shot video by freecodecamp focusing on coding react based projects</td>
       </tr>
+        <tr>
+            <td><a href="https://www.youtube.com/watch?v=Ul3y1LXxzdU&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Learn About React router v6 in 45mins</td>
+<td>A 45min for learning routing in react via react-router@6</td>
+      </tr>
+       <tr>
+            <td><a href="https://www.youtube.com/watch?v=qwfE7fSVaZM&t=5107s&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Learn and make 4 node.js & express projects </td>
+<td>A one shot video focusing on making 4 node.js and express projects , great for beginners ! </td>
+      </tr>
   </table>
 
 ### Tools
