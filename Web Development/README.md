@@ -7,7 +7,8 @@
 - [Tools](#tools)<br>
 - [Books](#books)<br>
 - [Communities](#communities)<br>
-- [Youtube Channels](#youtube-channels)
+- [Youtube Channels](#youtube-channels)<br>
+- [Games](#games)<br>
 
 ### Overview
 
@@ -138,5 +139,18 @@ to everyone - everywhere!</td>
         <td> <a href="https://www.youtube.com/@freecodecamp">FreeCodeCamp</a></td>
         <td>FreeCodeCamp, which has a YouTube channel, also offers more comprehensive online courses, and students can choose from 300-hour programs in skills like responsive web design, JavaScript algorithms, and data visualization. You can also find several free online courses in Python, an in-demand coding language.
         </td>
+      </tr>
+  </table>
+
+### Games
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="#"></a></td>
+        <td></td>
       </tr>
   </table>
