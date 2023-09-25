@@ -14,7 +14,7 @@
 
 _ResourceHub_ is an open-source project that serves as a collection of valuable resources for web development, carefully curated by the amazing contributors in the community.
 
-You can contribute helpful resources you've discovered on the internet and share them with the community! 
+You can contribute helpful resources you've discovered on the internet and share them with us! 
 
 ## Category
 Here are the currently available categories in the project.<br>
