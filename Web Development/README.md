@@ -5,6 +5,7 @@
 - [Overview](#overview)<br>
 - [Tutorials or Courses](#tutorials-or-courses)<br>
 - [Tools](#tools)<br>
+- [Challenges](#challenges)<br>
 - [Books](#books)<br>
 - [Communities](#communities)<br>
 - [Youtube Channels](#youtube-channels)<br>
@@ -160,5 +161,27 @@ to everyone - everywhere!</td>
       <tr>
         <td> <a href="https://cssgridgarden.com/">Grid Garden</a></td>
         <td>Welcome to Grid Garden, where you write CSS code to grow your carrot garden! Water only the areas that have carrots by using the grid-column-start property. </td>
+      </tr>
+  </table>
+
+
+  ### Challenges
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://cssbattle.dev/">CSS Battle</a></td>
+        <td>The funnest multiplayer game with 300K+ web designers & developers. Replicate the target images using CSS - the shorter your code, the higher your score! Happy coding!</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.frontendmentor.io/">Frontend Mentor</a></td>
+        <td>Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://icodethis.com/">iCodeThis</a></td>
+        <td>Daily projects you can build to improve your coding skills!</td>
       </tr>
   </table>
