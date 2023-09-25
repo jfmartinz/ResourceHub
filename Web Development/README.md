@@ -47,6 +47,10 @@ This category is a curated collection of valuable web development resources cont
       </td>
         <td>A playlist for learning React from basic by Hitesh Choudhari</td>
       </tr>
+      <tr>
+            <td><a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Make 15 react projects</td>
+<td>A One shot video by freecodecamp focusing on coding react based projects</td>
+      </tr>
   </table>
 
 ### Tools
