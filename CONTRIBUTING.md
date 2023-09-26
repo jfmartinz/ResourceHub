@@ -6,7 +6,6 @@ We're excited that you're interested in contributing to our open-source project.
 
 Please adhere to and review our [Code Of Conduct](https://github.com/jfmartinz/ResourceHub/blob/main/CODE_OF_CONDUCT.md).
 
-You can find all my socials [here](https://www.biodrop.io/jfmartinz). 
 
 ## Important Rules
 
