@@ -43,7 +43,7 @@ This category is a curated collection of valuable web development resources cont
         <td>A playlist for learning Javascript from basic to advance by Akshay Saini</td>
       </tr>
        <tr>
-      <td> <a href="https://www.youtube.com/watch?v=eCU7FfMl5WU&list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq">Complete React course forbeginner</a>          
+      <td> <a href="https://www.youtube.com/watch?v=eCU7FfMl5WU&list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq">Complete React course for beginner</a>          
       </td>
         <td>A playlist for learning React from basic by Hitesh Choudhari</td>
       </tr>
@@ -58,6 +58,10 @@ This category is a curated collection of valuable web development resources cont
        <tr>
             <td><a href="https://www.youtube.com/watch?v=qwfE7fSVaZM&t=5107s&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Learn and make 4 node.js & express projects </td>
 <td>A one shot video focusing on making 4 node.js and express projects , great for beginners ! </td>
+      </tr>
+      <tr>
+            <td><a href="https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA">Complete MongoDB Tutorial </td>
+<td>A playlist for learning MongoDB from beginning to advance! </td>
       </tr>
   </table>
 
