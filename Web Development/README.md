@@ -157,6 +157,11 @@ to everyone - everywhere!</td>
         <td>FreeCodeCamp, which has a YouTube channel, also offers more comprehensive online courses, and students can choose from 300-hour programs in skills like responsive web design, JavaScript algorithms, and data visualization. You can also find several free online courses in Python, an in-demand coding language.
         </td>
       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/@codeblockdev">Codeblock</a></td>
+        <td>"Code Block: Your go-to YouTube channel for mastering web development, with a focus on JavaScript. Unlock your coding potential today!"
+        </td>
+      </tr>
   </table>
 
 ### Games
