@@ -111,17 +111,17 @@ This category is a curated collection of valuable web development resources cont
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="https://discord.gg/kevin-powell-community-436251713830125568">Kevin Powel - Community</a></td>
+        <td> <a href="https://discord.gg/kevin-powell-community-436251713830125568">Kevin Powel - Community (Discord)</a></td>
         <td>A friendly place for developers to meet
 other devs, ask questions, get help, and
-just have a good time (Discord).</td>
+just have a good time</td>
       </tr>
       <tr>
-        <td> <a href="https://discord.gg/VPSJhaJx">ASAP Frontend</a></td>
+        <td> <a href="https://discord.gg/VPSJhaJx">ASAP Frontend (Discord)</a></td>
         <td>Learn to Code and Become a Professional Software Engineer ASAP</td>
       </tr>
       <tr>
-        <td> <a href="https://discord.gg/w3schools">W3school</a></td>
+        <td> <a href="https://discord.gg/w3schools">W3school (Discord)</a></td>
         <td>On a quest to make learning available
 to everyone - everywhere!</td>
       </tr>
