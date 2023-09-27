@@ -98,8 +98,8 @@ This category is a curated collection of valuable web development resources cont
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="#"></a></td>
-        <td></td>
+        <td> <a href="https://www.amazon.in/HTML-CSS-Design-Build-Websites/dp/1118008189">HTML and CSS: Design and Build Websites, by Jon Duckett</a></td>
+        <td>This book by Jon Duckett is incredibly popular. If you are a beginner in designing and recently started learning HTML and CSS then this book is best for you to learn everything from scratch to an expert level. The quality of content in this book is very high, also the presentation of everything is well organized.</td>
       </tr>
   </table>
 
