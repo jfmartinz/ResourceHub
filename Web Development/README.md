@@ -157,6 +157,12 @@ to everyone - everywhere!</td>
         <td>FreeCodeCamp, which has a YouTube channel, also offers more comprehensive online courses, and students can choose from 300-hour programs in skills like responsive web design, JavaScript algorithms, and data visualization. You can also find several free online courses in Python, an in-demand coding language.
         </td>
       </tr>
+       </tr>
+        <tr>
+        <td> <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">Net Ninja</a></td>
+        <td> The Net Ninja YouTube channel is a great resource for learning web development. It offers a wide range of tutorials on topics such as HTML, CSS, JavaScript, React, and Node.js.
+        </td>
+      </tr>
   </table>
 
 ### Games
