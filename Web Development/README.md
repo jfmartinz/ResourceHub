@@ -95,6 +95,7 @@ This category is a curated collection of valuable web development resources cont
 <table width="100%">
       <tr>
         <th>Resource Name</th>
+        <th>E-Book</th>
         <th>Description</th>
       </tr>
       <tr>
