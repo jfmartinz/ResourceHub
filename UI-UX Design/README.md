@@ -75,8 +75,8 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="#"></a></td>
-        <td></td>
+        <td> <a href="https://designerhangout.co/">Designer Hangout</a></td>
+        <td>Designer Hangout is a dedicated, invite-only network of UX designers and researchers who discuss trends, give advice, share stories, uncover insights, surface opportunities, and connect in-person. As a UX practitioner, Designer Hangout is your "secret weapon" to progressing your career and accomplishing your life goals. Together, we’re creating the World's most reliable brain trust for UX designers in a fast-paced age.</td>
       </tr>
   </table>
 
