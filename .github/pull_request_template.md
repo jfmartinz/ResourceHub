@@ -14,4 +14,5 @@
 #### Checklist
 Please make sure you've completed the following task before submitting your pull request:
 
-- [ ] I have read and followed the [contributing guidelines](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) 
+- [ ] I have read and followed the [contributing guidelines](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md)
+- [ ] Did you follow the PR title template?
