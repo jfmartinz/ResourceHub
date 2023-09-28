@@ -13,7 +13,9 @@ To ensure a smooth experience, please follow these important rules:
 
 1. **Relevance**: Make sure that the resource you're adding matches the category. Web development resources go in the web development section, UI/UX design resources in the UI/UX design section, and so on.
 
-2. **How to Add a Resource**:
+2. **Use the PR Template**: When creating a pull request (PR), please ensure that you follow and read the provided PR template.
+
+3. **How to Add a Resource**:
 
    **URL Format**: When adding a resource, follow this format:
 
