@@ -1,18 +1,16 @@
- 
+**IMPORTANT:** Please follow these guidelines for your Pull Request title: `Category - Resource Name & Section`
 
- **IMPORTANT**: PR Title Should be `Category - Resource Name & Section`
+- Replace Category with the relevant category, such as `Web Development` or `UI & UX Design`.<br>
+- Replace Resource Name & Section with the specific name of the resource and its relevant section, for example, `CSS Portal & Tools.`
 
-- Replace with the relevant _category_. For example, [Web development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development) or [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design) ]<br>
-- Replace with the _resource name_ and _section_. For example, CSS Portal & Tools
+### Description: 
+[Provide a brief description of the pull request]
 
-#### Description
-[Provide a brief description about the resource]
+### Resource URL: 
+[Insert the URL of the resource you're proposing]
 
-#### Resource URL
-[Add the URL to the resource you are proposing.]
-
-#### Checklist
-Please make sure you've completed the following task before submitting your pull request:
+### Checklist:
+Before submitting your pull request, ensure that you have completed the following tasks:
 
 - [ ] I have read and followed the [contributing guidelines](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md)
 - [ ] Did you follow the PR title template?
