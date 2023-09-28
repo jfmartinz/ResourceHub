@@ -95,19 +95,21 @@ This category is a curated collection of valuable web development resources cont
 <table width="100%">
       <tr>
         <th>Resource Name</th>
-        <th>E-Book</th>
         <th>Description</th>
+        <th>Status</th>
       </tr>
       <tr>
-        <td> <a href="https://www.amazon.in/HTML-CSS-Design-Build-Websites/dp/1118008189">HTML and CSS: Design and Build Websites, by Jon Duckett</a></td>
-        <td><a href="https://wtf.tw/ref/duckett.pdf">Free E-book</a></td>
+        <td> <a href="https://wtf.tw/ref/duckett.pdf">HTML and CSS: Design and Build Websites, by Jon Duckett</a></td>
         <td>This book by Jon Duckett is incredibly popular. If you are a beginner in designing and recently started learning HTML and CSS then this book is best for you to learn everything from scratch to an expert level. The quality of content in this book is very high, also the presentation of everything is well organized.</td>
+      <td>Free</td>
       </tr>
       <tr>
-        <td> <a href=""></a><!-- book name --></td>
-        <td><a href=""><!-- add free or paid --></a></td>
+         <td> <a href="#"> <!-- book name.  
+        a) If the book is free, include a download link.
+        b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. --> </a></td>
+        <td><a href=""><!-- book description --></a></td>
         <td>
-        <!-- add discription -->
+        <!-- free or paid -->
         </td>
       </tr>
   </table>
