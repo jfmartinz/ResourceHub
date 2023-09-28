@@ -38,6 +38,6 @@ body:
   - type: textarea
     attributes:
       label: Additional Context
-      description: Include any extra information, such as your environment details, that may help in diagnosing the bug.
+      description: Additional information about the bug (Optional).
     validations:
       required: false
