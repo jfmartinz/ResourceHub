@@ -95,11 +95,20 @@ This category is a curated collection of valuable web development resources cont
 <table width="100%">
       <tr>
         <th>Resource Name</th>
+        <th>E-Book</th>
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="#"></a></td>
-        <td></td>
+        <td> <a href="https://www.amazon.in/HTML-CSS-Design-Build-Websites/dp/1118008189">HTML and CSS: Design and Build Websites, by Jon Duckett</a></td>
+        <td><a href="https://wtf.tw/ref/duckett.pdf">Free E-book</a></td>
+        <td>This book by Jon Duckett is incredibly popular. If you are a beginner in designing and recently started learning HTML and CSS then this book is best for you to learn everything from scratch to an expert level. The quality of content in this book is very high, also the presentation of everything is well organized.</td>
+      </tr>
+      <tr>
+        <td> <a href=""></a><!-- book name --></td>
+        <td><a href=""><!-- add free or paid --></a></td>
+        <td>
+        <!-- add discription -->
+        </td>
       </tr>
   </table>
 
@@ -157,6 +166,9 @@ to everyone - everywhere!</td>
         <td>FreeCodeCamp, which has a YouTube channel, also offers more comprehensive online courses, and students can choose from 300-hour programs in skills like responsive web design, JavaScript algorithms, and data visualization. You can also find several free online courses in Python, an in-demand coding language.
         </td>
       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/@codeblockdev">Codeblock</a></td>
+        <td>"Code Block: Your go-to YouTube channel for mastering web development, with a focus on JavaScript. Unlock your coding potential today!"</td>
        </tr>
         <tr>
         <td> <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">Net Ninja</a></td>
