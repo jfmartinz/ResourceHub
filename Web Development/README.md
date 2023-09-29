@@ -137,11 +137,11 @@ just have a good time</td>
 to everyone - everywhere!</td>
       </tr>
       <tr>
-        <td> <a href="https://www.reddit.com/r/Frontend/">Bringing the web out of 2007 since 2013. (Reddit)</a></td>
+        <td> <a href="https://www.reddit.com/r/Frontend/">r/Frontend/ (Reddit)</a></td>
         <td>/r/frontend is a subreddit for front end web developers who want to move the web forward or want to learn how. If you're looking to find or share the latest and greatest tips, links, thoughts, and discussions on the world of front web development, this is the place to do it.</td>
       </tr>
       <tr>
-        <td> <a href="https://www.reddit.com/r/webdev/">webdev: reddit for web developers (Reddit)</a></td>
+        <td> <a href="https://www.reddit.com/r/webdev/">r/webdev/ (Reddit)</a></td>
         <td>A community dedicated to all things web development: both front-end and back-end. For more design-related questions, try /r/web_design.</td>
       </tr>
   </table>
