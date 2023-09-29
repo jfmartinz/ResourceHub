@@ -13,6 +13,8 @@
 
 
 _ResourceHub_ is an open-source project that serves as a collection of valuable resources for web development, carefully curated by the amazing contributors in the community.
+<br>
+![ResourceHub Banner](images/ResourceHub-Banner.png)
 
 You can contribute helpful resources you've discovered on the internet and share them with us! 
 
