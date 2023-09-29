@@ -104,13 +104,10 @@ This category is a curated collection of valuable web development resources cont
       <td>Free</td>
       </tr>
       <tr>
-         <td> <a href="#"> <!-- book name.  
-        a) If the book is free, include a download link.
-        b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. --> </a></td>
-        <td><a href=""><!-- book description --></a></td>
-        <td>
-        <!-- free or paid -->
-        </td>
+         <td> <a href="https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf">Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming, by Marjin Haverbeke</a></td>
+        <td>Learning only the basic coding literature is not enough if you do not practice writing real-life applications. The 3rd Edition of Eloquent JavaScript, written by Marijn Haverbeke, is a gold mine for anyone working with JavaScript in a modern Web application framework.
+        Through this book, you get to learn about asynchronous programming, bug fixing, and, of course, error handling.</td>
+        <td>free</td>
       </tr>
   </table>
 
