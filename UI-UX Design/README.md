@@ -40,8 +40,8 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
         <td>This is a web design tool where we can modify texts, shapes, colors, and images and add functionalities such as hovering, scrolling, or animation to their interface assets.</td>
       </tr>
       <tr>
-        <td> <a href="#"></a></td>
-        <td></td>
+        <td> <a href="https://www.sketch.com/">Sketch</a></td>
+        <td>Sketch is the all-in-one platform for digital design — with collaborative design tools, prototyping and developer handoff. </td>
       </tr>
   </table>
 
