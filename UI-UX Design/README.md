@@ -54,7 +54,7 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
         <th>Status</th>
       </tr>
       <tr>
-        <td><a href="https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf">The Design of Everyday Things (Download)</a></td>
+        <td><a href="https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf">The Design of Everyday Things</a></td>
         <td>The Design of Everyday Things shows that good, usable design is possible. The rules are simple: make things visible, exploit natural relationships that couple function and control, and make intelligent use of constraints. The goal: guide the user effortlessly to the right action on the right control at the right time.</td>
       <td>Free</td>
       </tr>
