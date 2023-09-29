@@ -119,26 +119,26 @@ This category is a curated collection of valuable web development resources cont
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="https://discord.gg/kevin-powell-community-436251713830125568">Kevin Powel - Community (Discord)</a></td>
+        <td> <a href="https://discord.gg/kevin-powell-community-436251713830125568">Kevin Powel - Community</a></td>
         <td>A friendly place for developers to meet
 other devs, ask questions, get help, and
 just have a good time</td>
       </tr>
       <tr>
-        <td> <a href="https://discord.gg/VPSJhaJx">ASAP Frontend (Discord)</a></td>
+        <td> <a href="https://discord.gg/VPSJhaJx">ASAP Frontend</a></td>
         <td>Learn to Code and Become a Professional Software Engineer ASAP</td>
       </tr>
       <tr>
-        <td> <a href="https://discord.gg/w3schools">W3school (Discord)</a></td>
+        <td> <a href="https://discord.gg/w3schools">W3school</a></td>
         <td>On a quest to make learning available
 to everyone - everywhere!</td>
       </tr>
       <tr>
-        <td> <a href="https://www.reddit.com/r/Frontend/">r/Frontend/ (Reddit)</a></td>
+        <td> <a href="https://www.reddit.com/r/Frontend/">r/Frontend/</a></td>
         <td>/r/frontend is a subreddit for front end web developers who want to move the web forward or want to learn how. If you're looking to find or share the latest and greatest tips, links, thoughts, and discussions on the world of front web development, this is the place to do it.</td>
       </tr>
       <tr>
-        <td> <a href="https://www.reddit.com/r/webdev/">r/webdev/ (Reddit)</a></td>
+        <td> <a href="https://www.reddit.com/r/webdev/">r/webdev/</a></td>
         <td>A community dedicated to all things web development: both front-end and back-end. For more design-related questions, try /r/web_design.</td>
       </tr>
   </table>
