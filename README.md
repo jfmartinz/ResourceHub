@@ -102,7 +102,7 @@ git push origin your-branch-name
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 ![Compare & pull request](images/image.png)<br>
 
-![Open a Pull Request](images/image-1.png)<br>
+![Open a Pull Request](images/pr.png)<br>
 
 Now submit the pull request.
 
