@@ -1,6 +1,10 @@
 # ResourceHub  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
+![ResourceHub Banner](images/ResourceHub-Banner.png)
+
+<div align="center">
+  
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
 [![First Contributors](https://img.shields.io/badge/first-contributors-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
@@ -10,13 +14,14 @@
 [![Forks](https://img.shields.io/github/forks/jfmartinz/ResourceHub.svg?style=flat)](https://github.com/jfmartinz/ResourceHub/forks)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-
+</div>
 
 _ResourceHub_ is an open-source project that serves as a collection of valuable resources for web development, carefully curated by the amazing contributors in the community.
 <br>
-![ResourceHub Banner](images/ResourceHub-Banner.png)
 
 You can contribute helpful resources you've discovered on the internet and share them with us! 
+
+
 
 ## Category
 Here are the currently available categories in the project.<br>
