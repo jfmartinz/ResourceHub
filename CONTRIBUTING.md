@@ -11,9 +11,9 @@ Please adhere to and review our [Code Of Conduct](https://github.com/jfmartinz/R
 
 To ensure a smooth experience, please follow these important rules:
 
-1. **Relevance**: Make sure that the resource you're adding matches the category. Web development resources go in the web development section, UI/UX design resources in the UI/UX design section, and so on.
+1. **Relevance**: Make sure that the resource you're adding matches the category. Web development resources go in the web development category, UI/UX design resources in the UI/UX design category, and so on.
 
-2. **Use the PR Template**: When creating a pull request (PR), please ensure that you follow and read the provided PR template.
+2. **Use the PR Template:** When you create a pull request (PR), please make sure to carefully follow and review the provided PR template. This will help facilitate smooth collaboration.
 
 3. **How to Add a Resource**:
 
