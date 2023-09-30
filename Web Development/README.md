@@ -178,8 +178,13 @@ to everyone - everywhere!</td>
         <td>"Code Block: Your go-to YouTube channel for mastering web development, with a focus on JavaScript. Unlock your coding potential today!"</td>
        </tr>
         <tr>
-        <td> <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">Net Ninja</a></td>
+        <td> <a href="">Net Ninja</a></td>
         <td> The Net Ninja YouTube channel is a great resource for learning web development. It offers a wide range of tutorials on topics such as HTML, CSS, JavaScript, React, and Node.js.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/@programmingwithmosh">Programming with Mosh</a></td>
+        <td> Programming with Mosh is a popular online learning platform that offers courses on a variety of programming languages and technologies, including Python, JavaScript, React, SQL, and more.
         </td>
       </tr>
   </table>
