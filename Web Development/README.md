@@ -60,8 +60,8 @@ This category is a curated collection of valuable web development resources cont
 <td>A one shot video focusing on making 4 node.js and express projects , great for beginners ! </td>
       </tr>
       <tr>
-            <td><a href="https://www.youtube.com/watch?v=18c3MTX0PK0">Complete and easy to follow C++ Tutorial by a seasoned game engine developer</a></td>
-            <td>An absolute beginner's guide to C++ from the perspective of a game engine developer.</td>
+       <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
+       <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and Handlebars</td>
       </tr>
   </table>
 
@@ -88,6 +88,7 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://overapi.com/">Over API</a></td>
         <td>overapi. com is a site collecting all the cheatsheets,all! Computers Electronics and Technology-> Programming and Developer Software.</td>
       </tr>
+
   </table>
 
 ### Books
@@ -116,6 +117,7 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <td><!-- book description --></td>
         <td><!-- free or paid? --></td>
       </tr>
+
   </table>
 
 ### Communities
