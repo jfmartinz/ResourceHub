@@ -68,7 +68,7 @@ This category is a curated collection of valuable web development resources cont
 <td>  In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective of course. Many important topic like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
       </tr>
       <tr>
-            <td><a href="https://laracasts.com/path">Full path of Full Stack Developer on Laravel and Vue Js </td>
+            <td><a href="https://laracasts.com/path">Full Stack Developer on Laravel and Vue Js </td>
 <td> This is the path of becoming full stack developer on Laravel and Vuejs</td>
       </tr>
   </table>
