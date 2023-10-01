@@ -91,7 +91,9 @@ This category is a curated collection of valuable web development resources cont
   </table>
 
 ### Books
-
+<!--  
+a) If the book is free, include a download link.
+b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. --> 
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -108,6 +110,11 @@ This category is a curated collection of valuable web development resources cont
         <td>Learning only the basic coding literature is not enough if you do not practice writing real-life applications. The 3rd Edition of Eloquent JavaScript, written by Marijn Haverbeke, is a gold mine for anyone working with JavaScript in a modern Web application framework.
         Through this book, you get to learn about asynchronous programming, bug fixing, and, of course, error handling.</td>
         <td>free</td>
+      </tr>
+         <tr>
+        <td> <a href="#"> <!-- download link or book url--> </a></td>
+        <td><!-- book description --></td>
+        <td><!-- free or paid? --></td>
       </tr>
   </table>
 
