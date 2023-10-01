@@ -60,8 +60,8 @@ This category is a curated collection of valuable web development resources cont
 <td>A one shot video focusing on making 4 node.js and express projects , great for beginners ! </td>
       </tr>
       <tr>
-            <td><a href="https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA">Complete MongoDB Tutorial </td>
-<td>A playlist for learning MongoDB from beginning to advance! </td>
+            <td><a href="https://www.youtube.com/watch?v=18c3MTX0PK0">Complete and easy to follow C++ Tutorial by a seasoned game engine developer</a></td>
+            <td>An absolute beginner's guide to C++ from the perspective of a game engine developer.</td>
       </tr>
   </table>
 
