@@ -227,6 +227,23 @@ to everyone - everywhere!</td>
         <td> <a href="https://cssgridgarden.com/">Grid Garden</a></td>
         <td>Welcome to Grid Garden, where you write CSS code to grow your carrot garden! Water only the areas that have carrots by using the grid-column-start property. </td>
       </tr>
+       <tr>
+        <td> <a href="https://www.codemonkey.com/">Code Monkey</a></td>
+        <td>CodeMonkey(opens in a new tab) teaches coding using CoffeeScript — a real open-source programming language that compiles to JavaScript — to teach you to build your own games in HTML5. It’s aimed at coding for kids, but it’s definitely fun for adults, too.  </td>
+      </tr>
+       <tr>
+        <td> <a href="https://www.codingame.com/start/">CodinGame</a></td>
+        <td>CodinGame(opens in a new tab) offers up fun free open-source programming games to help coders learn more than 25 programming languages, including JavaScript, Ruby, and PHP.  </td>
+      </tr>
+       <tr>
+        <td> <a href="https://robocode.sourceforge.io/">Robocode</a></td>
+        <td>If you’ve ever watched the show BattleBots, then Robocode(opens in a new tab) is for you. You’ll learn programming skills by building virtual robot battle tanks in Java or .NET. Battles are then played out onscreen in real time. </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.codewars.com/">Code Wars</a></td>
+        <td>Code Wars(opens in a new tab) helps you improve your skills by training in challenges with others. They offer a huge variety of programming languages, including JavaScript, Swift, PHP, Python, Ruby, and Haskell. </td>
+      </tr>
+      
   </table>
 
 
