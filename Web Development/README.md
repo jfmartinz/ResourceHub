@@ -148,6 +148,18 @@ to everyone - everywhere!</td>
         <td> <a href="https://www.reddit.com/r/webdev/">r/webdev/</a></td>
         <td>A community dedicated to all things web development: both front-end and back-end. For more design-related questions, try /r/web_design.</td>
       </tr>
+      <tr>
+        <td> <a href="https://hashnode.com/">Hashnode</a></td>
+        <td>Hashnode is another global programming community where experienced developers answer questions, give suggestions, share their stories, and provide feedback on ongoing projects. Users post micro-blogs about technical issues or real-life development dilemmas, and community members answer and share them — you can follow specific prolific authors or tags on specific programming languages.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://discord.com/invite/kx7pk6J">#FrontEndDevelopers</a></td>
+        <td>#frontendDevelopers is now a Discord community for creative developers to exchange information, ask and answer questions, share work, and find gigs.</td>
+      </tr> 
+      <tr>
+        <td> <a href="https://discord.com/invite/kPbSdNZEer">The Programmer's Hangout</a></td>
+        <td>The Programmer's Hangout (TPH) is a discord community geared towards programming. The use of the word "geared" here is important because more accurately it's a discord for programmers of all kinds. If you're a green noob with 5 lines of code under your belt, or if you're a veteran with 15 years of industry experience, TPH has a place for you. More than that, there are over 90,000 people here. You can guarantee you won't be the only person with your experience level on the server.</td>
+      </tr>
   </table>
 
 ### YouTube Channels
