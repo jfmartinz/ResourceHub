@@ -132,7 +132,7 @@ other devs, ask questions, get help, and
 just have a good time</td>
       </tr>
       <tr>
-        <td> <a href="https://discord.gg/VPSJhaJx">ASAP Frontend</a></td>
+        <td> <a href="https://discord.gg/GxZK2Fnb">ASAP Frontend</a></td>
         <td>Learn to Code and Become a Professional Software Engineer ASAP</td>
       </tr>
       <tr>
