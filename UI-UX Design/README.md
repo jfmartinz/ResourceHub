@@ -46,7 +46,9 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
   </table>
 
 ### Books
-
+<!--  
+a) If the book is free, include a download link.
+b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. --> 
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -58,10 +60,8 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
         <td>The Design of Everyday Things shows that good, usable design is possible. The rules are simple: make things visible, exploit natural relationships that couple function and control, and make intelligent use of constraints. The goal: guide the user effortlessly to the right action on the right control at the right time.</td>
       <td>Free</td>
       </tr>
-      <tr>
-        <td> <a href="#"> <!-- book name.  
-        a) If the book is free, include a download link.
-        b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. --> </a></td>
+         <tr>
+        <td> <a href="#"><!-- download link or web link --></a></td>
         <td><!-- book description --></td>
         <td><!-- free or paid? --></td>
       </tr>
