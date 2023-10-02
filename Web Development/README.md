@@ -71,6 +71,10 @@ This category is a curated collection of valuable web development resources cont
             <td><a href="https://laracasts.com/path">Full Stack Developer on Laravel and Vue Js </td>
 <td> This is the path of becoming full stack developer on Laravel and Vuejs</td>
       </tr>
+      <tr>
+            <td><a href="https://youtube.com/playlist?list=PL4-IK0AVhVjP27yZLwW-gkPggRps0CCnP&si=NRNmXP9MXHrzjUS4">HTML and CSS Core Concepts by Kevin Powell</td>
+<td> This playlist teaches us to learn the core concepts of HTML and CSS that are fundamental for every web developer.</td>
+      </tr>
   </table>
 
 ### Tools
@@ -100,9 +104,10 @@ This category is a curated collection of valuable web development resources cont
   </table>
 
 ### Books
-<!--  
+
+<!--
 a) If the book is free, include a download link.
-b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. --> 
+b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. -->
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -170,6 +175,10 @@ to everyone - everywhere!</td>
         <td> <a href="https://discord.com/invite/kPbSdNZEer">The Programmer's Hangout</a></td>
         <td>The Programmer's Hangout (TPH) is a discord community geared towards programming. The use of the word "geared" here is important because more accurately it's a discord for programmers of all kinds. If you're a green noob with 5 lines of code under your belt, or if you're a veteran with 15 years of industry experience, TPH has a place for you. More than that, there are over 90,000 people here. You can guarantee you won't be the only person with your experience level on the server.</td>
       </tr>
+      <tr>
+        <td> <a href="https://www.reddit.com/r/Frontend/">r/Frontend</a></td>
+        <td>/r/frontend is a subreddit for front end web developers who want to move the web forward or want to learn how. If you're looking to find or share the latest and greatest tips, links, thoughts, and discussions on the world of front web development, this is the place to do it.</td>
+      </tr>
   </table>
 
 ### YouTube Channels
@@ -216,6 +225,10 @@ to everyone - everywhere!</td>
         <td> Programming with Mosh is a popular online learning platform that offers courses on a variety of programming languages and technologies, including Python, JavaScript, React, SQL, and more.
         </td>
       </tr>
+      <tr>
+        <td><a href="https://youtube.com/@DaveGrayTeachesCode?si=Bl2__Brt_ieGvebg">Dave Gray</a></td>
+        <td>Dave Gray is an online learning platform that offers videos for web development, from basic HTML, CSS and Javascript to complete MERN stack. Truly a one stop solution for aspiring Web Developers</td>
+      </tr>
   </table>
 
 ### Games
@@ -239,8 +252,7 @@ to everyone - everywhere!</td>
       </tr>
   </table>
 
-
-  ### Challenges
+### Challenges
 
   <table width="100%">
       <tr>
