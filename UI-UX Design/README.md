@@ -46,9 +46,10 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
   </table>
 
 ### Books
+
 <!--  
 a) If the book is free, include a download link.
-b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. --> 
+b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. -->
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -89,18 +90,25 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
       </tr>
       <tr>
         <td> <a href="https://www.youtube.com/@envatotuts">Envato Tuts+ </a></td>
-        <td>Learn creative skills with Envato Tuts+! Part of the Envato family. 
+        <td>Learn creative skills with Envato Tuts+! Part of the Envato family.
 
 Subscribe and learn how to design a website, edit in Photoshop, make an app in Figma, create outstanding presentations, record videos, illustrate with Procreate, build amazing motion graphics, and so much more. </td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.youtube.com/@FluxAcademy">Flux Academy</a></td>
-        <td>Learn to be a more successful and profitable web designer:
+</tr>
+<tr>
+<td> <a href="https://www.youtube.com/@FluxAcademy">Flux Academy</a></td>
+<td>Learn to be a more successful and profitable web designer:
+master the latest trends, tools, and technologies, and make it easy to get and retain high-value dream clients. </td>
+</tr>
+<tr>
+<td> <a href="https://www.youtube.com/@rachelhow">Rachel How</a></td>
+<td>UI/UX design & income diversification, simplified✨
+
+</td>
 master the latest trends, tools, and technologies, and make it easy to get and retain high-value dream clients. </td>
       </tr>
       <tr>
-        <td> <a href="https://www.youtube.com/@rachelhow">Rachel How</a></td>
-        <td>UI/UX design & income diversification, simplified✨
+        <td> <a href="https://github.com/Sugamgoel28/ResourceHub.git">Figma</a></td>
+        <td>Official youtube channel of Figma. It is for people to create, share, and test designs for websites, mobile apps, and other digital products and experiences.
 </td>
       </tr>
   </table>
