@@ -257,4 +257,8 @@ to everyone - everywhere!</td>
         <td> <a href="https://icodethis.com/">iCodeThis</a></td>
         <td>Daily projects you can build to improve your coding skills!</td>
       </tr>
+        <tr>
+        <td> <a href="https://www.sololearn.com/">Sololearn</a></td>
+        <td>MCQ and complete code question to improve coding skills!</td>
+      </tr>
   </table>
