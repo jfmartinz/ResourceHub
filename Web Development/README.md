@@ -63,6 +63,14 @@ This category is a curated collection of valuable web development resources cont
             <td><a href="https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA">Complete MongoDB Tutorial </td>
 <td>A playlist for learning MongoDB from beginning to advance! </td>
       </tr>
+      <tr>
+            <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way </td>
+<td>  In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective of course. Many important topic like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
+      </tr>
+      <tr>
+            <td><a href="https://laracasts.com/path">Full Stack Developer on Laravel and Vue Js </td>
+<td> This is the path of becoming full stack developer on Laravel and Vuejs</td>
+      </tr>
   </table>
 
 ### Tools
