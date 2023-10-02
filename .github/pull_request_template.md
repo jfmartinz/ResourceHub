@@ -1,10 +1,13 @@
-**IMPORTANT:** Please follow these guidelines for your Pull Request title: `Category - Resource Name & Section`
+**IMPORTANT:** When creating your Pull Request, please use the following format for the title: `Category - Resource Name & Section`  <!--Change the PR Title not this -->
 
-<!-- Please note that this PR title template is intended specifically for adding a resource. 
-If you're not adding a resource, please create an appropriate title for your PR. -->
+<!-- Please note that this PR title format is designed exclusively for adding a resource. If your PR is not about adding a resource, please use an appropriate title for your changes. -->
 
-> - Replace Category with the relevant category, such as **Web Development** or **UI & UX Design**.<br>
-> - Replace Resource Name & Section with the specific name of the resource and its relevant section, for example, **CSS Portal & Tools**
+Please follow these steps to create the PR title correctly:
+
+> - Replace "Category" with the relevant category, such as **Web Development** or **UI & UX Design**.
+> - Replace "Resource Name & Section" with the specific name of the resource and the relevant section where it belongs. For instance, you could use something like **CSS Portal & Tools** or **Leetcode & Challenges**.
+
+<!--  By following these instructions, you will help maintain consistency and clarity in our repository. Thank you for your contribution! -->
 
 
 ### Fixes Issue
