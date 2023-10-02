@@ -60,8 +60,8 @@ This category is a curated collection of valuable web development resources cont
 <td>A one shot video focusing on making 4 node.js and express projects , great for beginners ! </td>
       </tr>
       <tr>
-            <td><a href="https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA">Complete MongoDB Tutorial </td>
-<td>A playlist for learning MongoDB from beginning to advance! </td>
+       <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
+       <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and Handlebars</td>
       </tr>
       <tr>
             <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way </td>
@@ -96,6 +96,7 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://overapi.com/">Over API</a></td>
         <td>overapi. com is a site collecting all the cheatsheets,all! Computers Electronics and Technology-> Programming and Developer Software.</td>
       </tr>
+
   </table>
 
 ### Books
@@ -124,6 +125,7 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <td><!-- book description --></td>
         <td><!-- free or paid? --></td>
       </tr>
+
   </table>
 
 ### Communities
