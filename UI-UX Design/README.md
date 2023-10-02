@@ -107,7 +107,7 @@ master the latest trends, tools, and technologies, and make it easy to get and r
 master the latest trends, tools, and technologies, and make it easy to get and retain high-value dream clients. </td>
       </tr>
       <tr>
-        <td> <a href="https://github.com/Sugamgoel28/ResourceHub.git">Figma</a></td>
+        <td> <a href="https://www.youtube.com/@Figma/featured">Figma</a></td>
         <td>Official youtube channel of Figma. It is for people to create, share, and test designs for websites, mobile apps, and other digital products and experiences.
 </td>
       </tr>
