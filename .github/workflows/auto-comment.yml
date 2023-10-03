@@ -1,16 +1,26 @@
 name: Auto Comment
 on: 
   issues:
+    types:
+      - opened
   pull_request:
+    types:
+      - opened
+      - closed
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - uses: wow-actions/auto-comment@v1
+      - name : Auto comment on Issues opened
+        uses: wow-actions/auto-comment@v1
         with:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
           issuesOpened: |
             Thank you @{{ author }} for bringing up this issue to help enhance our project even further! I'll review it sooner. 🙌❤️
-
-          pullRequestOpened: |
-            Thank you for raising your pull request @{{ author }}. I'll will review it as soon as possible 🙌❤️
+            
+      - name: Auto comment on PR merged
+        uses: wow-actions/auto-comment@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          pullRequestMerged: |
+            Congratulations @${author}! 🎉 Your pull request has been merged. Thanks for your valuable contribution! 🙌
