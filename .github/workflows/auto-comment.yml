@@ -1,0 +1,16 @@
+name: Auto Comment
+on: 
+  issues:
+  pull_request:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wow-actions/auto-comment@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          issuesOpened: |
+            Thank you @{{ author }} for bringing up this issue to help enhance our project even further! I'll review it sooner. 🙌❤️
+
+          pullRequestOpened: |
+            Thank you for raising your pull request @{{ author }}. I'll will review it as soon as possible 🙌❤️
