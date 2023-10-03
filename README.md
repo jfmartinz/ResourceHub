@@ -123,11 +123,17 @@ Please consider sharing this repository with other developers to help us expand 
 
 ResourceHub is licensed under the MIT License - see the [LICENSE](https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE) file for details.
 
+> Show some ❤️ by giving this repository a ⭐️ <br><br>
 
-Show some ❤️ by giving this repository a ⭐️
-
-## Our Contributors:
-
+<div align="center">
+  
+ ##### We extend our heartfelt gratitude to our invaluable contributors! ❤️
+ 
 <a href="https://github.com/jfmartinz/ResourceHub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jfmartinz/ResourceHub" />
 </a>
+
+</div>
+
+
+
