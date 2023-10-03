@@ -122,8 +122,7 @@ Please consider sharing this repository with other developers to help us expand 
 ## License 🛡️
 
 ResourceHub is licensed under the MIT License - see the [LICENSE](https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE) file for details.
-
-> Show some ❤️ by giving this repository a ⭐️ <br><br>
+ <br><br>
 
 <div align="center">
   
@@ -133,6 +132,7 @@ ResourceHub is licensed under the MIT License - see the [LICENSE](https://github
   <img src="https://contrib.rocks/image?repo=jfmartinz/ResourceHub" />
 </a>
 
+###### Show some ❤️ by giving this repository a ⭐️
 </div>
 
 
