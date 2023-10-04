@@ -269,12 +269,7 @@ to everyone - everywhere!</td>
        <tr>
         <td> <a href="https://robocode.sourceforge.io/">Robocode</a></td>
         <td>If you’ve ever watched the show BattleBots, then Robocode(opens in a new tab) is for you. You’ll learn programming skills by building virtual robot battle tanks in Java or .NET. Battles are then played out onscreen in real time. </td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.codewars.com/">Code Wars</a></td>
-        <td>Code Wars(opens in a new tab) helps you improve your skills by training in challenges with others. They offer a huge variety of programming languages, including JavaScript, Swift, PHP, Python, Ruby, and Haskell. </td>
-      </tr>
-      
+      </tr>      
   </table>
 
 ### Challenges
@@ -295,5 +290,9 @@ to everyone - everywhere!</td>
       <tr>
         <td> <a href="https://icodethis.com/">iCodeThis</a></td>
         <td>Daily projects you can build to improve your coding skills!</td>
+      </tr>
+        <tr>
+        <td> <a href="https://www.codewars.com/">Code Wars</a></td>
+        <td>Code Wars(opens in a new tab) helps you improve your skills by training in challenges with others. They offer a huge variety of programming languages, including JavaScript, Swift, PHP, Python, Ruby, and Haskell. </td>
       </tr>
   </table>
