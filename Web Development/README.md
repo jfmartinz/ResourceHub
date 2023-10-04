@@ -254,6 +254,10 @@ to everyone - everywhere!</td>
         <td><a href="https://youtube.com/@DaveGrayTeachesCode?si=Bl2__Brt_ieGvebg">Dave Gray</a></td>
         <td>Dave Gray is an online learning platform that offers videos for web development, from basic HTML, CSS and Javascript to complete MERN stack. Truly a one stop solution for aspiring Web Developers</td>
       </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/@CodeWithHarry">CodeWithHarry</a></td>
+        <td>CodeWithHarry is an online learning platform that offers courses in Hindi on a variety of programming languages and technologies, including Web Development, Python, Django, JavaScript, SQL, and more. Notes and related PDFs are also provided for all courses on the channel.</td>
+      </tr>
   </table>
 
 ### Games
