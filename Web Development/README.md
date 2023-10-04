@@ -287,8 +287,12 @@ to everyone - everywhere!</td>
         <td> <a href="https://robocode.sourceforge.io/">Robocode</a></td>
         <td>If you’ve ever watched the show BattleBots, then Robocode(opens in a new tab) is for you. You’ll learn programming skills by building virtual robot battle tanks in Java or .NET. Battles are then played out onscreen in real time. </td>
       </tr>      
+  <tr>
+   <td><a href="https://flukeout.github.io/">CSS Diner</a></td>
+   <td>The CSS Diner webapp is really fun and genuinely educational for developers of all skill levels. You’ll go through 26 different levels of increasing difficulty. The first few levels teach core fundamentals like element selectors and class selectors. In the later levels you’re working with advanced concepts like :only-of-type and :not(x).</td>
+</tr>
   </table>
-
+  
 ### Challenges
 
   <table width="100%">
