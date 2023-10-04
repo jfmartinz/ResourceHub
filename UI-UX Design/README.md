@@ -47,7 +47,7 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
 
 ### Books
 
-<!--  
+<!--
 a) If the book is free, include a download link.
 b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. -->
 <table width="100%">
@@ -91,24 +91,25 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
       <tr>
         <td> <a href="https://www.youtube.com/@envatotuts">Envato Tuts+ </a></td>
         <td>Learn creative skills with Envato Tuts+! Part of the Envato family.
-
-Subscribe and learn how to design a website, edit in Photoshop, make an app in Figma, create outstanding presentations, record videos, illustrate with Procreate, build amazing motion graphics, and so much more. </td>
-</tr>
-<tr>
-<td> <a href="https://www.youtube.com/@FluxAcademy">Flux Academy</a></td>
-<td>Learn to be a more successful and profitable web designer:
-master the latest trends, tools, and technologies, and make it easy to get and retain high-value dream clients. </td>
-</tr>
-<tr>
-<td> <a href="https://www.youtube.com/@rachelhow">Rachel How</a></td>
-<td>UI/UX design & income diversification, simplified✨
-
-</td>
-master the latest trends, tools, and technologies, and make it easy to get and retain high-value dream clients. </td>
+        <p>Subscribe and learn how to design a website, edit in Photoshop, make an app in Figma, create outstanding presentations, record videos, illustrate with Procreate, build amazing motion graphics, and so much more.</p>
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/@FluxAcademy">Flux Academy</a></td>
+        <td>Learn to be a more successful and profitable web designer:master the latest trends, tools, and technologies, and make it easy to get and retain high-value dream clients.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/@rachelhow">Rachel How</a></td>
+        <td>UI/UX design & income diversification, simplified✨ master the latest trends, tools, and technologies, and make it easy to get and retain high-value dream clients. </td>
       </tr>
       <tr>
         <td> <a href="https://www.youtube.com/@Figma/featured">Figma</a></td>
         <td>Official youtube channel of Figma. It is for people to create, share, and test designs for websites, mobile apps, and other digital products and experiences.
-</td>
+        </td>
       </tr>
-  </table>
+      <tr>
+        <td><a href="https://www.youtube.com/@freecodecamp">FreeCodeCamp</a></td>
+        <td>"FreeCodeCamp's YouTube channel is a treasure trove for UI and UX enthusiasts! 🎨💡 From design principles to hands-on tutorials, it's a valuable resource for honing your skills and staying updated in the ever-evolving world of user interface and experience design. 🚀✨</td>
+      </tr>
+</table>
