@@ -75,6 +75,10 @@ This category is a curated collection of valuable web development resources cont
             <td><a href="https://youtube.com/playlist?list=PL4-IK0AVhVjP27yZLwW-gkPggRps0CCnP&si=NRNmXP9MXHrzjUS4">HTML and CSS Core Concepts by Kevin Powell</td>
 <td> This playlist teaches us to learn the core concepts of HTML and CSS that are fundamental for every web developer.</td>
       </tr>
+      <tr>
+        <td> <a href="https://www.sololearn.com/">Sololearn</a></td>
+        <td>MCQ and complete code question to improve coding skills!</td>
+      </tr>           
   </table>
 
 ### Tools
@@ -291,9 +295,5 @@ to everyone - everywhere!</td>
       <tr>
         <td> <a href="https://icodethis.com/">iCodeThis</a></td>
         <td>Daily projects you can build to improve your coding skills!</td>
-      </tr>
-        <tr>
-        <td> <a href="https://www.sololearn.com/">Sololearn</a></td>
-        <td>MCQ and complete code question to improve coding skills!</td>
       </tr>
   </table>
