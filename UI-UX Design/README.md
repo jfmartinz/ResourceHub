@@ -24,8 +24,15 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
         <td> <a href="https://www.youtube.com/watch?v=B-ytMSuwbf8">Web Design for Beginners | FREE COURSE</a></td>
         <td>this course on web design for beginners will teach you everything you need to know about web design. 5hours duration</td>
       </tr>
+      <tr>
         <td> <a href="https://www.coursera.org/professional-certificates/google-ux-design">Google UX Design Professional Certificate</a></td>
         <td>This course is a six-month online program that teaches you the skills you need to become a UX designer.</td>
+      </tr>
+      <tr>
+         <td><a href="https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI"> Web Design 101: Free Full Course</a></td>   
+         <td>In Flux we've decided to teach Web Design for free to those who are using quarantine to make a change in their lives, to those who can't afford a web design course right now or to those that simply want to learn a new skill.
+</td>   
+      </tr>
   </table>
 
 ### Tools
