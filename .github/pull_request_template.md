@@ -5,7 +5,7 @@
 Please follow these steps to create the PR title correctly:
 
 > - Replace "Category" with the relevant category, such as **Web Development** or **UI & UX Design**.
-> - Replace "Resource Name & Section" with the specific name of the resource and the relevant section where it belongs. For instance, you could use something like **CSS Portal & Tools** or **Leetcode & Challenges**.
+> - Replace "Resource Name & Section" with the specific name of the resource and the relevant section where it belongs. For instance, you could use something like **Web development - CSS Portal & Tools** or **Web development - Leetcode & Challenges**.
 
 <!--  By following these instructions, you will help maintain consistency and clarity in our repository. Thank you for your contribution! -->
 
