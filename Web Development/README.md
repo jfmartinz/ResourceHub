@@ -105,8 +105,25 @@ This category is a curated collection of valuable web development resources cont
         <td>overapi. com is a site collecting all the cheatsheets,all! Computers Electronics and Technology-> Programming and Developer Software.</td>
       </tr>
       <tr>
-        <td> <a href="hhttps://codepen.io/">Code Pen</a></td>
+        <td><a href="https://codepen.io/">Code Pen</a></td>
         <td>CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.</td>
+      </tr>
+      <tr>
+            <td> <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius Generator</a></td>
+            <td>A visual generator to build organic looking shapes with the help of CSS3 border-radius property.</td>
+      </tr>
+      <tr>
+            <td> <a href="https://markodenic.com/tools/glassmorphism-css-generator/">Glassmorphism CSS Generator</a></td>
+            <td>Glassmorphism CSS Generator</td>
+      </tr>
+      <tr>
+            <td> <a href="https://neumorphism.io/#e0e0e0">Neumorphism.io</a></td>
+            <td>CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.</td>
+      </tr>
+      <tr>
+            <td> <a href="https://palettemaker.com/">Palettemaker</a></td>
+            <td>Create unique color schemes with AI and see them
+come to life on real design examples</td>
       </tr>
 
   </table>
