@@ -14,13 +14,13 @@ jobs:
       - name : Auto comment on Issues opened
         uses: wow-actions/auto-comment@v1
         with:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.AUTO_COMMENT }}
           issuesOpened: |
             Thank you @{{ author }} for bringing up this issue to help enhance our project even further! I'll review it sooner. 🙌❤️
             
       - name: Auto comment on PR merged
         uses: wow-actions/auto-comment@v1
         with:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.AUTO_COMMENT }}
           pullRequestMerged: |
             Congratulations @{{ author }}! 🎉 Your pull request has been merged. Thanks for your valuable contribution! 🙌
