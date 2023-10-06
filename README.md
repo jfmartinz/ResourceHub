@@ -1,4 +1,4 @@
-# ResourceHub  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 
 ![ResourceHub Banner](images/ResourceHub-Banner.png)
@@ -6,6 +6,7 @@
 <div align="center">
   
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
 [![First Contributors](https://img.shields.io/badge/first-contributors-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
 [![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-0b7cbd)](https://github.com/nikohoffren/fork-commit-merge/pulls)
