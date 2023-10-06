@@ -18,7 +18,7 @@ jobs:
           issuesOpened: |
             Thank you @{{ author }}, for raising this issue! <br>
             
-            Your input is valuable in improving our project. <br>
+            Your input is valuable in improving our project.
             Please ensure you provide more context about the issue. We'll review it soon <br>
             
             Thanks for your contribution! 😊
@@ -30,7 +30,7 @@ jobs:
           pullRequestOpened: |
             Hello 👋 @{{ author }}, I hope you're doing well! <br>
 
-            Thank you for raising your pull request and contributing to ResourceHub 🎉. <br>
+            Thank you for raising your pull request and contributing to ResourceHub 🎉.
             Please ensure that you've followed our contributing guidelines and the PR template. We'll review it soon
 
             
