@@ -254,11 +254,15 @@ to everyone - everywhere!</td>
         <td><a href="https://youtube.com/@DaveGrayTeachesCode?si=Bl2__Brt_ieGvebg">Dave Gray</a></td>
         <td>Dave Gray is an online learning platform that offers videos for web development, from basic HTML, CSS and Javascript to complete MERN stack. Truly a one stop solution for aspiring Web Developers</td>
       </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/@CodeWithHarry">CodeWithHarry</a></td>
+        <td>CodeWithHarry is an online learning platform that offers courses in Hindi on a variety of programming languages and technologies, including Web Development, Python, Django, JavaScript, SQL, and more. Notes and related PDFs are also provided for all courses on the channel.</td>
+      </tr>
   </table>
 
 ### Games
 
-<table width="100%">
+  <table width="100%">
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
@@ -282,7 +286,6 @@ to everyone - everywhere!</td>
   </tr>
 </table>
 
-
 ### Challenges
 
   <table width="100%">
@@ -290,6 +293,22 @@ to everyone - everywhere!</td>
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+  <tr>
+    <td>CSS Diner</td>
+    <td>A fun interactive game that helps you learn CSS selectors and how they target HTML elements.</td>
+    <td><a href="https://flukeout.github.io/">CSS Diner</a></td>
+  </tr>
+  <tr>
+    <td>Screeps</td>
+    <td>An MMO strategy game for programmers, where you program your units (in JavaScript) to conquer territory.</td>
+    <td><a href="https://screeps.com/">Screeps</a></td>
+  </tr>
+  
+  <tr>
+    <td>CheckIO</td>
+    <td>CheckIO offers gamified programming challenges where you can solve problems in Python and other languages.</td>
+    <td><a href="https://checkio.org/">CheckIO</a></td>
+  </tr>
       <tr>
         <td> <a href="https://cssbattle.dev/">CSS Battle</a></td>
         <td>The funnest multiplayer game with 300K+ web designers & developers. Replicate the target images using CSS - the shorter your code, the higher your score! Happy coding!</td>

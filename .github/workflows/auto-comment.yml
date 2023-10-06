@@ -16,11 +16,29 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.AUTO_COMMENT }}
           issuesOpened: |
-            Thank you @{{ author }} for bringing up this issue to help enhance our project even further! I'll review it sooner. 🙌❤️
+            Thank you @{{ author }}, for raising this issue! <br>
+            
+            Your input is valuable in improving our project.
+            Please ensure you provide more context about the issue. We'll review it soon <br>
+            
+            Thanks for your contribution! 😊
+
+      - name: Auto Comment on Pull Request Opened
+        uses: wow-actions/auto-comment@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.AUTO_COMMENT }}
+          pullRequestOpened: |
+            Hello 👋 @{{ author }}, I hope you're doing well! <br>
+
+            Thank you for raising your pull request and contributing to ResourceHub 🎉.
+            Please ensure that you've followed our contributing guidelines and the PR template. We'll review it soon
+
             
       - name: Auto comment on PR merged
         uses: wow-actions/auto-comment@v1
         with:
           GITHUB_TOKEN: ${{ secrets.AUTO_COMMENT }}
           pullRequestMerged: |
-            Congratulations @{{ author }}! 🎉 Your pull request has been merged. Thanks for your valuable contribution! 🙌
+            Congratulations @{{ author }}! 🎉 Your pull request has been merged. <br> 
+            
+            Thanks for your contribution! 😊
