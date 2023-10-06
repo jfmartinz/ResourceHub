@@ -26,7 +26,7 @@ jobs:
       - name: Auto Comment on Pull Request Opened
         uses: wow-actions/auto-comment@v1
         with:
-          GITHUB_TOKEN: ${{ secrets.AUTO_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.AUTO_COMMENT }}
           pullRequestOpened: |
             Hello 👋 @{{ author }}, I hope you're doing well! <br>
 
