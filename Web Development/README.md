@@ -274,45 +274,11 @@ to everyone - everywhere!</td>
     <td>An MMO strategy game for programmers, where you program your units (in JavaScript) to conquer territory.</td>
     <td><a href="https://screeps.com/">Screeps</a></td>
   </tr>
-  <tr>
-    <td>HackerRank</td>
-    <td>HackerRank offers a variety of coding challenges and contests to improve your programming skills in multiple languages.</td>
-    <td><a href="https://www.hackerrank.com/">HackerRank</a></td>
-  </tr>
-  <tr>
-    <td>Exercism</td>
-    <td>Exercism provides exercises in various programming languages, along with mentor feedback to help you improve your coding skills.</td>
-    <td><a href="https://exercism.io/">Exercism</a></td>
-  </tr>
+  
   <tr>
     <td>CheckIO</td>
     <td>CheckIO offers gamified programming challenges where you can solve problems in Python and other languages.</td>
     <td><a href="https://checkio.org/">CheckIO</a></td>
-  </tr>
-  <tr>
-    <td>Project Euler</td>
-    <td>Project Euler provides mathematical and computational problems that can be solved using programming.</td>
-    <td><a href="https://projecteuler.net/">Project Euler</a></td>
-  </tr>
-  <tr>
-    <td>LeetCode</td>
-    <td>LeetCode is a platform that provides coding challenges to enhance your skills in algorithms and data structures.</td>
-    <td><a href="https://leetcode.com/">LeetCode</a></td>
-  </tr>
-  <tr>
-    <td>Topcoder</td>
-    <td>Topcoder is a competitive programming platform that hosts coding competitions and challenges.</td>
-    <td><a href="https://www.topcoder.com/">Topcoder</a></td>
-  </tr>
-  <tr>
-    <td>Kaggle</td>
-    <td>Kaggle is a platform for data science enthusiasts where you can participate in machine learning competitions and challenges.</td>
-    <td><a href="https://www.kaggle.com/">Kaggle</a></td>
-  </tr>
-  <tr>
-    <td>Advent of Code</td>
-    <td>An Advent calendar of small programming puzzles that can be solved using any programming language.</td>
-    <td><a href="https://adventofcode.com/">Advent of Code</a></td>
   </tr>
 </table>
 
@@ -336,6 +302,41 @@ to everyone - everywhere!</td>
         <td> <a href="https://icodethis.com/">iCodeThis</a></td>
         <td>Daily projects you can build to improve your coding skills!</td>
       </tr>
+        <tr>
+    <td>HackerRank</td>
+    <td>HackerRank offers a variety of coding challenges and contests to improve your programming skills in multiple languages.</td>
+    <td><a href="https://www.hackerrank.com/">HackerRank</a></td>
+  </tr>
+  <tr>
+    <td>Exercism</td>
+    <td>Exercism provides exercises in various programming languages, along with mentor feedback to help you improve your coding skills.</td>
+    <td><a href="https://exercism.io/">Exercism</a></td>
+  </tr>
+         <tr>
+    <td>Project Euler</td>
+    <td>Project Euler provides mathematical and computational problems that can be solved using programming.</td>
+    <td><a href="https://projecteuler.net/">Project Euler</a></td>
+  </tr>
+  <tr>
+    <td>LeetCode</td>
+    <td>LeetCode is a platform that provides coding challenges to enhance your skills in algorithms and data structures.</td>
+    <td><a href="https://leetcode.com/">LeetCode</a></td>
+  </tr>
+        <tr>
+    <td>Topcoder</td>
+    <td>Topcoder is a competitive programming platform that hosts coding competitions and challenges.</td>
+    <td><a href="https://www.topcoder.com/">Topcoder</a></td>
+  </tr>
+  <tr>
+    <td>Kaggle</td>
+    <td>Kaggle is a platform for data science enthusiasts where you can participate in machine learning competitions and challenges.</td>
+    <td><a href="https://www.kaggle.com/">Kaggle</a></td>
+  </tr>
+  <tr>
+    <td>Advent of Code</td>
+    <td>An Advent calendar of small programming puzzles that can be solved using any programming language.</td>
+    <td><a href="https://adventofcode.com/">Advent of Code</a></td>
+  </tr>
         <tr>
         <td> <a href="https://www.codewars.com/">Code Wars</a></td>
         <td>Code Wars(opens in a new tab) helps you improve your skills by training in challenges with others. They offer a huge variety of programming languages, including JavaScript, Swift, PHP, Python, Ruby, and Haskell. </td>
