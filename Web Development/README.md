@@ -262,41 +262,30 @@ to everyone - everywhere!</td>
 
 ### Games
 
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td> <a href="http://www.flexboxdefense.com/">Flexbox Defense</a></td>
-        <td>Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!</td>
-      </tr>
-      <tr>
-        <td> <a href="https://flexboxfroggy.com/">Flexbox Froggy</a></td>
-        <td>Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code!</td>
-      </tr>
-      <tr>
-        <td> <a href="https://cssgridgarden.com/">Grid Garden</a></td>
-        <td>Welcome to Grid Garden, where you write CSS code to grow your carrot garden! Water only the areas that have carrots by using the grid-column-start property. </td>
-      </tr>
-       <tr>
-        <td> <a href="https://www.codemonkey.com/">Code Monkey</a></td>
-        <td>CodeMonkey(opens in a new tab) teaches coding using CoffeeScript — a real open-source programming language that compiles to JavaScript — to teach you to build your own games in HTML5. It’s aimed at coding for kids, but it’s definitely fun for adults, too.  </td>
-      </tr>
-       <tr>
-        <td> <a href="https://www.codingame.com/start/">CodinGame</a></td>
-        <td>CodinGame(opens in a new tab) offers up fun free open-source programming games to help coders learn more than 25 programming languages, including JavaScript, Ruby, and PHP.  </td>
-      </tr>
-       <tr>
-        <td> <a href="https://robocode.sourceforge.io/">Robocode</a></td>
-        <td>If you’ve ever watched the show BattleBots, then Robocode(opens in a new tab) is for you. You’ll learn programming skills by building virtual robot battle tanks in Java or .NET. Battles are then played out onscreen in real time. </td>
-      </tr>      
+  <table width="100%">
   <tr>
-   <td><a href="https://flukeout.github.io/">CSS Diner</a></td>
-   <td>The CSS Diner webapp is really fun and genuinely educational for developers of all skill levels. You’ll go through 26 different levels of increasing difficulty. The first few levels teach core fundamentals like element selectors and class selectors. In the later levels you’re working with advanced concepts like :only-of-type and :not(x).</td>
-</tr>
-  </table>
+    <th>Resource Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>CSS Diner</td>
+    <td>A fun interactive game that helps you learn CSS selectors and how they target HTML elements.</td>
+    <td><a href="https://flukeout.github.io/">CSS Diner</a></td>
+  </tr>
+  <tr>
+    <td>Screeps</td>
+    <td>An MMO strategy game for programmers, where you program your units (in JavaScript) to conquer territory.</td>
+    <td><a href="https://screeps.com/">Screeps</a></td>
+  </tr>
   
+  <tr>
+    <td>CheckIO</td>
+    <td>CheckIO offers gamified programming challenges where you can solve problems in Python and other languages.</td>
+    <td><a href="https://checkio.org/">CheckIO</a></td>
+  </tr>
+</table>
+
 ### Challenges
 
   <table width="100%">
@@ -304,6 +293,22 @@ to everyone - everywhere!</td>
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+  <tr>
+    <td>CSS Diner</td>
+    <td>A fun interactive game that helps you learn CSS selectors and how they target HTML elements.</td>
+    <td><a href="https://flukeout.github.io/">CSS Diner</a></td>
+  </tr>
+  <tr>
+    <td>Screeps</td>
+    <td>An MMO strategy game for programmers, where you program your units (in JavaScript) to conquer territory.</td>
+    <td><a href="https://screeps.com/">Screeps</a></td>
+  </tr>
+  
+  <tr>
+    <td>CheckIO</td>
+    <td>CheckIO offers gamified programming challenges where you can solve problems in Python and other languages.</td>
+    <td><a href="https://checkio.org/">CheckIO</a></td>
+  </tr>
       <tr>
         <td> <a href="https://cssbattle.dev/">CSS Battle</a></td>
         <td>The funnest multiplayer game with 300K+ web designers & developers. Replicate the target images using CSS - the shorter your code, the higher your score! Happy coding!</td>
@@ -316,6 +321,41 @@ to everyone - everywhere!</td>
         <td> <a href="https://icodethis.com/">iCodeThis</a></td>
         <td>Daily projects you can build to improve your coding skills!</td>
       </tr>
+        <tr>
+    <td>HackerRank</td>
+    <td>HackerRank offers a variety of coding challenges and contests to improve your programming skills in multiple languages.</td>
+    <td><a href="https://www.hackerrank.com/">HackerRank</a></td>
+  </tr>
+  <tr>
+    <td>Exercism</td>
+    <td>Exercism provides exercises in various programming languages, along with mentor feedback to help you improve your coding skills.</td>
+    <td><a href="https://exercism.io/">Exercism</a></td>
+  </tr>
+         <tr>
+    <td>Project Euler</td>
+    <td>Project Euler provides mathematical and computational problems that can be solved using programming.</td>
+    <td><a href="https://projecteuler.net/">Project Euler</a></td>
+  </tr>
+  <tr>
+    <td>LeetCode</td>
+    <td>LeetCode is a platform that provides coding challenges to enhance your skills in algorithms and data structures.</td>
+    <td><a href="https://leetcode.com/">LeetCode</a></td>
+  </tr>
+        <tr>
+    <td>Topcoder</td>
+    <td>Topcoder is a competitive programming platform that hosts coding competitions and challenges.</td>
+    <td><a href="https://www.topcoder.com/">Topcoder</a></td>
+  </tr>
+  <tr>
+    <td>Kaggle</td>
+    <td>Kaggle is a platform for data science enthusiasts where you can participate in machine learning competitions and challenges.</td>
+    <td><a href="https://www.kaggle.com/">Kaggle</a></td>
+  </tr>
+  <tr>
+    <td>Advent of Code</td>
+    <td>An Advent calendar of small programming puzzles that can be solved using any programming language.</td>
+    <td><a href="https://adventofcode.com/">Advent of Code</a></td>
+  </tr>
         <tr>
         <td> <a href="https://www.codewars.com/">Code Wars</a></td>
         <td>Code Wars(opens in a new tab) helps you improve your skills by training in challenges with others. They offer a huge variety of programming languages, including JavaScript, Swift, PHP, Python, Ruby, and Haskell. </td>
