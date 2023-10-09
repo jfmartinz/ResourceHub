@@ -83,50 +83,70 @@ This category is a curated collection of valuable web development resources cont
 
 ### Tools
 
-  <table width="100%">
-      <tr>
+<table width="100%">
+    <tr>
         <th>Resource Name</th>
         <th>Description</th>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <td> <a href="https://animista.net/play/basic/slide-bck">Animista</a></td>
         <td>Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations.</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <td> <a href="https://www.cssportal.com/css-flexbox-generator/">CSS Portal</a></td>
         <td>CSS Portal is home to many examples of CSS / HTML and how it can be used in website design.</td>
-      </tr>
-         <tr>
+    </tr>
+    <tr>
         <td> <a href="https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi">Pesticide for Chrome</a></td>
         <td>This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <td> <a href="https://overapi.com/">Over API</a></td>
         <td>overapi. com is a site collecting all the cheatsheets,all! Computers Electronics and Technology-> Programming and Developer Software.</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <td><a href="https://codepen.io/">Code Pen</a></td>
         <td>CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.</td>
-      </tr>
-      <tr>
-            <td> <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius Generator</a></td>
-            <td>A visual generator to build organic looking shapes with the help of CSS3 border-radius property.</td>
-      </tr>
-      <tr>
-            <td> <a href="https://markodenic.com/tools/glassmorphism-css-generator/">Glassmorphism CSS Generator</a></td>
-            <td>Glassmorphism CSS Generator</td>
-      </tr>
-      <tr>
-            <td> <a href="https://neumorphism.io/#e0e0e0">Neumorphism.io</a></td>
-            <td>CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.</td>
-      </tr>
-      <tr>
-            <td> <a href="https://palettemaker.com/">Palettemaker</a></td>
-            <td>Create unique color schemes with AI and see them
-come to life on real design examples</td>
-      </tr>
+    </tr>
+    <tr>
+        <td> <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius Generator</a></td>
+        <td>A visual generator to build organic looking shapes with the help of CSS3 border-radius property.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://markodenic.com/tools/glassmorphism-css-generator/">Glassmorphism CSS Generator</a></td>
+        <td>Glassmorphism CSS Generator</td>
+    </tr>
+    <tr>
+        <td> <a href="https://neumorphism.io/#e0e0e0">Neumorphism.io</a></td>
+        <td>CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its possibilities.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://palettemaker.com/">Palettemaker</a></td>
+        <td>Create unique color schemes with AI and see them come to life on real design examples.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.svgviewer.dev/">SVG Viewer</a></td>
+        <td>SVG Viewer allows you to view and inspect SVG files in a user-friendly interface, making SVG debugging and optimization easier.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://cssgradient.io/">CSS Gradient</a></td>
+        <td>CSS Gradient is a tool that helps you create beautiful CSS gradients for your web projects with a simple and intuitive interface.</td>
+    </tr>
+    <!-- New resources -->
+    <tr>
+        <td> <a href="https://www.heropatterns.com/">Hero Patterns</a></td>
+        <td>Hero Patterns is a collection of repeatable SVG background patterns for you to use in your web projects.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.svgbackgrounds.com/">SVG Backgrounds</a></td>
+        <td>SVG Backgrounds offers a vast library of customizable SVG backgrounds for your web designs, providing a modern and visually appealing touch.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></td>
+        <td>This guide by CSS-Tricks provides a comprehensive and easy-to-understand explanation of Flexbox, a powerful layout tool in CSS.</td>
+    </tr>
+</table>
 
-  </table>
 
 ### Books
 
