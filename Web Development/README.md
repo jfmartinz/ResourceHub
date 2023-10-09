@@ -78,7 +78,11 @@ This category is a curated collection of valuable web development resources cont
       <tr>
         <td> <a href="https://www.sololearn.com/">Sololearn</a></td>
         <td>MCQ and complete code question to improve coding skills!</td>
-      </tr>           
+      </tr>
+         <tr>
+        <td> <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></td>
+        <td>This guide by CSS-Tricks provides a comprehensive and easy-to-understand explanation of Flexbox, a powerful layout tool in CSS.</td>
+    </tr>
   </table>
 
 ### Tools
@@ -140,10 +144,6 @@ This category is a curated collection of valuable web development resources cont
     <tr>
         <td> <a href="https://www.svgbackgrounds.com/">SVG Backgrounds</a></td>
         <td>SVG Backgrounds offers a vast library of customizable SVG backgrounds for your web designs, providing a modern and visually appealing touch.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></td>
-        <td>This guide by CSS-Tricks provides a comprehensive and easy-to-understand explanation of Flexbox, a powerful layout tool in CSS.</td>
     </tr>
 </table>
 
