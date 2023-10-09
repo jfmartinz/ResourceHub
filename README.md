@@ -116,25 +116,25 @@ Now submit the pull request.
 
 ---
 
-Congratulations 🎉  on successfully submitting your pull request (PR) to our project! We want to express our gratitude for your valuable contribution. Your effort not only benefits our project but also help the entire community by adding resources you discovered on the internet.
+Congratulations 🎉  on successfully submitting your pull request (PR) to our project! We want to express our gratitude for your valuable contribution. Your effort not only benefits our project but also help the entire community! ❤️
 
-Please consider sharing this repository with other developers to help us expand our community
+Please consider sharing this repository with other developers to help increase its visibility and reach. 👍
 
-## License 🛡️
 
-ResourceHub is licensed under the MIT License - see the [LICENSE](https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE) file for details.
- <br><br>
 
-<div align="center">
   
- ##### We extend our heartfelt gratitude to our invaluable contributors! ❤️
+ ### Our ontributors 🤝
  
 <a href="https://github.com/jfmartinz/ResourceHub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jfmartinz/ResourceHub" />
 </a>
 
+
+
+
+## License 🛡️
+
+ResourceHub is licensed under the MIT License - see the [LICENSE](https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE) file for details.
+<br>
+
 ###### Show some ❤️ by giving this repository a ⭐️
-</div>
-
-
-
