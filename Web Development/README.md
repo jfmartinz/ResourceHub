@@ -295,6 +295,10 @@ to everyone - everywhere!</td>
    <td><a href="https://flukeout.github.io/">CSS Diner</a></td>
    <td>The CSS Diner webapp is really fun and genuinely educational for developers of all skill levels. You’ll go through 26 different levels of increasing difficulty. The first few levels teach core fundamentals like element selectors and class selectors. In the later levels you’re working with advanced concepts like :only-of-type and :not(x).</td>
 </tr>
+<tr>
+   <td><a href="https://www.codepip.com/">Code Pip</a></td>
+   <td>Codepip is the platform for your favorite web development games. Gain an edge in your next interview or project.Create a free account to enjoy the features.</td>
+</tr>
   </table>
   
 ### Challenges
