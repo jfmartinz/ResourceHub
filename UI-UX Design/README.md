@@ -50,6 +50,14 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
         <td> <a href="https://www.sketch.com/">Sketch</a></td>
         <td>Sketch is the all-in-one platform for digital design — with collaborative design tools, prototyping and developer handoff. </td>
       </tr>
+      <tr>
+        <td> <a href="https://www.adobe.com/">Adobe XD</a></td>
+        <td>Adobe XD is a comprehensive design and prototyping tool that allows you to create interactive prototypes, wireframes, and high-fidelity designs. It also integrates well with other Adobe Creative Cloud apps. </td>
+      </tr>
+      <tr>
+        <td> <a href="https://proto.io/">Proto.io</a></td>
+        <td>Proto.io is a web-based prototyping tool that allows you to create interactive and animated prototypes without any coding knowledge. </td>
+      </tr>
   </table>
 
 ### Books
