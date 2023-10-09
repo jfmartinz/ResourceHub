@@ -284,6 +284,11 @@ to everyone - everywhere!</td>
         <td><a href="https://www.youtube.com/@CodeWithHarry">CodeWithHarry</a></td>
         <td>CodeWithHarry is an online learning platform that offers courses in Hindi on a variety of programming languages and technologies, including Web Development, Python, Django, JavaScript, SQL, and more. Notes and related PDFs are also provided for all courses on the channel.</td>
       </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/@HiteshChoudharydotcom">Hitesh Choudhari</a></td>
+        <td>Hitesh Choudhari is a YouTube channel that offers various courses on programming languages. It is one of the best channel to learn web development at free of cost.
+        </td>
+      </tr>
   </table>
 
 ### Games
