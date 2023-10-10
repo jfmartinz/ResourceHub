@@ -33,6 +33,9 @@ Here are the currently available categories in the project.<br>
 ## Contributing
 Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) before contributing.
 
+Or you can watch this youtube video for better understanding
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmeCmKijpYM?si=WZ5vCC-XkMujnH8D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 1. Fork the Repository
 
 Click the "Fork" button at the top right of this repository to create your own copy.
