@@ -151,6 +151,18 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://www.svgbackgrounds.com/">SVG Backgrounds</a></td>
         <td>SVG Backgrounds offers a vast library of customizable SVG backgrounds for your web designs, providing a modern and visually appealing touch.</td>
     </tr>
+    <tr>
+        <td> <a href="https://markodenic.com/tools/buttons-generator/">Buttons Generator</a></td>
+        <td>CSS button generator is a free online tool you can use to create CSS button styles in one click.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://cssgrid-generator.netlify.app/">CSS Grid Generator</a></td>
+        <td>built with by sarah_edo. Columns. Rows. Column Gap (in px). Row Gap (in px). Please may I have some code. Reset grid.</td>
+    </tr>
+    <tr>
+        <td><a href="https://boxicons.com/">Boxicons</a></td>
+        <td>Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.</td>
+    </tr>
 </table>
 
 
