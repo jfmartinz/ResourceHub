@@ -37,13 +37,10 @@ Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRI
 
 Click the "Fork" button at the top right of this repository to create your own copy.
 
-<img src="images/fork.png" alt="Fork the repository"> <br>
-
 ### 2. Clone Your Fork
 
 Now clone the forked repository to your local machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
 
-<img src="images/clone.png" alt="Fork the repository" height="300px"> <br>
 
 Open a terminal and run the following git command:
 
@@ -56,8 +53,6 @@ For example:
 ```bash
 git clone https://github.com/jfmartinz/ResourceHub.git
 ```
-
-> Note: Get the HTTPS not the SSH
 
 ### 3. Create a branch
 
@@ -108,9 +103,6 @@ git push origin your-branch-name
 ### 5. Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
-![Compare & pull request](images/image.png)<br>
-
-![Open a Pull Request](images/pr.png)<br>
 
 Now submit the pull request.
 
