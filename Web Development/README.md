@@ -5,6 +5,7 @@
 - [Overview](#overview)<br>
 - [Tutorials or Courses](#tutorials-or-courses)<br>
 - [Tools](#tools)<br>
+- [UI Components](#ui-components)<br>
 - [Challenges](#challenges)<br>
 - [Books](#books)<br>
 - [Communities](#communities)<br>
@@ -165,6 +166,49 @@ This category is a curated collection of valuable web development resources cont
     </tr>
 </table>
 
+<!-- make an issue for implementing markdown formatter for the project  -->
+
+### UI Components
+> Explore a variety of UI components and ready-to-use code snippets to enhance your project.
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+      <td><a href="https://semantic-ui.com/">Semantic UI</td>
+      <td>Semantic UI is an open-source framework that uses CSS and jQuery to build great user interfaces. It is the same as a bootstrap for use and has great different elements to use to make your website looks more amazing. It uses a class to add CSS to the elements.</td>
+      </tr>
+      <tr>
+      <td><a href="https://uiverse.io/">Uiverse</td>
+      <td>Universe of UI; Hundreds of Open Source UI elements.</td>
+      </tr>
+      <tr>
+      <td><a href="https://ant.design/">Ant Design</td>
+      <td>An enterprise-class UI design language and React UI library with a set of high-quality React components, one of best React UI library for enterprises.</td>
+      </tr>
+      <tr>
+      <td><a href="https://mantine.dev/">Mantine</td>
+      <td>Build fully functional accessible web applications faster than ever – Mantine includes more than 100 customizable components and 50 hooks to cover you in any situation</td>
+      </tr>
+      <tr>
+      <td><a href="https://mui.com/">Material UI</td>
+      <td>MUI offers a comprehensive suite of free UI tools to help you ship new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
+  </td>
+      </tr>
+      <tr>
+      <td><a href="https://www.30secondsofcode.org/">30-seconds-of-code</td>
+      <td>Discover short code snippets for all your development needs.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.w3schools.com/howto/">W3Schools How To</td>
+      <td>Code snippets for HTML, CSS and JavaScript.</td>
+      </tr>
+      <tr>
+      <td><a href="https://element.eleme.io/#/en-US">Eleme.io</td>
+      <td>A Desktop UI Library. Element, a Vue 2.0 based component library for developers, designers and product managers</td>
+      </tr>
+</table>
 
 ### Books
 
