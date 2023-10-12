@@ -348,6 +348,11 @@ to everyone - everywhere!</td>
         <td>Hitesh Choudhari is a YouTube channel that offers various courses on programming languages. It is one of the best channel to learn web development at free of cost.
         </td>
       </tr>
+      <tr>
+        <td><a href="">https://www.youtube.com/watch?v=bMknfKXIFA8</a>FreeCodeCamp</td>
+        <td>React course for beginners. It simplifies and dymystifies react to any beginner who is willing and eager to learn.
+        </td>
+      </tr>
   </table>
 
 ### Games
