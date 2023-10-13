@@ -4,23 +4,23 @@
 
 - [Overview](#overview)<br>
 - [Tutorials or Courses](#tutorials-or-courses)
-  
+
   - [Front-End Development](#front-end-development)
   - [Back-End Development](#back-end-development)
   - [Full-Stack Development](#full-stack-development)
-  
+
 - [Tools](#tools)<br>
 - [UI Components](#ui-components)<br>
 - [Challenges](#challenges)<br>
 - [Books](#books)<br>
 - [Communities](#communities)
-  
+
   - [Reddit](#reddit)
   - [Discord](#discord)
   - [Websites](#website)
   - [Facebook Groups](#facebook-groups)
   - [Twitter Groups](#twitter-groups)
-  
+
 - [Youtube Channels](#youtube-channels)<br>
 - [Games](#games)<br>
 
@@ -179,9 +179,19 @@ This category is a curated collection of valuable web development resources cont
         <td><a href="https://boxicons.com/">Boxicons</a></td>
         <td>Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.</td>
     </tr>
+    <tr>
+      <td ><a href="https://www.fontpair.co/">Fontpair</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
+      <td>Visualize color palettes and fonts on a real website.</td>
+    </tr>
+    <tr>
+      <td><a href="https://haikei.app">Haikei</a></td>
+      <td>Generate unique SVG design assets.</td>
+    </tr>
 </table>
-
-
 
 ### UI Components
 
