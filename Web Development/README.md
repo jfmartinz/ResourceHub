@@ -3,7 +3,12 @@
 ## Table of Contents
 
 - [Overview](#overview)<br>
-- [Tutorials or Courses](#tutorials-or-courses)<br>
+- [Tutorials or Courses](#tutorials-or-courses)
+  
+  - [Front-End Development](#front-end-development)
+  - [Back-End Development](#back-end-development)
+  - [Full-Stack Development](#full-stack-development)
+  
 - [Tools](#tools)<br>
 - [UI Components](#ui-components)<br>
 - [Challenges](#challenges)<br>
