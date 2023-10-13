@@ -263,7 +263,7 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
 
 > Discover communities where you can learn and network while studying web development. These communities may include Discord servers, Reddit communities, Facebook groups, Twitter, and more.
 
-### Discord
+#### Discord
 <table width="100%">
       <tr>
         <th>Resource Name</th>
