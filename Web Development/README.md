@@ -276,7 +276,7 @@ other devs, ask questions, get help, and
 just have a good time</td>
       </tr>
       <tr>
-        <td> <a href="https://discord.gg/GxZK2Fnb">ASAP Frontend</a></td>
+        <td> <a href="https://discord.com/invite/BFuauYEQQY">ASAP Frontend</a></td>
         <td>Learn to Code and Become a Professional Software Engineer ASAP</td>
       </tr>
       <tr>
@@ -297,6 +297,10 @@ to everyone - everywhere!</td>
 #### Reddit
 <table width="100%">
       <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
         <td> <a href="https://www.reddit.com/r/Frontend/">r/Frontend/</a></td>
         <td>/r/frontend is a subreddit for front end web developers who want to move the web forward or want to learn how. If you're looking to find or share the latest and greatest tips, links, thoughts, and discussions on the world of front web development, this is the place to do it.</td>
       </tr>
@@ -312,6 +316,10 @@ to everyone - everywhere!</td>
 
 #### Website
 <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
       <tr>
         <td> <a href="https://hashnode.com/">Hashnode</a></td>
         <td>Hashnode is another global programming community where experienced developers answer questions, give suggestions, share their stories, and provide feedback on ongoing projects. Users post micro-blogs about technical issues or real-life development dilemmas, and community members answer and share them — you can follow specific prolific authors or tags on specific programming languages.</td>
