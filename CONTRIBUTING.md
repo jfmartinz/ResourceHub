@@ -34,10 +34,8 @@ To ensure a smooth experience, please follow these important rules:
 
    > Note: Replace "URL_here" with the actual resource URL and provide a brief description.
 
-   For example:
-
-   ![Format](images/format1.png)
-
+   By following these rules, you will help maintain consistency and clarity in our repository. 
+   
 ## Ways to Contribute
 
 There are many ways to contribute, and you don't need to be a coding wizard to get involved. Here are some beginner-friendly ways to contribute:
