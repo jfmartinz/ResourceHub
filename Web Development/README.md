@@ -17,6 +17,7 @@
 This category is a curated collection of valuable web development resources contributed by amazing contributors. Here, you will find a wide range of materials and information about web development.
 
 ### Tutorials or Courses
+
 > Discover a collection of web development tutorials and courses, including articles, videos, and more.
 
 <table width="100%">
@@ -90,10 +91,15 @@ This category is a curated collection of valuable web development resources cont
    <td><a href="https://www.knowledgehut.com/blog/web-development/full-stack-developer-frameworks">Django</a></td>
    <td>Django is one of the best frameworks for full stack web development that helps developers quickly create web applications without worrying about low-level details such as managing databases or creating HTML templates. Django includes several features that are essential for modern Web Development training, including an object-relational mapper (ORM) for interacting with databases, a template engine for creating HTML views, and a wide variety of tools and libraries for common tasks.</td>
 </tr>
+<tr>
+       <td><a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a></td>
+        <td>React course for beginners. It simplifies and dymystifies react to any beginner who is willing and eager to learn.
+        </td>
+      </tr>
 </table>
 
-
 ### Tools
+
 > Explore an amazing set of web development tools for working with text, images, icons, colors, extensions, and much more.
 
 <table width="100%">
@@ -171,7 +177,9 @@ This category is a curated collection of valuable web development resources cont
 <!-- make an issue for implementing markdown formatter for the project  -->
 
 ### UI Components
+
 > Explore a variety of UI components and ready-to-use code snippets to enhance your project.
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -213,7 +221,9 @@ This category is a curated collection of valuable web development resources cont
 </table>
 
 ### Books
+
 > Discover a diverse collection of valuable books for learning web development.
+
 <!--
 a) If the book is free, include a download link.
 b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. -->
@@ -243,7 +253,9 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
   </table>
 
 ### Communities
+
 > Discover communities where you can learn and network while studying web development. These communities may include Discord servers, Reddit communities, Facebook groups, Twitter, and more.
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -291,6 +303,7 @@ to everyone - everywhere!</td>
   </table>
 
 ### YouTube Channels
+
 > Explore amazing YouTubers specializing in web development.
 
 <table width="100%">
@@ -351,6 +364,7 @@ to everyone - everywhere!</td>
   </table>
 
 ### Games
+
 > Learn web development by playing games! Here, you can find a good resources for mastering web development through playing games.
 
 <table width="100%">
