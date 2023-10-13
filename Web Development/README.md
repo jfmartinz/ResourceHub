@@ -86,12 +86,7 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></td>
         <td>This guide by CSS-Tricks provides a comprehensive and easy-to-understand explanation of Flexbox, a powerful layout tool in CSS.</td>
     </tr>
-  
-<tr>
-   <td><a href="https://www.knowledgehut.com/blog/web-development/full-stack-developer-frameworks">Django</a></td>
-   <td>Django is one of the best frameworks for full stack web development that helps developers quickly create web applications without worrying about low-level details such as managing databases or creating HTML templates. Django includes several features that are essential for modern Web Development training, including an object-relational mapper (ORM) for interacting with databases, a template engine for creating HTML views, and a wide variety of tools and libraries for common tasks.</td>
-</tr>
-<tr>
+      <tr>
        <td><a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a></td>
         <td>React course for beginners. It simplifies and dymystifies react to any beginner who is willing and eager to learn.
         </td>
@@ -174,7 +169,7 @@ This category is a curated collection of valuable web development resources cont
     </tr>
 </table>
 
-<!-- make an issue for implementing markdown formatter for the project  -->
+
 
 ### UI Components
 
