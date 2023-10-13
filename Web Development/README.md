@@ -13,7 +13,14 @@
 - [UI Components](#ui-components)<br>
 - [Challenges](#challenges)<br>
 - [Books](#books)<br>
-- [Communities](#communities)<br>
+- [Communities](#communities)
+  
+  - [Reddit](#reddit)
+  - [Discord](#discord)
+  - [Websites](#website)
+  - [Facebook Groups](#facebook-groups)
+  - [Twitter Groups](#twitter-groups)
+  
 - [Youtube Channels](#youtube-channels)<br>
 - [Games](#games)<br>
 
