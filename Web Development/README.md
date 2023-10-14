@@ -10,6 +10,16 @@
   - [Full-Stack Development](#full-stack-development)
 
 - [Tools](#tools)<br>
+  - [Typography](#typography)
+  - [Colors](#colors)
+  - [CSS Generators](#css-generators)
+  - [Icons](#icons)
+  - [CSS animation](#css-animation)
+  - [Code Playgrounds](#code-playgrounds)
+  - [Chrome extenstion](#chrome-extenstion)
+  - [Stock Photos & Videos](#stock-photos-&-videos)
+  - [SVGs](#svgs)
+  - [Others](#others)
 - [UI Components](#ui-components)<br>
 - [Challenges](#challenges)<br>
 - [Books](#books)<br>
