@@ -27,9 +27,9 @@
 
   - [Reddit](#reddit)
   - [Discord](#discord)
-  - [Websites](#website)
   - [Facebook Groups](#facebook-groups)
   - [Twitter Groups](#twitter-groups)
+  - [Others](#others)
 
 - [Youtube Channels](#youtube-channels)<br>
 - [Games](#games)<br>
@@ -408,17 +408,6 @@ to everyone - everywhere!</td>
       </tr>
 </table>
 
-#### Website
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td> <a href="https://hashnode.com/">Hashnode</a></td>
-        <td>Hashnode is another global programming community where experienced developers answer questions, give suggestions, share their stories, and provide feedback on ongoing projects. Users post micro-blogs about technical issues or real-life development dilemmas, and community members answer and share them — you can follow specific prolific authors or tags on specific programming languages.</td>
-      </tr>
-</table>
 
 #### Facebook Groups
 <table width="100%">
@@ -445,6 +434,37 @@ to everyone - everywhere!</td>
 </table>
       
 
+#### Others
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://hashnode.com/">Hashnode</a></td>
+        <td>Hashnode is another global programming community where experienced developers answer questions, give suggestions, share their stories, and provide feedback on ongoing projects. Users post micro-blogs about technical issues or real-life development dilemmas, and community members answer and share them — you can follow specific prolific authors or tags on specific programming languages.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://dev.to/">dev.to</a></td>
+        <td>DEV Community, or dev.to, is an open source online community presented as a place for programmers to share ideas and help each other grow. According to the vendor, developers are welcome to submit stories, tutorials, questions, or anything worth discussing on dev.to.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://stackoverflow.com/">StackOverflow</a></td>
+        <td>Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.sitepoint.com/community/">SitePoint Forums</a></td>
+        <td>A community for web designers and developers to discuss everything from HTML, CSS, JavaScript, PHP, to Photoshop, SEO and more.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.digitalocean.com/community">Digital Ocean</a></td>
+        <td>Welcome to the DigitalOcean Community! DigitalOcean's community offers thousands of tutorials, videos, and answers to questions on a wide range of topics.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://forum.freecodecamp.org/">FreeCodeCamp Forum</a></td>
+        <td>This community will help you learn to code and get a developer job.</td>
+      </tr>
+</table>
 
 
 ### YouTube Channels
