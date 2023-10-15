@@ -10,6 +10,16 @@
   - [Full-Stack Development](#full-stack-development)
 
 - [Tools](#tools)<br>
+  - [Typography](#typography)
+  - [Colors](#colors)
+  - [CSS Generators](#css-generators)
+  - [Icons](#icons)
+  - [CSS animation](#css-animation)
+  - [Code Playgrounds](#code-playgrounds)
+  - [Chrome extenstion](#chrome-extenstion)
+  - [Stock Photos & Videos](#stock-photos-&-videos)
+  - [SVGs](#svgs)
+  - [Other Tools](#other-tools)
 - [UI Components](#ui-components)<br>
 - [Challenges](#challenges)<br>
 - [Books](#books)<br>
@@ -17,9 +27,9 @@
 
   - [Reddit](#reddit)
   - [Discord](#discord)
-  - [Websites](#website)
   - [Facebook Groups](#facebook-groups)
   - [Twitter Groups](#twitter-groups)
+  - [Other Communities](#other-communities)
 
 - [Youtube Channels](#youtube-channels)<br>
 - [Games](#games)<br>
@@ -123,31 +133,45 @@ This category is a curated collection of valuable web development resources cont
 ### Tools
 
 > Explore an amazing set of web development tools for working with text, images, icons, colors, extensions, and much more.
-
+#### Typography
 <table width="100%">
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
     <tr>
-        <td> <a href="https://animista.net/play/basic/slide-bck">Animista</a></td>
-        <td>Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations.</td>
+      <td ><a href="https://www.fontpair.co/">Fontpair</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+
+</table>
+
+#### Colors
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td> <a href="https://palettemaker.com/">Palettemaker</a></td>
+        <td>Create unique color schemes with AI and see them come to life on real design examples.</td>
+    </tr>
+    <tr>
+      <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
+      <td>Visualize color palettes and fonts on a real website.</td>
+    </tr>
+
+</table>
+
+#### CSS Generators
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
     </tr>
     <tr>
         <td> <a href="https://www.cssportal.com/css-flexbox-generator/">CSS Portal</a></td>
         <td>CSS Portal is home to many examples of CSS / HTML and how it can be used in website design.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi">Pesticide for Chrome</a></td>
-        <td>This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://overapi.com/">Over API</a></td>
-        <td>overapi. com is a site collecting all the cheatsheets,all! Computers Electronics and Technology-> Programming and Developer Software.</td>
-    </tr>
-    <tr>
-        <td><a href="https://codepen.io/">Code Pen</a></td>
-        <td>CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.</td>
     </tr>
     <tr>
         <td> <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius Generator</a></td>
@@ -162,25 +186,8 @@ This category is a curated collection of valuable web development resources cont
         <td>CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its possibilities.</td>
     </tr>
     <tr>
-        <td> <a href="https://palettemaker.com/">Palettemaker</a></td>
-        <td>Create unique color schemes with AI and see them come to life on real design examples.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.svgviewer.dev/">SVG Viewer</a></td>
-        <td>SVG Viewer allows you to view and inspect SVG files in a user-friendly interface, making SVG debugging and optimization easier.</td>
-    </tr>
-    <tr>
         <td> <a href="https://cssgradient.io/">CSS Gradient</a></td>
         <td>CSS Gradient is a tool that helps you create beautiful CSS gradients for your web projects with a simple and intuitive interface.</td>
-    </tr>
-    <!-- New resources -->
-    <tr>
-        <td> <a href="https://www.heropatterns.com/">Hero Patterns</a></td>
-        <td>Hero Patterns is a collection of repeatable SVG background patterns for you to use in your web projects.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.svgbackgrounds.com/">SVG Backgrounds</a></td>
-        <td>SVG Backgrounds offers a vast library of customizable SVG backgrounds for your web designs, providing a modern and visually appealing touch.</td>
     </tr>
     <tr>
         <td> <a href="https://markodenic.com/tools/buttons-generator/">Buttons Generator</a></td>
@@ -190,21 +197,98 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://cssgrid-generator.netlify.app/">CSS Grid Generator</a></td>
         <td>built with by sarah_edo. Columns. Rows. Column Gap (in px). Row Gap (in px). Please may I have some code. Reset grid.</td>
     </tr>
+</table>
+
+#### Icons
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
     <tr>
         <td><a href="https://boxicons.com/">Boxicons</a></td>
         <td>Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.</td>
     </tr>
+</table>
+
+#### CSS animation
+<table width="100%">
     <tr>
-      <td ><a href="https://www.fontpair.co/">Fontpair</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+        <th>Resource Name</th>
+        <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
-      <td>Visualize color palettes and fonts on a real website.</td>
+        <td> <a href="https://animista.net/play/basic/slide-bck">Animista</a></td>
+        <td>Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations.</td>
+    </tr>
+</table>
+
+#### Code Playgrounds
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://codepen.io/">Code Pen</a></td>
+        <td>CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.</td>
+    </tr>
+</table>
+
+#### Chrome extenstion
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi">Pesticide for Chrome</a></td>
+        <td>This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.</td>
+    </tr>
+</table>
+
+#### Stock Photos & Videos
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+</table>
+
+#### SVGs
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td> <a href="https://www.svgviewer.dev/">SVG Viewer</a></td>
+        <td>SVG Viewer allows you to view and inspect SVG files in a user-friendly interface, making SVG debugging and optimization easier.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.heropatterns.com/">Hero Patterns</a></td>
+        <td>Hero Patterns is a collection of repeatable SVG background patterns for you to use in your web projects.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.svgbackgrounds.com/">SVG Backgrounds</a></td>
+        <td>SVG Backgrounds offers a vast library of customizable SVG backgrounds for your web designs, providing a modern and visually appealing touch.</td>
     </tr>
     <tr>
       <td><a href="https://haikei.app">Haikei</a></td>
       <td>Generate unique SVG design assets.</td>
+    </tr>
+    
+</table>
+
+#### Other Tools
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td> <a href="https://overapi.com/">Over API</a></td>
+        <td>overapi. com is a site collecting all the cheatsheets,all! Computers Electronics and Technology-> Programming and Developer Software.</td>
     </tr>
 </table>
 
@@ -339,7 +423,33 @@ to everyone - everywhere!</td>
       </tr>
 </table>
 
-#### Website
+
+#### Facebook Groups
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td>Resource Name</td>
+        <td>Description</td>
+      </tr>
+</table>
+
+#### Twitter Groups
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td>Resource Name</td>
+        <td>Description</td>
+      </tr>
+</table>
+      
+
+#### Other Communities
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -349,9 +459,27 @@ to everyone - everywhere!</td>
         <td> <a href="https://hashnode.com/">Hashnode</a></td>
         <td>Hashnode is another global programming community where experienced developers answer questions, give suggestions, share their stories, and provide feedback on ongoing projects. Users post micro-blogs about technical issues or real-life development dilemmas, and community members answer and share them — you can follow specific prolific authors or tags on specific programming languages.</td>
       </tr>
+      <tr>
+        <td> <a href="https://dev.to/">dev.to</a></td>
+        <td>DEV Community, or dev.to, is an open source online community presented as a place for programmers to share ideas and help each other grow. According to the vendor, developers are welcome to submit stories, tutorials, questions, or anything worth discussing on dev.to.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://stackoverflow.com/">StackOverflow</a></td>
+        <td>Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.sitepoint.com/community/">SitePoint Forums</a></td>
+        <td>A community for web designers and developers to discuss everything from HTML, CSS, JavaScript, PHP, to Photoshop, SEO and more.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.digitalocean.com/community">Digital Ocean</a></td>
+        <td>Welcome to the DigitalOcean Community! DigitalOcean's community offers thousands of tutorials, videos, and answers to questions on a wide range of topics.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://forum.freecodecamp.org/">FreeCodeCamp Forum</a></td>
+        <td>This community will help you learn to code and get a developer job.</td>
+      </tr>
 </table>
-      
-
 
 
 ### YouTube Channels
