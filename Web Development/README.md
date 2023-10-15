@@ -19,7 +19,7 @@
   - [Chrome extenstion](#chrome-extenstion)
   - [Stock Photos & Videos](#stock-photos-&-videos)
   - [SVGs](#svgs)
-  - [Others](#others)
+  - [Other Tools](#other-tools)
 - [UI Components](#ui-components)<br>
 - [Challenges](#challenges)<br>
 - [Books](#books)<br>
@@ -29,7 +29,7 @@
   - [Discord](#discord)
   - [Facebook Groups](#facebook-groups)
   - [Twitter Groups](#twitter-groups)
-  - [Others](#others)
+  - [Other Communities](#other-communities)
 
 - [Youtube Channels](#youtube-channels)<br>
 - [Games](#games)<br>
@@ -265,7 +265,7 @@ This category is a curated collection of valuable web development resources cont
     
 </table>
 
-#### Others
+#### Other Tools
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -434,7 +434,7 @@ to everyone - everywhere!</td>
 </table>
       
 
-#### Others
+#### Other Communities
 <table width="100%">
       <tr>
         <th>Resource Name</th>
