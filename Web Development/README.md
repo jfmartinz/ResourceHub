@@ -33,76 +33,91 @@ This category is a curated collection of valuable web development resources cont
 > Discover a collection of web development tutorials and courses, including articles, videos, and more.
 
 <table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-      <tr>
-        <td> <a href="https://www.youtube.com/watch?v=UB1O30fR-EE&pp=ygURaHRtbCBjcmFzaCBjb3Vyc2U%3D">HTML Crash Course for Absolute Beginners</a></td>
-        <td>Fast-track HTML basics for beginners with Traversy Media's accessible tutorial</td>
-      </tr>
-        <td> <a href="https://www.youtube.com/watch?v=EiNiSFIPIQE">Learn CSS Grid - A 13 Minute Deep Dive</a></td>
-        <td>A short yet a concise and helpful video about learning CSS grid in just 13 minutes</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.youtube.com/watch?v=phWxA89Dy94">Learn Flexbox CSS in 8 minutes</a></td>
-        <td>A short video about Flexbox in just 8 minutes</td>
-      </tr>
-      <tr>
-        <td> <a href="https://youtu.be/g7T23Xzys-A">Master JavaScript in One Video!</a></td>
-        <td>Comprehensive 2-hour JavaScript crash course by JavaScript Mastery.</td>
-      </tr>
-       <tr>
-        <td> <a href="https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP">Namaste ( Hello ) Javascript!</a>          </td>
-        <td>A playlist for learning Javascript from basic to advance by Akshay Saini</td>
-      </tr>
-       <tr>
-      <td> <a href="https://www.youtube.com/watch?v=eCU7FfMl5WU&list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq">Complete React course for beginner</a>          
-      </td>
-        <td>A playlist for learning React from basic by Hitesh Choudhari</td>
-      </tr>
-      <tr>
-            <td><a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Make 15 react projects</td>
-<td>A One shot video by freecodecamp focusing on coding react based projects</td>
-      </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/watch?v=Ul3y1LXxzdU&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Learn About React router v6 in 45mins</td>
-<td>A 45min for learning routing in react via react-router@6</td>
-      </tr>
-       <tr>
-            <td><a href="https://www.youtube.com/watch?v=qwfE7fSVaZM&t=5107s&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Learn and make 4 node.js & express projects </td>
-<td>A one shot video focusing on making 4 node.js and express projects , great for beginners ! </td>
-      </tr>
-      <tr>
-       <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
-       <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and Handlebars</td>
-      </tr>
-      <tr>
-            <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way </td>
-<td>  In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective of course. Many important topic like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
-      </tr>
-      <tr>
-            <td><a href="https://laracasts.com/path">Full Stack Developer on Laravel and Vue Js </td>
-<td> This is the path of becoming full stack developer on Laravel and Vuejs</td>
-      </tr>
-      <tr>
-            <td><a href="https://youtube.com/playlist?list=PL4-IK0AVhVjP27yZLwW-gkPggRps0CCnP&si=NRNmXP9MXHrzjUS4">HTML and CSS Core Concepts by Kevin Powell</td>
-<td> This playlist teaches us to learn the core concepts of HTML and CSS that are fundamental for every web developer.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.sololearn.com/">Sololearn</a></td>
-        <td>MCQ and complete code question to improve coding skills!</td>
-      </tr>
-         <tr>
-        <td> <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></td>
-        <td>This guide by CSS-Tricks provides a comprehensive and easy-to-understand explanation of Flexbox, a powerful layout tool in CSS.</td>
-    </tr>
-      <tr>
-       <td><a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a></td>
-        <td>React course for beginners. It simplifies and dymystifies react to any beginner who is willing and eager to learn.
-        </td>
-      </tr>
+  <tr>
+    <h4>Front-End Development</h4>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=UB1O30fR-EE&pp=ygURaHRtbCBjcmFzaCBjb3Vyc2U%3D">HTML Crash Course for Absolute Beginners</a></td>
+    <td>Fast-track HTML basics for beginners with Traversy Media's accessible tutorial</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=EiNiSFIPIQE">Learn CSS Grid - A 13 Minute Deep Dive</a></td>
+    <td>A short yet concise and helpful video about learning CSS grid in just 13 minutes</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=phWxA89Dy94">Learn Flexbox CSS in 8 minutes</a></td>
+    <td>A short video about Flexbox in just 8 minutes</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/g7T23Xzys-A">Master JavaScript in One Video!</a></td>
+    <td>Comprehensive 2-hour JavaScript crash course by JavaScript Mastery.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP">Namaste (Hello) Javascript!</a></td>
+    <td>A playlist for learning Javascript from basic to advance by Akshay Saini</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=eCU7FfMl5WU&list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq">Complete React course for beginner</a></td>
+    <td>A playlist for learning React from basic by Hitesh Choudhari</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Make 15 react projects</a></td>
+    <td>A one-shot video by freecodecamp focusing on coding react-based projects</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=Ul3y1LXxzdU&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Learn About React router v6 in 45mins</a></td>
+    <td>A 45min for learning routing in react via react-router@6</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PL4-IK0AVhVjP27yZLwW-gkPggRps0CCnP&si=NRNmXP9MXHrzjUS4">HTML and CSS Core Concepts by Kevin Powell</a></td>
+    <td>This playlist teaches us to learn the core concepts of HTML and CSS that are fundamental for every web developer.</td>
+  </tr>
+  <tr>
+    <td><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></td>
+    <td>This guide by CSS-Tricks provides a comprehensive and easy-to-understand explanation of Flexbox, a powerful layout tool in CSS.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a></td>
+    <td>React course for beginners. It simplifies and demystifies react to any beginner who is willing and eager to learn.</td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <h4>Backend Development</h4>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
+    <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and Handlebars</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=qwfE7fSVaZM&t=5107s&pp=ygUcZnJlZWNvZGVjYW1wIHJlYAWN0IGpzIGNvdXJzZQ%3D%3D">Learn and make 4 node.js & express projects</a></td>
+    <td>A one-shot video focusing on making 4 node.js and express projects, great for beginners!</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way</a></td>
+    <td>In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective, of course. Many important topics like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <h4>Full-Stack Development</h4>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.sololearn.com/">Sololearn</a></td>
+    <td>MCQ and complete code questions to improve coding skills!</td>
+  </tr>
+  <tr>
+    <td><a href="https://laracasts.com/path">Full Stack Developer on Laravel and Vue Js</a></td>
+    <td>This is the path of becoming a full-stack developer on Laravel and Vuejs</td>
+  </tr>
 </table>
 
 ### Tools
