@@ -419,6 +419,30 @@ to everyone - everywhere!</td>
         <td>Hashnode is another global programming community where experienced developers answer questions, give suggestions, share their stories, and provide feedback on ongoing projects. Users post micro-blogs about technical issues or real-life development dilemmas, and community members answer and share them — you can follow specific prolific authors or tags on specific programming languages.</td>
       </tr>
 </table>
+
+#### Facebook Groups
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td>Resource Name</td>
+        <td>Description</td>
+      </tr>
+</table>
+
+#### Twitter Groups
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td>Resource Name</td>
+        <td>Description</td>
+      </tr>
+</table>
       
 
 
