@@ -436,15 +436,47 @@ to everyone - everywhere!</td>
       </tr>
 </table>
 
-#### Twitter Groups
+#### X Tech Communities
 <table width="100%">
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
-        <td>Resource Name</td>
-        <td>Description</td>
+        <td><a href="https://twitter.com/freeCodeCamp">freeCodeCamp.org</a></td>
+        <td>We're a community of millions of people who are building new skills and getting new jobs together. A 501(c)(3) public charity.</td>
+      </tr>
+       <tr>
+        <td><a href="https://twitter.com/wemakedevs?lang=en">WeMakeDevs</a></td>
+        <td>Inspire. Educate. Empower.</td>
+      </tr>
+      <tr>
+        <td><a href="https://twitter.com/kubesimplify">kubesimplify</a></td>
+        <td>Simplifying cloud native for all</td>
+      </tr>
+      <tr>
+        <td><a href="https://twitter.com/eddiejaoude">EddieHub</a></td>
+        <td>Open Source DevRel, Digital Nomad Founder of EddieHub Founder of biodrop</td>
+      </tr>
+      <tr>
+        <td><a href="https://twitter.com/KodeKloudHQ">KodeKloud</a></td>
+        <td>1 Million Students. Learn DevOps With Our Hands-On Learning Platform!</td>
+      </tr>
+      <tr>
+        <td><a href="https://twitter.com/florinpop1705">Florin Pop</a></td>
+        <td>Helping developers learn faster</td>
+      </tr>
+      <tr>
+        <td><a href="https://twitter.com/FrancescoCiull4">Francesco Ciulla</a></td>
+        <td>The amazing developer of JavaScript, Docker, working with satellites and that were launched by NASA worth millions. Shares good information on what's worth learning and about the field</td>
+      </tr>
+      <tr>
+        <td><a href="https://twitter.com/nialljoemaher">Niall Maher</a></td>
+        <td>Web developer and mentor from Dublin Ireland. Has a youtube channel that teaches others on development with great content called the Codu Community</td>
+      </tr>
+      <tr>
+        <td><a href="https://twitter.com/codeSTACKr">codeSTACKr</a></td>
+        <td>Tutorials on learning how to get started on your development journey. All things HTML, CSS, JS and more.</td>
       </tr>
 </table>
       
