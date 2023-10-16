@@ -156,6 +156,14 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://palettemaker.com/">Palettemaker</a></td>
         <td>Create unique color schemes with AI and see them come to life on real design examples.</td>
     </tr>
+  <tr>
+        <td> <a href="https://coolors.co/">Coolors</a></td>
+        <td>Coolors is a fast and easy-to-use color scheme generator that helps you find beautiful color combinations for your web projects.</td>
+    </tr>
+  <tr>
+        <td> <a href="https://flatuicolors.com/">FlatUIColors</a></td>
+        <td>This resource provides a collection of flat and trendy colors that work well for modern web design./td>
+    </tr>
     <tr>
       <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
       <td>Visualize color palettes and fonts on a real website.</td>
@@ -208,6 +216,16 @@ This category is a curated collection of valuable web development resources cont
     <tr>
         <td><a href="https://boxicons.com/">Boxicons</a></td>
         <td>Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.</td>
+    </tr>
+  <tr>
+        <td><a href="https://fontawesome.com/">Fontawesome</a></td>
+        <td>FontAwesome is a popular icon library that offers a wide range of scalable vector icons that can be easily customized for your web projects.
+
+</td>
+    </tr>
+    <tr>
+        <td><a href="https://fonts.google.com/icons">Material Icons</a></td>
+        <td> Google's Material Icons is a comprehensive collection of icons designed according to Material Design guidelines.</td>
     </tr>
 </table>
 
