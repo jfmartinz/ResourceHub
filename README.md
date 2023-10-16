@@ -129,4 +129,4 @@ Please consider sharing this repository with other developers to help increase i
 ResourceHub is licensed under the MIT License - see the [LICENSE](https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE) file for details.
 <br>
 
-###### Show some ❤️ by giving this repository a ⭐️
+###### If you find this repository useful, please consider giving it a ⭐️
