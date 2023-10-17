@@ -28,7 +28,7 @@
   - [Reddit](#reddit)
   - [Discord](#discord)
   - [Facebook Groups](#facebook-groups)
-  - [Twitter Groups](#x-tech-communities)
+  - [X Tech Communities](#x-tech-communities)
   - [Other Communities](#other-communities)
 
 - [Youtube Channels](#youtube-channels)<br>
