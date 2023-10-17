@@ -442,41 +442,47 @@ to everyone - everywhere!</td>
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+      <tr>
+        <td><a href="https://twitter.com/i/communities/1630084664042954752">WeMakeDevs</a></td>
+        <td>This is a community which provides free hands-on training in various fields of computer science and have an inclusive community focusing on a learn by doing approach.
+      </td>
+      <tr>
+        <td><a href="https://twitter.com/i/communities/1495659329600385029">Cloud Native</a></td>
+        <td>Cloud Native community for helping people learn the cloud native technology. Feel free to share - Your learnings - Your content - cool cloud native products
+      </td>
+      </tr>
        <tr>
-        <td><a href="https://twitter.com/freeCodeCamp">freeCodeCamp.org</a></td>
-        <td>We're a community of millions of people who are building new skills and getting new jobs together. A 501(c)(3) public charity.</td>
+        <td><a href="https://twitter.com/i/communities/1529475827515244546">DevRel Twitter</a></td>
+        <td>A space for all advocates of code. Meet and Collab with developers.
+        </td>
       </tr>
        <tr>
-        <td><a href="https://twitter.com/wemakedevs?lang=en">WeMakeDevs</a></td>
-        <td>Inspire. Educate. Empower.</td>
+        <td><a href="https://twitter.com/i/communities/1473324714307174405">The Dev Community</a></td>
+        <td>Open community for all the developers on Twitter. Learn and share knowledge through this forum.
+        </td>
+      </tr>
+       <tr>
+        <td><a href="https://twitter.com/i/communities/1526439647551057922">Tech Events and Meetups- India</a></td>
+        <td>Join this community to know about events, meetups and other tech opportunities in India.
+        </td>
+      </tr>
+      </tr>
+       <tr>
+        <td><a href="https://twitter.com/i/communities/1514267854451122177">DevRel Community</a></td>
+        <td>A community for developers for getting to know about DevRel, hiring opportunities for DevRel, networking etc.
+        </td>
       </tr>
       <tr>
-        <td><a href="https://twitter.com/kubesimplify">kubesimplify</a></td>
-        <td>Simplifying cloud native for all</td>
+        <td><a href="https://twitter.com/i/communities/1498424846052638726">Open Source Software</a></td>
+        <td>Open source software is eating the world faster. A community for maintainers, contributors and anyone interested in open source.</td>
       </tr>
       <tr>
-        <td><a href="https://twitter.com/eddiejaoude">EddieHub</a></td>
-        <td>Open Source DevRel, Digital Nomad Founder of EddieHub Founder of biodrop</td>
+        <td><a href="https://twitter.com/i/communities/1495042358068477955">BuildinPublic</a></td>
+        <td>The community for BuildinPublic, Bootstrappers, #BuildSell30, No Code/Low Code, and for Founders to share their builds & experiences 🚀</td>
       </tr>
       <tr>
-        <td><a href="https://twitter.com/KodeKloudHQ">KodeKloud</a></td>
-        <td>1 Million Students. Learn DevOps With Our Hands-On Learning Platform!</td>
-      </tr>
-      <tr>
-        <td><a href="https://twitter.com/florinpop1705">Florin Pop</a></td>
-        <td>Helping developers learn faster</td>
-      </tr>
-      <tr>
-        <td><a href="https://twitter.com/FrancescoCiull4">Francesco Ciulla</a></td>
-        <td>The amazing developer of JavaScript, Docker, working with satellites and that were launched by NASA worth millions. Shares good information on what's worth learning and about the field</td>
-      </tr>
-      <tr>
-        <td><a href="https://twitter.com/nialljoemaher">Niall Maher</a></td>
-        <td>Web developer and mentor from Dublin Ireland. Has a youtube channel that teaches others on development with great content called the Codu Community</td>
-      </tr>
-      <tr>
-        <td><a href="https://twitter.com/codeSTACKr">codeSTACKr</a></td>
-        <td>Tutorials on learning how to get started on your development journey. All things HTML, CSS, JS and more.</td>
+        <td><a href="https://twitter.com/i/communities/1494598420597813249">WeAreTechWriters</a></td>
+        <td>This community aims to help you become a better Technical Writer and Make Money Online.</td>
       </tr>
 </table>
       
