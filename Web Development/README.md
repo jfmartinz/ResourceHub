@@ -502,15 +502,53 @@ to everyone - everywhere!</td>
       </tr>
 </table>
 
-#### Twitter Groups
+#### X Tech Communities
 <table width="100%">
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+      <tr>
+        <td><a href="https://twitter.com/i/communities/1630084664042954752">WeMakeDevs</a></td>
+        <td>This is a community which provides free hands-on training in various fields of computer science and have an inclusive community focusing on a learn by doing approach.
+      </td>
+      <tr>
+        <td><a href="https://twitter.com/i/communities/1495659329600385029">Cloud Native</a></td>
+        <td>Cloud Native community for helping people learn the cloud native technology. Feel free to share - Your learnings - Your content - cool cloud native products
+      </td>
+      </tr>
        <tr>
-        <td>Resource Name</td>
-        <td>Description</td>
+        <td><a href="https://twitter.com/i/communities/1529475827515244546">DevRel Twitter</a></td>
+        <td>A space for all advocates of code. Meet and Collab with developers.
+        </td>
+      </tr>
+       <tr>
+        <td><a href="https://twitter.com/i/communities/1473324714307174405">The Dev Community</a></td>
+        <td>Open community for all the developers on Twitter. Learn and share knowledge through this forum.
+        </td>
+      </tr>
+       <tr>
+        <td><a href="https://twitter.com/i/communities/1526439647551057922">Tech Events and Meetups- India</a></td>
+        <td>Join this community to know about events, meetups and other tech opportunities in India.
+        </td>
+      </tr>
+      </tr>
+       <tr>
+        <td><a href="https://twitter.com/i/communities/1514267854451122177">DevRel Community</a></td>
+        <td>A community for developers for getting to know about DevRel, hiring opportunities for DevRel, networking etc.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://twitter.com/i/communities/1498424846052638726">Open Source Software</a></td>
+        <td>Open source software is eating the world faster. A community for maintainers, contributors and anyone interested in open source.</td>
+      </tr>
+      <tr>
+        <td><a href="https://twitter.com/i/communities/1495042358068477955">BuildinPublic</a></td>
+        <td>The community for BuildinPublic, Bootstrappers, #BuildSell30, No Code/Low Code, and for Founders to share their builds & experiences 🚀</td>
+      </tr>
+      <tr>
+        <td><a href="https://twitter.com/i/communities/1494598420597813249">WeAreTechWriters</a></td>
+        <td>This community aims to help you become a better Technical Writer and Make Money Online.</td>
       </tr>
 </table>
       
