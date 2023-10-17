@@ -14,7 +14,7 @@
   - [Colors](#colors)
   - [CSS Generators](#css-generators)
   - [Icons](#icons)
-  - [CSS animation](#css-animation)
+  - [Animation](#animation)
   - [Code Playgrounds](#code-playgrounds)
   - [Chrome extenstion](#chrome-extenstion)
   - [Stock Photos & Videos](#stock-photos-&-videos)
@@ -229,7 +229,7 @@ This category is a curated collection of valuable web development resources cont
     </tr>
 </table>
 
-#### CSS animation
+#### Animations
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -242,6 +242,10 @@ This category is a curated collection of valuable web development resources cont
      <tr>
         <td> <a href="https://animate.style/">Animate CSS</a></td>
         <td>Animate.css is a popular library for adding ready-made CSS animations to your projects. You can learn from its examples and documentation.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://keyframes.app/">Keyframes.app</a></td>
+        <td>An easy way to create CSS animations, box-shadows, colors, and more. Use the visual editors to adjust properties and watch the changes live as you make them. Then, instantly get the generated CSS to use in your projects. In addition to its core features, Keyframes is completely free, private and open source.</td>
     </tr>
 </table>
 
