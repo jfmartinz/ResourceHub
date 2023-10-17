@@ -12,9 +12,9 @@
 - [Tools](#tools)<br>
   - [Typography](#typography)
   - [Colors](#colors)
-  - [CSS Generators](#css-generators)
+  - [Generators](#generators)
   - [Icons](#icons)
-  - [Animation](#animation)
+  - [Animations](#animations)
   - [Code Playgrounds](#code-playgrounds)
   - [Chrome extenstion](#chrome-extenstion)
   - [Stock Photos & Videos](#stock-photos-&-videos)
@@ -171,7 +171,7 @@ This category is a curated collection of valuable web development resources cont
 
 </table>
 
-#### CSS Generators
+#### Generators
 <table width="100%">
     <tr>
         <th>Resource Name</th>
