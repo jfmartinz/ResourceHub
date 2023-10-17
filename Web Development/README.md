@@ -156,6 +156,14 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://palettemaker.com/">Palettemaker</a></td>
         <td>Create unique color schemes with AI and see them come to life on real design examples.</td>
     </tr>
+  <tr>
+        <td> <a href="https://coolors.co/">Coolors</a></td>
+        <td>Coolors is a fast and easy-to-use color scheme generator that helps you find beautiful color combinations for your web projects.</td>
+    </tr>
+  <tr>
+        <td> <a href="https://flatuicolors.com/">FlatUIColors</a></td>
+        <td>This resource provides a collection of flat and trendy colors that work well for modern web design./td>
+    </tr>
     <tr>
       <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
       <td>Visualize color palettes and fonts on a real website.</td>
@@ -209,6 +217,16 @@ This category is a curated collection of valuable web development resources cont
         <td><a href="https://boxicons.com/">Boxicons</a></td>
         <td>Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.</td>
     </tr>
+  <tr>
+        <td><a href="https://fontawesome.com/">Fontawesome</a></td>
+        <td>FontAwesome is a popular icon library that offers a wide range of scalable vector icons that can be easily customized for your web projects.
+
+</td>
+    </tr>
+    <tr>
+        <td><a href="https://fonts.google.com/icons">Material Icons</a></td>
+        <td> Google's Material Icons is a comprehensive collection of icons designed according to Material Design guidelines.</td>
+    </tr>
 </table>
 
 #### CSS animation
@@ -221,27 +239,7 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://animista.net/play/basic/slide-bck">Animista</a></td>
         <td>Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations.</td>
     </tr>
-    <tr>
-        <td> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations">MDN Web Docs</a></td>
-        <td>MDN offers comprehensive guides and tutorials on web technologies, including CSS animations. Their documentation is reliable and up-to-date.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://css-tricks.com/">CSS Tricks</a></td>
-        <td>CSS-Tricks is a website dedicated to CSS, and it has a wealth of articles and tutorials on various CSS topics, including animations.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.w3schools.com/css/css3_animations.asp">W3Schools</a></td>
-        <td>W3Schools is a popular resource for web development tutorials, including CSS animations. It provides interactive examples and quizzes.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.codecademy.com/learn/learn-css">Codecademy</a></td>
-        <td>Codecademy offers interactive coding lessons, including courses on CSS animations. It's a great platform for hands-on learning.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://cssanimation.rocks/">CSS Animations</a></td>
-        <td>This site is dedicated to CSS animations and provides tutorials, demos, and resources for learning and mastering CSS animations.</td>
-    </tr>
-    <tr>
+     <tr>
         <td> <a href="https://animate.style/">Animate CSS</a></td>
         <td>Animate.css is a popular library for adding ready-made CSS animations to your projects. You can learn from its examples and documentation.</td>
     </tr>
@@ -273,6 +271,10 @@ This category is a curated collection of valuable web development resources cont
         <td><a href="https://codesandbox.io/">CodeSandbox</a></td>
         <td>While primarily known for frontend development, CodeSandbox also offers support for building Node.js applications, making it a suitable choice for backend development in JavaScript.</td>
     </tr>
+    <tr>
+        <td><a href="https://stackblitz.com/">StackBlitz</a></td>
+        <td>StackBlitz is an online IDE for web development that allows you to create Angular, React, and Vue.js projects in the browser.</td>
+    </tr>
 </table>
 
 #### Chrome extenstion
@@ -300,6 +302,14 @@ This category is a curated collection of valuable web development resources cont
     <tr>
         <td> <a href="https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk">CSS Peeper</a></td>
         <td>CSS Peeper allows you to inspect and analyze the styles of a webpage, making it easier to learn from other websites' designs.</td>
+   </tr>
+   <tr>
+        <td> <a href="https://www.wappalyzer.com/">Wappalyzer</a></td>
+        <td>Wappalyzer is a browser extension that helps you discover the technologies used on websites. It identifies CMS, web frameworks, and more.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.lastpass.com/">LastPass</a></td>
+        <td>LastPass is a popular password manager and security extension for managing your online accounts and passwords securely.</td>
     </tr>
 </table>
 
