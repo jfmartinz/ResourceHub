@@ -239,13 +239,9 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://animista.net/play/basic/slide-bck">Animista</a></td>
         <td>Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations.</td>
     </tr>
-  <tr>
-        <td> <a href="https://keyframes.app/">Keyframes.app</a></td>
-        <td>Keyframes.app is a visual CSS animation tool that lets you create and export animations using a user-friendly interface.</td>
-    </tr>
-   <tr>
-        <td> <a href="https://bouncejs.com/">Bounce.js</a></td>
-        <td>Bounce.js is a JavaScript library for creating beautiful CSS3 animations with ease. You can customize and preview your animations directly on the website.</td>
+     <tr>
+        <td> <a href="https://animate.style/">Animate CSS</a></td>
+        <td>Animate.css is a popular library for adding ready-made CSS animations to your projects. You can learn from its examples and documentation.</td>
     </tr>
 </table>
 
@@ -259,11 +255,23 @@ This category is a curated collection of valuable web development resources cont
         <td><a href="https://codepen.io/">Code Pen</a></td>
         <td>CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.</td>
     </tr>
-  <tr>
+    <tr>
         <td><a href="https://jsfiddle.net/">JSFiddle</a></td>
-        <td>JSFiddle is a web-based code playground that specializes in JavaScript, allowing you to test and share snippets of code.</td>
+        <td>JSFiddle is an online JavaScript and frontend code editor that allows you to test and share code snippets with others. It supports HTML, CSS, and various JavaScript libraries.</td>
     </tr>
-  <tr>
+    <tr>
+        <td><a href="https://jsbin.com/?html,css,output">JS Bin</a></td>
+        <td>JS Bin is a collaborative JavaScript debugging tool. It's simple to use and provides a live preview of your HTML, CSS, and JavaScript code.</td>
+    </tr>
+    <tr>
+        <td><a href="https://replit.com/">Replit</a></td>
+        <td>Replit offers an online development environment for a wide range of programming languages, making it suitable for both frontend and backend development. It also provides collaborative features.</td>
+    </tr>
+    <tr>
+        <td><a href="https://codesandbox.io/">CodeSandbox</a></td>
+        <td>While primarily known for frontend development, CodeSandbox also offers support for building Node.js applications, making it a suitable choice for backend development in JavaScript.</td>
+    </tr>
+    <tr>
         <td><a href="https://stackblitz.com/">StackBlitz</a></td>
         <td>StackBlitz is an online IDE for web development that allows you to create Angular, React, and Vue.js projects in the browser.</td>
     </tr>
@@ -279,11 +287,27 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi">Pesticide for Chrome</a></td>
         <td>This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.</td>
     </tr>
-  <tr>
+    <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm">Web Developer</a></td>
+        <td>The Web Developer extension is a versatile tool that allows you to inspect and edit CSS in real-time, among many other web development tasks.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc">VisBug</a></td>
+        <td>VisBug is a powerful extension for visually manipulating and tweaking CSS styles directly on a web page. It's great for learning by experimentation.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp">ColorZilla</a></td>
+        <td>While primarily a color picker tool, ColorZilla also offers a CSS gradient generator and other useful CSS-related features.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk">CSS Peeper</a></td>
+        <td>CSS Peeper allows you to inspect and analyze the styles of a webpage, making it easier to learn from other websites' designs.</td>
+   </tr>
+   <tr>
         <td> <a href="https://www.wappalyzer.com/">Wappalyzer</a></td>
         <td>Wappalyzer is a browser extension that helps you discover the technologies used on websites. It identifies CMS, web frameworks, and more.</td>
     </tr>
-  <tr>
+    <tr>
         <td> <a href="https://www.lastpass.com/">LastPass</a></td>
         <td>LastPass is a popular password manager and security extension for managing your online accounts and passwords securely.</td>
     </tr>
