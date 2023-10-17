@@ -261,6 +261,10 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
         <td><a href="https://www.youtube.com/@freecodecamp">FreeCodeCamp</a></td>
         <td>"FreeCodeCamp's YouTube channel is a treasure trove for UI and UX enthusiasts! 🎨💡 From design principles to hands-on tutorials, it's a valuable resource for honing your skills and staying updated in the ever-evolving world of user interface and experience design. 🚀✨</td>
       </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/@abnux">ABNUX</a></td>
+        <td>Founder of 10kdesigners – learn UI/UX design. This channel is dedicated to helping you become a better designer • Previously Head of Design at Unacademy, Founder @LisnApp.</td>
+      </tr>
 </table>
 
 
