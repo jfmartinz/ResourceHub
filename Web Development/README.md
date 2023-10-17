@@ -156,6 +156,14 @@ This category is a curated collection of valuable web development resources cont
         <td> <a href="https://palettemaker.com/">Palettemaker</a></td>
         <td>Create unique color schemes with AI and see them come to life on real design examples.</td>
     </tr>
+  <tr>
+        <td> <a href="https://coolors.co/">Coolors</a></td>
+        <td>Coolors is a fast and easy-to-use color scheme generator that helps you find beautiful color combinations for your web projects.</td>
+    </tr>
+  <tr>
+        <td> <a href="https://flatuicolors.com/">FlatUIColors</a></td>
+        <td>This resource provides a collection of flat and trendy colors that work well for modern web design./td>
+    </tr>
     <tr>
       <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
       <td>Visualize color palettes and fonts on a real website.</td>
@@ -209,6 +217,16 @@ This category is a curated collection of valuable web development resources cont
         <td><a href="https://boxicons.com/">Boxicons</a></td>
         <td>Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.</td>
     </tr>
+  <tr>
+        <td><a href="https://fontawesome.com/">Fontawesome</a></td>
+        <td>FontAwesome is a popular icon library that offers a wide range of scalable vector icons that can be easily customized for your web projects.
+
+</td>
+    </tr>
+    <tr>
+        <td><a href="https://fonts.google.com/icons">Material Icons</a></td>
+        <td> Google's Material Icons is a comprehensive collection of icons designed according to Material Design guidelines.</td>
+    </tr>
 </table>
 
 #### CSS animation
@@ -220,6 +238,14 @@ This category is a curated collection of valuable web development resources cont
     <tr>
         <td> <a href="https://animista.net/play/basic/slide-bck">Animista</a></td>
         <td>Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations.</td>
+    </tr>
+  <tr>
+        <td> <a href="https://keyframes.app/">Keyframes.app</a></td>
+        <td>Keyframes.app is a visual CSS animation tool that lets you create and export animations using a user-friendly interface.</td>
+    </tr>
+   <tr>
+        <td> <a href="https://bouncejs.com/">Bounce.js</a></td>
+        <td>Bounce.js is a JavaScript library for creating beautiful CSS3 animations with ease. You can customize and preview your animations directly on the website.</td>
     </tr>
 </table>
 
@@ -233,6 +259,14 @@ This category is a curated collection of valuable web development resources cont
         <td><a href="https://codepen.io/">Code Pen</a></td>
         <td>CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.</td>
     </tr>
+  <tr>
+        <td><a href="https://jsfiddle.net/">JSFiddle</a></td>
+        <td>JSFiddle is a web-based code playground that specializes in JavaScript, allowing you to test and share snippets of code.</td>
+    </tr>
+  <tr>
+        <td><a href="https://stackblitz.com/">StackBlitz</a></td>
+        <td>StackBlitz is an online IDE for web development that allows you to create Angular, React, and Vue.js projects in the browser.</td>
+    </tr>
 </table>
 
 #### Chrome extenstion
@@ -244,6 +278,14 @@ This category is a curated collection of valuable web development resources cont
     <tr>
         <td> <a href="https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi">Pesticide for Chrome</a></td>
         <td>This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.</td>
+    </tr>
+  <tr>
+        <td> <a href="https://www.wappalyzer.com/">Wappalyzer</a></td>
+        <td>Wappalyzer is a browser extension that helps you discover the technologies used on websites. It identifies CMS, web frameworks, and more.</td>
+    </tr>
+  <tr>
+        <td> <a href="https://www.lastpass.com/">LastPass</a></td>
+        <td>LastPass is a popular password manager and security extension for managing your online accounts and passwords securely.</td>
     </tr>
 </table>
 
