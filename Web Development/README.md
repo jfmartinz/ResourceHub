@@ -308,7 +308,7 @@ This category is a curated collection of valuable web development resources cont
     </tr>
 </table>
 
-####  animation
+####  Animations
 
 <table width="100%">
     <tr>
@@ -395,7 +395,7 @@ This category is a curated collection of valuable web development resources cont
     </tr>
 </table>
 
-#### Stock Photos & Videos
+#### Stock Photos  Videos
 
 <table width="100%">
     <tr>
@@ -663,7 +663,6 @@ to everyone - everywhere!</td>
         <td>This community aims to help you become a better Technical Writer and Make Money Online.</td>
       </tr>
 </table>
-
 
 #### Other Communities
 
