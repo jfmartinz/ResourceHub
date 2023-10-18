@@ -308,7 +308,7 @@ This category is a curated collection of valuable web development resources cont
     </tr>
 </table>
 
-#### CSS animation
+####  animation
 
 <table width="100%">
     <tr>
