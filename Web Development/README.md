@@ -228,7 +228,7 @@ This category is a curated collection of valuable web development resources cont
 
 </table>
 
-#### CSS Generators
+#### Generators
 
 <table width="100%">
     <tr>
