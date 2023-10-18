@@ -308,7 +308,7 @@ This category is a curated collection of valuable web development resources cont
     </tr>
 </table>
 
-####  Animations
+#### Animations
 
 <table width="100%">
     <tr>
@@ -395,7 +395,7 @@ This category is a curated collection of valuable web development resources cont
     </tr>
 </table>
 
-#### Stock Photos  Videos
+#### Stock Photos Videos
 
 <table width="100%">
     <tr>
