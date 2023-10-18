@@ -92,6 +92,10 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a></td>
     <td>React course for beginners. It simplifies and demystifies react to any beginner who is willing and eager to learn.</td>
   </tr>
+  <tr>
+    <td><a href="https://courses.kevinpowell.co/conquering-responsive-layouts">Conquering Responsive Web Design Layouts</a></td>
+    <td>A free drip course which will take 21-days to complete. It goes over thinking responsively, the basics of making responsive layouts with flexbox, and media queries. Its is a great course for anyone who is struggling with responsive web design.</td>
+  </tr>
 </table>
 
 <table width="100%">
@@ -173,7 +177,6 @@ This category is a curated collection of valuable web development resources cont
       <td ><a href="https://typography-daily.com/">Typography Daily</a></td>
       <td>A website featuring a new typographic inspiration every day.</td>
     </tr>
-
 
 </table>
 
