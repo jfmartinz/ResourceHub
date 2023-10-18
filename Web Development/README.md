@@ -133,6 +133,7 @@ This category is a curated collection of valuable web development resources cont
 ### Tools
 
 > Explore an amazing set of web development tools for working with text, images, icons, colors, extensions, and much more.
+
 #### Typography
 <table width="100%">
     <tr>
@@ -140,11 +141,23 @@ This category is a curated collection of valuable web development resources cont
         <th>Description</th>
     </tr>
     <tr>
-      <td ><a href="https://www.fontpair.co/">Fontpair</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+        <td><a href="https://www.fontpair.co/">Fontpair</a></td>
+        <td>Free fonts and font pairings to use for your next design project.</td>
     </tr>
-
+    <tr>
+        <td><a href="https://fonts.google.com/">Google Fonts</a></td>
+        <td>A vast collection of free, open-source fonts that you can easily integrate into your web projects.</td>
+    </tr>
+    <tr>
+        <td><a href="https://fontjoy.com/">Fontjoy</a></td>
+        <td>Generate font combinations with deep learning. Customize and fine-tune to find the perfect pairing.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.typewolf.com/">Typewolf</a></td>
+        <td>Curated collection of beautiful fonts, showcasing their use in real websites to help you choose the right typeface.</td>
+    </tr>
 </table>
+
 
 #### Colors
 <table width="100%">
