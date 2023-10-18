@@ -146,9 +146,34 @@ This category is a curated collection of valuable web development resources cont
         <th>Description</th>
     </tr>
     <tr>
+      <td ><a href="https://fonts.google.com/">Google Fonts</a></td>
+      <td>A library of over 1,400 open source fonts.</td>
+    </tr>
+    <tr>
       <td ><a href="https://www.fontpair.co/">Fontpair</a></td>
       <td>Free fonts and font pairings to use for your next design project.</td>
     </tr>
+    <tr>
+      <td ><a href="https://fonts.adobe.com/">Adobe Fonts</a></td>
+      <td>A subscription service with access to thousands of fonts.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://fontsinuse.com/">Fonts In Use</a></td>
+      <td>A searchable archive of typographic design, indexed by typeface, format, and topic.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://www.typewolf.com/">Typewolf</a></td>
+      <td>An independent typographic resource with articles, tutorials, and inspiration.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://typehunting.com/">Type Hunting</a></td>
+      <td>A website to discover and explore new typefaces.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://typography-daily.com/">Typography Daily</a></td>
+      <td>A website featuring a new typographic inspiration every day.</td>
+    </tr>
+
 
 </table>
 
@@ -169,11 +194,40 @@ This category is a curated collection of valuable web development resources cont
     </tr>
   <tr>
         <td> <a href="https://flatuicolors.com/">FlatUIColors</a></td>
-        <td>This resource provides a collection of flat and trendy colors that work well for modern web design./td>
+        <td>This resource provides a collection of flat and trendy colors that work well for modern web design.</td>
     </tr>
     <tr>
       <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
       <td>Visualize color palettes and fonts on a real website.</td>
+    </tr>
+    <tr>
+      <td><a href="https://color.adobe.com/create/color-wheel">Adobe Color </a></td>
+      <td> Adobe that allows you to create palettes based on color rules, explore trending palettes, and save your palettes to the cloud.
+</td>
+    </tr>
+    <tr>
+      <td><a href="https://paletton.com/">Paletton</a></td>
+      <td>A color palette generator that allows you to create palettes based on color schemes, lightness, and saturation.</td>
+    </tr>
+    <tr>
+      <td><a href="https://brandcolors.net/">BrandColors</a></td>
+      <td>A website with a curated collection of color palettes from popular brands.</td>
+    </tr>
+    <tr>
+      <td><a href="https://colorkuler.com/">Colorkuler</a></td>
+      <td>A website with a variety of color palette generators, including a tool that allows you to create palettes from images.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.designspiration.com/">Designspiration </a></td>
+      <td> A website with a curated collection of design inspiration, including color palettes.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.sherwin-williams.com/content/colorsnap">ColorSnap </a></td>
+      <td>A mobile app from Sherwin-Williams that allows you to scan colors from the real world and find matching paint colors.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.sherwin-williams.com/content/colorsnap">Color Thief  </a></td>
+      <td>A mobile app from Sherwin-Williams that allows you to scan colors from the real world and find matching paint colors.</td>
     </tr>
 
 </table>
@@ -235,6 +289,26 @@ This category is a curated collection of valuable web development resources cont
     <tr>
         <td><a href="https://fonts.google.com/icons">Material Icons</a></td>
         <td> Google's Material Icons is a comprehensive collection of icons designed according to Material Design guidelines.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.flaticon.com/">Flaticon</a></td>
+        <td> A large library of free icons in a variety of styles, including SVG, PNG, and ICO.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.iconfinder.com/">Iconfinder</a></td>
+        <td> library of free icons, with the ability to filter by style, color, and other criteria.</td>
+    </tr>
+    <tr>
+        <td><a href="https://thenounproject.com/">The Noun Project</a></td>
+        <td>A collection of free icons that are all created by designers.</td>
+    </tr>
+    <tr>
+        <td><a href="https://graphicburger.com/">GraphicBurger</a></td>
+        <td> A website with a variety of free design resources, including icons, fonts, and templates.</td>
+    </tr>
+    <tr>
+        <td><a href="https://mariodelvalle.github.io/CaptainIconWeb/">Captain Icon</a></td>
+        <td> A website with a variety of free icons, with the ability to filter by style, color, and theme.</td>
     </tr>
 </table>
 
@@ -335,6 +409,30 @@ This category is a curated collection of valuable web development resources cont
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
+    </tr>
+     <tr>
+        <td> <a href="https://www.shutterstock.com/">Shutterstock</a></td>
+        <td>a vast library of over 380 million images and 20 million videos</td>
+    </tr>
+     <tr>
+        <td> <a href="https://unsplash.com/">Unsplash</a></td>
+        <td> All of the photos and videos on Unsplash are licensed under the Creative Commons Zero (CC0) license, which means that you can use them for any purpose, even commercially, without attribution.</td>
+    </tr>
+     <tr>
+        <td> <a href="https://www.pexels.com/">Pexels</a></td>
+        <td>Pexels is another website that offers free stock photos and videos. All of the photos and videos on Pexels are licensed under the Creative Commons Zero (CC0) </td>
+    </tr>
+     <tr>
+        <td> <a href="https://pixabay.com/">Pixabay</a></td>
+        <td> you can use them for any purpose, even commercially, without attribution.a vast library of over 380 million images and 20 million videos</td>
+    </tr>
+     <tr>
+        <td> <a href="https://www.videezy.com/">Videezy</a></td>
+        <td> Videezy is a website that offers free stock videos. All of the videos on Videezy are licensed under the Creative Commons Attribution license,</td>
+    </tr>
+     <tr>
+        <td> <a href="https://mixkit.co/">Mixkit</a></td>
+        <td> All of the content on Mixkit is licensed under the Creative Commons Attribution license, which means that you can use it for any purpose</td>
     </tr>
 </table>
 
