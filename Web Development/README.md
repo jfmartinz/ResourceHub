@@ -128,12 +128,18 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://laracasts.com/path">Full Stack Developer on Laravel and Vue Js</a></td>
     <td>This is the path of becoming a full-stack developer on Laravel and Vuejs</td>
   </tr>
+  <tr>
+    <td><a href="https://communitytaught.org/class/all">100Devs</a></td>
+    <td>100Devs is a diverse and inclusive community of 1000s of participants in a training program run by Leon Noel. It is 100% free and requires absolutely no previous technical experience.this is not a coding bootcamp, this is a how to get a Full Stack Web Dev job bootcamp</td>
+  </tr>
 </table>
 
 ### Tools
 
 > Explore an amazing set of web development tools for working with text, images, icons, colors, extensions, and much more.
+
 #### Typography
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -147,6 +153,7 @@ This category is a curated collection of valuable web development resources cont
 </table>
 
 #### Colors
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -172,6 +179,7 @@ This category is a curated collection of valuable web development resources cont
 </table>
 
 #### Generators
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -208,6 +216,7 @@ This category is a curated collection of valuable web development resources cont
 </table>
 
 #### Icons
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -230,6 +239,7 @@ This category is a curated collection of valuable web development resources cont
 </table>
 
 #### Animations
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -250,6 +260,7 @@ This category is a curated collection of valuable web development resources cont
 </table>
 
 #### Code Playgrounds
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -282,6 +293,7 @@ This category is a curated collection of valuable web development resources cont
 </table>
 
 #### Chrome extenstion
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -318,6 +330,7 @@ This category is a curated collection of valuable web development resources cont
 </table>
 
 #### Stock Photos Videos
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -326,6 +339,7 @@ This category is a curated collection of valuable web development resources cont
 </table>
 
 #### SVGs
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -351,6 +365,7 @@ This category is a curated collection of valuable web development resources cont
 </table>
 
 #### Other Tools
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -443,6 +458,7 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
 > Discover communities where you can learn and network while studying web development. These communities may include Discord servers, Reddit communities, Facebook groups, Twitter, and more.
 
 #### Discord
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -474,6 +490,7 @@ to everyone - everywhere!</td>
 </table>
 
 #### Reddit
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -493,8 +510,8 @@ to everyone - everywhere!</td>
       </tr>
 </table>
 
-
 #### Facebook Groups
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -507,6 +524,7 @@ to everyone - everywhere!</td>
 </table>
 
 #### X Tech Communities
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -555,9 +573,9 @@ to everyone - everywhere!</td>
         <td>This community aims to help you become a better Technical Writer and Make Money Online.</td>
       </tr>
 </table>
-      
 
 #### Other Communities
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -588,7 +606,6 @@ to everyone - everywhere!</td>
         <td>This community will help you learn to code and get a developer job.</td>
       </tr>
 </table>
-
 
 ### YouTube Channels
 
