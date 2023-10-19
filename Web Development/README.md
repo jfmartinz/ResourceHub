@@ -150,10 +150,6 @@ This category is a curated collection of valuable web development resources cont
         <th>Description</th>
     </tr>
     <tr>
-      <td ><a href="https://fonts.google.com/">Google Fonts</a></td>
-      <td>A library of over 1,400 open source fonts.</td>
-    </tr>
-    <tr>
       <td ><a href="https://www.fontpair.co/">Fontpair</a></td>
       <td>Free fonts and font pairings to use for your next design project.</td>
     </tr>
@@ -165,11 +161,6 @@ This category is a curated collection of valuable web development resources cont
       <td ><a href="https://fontsinuse.com/">Fonts In Use</a></td>
       <td>A searchable archive of typographic design, indexed by typeface, format, and topic.</td>
     </tr>
-    <tr>
-      <td ><a href="https://www.typewolf.com/">Typewolf</a></td>
-      <td>An independent typographic resource with articles, tutorials, and inspiration.</td>
-    </tr>
-    <tr>
       <td ><a href="https://typehunting.com/">Type Hunting</a></td>
       <td>A website to discover and explore new typefaces.</td>
     </tr>
