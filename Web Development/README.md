@@ -145,16 +145,8 @@ This category is a curated collection of valuable web development resources cont
         <td>Free fonts and font pairings to use for your next design project.</td>
     </tr>
     <tr>
-        <td><a href="https://fonts.google.com/">Google Fonts</a></td>
-        <td>A vast collection of free, open-source fonts that you can easily integrate into your web projects.</td>
-    </tr>
-    <tr>
         <td><a href="https://fontjoy.com/">Fontjoy</a></td>
-        <td>Generate font combinations with deep learning. Customize and fine-tune to find the perfect pairing.</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.typewolf.com/">Typewolf</a></td>
-        <td>Curated collection of beautiful fonts, showcasing their use in real websites to help you choose the right typeface.</td>
+     <td>Curated collection of beautiful fonts, showcasing their use in real websites to help you choose the right typeface.</td>
     </tr>
 </table>
 
