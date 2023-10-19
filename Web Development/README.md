@@ -96,6 +96,14 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://courses.kevinpowell.co/conquering-responsive-layouts">Conquering Responsive Web Design Layouts</a></td>
     <td>A free drip course which will take 21-days to complete. It goes over thinking responsively, the basics of making responsive layouts with flexbox, and media queries. Its is a great course for anyone who is struggling with responsive web design.</td>
   </tr>
+  <tr>
+    <td><a href="https://youtu.be/5fb2aPlgoys?si=V-yc_aYIhX2cMX4y">JavaScript DOM Manipulation — Full Course for Beginners</a></td>
+    <td>Learn about JavaScript DOM manipulation in this beginner's tutorial. This is when you use JavaScript to add, remove, and modify elements of a website.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/lkIFF4maKMU?si=jjjjb4MHU-sIWs71">100+ JavaScript Concepts you Need to Know</a></td>
+    <td>The ultimate 10 minute JavaScript course that quickly breaks down over 100 key concepts every web developer should know.</td>
+  </tr>
 </table>
 
 <table width="100%">
