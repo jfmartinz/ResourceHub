@@ -363,7 +363,7 @@ this course has two sections:
         <td>CSS Filter Generator is a tool that helps you create and visualize images with different CSS filters applied to them. With CSS Filter Generator, you can experiment with filters like blur, brightness, contrast, and many others to create unique effects for your website.</td>
     </tr>
       <tr>
-        <td> <a href="">Clip Path Maker</a></td>
+        <td> <a href="https://bennettfeely.com/clippy/">Clip Path Maker</a></td>
         <td>Clip Path Maker is a CSS generator that helps you create complex shapes with the clip-path property. With Clip Path Maker, you can create shapes like triangles, circles, polygons, and many others by adjusting the clip-path parameters.</td>
     </tr>
 </table>
@@ -457,6 +457,27 @@ this course has two sections:
         <td> <a href="https://keyframes.app/">Keyframes.app</a></td>
         <td>An easy way to create CSS animations, box-shadows, colors, and more. Use the visual editors to adjust properties and watch the changes live as you make them. Then, instantly get the generated CSS to use in your projects. In addition to its core features, Keyframes is completely free, private and open source.</td>
     </tr>
+        <tr>
+        <td> <a href="https://greensock.com/gsap/">GreenSock Animation Platform (GSAP)</a></td>
+        <td>GSAP is a powerful JavaScript animation library that allows you to create high-performance, smooth animations for web projects.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://animejs.com/">Anime.js</a></td>
+        <td>Anime.js is a lightweight JavaScript animation library that enables you to create simple to complex animations with ease.</td>
+    </tr>
+     <tr>
+        <td> <a href="https://lottiefiles.com/">LottieFiles</a></td>
+        <td>LottieFiles is a platform for using and sharing animations made with Adobe After Effects as JSON files in web projects.</td>
+    </tr>
+     <tr>
+        <td> <a href="https://wowjs.uk/">WOW.js</a></td>
+        <td>WOW.js is a JavaScript library for creating scroll-triggered animations. It allows you to animate elements as they enter the viewport, adding a touch of interactivity to your website.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.scrollmagic.io/">ScrollMagic</a></td>
+        <td>ScrollMagic is a JavaScript library for creating scroll-based animations. It allows you to trigger animations as users scroll down a webpage, adding interactive effects to your site.</td>
+    </tr>
+   
 </table>
 
 #### Code Playgrounds
