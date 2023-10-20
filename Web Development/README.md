@@ -278,6 +278,62 @@ this course has two sections:
         <td> <a href="https://cssgrid-generator.netlify.app/">CSS Grid Generator</a></td>
         <td>built with by sarah_edo. Columns. Rows. Column Gap (in px). Row Gap (in px). Please may I have some code. Reset grid.</td>
     </tr>
+      <tr>
+        <td> <a href="https://www.gradient-animator.com/">Gradient Animator</a></td>
+        <td>Gradient Animator is a tool that helps you create and animate CSS gradients. You can generate dynamic and eye-catching gradient animations for your website backgrounds or elements.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://cubic-bezier.com/">Cubic Bezier Generator</a></td>
+        <td>This tool allows you to create and fine-tune cubic bezier easing functions for CSS transitions and animations, ensuring smooth and customized motion on your website.</td>
+    </tr>
+       <tr>
+        <td> <a href="https://css3gen.com/text-shadow/">CSS3Gen - Text Shadow Generator</a></td>
+        <td>CSS3Gen's Text Shadow Generator enables you to create and fine-tune text shadow effects for web typography, helping you enhance the visual appeal of your website's text elements.</td>
+    </tr>
+       <tr>
+        <td> <a href="https://www.mockaroo.com/">Mockaroo</a></td>
+        <td>Mockaroo is a data generator that helps you create realistic test data for your web applications. It's useful for testing and development purposes.</td>
+    </tr>
+     <tr>
+        <td> <a href="https://cssmatic.com/box-shadow">CSSmatic - Box Shadow Generator</a></td>
+        <td>CSSmatic's Box Shadow Generator enables you to create and customize CSS box shadow effects with a visual interface, allowing you to control shadows on web elements.</td>
+    </tr>
+     <tr>
+        <td> <a href="https://favicon.io/">Favicon.io</a></td>
+        <td>The only favicon generator you need for your next project. Quickly generate your favicon from text, image, or choose from hundreds of emojis.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://www.favicon-generator.org/">Favicon Generator</a></td>
+        <td>This online tool helps you generate favicons for your website. Favicons are small icons that appear in the browser tab, making your site easily identifiable to users.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://www.blobmaker.app/">Blob Maker</a></td>
+        <td>Blob Maker is a tool that helps you create unusual shapes easily. With Blob Maker, you can experiment with different shapes, colors, and sizes to create eye-catching designs. You can copy and download the SVG file of the shapes you create, making it easy to integrate them into your web projects.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://getwaves.io/">Getwaves</a></td>
+        <td>Getwaves is a CSS generator that helps you create unique wave shapes for your web pages. With Getwaves, you can customize the wave’s amplitude, frequency, and color to match your website’s design. You can also copy and download the SVG file of the waves you create.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://hype4.academy/tools/glassmorphism-generator">Glassmorphism</a></td>
+        <td>Glassmorphism is another design trend that creates a frosted glass effect on elements. With Glassmorphism.com, you can customize the blur, opacity, and color of the glass effect and generate CSS code for your designs.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://cssgenerator.org/box-shadow-css-generator.html">CSS Glow Generator</a></td>
+        <td>CSS Glow Generator is a tool that helps you generate CSS code for a box-shadow effect. With CSS Glow Generator, you can quickly generate box-shadow CSS declarations for your website. You can customize the blur, spread, color, and position of the glow effect to match your website’s design.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://css3generator.com/">CSS3 Generator</a></td>
+        <td>CSS3 Generator is a website that provides many useful CSS generators to demonstrate various CSS properties. With CSS3 Generator, you can experiment with CSS code for border-radius, text-shadow, box-shadow, and many other CSS properties.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://cssgenerator.org/filter-css-generator.html">CSS Filter Generator</a></td>
+        <td>CSS Filter Generator is a tool that helps you create and visualize images with different CSS filters applied to them. With CSS Filter Generator, you can experiment with filters like blur, brightness, contrast, and many others to create unique effects for your website.</td>
+    </tr>
+      <tr>
+        <td> <a href="">Clip Path Maker</a></td>
+        <td>Clip Path Maker is a CSS generator that helps you create complex shapes with the clip-path property. With Clip Path Maker, you can create shapes like triangles, circles, polygons, and many others by adjusting the clip-path parameters.</td>
+    </tr>
 </table>
 
 #### Icons
