@@ -626,7 +626,51 @@ this course has two sections:
       <td><a href="https://haikei.app">Haikei</a></td>
       <td>Generate unique SVG design assets.</td>
     </tr>
-    
+    <tr>
+        <td> <a href="https://undraw.co/">UnDraw</a></td>
+        <td>UnDraw provides a selection of customizable SVG illustrations that you can use to add a unique touch to your web designs.</td>
+    </tr>
+       <tr>
+        <td> <a href="https://www.humaaans.com/">humaaans</a></td>
+        <td>humaaans is a resource for customizable human illustrations in SVG format. You can mix and match elements to create unique characters for your web projects.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.manypixels.co/gallery">ManyPixels Illustrations</a></td>
+        <td>ManyPixels Illustrations offers a selection of SVG illustrations and images that you can use to enhance your website or app designs.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://lukaszadam.com/illustrations">Lukasz Adam Illustrations</a></td>
+        <td>Lukasz Adam provides a collection of high-quality, hand-drawn SVG illustrations for free, which you can use in various web and design projects.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://storyset.com/">Storyset</a></td>
+        <td>Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor.</td>
+    </tr>
+        <tr>
+        <td> <a href="https://www.svgminify.com/">SVG Minify</a></td>
+        <td>SVG Minify is an online tool for minimizing the size of SVG files. It optimizes SVGs for the web by removing unnecessary metadata and whitespace.</td>
+    </tr>
+        <tr>
+        <td> <a href="https://www.svgrepo.com/">SVGRepo</a></td>
+        <td>SVGRepo is a collection of high-quality SVGs that you can download and use for free. It's a convenient resource for finding SVG icons and graphics.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://svgsprit.es/">SVG Sprit.es</a></td>
+        <td>SVG Sprit.es is a tool for creating SVG sprites. It helps you consolidate multiple SVG icons into a single sprite, reducing HTTP requests and improving performance.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.svgo.com/">SVGO</a></td>
+        <td>SVGO is a Node.js-based tool for optimizing SVG files. You can use it to reduce the size of SVGs, remove unnecessary data, and improve website loading times.</td>
+    </tr>
+        <tr>
+        <td> <a href="https://www.svgviewer.dev/">SVG.js</a></td>
+        <td>SVG.js is a JavaScript library for manipulating and animating SVG. It provides a simple and efficient way to work with SVG graphics in web development.</td>
+    </tr>
+
+   <tr>
+        <td> <a href="https://www.toptal.com/designers/subtlepatterns/">Subtle Patterns</a></td>
+        <td>Subtle Patterns offers a collection of subtle and seamless background patterns that you can use to enhance the design of your websites.</td>
+    </tr>
 </table>
 
 #### Other Tools
