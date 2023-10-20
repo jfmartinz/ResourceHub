@@ -128,6 +128,37 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://laracasts.com/path">Full Stack Developer on Laravel and Vue Js</a></td>
     <td>This is the path of becoming a full-stack developer on Laravel and Vuejs</td>
   </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=k4lHXIzCEkM&t=44s">Build and Deploy a Full Stack MERN Application With CRUD, Auth, and Charts Using Refine</a></td>
+    <td>In this one video, learn how to develop a fully functional full-stack MERN dashboard application with complete CRUD functionalities, authentication, pagination, sorting, filtering, and more!</td>
+  </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/watch?v=1RHDhtbqo94&t=68s">Build and Deploy a Modern Full Stack Social Media App | FULL COURSE</a></td>
+    <td>With all advanced Social Media features, such as Google Authentication, create, edit, delete and save posts, like and comment on other people's posts, search and filter images and much more, ShareMe is the best Image Sharing Social Media App that you can currently find on YouTube and on the entire internet.</td>
+  </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/watch?v=O5cmLDVTgAs&t=32s">Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB</a></td>
+    <td>Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!</td>
+  </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/watch?v=-42K44A1oMA">MERN Stack Tutorial - Book Store Project</a></td>
+    <td>Learn the MERN stack (MongoDB, Express, React, Node.js) in this crash course for beginners. Here are some of the topics you will learn about:
+    - Backend CRUD
+    - Backend Router
+    - CORS Policy
+    - MongoDB operations
+    - Frontend CRUD 
+    - Frontend Router </td>
+  </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLhaS1k1mPiCO878vo-9xFJAlUfcz9dMv2v">Blog MERN stack project
+</a></td>
+    <td>in this course, I will teach you how you can create a full-stack app step by step.
+this course has two sections:
+1- at the first we will create the Front-end part with React.js and Tailwind CSS.
+2- then we will create our Back-end with Node.js and MongoDB and finally connect our Front-end to our Back-end.</td>
+  </tr>
+  
 </table>
 
 ### Tools
