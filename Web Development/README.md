@@ -158,6 +158,11 @@ this course has two sections:
 1- at the first we will create the Front-end part with React.js and Tailwind CSS.
 2- then we will create our Back-end with Node.js and MongoDB and finally connect our Front-end to our Back-end.</td>
   </tr>
+
+  <tr>
+    <td><a href="https://communitytaught.org/class/all">100devs</a></td>
+    <td>100Devs is a diverse and inclusive community of 1000s of participants in a training program run by Leon Noel. It is 100% free and requires absolutely no previous technical experience. This is not a coding bootcamp, this is a how-to-get Full Stack Web Dev job bootcamp</td>
+  </tr>
   
 </table>
 
