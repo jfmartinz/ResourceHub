@@ -179,6 +179,43 @@ this course has two sections:
       <td ><a href="https://www.fontpair.co/">Fontpair</a></td>
       <td>Free fonts and font pairings to use for your next design project.</td>
     </tr>
+   <tr>
+        <td><a href="https://www.fontsquirrel.com/">Font Squirrel</a></td>
+        <td>Font Squirrel offers a variety of free fonts for web use. You can also use their web font generator to create custom font kits for your site.</td>
+    </tr>
+    <tr>
+        <td><a href="https://fonts.google.com/">Google Fonts</a></td>
+        <td>Google Fonts offers a vast collection of free, open-source fonts for web projects. You can easily integrate these fonts into your website using CSS.</td>
+    </tr>
+    <tr>
+        <td><a href="https://fonts.adobe.com/">Adobe Fonts</a></td>
+        <td>Adobe Fonts provides access to a large library of high-quality fonts that you can use for web design. It's a paid service but offers excellent font customization options.</td>
+    </tr>
+    <tr>
+       <tr>
+        <td><a href="https://www.dafont.com/">DaFont</a></td>
+        <td>DaFont is a popular resource for free fonts, offering a wide range of styles. It's great for personal and non-commercial projects.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.myfonts.com/">MyFonts</a></td>
+        <td>MyFonts is a marketplace for commercial fonts, offering a vast selection of high-quality fonts for both web and print projects.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.typewolf.com/">Typewolf</a></td>
+        <td>Typewolf is a website that showcases beautiful typography in web design. It provides inspiration and identifies the fonts used in various web designs.</td>
+    </tr>
+    <tr>
+        <td><a href="https://fontjoy.com/">Fontjoy</a></td>
+        <td>Fontjoy is a tool that helps you discover font pairings and experiment with typography combinations for your design projects.</td>
+    </tr>
+    <tr>
+        <td><a href="https://fontlibrary.org/">Font Library</a></td>
+        <td>Font Library offers a collection of high-quality, open-source fonts that can be used in web design. You can browse and download fonts for free.</td>
+    </tr>
+        <tr>
+        <td><a href="https://www.fontsmarket.com/">FontsMarket</a></td>
+        <td>FontsMarket provides a collection of free and premium fonts for web and print use. You can explore fonts by style, category, and more.</td>
+    </tr>
 
 </table>
 
