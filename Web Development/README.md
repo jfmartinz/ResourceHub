@@ -727,6 +727,18 @@ this course has two sections:
       <td><a href="https://element.eleme.io/#/en-US">Eleme.io</td>
       <td>A Desktop UI Library. Element, a Vue 2.0 based component library for developers, designers and product managers</td>
       </tr>
+        <tr>
+        <td> <a href="https://foundation.zurb.com/">Foundation</a></td>
+        <td>Foundation is a responsive front-end framework that provides a range of UI components, including a responsive grid system, forms, and navigation menus.</td>
+    </tr>
+       <tr>
+        <td> <a href="https://www.sitepoint.com/">SitePoint</a></td>
+        <td>SitePoint offers a collection of web development tutorials, articles, and code snippets, covering a wide range of UI and front-end development topics.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://www.smashingmagazine.com/">Smashing Magazine</a></td>
+        <td>Smashing Magazine is a well-known resource for web designers and developers, providing articles, tutorials, and code snippets for building creative and effective UI components.</td>
+    </tr>
 </table>
 
 ### Books
