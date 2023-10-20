@@ -546,6 +546,34 @@ this course has two sections:
         <td> <a href="https://www.lastpass.com/">LastPass</a></td>
         <td>LastPass is a popular password manager and security extension for managing your online accounts and passwords securely.</td>
     </tr>
+       <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm">WhatFont</a></td>
+        <td>WhatFont enables you to easily identify the fonts used on a web page by simply hovering over the text.</td>
+    </tr>
+     <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc">Octotree</a></td>
+        <td>Octotree is a GitHub code tree extension that offers a convenient way to navigate and search through GitHub repositories.</td>
+    </tr>
+       <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa">JSON Formatter</a></td>
+        <td>JSON Formatter makes reading JSON data more user-friendly by formatting it in a tree view.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg">User-Agent Switcher</a></td>
+        <td>User-Agent Switcher helps you change your user-agent to simulate different browsers and devices for testing responsive designs.</td>
+    </tr>
+     <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc">SEOquake</a></td>
+        <td>SEOquake provides a wide range of SEO tools for analyzing web pages, including on-page SEO parameters, keyword density, and more.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn">BuiltWith Technology Profiler</a></td>
+        <td>This extension helps you discover the technology stack used on a website, including frameworks, CMS, and other web technologies.</td>
+    </tr>
+      <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh">Visual CSS Style Editor</a></td>
+        <td>Visual CSS Style Editor allows you to visually edit the CSS styles of any webpage. You can modify and preview changes in real-time.</td>
+    </tr>
 </table>
 
 #### Stock Photos Videos
@@ -553,6 +581,26 @@ this course has two sections:
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
+    </tr>
+      <tr>
+        <td> <a href="https://www.unsplash.com/">Unsplash</a></td>
+        <td>Unsplash is a popular platform for high-quality, free-to-use photos and images. It's a go-to resource for web designers and developers looking for stunning visuals.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.pexels.com/">Pexels</a></td>
+        <td>Pexels offers a vast library of free stock photos and videos. It's a valuable resource for finding visual content for web projects.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.shutterstock.com/">Shutterstock</a></td>
+        <td>Shutterstock is a well-known platform that provides a wide range of stock photos, videos, and illustrations. It offers both free and premium content.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.pixabay.com/">Pixabay</a></td>
+        <td>Pixabay is a repository of free images, photos, and videos. It's a great resource for finding creative commons-licensed visuals for web projects.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.videvo.net/">Videvo</a></td>
+        <td>Videvo offers a selection of free stock videos, motion graphics, and music. It's a valuable resource for web developers looking to enhance their projects with video content.</td>
     </tr>
 </table>
 
