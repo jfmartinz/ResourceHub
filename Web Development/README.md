@@ -300,6 +300,55 @@ this course has two sections:
         <td><a href="https://fonts.google.com/icons">Material Icons</a></td>
         <td> Google's Material Icons is a comprehensive collection of icons designed according to Material Design guidelines.</td>
     </tr>
+   <tr>
+        <td><a href="https://www.flaticon.com/">Flaticon</a></td>
+        <td>Flaticon offers a vast collection of free and premium icons, including vector icons and customizable sets for your design projects.</td>
+    </tr>
+   <tr>
+        <td><a href="https://www.iconfinder.com/">Iconfinder</a></td>
+        <td>Iconfinder is a comprehensive platform for discovering and downloading high-quality icons. It offers both free and premium icon sets.</td>
+    </tr>
+      <tr>
+        <td><a href="https://icons8.com/">Icons8</a></td>
+        <td>Icons8 offers a diverse collection of icons, including a free library and a paid service for customizable and vector icons.</td>
+    </tr>
+       <tr>
+        <td><a href="https://www.iconmonstr.com/">Iconmonstr</a></td>
+        <td>Iconmonstr provides a simple and clean collection of free, high-quality icons that you can download without attribution.</td>
+    </tr>
+      <tr>
+        <td><a href="https://thenounproject.com/">The Noun Project</a></td>
+        <td>The Noun Project is a platform dedicated to symbols and icons. It offers both free and paid icons for various design purposes.</td>
+    </tr>
+     <tr>
+        <td><a href="https://feathericons.com/">Feather Icons</a></td>
+        <td>Feather Icons is a collection of simply designed, open-source icons that are easy to customize and use in your web projects.</td>
+    </tr>
+       <tr>
+        <td><a href="https://www.iconshock.com/">Iconshock</a></td>
+        <td>Iconshock provides a wide range of premium and free icons, including icon packs, vector icons, and more for design projects.</td>
+    </tr>
+      <tr>
+        <td><a href="https://www.iconsdb.com/">Icons DB</a></td>
+        <td>Icons DB offers a library of high-quality, free icons in various styles and formats that you can download and use in your projects.</td>
+    </tr>
+        <tr>
+        <td><a href="https://icon-icons.com/">Icon Icons</a></td>
+        <td>Icon Icons offers a selection of free and premium icons, including SVG, PNG, and more formats for design and development.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.iconshock.com/">IconArchive</a></td>
+        <td>IconArchive is a vast resource for free icons and icon sets. It also provides icon-related articles and tutorials.</td>
+    </tr>
+      <tr>
+        <td><a href="https://icons8.com/line-awesome">Line Awesome</a></td>
+        <td>Line Awesome is an open-source icon set designed to be a replacement for Font Awesome. It's perfect for web projects.</td>
+    </tr>
+      <tr>
+        <td><a href="https://www.iconbros.com/">IconBros</a></td>
+        <td>IconBros offers a collection of free and premium icons that are easy to customize, making them suitable for various design projects.</td>
+    </tr>
+
 </table>
 
 #### Animations
