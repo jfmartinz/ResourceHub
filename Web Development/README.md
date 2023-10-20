@@ -241,6 +241,38 @@ this course has two sections:
       <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
       <td>Visualize color palettes and fonts on a real website.</td>
     </tr>
+     <tr>
+        <td> <a href="https://colorhunt.co/">Color Hunt</a></td>
+        <td>Color Hunt is a collection of beautiful color palettes. You can browse and pick palettes to use in your web designs, making color selection a breeze.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://mycolor.space/">MyColor</a></td>
+        <td>MyColor is a color palette generator that helps you create beautiful color schemes and gradients. It provides a user-friendly interface for color selection.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.colorzilla.com/gradient-editor/">ColorZilla Gradient Editor</a></td>
+        <td>ColorZilla's Gradient Editor allows you to create and customize CSS gradients with ease. You can experiment with gradient styles and copy the CSS code for your website.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.materialpalette.com/">Material Palette</a></td>
+        <td>Material Palette helps you choose colors that follow Google's Material Design guidelines. You can create palettes with primary and accent colors for a consistent look.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://paletton.com/">Paletton</a></td>
+        <td>Paletton is a color scheme designer that allows you to create color palettes with various color combinations and preview them in real-time. It's helpful for web and graphic designers.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.color-hex.com/color-palettes/">Color Hex - Palettes</a></td>
+        <td>Color Hex offers a collection of color palettes for inspiration. You can explore different color combinations and find the perfect palette for your web project.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://imagecolorpicker.com/">Image Color Picker</a></td>
+        <td>Image Color Picker is a tool that helps you extract colors from images. Simply upload an image, and it will identify and provide the color codes used in the image.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.webfx.com/web-design/color-schemes/">WebFX Color Scheme Generator</a></td>
+        <td>WebFX's Color Scheme Generator allows you to create cohesive color schemes for your web design projects by selecting a base color and generating matching colors.</td>
+    </tr>
 
 </table>
 
