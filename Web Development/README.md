@@ -477,7 +477,7 @@ this course has two sections:
         <td> <a href="https://www.scrollmagic.io/">ScrollMagic</a></td>
         <td>ScrollMagic is a JavaScript library for creating scroll-based animations. It allows you to trigger animations as users scroll down a webpage, adding interactive effects to your site.</td>
     </tr>
-   
+
 </table>
 
 #### Code Playgrounds
@@ -766,9 +766,14 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <td>free</td>
       </tr>
          <tr>
-        <td> <a href="#"> <!-- download link or book url--> </a></td>
-        <td><!-- book description --></td>
-        <td><!-- free or paid? --></td>
+        <td> <a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS (book series) by Kyle Simpson</a></td>
+        <td>This is a series of books that goes deep into the inner workings of JavaScript. It's a great choice for developers who want to understand JavaScript thoroughly.</td>
+        <td>Free</td>
+      </tr>
+         <tr>
+        <td> <a href="https://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf">JavaScript: The Good Parts" by Douglas Crockford</a></td>
+        <td>Douglas Crockford's book focuses on the best practices and most important parts of JavaScript. It's a concise guide to writing clean and effective JavaScript code.</td>
+        <td>Free</td>
       </tr>
 
   </table>
