@@ -862,9 +862,29 @@ to everyone - everywhere!</td>
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
-       <tr>
-        <td>Resource Name</td>
-        <td>Description</td>
+      <tr>
+        <td><a href="https://web.facebook.com/groups/wwebdeveloper">Web developer</a></td>
+        <td>Web developer - a community of the best experts HTML / CSS / PHP / JAVASCRIPT ...</td>
+      </tr>
+      <tr>
+        <td><a href="https://web.facebook.com/groups/416236661724936">Web developers</a></td>
+        <td>Web Developers, HTML, CSS, JavaScript, PHP, C#, ASP .net and more. Discuss coding and jobs to funny memes. Tutorials from beginner to advanced.</td>
+      </tr>
+      <tr>
+        <td><a href="https://web.facebook.com/groups/fullstackdevelopersnetwork">Full Stack Developers / DevOps / Software Designers and Architects</a></td>
+        <td>A community of professional developers from every background.
+        We are here to discuss issues or problems related to all the software development phases that includes planning, designing, architecture, patterns, UI/API/DB development, deployment, continuous integration etc.</td>
+      </tr>
+      <tr>
+        <td><a href="https://web.facebook.com/groups/advfrontenddevs">Advanced Front-End Developers (ReactJS)</a></td>
+        <td>This group focuses on expanding knowledge by filtering beginner questions and assuming a minimum of 2 years of experience in JavaScript front-end development, specifically ReactJS.</td>
+      </tr>
+      <tr>
+        <td><a href="https://web.facebook.com/groups/306772026647688">Javascript Developers</a></td>
+        <td>This group is all about JavaScript questions answers new tricks coding skills development JavaScript new frameworks tutorials and all Angularjs, ReactJs, NodeJs & all</td>
+      <tr>
+        <td><a href="https://web.facebook.com/groups/html5css3javascripttut">Front-End Developers</a></td>
+        <td>Articles/ Posts, Questions, Answers and Help - all about Front-end Web Development</td>
       </tr>
 </table>
 
