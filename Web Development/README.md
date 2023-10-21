@@ -81,6 +81,10 @@ This category is a curated collection of valuable web development resources cont
     <td>A 45min for learning routing in react via react-router@6</td>
   </tr>
   <tr>
+    <td><a href="https://www.youtube.com/watch?v=NqzdVN2tyvQ">React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial</a></td>
+    <td>This React Redux Full Course for Beginners is a complete tutorial full of 4 hours of React and Redux Toolkit code and instruction to help you learn state management with Redux. Think of this React Redux full course tutorial as a video textbook with 7 clearly defined chapters.</td>
+  </tr>
+  <tr>
     <td><a href="https://youtube.com/playlist?list=PL4-IK0AVhVjP27yZLwW-gkPggRps0CCnP&si=NRNmXP9MXHrzjUS4">HTML and CSS Core Concepts by Kevin Powell</a></td>
     <td>This playlist teaches us to learn the core concepts of HTML and CSS that are fundamental for every web developer.</td>
   </tr>
@@ -103,6 +107,11 @@ This category is a curated collection of valuable web development resources cont
   <tr>
     <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
     <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and Handlebars</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8">Node.js Full course got beginners</a></td>
+    <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.</td>
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=qwfE7fSVaZM&t=5107s&pp=ygUcZnJlZWNvZGVjYW1wIHJlYAWN0IGpzIGNvdXJzZQ%3D%3D">Learn and make 4 node.js & express projects</a></td>
@@ -169,7 +178,9 @@ this course has two sections:
 ### Tools
 
 > Explore an amazing set of web development tools for working with text, images, icons, colors, extensions, and much more.
+
 #### Typography
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -220,6 +231,7 @@ this course has two sections:
 </table>
 
 #### Colors
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -277,6 +289,7 @@ this course has two sections:
 </table>
 
 #### Generators
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -369,6 +382,7 @@ this course has two sections:
 </table>
 
 #### Icons
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -440,6 +454,7 @@ this course has two sections:
 </table>
 
 #### Animations
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -481,6 +496,7 @@ this course has two sections:
 </table>
 
 #### Code Playgrounds
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -513,6 +529,7 @@ this course has two sections:
 </table>
 
 #### Chrome extenstion
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -577,6 +594,7 @@ this course has two sections:
 </table>
 
 #### Stock Photos Videos
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -605,6 +623,7 @@ this course has two sections:
 </table>
 
 #### SVGs
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -674,6 +693,7 @@ this course has two sections:
 </table>
 
 #### Other Tools
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -783,6 +803,7 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
 > Discover communities where you can learn and network while studying web development. These communities may include Discord servers, Reddit communities, Facebook groups, Twitter, and more.
 
 #### Discord
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -814,6 +835,7 @@ to everyone - everywhere!</td>
 </table>
 
 #### Reddit
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -833,8 +855,8 @@ to everyone - everywhere!</td>
       </tr>
 </table>
 
-
 #### Facebook Groups
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -847,6 +869,7 @@ to everyone - everywhere!</td>
 </table>
 
 #### X Tech Communities
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -895,9 +918,9 @@ to everyone - everywhere!</td>
         <td>This community aims to help you become a better Technical Writer and Make Money Online.</td>
       </tr>
 </table>
-      
 
 #### Other Communities
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -928,7 +951,6 @@ to everyone - everywhere!</td>
         <td>This community will help you learn to code and get a developer job.</td>
       </tr>
 </table>
-
 
 ### YouTube Channels
 
