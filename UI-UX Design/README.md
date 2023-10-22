@@ -293,50 +293,49 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
       <tr>
       <td><a href="https://newsletter.uxdesign.cc/">UX Collective Newsletter</a></td>
       <td>UX Collective is the premier Medium publication for UX content with a high editorial standard
-      <p>We believe designers are thinkers as much as they are makers. So we created the design newsletter we have always wanted to receive.</p> </td>
+      We believe designers are thinkers as much as they are makers. So we created the design newsletter we have always wanted to receive. </td>
       </tr>
       <!-- second one -->
       <tr> 
       <td><a href="https://theme-selection.medium.com/the-10-best-newsletters-for-ui-ux-designers-in-2021-45bbdc4dec01">The Smashing email Newsletter
-</a> </td>
+    </a> </td>
       <td>Useful front-end & UX bits, delivered once a week.
-      <p>With tools to help you get your work done better. Subscribe and get Vitaly’s Smart Interface Design Checklists PDF via email.</p> </td>
+    With tools to help you get your work done better. Subscribe and get Vitaly’s Smart Interface Design Checklists PDF via email. </td>
       </tr>
       <!-- third one -->
       <tr>
       <td><a href="https://sidebar.io/">Sidebar</a> </td>
       <td>
       What can web designers and developers do to build a more sustainable web?
-      <p>Say no to Sidebar-less inboxes Make your inbox happy with Sidebar's daily newsletter.</p> </td>
+      Say no to Sidebar-less inboxes Make your inbox happy with Sidebar's daily newsletter. </td>
       </tr>
       <!-- fourth one -->
       <tr>
       <td> <a href="https://web-design-weekly.com/">Web Design Weekly </a> </td>
       <td> Stay up-to-date and elevate your web design skills
-      <p>Articles and tutorials on web design and development, delivered every Wednesday, for free. </p></td>
+      Articles and tutorials on web design and development, delivered every Wednesday, for free. </td>
       </tr>
       <!-- fifth one -->
       <tr>
       <td> <a href="https://designmodo.com/subscribe/">Designmodo</td>
       <td>Get the latest and most important news about web design and development.
-    <p>Each month our 143,295 readers receive a newsletter packed with the best articles, news and products. Plus, the best job openings available that month from the best companies.</p> </td>
+    Each month our 143,295 readers receive a newsletter packed with the best articles, news and products. Plus, the best job openings available that month from the best companies. </td>
       </tr>
       <!-- sixth one -->
       <tr> 
       <td> <a href="https://heydesigner.com/newsletter/"> Hey designer</td>
       <td> HeyDesigner is the go-to newsletter for product people, UXers, PMs, and design engineers.
-      <p>Design and frontend links delivered to your inbox every day or week. No spam, unsubscribe at anytime. </p> </td>
+      Design and frontend links delivered to your inbox every day or week. No spam, unsubscribe at anytime. </td>
       </tr>
 <!-- siventh one -->
 <tr>
 <td> <a href="https://the-webdesigner.co/"> The Web Designer</td>
-<td>Become a Better Web Designer
-<p>Weekly insights, tips & strategies for growing your skills and earning more money doing what you love </p> </td>
+<td>Become a Better Web Designer>Weekly insights, tips & strategies for growing your skills and earning more money doing what you love. </td>
 </tr>
 
 <tr>
 <td> <a href="https://www.creativebloq.com/news/sign-up-for-the-creative-bloq-newsletter">Creative Bloq Newsletter </a> </td>
-<td>Every Wednesday, Creative Bloq curates the best articles of the week with additional offers and info <p> </p> The newsletter is condensed and convenient and if you are a truly passionate designer, this newsletter is perfect for you. </td>
+<td>Every Wednesday, Creative Bloq curates the best articles of the week with additional offers and info  The newsletter is condensed and convenient and if you are a truly passionate designer, this newsletter is perfect for you. </td>
 </tr>
 
 <tr>
