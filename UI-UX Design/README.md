@@ -321,4 +321,28 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
       <td>Get the latest and most important news about web design and development.
     <p>Each month our 143,295 readers receive a newsletter packed with the best articles, news and products. Plus, the best job openings available that month from the best companies.</p> </td>
       </tr>
+      <!-- sixth one -->
+      <tr> 
+      <td> <a href="https://heydesigner.com/newsletter/"> Hey designer</td>
+      <td> HeyDesigner is the go-to newsletter for product people, UXers, PMs, and design engineers.
+      <p>Design and frontend links delivered to your inbox every day or week. No spam, unsubscribe at anytime. </p> </td>
+      </tr>
+<!-- siventh one -->
+<tr>
+<td> <a href="https://the-webdesigner.co/"> The Web Designer</td>
+<td>Become a Better Web Designer
+<p>Weekly insights, tips & strategies for growing your skills and earning more money doing what you love </p> </td>
+</tr>
+
+<tr>
+<td> <a href="https://www.creativebloq.com/news/sign-up-for-the-creative-bloq-newsletter">Creative Bloq Newsletter </a> </td>
+<td>Every Wednesday, Creative Bloq curates the best articles of the week with additional offers and info <p> </p> The newsletter is condensed and convenient and if you are a truly passionate designer, this newsletter is perfect for you. </td>
+</tr>
+
+<tr>
+<td> <a href="https://muz.li/"> Muzli weekly digest </td>
+<td>he best design inspiration - expertly curated for you.
+Muzli is a new-tab browser extension that instantly delivers relevant design stories and inspiration to keep you in the loop.  </td>
+ </tr>
+      
 </table>
