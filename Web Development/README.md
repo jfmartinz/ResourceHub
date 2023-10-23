@@ -536,6 +536,10 @@ this course has two sections:
         <td><a href="https://stackblitz.com/">StackBlitz</a></td>
         <td>StackBlitz is an online IDE for web development that allows you to create Angular, React, and Vue.js projects in the browser.</td>
     </tr>
+    <tr>
+        <td><a href="https://www.programiz.com">Programiz</a></td>
+        <td>AN online IDE that allows you to write and test codes in numerous languages like python, HTML, java, javascript, etc.</td>
+    </tr>
 </table>
 
 #### Chrome extenstion
