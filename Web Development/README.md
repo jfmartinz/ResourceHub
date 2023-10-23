@@ -172,6 +172,16 @@ this course has two sections:
     <td><a href="https://communitytaught.org/class/all">100devs</a></td>
     <td>100Devs is a diverse and inclusive community of 1000s of participants in a training program run by Leon Noel. It is 100% free and requires absolutely no previous technical experience. This is not a coding bootcamp, this is a how-to-get Full Stack Web Dev job bootcamp</td>
   </tr>
+
+  <tr>
+    <td><a href="https://www.theodinproject.com">The Odin Project</td>
+    <td>The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=nu_pCVPKzTk">Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)</td>
+    <td>Learn full-stack web development in this full course for beginners. First, you will learn the basics of HTML, CSS, and JavaScript. Then, you will learn how to put everything together to create a frontend movie search app. Finally, you will learn how to create a backend API to create movie reviews and connect the frontend to the backend. The backend uses Node.js, Express, and MongoDB.</td>
+  </tr>
   
 </table>
 
@@ -525,6 +535,10 @@ this course has two sections:
     <tr>
         <td><a href="https://stackblitz.com/">StackBlitz</a></td>
         <td>StackBlitz is an online IDE for web development that allows you to create Angular, React, and Vue.js projects in the browser.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.programiz.com">Programiz</a></td>
+        <td>AN online IDE that allows you to write and test codes in numerous languages like python, HTML, java, javascript, etc.</td>
     </tr>
 </table>
 
