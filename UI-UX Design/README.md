@@ -279,6 +279,18 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
       <td><a href="https://youtube.com/playlist?list=PL1wFSWLYg_Ia97VL4pv-Ovz9330HfZX_k&si=1cHzpetgv_-0uszp">Webdesign Interviews/Podcast</a></td>
       <td>"Welcome to the 'Web Design Business Podcast Interviews' channel. On this channel, you'll find content covering the business aspects of web design, video interviews from podcast, and live stream Q&A sessions, with new videos typically posted 1-2 times a week.</td>
       </tr>
+      <tr>
+      <td><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front-end Developer Interview Questions</a></td>
+      <td>A GitHub repository with a collection of front-end developer interview questions that can be useful for web design interviews.</td>
+      </tr>
+       <tr>
+      <td><a href="https://interviewing.io/">Interviewing.io</a></td>
+      <td>A platform that offers anonymous technical interview practice with experienced engineers from top tech companies.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.indeed.com/career-advice/interviewing/how-to-answer-behavioral-interview-questions">How To Answer Behavioral Interview Questions</a></td>
+      <td>Indeed offers guidance on answering behavioral interview questions, which are common in web design interviews.</td>
+      </tr>
 </table>
 
 
