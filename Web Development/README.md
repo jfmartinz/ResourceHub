@@ -795,6 +795,27 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <td>Douglas Crockford's book focuses on the best practices and most important parts of JavaScript. It's a concise guide to writing clean and effective JavaScript code.</td>
         <td>Free</td>
       </tr>
+         <tr>
+        <td> <a href="https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf">Node.js Design Patterns by Mario Casciaro</a></td>
+        <td>If you're interested in back-end development with Node.js, this book is a valuable resource. It covers design patterns and best practices for building scalable and maintainable Node.js applications.
+</td>
+        <td>Free</td>
+      </tr>
+         <tr>
+        <td> <a href="https://wtf.tw/ref/robbins.pdf">Learning Web Design by Jennifer Niederst Robbins</a></td>
+        <td>This book provides a comprehensive introduction to web design, covering HTML, CSS, and responsive design principles. It's a great resource for those looking to build a strong foundation in web design.</td>
+        <td>Free</td>
+      </tr>
+         <tr>
+        <td> <a href="https://archive.org/details/CSSSecretsVkComWebtackles">CSS Secrets by Lea Verou</a></td>
+        <td>This book delves into advanced CSS techniques and tricks to help you create stunning and responsive web designs. It's an excellent resource for front-end developers looking to take their CSS skills to the next level.</td>
+        <td>Free</td>
+      </tr>
+         <tr>
+        <td> <a href="https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf">Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin</a></td>
+        <td>While not specific to web development, this book is invaluable for any programmer. It focuses on writing clean, maintainable, and efficient code, which is essential for creating high-quality web applications.</td>
+        <td>Free</td>
+      </tr>
 
   </table>
 
