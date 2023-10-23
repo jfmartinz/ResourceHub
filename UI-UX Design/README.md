@@ -276,8 +276,8 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
         <th>Description</th>
       </tr>
       <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://youtube.com/playlist?list=PL1wFSWLYg_Ia97VL4pv-Ovz9330HfZX_k&si=1cHzpetgv_-0uszp">Webdesign Interviews/Podcast</a></td>
+      <td>"Welcome to the 'Web Design Business Podcast Interviews' channel. On this channel, you'll find content covering the business aspects of web design, video interviews from podcast, and live stream Q&A sessions, with new videos typically posted 1-2 times a week.</td>
       </tr>
 </table>
 
