@@ -296,7 +296,14 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
       <td><a href="https://www.youtube.com/watch?v=2OzTi0iUMlE">UI/UX Design Job Interview Questions and Answers</a></td>
       <td>Questions that you will most likely be asked in a UX design interview as well as going over tips on how best to answer them.</td>
       </tr>
-     
+     <tr>
+      <td><a href="https://youtu.be/ghfjvmR7waY?feature=shared">Mock Interview & Feedback: UX / UI Designer</a></td>
+      <td>Basic, intermediate, and advanced answers to UI/UX Design role Interview Questions and Live feedback to help improve interviewing skills.</td>
+      </tr>
+      <tr>
+      <td><a href="https://intellipaat.com/blog/interview-question/ux-designer-interview-questions/">Top UX Designer Interview Questions</a></td>
+      <td>Go through these interview questions to acquire valuable tips that will help you respond effectively to the inquiries posed by the interviewer.</td>
+      </tr>
      
 </table>
 
