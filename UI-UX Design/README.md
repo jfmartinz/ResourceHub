@@ -36,6 +36,14 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
          <td>In Flux we've decided to teach Web Design for free to those who are using quarantine to make a change in their lives, to those who can't afford a web design course right now or to those that simply want to learn a new skill.
 </td>   
       </tr>
+       <tr>
+      <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
+      <td>The Nielsen Norman Group is a leading authority on user experience research and design. Their website offers a vast collection of UX articles, reports, and research findings that cover a wide range of topics within the UX field. These resources are invaluable for staying up to date with UX best practices and industry trends.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.adobe.com/products/xd/learn/view-all-xd-tutorials.html">Adobe XD - UI/UX Design Software and Tutorials</a></td>
+      <td>Adobe XD is a popular software tool for UI and UX design. Adobe's official website provides access to Adobe XD, and it also offers a rich set of tutorials, webinars, and resources to help designers master the software and enhance their UI and UX design skills. Adobe XD is widely used in the industry, making it a valuable skill for UI/UX designers.</td>
+      </tr>
   </table>
 
 ### Tools
@@ -185,6 +193,11 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <td>Without words, apps would be an unusable jumble of shapes and icons, while voice interfaces and chatbots wouldn’t even exist. Words make software human-centered, and require just as much thought as the branding and code. This book will show you how to give your users clarity, test your words, and collaborate with your team. You’ll see that writing is designing.</td>
         <td>Paid</td>
       </tr>
+       <tr>
+      <td><a href="https://sensible.com/dont-make-me-think/">"Don't Make Me Think" by Steve Krug</a></td>
+      <td>It is a classic book on web usability and user experience design. It provides valuable insights into creating user-friendly interfaces and emphasizes the importance of designing for intuitive user interactions. Steve Krug's writing is both practical and easy to understand, making it an excellent resource for UX designers.</td>
+             <td>Paid</td>
+      </tr>
          <tr>
         <td> <a href="#"><!-- download link or web link --></a></td>
         <td><!-- book description --></td>
@@ -283,18 +296,8 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
       <td><a href="https://www.youtube.com/watch?v=2OzTi0iUMlE">UI/UX Design Job Interview Questions and Answers</a></td>
       <td>Questions that you will most likely be asked in a UX design interview as well as going over tips on how best to answer them.</td>
       </tr>
-      <tr>
-      <td><a href="https://sensible.com/dont-make-me-think/">"Don't Make Me Think" by Steve Krug (Book)</a></td>
-      <td> "Don't Make Me Think" is a classic book on web usability and user experience design. It provides valuable insights into creating user-friendly interfaces and emphasizes the importance of designing for intuitive user interactions. Steve Krug's writing is both practical and easy to understand, making it an excellent resource for UX designers.</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
-      <td>The Nielsen Norman Group is a leading authority on user experience research and design. Their website offers a vast collection of UX articles, reports, and research findings that cover a wide range of topics within the UX field. These resources are invaluable for staying up to date with UX best practices and industry trends.</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.adobe.com/products/xd/learn/view-all-xd-tutorials.html">Adobe XD - UI/UX Design Software and Tutorials</a></td>
-      <td>Adobe XD is a popular software tool for UI and UX design. Adobe's official website provides access to Adobe XD, and it also offers a rich set of tutorials, webinars, and resources to help designers master the software and enhance their UI and UX design skills. Adobe XD is widely used in the industry, making it a valuable skill for UI/UX designers.</td>
-      </tr>
+     
+     
 </table>
 
 
