@@ -280,8 +280,8 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
       <td>"Welcome to the 'Web Design Business Podcast Interviews' channel. On this channel, you'll find content covering the business aspects of web design, video interviews from podcast, and live stream Q&A sessions, with new videos typically posted 1-2 times a week.</td>
       </tr>
       <tr>
-      <td><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front-end Developer Interview Questions</a></td>
-      <td>A GitHub repository with a collection of front-end developer interview questions that can be useful for web design interviews.</td>
+      <td><a href="https://www.youtube.com/watch?v=2OzTi0iUMlE">UI/UX Design Job Interview Questions and Answers</a></td>
+      <td>Questions that you will most likely be asked in a UX design interview as well as going over tips on how best to answer them.</td>
       </tr>
 </table>
 
