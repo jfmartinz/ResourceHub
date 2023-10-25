@@ -283,6 +283,18 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
       <td><a href="https://www.youtube.com/watch?v=2OzTi0iUMlE">UI/UX Design Job Interview Questions and Answers</a></td>
       <td>Questions that you will most likely be asked in a UX design interview as well as going over tips on how best to answer them.</td>
       </tr>
+      <tr>
+      <td><a href="https://sensible.com/dont-make-me-think/">"Don't Make Me Think" by Steve Krug (Book)</a></td>
+      <td> "Don't Make Me Think" is a classic book on web usability and user experience design. It provides valuable insights into creating user-friendly interfaces and emphasizes the importance of designing for intuitive user interactions. Steve Krug's writing is both practical and easy to understand, making it an excellent resource for UX designers.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
+      <td>The Nielsen Norman Group is a leading authority on user experience research and design. Their website offers a vast collection of UX articles, reports, and research findings that cover a wide range of topics within the UX field. These resources are invaluable for staying up to date with UX best practices and industry trends.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.adobe.com/products/xd/learn/view-all-xd-tutorials.html">Adobe XD - UI/UX Design Software and Tutorials</a></td>
+      <td>Adobe XD is a popular software tool for UI and UX design. Adobe's official website provides access to Adobe XD, and it also offers a rich set of tutorials, webinars, and resources to help designers master the software and enhance their UI and UX design skills. Adobe XD is widely used in the industry, making it a valuable skill for UI/UX designers.</td>
+      </tr>
 </table>
 
 
