@@ -36,6 +36,14 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
          <td>In Flux we've decided to teach Web Design for free to those who are using quarantine to make a change in their lives, to those who can't afford a web design course right now or to those that simply want to learn a new skill.
 </td>   
       </tr>
+       <tr>
+      <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
+      <td>The Nielsen Norman Group is a leading authority on user experience research and design. Their website offers a vast collection of UX articles, reports, and research findings that cover a wide range of topics within the UX field. These resources are invaluable for staying up to date with UX best practices and industry trends.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.adobe.com/products/xd/learn/view-all-xd-tutorials.html">Adobe XD - UI/UX Design Software and Tutorials</a></td>
+      <td>Adobe XD is a popular software tool for UI and UX design. Adobe's official website provides access to Adobe XD, and it also offers a rich set of tutorials, webinars, and resources to help designers master the software and enhance their UI and UX design skills. Adobe XD is widely used in the industry, making it a valuable skill for UI/UX designers.</td>
+      </tr>
   </table>
 
 ### Tools
@@ -285,6 +293,11 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <td>Without words, apps would be an unusable jumble of shapes and icons, while voice interfaces and chatbots wouldn’t even exist. Words make software human-centered, and require just as much thought as the branding and code. This book will show you how to give your users clarity, test your words, and collaborate with your team. You’ll see that writing is designing.</td>
         <td>Paid</td>
       </tr>
+       <tr>
+      <td><a href="https://sensible.com/dont-make-me-think/">"Don't Make Me Think" by Steve Krug</a></td>
+      <td>It is a classic book on web usability and user experience design. It provides valuable insights into creating user-friendly interfaces and emphasizes the importance of designing for intuitive user interactions. Steve Krug's writing is both practical and easy to understand, making it an excellent resource for UX designers.</td>
+             <td>Paid</td>
+      </tr>
          <tr>
         <td> <a href="#"><!-- download link or web link --></a></td>
         <td><!-- book description --></td>
@@ -376,8 +389,8 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
         <th>Description</th>
       </tr>
       <tr>
-      <td><a href="https://youtube.com/playlist?list=PL1wFSWLYg_Ia97VL4pv-Ovz9330HfZX_k&si=1cHzpetgv_-0uszp">Webdesign Interviews/Podcast</a></td>
-      <td>"Welcome to the 'Web Design Business Podcast Interviews' channel. On this channel, you'll find content covering the business aspects of web design, video interviews from podcast, and live stream Q&A sessions, with new videos typically posted 1-2 times a week.</td>
+        <td><a href="https://youtube.com/playlist?list=PL1wFSWLYg_Ia97VL4pv-Ovz9330HfZX_k&si=1cHzpetgv_-0uszp">Webdesign Interviews/Podcast</a></td>
+        <td>"Welcome to the 'Web Design Business Podcast Interviews' channel. On this channel, you'll find content covering the business aspects of web design, video interviews from podcast, and live stream Q&A sessions, with new videos typically posted 1-2 times a week.</td>
       </tr>
       <tr>
       <td><a href="https://www.youtube.com/watch?v=y2W0D-fQh-Q">Top UI/UX Designer Interview Questions & Answers For 2023 | UI/UX Interview Questions | Intellipaat</a></td>
@@ -401,6 +414,20 @@ Dee Scarano, the video host, has been involved in the UX design industry for ove
       <td><a href="https://www.youtube.com/watch?v=qOFAL7I3cHM">UI UX Design Interview Questions and Answers | UI UX | UI UX Design Certification Course | Edureka</a></td>
       <td>Looking to ace your UI/UX interview? Then you are at right place we’ve compiled a list of some of the most common UI/UX design interview questions and provided detailed answers to help you feel confident and prepared. Whether you’re a seasoned designer or just starting out, these questions and answers will give you a solid foundation for acing your next UI/UX design interview.</td>
       </tr>
+      <tr>
+        <td><a href="https://medium.com/@eleonorazucconi/46-interview-questions-for-user-experience-researchers-at-google-amazon-microsoft-and-facebook-c582827267b9">46 Interview Questions for User Experience Researchers at Google, Amazon, Microsoft and Facebook</a></td>
+        <td>A selection of inspiring and challenging questions (and a bonus presentation to practice them).</td>
+      </tr>
+     <tr>
+      <td><a href="https://youtu.be/ghfjvmR7waY?feature=shared">Mock Interview & Feedback: UX / UI Designer</a></td>
+      <td>Basic, intermediate, and advanced answers to UI/UX Design role Interview Questions and Live feedback to help improve interviewing skills.</td>
+      </tr>
+      <tr>
+      <td><a href="https://intellipaat.com/blog/interview-question/ux-designer-interview-questions/">Top UX Designer Interview Questions</a></td>
+      <td>Go through these interview questions to acquire valuable tips that will help you respond effectively to the inquiries posed by the interviewer.</td>
+      </tr>
+     
+
 </table>
 
 
