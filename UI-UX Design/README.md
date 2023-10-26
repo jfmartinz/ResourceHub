@@ -10,7 +10,7 @@
 - [Communities](#communities)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [Interview](#interview)<br>
-- [Newsletter](#youtube-channels)<br>
+- [Newsletter](#newsletter)<br>
 
 ### Overview
 
