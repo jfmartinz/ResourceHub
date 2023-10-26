@@ -105,8 +105,20 @@ This category is a curated collection of valuable web development resources cont
     <th>Description</th>
   </tr>
   <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLqX4M0x0p9ck3OfyL14-MISy6_-4oH9fK">Meta Back-End Developer Professional Certificate</a></td>
+    <td>Launch your career as a back-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started.
+
+Ready to gain new skills and the tools developers use to create websites and web applications? This certificate, designed by the software engineering experts at  Meta—the creators of Facebook and Instagram, will prepare you for an entry-level career as a back-end developer. 
+
+On completion, you’ll get access to the Meta Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well as career support resources to help you with your job search.</td>
+  </tr>
+  <tr>
     <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
     <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and Handlebars</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=26s">Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours</a></td>
+    <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.</td>
   </tr>
 
   <tr>
@@ -130,8 +142,8 @@ This category is a curated collection of valuable web development resources cont
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.sololearn.com/">Sololearn</a></td>
-    <td>MCQ and complete code questions to improve coding skills!</td>
+    <td><a href="https://www.youtube.com/watch?v=nu_pCVPKzTk&t=1453s">Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)</a></td>
+    <td>Learn full-stack web development in this full course for beginners. First, you will learn the basics of HTML, CSS, and JavaScript. Then, you will learn how to put everything together to create a frontend movie search app. Finally, you will learn how to create a backend API to create movie reviews and connect the frontend to the backend. The backend uses Node.js, Express, and MongoDB.</td>
   </tr>
   <tr>
     <td><a href="https://laracasts.com/path">Full Stack Developer on Laravel and Vue Js</a></td>
@@ -181,6 +193,23 @@ this course has two sections:
   <tr>
     <td><a href="https://www.youtube.com/watch?v=nu_pCVPKzTk">Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)</td>
     <td>Learn full-stack web development in this full course for beginners. First, you will learn the basics of HTML, CSS, and JavaScript. Then, you will learn how to put everything together to create a frontend movie search app. Finally, you will learn how to create a backend API to create movie reviews and connect the frontend to the backend. The backend uses Node.js, Express, and MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=P4kuSxpjA48&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN">Twitter clone with React.js, MongoDB and tailwind css</td>
+    <td>Let's build a Twitter clone using react.js, next.js, mongodb and tailwind css.
+Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, profile edits (username, name bio), drag&drop image uploads and much more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=hlh1zR2Wjvs&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=2">E-Commerce tutorial with Next.js, React, Tailwind, MongoDB and Stripe</td>
+    <td>In this tutorial we are going to build a fully functional e-commerce app with next.js, react.js, tailwind css, mongodb and stripe. We are going to implement stripe checkout and webhook to receive information from stripe.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=dTFXufTgfOE&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=10">Build a Fullstack E-commerce using Next.js (react.js, mongo, tailwind, styled components)</td>
+    <td>In this tutorial, You will learn how to build a fullstack ecommerce app using next.js and mongo database. It will be 2 projects with a lot of cool functionality.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=6dsLLp1_Ww8&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=6">Social Media App Tutorial (React.js, Supabase, Tailwind, Next.js)</td>
+    <td>In this video we are going to build a full stack social media app with react.js, tailwind and supabase. </td>
   </tr>
   
 </table>
@@ -460,7 +489,10 @@ this course has two sections:
         <td><a href="https://www.iconbros.com/">IconBros</a></td>
         <td>IconBros offers a collection of free and premium icons that are easy to customize, making them suitable for various design projects.</td>
     </tr>
-
+       <tr>
+        <td><a href="https://freeicons.io/">Freeicons</a></td>
+        <td>Get the best icons at Freeicons. We have a huge selection of high quality icons available for download in various formats such as PNG, SVG,EPS and vector.</td>
+    </tr>
 </table>
 
 #### Animations
@@ -634,6 +666,14 @@ this course has two sections:
         <td> <a href="https://www.videvo.net/">Videvo</a></td>
         <td>Videvo offers a selection of free stock videos, motion graphics, and music. It's a valuable resource for web developers looking to enhance their projects with video content.</td>
     </tr>
+          <tr>
+        <td> <a href="https://www.vecteezy.com/">Vecteezy</a></td>
+        <td>Choose from over a million free vectors, clipart graphics, vector art images, design templates, and illustrations created by artists worldwide!</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.freepik.com/">Freepik</a></td>
+        <td>Turn ideas into outstanding designs with high-quality vectors, photos, videos, mockups, and more</td>
+    </tr>
 </table>
 
 #### SVGs
@@ -728,6 +768,10 @@ this course has two sections:
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+    <tr>
+        <td> <a href="https://tailwindui.com/">Tailwind UI</a></td>
+        <td>Build your next idea even faster. Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.</td>
+    </tr>
       <tr>
       <td><a href="https://semantic-ui.com/">Semantic UI</td>
       <td>Semantic UI is an open-source framework that uses CSS and jQuery to build great user interfaces. It is the same as a bootstrap for use and has great different elements to use to make your website looks more amazing. It uses a class to add CSS to the elements.</td>
@@ -896,6 +940,13 @@ to everyone - everywhere!</td>
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
+      </tr>
+        <tr>
+        <td> <a href="https://www.facebook.com/groups/2749929895122316/?hoisted_section_header_type=recently_seen&multi_permalinks=6894237864024811">Learn HTML, CSS and JavaScript</a></td>
+        <td>We are trying to build a big community
+          (Group) on Facebook for helping beginner
+          programmers or those who want to start
+          programming. #Html #css and #Js</td>
       </tr>
       <tr>
         <td><a href="https://web.facebook.com/groups/wwebdeveloper">Web developer</a></td>

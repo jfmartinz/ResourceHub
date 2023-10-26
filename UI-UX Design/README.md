@@ -61,6 +61,106 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
         <td> <a href="https://proto.io/">Proto.io</a></td>
         <td>Proto.io is a web-based prototyping tool that allows you to create interactive and animated prototypes without any coding knowledge. </td>
       </tr>
+       <tr>
+    <td><a href="https://www.invisionapp.com/" target="_blank">InVision</a></td>
+    <td>InVision is a prototyping tool that enables designers to create interactive and animated user interfaces.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com/products/illustrator.html" target="_blank">Adobe Illustrator</a></td>
+    <td>Adobe Illustrator is a vector graphics editor widely used for creating icons and illustrations in UI/UX design.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.balsamiq.com/" target="_blank">Balsamiq</a></td>
+    <td>Balsamiq is a wireframing tool that allows designers to create low-fidelity mockups quickly.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.origami.design/" target="_blank">Origami</a></td>
+    <td>Origami, developed by Facebook, is a prototyping tool used to create mobile app and web interactions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://marvelapp.com/" target="_blank">Marvel</a></td>
+    <td>Marvel is a design and prototyping platform that helps in creating interactive user interfaces.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.solidifyapp.com/" target="_blank">Solidify</a></td>
+    <td>Solidify is a user testing and prototyping tool that helps in testing and validating UX designs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.axure.com/" target="_blank">Axure RP</a></td>
+    <td>Axure RP is a comprehensive prototyping and wireframing tool for complex UX projects.</td>
+  </tr>
+   <tr>
+    <td><a href="https://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a></td>
+    <td>Adobe Photoshop is a versatile graphic design tool commonly used for image editing and UI design.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.protopie.io/" target="_blank">ProtoPie</a></td>
+    <td>ProtoPie is an interactive prototyping tool that lets you create realistic, interactive prototypes without any code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.moqups.com/" target="_blank">Moqups</a></td>
+    <td>Moqups is an online platform for creating wireframes, mockups, and diagrams to support the design process.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.uxpin.com/" target="_blank">UXPin</a></td>
+    <td>UXPin is a design and prototyping platform that offers collaborative design and interactive prototyping features.</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.lucidchart.com/" target="_blank">Lucidchart</a></td>
+    <td>Lucidchart is an online diagramming and wireframing tool that allows you to create flowcharts, diagrams, and wireframes for your designs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cacoo.com/" target="_blank">Cacoo</a></td>
+    <td>Cacoo is an online diagram and wireframe tool for creating visual designs, flowcharts, and wireframes collaboratively.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.framer.com/" target="_blank">Framer</a></td>
+    <td>Framer is a design and prototyping tool that specializes in creating interactive, high-fidelity prototypes with real data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.flinto.com/" target="_blank">Flinto</a></td>
+    <td>Flinto is a Mac-based prototyping tool that enables you to create interactive prototypes and transitions for mobile apps and websites.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.miro.com/" target="_blank">Miro</a></td>
+    <td>Miro is an online collaborative whiteboarding platform that supports visual thinking, brainstorming, and wireframing for UX teams.</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.adobe.com/products/aftereffects.html" target="_blank">Adobe After Effects</a></td>
+    <td>Adobe After Effects is a motion graphics and animation software commonly used to create interactive and dynamic user interfaces.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com/products/indesign.html" target="_blank">Adobe InDesign</a></td>
+    <td>Adobe InDesign is a desktop publishing tool used for creating design layouts, including those for web and mobile applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mockplus.com/" target="_blank">Mockplus</a></td>
+    <td>Mockplus is a prototyping tool that offers a quick and easy way to create interactive prototypes with a drag-and-drop interface.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.wireframe.cc/" target="_blank">Wireframe.cc</a></td>
+    <td>Wireframe.cc is a simple online tool for creating wireframes and mockups with a minimalistic and user-friendly approach.</td>
+  </tr>
+  <tr>
+    <td><a href="https://whimsical.com/" target="_blank">Whimsical</a></td>
+    <td>Whimsical is an online collaborative tool that enables you to create flowcharts, wireframes, and mind maps for UX design projects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://marvelapp.com/pop/" target="_blank">POP (Prototyping on Paper)</a></td>
+    <td>POP is a mobile app that lets you transform paper sketches into interactive prototypes for mobile app designs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://uxdesign.cc/" target="_blank">UX Collective</a></td>
+    <td>UX Collective is a publication and community for UX designers, offering articles, resources, and insights on design topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.producthunt.com/" target="_blank">Product Hunt</a></td>
+    <td>Product Hunt is a platform where you can discover and stay updated on the latest design and tech products, tools, and resources.</td>
+  </tr>
+  <tr>
+    <td><a href="https://whatusersdo.com/" target="_blank">WhatUsersDo</a></td>
+    <td>WhatUsersDo is a user testing platform that allows you to gain valuable insights into how users interact with your designs.</td>
+  </tr>
   </table>
 
 
@@ -278,6 +378,28 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
       <tr>
       <td><a href="https://youtube.com/playlist?list=PL1wFSWLYg_Ia97VL4pv-Ovz9330HfZX_k&si=1cHzpetgv_-0uszp">Webdesign Interviews/Podcast</a></td>
       <td>"Welcome to the 'Web Design Business Podcast Interviews' channel. On this channel, you'll find content covering the business aspects of web design, video interviews from podcast, and live stream Q&A sessions, with new videos typically posted 1-2 times a week.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.youtube.com/watch?v=y2W0D-fQh-Q">Top UI/UX Designer Interview Questions & Answers For 2023 | UI/UX Interview Questions | Intellipaat</a></td>
+      <td>This video on "UI/UX  Interview Questions and Answers" includes a list of 28 important questions to help you prepare for your UI/UX Designer interview. You will learn the top practical and theoretical questions to help you brush up on your knowledge and get a sense of the types of questions that are frequently asked. </td>
+      </tr>
+      <tr>
+      <td><a href="https://www.youtube.com/watch?v=vu3xcQm7cEo">The Essential UX Interview Questions (And How To Answer Them!)</a></td>
+      <td>Interviewing for UX design roles? Well you’ve come to the right place. In this video, we’ll share the 4 most commonly asked UX interview questions, and share tangible solutions on how to best answer them! 
+
+Dee Scarano, the video host, has been involved in the UX design industry for over 12 years, and has been responsible for leading and hiring teams of UX designers throughout her career. These tips come with actionable stories and advice from a seasoned industry professional. </td>
+      </tr>
+      <tr>
+      <td><a href="https://www.youtube.com/watch?v=ZtN3yHIWuRY">How to Ace Your UI/UX Design Interview | The Ultimate Guide</a></td>
+      <td>If you're planning to take on a UI/UX Design position in the near future, then you need to learn how to nail your interview. In this video, I'll cover everything you need to know to impress your interviewer and land the job of your dreams!</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.youtube.com/watch?v=JbJ3njajkO0">UX DESIGNER Interview Questions & ANSWERS! (How to PASS a UI/UX DESIGN Job Interview!)</a></td>
+      <td>UX DESIGNER Interview Questions & ANSWERS! (How to PASS a UI/UX DESIGN Job Interview!) by Richard McMunn of</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.youtube.com/watch?v=qOFAL7I3cHM">UI UX Design Interview Questions and Answers | UI UX | UI UX Design Certification Course | Edureka</a></td>
+      <td>Looking to ace your UI/UX interview? Then you are at right place we’ve compiled a list of some of the most common UI/UX design interview questions and provided detailed answers to help you feel confident and prepared. Whether you’re a seasoned designer or just starting out, these questions and answers will give you a solid foundation for acing your next UI/UX design interview.</td>
       </tr>
 </table>
 
