@@ -280,10 +280,6 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
         <td>"Welcome to the 'Web Design Business Podcast Interviews' channel. On this channel, you'll find content covering the business aspects of web design, video interviews from podcast, and live stream Q&A sessions, with new videos typically posted 1-2 times a week.</td>
       </tr>
       <tr>
-        <td><a href="https://www.youtube.com/watch?v=2OzTi0iUMlE">UI/UX Design Job Interview Questions and Answers</a></td>
-        <td>Questions that you will most likely be asked in a UX design interview as well as going over tips on how best to answer them.</td>
-      </tr>
-      <tr>
         <td><a href="https://www.youtube.com/watch?v=vu3xcQm7cEo">The Essential UX Interview Questions (And How To Answer Them!)</a></td>
         <td>The 4 most commonly asked UX interview questions and tangible solutions on how to best answer them will be covered!.</td>
       </tr>
