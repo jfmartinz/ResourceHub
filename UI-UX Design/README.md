@@ -9,7 +9,7 @@
 - [Books](#books)<br>
 - [Communities](#communities)<br>
 - [Youtube Channels](#youtube-channels)<br>
-- [Interview](#youtube-channels)<br>
+- [Interview](#interview)<br>
 - [Newsletter](#youtube-channels)<br>
 
 ### Overview
