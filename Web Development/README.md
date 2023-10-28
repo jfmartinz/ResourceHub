@@ -1154,7 +1154,28 @@ to everyone - everywhere!</td>
    <td>Codepip is the platform for your favorite web development games. Gain an edge in your next interview or project.Create a free account to enjoy the features.</td>
 </tr>
   </table>
-  
+
+### Interview
+> Here are valuable resources to help you excel in your web design interview. You'll find videos, articles, and more to aid your preparation.
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+      <td><a href="https://youtu.be/P2-CwEljcMo?si=pZiao3MrkCucqkb3"> Web Development Interview </a></td>
+      <td>Here is the short important concept which should be know for the preparation of Web development Interveiw</td>
+      </tr>
+      <tr>
+      <td><a href="https://youtu.be/pwLNA_LMw0c?si=Zhq4TXXUw90cyLtP">Forntend Interview Questions </a></td>
+      <td>This is the collection of interview question which will be helpful in your learning journey.</td>
+      </tr>
+      <tr>
+      <td><a href="https://medium.com/javarevisited/10-articles-every-web-developer-should-read-2efca81d0696">10 Articles Every Web Developer Should Read</a></td>
+      <td>This is the collection of 10 articles in medium where you can learn and get engaged in the concept of web Development , this collection consists of learning of 10 years of a developer.</td>
+      </tr>
+</table>  
+
 ### Challenges
 > Discover valuable websites to enhance your coding skills, critical thinking, and problem-solving abilities.
   <table width="100%">
