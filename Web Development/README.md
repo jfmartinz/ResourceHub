@@ -1170,10 +1170,6 @@ to everyone - everywhere!</td>
       <td><a href="https://youtu.be/pwLNA_LMw0c?si=Zhq4TXXUw90cyLtP">Forntend Interview Questions </a></td>
       <td>This is the collection of interview question which will be helpful in your learning journey.</td>
       </tr>
-      <tr>
-      <td><a href="https://medium.com/javarevisited/10-articles-every-web-developer-should-read-2efca81d0696">10 Articles Every Web Developer Should Read</a></td>
-      <td>This is the collection of 10 articles in medium where you can learn and get engaged in the concept of web Development , this collection consists of learning of 10 years of a developer.</td>
-      </tr>
 </table>  
 
 ### Challenges
