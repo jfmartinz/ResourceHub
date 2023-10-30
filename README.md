@@ -28,6 +28,7 @@ You can contribute helpful resources you've discovered on the internet and share
 Here are the currently available categories in the project.<br>
 - [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development)
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
+- [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 
 
 ## Contributing
