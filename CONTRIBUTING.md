@@ -10,7 +10,7 @@ Please adhere to and review our [Code Of Conduct](https://github.com/jfmartinz/R
 
 To ensure a smooth experience, please follow these important rules:
 
-1. **Relevance:** Ensure that the resource you're adding aligns with the appropriate category. Web development resources belong in the web development category, UI/UX design resources in the UI/UX design category, and so forth.
+1. **Relevance:** Ensure that the resource you're adding aligns with the appropriate category. Web development resources belong in the web development category, UI/UX design resources in the UI/UX design category, and so forth. Additionally, ensure that your resource aligns with the specific section of the category. For example, if you have a resource named ["anime.js"](https://animejs.com/), it should be placed in the [web development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development) category under the [animation](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development#animations) section. This precision ensures that users can easily locate and benefit from the resources in their intended context.
 2. **Use the PR Template:** When you create a pull request (PR), please make sure to carefully follow and review the provided PR template. This ensures a structured and efficient collaboration process.
 
 ### How to Add a Resource
@@ -35,23 +35,36 @@ To ensure a smooth experience, please follow these important rules:
    By following these rules, you will help maintain consistency and clarity in our repository.
    
    
-   
-## Ways to Contribute
-
+## How to Contribute
 There are many ways to contribute, and you don't need to be a coding wizard to get involved. Here are some beginner-friendly ways to contribute:
 
-- **Fix Typos or Grammar**: Help us maintain clean and error-free content. Raise an [issue](https://github.com/jfmartinz/ResourceHub/issues/new?assignees=&labels=bug&projects=&template=bugreport.yml&title=%F0%9F%90%9E+%5BBUG%5D+-+%3Ctitle%3E)
+### Share Your Ideas
+> We value your input, whether it's proposing a new section to a category, suggesting additional categories, or sharing any ideas for the project's enhancement. Here's how you can contribute your ideas:
 
-- **Add Valuable Resources**: If you find a resource that you think would benefit others, share it with the community.
+1. **Raise an Issue:** Start a discussion by creating an issue. Describe your idea, and I'll review it if it aligns to the project's goal.
+2. **Direct Message:** Feel free to reach out to us personally. You can connect with me on [LinkedIn](https://www.linkedin.com/in/jfmartinz/) or reach out via [Twitter](https://twitter.com/jfmartinz).
 
-- **Documentation Updates**: Improve project documentation, or let us know if something is unclear.
+### Add Valuable Resources
+> If you come across a resource that you believe would benefit others, we encourage you to share it with us. Here's how you can contribute valuable resources:
 
-- **Share Ideas**: Have a suggestion or an idea for project improvement? Raise an [issue](https://github.com/jfmartinz/ResourceHub/issues/new?assignees=&labels=feature&projects=&template=feature.yml&title=%F0%9F%92%A1+%5BFEATURE%5D+-+%3Ctitle%3E).
+1. **Review the Rules for Adding Resources:** Carefully read and understand the guidelines on how to add a resource, including the specified format. Ensure that you follow the provided PR template, as it streamlines the review process for us.
+2. **Raise an Issue:** Create an issue and provide details about the resource you'd like to add. I'll review it, and if it aligns with contributing guidelines. I'll add it it into the project.
 
-- **Outdated or broken link**: If you encounter broken links or outdated resources, please let us know so we can keep things up to date. Or if you have any resource that you can add as alternative, then raise an [issue](https://github.com/jfmartinz/ResourceHub/issues/new?assignees=&labels=bug&projects=&template=bugreport.yml&title=%F0%9F%90%9E+%5BBUG%5D+-+%3Ctitle%3E).
+### Grammatical errors
+> Help us maintain clean and error-free content by fixing typos or grammar issues. Your attention to detail ensures a seamless reading experience for everyone involved.
 
+1. **Raise an Issue:** Report any typos or grammar mistakes you come across by creating an issue. We appreciate your keen eye for detail!
 
+### Enhance Documentation
+> Improving our project documentation is crucial for creating a user-friendly experience. If you have ideas on how to enhance the current documentation.
 
-Thank you for taking the time to read these guidelines. We appreciate your interest and look forward to your contributions to this project. 
+1. **Raise an Issue:** Start a discussion about your documentation improvement ideas. Perhaps you've identified areas where we can enhance the documentation for a better user experience, making it more user-friendly and accessible. Share your insights to help us continually improve.
+
+### Report Outdated or Broken Links
+> Help us maintain the reliability of our resources by reporting any broken links or outdated information.
+
+1. **Raise an Issue:** If you come across broken links or outdated resources, create an issue and provide details on the category or location where you found it. This information will help us swiftly address the issue and keep everything up to date.
+
+Thank you for considering contributing to ResourceHub! Your contributions plays a crucial role in making this project a valuable resource for the web development community. 🌐✨
 
 Happy contributing! 🚀
