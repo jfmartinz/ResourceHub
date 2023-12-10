@@ -6,16 +6,14 @@ We're excited that you're interested in contributing to our open-source project.
 
 Please adhere to and review our [Code Of Conduct](https://github.com/jfmartinz/ResourceHub/blob/main/CODE_OF_CONDUCT.md).
 
-
 ## Important Rules
 
 To ensure a smooth experience, please follow these important rules:
 
-1. **Relevance**: Make sure that the resource you're adding matches the category. Web development resources go in the web development category, UI/UX design resources in the UI/UX design category, and so on.
+1. **Relevance:** Ensure that the resource you're adding aligns with the appropriate category. Web development resources belong in the web development category, UI/UX design resources in the UI/UX design category, and so forth.
+2. **Use the PR Template:** When you create a pull request (PR), please make sure to carefully follow and review the provided PR template. This ensures a structured and efficient collaboration process.
 
-2. **Use the PR Template:** When you create a pull request (PR), please make sure to carefully follow and review the provided PR template. This will help facilitate smooth collaboration.
-
-3. **How to Add a Resource**:
+### How to Add a Resource
 
    **URL Format**: When adding a resource, follow this format:
 
@@ -34,7 +32,9 @@ To ensure a smooth experience, please follow these important rules:
 
    > Note: Replace "URL_here" with the actual resource URL and provide a brief description.
 
-   By following these rules, you will help maintain consistency and clarity in our repository. 
+   By following these rules, you will help maintain consistency and clarity in our repository.
+   
+   
    
 ## Ways to Contribute
 
@@ -50,7 +50,7 @@ There are many ways to contribute, and you don't need to be a coding wizard to g
 
 - **Outdated or broken link**: If you encounter broken links or outdated resources, please let us know so we can keep things up to date. Or if you have any resource that you can add as alternative, then raise an [issue](https://github.com/jfmartinz/ResourceHub/issues/new?assignees=&labels=bug&projects=&template=bugreport.yml&title=%F0%9F%90%9E+%5BBUG%5D+-+%3Ctitle%3E).
 
-We recommend that if you're simply adding a resource to a specific category, there's no need to create an issue and submit a pull request (PR) automatically.
+
 
 Thank you for taking the time to read these guidelines. We appreciate your interest and look forward to your contributions to this project. 
 
