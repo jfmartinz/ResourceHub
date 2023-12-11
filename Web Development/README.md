@@ -32,6 +32,7 @@
 - [Games](#games)<br>
 - [Interview](#interview)<br>
 - [Challenges](#challenges)<br>
+- [Best Practices](#best-practices)
 
 
 
@@ -1216,4 +1217,28 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <td> <a href="https://www.codewars.com/">Code Wars</a></td>
         <td>Code Wars(opens in a new tab) helps you improve your skills by training in challenges with others. They offer a huge variety of programming languages, including JavaScript, Swift, PHP, Python, Ruby, and Haskell. </td>
       </tr>
+  </table>
+
+### Best Practices
+> Some resources to help adhere to industry best practices.
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://blog.logrocket.com/node-js-logging-best-practices-essential-guide/">NodeJS Logging Best Practices</a></td>
+        <td>The Frontend Analystics company LogRocket's comprehensive guide to NodeJS logging best practices</td>
+      </tr>
+      <tr>
+        <td> <a href="https://nextjs.org/docs/app/building-your-application/data-fetching/patterns">NextJS Data Fetching</a></td>
+        <td>Official NextJS recommended patterns and best practices for fetching data in React and Next.js. It goes over some of the most common patterns and how to use them.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://github.com/futurice/backend-best-practices">Backend Best Practices</a></td>
+        <td>A collection of best practices that are framework agnostic and are valid for various backend architectures</td>
+      </tr>      
+        <td> <a href="https://github.com/cxpartners/coding-standards">Front-end Coding Standards and Best Practices</a></td>
+        <td>A design agency, Cxpartners, made their guide frontend best practices public for all to learn from.</td>
+      </tr>     
   </table>
