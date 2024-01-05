@@ -61,7 +61,7 @@ git clone https://github.com/jfmartinz/ResourceHub.git
 
 ### 3. Create a branch
 
-Go to to the repository directory on your computer using the `cd` command. For example:
+Go to the repository directory on your computer using the `cd` command. For example:
 
 ```bash
 cd ResourceHub
