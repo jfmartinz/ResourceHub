@@ -70,7 +70,7 @@ cd ResourceHub
 Create a new branch and switch to it using the `git checkout` command. Give it a name that is descriptive of the changes you are introducing.
 
 ```bash
-git checkout -b 'new branch name'
+git checkout -b 'new-branch-name'
 ```
 
 > Note: Replace `'new-branch-name'` with the branch name of your choice.
@@ -87,7 +87,7 @@ Navigate to the category where you your resources to be added. Once you've ident
 For example:
 
 ```bash
-git add
+git add .
 ```
 
 ```bash
