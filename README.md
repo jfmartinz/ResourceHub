@@ -13,42 +13,46 @@
 [![Issues](https://img.shields.io/github/issues/jfmartinz/ResourceHub.svg?style=flat)](https://github.com/jfmartinz/ResourceHub/issues)
 [![Stars](https://img.shields.io/github/stars/jfmartinz/ResourceHub.svg?style=flat)](https://github.com/jfmartinz/ResourceHub/stars)
 [![Forks](https://img.shields.io/github/forks/jfmartinz/ResourceHub.svg?style=flat)](https://github.com/jfmartinz/ResourceHub/forks)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![MIT License](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 </div>
 
-_ResourceHub_ is an open-source project that serves as a collection of valuable resources for web development, carefully curated by the amazing contributors in the community.
-<br>
+## What is ResourceHub
 
-You can contribute helpful resources you've discovered on the internet and share them with us! 
+_ResourceHub_ is an Open-Source project that serves as a collection of valuable resources for Web Development, carefully curated by the amazing contributors in the community.
 
+You can contribute with helpful resources you've discovered on the internet and share them with us!
 
+## Categories
 
-## Category
-Here are the currently available categories in the project.<br>
+Here is a list of the currently available categories of the project:<br>
 - [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development)
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 
 
-## Contributing
-Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) before contributing.
+## How to contribute
+Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your own fork of this repository before submitting any contributions.
+Expand the following section for a quick guide on how to create a fork:
 
-### 1. Fork the Repository
+<details>
+  <summary>How to Fork this Repo and submit a Pull Request (PR)</summary>
 
-Click the "Fork" button at the top right of this repository to create your own copy.
+### 1. Create a Fork
+
+Click the **Fork** button at the top right of this repository to create your own copy.
 
 ### 2. Clone Your Fork
 
-Now clone the forked repository to your local machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
+Clone the forked repository to your local machine following these steps:
+
+ 1. Open the forked repository in your GitHub account. 
+ 2. Click on the **Code** button. 
+ 3. Select the HTTPS option in the **Local** tab.
+ 4. Click the **'Copy to clipboard'** icon.
 
 
-Open a terminal and run the following git command:
-
-```bash
-git clone 'url you just copied'
-```
-
+Open a terminal and run the `clone` command followed by the URL you just copied.
 For example:
 
 ```bash
@@ -57,35 +61,34 @@ git clone https://github.com/jfmartinz/ResourceHub.git
 
 ### 3. Create a branch
 
-Change to the repository directory on your computer (if you are not already there):
+Go to to the repository directory on your computer using the `cd` command. For example:
 
 ```bash
 cd ResourceHub
 ```
 
-Make a meaningful name for your new branch, and then create and switch to it using this command:
+Create a new branch and switch to it using the `git checkout` command. Give it a name that is descriptive of the changes you are introducing.
 
 ```bash
-git checkout -b new-branch-name
+git checkout -b 'new branch name'
 ```
 
-> Note: Replace your 'new-branch-name' with the actual branch name.
+> Note: Replace `'new-branch-name'` with the branch name of your choice.
 
-### 4. Make Your Changes
+### 4. Make your changes
 
-Navigate to the relevant category where you want to add your resource. Once you've identified the appropriate category and have your resource in mind, proceed to make the necessary changes within that specific category.
+Navigate to the category where you your resources to be added. Once you've identified the appropriate category and have your resource in mind, proceed to make the necessary changes within that specific category.
 
-#### Stage Your Changes:
+### 5. Stage and commit your changes:
 
-After making your changes, you need to stage the changes for commit using the `git add` command. To stage all changes, use:
+- Stage your changes using the `git add` command. 
+- Commit your staged changes using the `git commit` command.
+- Use a descriptive commit message that explains the purpose of your changes.
+For example:
 
 ```bash
-git add .
+git add
 ```
-
-#### Commit Your Changes:
-
-Commit your staged changes with a descriptive commit message that explains the purpose of your changes. Use the `git commit` command:
 
 ```bash
 git commit -m "Your descriptive commit message here"
@@ -93,30 +96,35 @@ git commit -m "Your descriptive commit message here"
 
 > Note: Replace "Your descriptive commit message here" with a concise and informative message.
 
-#### Push Your Changes:
+### 6. Push your changes:
+
+
 
 ```bash
-git push origin your-branch-name
+git push origin 'your-branch-name'
 ```
 
 > Note: Replace 'your-branch-name' with the name of your branch.
 
 ### 5. Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on it to submit your PR.
 
-Now submit the pull request.
+
+#### Congratulations on successfully submitting your PR to our project! 🎉
+
+</details>
 
 ---
 
-Congratulations 🎉  on successfully submitting your pull request (PR) to our project! We want to express our gratitude for your valuable contribution. Your effort not only benefits our project but also help the entire community! ❤️
+ We want to express our gratitude for your valuable contribution. Your effort not only benefits our project but also helps the entire community! ❤️
 
 Please consider sharing this repository with other developers to help increase its visibility and reach. 👍
 
 
 
   
- ### Our ontributors 🤝
+ ### Our Contributors 🤝
  
 <a href="https://github.com/jfmartinz/ResourceHub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jfmartinz/ResourceHub" />
