@@ -77,11 +77,11 @@ git checkout -b 'new-branch-name'
 
 ### 4. Make your changes
 
-Navigate to the category where you your resources to be added. Once you've identified the appropriate category and have your resource in mind, proceed to make the necessary changes within that specific category.
+Navigate to the category where you want your resources to be added. Once you've identified the appropriate category and have your resource in mind, proceed to make the necessary changes within that specific category.
 
 ### 5. Stage and commit your changes:
 
-- Stage your changes using the `git add` command. 
+- Stage your changes using the `git add .` command. 
 - Commit your staged changes using the `git commit` command.
 - Use a descriptive commit message that explains the purpose of your changes.
 For example:
@@ -98,7 +98,7 @@ git commit -m "Your descriptive commit message here"
 
 ### 6. Push your changes:
 
-
+Pushing is how you transfer commits from your local repository to a remote one. To push use the command `git push origin` followed by your branch name.
 
 ```bash
 git push origin 'your-branch-name'
@@ -108,7 +108,7 @@ git push origin 'your-branch-name'
 
 ### 5. Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on it to submit your PR.
+If you go to your repository on GitHub, you'll see a `Compare & Pull Request` button. Click on it to submit your PR.
 
 
 #### Congratulations on successfully submitting your PR to our project! 🎉
