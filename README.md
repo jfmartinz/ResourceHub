@@ -113,13 +113,15 @@ If you go to your repository on GitHub, you'll see a `Compare & Pull Request` bu
 
 #### Congratulations on successfully submitting your PR to our project! 🎉
 
+> Please consider sharing this repository with other developers to help increase its visibility and reach. 👍
+
 </details>
 
 ---
 
- We want to express our gratitude for your valuable contribution. Your effort not only benefits our project but also helps the entire community! ❤️
 
-Please consider sharing this repository with other developers to help increase its visibility and reach. 👍
+
+
 
 
 
