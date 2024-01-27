@@ -34,8 +34,6 @@
 - [Challenges](#challenges)<br>
 - [Best Practices](#best-practices)
 
-
-
 ### Overview
 
 This category is a curated collection of valuable web development resources contributed by amazing contributors. Here, you will find a wide range of materials and information about web development.
@@ -110,9 +108,10 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://www.youtube.com/playlist?list=PLqX4M0x0p9ck3OfyL14-MISy6_-4oH9fK">Meta Back-End Developer Professional Certificate</a></td>
     <td>Launch your career as a back-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started.
 
-Ready to gain new skills and the tools developers use to create websites and web applications? This certificate, designed by the software engineering experts at  Meta—the creators of Facebook and Instagram, will prepare you for an entry-level career as a back-end developer. 
+Ready to gain new skills and the tools developers use to create websites and web applications? This certificate, designed by the software engineering experts at Meta—the creators of Facebook and Instagram, will prepare you for an entry-level career as a back-end developer.
 
 On completion, you’ll get access to the Meta Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well as career support resources to help you with your job search.</td>
+
   </tr>
   <tr>
     <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
@@ -325,6 +324,10 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     <tr>
         <td> <a href="https://www.webfx.com/web-design/color-schemes/">WebFX Color Scheme Generator</a></td>
         <td>WebFX's Color Scheme Generator allows you to create cohesive color schemes for your web design projects by selecting a base color and generating matching colors.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://color-picker.dllplayer.com/">Color Picker</a></td>
+        <td>This software extension allows you to pick colors from any web pages, color picker to get pixel code, rgb value of any image on the website you're browsing.</td>
     </tr>
 
 </table>
@@ -1158,7 +1161,9 @@ to everyone - everywhere!</td>
   </table>
 
 ### Interview
+
 > Here are valuable resources to help you excel in your web development interview. You'll find videos, articles, and more to aid your preparation.
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -1177,25 +1182,28 @@ to everyone - everywhere!</td>
       <td>Complete the programming challenges below, from the massive Project Euler archives. These will harden your algorithm and mathematics knowledge.
 
 These problems range in difficulty and, for many, the experience is inductive chain learning. That is, by solving one problem, it will expose you to a new concept that allows you to undertake a previously inaccessible problem. Can you finish them all?</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.freecodecamp.org/learn/coding-interview-prep/">Coding Interview Prep</a></td>
-      <td>If you're looking for free coding exercises to prepare for your next job interview, we've got you covered.
+</tr>
+<tr>
+<td><a href="https://www.freecodecamp.org/learn/coding-interview-prep/">Coding Interview Prep</a></td>
+<td>If you're looking for free coding exercises to prepare for your next job interview, we've got you covered.
 
 This section contains hundreds of coding challenges that test your knowledge of algorithms, data structures, and mathematics. It also has a number of take-home projects you can use to strengthen your skills, or add to your portfolio.</td>
-      </tr>
-      <tr>
-      <td><a href="https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions">100 Days Of Frontend Interview Questions</a></td>
-      <td>This repo will contain 500 frontend interview questions which will have HTML, CSS, Javascript & React questions. I will add not any question in which we have to write code, just theory questions.</td>
-      </tr>
-      <tr>
-      <td><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">JavaScript interview Questions</a></td>
-      <td>This book's goal is to help javascript frontend developers prepare for technical job interviews through a collection of carefully compiled questions.</td>
-      </tr>
-</table>  
+</tr>
+<tr>
+<td><a href="https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions">100 Days Of Frontend Interview Questions</a></td>
+<td>This repo will contain 500 frontend interview questions which will have HTML, CSS, Javascript & React questions. I will add not any question in which we have to write code, just theory questions.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">JavaScript interview Questions</a></td>
+<td>This book's goal is to help javascript frontend developers prepare for technical job interviews through a collection of carefully compiled questions.</td>
+</tr>
+
+</table>
 
 ### Challenges
+
 > Discover valuable websites to enhance your coding skills, critical thinking, and problem-solving abilities.
+
   <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -1220,7 +1228,9 @@ This section contains hundreds of coding challenges that test your knowledge of 
   </table>
 
 ### Best Practices
+
 > Some resources to help adhere to industry best practices.
+
   <table width="100%">
       <tr>
         <th>Resource Name</th>
