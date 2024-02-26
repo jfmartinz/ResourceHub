@@ -1197,6 +1197,10 @@ This section contains hundreds of coding challenges that test your knowledge of 
 <td><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">JavaScript interview Questions</a></td>
 <td>This book's goal is to help javascript frontend developers prepare for technical job interviews through a collection of carefully compiled questions.</td>
 </tr>
+<tr>
+<td><a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired">Getting Hired Course</a></td>
+<td>Web development is a lifelong journey of learning and growth. Continue that journey on a professional development team! You'll learn where to find jobs, how to do great interviews, and the best strategies to launch your career.</td>
+</tr>
 
 </table>
 
