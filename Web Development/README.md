@@ -1254,5 +1254,10 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr>      
         <td> <a href="https://github.com/cxpartners/coding-standards">Front-end Coding Standards and Best Practices</a></td>
         <td>A design agency, Cxpartners, made their guide frontend best practices public for all to learn from.</td>
-      </tr>     
+      </tr> 
+      <tr>
+        <td><a href="https://medium.com/javarevisited/mastering-design-patterns-in-java-1e39194ac480">Design patterns</a></td>
+        <td>As developers, our goal is not just to make things work, but also to make sure our code is maintainable, scalable, adaptable and reusable. Enter design patterns — the time-tested blueprints that empower us to tackle recurring design problems with elegance and efficiency. This  medium article explains design patterns with real world examples using java.
+        </td>
+      </tr>    
   </table>
