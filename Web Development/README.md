@@ -61,8 +61,16 @@ This category is a curated collection of valuable web development resources cont
     <td>A short video about Flexbox in just 8 minutes</td>
   </tr>
   <tr>
+    <td><a href="https://www.youtube.com/watch?v=G3e-cpL7ofc">HTML & CSS Full Course - Beginner to Pro</a></td>
+    <td>A detailed HTML and CSS Course for beginners, by SuperSimpleDev</td>
+  </tr>
+  <tr>
     <td><a href="https://youtu.be/g7T23Xzys-A">Master JavaScript in One Video!</a></td>
     <td>Comprehensive 2-hour JavaScript crash course by JavaScript Mastery.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=EerdGm-ehJQ">JavaScript Tutorial Full Course - Beginner to Pro (2024)</a></td>
+    <td>A JavaScript course for beginners, by SuperSimpleDev</td>
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP">Namaste (Hello) Javascript!</a></td>
