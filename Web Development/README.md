@@ -104,10 +104,7 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a></td>
     <td>React course for beginners. It simplifies and demystifies react to any beginner who is willing and eager to learn.</td>
   </tr>
-  <tr>
-    <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization]</a></td>
-    <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
-  </tr>
+  
 </table>
 
 <table width="100%">
