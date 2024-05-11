@@ -11,6 +11,12 @@ body:
       options:
         - label: I have read all the feature request issues.
           required: true
+      options:
+        - label: I'm interested in working on this issue
+          required: true
+      options:
+        - label: I'm part of GSSOC organization
+          required: true
   - type: textarea
     id: whats-your-idea
     attributes:
