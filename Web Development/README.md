@@ -104,6 +104,10 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a></td>
     <td>React course for beginners. It simplifies and demystifies react to any beginner who is willing and eager to learn.</td>
   </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8&si=aN5S8Tm7IxmXeAFD">The Complete Frontend Development Course | 148 Hours |</a></td>
+    <td>Complete Frontend Development course for beginners. It simplifies and demystifies Web Development to any beginner who is willing and eager to learn.</td>
+  </tr>
 </table>
 
 <table width="100%">
@@ -1081,7 +1085,7 @@ to everyone - everywhere!</td>
         <td> <a href="https://www.youtube.com/@slayingthedragon/featured">Slaying The Dragon</a></td>
         <td>Slaying the dragon is about facing your fears, pursuing meaning and transforming into the web developer you were always destined to be.</td>
       </tr>
-        <tr>
+      <tr>
         <td> <a href="https://www.youtube.com/@TraversyMedia/featured">Traversy Media</a></td>
         <td>Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP.</td>
       </tr>
@@ -1091,7 +1095,7 @@ to everyone - everywhere!</td>
         <td>Fireship is a popular YouTube channel dedicated to providing high-quality, concise tutorials on web development, covering topics like JavaScript, frameworks, and modern development practices.
         </td>
       </tr>
-        <tr>
+      <tr>
         <td> <a href="https://www.youtube.com/@freecodecamp">FreeCodeCamp</a></td>
         <td>FreeCodeCamp, which has a YouTube channel, also offers more comprehensive online courses, and students can choose from 300-hour programs in skills like responsive web design, JavaScript algorithms, and data visualization. You can also find several free online courses in Python, an in-demand coding language.
         </td>
@@ -1099,8 +1103,8 @@ to everyone - everywhere!</td>
       <tr>
         <td> <a href="https://www.youtube.com/@codeblockdev">Codeblock</a></td>
         <td>"Code Block: Your go-to YouTube channel for mastering web development, with a focus on JavaScript. Unlock your coding potential today!"</td>
-       </tr>
-        <tr>
+      </tr>
+      <tr>
         <td> <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">Net Ninja</a></td>
         <td> The Net Ninja YouTube channel is a great resource for learning web development. It offers a wide range of tutorials on topics such as HTML, CSS, JavaScript, React, and Node.js.
         </td>
@@ -1118,9 +1122,19 @@ to everyone - everywhere!</td>
         <td><a href="https://www.youtube.com/@CodeWithHarry">CodeWithHarry</a></td>
         <td>CodeWithHarry is an online learning platform that offers courses in Hindi on a variety of programming languages and technologies, including Web Development, Python, Django, JavaScript, SQL, and more. Notes and related PDFs are also provided for all courses on the channel.</td>
       </tr>
-       <tr>
+      <tr>
         <td><a href="https://www.youtube.com/@HiteshChoudharydotcom">Hitesh Choudhari</a></td>
         <td>Hitesh Choudhari is a YouTube channel that offers various courses on programming languages. It is one of the best channel to learn web development at free of cost.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://youtube.com/@huxnwebdev?si=Wyc748YDJMUg0hSi">HuXn WebDev</a></td>
+        <td>HuXn is a talented software engineer with a passion for creating stunning user experiences. Having worked with an extensive range of technologies, frameworks, and programming languages - from React and Angular to Python, Golang, and more - his expertise in the field is unparalleled. HuXn's diverse skill set has enabled him to build countless projects for clients around the world, showcasing his ability to adapt and excel in any given environment.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://youtube.com/@SuperSimpleDev?si=XlOQn_5fhYjraRJi">SuperSimpleDev</a></td>
+        <td>Youtube channel that teaches Web Development in a super simple way.Explore the content rich channel to become a pro in web development.
         </td>
       </tr>
   </table>
@@ -1190,12 +1204,14 @@ to everyone - everywhere!</td>
       <td>Complete the programming challenges below, from the massive Project Euler archives. These will harden your algorithm and mathematics knowledge.
 
 These problems range in difficulty and, for many, the experience is inductive chain learning. That is, by solving one problem, it will expose you to a new concept that allows you to undertake a previously inaccessible problem. Can you finish them all?</td>
+
 </tr>
 <tr>
 <td><a href="https://www.freecodecamp.org/learn/coding-interview-prep/">Coding Interview Prep</a></td>
 <td>If you're looking for free coding exercises to prepare for your next job interview, we've got you covered.
 
 This section contains hundreds of coding challenges that test your knowledge of algorithms, data structures, and mathematics. It also has a number of take-home projects you can use to strengthen your skills, or add to your portfolio.</td>
+
 </tr>
 <tr>
 <td><a href="https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions">100 Days Of Frontend Interview Questions</a></td>
