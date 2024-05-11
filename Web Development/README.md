@@ -138,6 +138,11 @@ On completion, you’ll get access to the Meta Career Programs Job Board—a job
     <td><a href="https://medium.com/javarevisited/building-a-secure-restful-user-crud-with-spring-boot-a-step-by-step-guide-486ed3fd4e5a">Building a RESTful User CRUD with Spring Boot: A Step-by-Step Guide</a></td>
     <td>Think of an API as a set of rules and protocols that allow different software applications to talk to each other.Representational State Transfer (REST) is a style of building software systems that use standard HTTP methods (like GET, POST, PUT, DELETE) to perform operations on resources (like data stored in a database). In this comprehensive guide you will learn how to create a respful api in spring boot. Not only that you will learn several best practices including quality code exception handling, validating inputs, design patterns</td>
   </tr>
+  <tr>
+    <td><a href="https://medium.com/@dharshib.8/securing-spring-boot-applications-with-jwt-part-1-5bff0f56578e">Securing Spring boot applications with JWT</a></td>
+    <td>In this digital age, authentication and authorization are fundamental aspects of any web application.
+Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT), offering a versatile solution for implementing secure authentication and authorization mechanisms. In this comprehensive guide, we’ll delve into the intricacies of securing Spring Boot applications using JWT. We’ll explore the entire spectrum of authentication, from enabling users to sign up and sign in securely, to implementing role-based access control to protect sensitive routes. </td>
+  </tr>
 </table>
 
 <table width="100%">
