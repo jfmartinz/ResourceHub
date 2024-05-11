@@ -299,7 +299,8 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     </tr>
   <tr>
         <td> <a href="https://flatuicolors.com/">FlatUIColors</a></td>
-        <td>This resource provides a collection of flat and trendy colors that work well for modern web design./td>
+        <td>This resource provides a collection of flat and trendy colors that work well for modern web design.</td>
+        <!-- Closing td tag was not propely closed: Changes made! -->
     </tr>
     <tr>
       <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
@@ -791,7 +792,8 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     </tr>
       <tr>
       <td><a href="https://semantic-ui.com/">Semantic UI</td>
-      <td>Semantic UI is an open-source framework that uses CSS and jQuery to build great user interfaces. It is the same as a bootstrap for use and has great different elements to use to make your website looks more amazing. It uses a class to add CSS to the elements.</td>
+      <td>Semantic UI is an open-source framework that uses CSS and jQuery to build great user interfaces. It is the same as a bootstrap for use and has different great elements to use to make your website look more amazing. It uses a class to add CSS to the elements.</td>
+      <!-- Fixed typo from " great different elements" to "different great elements" -->
       </tr>
       <tr>
       <td><a href="https://uiverse.io/">Uiverse</td>
@@ -1196,8 +1198,9 @@ to everyone - everywhere!</td>
       <td>Here is the short important concept which should be know for the preparation of Web development Interveiw</td>
       </tr>
       <tr>
-      <td><a href="https://youtu.be/pwLNA_LMw0c?si=Zhq4TXXUw90cyLtP">Forntend Interview Questions </a></td>
+      <td><a href="https://youtu.be/pwLNA_LMw0c?si=Zhq4TXXUw90cyLtP">Frontend Interview Questions </a></td>
       <td>This is the collection of interview question which will be helpful in your learning journey.</td>
+      <!-- Fixed typo from "forntend" to "Frontend" -->
       </tr>
       <tr>
       <td><a href="https://www.freecodecamp.org/learn/project-euler/">Projecr Euler</a></td>
@@ -1281,12 +1284,14 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr> 
       <tr>
         <td><a href="https://medium.com/javarevisited/mastering-design-patterns-in-java-1e39194ac480">Design patterns</a></td>
-        <td>As developers, our goal is not just to make things work, but also to make sure our code is maintainable, scalable, adaptable and reusable. Enter design patterns — the time-tested blueprints that empower us to tackle recurring design problems with elegance and efficiency. This medium article explains design patterns with real world examples using java in simple way.
+        <td>As developers, our goal is not just to make things work, but also to make sure our code is maintainable, scalable, adaptable and reusable. Enter design patterns — the time-tested blueprints that empower us to tackle recurring design problems with elegance and efficiency. This Medium article explains design patterns with real world examples using java in simple way. 
+        <!-- Fixed typo from "medium article" to "Medium article" -->
         </td>
       </tr> 
       <tr>
         <td><a href="https://medium.com/javarevisited/solid-principles-explained-in-java-5b9fca1f5540">Solid principles</a></td>
-        <td>SOLID principles are one of the object-oriented approaches used in software development, intended to create quality software. The broad goal of the SOLID principles is to reduce dependencies, so that developers can change one area of the software without affecting others. Furthermore, they are intended to make designs easier to understand, maintain, reuse, and extend. This medium article explains solid principles with real world examples using java in simple way.
+        <td>SOLID principles are one of the object-oriented approaches used in software development, intended to create quality software. The broad goal of the SOLID principles is to reduce dependencies, so that developers can change one area of the software without affecting others. Furthermore, they are intended to make designs easier to understand, maintain, reuse, and extend. This Medium article explains solid principles with real world examples using java in simple way.
+          <!-- Fixed typo from "medium article" to "Medium article" -->
         </td>
       </tr>    
   </table>
