@@ -134,6 +134,10 @@ On completion, you’ll get access to the Meta Career Programs Job Board—a job
     <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way</a></td>
     <td>In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective, of course. Many important topics like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
   </tr>
+  <tr>
+    <td><a href="https://medium.com/javarevisited/building-a-secure-restful-user-crud-with-spring-boot-a-step-by-step-guide-486ed3fd4e5a">Building a RESTful User CRUD with Spring Boot: A Step-by-Step Guide</a></td>
+    <td>Think of an API as a set of rules and protocols that allow different software applications to talk to each other.Representational State Transfer (REST) is a style of building software systems that use standard HTTP methods (like GET, POST, PUT, DELETE) to perform operations on resources (like data stored in a database). In this comprehensive guide you will learn how to create a respful api in spring boot. Not only that you will learn several best practices including quality code exception handling, validating inputs, design patterns</td>
+  </tr>
 </table>
 
 <table width="100%">
