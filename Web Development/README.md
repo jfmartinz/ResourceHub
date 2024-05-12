@@ -7,6 +7,12 @@
 
   - [Front-End Development](#front-end-development)
   - [BackEnd Development](#backend-development)
+    - [Introduction to Backend Development](#backend-development)
+    - [Database](#database)
+    - [Frameworks](#frameworks)
+    - [Other Componets](#other-componets)
+    - [APIs](#api)
+
   - [Full-Stack Development](#full-stack-development)
 
 - [Tools](#tools)<br>
@@ -114,23 +120,47 @@ This category is a curated collection of valuable web development resources cont
 
 ### Backend Development
 
-
 <table width="100%">
-  <tr>
-    <a href="https://www.geeksforgeeks.org/backend-development/">Introduction to Back-End Development</a>
-    <h4>Databases</h4>
+  <tr>s
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://sqlzoo.net/wiki/SQL_Tutoria">SQLZoo</a>,
-    <a href="https://www.w3schools.com/sql/">W3SchoolSQL</a></td>
+    <td><a href="https://www.geeksforgeeks.org/backend-development/">Introduction</a></td>
+    <td>Backend development involves building and maintaining the server-side components of web and mobile applications. This includes managing databases, implementing business logic, creating APIs for communication, ensuring security measures, and optimizing performance for scalability. It focuses on the functionality that users don't directly interact with but is crucial for the application's operation and data management.</td>
+  </tr>
+  <tr>
+    <td><a href="https://roadmap.sh/backend">Roadmap</a></td>
+    <td>Roadmap for learning Backend Development systematically .</td>
+  </tr>
+
+  </table>
+
+
+#### Database
+
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://sqlzoo.net/wiki/SQL_Tutoria">SQLZoo</a></td>
     <td>SQL (Structured Query Language) is a standard language for storing, manipulating, and retrieving data in relational database management systems (RDBMS). It allows users to perform various operations such as querying, updating, and managing relational databases.</td>
   </tr>
     <tr>
-    <td><a href="https://www.mongodb.com/">MongoDB</a>,
-    <a href="https://firebase.google.com/docs/functions/get-started?gen=2nd">Firebase</a></td>
+    <td>
+    <a href="https://www.w3schools.com/sql/">W3SchoolSQL</a></td>
+    <td>The W3Schools SQL Tutorial is widely recognized for its user-friendly approach and extensive coverage of SQL topics. It offers a structured learning path that starts with fundamental concepts such as querying data with SELECT statements, filtering records with WHERE clauses, and sorting results with ORDER BY. As users progress, they can explore more advanced topics like JOINs, subqueries, and database normalization.</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.mongodb.com/">MongoDB</a></td>
     <td>NoSQL databases are non-relational databases designed for distributed data storage and retrieval. They offer flexibility, scalability, and performance advantages for certain use cases such as real-time analytics, IoT, and large-scale web applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://firebase.google.com/docs/functions/get-started?gen=2nd">Firebase</a></td>
+    <td>Firebase is a product of Google which helps developers to build, manage, and grow their apps easily. It helps developers to build their apps faster and in a more secure way. No programming is required on the firebase side which makes it easy to use its features more efficiently. It provides services to android, ios, web, and unity. It provides cloud storage. It uses NoSQL for the database for the storage of data.</td>
   </tr>
   </table>
 
@@ -141,10 +171,14 @@ This category is a curated collection of valuable web development resources cont
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
-    <tr>
-    <td><a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">Node.js</a>,
+  <tr>
+    <td>
     <a href="https://www.w3schools.com/nodejs/">Introduction to Node.js</a></td>
     <td>Node.js is a runtime environment that allows developers to run JavaScript code outside of a web browser. It's commonly used for building scalable and high-performance server-side applications, APIs, and real-time web applications using JavaScript.</td>
+  </tr>
+    <tr>
+    <td><a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">Node.js</a></td>
+    <td>The Node.js Documentation covers topics such as file system operations, networking, streams, event handling, and more. It includes detailed explanations, code examples, and usage guidelines for each API and module, making it easy for developers to understand and implement Node.js features in their applications.</td>
   </tr>
     <tr>
     <td><a href="https://www.tutorialspoint.com/expressjs/index.htm">Express.js</a></td>
@@ -188,9 +222,22 @@ This category is a curated collection of valuable web development resources cont
     <td>CI/CD pipelines automate the process of building, testing, and deploying applications. Jenkins and Travis CI are popular CI/CD tools that facilitate continuous integration and continuous delivery, ensuring code changes are consistently integrated and deployed to production.</td>
   </tr>
     <tr>
-    <td><a href="https://aws.amazon.com/documentation-overview/">AWS Documentation</a></td>
+    <td><a href="https://aws.amazon.com/documentation-overview/">AWS</a></td>
     <td>Cloud platforms such as AWS (Amazon Web Services) and GCP (Google Cloud Platform) offer scalable infrastructure and services for hosting, managing, and deploying applications. They provide a wide range of compute, storage, database, and networking services for developers.</td>
   </tr>
+</table>
+
+#### API
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction">API</a></td>
+    <td> An API serves as a bridge between different software programs or components, allowing them to communicate with each other. It defines a set of rules, protocols, and subroutines that enable seamless interaction.
+ </tr>
 </table>
 
 #### Courses
