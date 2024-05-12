@@ -17,7 +17,9 @@
 This category is a curated collection of valuable UI (User Interface) and UX (User Experience) design resources contributed by amazing contributors. Here, you will find a wide range of materials and information about UI & UX design.
 
 ### Tutorials or Courses
->  Access a variety of tutorials and courses, including articles, videos, websites, and more, to assist you in learning UI/UX design.
+
+> Access a variety of tutorials and courses, including articles, videos, websites, and more, to assist you in learning UI/UX design.
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -51,7 +53,9 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
   </table>
 
 ### Tools
+
 > Discover a wide variety of tools essential for UI/UX design, including software design tools, prototyping tools, plugins, and more.
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -175,9 +179,10 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
   </tr>
   </table>
 
-
 ### Design Inspiration
+
 > Discover the top website for finding web design inspiration.
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -205,9 +210,10 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
       </tr>
 </table>
 
-
 ### Books
->  Access a curated list of books to aid in your UI/UX design learning journey. 
+
+> Access a curated list of books to aid in your UI/UX design learning journey.
+
 <!--
 a) If the book is free, include a download link.
 b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. -->
@@ -310,7 +316,9 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
   </table>
 
 ### Communities
-> Explore communities where talented web designers come together to collaborate and share ideas, creating beautiful designs. 
+
+> Explore communities where talented web designers come together to collaborate and share ideas, creating beautiful designs.
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -348,7 +356,9 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
   </table>
 
 ### YouTube Channels
+
 > Find an amazing web designers in Youtube in creating content about UI/UX design
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -384,9 +394,10 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
       </tr>
 </table>
 
-
 ### Interview
+
 > Here are valuable resources to help you excel in your web design interview. You'll find videos, articles, and more to aid your preparation.
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -402,41 +413,42 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
       </tr>
       <tr>
       <td><a href="https://www.youtube.com/watch?v=vu3xcQm7cEo">The Essential UX Interview Questions (And How To Answer Them!)</a></td>
-      <td>Interviewing for UX design roles? Well you’ve come to the right place. In this video, we’ll share the 4 most commonly asked UX interview questions, and share tangible solutions on how to best answer them! 
+      <td>Interviewing for UX design roles? Well you’ve come to the right place. In this video, we’ll share the 4 most commonly asked UX interview questions, and share tangible solutions on how to best answer them!
 
 Dee Scarano, the video host, has been involved in the UX design industry for over 12 years, and has been responsible for leading and hiring teams of UX designers throughout her career. These tips come with actionable stories and advice from a seasoned industry professional. </td>
-      </tr>
-      <tr>
-      <td><a href="https://www.youtube.com/watch?v=ZtN3yHIWuRY">How to Ace Your UI/UX Design Interview | The Ultimate Guide</a></td>
-      <td>If you're planning to take on a UI/UX Design position in the near future, then you need to learn how to nail your interview. In this video, I'll cover everything you need to know to impress your interviewer and land the job of your dreams!</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.youtube.com/watch?v=JbJ3njajkO0">UX DESIGNER Interview Questions & ANSWERS! (How to PASS a UI/UX DESIGN Job Interview!)</a></td>
-      <td>UX DESIGNER Interview Questions & ANSWERS! (How to PASS a UI/UX DESIGN Job Interview!) by Richard McMunn of</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.youtube.com/watch?v=qOFAL7I3cHM">UI UX Design Interview Questions and Answers | UI UX | UI UX Design Certification Course | Edureka</a></td>
-      <td>Looking to ace your UI/UX interview? Then you are at right place we’ve compiled a list of some of the most common UI/UX design interview questions and provided detailed answers to help you feel confident and prepared. Whether you’re a seasoned designer or just starting out, these questions and answers will give you a solid foundation for acing your next UI/UX design interview.</td>
-      </tr>
-      <tr>
-        <td><a href="https://medium.com/@eleonorazucconi/46-interview-questions-for-user-experience-researchers-at-google-amazon-microsoft-and-facebook-c582827267b9">46 Interview Questions for User Experience Researchers at Google, Amazon, Microsoft and Facebook</a></td>
-        <td>A selection of inspiring and challenging questions (and a bonus presentation to practice them).</td>
-      </tr>
-     <tr>
-      <td><a href="https://youtu.be/ghfjvmR7waY?feature=shared">Mock Interview & Feedback: UX / UI Designer</a></td>
-      <td>Basic, intermediate, and advanced answers to UI/UX Design role Interview Questions and Live feedback to help improve interviewing skills.</td>
-      </tr>
-      <tr>
-      <td><a href="https://intellipaat.com/blog/interview-question/ux-designer-interview-questions/">Top UX Designer Interview Questions</a></td>
-      <td>Go through these interview questions to acquire valuable tips that will help you respond effectively to the inquiries posed by the interviewer.</td>
-      </tr>
-     
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=ZtN3yHIWuRY">How to Ace Your UI/UX Design Interview | The Ultimate Guide</a></td>
+<td>If you're planning to take on a UI/UX Design position in the near future, then you need to learn how to nail your interview. In this video, I'll cover everything you need to know to impress your interviewer and land the job of your dreams!</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=JbJ3njajkO0">UX DESIGNER Interview Questions & ANSWERS! (How to PASS a UI/UX DESIGN Job Interview!)</a></td>
+<td>UX DESIGNER Interview Questions & ANSWERS! (How to PASS a UI/UX DESIGN Job Interview!) by Richard McMunn of</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=qOFAL7I3cHM">UI UX Design Interview Questions and Answers | UI UX | UI UX Design Certification Course | Edureka</a></td>
+<td>Looking to ace your UI/UX interview? Then you are at right place we’ve compiled a list of some of the most common UI/UX design interview questions and provided detailed answers to help you feel confident and prepared. Whether you’re a seasoned designer or just starting out, these questions and answers will give you a solid foundation for acing your next UI/UX design interview.</td>
+</tr>
+<tr>
+<td><a href="https://medium.com/@eleonorazucconi/46-interview-questions-for-user-experience-researchers-at-google-amazon-microsoft-and-facebook-c582827267b9">46 Interview Questions for User Experience Researchers at Google, Amazon, Microsoft and Facebook</a></td>
+<td>A selection of inspiring and challenging questions (and a bonus presentation to practice them).</td>
+</tr>
+<tr>
+<td><a href="https://youtu.be/ghfjvmR7waY?feature=shared">Mock Interview & Feedback: UX / UI Designer</a></td>
+<td>Basic, intermediate, and advanced answers to UI/UX Design role Interview Questions and Live feedback to help improve interviewing skills.</td>
+</tr>
+<tr>
+<td><a href="https://intellipaat.com/blog/interview-question/ux-designer-interview-questions/">Top UX Designer Interview Questions</a></td>
+<td>Go through these interview questions to acquire valuable tips that will help you respond effectively to the inquiries posed by the interviewer.</td>
+</tr>
 
 </table>
 
-
 ### Newsletter
+
 > Discover a valuable newsletter that you can subscribe to in order to stay updated on the latest developments in the field of web design.
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -445,7 +457,8 @@ Dee Scarano, the video host, has been involved in the UX design industry for ove
       <!-- first one -->
       <tr>
       <td><a href="https://newsletter.uxdesign.cc/">UX Collective Newsletter</a></td>
-      <td>UX Collective is the premier Medium publication for UX content with a high editorial standard
+      <td>UX Collective is the premier Medium publication for UX content with a high editorial standard. 
+      <!-- Fixed typo: Added period after "stanford" -->
       We believe designers are thinkers as much as they are makers. So we created the design newsletter we have always wanted to receive. </td>
       </tr>
       <!-- second one -->
