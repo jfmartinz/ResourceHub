@@ -5,13 +5,7 @@
 - [Overview](#overview)<br>
 
 
-- [Roadmap for Web Development](roadmaps)
-
-  - [Front-End Development Roadmap](#front-end-development)
-  - [Back-End Development Roadmap](#backend-development)
-  - [Full-Stack Development Roadmap](#full-stack-development)
-
-
+- [Roadmap](roadmaps)
 
 
 - [Tutorials or Courses](#tutorials-or-courses)
@@ -49,11 +43,43 @@
 
 This category is a curated collection of valuable web development resources contributed by amazing contributors. Here, you will find a wide range of materials and information about web development.
 
-### Roadmap for Web Development
+### Roadmap 
 
-- [Roadmap for Front-End Development](https://roadmap.sh/frontend)
-- [Roadmap for Back-End Development](https://roadmap.sh/backend)
-- [Roadmap for Full Stack Development](https://roadmap.sh/full-stack)
+#### Front-End Development 
+<table width="100%">
+    <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+<tr>
+   <td><a href="https://roadmap.sh/frontend"> Roadmap </a></td>
+   <td>This is the roadmap for front-end development </td>
+</tr>
+</table>
+
+#### Back-End Development 
+<table width="100%">
+    <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+<tr>
+   <td><a href="https://roadmap.sh/backend">Roadmap</a></td>
+   <td>This is the roadmap for back-end development</td>
+</tr>
+</table>
+
+#### Full-Stack Development 
+<table width="100%">
+    <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+<tr>
+   <td><a href="https://roadmap.sh/backend">Roadmap</a></td>
+   <td>This is the roadmap for full-stack development</td>
+</tr>
+</table>
 
 
 
