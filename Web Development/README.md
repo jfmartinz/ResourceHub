@@ -7,6 +7,10 @@
 
 - [Roadmap](roadmaps)
 
+    - [Front-End Development Roadmap](#front-end-development)
+    - [Back-End Development Roadmap](#backend-development)
+    - [Full-Stack Development Roadmap](#full-stack-development)
+
 
 - [Tutorials or Courses](#tutorials-or-courses)
 
@@ -52,8 +56,8 @@ This category is a curated collection of valuable web development resources cont
     <th>Description</th>
   </tr>
 <tr>
-   <td><a href="https://roadmap.sh/frontend"> Roadmap </a></td>
-   <td>This is the roadmap for front-end development </td>
+   <td><a href="https://roadmap.sh/frontend"> Frontend </a></td>
+   <td>This is the roadmap for frontend development </td>
 </tr>
 </table>
 
@@ -64,8 +68,8 @@ This category is a curated collection of valuable web development resources cont
     <th>Description</th>
   </tr>
 <tr>
-   <td><a href="https://roadmap.sh/backend">Roadmap</a></td>
-   <td>This is the roadmap for back-end development</td>
+   <td><a href="https://roadmap.sh/backend">Backend</a></td>
+   <td>This is the roadmap for backend development</td>
 </tr>
 </table>
 
@@ -76,7 +80,7 @@ This category is a curated collection of valuable web development resources cont
     <th>Description</th>
   </tr>
 <tr>
-   <td><a href="https://roadmap.sh/backend">Roadmap</a></td>
+   <td><a href="https://roadmap.sh/backend">Full-Stack</a></td>
    <td>This is the roadmap for full-stack development</td>
 </tr>
 </table>
