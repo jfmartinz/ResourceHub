@@ -80,7 +80,7 @@ This category is a curated collection of valuable web development resources cont
     <th>Description</th>
   </tr>
 <tr>
-   <td><a href="https://roadmap.sh/backend">Full-Stack</a></td>
+   <td><a href="https://www.geeksforgeeks.org/full-stack-developer-roadmap/">Full-Stack</a></td>
    <td>This is the roadmap for full-stack development</td>
 </tr>
 </table>
