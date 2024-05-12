@@ -121,7 +121,7 @@ This category is a curated collection of valuable web development resources cont
 ### Backend Development
 
 <table width="100%">
-  <tr>s
+  <tr>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
