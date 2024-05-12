@@ -6,7 +6,7 @@
 - [Tutorials or Courses](#tutorials-or-courses)
 
   - [Front-End Development](#front-end-development)
-  - [Back-End Development](#backend-development)
+  - [BackEnd Development](#backend-development)
   - [Full-Stack Development](#full-stack-development)
 
 - [Tools](#tools)<br>
@@ -112,9 +112,91 @@ This category is a curated collection of valuable web development resources cont
 
 </table>
 
+### Backend Development
+
+
 <table width="100%">
   <tr>
-    <h4>Backend Development</h4>
+    <h4>Databases</h4>
+    <a href="https://www.geeksforgeeks.org/backend-development/">Introduction to Back-End Development</a>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://sqlzoo.net/wiki/SQL_Tutoria">SQLZoo</a>,
+    <a href="https://www.w3schools.com/sql/">W3SchoolSQL</a></td>
+    <td>SQL (Structured Query Language) is a standard language for storing, manipulating, and retrieving data in relational database management systems (RDBMS). It allows users to perform various operations such as querying, updating, and managing relational databases.</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.mongodb.com/">MongoDB</a>,
+    <a href="https://firebase.google.com/docs/functions/get-started?gen=2nd">Firebase</a></td>
+    <td>NoSQL databases are non-relational databases designed for distributed data storage and retrieval. They offer flexibility, scalability, and performance advantages for certain use cases such as real-time analytics, IoT, and large-scale web applications.</td>
+  </tr>
+  </table>
+
+#### Frameworks
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+    <tr>
+    <td><a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">Node.js</a>,
+    <a href="https://www.w3schools.com/nodejs/">Introduction to Node.js</a></td>
+    <td>Node.js is a runtime environment that allows developers to run JavaScript code outside of a web browser. It's commonly used for building scalable and high-performance server-side applications, APIs, and real-time web applications using JavaScript.</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.tutorialspoint.com/expressjs/index.htm">Express.js</a></td>
+    <td>Express.js is a minimalist web application framework for Node.js that provides a robust set of features for building web servers and APIs. It simplifies the process of handling HTTP requests, routing, middleware integration, and error handling in Node.js applications.</td>
+  </tr>
+    <tr>
+    <td><a href="https://docs.djangoproject.com/en/5.0/intro/tutorial01/">Django</a></td>
+    <td>Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. It provides built-in features for authentication, database ORM, URL routing, templating, and more, making it ideal for building robust web applications.</td>
+  </tr>
+      <tr>
+    <td><a href="https://flask.palletsprojects.com/en/3.0.x/">Flask</a></td>
+    <td>Flask is a lightweight Python web framework that offers flexibility and simplicity for building web applications. It provides essential features for URL routing, templating, and request handling, allowing developers to create web apps with minimal boilerplate code.</td>
+  </tr>
+</table>
+
+#### Other Componets
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+    <tr>
+    <td><a href="https://www.tutorialspoint.com/restful/index.htm">RESTful APIs</a></td>
+    <td>REST (Representational State Transfer) is an architectural style for designing networked applications. RESTful APIs adhere to REST principles and use standard HTTP methods (GET, POST, PUT, DELETE) for communication, making them scalable, stateless, and interoperable.</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.tutorialspoint.com/graphql/index.htm">GraphQL</a></td>
+    <td>GraphQL is a query language and runtime for APIs developed by Facebook. It enables clients to request exactly the data they need and nothing more, reducing over-fetching and under-fetching of data. GraphQL APIs provide a more efficient and flexible alternative to REST.</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.tutorialspoint.com/oauth2.0/index.htm">OAuth 2.0</a></td>
+    <td>Authentication is the process of verifying the identity of users, while authorization determines the actions users are allowed to perform. Common authentication mechanisms include OAuth 2.0 for delegated access and JWT (JSON Web Tokens) for stateless authentication.</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.docker.com/101-tutorial/">Docker</a></td>
+    <td>Containerization is a lightweight virtualization method that enables developers to package applications and dependencies into isolated containers. Docker is a popular containerization platform that simplifies the process of building, shipping, and running containers.</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.jenkins.io/doc/tutorials/">Jenkins</a></td>
+    <td>CI/CD pipelines automate the process of building, testing, and deploying applications. Jenkins and Travis CI are popular CI/CD tools that facilitate continuous integration and continuous delivery, ensuring code changes are consistently integrated and deployed to production.</td>
+  </tr>
+    <tr>
+    <td><a href="https://aws.amazon.com/documentation-overview/">AWS Documentation</a></td>
+    <td>Cloud platforms such as AWS (Amazon Web Services) and GCP (Google Cloud Platform) offer scalable infrastructure and services for hosting, managing, and deploying applications. They provide a wide range of compute, storage, database, and networking services for developers.</td>
+  </tr>
+</table>
+
+#### Courses
+
+<table width="100%">
+  <tr>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
