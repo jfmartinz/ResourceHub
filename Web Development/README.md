@@ -110,6 +110,23 @@ This category is a curated collection of valuable web development resources cont
     <td>Complete Frontend Development course for beginners. It simplifies and demystifies Web Development to any beginner who is willing and eager to learn.</td>
   </tr>
 
+  <tr>
+    <td><a href="https://youtu.be/HcOc7P5BMi4?si=jDAGHqzaej-KtwPc">The Complete HTML Tutorial for Beginners with Notes,Code & Practice Questions.|2 Hours|</a></td>
+    <td>Complete HTML Tutorial for beginners with Notes & Code in Hindi Language. 
+    This video covered all the basics to advanced topics related HTML5. </td>
+  </tr>
+
+<tr>
+<td><a href="https://youtu.be/ESnrn1kAD4E?si=yvV58b5QN1yQeG0d">The Complete CSS Tutorial for Beginners with Notes,Codes,Practice Questions & Project.|7 Hours| </a></td>
+<td>Complete CSS Tutorial for beginners with Notes,Codes & Project in Hindi Language. 
+    This video covered all the basics to advanced topics related CSS3. </td>
+</tr>
+
+<tr>
+<td><a href="https://youtu.be/VlPiVmYuoqw?si=n5ZH_tC25vBhkbJL">The Complete JavaScript Tutorial for Beginners with Notes,Codes,Practice Questions & Project.|12 Hours|</a></td>
+<td>Complete JavaScript Tutorial for beginners with Notes,Codes & Project in Hindi Language. 
+    This video covered all the basics to advanced topics related JavaScript.</td>
+</tr>
 </table>
 
 <table width="100%">
