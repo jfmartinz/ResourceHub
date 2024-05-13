@@ -143,7 +143,7 @@ you will find a wide range of materials and information about web development.
             making it easy for developers to understand and implement Node.js features in their applications.</td>
     </tr>
     <tr>
-        <td><a href="https://www.tutorialspoint.com/expressjs/index.html">Express.js</a></td>
+        <td><a href="https://www.tutorialspoint.com/expressjs/index.htm">Express.js</a></td>
         <td>Tutorialspoint's Express.js tutorial is a valuable resource for anyone looking to learn Express.js, a popular web application framework for Node.js. This tutorial provides a comprehensive overview of Express.js, covering everything from basic concepts to advanced topics.</td>
     </tr>
     <tr>
@@ -159,11 +159,11 @@ you will find a wide range of materials and information about web development.
         <td>The Tutorialspoint's RESTful tutorial provides a comprehensive introduction to RESTful principles, explaining key concepts such as resources, URIs, HTTP methods, and representations. It also provides the foundational knowledge which is essential for building scalable and interoperable web services.</td>
     </tr>
     <tr>
-        <td><a href="https://www.tutorialspoint.com/graphql/index.html">GraphQL</a></td>
+        <td><a href="https://www.tutorialspoint.com/graphql/index.htm">GraphQL</a></td>
         <td>The Tutorialspoint's GraphQL tutorial is an excellent resource for individuals looking to learn about GraphQL, a query language for APIs.Its easy for learners to progress through the material at their own pace. It starts with the basics and gradually introduces more advanced topics, ensuring that learners build a solid understanding of GraphQL concepts.</td>
     </tr>
     <tr>
-        <td><a href="https://www.tutorialspoint.com/oauth2.0/index.html">OAuth 2.0</a></td>
+        <td><a href="https://www.tutorialspoint.com/oauth2.0/index.htm">OAuth 2.0</a></td>
         <td>This tutorial provides a comprehensive overview of OAuth 2.0, covering its core concepts, flows, and components. This foundational knowledge is essential for developers looking to integrate OAuth 2.0 into their applications securely.</td>
     </tr>
     <tr>
