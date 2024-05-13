@@ -573,6 +573,10 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
         <td><a href="https://freeicons.io/">Freeicons</a></td>
         <td>Get the best icons at Freeicons. We have a huge selection of high quality icons available for download in various formats such as PNG, SVG,EPS and vector.</td>
     </tr>
+      <tr>
+        <td><a href="https://lucide.dev/icons/">Lucide</a></td>
+        <td>Designed with a strict set of design rules for consistency in style and readability.</td>
+    </tr>
 </table>
 
 #### Animations
