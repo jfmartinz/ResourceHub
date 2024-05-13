@@ -155,7 +155,7 @@ you will find a wide range of materials and information about web development.
         <td>Flask documentation is more than just a reference manual, it's a gateway to mastery in Backend development with Python. Whether you're a noob exploring Flask's possibilities or a seasoned developer seeking to optimize your workflow, Flask documentation equips you with the knowledge and resources to excel in your endeavors.</td>
     </tr>
     <tr>
-        <td><a href="https://www.tutorialspoint.com/restful/index.html">RESTful APIs</a></td>
+        <td><a href="https://www.tutorialspoint.com/restful/index.htm">RESTful APIs</a></td>
         <td>The Tutorialspoint's RESTful tutorial provides a comprehensive introduction to RESTful principles, explaining key concepts such as resources, URIs, HTTP methods, and representations. It also provides the foundational knowledge which is essential for building scalable and interoperable web services.</td>
     </tr>
     <tr>
