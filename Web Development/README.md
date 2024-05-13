@@ -379,6 +379,22 @@ you will find a wide range of materials and information about web development.
             css, mongodb and stripe. We are going to implement stripe checkout and webhook to receive information from
             stripe.</td>
     </tr>
+      <tr>
+      <td><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></td>
+      <td>In the Back End Development and APIs Certification, you'll learn to build back end applications using Node.js and npm, create web applications with the Express framework, and develop a People Finder microservice using MongoDB and the Mongoose library.</td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <h4>Full-Stack Development</h4>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=nu_pCVPKzTk&t=1453s">Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)</a></td>
+    <td>Learn full-stack web development in this full course for beginners. First, you will learn the basics of HTML, CSS, and JavaScript. Then, you will learn how to put everything together to create a frontend movie search app. Finally, you will learn how to create a backend API to create movie reviews and connect the frontend to the backend. The backend uses Node.js, Express, and MongoDB.</td>
+  </tr>
     <tr>
         <td><a href="https://www.youtube.com/watch?v=dTFXufTgfOE&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=10">Build
                 a Fullstack E-commerce using Next.js (react.js, mongo, tailwind, styled components)</a></td>
@@ -391,7 +407,6 @@ you will find a wide range of materials and information about web development.
         <td>In this video we are going to build a full stack social media app with react.js, tailwind and supabase.
         </td>
     </tr>
-
 </table>
 
 ### Tools
