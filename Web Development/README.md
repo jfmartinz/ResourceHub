@@ -221,14 +221,6 @@ This category is a curated collection of valuable web development resources cont
         <td> Mozilla's developer documentation on client-side web APIs for JavaScript is a best resource for individuals looking to enhance their understanding of web development. The content is curated and maintained by a community of experts, ensuring accuracy and relevance.
         </td>
     </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <h4>Courses</h4>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
   <tr>
     <td><a href="https://www.youtube.com/playlist?list=PLqX4M0x0p9ck3OfyL14-MISy6_-4oH9fK">Meta Back-End Developer Professional Certificate</a></td>
     <td>Launch your career as a back-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started.
