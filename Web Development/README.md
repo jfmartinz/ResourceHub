@@ -220,7 +220,6 @@ you will find a wide range of materials and information about web development.
             you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well
             as career support resources to help you with your job search.
   </td>
-
   </tr>
     <tr>
         <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
@@ -235,7 +234,6 @@ you will find a wide range of materials and information about web development.
             Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook
             with 15 clearly defined chapters.</td>
     </tr>
-
   <tr>
         <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8">Node.js Full course got beginners</a></td>
         <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly
@@ -258,7 +256,6 @@ you will find a wide range of materials and information about web development.
         </td>
     </tr>
 </table>
-
 <table width="100%">
     <tr>
         <h4>Full-Stack Development</h4>
@@ -278,7 +275,6 @@ you will find a wide range of materials and information about web development.
             Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook
             with 15 clearly defined chapters.</td>
     </tr>
-
   <tr>
         <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8">Node.js Full course got beginners</a></td>
         <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly
@@ -312,7 +308,6 @@ you will find a wide range of materials and information about web development.
     <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=26s">Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours</a></td>
     <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.</td>
   </tr>
-
   <tr>
     <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8">Node.js Full course got beginners</a></td>
     <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.</td>
@@ -325,7 +320,6 @@ you will find a wide range of materials and information about web development.
     <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way</a></td>
     <td>In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective, of course. Many important topics like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
   </tr>
-
   <tr>
       <td><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></td>
       <td>In the Back End Development and APIs Certification, you'll learn to build back end applications using Node.js and npm, create web applications with the Express framework, and develop a People Finder microservice using MongoDB and the Mongoose library.</td>
@@ -392,7 +386,6 @@ you will find a wide range of materials and information about web development.
             Noel. It is 100% free and requires absolutely no previous technical experience. This is not a coding
             bootcamp, this is a how-to-get Full Stack Web Dev job bootcamp</td>
     </tr>
-
   <tr>
         <td><a href="https://www.theodinproject.com">The Odin Project</td>
         <td>The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access
@@ -400,7 +393,6 @@ you will find a wide range of materials and information about web development.
             right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it
             on their own but still want a high quality education.</td>
     </tr>
-
   <tr>
         <td><a href="https://www.youtube.com/watch?v=nu_pCVPKzTk">Full Stack Web Development for Beginners (Full Course
                 on HTML, CSS, JavaScript, Node.js, MongoDB)</td>
