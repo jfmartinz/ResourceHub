@@ -112,8 +112,7 @@ This category is a curated collection of valuable web development resources cont
 
   <tr>
     <td><a href="https://youtu.be/HcOc7P5BMi4?si=jDAGHqzaej-KtwPc">The Complete HTML Tutorial for Beginners with Notes,Code & Practice Questions.|2 Hours|</a></td>
-    <td>Complete HTML Tutorial for beginners with Notes & Code in Hindi Language. 
-    This video covered all the basics to advanced topics related HTML5. </td>
+    <td>Complete HTML Tutorial for beginners with Notes & Code in Hindi Language .This video covered all the basics to advanced topics related HTML5. </td>
   </tr>
 
 <tr>
