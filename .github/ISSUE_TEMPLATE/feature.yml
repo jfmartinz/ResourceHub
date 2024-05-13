@@ -41,3 +41,9 @@ body:
       description: Include any extra information or visuals that may be relevant to the feature request.
     validations:
       required: false
+  - type: checkboxes
+    attributes:
+      label: Record
+      options:
+        - label: I'm a GSSOC'24 contributor
+        - label: I'm interested in working on this issue
