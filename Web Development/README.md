@@ -4,13 +4,11 @@
 
 - [Overview](#overview)<br>
 
-
 - [Roadmap](roadmaps)
 
-    - [Front-End Development Roadmap](#front-end-development)
-    - [Back-End Development Roadmap](#backend-development)
-    - [Full-Stack Development Roadmap](#full-stack-development)
-
+  - [Front-End Development Roadmap](#front-end-development)
+  - [Back-End Development Roadmap](#backend-development)
+  - [Full-Stack Development Roadmap](#full-stack-development)
 
 - [Tutorials or Courses](#tutorials-or-courses)
 
@@ -47,9 +45,10 @@
 
 This category is a curated collection of valuable web development resources contributed by amazing contributors. Here, you will find a wide range of materials and information about web development.
 
-### Roadmap 
+### Roadmap
 
-#### Front-End Development 
+#### Front-End Development
+
 <table width="100%">
     <tr>
     <th>Resource Name</th>
@@ -61,7 +60,8 @@ This category is a curated collection of valuable web development resources cont
 </tr>
 </table>
 
-#### Back-End Development 
+#### Back-End Development
+
 <table width="100%">
     <tr>
     <th>Resource Name</th>
@@ -73,7 +73,8 @@ This category is a curated collection of valuable web development resources cont
 </tr>
 </table>
 
-#### Full-Stack Development 
+#### Full-Stack Development
+
 <table width="100%">
     <tr>
     <th>Resource Name</th>
@@ -84,8 +85,6 @@ This category is a curated collection of valuable web development resources cont
    <td>This is the roadmap for full-stack development</td>
 </tr>
 </table>
-
-
 
 ### Tutorials or Courses
 
@@ -396,6 +395,14 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     <tr>
         <td> <a href="https://color-picker.dllplayer.com/">Color Picker</a></td>
         <td>This software extension allows you to pick colors from any web pages, color picker to get pixel code, rgb value of any image on the website you're browsing.</td>
+    </tr>
+    <tr>
+        <td><a href="https://hypercolor.dev/">Hypercolor</a></td>
+        <td>A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors. Easily copy and paste the class names, CSS or even save the gradients as an image.</td>
+    </tr>
+    <tr>
+        <td><a href="https://tailwindcomponents.com/gradient-generator/">Tailwind CSS Gradient Generator</a></td>
+        <td>Mix Tailwind CSS Colors and generate stunning text and background gradients or use our ready-made gradients to create remarkable designs.</td>
     </tr>
 
 </table>
