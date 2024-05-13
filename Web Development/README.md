@@ -165,12 +165,62 @@ This category is a curated collection of valuable web development resources cont
 
 </table>
 
+### Backend Development
+
 <table width="100%">
-  <tr>
-    <h4>Backend Development</h4>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">Node.js</a></td>
+        <td>The Node.js Documentation covers topics such as file system operations, networking, streams, event handling,
+            and more. It includes detailed explanations, code examples, and usage guidelines for each API and module,
+            making it easy for developers to understand and implement Node.js features in their applications.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.tutorialspoint.com/expressjs/index.htm">Express.js</a></td>
+        <td>Tutorialspoint's Express.js tutorial is a valuable resource for anyone looking to learn Express.js, a popular web application framework for Node.js. This tutorial provides a comprehensive overview of Express.js, covering everything from basic concepts to advanced topics.</td>
+    </tr>
+    <tr>
+        <td><a href="https://docs.djangoproject.com/en/5.0/intro/tutorial01/">Django</a></td>
+        <td>Django introductory tutorial from the official documentation serves as an excellent starting point for individuals looking to learn Django. Whether you're a beginner or an experienced developer, this resource provides the guidance and knowledge needed to kickstart your journey into Django web development.</td>
+    </tr>
+    <tr>
+        <td><a href="https://flask.palletsprojects.com/en/3.0.x/">Flask</a></td>
+        <td>Flask documentation is more than just a reference manual, it's a gateway to mastery in Backend development with Python. Whether you're a noob exploring Flask's possibilities or a seasoned developer seeking to optimize your workflow, Flask documentation equips you with the knowledge and resources to excel in your endeavors.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.tutorialspoint.com/restful/index.htm">RESTful APIs</a></td>
+        <td>The Tutorialspoint's RESTful tutorial provides a comprehensive introduction to RESTful principles, explaining key concepts such as resources, URIs, HTTP methods, and representations. It also provides the foundational knowledge which is essential for building scalable and interoperable web services.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.tutorialspoint.com/graphql/index.htm">GraphQL</a></td>
+        <td>The Tutorialspoint's GraphQL tutorial is an excellent resource for individuals looking to learn about GraphQL, a query language for APIs.Its easy for learners to progress through the material at their own pace. It starts with the basics and gradually introduces more advanced topics, ensuring that learners build a solid understanding of GraphQL concepts.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.tutorialspoint.com/oauth2.0/index.htm">OAuth 2.0</a></td>
+        <td>This tutorial provides a comprehensive overview of OAuth 2.0, covering its core concepts, flows, and components. This foundational knowledge is essential for developers looking to integrate OAuth 2.0 into their applications securely.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.docker.com/101-tutorial/">Docker</a></td>
+        <td>The Docker's "101 Tutorial" provides a gentle introduction to containerization concepts, explaining how Docker enables developers to package applications and their dependencies into lightweight, portable containers. This foundational knowledge is crucial for understanding Docker's role in modern software development.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.jenkins.io/doc/tutorials/">Jenkins</a></td>
+        <td> Jenkins' official documentation website, these tutorials provide accurate and up-to-date information directly from the creators of Jenkins. Users can rely on the authenticity and reliability of the content.</td>
+    </tr>
+    <tr>
+        <td><a href="https://aws.amazon.com/documentation-overview/">AWS</a></td>
+        <td>The AWS Documentation is a comprehensive resource hub for individuals and organizations utilizing Amazon Web Services (AWS) cloud computing services, this documentation provides the guidance, reference material, and support needed to effectively leverage AWS for your projects and initiatives.</td>
+    </tr>
+    <tr>
+        <td><a
+                href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction">API</a>
+        </td>
+        <td> Mozilla's developer documentation on client-side web APIs for JavaScript is a best resource for individuals looking to enhance their understanding of web development. The content is curated and maintained by a community of experts, ensuring accuracy and relevance.
+        </td>
+    </tr>
   <tr>
     <td><a href="https://www.youtube.com/playlist?list=PLqX4M0x0p9ck3OfyL14-MISy6_-4oH9fK">Meta Back-End Developer Professional Certificate</a></td>
     <td>Launch your career as a back-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started.
