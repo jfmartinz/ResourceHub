@@ -158,6 +158,11 @@ This category is a curated collection of valuable web development resources cont
     <td>Complete Frontend Development course for beginners. It simplifies and demystifies Web Development to any beginner who is willing and eager to learn.</td>
   </tr>
 
+  <tr>
+      <td><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries</a></td>
+      <td>The Front End Development Libraries Certification teaches you how to style your site efficiently with Bootstrap, enhance CSS with Sass, and build powerful Single Page Applications (SPAs) using React and Redux.</td>
+  </tr>
+
 </table>
 
 <table width="100%">
@@ -199,6 +204,11 @@ On completion, you’ll get access to the Meta Career Programs Job Board—a job
   <tr>
     <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way</a></td>
     <td>In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective, of course. Many important topics like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
+  </tr>
+
+  <tr>
+      <td><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></td>
+      <td>In the Back End Development and APIs Certification, you'll learn to build back end applications using Node.js and npm, create web applications with the Express framework, and develop a People Finder microservice using MongoDB and the Mongoose library.</td>
   </tr>
 </table>
 
