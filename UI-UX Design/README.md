@@ -1,6 +1,6 @@
 # UI & UX Design 🎨
 
-## Table of Contents
+## Navigator
 
 - [Overview](#overview)<br>
 - [Tutorials or Courses](#tutorials-or-courses)<br>
@@ -14,7 +14,7 @@
 
 ### Overview
 
-This category is a curated collection of valuable UI (User Interface) and UX (User Experience) design resources contributed by amazing contributors. Here, you will find a wide range of materials and information about UI & UX design.
+This curated collection offers valuable UI (User Interface) and UX (User Experience) design resources contributed by talented individuals. Here, you'll discover a diverse range of materials and information on UI & UX design.
 
 ### Tutorials or Courses
 
@@ -24,31 +24,37 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
+        <th>Cost</th>
       </tr>
       <tr>
-        <td> <a href="https://www.youtube.com/watch?v=B-ytMSuwbf8">Web Design for Beginners | FREE COURSE</a></td>
-        <td>this course on web design for beginners will teach you everything you need to know about web design. 5hours duration</td>
+        <td> <a href="https://www.youtube.com/watch?v=B-ytMSuwbf8">Web Design for Beginners</a></td>
+        <td>This beginner web design course covers all you need to know in 5 hours.</td>
+            <td>FREE</td>
+      </tr>
+      <tr>
+         <td><a href="https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI"> Web Design 101: Free Full Course</a></td>   
+         <td>Flux is offering free web design classes for those using quarantine to learn something new or facing financial constraints.</td>  
+            <td>FREE</td>
+      </tr>
+       <tr>
+      <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
+      <td>The Nielsen Norman Group is a top source for UX research and design. Their website has a wealth of articles and reports covering various UX topics. It's a must-visit for staying current with best practices and industry trends.</td>
+             <td>PAID</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.adobe.com/products/xd/learn/view-all-xd-tutorials.html">Adobe XD - UI/UX Design Software and Tutorials</a></td>
+      <td>Adobe XD is a widely used software for UI/UX design. It offers tutorials and resources to help designers improve their skills. It's a valuable tool in the industry.</td>
+            <td>PAID</td>
       </tr>
       <tr>
         <td> <a href="https://www.coursera.org/professional-certificates/google-ux-design">Google UX Design Professional Certificate</a></td>
         <td>This course is a six-month online program that teaches you the skills you need to become a UX designer.</td>
-      </tr>
-      <tr>
-         <td><a href="https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI"> Web Design 101: Free Full Course</a></td>   
-         <td>In Flux we've decided to teach Web Design for free to those who are using quarantine to make a change in their lives, to those who can't afford a web design course right now or to those that simply want to learn a new skill.
-</td>   
-      </tr>
-       <tr>
-      <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
-      <td>The Nielsen Norman Group is a leading authority on user experience research and design. Their website offers a vast collection of UX articles, reports, and research findings that cover a wide range of topics within the UX field. These resources are invaluable for staying up to date with UX best practices and industry trends.</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.adobe.com/products/xd/learn/view-all-xd-tutorials.html">Adobe XD - UI/UX Design Software and Tutorials</a></td>
-      <td>Adobe XD is a popular software tool for UI and UX design. Adobe's official website provides access to Adobe XD, and it also offers a rich set of tutorials, webinars, and resources to help designers master the software and enhance their UI and UX design skills. Adobe XD is widely used in the industry, making it a valuable skill for UI/UX designers.</td>
+            <td>PAID</td>
       </tr>
       <tr>
       <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization]</a></td>
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
+            <td>PAID</td>
   </tr>
   </table>
 
