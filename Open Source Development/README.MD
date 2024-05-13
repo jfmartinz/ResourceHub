@@ -194,7 +194,7 @@ Open source development involves collaborative creation of software where the so
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/@TraversyMedia">Traversy Media</a></td>
-    <td>raversy Media covers a wide range of topics in web development, including frontend and backend technologies, as well as tutorials on using version control systems like Git, which are essential for open source development.
+    <td>Traversy Media covers a wide range of topics in web development, including frontend and backend technologies, as well as tutorials on using version control systems like Git, which are essential for open source development.
 </td>
   </tr>
   <tr>
