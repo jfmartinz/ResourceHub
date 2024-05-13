@@ -300,7 +300,6 @@ you will find a wide range of materials and information about web development.
             dependency management, dependency injection & testing are not omitted even when the course is for beginners.
         </td>
     </tr>
-=======
   <tr>
     <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
     <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and Handlebars</td>
