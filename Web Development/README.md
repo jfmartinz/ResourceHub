@@ -265,6 +265,72 @@ you will find a wide range of materials and information about web development.
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
+      <tr>
+        <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
+        <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and
+            Handlebars</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=26s">Node.js Full Course for Beginners | Complete
+                All-in-One Tutorial | 7 Hours</a></td>
+        <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly
+            7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the
+            Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook
+            with 15 clearly defined chapters.</td>
+    </tr>
+
+  <tr>
+        <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8">Node.js Full course got beginners</a></td>
+        <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly
+            7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the
+            Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook
+            with 15 clearly defined chapters.</td>
+    </tr>
+    <tr>
+        <td><a
+                href="https://www.youtube.com/watch?v=qwfE7fSVaZM&t=5107s&pp=ygUcZnJlZWNvZGVjYW1wIHJlYAWN0IGpzIGNvdXJzZQ%3D%3D">Learn
+                and make 4 node.js & express projects</a></td>
+        <td>A one-shot video focusing on making 4 node.js and express projects, great for beginners!</td>
+    </tr>
+    <tr>
+        <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP
+                The Right Way</a></td>
+        <td>In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is
+            subjective, of course. Many important topics like security, caching, performance, configuration, routing,
+            dependency management, dependency injection & testing are not omitted even when the course is for beginners.
+        </td>
+    </tr>
+=======
+  <tr>
+    <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
+    <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and Handlebars</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=ChVE-JbtYbM&t=36231s">Complete Backend course for free </a></td>
+    <td>A free course that teaches helps you to learn Node.js, Express.js and MongoDB</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=26s">Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours</a></td>
+    <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8">Node.js Full course got beginners</a></td>
+    <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=qwfE7fSVaZM&t=5107s&pp=ygUcZnJlZWNvZGVjYW1wIHJlYAWN0IGpzIGNvdXJzZQ%3D%3D">Learn and make 4 node.js & express projects</a></td>
+    <td>A one-shot video focusing on making 4 node.js and express projects, great for beginners!</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way</a></td>
+    <td>In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective, of course. Many important topics like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
+  </tr>
+
+  <tr>
+      <td><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></td>
+      <td>In the Back End Development and APIs Certification, you'll learn to build back end applications using Node.js and npm, create web applications with the Express framework, and develop a People Finder microservice using MongoDB and the Mongoose library.</td>
+  </tr>
     <tr>
         <td><a href="https://www.youtube.com/watch?v=nu_pCVPKzTk&t=1453s">Full Stack Web Development for Beginners (Full
                 Course on HTML, CSS, JavaScript, Node.js, MongoDB)</a></td>
