@@ -4,12 +4,6 @@
 
 - [Overview](#overview)<br>
 
-- [Roadmap](roadmaps)
-
-  - [Front-End Development Roadmap](#front-end-development)
-  - [Back-End Development Roadmap](#backend-development)
-  - [Full-Stack Development Roadmap](#full-stack-development)
-
 - [Tutorials or Courses](#tutorials-or-courses)
 
     - [Front-End Development](#front-end-development)
@@ -220,6 +214,7 @@ you will find a wide range of materials and information about web development.
             you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well
             as career support resources to help you with your job search.
   </td>
+
   </tr>
     <tr>
         <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
@@ -234,6 +229,7 @@ you will find a wide range of materials and information about web development.
             Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook
             with 15 clearly defined chapters.</td>
     </tr>
+
   <tr>
         <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8">Node.js Full course got beginners</a></td>
         <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly
@@ -256,74 +252,13 @@ you will find a wide range of materials and information about web development.
         </td>
     </tr>
 </table>
+
 <table width="100%">
     <tr>
         <h4>Full-Stack Development</h4>
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
-      <tr>
-        <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
-        <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and
-            Handlebars</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=26s">Node.js Full Course for Beginners | Complete
-                All-in-One Tutorial | 7 Hours</a></td>
-        <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly
-            7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the
-            Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook
-            with 15 clearly defined chapters.</td>
-    </tr>
-  <tr>
-        <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8">Node.js Full course got beginners</a></td>
-        <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly
-            7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the
-            Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook
-            with 15 clearly defined chapters.</td>
-    </tr>
-    <tr>
-        <td><a
-                href="https://www.youtube.com/watch?v=qwfE7fSVaZM&t=5107s&pp=ygUcZnJlZWNvZGVjYW1wIHJlYAWN0IGpzIGNvdXJzZQ%3D%3D">Learn
-                and make 4 node.js & express projects</a></td>
-        <td>A one-shot video focusing on making 4 node.js and express projects, great for beginners!</td>
-    </tr>
-    <tr>
-        <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP
-                The Right Way</a></td>
-        <td>In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is
-            subjective, of course. Many important topics like security, caching, performance, configuration, routing,
-            dependency management, dependency injection & testing are not omitted even when the course is for beginners.
-        </td>
-    </tr>
-  <tr>
-    <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
-    <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and Handlebars</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=ChVE-JbtYbM&t=36231s">Complete Backend course for free </a></td>
-    <td>A free course that teaches helps you to learn Node.js, Express.js and MongoDB</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=26s">Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours</a></td>
-    <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8">Node.js Full course got beginners</a></td>
-    <td>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=qwfE7fSVaZM&t=5107s&pp=ygUcZnJlZWNvZGVjYW1wIHJlYAWN0IGpzIGNvdXJzZQ%3D%3D">Learn and make 4 node.js & express projects</a></td>
-    <td>A one-shot video focusing on making 4 node.js and express projects, great for beginners!</td>
-  </tr>
-  <tr>
-    <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way</a></td>
-    <td>In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective, of course. Many important topics like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
-  </tr>
-  <tr>
-      <td><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></td>
-      <td>In the Back End Development and APIs Certification, you'll learn to build back end applications using Node.js and npm, create web applications with the Express framework, and develop a People Finder microservice using MongoDB and the Mongoose library.</td>
-  </tr>
     <tr>
         <td><a href="https://www.youtube.com/watch?v=nu_pCVPKzTk&t=1453s">Full Stack Web Development for Beginners (Full
                 Course on HTML, CSS, JavaScript, Node.js, MongoDB)</a></td>
@@ -366,14 +301,8 @@ you will find a wide range of materials and information about web development.
             - Frontend CRUD
             - Frontend Router </td>
     </tr>
-     <tr>
-      <td><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></td>
-      <td>In the Back End Development and APIs Certification, you'll learn to build back end applications using Node.js and npm, create web applications with the Express framework, and develop a People Finder microservice using MongoDB and the Mongoose library.</td>
-  </tr>
-</table>
     <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PLhaS1k1mPiCO878vo-9xFJAlUfcz9dMv2v">Blog MERN stack project
-            </a></td>
+        <td><a href="https://www.youtube.com/playlist?list=PLhaS1k1mPiCO878vo-9xFJAlUfcz9dMv2v">Blog MERN stack project</a></td>
         <td>in this course, I will teach you how you can create a full-stack app step by step.
             this course has two sections:
             1- at the first we will create the Front-end part with React.js and Tailwind CSS.
@@ -387,7 +316,7 @@ you will find a wide range of materials and information about web development.
             bootcamp, this is a how-to-get Full Stack Web Dev job bootcamp</td>
     </tr>
   <tr>
-        <td><a href="https://www.theodinproject.com">The Odin Project</td>
+        <td><a href="https://www.theodinproject.com">The Odin Project</a></td>
         <td>The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access
             to a computer science education or the funds to attend an intensive coding school and neither of those is
             right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it
@@ -395,7 +324,7 @@ you will find a wide range of materials and information about web development.
     </tr>
   <tr>
         <td><a href="https://www.youtube.com/watch?v=nu_pCVPKzTk">Full Stack Web Development for Beginners (Full Course
-                on HTML, CSS, JavaScript, Node.js, MongoDB)</td>
+                on HTML, CSS, JavaScript, Node.js, MongoDB)</a></td>
         <td>Learn full-stack web development in this full course for beginners. First, you will learn the basics of
             HTML, CSS, and JavaScript. Then, you will learn how to put everything together to create a frontend movie
             search app. Finally, you will learn how to create a backend API to create movie reviews and connect the
@@ -403,27 +332,27 @@ you will find a wide range of materials and information about web development.
     </tr>
     <tr>
         <td><a href="https://www.youtube.com/watch?v=P4kuSxpjA48&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN">Twitter clone
-                with React.js, MongoDB and tailwind css</td>
+                with React.js, MongoDB and tailwind css</a></td>
         <td>Let's build a Twitter clone using react.js, next.js, mongodb and tailwind css.
             Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, profile edits (username, name
             bio), drag&drop image uploads and much more.</td>
     </tr>
     <tr>
         <td><a href="https://www.youtube.com/watch?v=hlh1zR2Wjvs&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=2">E-Commerce
-                tutorial with Next.js, React, Tailwind, MongoDB and Stripe</td>
+                tutorial with Next.js, React, Tailwind, MongoDB and Stripe</a></td>
         <td>In this tutorial we are going to build a fully functional e-commerce app with next.js, react.js, tailwind
             css, mongodb and stripe. We are going to implement stripe checkout and webhook to receive information from
             stripe.</td>
     </tr>
     <tr>
         <td><a href="https://www.youtube.com/watch?v=dTFXufTgfOE&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=10">Build
-                a Fullstack E-commerce using Next.js (react.js, mongo, tailwind, styled components)</td>
+                a Fullstack E-commerce using Next.js (react.js, mongo, tailwind, styled components)</a></td>
         <td>In this tutorial, You will learn how to build a fullstack ecommerce app using next.js and mongo database. It
             will be 2 projects with a lot of cool functionality.</td>
     </tr>
     <tr>
         <td><a href="https://www.youtube.com/watch?v=6dsLLp1_Ww8&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=6">Social
-                Media App Tutorial (React.js, Supabase, Tailwind, Next.js)</td>
+                Media App Tutorial (React.js, Supabase, Tailwind, Next.js)</a></td>
         <td>In this video we are going to build a full stack social media app with react.js, tailwind and supabase.
         </td>
     </tr>
