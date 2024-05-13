@@ -3,6 +3,13 @@
 ## Table of Contents
 
 - [Overview](#overview)<br>
+
+- [Roadmap](roadmaps)
+
+  - [Front-End Development Roadmap](#front-end-development)
+  - [Back-End Development Roadmap](#backend-development)
+  - [Full-Stack Development Roadmap](#full-stack-development)
+
 - [Tutorials or Courses](#tutorials-or-courses)
 
   - [Front-End Development](#front-end-development)
@@ -38,6 +45,47 @@
 
 This category is a curated collection of valuable web development resources contributed by amazing contributors. Here, you will find a wide range of materials and information about web development.
 
+### Roadmap
+
+#### Front-End Development
+
+<table width="100%">
+    <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+<tr>
+   <td><a href="https://roadmap.sh/frontend"> Frontend </a></td>
+   <td>This is the roadmap for frontend development </td>
+</tr>
+</table>
+
+#### Back-End Development
+
+<table width="100%">
+    <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+<tr>
+   <td><a href="https://roadmap.sh/backend">Backend</a></td>
+   <td>This is the roadmap for backend development</td>
+</tr>
+</table>
+
+#### Full-Stack Development
+
+<table width="100%">
+    <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+<tr>
+   <td><a href="https://www.geeksforgeeks.org/full-stack-developer-roadmap/">Full-Stack</a></td>
+   <td>This is the roadmap for full-stack development</td>
+</tr>
+</table>
+
 ### Tutorials or Courses
 
 > Discover a collection of web development tutorials and courses, including articles, videos, and more.
@@ -61,8 +109,16 @@ This category is a curated collection of valuable web development resources cont
     <td>A short video about Flexbox in just 8 minutes</td>
   </tr>
   <tr>
+    <td><a href="https://www.youtube.com/watch?v=G3e-cpL7ofc">HTML & CSS Full Course - Beginner to Pro</a></td>
+    <td>A detailed HTML and CSS Course for beginners, by SuperSimpleDev</td>
+  </tr>
+  <tr>
     <td><a href="https://youtu.be/g7T23Xzys-A">Master JavaScript in One Video!</a></td>
     <td>Comprehensive 2-hour JavaScript crash course by JavaScript Mastery.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=EerdGm-ehJQ">JavaScript Tutorial Full Course - Beginner to Pro (2024)</a></td>
+    <td>A JavaScript course for beginners, by SuperSimpleDev</td>
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP">Namaste (Hello) Javascript!</a></td>
@@ -96,6 +152,17 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a></td>
     <td>React course for beginners. It simplifies and demystifies react to any beginner who is willing and eager to learn.</td>
   </tr>
+
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8&si=aN5S8Tm7IxmXeAFD">The Complete Frontend Development Course | 148 Hours |</a></td>
+    <td>Complete Frontend Development course for beginners. It simplifies and demystifies Web Development to any beginner who is willing and eager to learn.</td>
+  </tr>
+
+  <tr>
+      <td><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries</a></td>
+      <td>The Front End Development Libraries Certification teaches you how to style your site efficiently with Bootstrap, enhance CSS with Sass, and build powerful Single Page Applications (SPAs) using React and Redux.</td>
+  </tr>
+
 </table>
 
 <table width="100%">
@@ -116,6 +183,10 @@ On completion, you’ll get access to the Meta Career Programs Job Board—a job
   <tr>
     <td><a href="https://www.wa4e.com/">Web Applications for Everybody</a></td>
     <td>A free online course that teaches how to build a database-backed website using PHP, MySQL, JQuery, and Handlebars</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=ChVE-JbtYbM&t=36231s">Complete Backend course for free </a></td>
+    <td>A free course that teaches helps you to learn Node.js, Express.js and MongoDB</td>
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=26s">Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours</a></td>
@@ -146,6 +217,10 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
   <tr>
     <td><a href="https://medium.com/@dharshib.8/getting-started-with-microservices-4266f440086f">Getting started with MicroservicesT</a></td>
     <td>Instead of all-in-one (one big chunk of code) software designs called monolithic architectures, microservices break things down into smaller, more manageable parts, making it easier to develop, update, and scale software. In this guide we will delve into understanding what microservice is, differences between microservices and monolithic, Creating a simple microservice backend project with spring boot and monogodb, importance of service discovery and api gateway in micro services architecture and finally communication between microservices.</td>
+ </tr>
+  <tr>
+      <td><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></td>
+      <td>In the Back End Development and APIs Certification, you'll learn to build back end applications using Node.js and npm, create web applications with the Express framework, and develop a People Finder microservice using MongoDB and the Mongoose library.<
   </tr>
 </table>
 
@@ -300,7 +375,8 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     </tr>
   <tr>
         <td> <a href="https://flatuicolors.com/">FlatUIColors</a></td>
-        <td>This resource provides a collection of flat and trendy colors that work well for modern web design./td>
+        <td>This resource provides a collection of flat and trendy colors that work well for modern web design.</td>
+        <!-- Closing td tag was not propely closed: Changes made! -->
     </tr>
     <tr>
       <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
@@ -341,6 +417,14 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     <tr>
         <td> <a href="https://color-picker.dllplayer.com/">Color Picker</a></td>
         <td>This software extension allows you to pick colors from any web pages, color picker to get pixel code, rgb value of any image on the website you're browsing.</td>
+    </tr>
+    <tr>
+        <td><a href="https://hypercolor.dev/">Hypercolor</a></td>
+        <td>A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors. Easily copy and paste the class names, CSS or even save the gradients as an image.</td>
+    </tr>
+    <tr>
+        <td><a href="https://tailwindcomponents.com/gradient-generator/">Tailwind CSS Gradient Generator</a></td>
+        <td>Mix Tailwind CSS Colors and generate stunning text and background gradients or use our ready-made gradients to create remarkable designs.</td>
     </tr>
 
 </table>
@@ -510,6 +594,10 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
        <tr>
         <td><a href="https://freeicons.io/">Freeicons</a></td>
         <td>Get the best icons at Freeicons. We have a huge selection of high quality icons available for download in various formats such as PNG, SVG,EPS and vector.</td>
+    </tr>
+      <tr>
+        <td><a href="https://lucide.dev/icons/">Lucide</a></td>
+        <td>Designed with a strict set of design rules for consistency in style and readability.</td>
     </tr>
 </table>
 
@@ -792,7 +880,8 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     </tr>
       <tr>
       <td><a href="https://semantic-ui.com/">Semantic UI</td>
-      <td>Semantic UI is an open-source framework that uses CSS and jQuery to build great user interfaces. It is the same as a bootstrap for use and has great different elements to use to make your website looks more amazing. It uses a class to add CSS to the elements.</td>
+      <td>Semantic UI is an open-source framework that uses CSS and jQuery to build great user interfaces. It is the same as a bootstrap for use and has different great elements to use to make your website look more amazing. It uses a class to add CSS to the elements.</td>
+      <!-- Fixed typo from " great different elements" to "different great elements" -->
       </tr>
       <tr>
       <td><a href="https://uiverse.io/">Uiverse</td>
@@ -835,6 +924,16 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
         <td> <a href="https://www.smashingmagazine.com/">Smashing Magazine</a></td>
         <td>Smashing Magazine is a well-known resource for web designers and developers, providing articles, tutorials, and code snippets for building creative and effective UI components.</td>
     </tr>
+    <tr>
+        <td> <a href="https://flowbite.com/">Flowbite</a></td>
+        <td>Flowbite is an ecosystem built on top of Tailwind CSS including a component library, block sections, a Figma design system and other resources.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://ui.aceternity.com/">Aceternity UI</a></td>
+        <td>Replicate the most trending components  in your websites without having to worry about styling and animations.
+        </td>
+    </tr>
+
 </table>
 
 ### Books
@@ -1086,7 +1185,7 @@ to everyone - everywhere!</td>
         <td> <a href="https://www.youtube.com/@slayingthedragon/featured">Slaying The Dragon</a></td>
         <td>Slaying the dragon is about facing your fears, pursuing meaning and transforming into the web developer you were always destined to be.</td>
       </tr>
-        <tr>
+      <tr>
         <td> <a href="https://www.youtube.com/@TraversyMedia/featured">Traversy Media</a></td>
         <td>Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP.</td>
       </tr>
@@ -1096,7 +1195,7 @@ to everyone - everywhere!</td>
         <td>Fireship is a popular YouTube channel dedicated to providing high-quality, concise tutorials on web development, covering topics like JavaScript, frameworks, and modern development practices.
         </td>
       </tr>
-        <tr>
+      <tr>
         <td> <a href="https://www.youtube.com/@freecodecamp">FreeCodeCamp</a></td>
         <td>FreeCodeCamp, which has a YouTube channel, also offers more comprehensive online courses, and students can choose from 300-hour programs in skills like responsive web design, JavaScript algorithms, and data visualization. You can also find several free online courses in Python, an in-demand coding language.
         </td>
@@ -1104,8 +1203,8 @@ to everyone - everywhere!</td>
       <tr>
         <td> <a href="https://www.youtube.com/@codeblockdev">Codeblock</a></td>
         <td>"Code Block: Your go-to YouTube channel for mastering web development, with a focus on JavaScript. Unlock your coding potential today!"</td>
-       </tr>
-        <tr>
+      </tr>
+      <tr>
         <td> <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">Net Ninja</a></td>
         <td> The Net Ninja YouTube channel is a great resource for learning web development. It offers a wide range of tutorials on topics such as HTML, CSS, JavaScript, React, and Node.js.
         </td>
@@ -1123,9 +1222,19 @@ to everyone - everywhere!</td>
         <td><a href="https://www.youtube.com/@CodeWithHarry">CodeWithHarry</a></td>
         <td>CodeWithHarry is an online learning platform that offers courses in Hindi on a variety of programming languages and technologies, including Web Development, Python, Django, JavaScript, SQL, and more. Notes and related PDFs are also provided for all courses on the channel.</td>
       </tr>
-       <tr>
+      <tr>
         <td><a href="https://www.youtube.com/@HiteshChoudharydotcom">Hitesh Choudhari</a></td>
         <td>Hitesh Choudhari is a YouTube channel that offers various courses on programming languages. It is one of the best channel to learn web development at free of cost.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://youtube.com/@huxnwebdev?si=Wyc748YDJMUg0hSi">HuXn WebDev</a></td>
+        <td>HuXn is a talented software engineer with a passion for creating stunning user experiences. Having worked with an extensive range of technologies, frameworks, and programming languages - from React and Angular to Python, Golang, and more - his expertise in the field is unparalleled. HuXn's diverse skill set has enabled him to build countless projects for clients around the world, showcasing his ability to adapt and excel in any given environment.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://youtube.com/@SuperSimpleDev?si=XlOQn_5fhYjraRJi">SuperSimpleDev</a></td>
+        <td>Youtube channel that teaches Web Development in a super simple way.Explore the content rich channel to become a pro in web development.
         </td>
       </tr>
   </table>
@@ -1187,20 +1296,23 @@ to everyone - everywhere!</td>
       <td>Here is the short important concept which should be know for the preparation of Web development Interveiw</td>
       </tr>
       <tr>
-      <td><a href="https://youtu.be/pwLNA_LMw0c?si=Zhq4TXXUw90cyLtP">Forntend Interview Questions </a></td>
+      <td><a href="https://youtu.be/pwLNA_LMw0c?si=Zhq4TXXUw90cyLtP">Frontend Interview Questions </a></td>
       <td>This is the collection of interview question which will be helpful in your learning journey.</td>
+      <!-- Fixed typo from "forntend" to "Frontend" -->
       </tr>
       <tr>
       <td><a href="https://www.freecodecamp.org/learn/project-euler/">Projecr Euler</a></td>
       <td>Complete the programming challenges below, from the massive Project Euler archives. These will harden your algorithm and mathematics knowledge.
 
 These problems range in difficulty and, for many, the experience is inductive chain learning. That is, by solving one problem, it will expose you to a new concept that allows you to undertake a previously inaccessible problem. Can you finish them all?</td>
+
 </tr>
 <tr>
 <td><a href="https://www.freecodecamp.org/learn/coding-interview-prep/">Coding Interview Prep</a></td>
 <td>If you're looking for free coding exercises to prepare for your next job interview, we've got you covered.
 
 This section contains hundreds of coding challenges that test your knowledge of algorithms, data structures, and mathematics. It also has a number of take-home projects you can use to strengthen your skills, or add to your portfolio.</td>
+
 </tr>
 <tr>
 <td><a href="https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions">100 Days Of Frontend Interview Questions</a></td>
@@ -1270,12 +1382,14 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr> 
       <tr>
         <td><a href="https://medium.com/javarevisited/mastering-design-patterns-in-java-1e39194ac480">Design patterns</a></td>
-        <td>As developers, our goal is not just to make things work, but also to make sure our code is maintainable, scalable, adaptable and reusable. Enter design patterns — the time-tested blueprints that empower us to tackle recurring design problems with elegance and efficiency. This medium article explains design patterns with real world examples using java in simple way.
+        <td>As developers, our goal is not just to make things work, but also to make sure our code is maintainable, scalable, adaptable and reusable. Enter design patterns — the time-tested blueprints that empower us to tackle recurring design problems with elegance and efficiency. This Medium article explains design patterns with real world examples using java in simple way. 
+        <!-- Fixed typo from "medium article" to "Medium article" -->
         </td>
       </tr> 
       <tr>
         <td><a href="https://medium.com/javarevisited/solid-principles-explained-in-java-5b9fca1f5540">Solid principles</a></td>
-        <td>SOLID principles are one of the object-oriented approaches used in software development, intended to create quality software. The broad goal of the SOLID principles is to reduce dependencies, so that developers can change one area of the software without affecting others. Furthermore, they are intended to make designs easier to understand, maintain, reuse, and extend. This medium article explains solid principles with real world examples using java in simple way.
+        <td>SOLID principles are one of the object-oriented approaches used in software development, intended to create quality software. The broad goal of the SOLID principles is to reduce dependencies, so that developers can change one area of the software without affecting others. Furthermore, they are intended to make designs easier to understand, maintain, reuse, and extend. This Medium article explains solid principles with real world examples using java in simple way.
+          <!-- Fixed typo from "medium article" to "Medium article" -->
         </td>
       </tr>    
   </table>

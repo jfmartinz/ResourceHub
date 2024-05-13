@@ -32,19 +32,19 @@ Here is a list of the currently available categories of the project:<br>
 
 
 ## How to contribute
-Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your own fork of this repository before submitting any contributions.
+Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your fork of this repository before submitting any contributions.
 Expand the following section for a quick guide on how to create a fork:
 
 <details>
-  <summary>How to Fork this Repo and submit a Pull Request (PR)</summary>
+  <summary>How to Fork this Repo and Submit a Pull Request (PR)</summary>
 
 ### 1. Create a Fork
 
-Click the **Fork** button at the top right of this repository to create your own copy.
+Click the **Fork** button at the top right of this repository to create your copy.
 
 ### 2. Clone Your Fork
 
-Clone the forked repository to your local machine following these steps:
+Clone the forked repository to your local machine by following these steps:
 
  1. Open the forked repository in your GitHub account. 
  2. Click on the **Code** button. 
