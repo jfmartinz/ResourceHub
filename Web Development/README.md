@@ -898,6 +898,16 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
         <td> <a href="https://www.smashingmagazine.com/">Smashing Magazine</a></td>
         <td>Smashing Magazine is a well-known resource for web designers and developers, providing articles, tutorials, and code snippets for building creative and effective UI components.</td>
     </tr>
+    <tr>
+        <td> <a href="https://flowbite.com/">Flowbite</a></td>
+        <td>Flowbite is an ecosystem built on top of Tailwind CSS including a component library, block sections, a Figma design system and other resources.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://ui.aceternity.com/">Aceternity UI</a></td>
+        <td>Replicate the most trending components  in your websites without having to worry about styling and animations.
+        </td>
+    </tr>
+
 </table>
 
 ### Books
