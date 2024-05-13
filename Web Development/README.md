@@ -205,10 +205,22 @@ On completion, you’ll get access to the Meta Career Programs Job Board—a job
     <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way</a></td>
     <td>In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective, of course. Many important topics like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
   </tr>
-
+  <tr>
+    <td><a href="https://medium.com/javarevisited/building-a-secure-restful-user-crud-with-spring-boot-a-step-by-step-guide-486ed3fd4e5a">Building a RESTful User CRUD with Spring Boot: A Step-by-Step Guide</a></td>
+    <td>Think of an API as a set of rules and protocols that allow different software applications to talk to each other.Representational State Transfer (REST) is a style of building software systems that use standard HTTP methods (like GET, POST, PUT, DELETE) to perform operations on resources (like data stored in a database). In this comprehensive guide you will learn how to create a respful api in spring boot. Not only that you will learn several best practices including quality code exception handling, validating inputs, design patterns</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@dharshib.8/securing-spring-boot-applications-with-jwt-part-1-5bff0f56578e">Securing Spring boot applications with JWT</a></td>
+    <td>In this digital age, authentication and authorization are fundamental aspects of any web application.
+Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT), offering a versatile solution for implementing secure authentication and authorization mechanisms. In this comprehensive guide, we’ll delve into the intricacies of securing Spring Boot applications using JWT. We’ll explore the entire spectrum of authentication, from enabling users to sign up and sign in securely, to implementing role-based access control to protect sensitive routes. </td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@dharshib.8/getting-started-with-microservices-4266f440086f">Getting started with MicroservicesT</a></td>
+    <td>Instead of all-in-one (one big chunk of code) software designs called monolithic architectures, microservices break things down into smaller, more manageable parts, making it easier to develop, update, and scale software. In this guide we will delve into understanding what microservice is, differences between microservices and monolithic, Creating a simple microservice backend project with spring boot and monogodb, importance of service discovery and api gateway in micro services architecture and finally communication between microservices.</td>
+ </tr>
   <tr>
       <td><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></td>
-      <td>In the Back End Development and APIs Certification, you'll learn to build back end applications using Node.js and npm, create web applications with the Express framework, and develop a People Finder microservice using MongoDB and the Mongoose library.</td>
+      <td>In the Back End Development and APIs Certification, you'll learn to build back end applications using Node.js and npm, create web applications with the Express framework, and develop a People Finder microservice using MongoDB and the Mongoose library.<
   </tr>
 </table>
 
