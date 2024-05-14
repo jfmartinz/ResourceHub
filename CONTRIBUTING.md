@@ -48,7 +48,7 @@ There are many ways to contribute, and you don't need to be a coding wizard to g
 > If you come across a resource that you believe would benefit others, we encourage you to share it with us. Here's how you can contribute valuable resources:
 
 1. **Review the Rules for Adding Resources:** Carefully read and understand the guidelines on how to add a resource, including the specified format. Ensure that you follow the provided PR template, as it streamlines the review process for us.
-2. **Raise an Issue:** Create an issue and provide details about the resource you'd like to add. I'll review it, and if it aligns with contributing guidelines. I'll add it it into the project.
+2. **Raise an Issue:** Create an issue and provide details about the resource you'd like to add. I'll review it, and if it aligns with contributing guidelines. I'll add it it to the project.
 
 ### Grammatical errors
 > Help us maintain clean and error-free content by fixing typos or grammar issues. Your attention to detail ensures a seamless reading experience for everyone involved.
@@ -65,6 +65,6 @@ There are many ways to contribute, and you don't need to be a coding wizard to g
 
 1. **Raise an Issue:** If you come across broken links or outdated resources, create an issue and provide details on the category or location where you found it. This information will help us swiftly address the issue and keep everything up to date.
 
-Thank you for considering contributing to ResourceHub! Your contributions plays a crucial role in making this project a valuable resource for the web development community. 🌐✨
+Thank you for considering contributing to ResourceHub! Your contributions play a crucial role in making this project a valuable resource for the web development community. 🌐✨
 
 Happy contributing! 🚀
