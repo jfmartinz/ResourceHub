@@ -1,0 +1,29 @@
+name: Auto Comment on PR Generation
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Add Comment to Pull Request
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        COMMENT=$(cat <<EOF
+        {
+          "body": "[Auto-Comment]: Thank you for submitting your pull request! 🙌 We'll review it as soon as possible. In the meantime, please ensure that your changes align with our <a href="https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>. If there are any specific instructions or feedback regarding your PR, we'll provide them here. Thanks again for your contribution! 😊"
+        }
+        EOF
+        )
+        curl -X POST \
+          -H "Authorization: Bearer $GITHUB_TOKEN" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments \
+          -d "$COMMENT"
