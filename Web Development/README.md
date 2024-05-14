@@ -159,6 +159,11 @@ This category is a curated collection of valuable web development resources cont
     <td>Complete Frontend Development course for beginners. It simplifies and demystifies Web Development to any beginner who is willing and eager to learn.</td>
   </tr>
 
+  <tr>
+      <td><a href="https://www.w3schools.com/tutorials/">w3schools Tutorials</a></td>
+      <td>Free Tutorials covering all aspects of web development and programming.</td>
+  </tr>
+
 </table>
 
 <table width="100%">
