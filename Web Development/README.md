@@ -158,6 +158,10 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://youtube.com/playlist?list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8&si=aN5S8Tm7IxmXeAFD">The Complete Frontend Development Course | 148 Hours |</a></td>
     <td>Complete Frontend Development course for beginners. It simplifies and demystifies Web Development to any beginner who is willing and eager to learn.</td>
   </tr>
+  <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n">Web Development Course</a></td>
+      <td>Learn web development with our comprehensive playlist covering HTML, CSS, JavaScript, and Bootstrap, complete with hands-on challenges to reinforce your skills.</td>
+  </tr>
 
 </table>
 
