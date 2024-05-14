@@ -4,7 +4,7 @@
 
 - [Overview](#overview)<br>
 - [Tutorials or Courses](#tutorials-or-courses)<br>
-- [Raodmap for UI/UX](#Roadmap-for-UI/UX)<br>
+- [Raodmap](#Roadmap)<br>
 - [Tools](#tools)<br>
 - [Design Inspiration](#design-inspiration)<br>
 - [Books](#books)<br>
@@ -54,7 +54,7 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
   </table>
 
 
-### Roadmap for UI/UX
+### Roadmap
 
 > To become a UI/UX designer there are a lot of skills that one requires. Few skills are essential for both UI and UX designers, whereas some are very specific to either. Let’s look into each field and learn what are the roadmap required.
 
