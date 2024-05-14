@@ -39,22 +39,22 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
        <tr>
       <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
       <td>The Nielsen Norman Group is a top source for UX research and design. Their website has a wealth of articles and reports covering various UX topics. It's a must-visit for staying current with best practices and industry trends.</td>
-             <td>PAID</td>
+             <td>$299/year</td>
       </tr>
       <tr>
       <td><a href="https://www.adobe.com/products/xd/learn/view-all-xd-tutorials.html">Adobe XD - UI/UX Design Software and Tutorials</a></td>
       <td>Adobe XD is a widely used software for UI/UX design. It offers tutorials and resources to help designers improve their skills. It's a valuable tool in the industry.</td>
-            <td>PAID</td>
+            <td>$9.99</td>
       </tr>
       <tr>
         <td> <a href="https://www.coursera.org/professional-certificates/google-ux-design">Google UX Design Professional Certificate</a></td>
         <td>This course is a six-month online program that teaches you the skills you need to become a UX designer.</td>
-            <td>PAID</td>
+            <td>$9.32/month</td>
       </tr>
       <tr>
       <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization]</a></td>
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
-            <td>PAID</td>
+            <td>$32.63/month</td>
   </tr>
   </table>
 
