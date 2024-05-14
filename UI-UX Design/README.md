@@ -4,6 +4,7 @@
 
 - [Overview](#overview)<br>
 - [Tutorials or Courses](#tutorials-or-courses)<br>
+- [Roadmap](#Roadmap)<br>
 - [Tools](#tools)<br>
 - [Design Inspiration](#design-inspiration)<br>
 - [Books](#books)<br>
@@ -51,6 +52,23 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
   </tr>
   </table>
+
+
+### Roadmap
+
+> To become a UI/UX designer there are a lot of skills that one requires. Few skills are essential for both UI and UX designers, whereas some are very specific to either. Let’s look into each field and learn what are the roadmap required.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <th ><a href="https://www.geeksforgeeks.org/how-to-become-a-ui-ux-designer-a-complete-roadmap/">UI/UX </a></th>
+        <th>This is the Roadmap for UI/UX</th>
+ 
+  </table>
+
+  
 
 ### Tools
 
