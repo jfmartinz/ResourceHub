@@ -1,11 +1,14 @@
+# Databases
+
+## Table of Content
+
 - [Databases](#Databases)
 
   - [SQL Databases](#SQL-Databases)
   - [NoSQL Databases](#NoSQL-Databases)
 
-# Databases
 
-## SQL Databases
+### SQL Databases
 
 <table width="100%">
     <tr>
@@ -30,7 +33,7 @@
 </tr>
 </table>
 
-## NoSQL Databases
+### NoSQL Databases
 
 <table width="100%">
     <tr>
