@@ -13,10 +13,10 @@
 
 - [Tutorials or Courses](#tutorials-or-courses)
 
-  - [Front-End Development](#front-end-development)
+  - [Front-End Development](#front-end-development-1)
   - [Back-End Development](#backend-development)
-  - [DevOps](#devOps)
-  - [Full-Stack Development](#full-stack-development)
+  - [DevOps](#devops-1)
+  - [Full-Stack Development](#full-stack-development-1)
 
 - [Tools](#tools)<br>
   - [Typography](#typography)
