@@ -1,6 +1,6 @@
-# Databases
+# Database
 
-## Table of Content
+## Table of Contents
 
 - [Databases](#Databases)
 
