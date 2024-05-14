@@ -1,6 +1,6 @@
 # UI & UX Design 🎨
 
-## Navigator
+## Table of Contents
 
 - [Overview](#overview)<br>
 - [Tutorials or Courses](#tutorials-or-courses)<br>
