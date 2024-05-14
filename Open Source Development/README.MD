@@ -23,10 +23,6 @@ Open source development involves collaborative creation of software where the so
     <td>This website provides comprehensive guides and resources for getting started with open source, contributing to projects, and maintaining your own projects.</td>
   </tr>
   <tr>
-    <td><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></td>
-    <td>FreeCodeCamp offers a wide range of tutorials and articles on programming, web development, and open source contributions.</td>
-  </tr>
-  <tr>
     <td><a href="https://www.edx.org/">edX</a></td>
     <td>edX hosts courses from universities and institutions worldwide, including courses on open source software development.</td>
   </tr>
@@ -133,12 +129,20 @@ Open source development involves collaborative creation of software where the so
     <td>Stack Overflow is a widely-used question and answer platform where developers can ask technical questions, seek advice, and share expertise. Many open source-related questions are answered here, covering various programming languages, frameworks, and tools.</td>
   </tr>
   <tr>
-    <td><a href="https://www.reddit.com/r/opensource/comments/o1019p/my_top_10_favourite_open_source_development_tools/">Reddit</a></td>
-    <td>Subreddits like r/opensource and r/github are dedicated to discussions about open source software, development practices, and collaboration. These communities often share news, tutorials, and resources related to open source.</td>
+    <td><a href="https://www.reddit.com/r/opensource/?ref=thehiveindex.com&utm_source=thehiveindex.com">r/opensource</a></td>
+    <td>r/opensource is a Subreddit for Open Source Developers with roughly 204K members. It uses a forum format for communication.</td>
   </tr>
   <tr>
-    <td><a href="https://discord.com/open-source">Discord and Slack Channels</a></td>
-    <td>Many open source projects host Discord or Slack channels for real-time communication among contributors and users. These channels provide a space for discussions, troubleshooting, and collaboration.</td>
+    <td><a href="https://www.reddit.com/r/github/">r/github</a></td>
+    <td>r/opensource is a Subreddit for Open Source Developers with roughly 106K members. It uses a forum format for communication.</td>
+  </tr>
+  <tr>
+    <td><a href="https://discord.com/invite/angular?ref=thehiveindex.com&utm_source=thehiveindex.com">Angular</a></td>
+    <td>Angular is a Discord Server for Web Developers and Open Source Developers with roughly 37K members. It has a live chat communication style.</td>
+  </tr>
+  <tr>
+    <td><a href="https://discord.com/open-source">Apache Software Foundation</a></td>
+    <td>Apache Software Foundation is a Slack Group for Programmers and Open Source Developers with roughly 8K members. It is home to nearly 150 top level projects ranging from open source enterprise automation software to a whole ecosystem of distributed computing projects related to Apache Hadoop. ASF’s open source software is used ubiquitously around the world with more than 8,400 committers contributing to more than 320 active projects.</td>
   </tr>
 </table>
 
@@ -193,23 +197,14 @@ Open source development involves collaborative creation of software where the so
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/@TraversyMedia">Traversy Media</a></td>
-    <td>Traversy Media covers a wide range of topics in web development, including frontend and backend technologies, as well as tutorials on using version control systems like Git, which are essential for open source development.
+    <td><a href="https://www.youtube.com/eddiejaoude">Eddie Jaoude</a></td>
+    <td>OPEN SOURCE is NOT just about code, it is about people, communication and collaboration.This is why he founded an inclusive open source community, EddieHub.
 </td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/@freecodecamp">freeCodeCamp.org</a></td>
-    <td>freeCodeCamp.org provides tutorials, coding challenges, and project walkthroughs covering various programming languages, frameworks, and tools relevant to open source development.
-
+    <td><a href="https://www.youtube.com/@AwesomeOpenSource">Awesome Open Source</a></td>
+    <td>Open Source software is absolutely Awesome!  I use it for as much as I can.  This channel is here to introduce some of the amazing open source and free software out there, and available, for you to use today.  Reviews and information will range from desktop apps to server based, self-hosted apps, and include those open source companies that will help you host their software as well!
 </td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/@LinuxfoundationOrg">The Linux Foundation</a></td>
-    <td>The Linux Foundation's channel offers videos on Linux, open source software, and technology trends, providing insights into the open source ecosystem and opportunities for developers.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/@coreyms">Corey Schafer</a></td>
-    <td>Corey Schafer's channel offers tutorials on Python programming, web development with Django and Flask, and other topics relevant to open source development, along with tips for becoming a better developer.</td>
   </tr>
 </table>
 
