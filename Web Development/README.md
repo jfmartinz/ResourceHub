@@ -37,6 +37,7 @@
   - [Other Communities](#other-communities)
 - [Youtube Channels](#youtube-channels)<br>
 - [Games](#games)<br>
+- [Web Development Projects For Beginners](#Web-Development-Projects-For-Beginners)<br>
 - [Interview](#interview)<br>
 - [Challenges](#challenges)<br>
 - [Best Practices](#best-practices)
@@ -1352,6 +1353,45 @@ to everyone - everywhere!</td>
    <td><a href="https://www.codepip.com/">Code Pip</a></td>
    <td>Codepip is the platform for your favorite web development games. Gain an edge in your next interview or project.Create a free account to enjoy the features.</td>
 </tr>
+  </table>
+
+  ###  Web Development Projects For Beginners
+  > The best method to acquire any skill is to put it into practice by working on projects , here are some beginner level projects.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://www.geeksforgeeks.org/create-todo-app-using-reactjs/"> ToDo List</a></td>
+        <td>It is the most basic project to test the knowledge of React. It will covers all the basic concept which a beginner should know while learning is covered.</td> 
+      </tr>
+      <tr>
+        <td> <a href="https://www.geeksforgeeks.org/pacman-game-using-react/">PacMan Game</a></td>
+        <td>This game includes classic features like the maze, pellets, and ghosts, and learn some cool React stuff along the way. The game will be easy to play with arrow keys.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.geeksforgeeks.org/expense-tracker-using-react/">Expense Tracker </a></td>
+        <td>It is a web application developed using React. Its main purpose is to assist users in keeping track of their expenses.</td>
+      </tr>
+       <tr>
+        <td> <a href="https://www.geeksforgeeks.org/weather-app-using-vanilla-javascript/">Weather App</a></td>
+        <td>A simple weather application built using HTML, CSS, and JavaScript provides a user-friendly interface to display weather information based on the user's location or a specified city.  </td>
+      </tr>
+       <tr>
+        <td> <a href="https://www.geeksforgeeks.org/build-a-password-generator-app-with-html-css-and-javascript/">Password Generator</a></td>
+        <td>This application will generate strong and secure passwords based on user preferences, such as password length and character types. It aims to provide a convenient tool for users to generate random passwords that are difficult to guess and enhance their online security.  </td>
+      </tr>
+
+   <tr>
+        <td> <a href="https://www.geeksforgeeks.org/typing-speed-tester-using-react/">Typing Speed Tester</a></td>
+        <td>Typing Speed Tester will provides a random paragraph for the user to type as accurately and quickly as possible within a fixed time limit of one minute. This application also displays the time remaining, counts mistakes calculates the words per minute and characters per minute, and updates these all dynamically in real time.   </td>
+      </tr>
+       <tr>
+        <td> <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">JavaScript Music Player</a></td>
+        <td>This JavaScript music player is an interactive web-based application that allows users to play audio files directly from their browser. It is built primarily using JavaScript ,React  along with HTML and CSS, to handle the user interface and the media playback.   </td>
+      </tr>
   </table>
 
 ### Interview
