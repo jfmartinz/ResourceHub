@@ -109,6 +109,10 @@ This category is a curated collection of valuable web development resources cont
     <td>A short video about Flexbox in just 8 minutes</td>
   </tr>
   <tr>
+    <td><a href="https://labs.codehelp.in/fruitbox-flex">Flexbox Playground</a></td>
+    <td>Interactive Flexbox learning platform where you can learn Flexbox effortlessly through playful exploration.</td>
+  </tr>
+  <tr>
     <td><a href="https://www.youtube.com/watch?v=G3e-cpL7ofc">HTML & CSS Full Course - Beginner to Pro</a></td>
     <td>A detailed HTML and CSS Course for beginners, by SuperSimpleDev</td>
   </tr>
