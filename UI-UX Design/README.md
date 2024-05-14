@@ -12,6 +12,7 @@
 - [Youtube Channels](#youtube-channels)<br>
 - [Interview](#interview)<br>
 - [Newsletter](#newsletter)<br>
+- [UI/UX Design Challenges](#challenges)<br>
 
 ### Overview
 
@@ -58,7 +59,7 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
 
 > To become a UI/UX designer there are a lot of skills that one requires. Few skills are essential for both UI and UX designers, whereas some are very specific to either. Let’s look into each field and learn what are the roadmap required.
 
-<table width="100%">
+<table width="100%" id="Roadmap">
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
@@ -465,7 +466,7 @@ Dee Scarano, the video host, has been involved in the UX design industry for ove
 
 ### Newsletter
 
-> Discover a valuable newsletter that you can subscribe to in order to stay updated on the latest developments in the field of web design.
+> Discover a valuable newsletter that you can subscribe to in order to stay updated on the latest developments in the field of UI/UX design.
 
 <table width="100%">
       <tr>
@@ -524,8 +525,45 @@ Dee Scarano, the video host, has been involved in the UX design industry for ove
 
 <tr>
 <td> <a href="https://muz.li/"> Muzli weekly digest </td>
-<td>he best design inspiration - expertly curated for you.
+<td>The best design inspiration - expertly curated for you.
 Muzli is a new-tab browser extension that instantly delivers relevant design stories and inspiration to keep you in the loop.  </td>
  </tr>
       
+</table>
+
+### UI/UX Design Challenges 
+
+> Discover a set of design challenges that unleash your potential, while creating a stunning portfolio.
+
+<table width="100%" id="challenges"><!--Added a section to discover design challenges-->
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+<td> <a href="https://www.crowwwn.com/">Crowwwn</td>
+<td>Find popular design challenges that are a part of weekly contests.<br>
+Unleash your creativity while adhering to the prompts given.</td>
+ </tr>
+      <tr>
+<td> <a href="https://www.dailyui.co/">Daily UI</td>
+<td>Your go-to UI practice companion.<br>
+The daily challenges consist of a title,a hint and a free resource, all
+designed to make the most of your creativity.</td>
+ </tr>
+      <tr>
+<td> <a href="https://uxtools.co/">UX Tools</td>
+<td>Sharpen your UX skillset with a comprehensive set of 
+18 challenges that test every aspect of your core design knowledge.</td>
+ </tr>
+      <tr>
+<td> <a href="https://sharpen.design/">Sharpen.design</td>
+<td>A popular site that offers design challenges to stay updated with 
+industry trends to freshers and veterans alike!</td>
+ </tr>
+      <tr>
+<td> <a href="https://www.uxchallenge.co/">UXchallenge</td>
+<td>A design challenge site that focuses on designs inspired by whiteboard
+exercises.</td>
+ </tr>
 </table>
