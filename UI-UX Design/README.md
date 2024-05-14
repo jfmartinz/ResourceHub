@@ -12,7 +12,7 @@
 - [Youtube Channels](#youtube-channels)<br>
 - [Interview](#interview)<br>
 - [Newsletter](#newsletter)<br>
-- [Popular UI/UX Design Challenges](#challenges)<br>
+- [UI/UX Design Challenges](#challenges)<br>
 
 ### Overview
 
@@ -59,7 +59,7 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
 
 > To become a UI/UX designer there are a lot of skills that one requires. Few skills are essential for both UI and UX designers, whereas some are very specific to either. Let’s look into each field and learn what are the roadmap required.
 
-<table width="100%">
+<table width="100%" id="Roadmap">
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
@@ -531,9 +531,9 @@ Muzli is a new-tab browser extension that instantly delivers relevant design sto
       
 </table>
 
-### Popular UI/UX Design Challenges 
+### UI/UX Design Challenges 
 
-> Discover a set of design challenges that unleash your potential, while creating a stunning portfolio
+> Discover a set of design challenges that unleash your potential, while creating a stunning portfolio.
 
 <table width="100%" id="challenges"><!--Added a section to discover design challenges-->
       <tr>
