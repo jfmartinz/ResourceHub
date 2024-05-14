@@ -8,7 +8,7 @@
 
   - [Front-End Development Roadmap](#front-end-development)
   - [Back-End Development Roadmap](#back-end-development)
-  - [DevOps Roadmap](#devOps)
+  - [DevOps Roadmap](#devops)
   - [Full-Stack Development Roadmap](#full-stack-development)
 
 - [Tutorials or Courses](#tutorials-or-courses)
