@@ -159,11 +159,6 @@ This category is a curated collection of valuable web development resources cont
     <td>Complete Frontend Development course for beginners. It simplifies and demystifies Web Development to any beginner who is willing and eager to learn.</td>
   </tr>
 
-  <tr>
-      <td><a href="https://www.w3schools.com/tutorials/">w3schools Tutorials</a></td>
-      <td>Free Tutorials covering all aspects of web development and programming.</td>
-  </tr>
-
 </table>
 
 <table width="100%">
@@ -283,6 +278,11 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
   <tr>
     <td><a href="https://www.youtube.com/watch?v=6dsLLp1_Ww8&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=6">Social Media App Tutorial (React.js, Supabase, Tailwind, Next.js)</td>
     <td>In this video we are going to build a full stack social media app with react.js, tailwind and supabase. </td>
+  </tr>
+
+   <tr>
+      <td><a href="https://www.w3schools.com/tutorials/">w3schools Tutorials</a></td>
+      <td>Free Tutorials covering all aspects of web development and programming.</td>
   </tr>
   
 </table>
