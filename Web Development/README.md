@@ -381,7 +381,6 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
       <td><a href="https://www.w3schools.com/tutorials/">w3schools Tutorials</a></td>
       <td>Free Tutorials covering all aspects of web development and programming.</td>
   </tr>
-  
 </table>
 
 ### Tools
