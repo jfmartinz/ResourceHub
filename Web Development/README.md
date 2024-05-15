@@ -40,6 +40,10 @@
 - [Interview](#interview)<br>
 - [Challenges](#challenges)<br>
 - [Best Practices](#best-practices)
+- [Projects](#projects)
+  - [Beginner level](#beginner-level-projects)
+  - [Intermediate level](#intermediate-level-projects)
+  - [Advanced level](#advance-level-projects)
 
 ### Overview
 
@@ -109,6 +113,10 @@ This category is a curated collection of valuable web development resources cont
     <td>A short video about Flexbox in just 8 minutes</td>
   </tr>
   <tr>
+    <td><a href="https://labs.codehelp.in/fruitbox-flex">Flexbox Playground</a></td>
+    <td>Interactive Flexbox learning platform where you can learn Flexbox effortlessly through playful exploration.</td>
+  </tr>
+  <tr>
     <td><a href="https://www.youtube.com/watch?v=G3e-cpL7ofc">HTML & CSS Full Course - Beginner to Pro</a></td>
     <td>A detailed HTML and CSS Course for beginners, by SuperSimpleDev</td>
   </tr>
@@ -157,7 +165,25 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://youtube.com/playlist?list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8&si=aN5S8Tm7IxmXeAFD">The Complete Frontend Development Course | 148 Hours |</a></td>
     <td>Complete Frontend Development course for beginners. It simplifies and demystifies Web Development to any beginner who is willing and eager to learn.</td>
   </tr>
+  <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n">Web Development Course</a></td>
+      <td>Learn web development with our comprehensive playlist covering HTML, CSS, JavaScript, and Bootstrap, complete with hands-on challenges to reinforce your skills.</td>
+  </tr>
 
+  <tr>
+    <td><a href="https://youtu.be/HcOc7P5BMi4?si=jDAGHqzaej-KtwPc">The Complete HTML Tutorial for Beginners with Notes,Code & Practice Questions.|2 Hours|</a></td>
+    <td>Complete HTML Tutorial for beginners with Notes & Code in Hindi Language .This video covered all the basics to advanced topics related HTML5. </td>
+  </tr>
+
+<tr>
+<td><a href="https://youtu.be/ESnrn1kAD4E?si=yvV58b5QN1yQeG0d">The Complete CSS Tutorial for Beginners with Notes,Codes,Practice Questions & Project.|7 Hours| </a></td>
+<td>Complete CSS Tutorial for beginners with Notes,Codes & Project in Hindi Language.This video covered all the basics to advanced topics related CSS3. </td>
+</tr>
+
+<tr>
+<td><a href="https://youtu.be/VlPiVmYuoqw?si=n5ZH_tC25vBhkbJL">The Complete JavaScript Tutorial for Beginners with Notes,Codes,Practice Questions & Project.|12 Hours|</a></td>
+<td>Complete JavaScript Tutorial for beginners with Notes,Codes & Project in Hindi Language.This video covered all the basics to advanced topics related JavaScript.</td>
+</tr>
   <tr>
       <td><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries</a></td>
       <td>The Front End Development Libraries Certification teaches you how to style your site efficiently with Bootstrap, enhance CSS with Sass, and build powerful Single Page Applications (SPAs) using React and Redux.</td>
@@ -350,7 +376,11 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     <td><a href="https://www.youtube.com/watch?v=6dsLLp1_Ww8&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=6">Social Media App Tutorial (React.js, Supabase, Tailwind, Next.js)</td>
     <td>In this video we are going to build a full stack social media app with react.js, tailwind and supabase. </td>
   </tr>
-  
+
+   <tr>
+      <td><a href="https://www.w3schools.com/tutorials/">w3schools Tutorials</a></td>
+      <td>Free Tutorials covering all aspects of web development and programming.</td>
+  </tr>
 </table>
 
 ### Tools
@@ -1440,6 +1470,144 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <td><a href="https://medium.com/javarevisited/solid-principles-explained-in-java-5b9fca1f5540">Solid principles</a></td>
         <td>SOLID principles are one of the object-oriented approaches used in software development, intended to create quality software. The broad goal of the SOLID principles is to reduce dependencies, so that developers can change one area of the software without affecting others. Furthermore, they are intended to make designs easier to understand, maintain, reuse, and extend. This Medium article explains solid principles with real world examples using java in simple way.
           <!-- Fixed typo from "medium article" to "Medium article" -->
+        </td>
+      </tr>    
+  </table>
+
+  ### Projects
+
+> These Projects help you gain real time website building exprience by building these projects.
+
+  #### Beginner level projects
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/how-to-create-a-landing-page-using-html-css-and-javascript/">Landing Page</a></td>
+        <td>
+        This link helps you to Create a Landing Page Using HTML, CSS, and JavaScript provides a practical demonstration of the benefits of building landing pages for improving web development skills.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/how-to-create-todo-app-using-html-css-js-and-bootstrap/">ToDo application</a></td>
+        <td>
+          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        </td>
+      </tr>  
+     <tr>
+        <td><a href="https://www.codewithfaraz.com/content/339/build-a-simple-calculator-html-css-javascript-tutorial-source-code">Calculator</a></td>
+        <td>
+        This link helps you to create using HTML, CSS, JS. This project mainly focuses on logic using JS, and also forces you to sharpen you logical thinking skills.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://codewithcurious.com/projects/create-responsive-website-using-html-css-js/">Responsive Web Page</a></td>
+        <td>This link helps you to create responsive web pages using HTML, CSS, JS.This project mainly focuses on making the web page responsive using CSS.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/create-a-quiz-app-with-timer-using-html-css-and-javascript/">Quiz game</a></td>
+        <td>
+        This link helps you to create a quiz game.This project focuses more on manipulating the Document Object Model (DOM) are excellent for beginners to reinforce their understanding of how JavaScript interacts with web pages
+        </td>
+      </tr>    
+      <tr>
+        <td> <a href="https://www.geeksforgeeks.org/pacman-game-using-react/">PacMan Game</a></td>
+        <td>This game includes classic features like the maze, pellets, and ghosts, and learn some cool React stuff along the way. The game will be easy to play with arrow keys.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.geeksforgeeks.org/expense-tracker-using-react/">Expense Tracker </a></td>
+        <td>It is a web application developed using React. Its main purpose is to assist users in keeping track of their expenses.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.geeksforgeeks.org/build-a-password-generator-app-with-html-css-and-javascript/">Password Generator</a></td>
+        <td>This application will generate strong and secure passwords based on user preferences, such as password length and character types. It aims to provide a convenient tool for users to generate random passwords that are difficult to guess and enhance their online security.  </td>
+      </tr>
+       <tr>
+        <td> <a href="https://www.geeksforgeeks.org/typing-speed-tester-using-react/">Typing Speed Tester</a></td>
+        <td>Typing Speed Tester will provides a random paragraph for the user to type as accurately and quickly as possible within a fixed time limit of one minute. This application also displays the time remaining, counts mistakes calculates the words per minute and characters per minute, and updates these all dynamically in real time.   </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">JavaScript Music Player</a></td>
+        <td>This JavaScript music player is an interactive web-based application that allows users to play audio files directly from their browser. It is built primarily using JavaScript ,React  along with HTML and CSS, to handle the user interface and the media playback.   </td>
+      </tr>
+  </table>
+
+  #### Intermediate level projects
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://foolishdeveloper.com/drawing-app-javascript/">Drawing App</a></td>
+        <td>
+        This link helps you understand deep JS by building a drawing app. This project is the best practice for understanding intermediate DOM elements and Events.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/build-a-weather-app-in-html-css-javascript/">Weather application</a></td>
+        <td>
+        This link helps you to understand APIs and how they work in realtime. This website also teaches you the basics of Apis.
+        </td>
+      </tr>  
+     <tr>
+        <td><a href="https://www.codewithfaraz.com/content/339/build-a-simhttps://github.com/MohitSojitra/react-blog-website">Blogging Website</a></td>
+        <td>
+        This GitHub repo teachs you how to create a blogging website using HTML, CSS ,REACT. This project is very helpful for understanding the React basics and Frontend Basics. 
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://github.com/Rohit177/Pinterest_Clone_Tailwind/blob/main/index.html">Pintrest Clone</a></td>
+        <td>This GitHub repo helps you build Pinterest Clone by using HTML and a CSS framework known as TAILWINDCSS.This project is gives you the best practice to learn Tailwindcss.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://github.com/harismuneer/Restaurant-Management-System">Restaurent Management System</a></td>
+        <td>
+        This GitHub repo is best for understanding how databases and website communicate with each other.
+        </td>
+      </tr>    
+  </table>
+  
+  #### Advance level projects
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/real-time-chat-application-in-javascript/">Real-Time Chat Application</a></td>
+        <td>
+        This link helps you build a real time chat application by using HTML,CSS,socket i.o,Node.js. This project is very helpful in learning about how real time chatting applications like facebook,whatsapp work.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://github.com/YashMarmat/FullStack_Ecommerce_App/tree/main">E-Commerce Website</a></td>
+        <td>
+        This link helps Build a E-commerce website using Django as serving Backend and React as serving the Frontend of the project.
+        </td>
+      </tr>  
+     <tr>
+        <td><a href="https://medium.com/bithubph/payment-integration-with-node-js-express-request-and-paystack-api-8cebf51c1f52">Payment Website</a></td>
+        <td>
+        This article helps you to build a Payment website using node.js, express.js and Paystack API. This project helps you to understand the Backend even deeper.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/stock-market-portfolio-app-using-mern-stack/">Stock Market Portfolio</a></td>
+        <td>
+        This link helps you build a stock market portfolio by using the MERN stack(MongoDB, Express.js, React.js, Node.js),Express,Node serving as Backend and React serving as Frontend for the project.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://github.com/arihant-jain-09/discord-clone">Discord clone</a></td>
+        <td>
+        This GitHub repo helps you build a discord clone using technologies:React, Redux, React-Router, Firebase, Material-UI, SASS, JavaScript, HTML5.
         </td>
       </tr>    
   </table>

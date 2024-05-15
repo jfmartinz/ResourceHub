@@ -201,3 +201,37 @@ Analytics.</td>
   </tr>
 </table>
 
+### Tools and Libraries
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://web3py.readthedocs.io/en/stable/">Web3.py</a></td>
+    <td>Web3.py is a Python library for interacting with the Ethereum blockchain. It provides a convenient interface for querying blockchain data, sending transactions, and deploying contracts using Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ethers-io/ethers.js/">Ethers.js</a></td>
+    <td>Ethers.js is a JavaScript library for interacting with the Ethereum blockchain. It offers a wide range of features, including signing transactions, managing wallets, and interacting with smart contracts in a browser or Node.js environment.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.soliditylang.org/en/latest/">Solidity</a></td>
+    <td>Solidity is a high-level programming language used for writing smart contracts on the Ethereum blockchain. It is statically typed and supports inheritance, libraries, and complex user-defined types.</td>
+  </tr>
+  <tr>
+    <td><a href="https://hardhat.org/">Hardhat</a></td>
+    <td>Hardhat is a popular Ethereum development environment for building, testing, and deploying smart contracts. It provides a comprehensive suite of tools for development, including built-in support for TypeScript and debugging.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin Contracts</a></td>
+    <td>OpenZeppelin Contracts is a library of reusable and secure smart contracts for the Ethereum blockchain. It includes implementations of standard token standards (such as ERC20 and ERC721) and other commonly used contract patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/trufflesuite/truffle">Truffle Suite</a></td>
+    <td>Truffle Suite is a development framework for Ethereum dApps (decentralized applications). It provides tools for smart contract compilation, testing, and deployment, as well as a suite of development environments for building Ethereum applications.</td>
+  </tr>
+</table>
+
+
+
