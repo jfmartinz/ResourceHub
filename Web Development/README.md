@@ -4,13 +4,11 @@
 
 - [Overview](#overview)<br>
 
-
 - [Roadmap](roadmaps)
 
-    - [Front-End Development Roadmap](#front-end-development)
-    - [Back-End Development Roadmap](#backend-development)
-    - [Full-Stack Development Roadmap](#full-stack-development)
-
+  - [Front-End Development Roadmap](#front-end-development)
+  - [Back-End Development Roadmap](#backend-development)
+  - [Full-Stack Development Roadmap](#full-stack-development)
 
 - [Tutorials or Courses](#tutorials-or-courses)
 
@@ -42,14 +40,19 @@
 - [Interview](#interview)<br>
 - [Challenges](#challenges)<br>
 - [Best Practices](#best-practices)
+- [Projects](#projects)
+  - [Beginner level](#beginner-level-projects)
+  - [Intermediate level](#intermediate-level-projects)
+  - [Advanced level](#advance-level-projects)
 
 ### Overview
 
 This category is a curated collection of valuable web development resources contributed by amazing contributors. Here, you will find a wide range of materials and information about web development.
 
-### Roadmap 
+### Roadmap
 
-#### Front-End Development 
+#### Front-End Development
+
 <table width="100%">
     <tr>
     <th>Resource Name</th>
@@ -61,7 +64,8 @@ This category is a curated collection of valuable web development resources cont
 </tr>
 </table>
 
-#### Back-End Development 
+#### Back-End Development
+
 <table width="100%">
     <tr>
     <th>Resource Name</th>
@@ -73,7 +77,8 @@ This category is a curated collection of valuable web development resources cont
 </tr>
 </table>
 
-#### Full-Stack Development 
+#### Full-Stack Development
+
 <table width="100%">
     <tr>
     <th>Resource Name</th>
@@ -84,8 +89,6 @@ This category is a curated collection of valuable web development resources cont
    <td>This is the roadmap for full-stack development</td>
 </tr>
 </table>
-
-
 
 ### Tutorials or Courses
 
@@ -108,6 +111,10 @@ This category is a curated collection of valuable web development resources cont
   <tr>
     <td><a href="https://www.youtube.com/watch?v=phWxA89Dy94">Learn Flexbox CSS in 8 minutes</a></td>
     <td>A short video about Flexbox in just 8 minutes</td>
+  </tr>
+  <tr>
+    <td><a href="https://labs.codehelp.in/fruitbox-flex">Flexbox Playground</a></td>
+    <td>Interactive Flexbox learning platform where you can learn Flexbox effortlessly through playful exploration.</td>
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=G3e-cpL7ofc">HTML & CSS Full Course - Beginner to Pro</a></td>
@@ -158,15 +165,88 @@ This category is a curated collection of valuable web development resources cont
     <td><a href="https://youtube.com/playlist?list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8&si=aN5S8Tm7IxmXeAFD">The Complete Frontend Development Course | 148 Hours |</a></td>
     <td>Complete Frontend Development course for beginners. It simplifies and demystifies Web Development to any beginner who is willing and eager to learn.</td>
   </tr>
+  <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n">Web Development Course</a></td>
+      <td>Learn web development with our comprehensive playlist covering HTML, CSS, JavaScript, and Bootstrap, complete with hands-on challenges to reinforce your skills.</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://youtu.be/HcOc7P5BMi4?si=jDAGHqzaej-KtwPc">The Complete HTML Tutorial for Beginners with Notes,Code & Practice Questions.|2 Hours|</a></td>
+    <td>Complete HTML Tutorial for beginners with Notes & Code in Hindi Language .This video covered all the basics to advanced topics related HTML5. </td>
+  </tr>
+
+<tr>
+<td><a href="https://youtu.be/ESnrn1kAD4E?si=yvV58b5QN1yQeG0d">The Complete CSS Tutorial for Beginners with Notes,Codes,Practice Questions & Project.|7 Hours| </a></td>
+<td>Complete CSS Tutorial for beginners with Notes,Codes & Project in Hindi Language.This video covered all the basics to advanced topics related CSS3. </td>
+</tr>
+
+<tr>
+<td><a href="https://youtu.be/VlPiVmYuoqw?si=n5ZH_tC25vBhkbJL">The Complete JavaScript Tutorial for Beginners with Notes,Codes,Practice Questions & Project.|12 Hours|</a></td>
+<td>Complete JavaScript Tutorial for beginners with Notes,Codes & Project in Hindi Language.This video covered all the basics to advanced topics related JavaScript.</td>
+</tr>
+  <tr>
+      <td><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries</a></td>
+      <td>The Front End Development Libraries Certification teaches you how to style your site efficiently with Bootstrap, enhance CSS with Sass, and build powerful Single Page Applications (SPAs) using React and Redux.</td>
+  </tr>
 
 </table>
 
+### Backend Development
+
 <table width="100%">
-  <tr>
-    <h4>Backend Development</h4>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">Node.js</a></td>
+        <td>The Node.js Documentation covers topics such as file system operations, networking, streams, event handling,
+            and more. It includes detailed explanations, code examples, and usage guidelines for each API and module,
+            making it easy for developers to understand and implement Node.js features in their applications.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.tutorialspoint.com/expressjs/index.htm">Express.js</a></td>
+        <td>Tutorialspoint's Express.js tutorial is a valuable resource for anyone looking to learn Express.js, a popular web application framework for Node.js. This tutorial provides a comprehensive overview of Express.js, covering everything from basic concepts to advanced topics.</td>
+    </tr>
+    <tr>
+        <td><a href="https://docs.djangoproject.com/en/5.0/intro/tutorial01/">Django</a></td>
+        <td>Django introductory tutorial from the official documentation serves as an excellent starting point for individuals looking to learn Django. Whether you're a beginner or an experienced developer, this resource provides the guidance and knowledge needed to kickstart your journey into Django web development.</td>
+    </tr>
+    <tr>
+        <td><a href="https://flask.palletsprojects.com/en/3.0.x/">Flask</a></td>
+        <td>Flask documentation is more than just a reference manual, it's a gateway to mastery in Backend development with Python. Whether you're a noob exploring Flask's possibilities or a seasoned developer seeking to optimize your workflow, Flask documentation equips you with the knowledge and resources to excel in your endeavors.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.tutorialspoint.com/restful/index.htm">RESTful APIs</a></td>
+        <td>The Tutorialspoint's RESTful tutorial provides a comprehensive introduction to RESTful principles, explaining key concepts such as resources, URIs, HTTP methods, and representations. It also provides the foundational knowledge which is essential for building scalable and interoperable web services.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.tutorialspoint.com/graphql/index.htm">GraphQL</a></td>
+        <td>The Tutorialspoint's GraphQL tutorial is an excellent resource for individuals looking to learn about GraphQL, a query language for APIs.Its easy for learners to progress through the material at their own pace. It starts with the basics and gradually introduces more advanced topics, ensuring that learners build a solid understanding of GraphQL concepts.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.tutorialspoint.com/oauth2.0/index.htm">OAuth 2.0</a></td>
+        <td>This tutorial provides a comprehensive overview of OAuth 2.0, covering its core concepts, flows, and components. This foundational knowledge is essential for developers looking to integrate OAuth 2.0 into their applications securely.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.docker.com/101-tutorial/">Docker</a></td>
+        <td>The Docker's "101 Tutorial" provides a gentle introduction to containerization concepts, explaining how Docker enables developers to package applications and their dependencies into lightweight, portable containers. This foundational knowledge is crucial for understanding Docker's role in modern software development.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.jenkins.io/doc/tutorials/">Jenkins</a></td>
+        <td> Jenkins' official documentation website, these tutorials provide accurate and up-to-date information directly from the creators of Jenkins. Users can rely on the authenticity and reliability of the content.</td>
+    </tr>
+    <tr>
+        <td><a href="https://aws.amazon.com/documentation-overview/">AWS</a></td>
+        <td>The AWS Documentation is a comprehensive resource hub for individuals and organizations utilizing Amazon Web Services (AWS) cloud computing services, this documentation provides the guidance, reference material, and support needed to effectively leverage AWS for your projects and initiatives.</td>
+    </tr>
+    <tr>
+        <td><a
+                href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction">API</a>
+        </td>
+        <td> Mozilla's developer documentation on client-side web APIs for JavaScript is a best resource for individuals looking to enhance their understanding of web development. The content is curated and maintained by a community of experts, ensuring accuracy and relevance.
+        </td>
+    </tr>
   <tr>
     <td><a href="https://www.youtube.com/playlist?list=PLqX4M0x0p9ck3OfyL14-MISy6_-4oH9fK">Meta Back-End Developer Professional Certificate</a></td>
     <td>Launch your career as a back-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started.
@@ -200,6 +280,23 @@ On completion, you’ll get access to the Meta Career Programs Job Board—a job
   <tr>
     <td><a href="https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=H0kjBWTLzHOSrTEd">Learn PHP The Right Way</a></td>
     <td>In this course, you will learn PHP from beginners level all the way to advanced. The "right way" is subjective, of course. Many important topics like security, caching, performance, configuration, routing, dependency management, dependency injection & testing are not omitted even when the course is for beginners.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/javarevisited/building-a-secure-restful-user-crud-with-spring-boot-a-step-by-step-guide-486ed3fd4e5a">Building a RESTful User CRUD with Spring Boot: A Step-by-Step Guide</a></td>
+    <td>Think of an API as a set of rules and protocols that allow different software applications to talk to each other.Representational State Transfer (REST) is a style of building software systems that use standard HTTP methods (like GET, POST, PUT, DELETE) to perform operations on resources (like data stored in a database). In this comprehensive guide you will learn how to create a respful api in spring boot. Not only that you will learn several best practices including quality code exception handling, validating inputs, design patterns</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@dharshib.8/securing-spring-boot-applications-with-jwt-part-1-5bff0f56578e">Securing Spring boot applications with JWT</a></td>
+    <td>In this digital age, authentication and authorization are fundamental aspects of any web application.
+Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT), offering a versatile solution for implementing secure authentication and authorization mechanisms. In this comprehensive guide, we’ll delve into the intricacies of securing Spring Boot applications using JWT. We’ll explore the entire spectrum of authentication, from enabling users to sign up and sign in securely, to implementing role-based access control to protect sensitive routes. </td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@dharshib.8/getting-started-with-microservices-4266f440086f">Getting started with MicroservicesT</a></td>
+    <td>Instead of all-in-one (one big chunk of code) software designs called monolithic architectures, microservices break things down into smaller, more manageable parts, making it easier to develop, update, and scale software. In this guide we will delve into understanding what microservice is, differences between microservices and monolithic, Creating a simple microservice backend project with spring boot and monogodb, importance of service discovery and api gateway in micro services architecture and finally communication between microservices.</td>
+ </tr>
+  <tr>
+      <td><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></td>
+      <td>In the Back End Development and APIs Certification, you'll learn to build back end applications using Node.js and npm, create web applications with the Express framework, and develop a People Finder microservice using MongoDB and the Mongoose library.<
   </tr>
 </table>
 
@@ -402,6 +499,14 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
         <td> <a href="https://color-picker.dllplayer.com/">Color Picker</a></td>
         <td>This software extension allows you to pick colors from any web pages, color picker to get pixel code, rgb value of any image on the website you're browsing.</td>
     </tr>
+    <tr>
+        <td><a href="https://hypercolor.dev/">Hypercolor</a></td>
+        <td>A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors. Easily copy and paste the class names, CSS or even save the gradients as an image.</td>
+    </tr>
+    <tr>
+        <td><a href="https://tailwindcomponents.com/gradient-generator/">Tailwind CSS Gradient Generator</a></td>
+        <td>Mix Tailwind CSS Colors and generate stunning text and background gradients or use our ready-made gradients to create remarkable designs.</td>
+    </tr>
 
 </table>
 
@@ -570,6 +675,10 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
        <tr>
         <td><a href="https://freeicons.io/">Freeicons</a></td>
         <td>Get the best icons at Freeicons. We have a huge selection of high quality icons available for download in various formats such as PNG, SVG,EPS and vector.</td>
+    </tr>
+      <tr>
+        <td><a href="https://lucide.dev/icons/">Lucide</a></td>
+        <td>Designed with a strict set of design rules for consistency in style and readability.</td>
     </tr>
 </table>
 
@@ -896,6 +1005,16 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
         <td> <a href="https://www.smashingmagazine.com/">Smashing Magazine</a></td>
         <td>Smashing Magazine is a well-known resource for web designers and developers, providing articles, tutorials, and code snippets for building creative and effective UI components.</td>
     </tr>
+    <tr>
+        <td> <a href="https://flowbite.com/">Flowbite</a></td>
+        <td>Flowbite is an ecosystem built on top of Tailwind CSS including a component library, block sections, a Figma design system and other resources.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://ui.aceternity.com/">Aceternity UI</a></td>
+        <td>Replicate the most trending components  in your websites without having to worry about styling and animations.
+        </td>
+    </tr>
+
 </table>
 
 ### Books
@@ -1352,6 +1471,124 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <td><a href="https://medium.com/javarevisited/solid-principles-explained-in-java-5b9fca1f5540">Solid principles</a></td>
         <td>SOLID principles are one of the object-oriented approaches used in software development, intended to create quality software. The broad goal of the SOLID principles is to reduce dependencies, so that developers can change one area of the software without affecting others. Furthermore, they are intended to make designs easier to understand, maintain, reuse, and extend. This Medium article explains solid principles with real world examples using java in simple way.
           <!-- Fixed typo from "medium article" to "Medium article" -->
+        </td>
+      </tr>    
+  </table>
+
+  ### Projects
+
+> These Projects help you gain real time website building exprience by building these projects.
+
+  #### Beginner level projects
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/how-to-create-a-landing-page-using-html-css-and-javascript/">Landing Page</a></td>
+        <td>
+        This link helps you to Create a Landing Page Using HTML, CSS, and JavaScript provides a practical demonstration of the benefits of building landing pages for improving web development skills.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/how-to-create-todo-app-using-html-css-js-and-bootstrap/">ToDo application</a></td>
+        <td>
+          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        </td>
+      </tr>  
+     <tr>
+        <td><a href="https://www.codewithfaraz.com/content/339/build-a-simple-calculator-html-css-javascript-tutorial-source-code">Calculator</a></td>
+        <td>
+        This link helps you to create using HTML, CSS, JS. This project mainly focuses on logic using JS, and also forces you to sharpen you logical thinking skills.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://codewithcurious.com/projects/create-responsive-website-using-html-css-js/">Responsive Web Page</a></td>
+        <td>This link helps you to create responsive web pages using HTML, CSS, JS.This project mainly focuses on making the web page responsive using CSS.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/create-a-quiz-app-with-timer-using-html-css-and-javascript/">Quiz game</a></td>
+        <td>
+        This link helps you to create a quiz game.This project focuses more on manipulating the Document Object Model (DOM) are excellent for beginners to reinforce their understanding of how JavaScript interacts with web pages
+        </td>
+      </tr>    
+  </table>
+
+  #### Intermediate level projects
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://foolishdeveloper.com/drawing-app-javascript/">Drawing App</a></td>
+        <td>
+        This link helps you understand deep JS by building a drawing app. This project is the best practice for understanding intermediate DOM elements and Events.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/build-a-weather-app-in-html-css-javascript/">Weather application</a></td>
+        <td>
+        This link helps you to understand APIs and how they work in realtime. This website also teaches you the basics of Apis.
+        </td>
+      </tr>  
+     <tr>
+        <td><a href="https://www.codewithfaraz.com/content/339/build-a-simhttps://github.com/MohitSojitra/react-blog-website">Blogging Website</a></td>
+        <td>
+        This GitHub repo teachs you how to create a blogging website using HTML, CSS ,REACT. This project is very helpful for understanding the React basics and Frontend Basics. 
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://github.com/Rohit177/Pinterest_Clone_Tailwind/blob/main/index.html">Pintrest Clone</a></td>
+        <td>This GitHub repo helps you build Pinterest Clone by using HTML and a CSS framework known as TAILWINDCSS.This project is gives you the best practice to learn Tailwindcss.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://github.com/harismuneer/Restaurant-Management-System">Restaurent Management System</a></td>
+        <td>
+        This GitHub repo is best for understanding how databases and website communicate with each other.
+        </td>
+      </tr>    
+  </table>
+  
+  #### Advance level projects
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/real-time-chat-application-in-javascript/">Real-Time Chat Application</a></td>
+        <td>
+        This link helps you build a real time chat application by using HTML,CSS,socket i.o,Node.js. This project is very helpful in learning about how real time chatting applications like facebook,whatsapp work.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://github.com/YashMarmat/FullStack_Ecommerce_App/tree/main">E-Commerce Website</a></td>
+        <td>
+        This link helps Build a E-commerce website using Django as serving Backend and React as serving the Frontend of the project.
+        </td>
+      </tr>  
+     <tr>
+        <td><a href="https://medium.com/bithubph/payment-integration-with-node-js-express-request-and-paystack-api-8cebf51c1f52">Payment Website</a></td>
+        <td>
+        This article helps you to build a Payment website using node.js, express.js and Paystack API. This project helps you to understand the Backend even deeper.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/stock-market-portfolio-app-using-mern-stack/">Stock Market Portfolio</a></td>
+        <td>
+        This link helps you build a stock market portfolio by using the MERN stack(MongoDB, Express.js, React.js, Node.js),Express,Node serving as Backend and React serving as Frontend for the project.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://github.com/arihant-jain-09/discord-clone">Discord clone</a></td>
+        <td>
+        This GitHub repo helps you build a discord clone using technologies:React, Redux, React-Router, Firebase, Material-UI, SASS, JavaScript, HTML5.
         </td>
       </tr>    
   </table>

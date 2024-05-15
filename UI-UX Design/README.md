@@ -4,6 +4,7 @@
 
 - [Overview](#overview)<br>
 - [Tutorials or Courses](#tutorials-or-courses)<br>
+- [Roadmap](#Roadmap)<br>
 - [Tools](#tools)<br>
 - [Design Inspiration](#design-inspiration)<br>
 - [Books](#books)<br>
@@ -11,10 +12,11 @@
 - [Youtube Channels](#youtube-channels)<br>
 - [Interview](#interview)<br>
 - [Newsletter](#newsletter)<br>
+- [UI/UX Design Challenges](#challenges)<br>
 
 ### Overview
 
-This category is a curated collection of valuable UI (User Interface) and UX (User Experience) design resources contributed by amazing contributors. Here, you will find a wide range of materials and information about UI & UX design.
+This curated collection offers valuable UI (User Interface) and UX (User Experience) design resources contributed by talented individuals. Here, you'll discover a diverse range of materials and information on UI & UX design.
 
 ### Tutorials or Courses
 
@@ -24,33 +26,56 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
+        <th>Cost</th>
       </tr>
       <tr>
-        <td> <a href="https://www.youtube.com/watch?v=B-ytMSuwbf8">Web Design for Beginners | FREE COURSE</a></td>
-        <td>this course on web design for beginners will teach you everything you need to know about web design. 5hours duration</td>
+        <td> <a href="https://www.youtube.com/watch?v=B-ytMSuwbf8">Web Design for Beginners</a></td>
+        <td>This beginner web design course covers all you need to know in 5 hours.</td>
+            <td>FREE</td>
+      </tr>
+      <tr>
+         <td><a href="https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI"> Web Design 101: Free Full Course</a></td>   
+         <td>Flux is offering free web design classes for those using quarantine to learn something new or facing financial constraints.</td>  
+            <td>FREE</td>
+      </tr>
+       <tr>
+      <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
+      <td>The Nielsen Norman Group is a top source for UX research and design. Their website has a wealth of articles and reports covering various UX topics. It's a must-visit for staying current with best practices and industry trends.</td>
+             <td>$299/year</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.adobe.com/products/xd/learn/view-all-xd-tutorials.html">Adobe XD - UI/UX Design Software and Tutorials</a></td>
+      <td>Adobe XD is a widely used software for UI/UX design. It offers tutorials and resources to help designers improve their skills. It's a valuable tool in the industry.</td>
+            <td>$9.99</td>
       </tr>
       <tr>
         <td> <a href="https://www.coursera.org/professional-certificates/google-ux-design">Google UX Design Professional Certificate</a></td>
         <td>This course is a six-month online program that teaches you the skills you need to become a UX designer.</td>
-      </tr>
-      <tr>
-         <td><a href="https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI"> Web Design 101: Free Full Course</a></td>   
-         <td>In Flux we've decided to teach Web Design for free to those who are using quarantine to make a change in their lives, to those who can't afford a web design course right now or to those that simply want to learn a new skill.
-</td>   
-      </tr>
-       <tr>
-      <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
-      <td>The Nielsen Norman Group is a leading authority on user experience research and design. Their website offers a vast collection of UX articles, reports, and research findings that cover a wide range of topics within the UX field. These resources are invaluable for staying up to date with UX best practices and industry trends.</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.adobe.com/products/xd/learn/view-all-xd-tutorials.html">Adobe XD - UI/UX Design Software and Tutorials</a></td>
-      <td>Adobe XD is a popular software tool for UI and UX design. Adobe's official website provides access to Adobe XD, and it also offers a rich set of tutorials, webinars, and resources to help designers master the software and enhance their UI and UX design skills. Adobe XD is widely used in the industry, making it a valuable skill for UI/UX designers.</td>
+            <td>$9.32/month</td>
       </tr>
       <tr>
       <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization]</a></td>
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
+            <td>$32.63/month</td>
   </tr>
   </table>
+
+
+### Roadmap
+
+> To become a UI/UX designer there are a lot of skills that one requires. Few skills are essential for both UI and UX designers, whereas some are very specific to either. Let’s look into each field and learn what are the roadmap required.
+
+<table width="100%" id="Roadmap">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <th ><a href="https://www.geeksforgeeks.org/how-to-become-a-ui-ux-designer-a-complete-roadmap/">UI/UX </a></th>
+        <th>This is the Roadmap for UI/UX</th>
+ 
+  </table>
+
+  
 
 ### Tools
 
@@ -221,97 +246,87 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Status</th>
+        <th>Cost</th>
       </tr>
       <tr>
         <td><a href="https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535">100 Things Every Designer Needs to Know about People</a></td>
-        <td>We design to elicit responses from people. We want them to buy something, read more, or take action of some kind. Designing without understanding what makes people act the way they do is like exploring a new city without a map: results will be haphazard, confusing, and inefficient. This book combines real science and research with practical examples to deliver a guide every designer needs. With it you’ll be able to design more intuitive and engaging work for print, websites, applications, and products that matches the way people think, work, and play.</td>
-        <td>Paid</td>
+        <td>This book teaches designers to create effective designs that inspire action, blending science with practical examples for print, websites, apps, and products, aligning with human behavior.</td>
+        <td>$26.09</td>
       </tr>
       <tr>
         <td><a href="https://atomicdesign.bradfrost.com/">Atomic Design</a></td>
-        <td>Atomic Design details all that goes into creating and maintaining robust design systems, allowing you to roll out higher quality, more consistent UIs faster than ever before. This book introduces a methodology for thinking of our UIs as thoughtful hierarchies, discusses the qualities of effective pattern libraries, and showcases techniques to transform your team's design and development workflow.</td>
+        <td>Atomic Design helps you create and maintain robust design systems for faster, high-quality UI development. It introduces a hierarchy-based methodology, effective pattern libraries, and workflow enhancements for your team.</td>
         <td>Free</td>
       </tr>
       <tr>
         <td><a href="https://rosenfeldmedia.com/books/design-that-scales/">Design That Scales</a></td>
-        <td>After years of building the same interface elements, some designers and developers get wise and try to create reusable, common solutions to help everyone stop reinventing the wheel every time. Most fail. In Design That Scales, design systems expert Dan Mall draws on his extensive experience helping some of the world’s most recognizable brands create design practices that are truly sustainable.</td>
-        <td>Paid</td>
+        <td>In "Design That Scales," Dan Mall, a design systems expert, shares his experience helping top brands create sustainable design practices, aiming to eliminate the repetition of reinventing interface elements.</td>
+        <td>$49.99</td>
       </tr>
       <tr>
-        <td><a href="https://www.oreilly.com/library/view/design-for-how/9781491985441/">Design for How People Think</a></td>
-        <td>User experience doesn’t happen on a screen; it happens in the mind, and the experience is multidimensional and multisensory. This practical book will help you uncover critical insights about how your customers think so you can create products or services with an exceptional experience.</td>
-        <td>Paid</td>
+        <td><a href="https://www.amazon.com/_/dp/1491985453?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20">Design for How People Think</a></td>
+        <td>This book reveals how user experience extends beyond screens, exploring the multidimensional aspects occurring in the mind. It provides practical insights to understand customer thinking, facilitating the creation of exceptional products or services.</td>
+        <td>$32.49</td>
       </tr>
       <tr>
-        <td><a href="https://sensible.com/dont-make-me-think/">Don't Make Me Think, Revisited</a></td>
-        <td>Since Don’t Make Me Think was first published in 2000, hundreds of thousands of Web designers and developers have relied on usability guru Steve Krug’s guide to help them understand the principles of intuitive navigation and information design. Witty, commonsensical, and eminently practical, it’s one of the best-loved and most recommended books on the subject. Now, Steve returns with fresh perspective to reexamine the principles that made Don’t Make Me Think a classic–with updated examples and a new chapter on mobile usability. And it’s still short, profusely illustrated…and best of all–fun to read.</td>
-        <td>Paid</td>
+        <td><a href="https://www.amazon.com/gp/product/0321965515">Don't Make Me Think, Revisited</a></td>
+        <td>Since 2000, "Don't Make Me Think" by Steve Krug has been a go-to guide for web designers. This updated edition includes fresh insights, new examples, and a chapter on mobile usability, all while maintaining its concise, illustrated, and enjoyable style.</td>
+        <td>$29.51</td>
       </tr>
       <tr>
-        <td><a href="https://www.nirandfar.com/hooked/">Hooked: How to Build Habit-Forming Products</a></td>
-        <td>Why do some products capture our attention while others flop? What makes us engage with certain things out of sheer habit? Is there an underlying pattern to how technologies hook us? Nir Eyal answers these questions (and many more) with the Hook Model - a four-step process that, when embedded into products, subtly encourages customer behaviour. Hooked is based on Eyal's years of research, consulting, and practical experience. He wrote the book he wished had been available to him as a start-up founder - not abstract theory, but a how-to guide for building better products. Hooked is written for product managers, designers, marketers, start-up founders, and anyone who seeks to understand how products influence our behaviour. Eyal provides readers with practical insights to create user habits that stick; actionable steps for building products people love; and riveting examples from the iPhone to Twitter, Pinterest and the Bible App.</td>
-        <td>Paid</td>
+        <td><a href="https://www.amazon.in/dp/0241184835">Hooked: How to Build Habit-Forming Products</a></td>
+        <td>"Hooked" by Nir Eyal explains the four-step Hook Model, which drives customer behavior in products. It offers practical insights for product managers, designers, marketers, and startup founders, with examples from brands like iPhone and Twitter.</td>
+        <td>$5.35</td>
       </tr>
       <tr>
         <td><a href="https://lawsofux.com/">Laws of UX</a></td>
-        <td>This practical guide explains how you can apply key principles in psychology to build products and experiences that are more intuitive and human-centered. It provides a close look at familiar apps and experiences to provide clear examples of how UX designers can build experiences that adapt to how users perceive and process digital interfaces.</td>
+        <td>This guide applies psychology principles to create intuitive products and experiences. It offers clear examples from familiar apps, showing UX designers how to build interfaces aligned with user perceptions.</td>
         <td>Free</td>
       </tr>
       <tr>
         <td><a href="https://designsystemfoundations.com/">Laying the Foundations</a></td>
         <td>Laying the Foundations is a comprehensive guide to creating, documenting, and maintaining design systems, and how to design websites and products systematically. It's an ideal book for web designers and product designers (of all levels) and especially design teams.</td>
-        <td>Paid</td>
+        <td>$30</td>
       </tr>
       <tr>
-        <td><a href="https://leanuxbook.com/">Lean UX</a></td>
-        <td>In the third edition of this award-winning book, authors Jeff Gothelf and Josh Seiden help you focus on the product experience rather than deliverables. You'll learn tactics for integrating user experience design, product discovery, agile methods, and product management. And you'll discover how to drive your design in short, iterative cycles to assess what works best for businesses and users. Lean UX guides you through this change--for the better.</td>
-        <td>Paid</td>
+        <td><a href="https://www.amazon.com/Lean-UX-Creating-Great-Products/dp/1098116305">Lean UX</a></td>
+        <td>In the third edition, Jeff Gothelf and Josh Seiden emphasize product experience over deliverables. They offer tactics for integrating UX design, agile methods, and product management, guiding readers through iterative cycles to assess what works best for businesses and users.</td>
+        <td>$23.64</td>
       </tr>
       <tr>
         <td><a href="https://www.microcopybook.com/">Microcopy: The Complete Guide</a></td>
-        <td>Microcopy: The Complete Guide is a handbook for UX writers, designers and friends. It will give you the knowledge and tools needed to write smart, effective and helpful microcopy for all kinds of digital products, with practical guides and dozens of screenshots from actual sites, apps and complex systems.</td>
-        <td>Paid</td>
+        <td>"Microcopy: The Complete Guide equips UX professionals with the tools to craft smart, effective microcopy for digital products, featuring practical guidance and real-world examples."</td>
+        <td>$41</td>
       </tr>
       <tr>
         <td><a href="https://www.refactoringui.com/">Refactoring UI</a></td>
-        <td>Make your ideas look awesome, without relying on a designer. Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.</td>
-        <td>Paid</td>
+        <td>"Discover how to create stunning user interfaces independently, leveraging developer-friendly tactics for exceptional design."</td>
+        <td>$99</td>
       </tr>
       <tr>
         <td><a href="https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/">Strategic Writing for UX</a></td>
-        <td>When you depend on users to perform specific actions—like buying tickets, playing a game, or riding public transit—well-placed words are most effective. But how do you choose the right words? And how do you know if they work? With this practical book, you’ll learn how to write strategically for UX, using tools to build foundational pieces for UI text and UX voice strategy. UX content strategist Torrey Podmajersky provides strategies for converting, engaging, supporting, and re-attracting users. You’ll use frameworks and patterns for content, methods to measure the content’s effectiveness, and processes to create the collaboration necessary for success. You’ll also structure your voice throughout so that the brand is easily recognizable to its audience.</td>
-        <td>Paid</td>
+        <td>"This practical book by UX content strategist Torrey Podmajersky teaches you how to strategically write for UX, choose effective words, measure their impact, and maintain brand voice consistency."</td>
+        <td>$25.99</td>
       </tr>
       <tr>
         <td><a href="https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf">The Design of Everyday Things</a></td>
-        <td>The Design of Everyday Things shows that good, usable design is possible. The rules are simple: make things visible, exploit natural relationships that couple function and control, and make intelligent use of constraints. The goal: guide the user effortlessly to the right action on the right control at the right time.</td>
+        <td>"The Design of Everyday Things demonstrates the simplicity of good design: visibility, natural relationships, and intelligent constraints lead users effortlessly to the right actions."</td>
         <td>Free</td>
       </tr>
       <tr>
         <td><a href="https://rosenfeldmedia.com/books/storymapping/">The User's Journey</a></td>
         <td>Like a good story, successful design is a series of engaging moments structured over time. The User’s Journey will show you how, when, and why to use narrative structure, technique, and principles to ideate, craft, and test a cohesive vision for an engaging outcome. See how a “story first” approach can transform your product, feature, landing page, flow, campaign, content, or product strategy.</td>
-        <td>Paid</td>
+        <td>$49.99</td>
       </tr>
       <tr>
         <td><a href="https://www.oreilly.com/library/view/ux-strategy-2nd/9781492052425/">UX Strategy</a></td>
-        <td>User experience (UX) strategy lies at the intersection of UX design and business strategy, but until now, there hasn't been an easy-to-apply framework for executing it. This hands-on guide introduces lightweight product strategy tools and techniques to help you and your team devise innovative digital solutions that people want. Author Jaime Levy shows UX/UI designers, product managers, entrepreneurs, and aspiring strategists simple to advanced methods that can be applied right away. You'll gain valuable perspective through business cases and historical context. This second edition includes new real-world examples, updated techniques, and a chapter on conducting qualitative online user research.</td>
-        <td>Paid</td>
+        <td>"This hands-on guide by Jaime Levy introduces lightweight product strategy tools and techniques for executing UX strategy effectively, with updated content including new examples and methods."</td>
+        <td>$31.19</td>
       </tr>
       <tr>
         <td><a href="https://rosenfeldmedia.com/books/writing-is-designing/">Writing is Designing</a></td>
-        <td>Without words, apps would be an unusable jumble of shapes and icons, while voice interfaces and chatbots wouldn’t even exist. Words make software human-centered, and require just as much thought as the branding and code. This book will show you how to give your users clarity, test your words, and collaborate with your team. You’ll see that writing is designing.</td>
-        <td>Paid</td>
-      </tr>
-       <tr>
-      <td><a href="https://sensible.com/dont-make-me-think/">"Don't Make Me Think" by Steve Krug</a></td>
-      <td>It is a classic book on web usability and user experience design. It provides valuable insights into creating user-friendly interfaces and emphasizes the importance of designing for intuitive user interactions. Steve Krug's writing is both practical and easy to understand, making it an excellent resource for UX designers.</td>
-             <td>Paid</td>
-      </tr>
-         <tr>
-        <td> <a href="#"><!-- download link or web link --></a></td>
-        <td><!-- book description --></td>
-        <td><!-- free or paid? --></td>
+        <td>"This book highlights the crucial role of words in making software user-friendly and offers guidance on crafting clear and effective user interface text.</td>
+        <td>$49.99</td>
       </tr>
   </table>
 
@@ -447,7 +462,7 @@ Dee Scarano, the video host, has been involved in the UX design industry for ove
 
 ### Newsletter
 
-> Discover a valuable newsletter that you can subscribe to in order to stay updated on the latest developments in the field of web design.
+> Discover a valuable newsletter that you can subscribe to in order to stay updated on the latest developments in the field of UI/UX design.
 
 <table width="100%">
       <tr>
@@ -506,8 +521,45 @@ Dee Scarano, the video host, has been involved in the UX design industry for ove
 
 <tr>
 <td> <a href="https://muz.li/"> Muzli weekly digest </td>
-<td>he best design inspiration - expertly curated for you.
+<td>The best design inspiration - expertly curated for you.
 Muzli is a new-tab browser extension that instantly delivers relevant design stories and inspiration to keep you in the loop.  </td>
  </tr>
       
+</table>
+
+### UI/UX Design Challenges 
+
+> Discover a set of design challenges that unleash your potential, while creating a stunning portfolio.
+
+<table width="100%" id="challenges"><!--Added a section to discover design challenges-->
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+<td> <a href="https://www.crowwwn.com/">Crowwwn</td>
+<td>Find popular design challenges that are a part of weekly contests.<br>
+Unleash your creativity while adhering to the prompts given.</td>
+ </tr>
+      <tr>
+<td> <a href="https://www.dailyui.co/">Daily UI</td>
+<td>Your go-to UI practice companion.<br>
+The daily challenges consist of a title,a hint and a free resource, all
+designed to make the most of your creativity.</td>
+ </tr>
+      <tr>
+<td> <a href="https://uxtools.co/">UX Tools</td>
+<td>Sharpen your UX skillset with a comprehensive set of 
+18 challenges that test every aspect of your core design knowledge.</td>
+ </tr>
+      <tr>
+<td> <a href="https://sharpen.design/">Sharpen.design</td>
+<td>A popular site that offers design challenges to stay updated with 
+industry trends to freshers and veterans alike!</td>
+ </tr>
+      <tr>
+<td> <a href="https://www.uxchallenge.co/">UXchallenge</td>
+<td>A design challenge site that focuses on designs inspired by whiteboard
+exercises.</td>
+ </tr>
 </table>
