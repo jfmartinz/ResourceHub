@@ -7,7 +7,9 @@
 - [Blockchain Technologies](#blockchain-technologies)<br>
 - [News](#news)<br>
 - [Community](#community)<br>
-- [Youtube Channels](#youtube-channels)
+- [Youtube Channels](#youtube-channels)<br>
+- [Decentralized Finance (DeFi)](#Decentralized-Finance-(DeFi))
+
 
 
 ### Overview
@@ -233,5 +235,88 @@ Analytics.</td>
   </tr>
 </table>
 
-
+### Decentralized Finance (DeFi)
+<table width="100%">
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Category/Type</th>
+    <th>Launch Date</th>
+    <th>TVL (Total Value Locked)</th>
+    <th>Founder/Team</th>
+    <th>Audited</th>
+  </tr>
+  <tr>
+    <td><a href="https://compound.finance/">Compound</a></td>
+    <td>Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.</td>
+    <td>Lending</td>
+    <td>September 2018</td>
+    <td>$10 Billion</td>
+    <td>Robert Leshner, Geoffrey Hayes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://uniswap.org/">Uniswap</a></td>
+    <td>Uniswap is a decentralized exchange protocol built on Ethereum. It allows users to swap various ERC-20 tokens directly from their wallets without the need for an intermediary.</td>
+    <td>Decentralized Exchange (DEX)</td>
+    <td>November 2018</td>
+    <td>$6 Billion</td>
+    <td>Hayden Adams</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://aave.com/">Aave</a></td>
+    <td>Aave is an open-source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.</td>
+    <td>Lending</td>
+    <td>January 2020</td>
+    <td>$15 Billion</td>
+    <td>Stani Kulechov</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.curve.fi/">Curve Finance</a></td>
+    <td>Curve Finance is an automated market maker (AMM) optimized for stablecoin trading, allowing users to swap between stablecoins with low slippage and low fees.</td>
+    <td>Automated Market Maker (AMM)</td>
+    <td>January 2020</td>
+    <td>$4 Billion</td>
+    <td>Michael Egorov</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sushi.com/">SushiSwap</a></td>
+    <td>SushiSwap is a decentralized exchange platform and liquidity provider built on Ethereum. It offers various features such as yield farming, staking, and decentralized governance.</td>
+    <td>Decentralized Exchange (DEX)</td>
+    <td>August 2020</td>
+    <td>$3 Billion</td>
+    <td>Chef Nomi (pseudonymous)</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://yearn.finance/">Yearn Finance</a></td>
+    <td>Yearn Finance is a decentralized platform that aggregates DeFi lending protocols to optimize yield farming strategies automatically.</td>
+    <td>Yield Aggregator</td>
+    <td>February 2020</td>
+    <td>$6 Billion</td>
+    <td>Andre Cronje</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://synthetix.io/">Synthetix</a></td>
+    <td>Synthetix is a decentralized platform that enables the creation of synthetic assets (synths) that track the value of real-world assets. Users can trade synthetic assets without needing to own the underlying asset.</td>
+    <td>Synthetic Assets</td>
+    <td>March 2018</td>
+    <td>$2 Billion</td>
+    <td>Kain Warwick</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.chainlinklabs.com/">Chainlink</a></td>
+    <td>Chainlink is a decentralized oracle network that provides reliable and tamper-proof data feeds for smart contracts. It enables smart contracts to securely interact with external data sources and APIs.</td>
+    <td>Oracle</td>
+    <td>September 2017</td>
+    <td>$8 Billion</td>
+    <td>Sergey Nazarov, Steve Ellis</td>
+    <td>Yes</td>
+  </tr>
+</table>
 
