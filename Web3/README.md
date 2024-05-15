@@ -8,7 +8,7 @@
 - [News](#news)<br>
 - [Community](#community)<br>
 - [Youtube Channels](#youtube-channels)<br>
-- [Decentralized Finance (DeFi) Projects](#Decentralized-Finance-(DeFi)-Projects)
+- [Decentralized Finance (DeFi)](#Decentralized-Finance-(DeFi))
 
 
 
@@ -235,7 +235,7 @@ Analytics.</td>
   </tr>
 </table>
 
-### Decentralized Finance (DeFi) Projects
+### Decentralized Finance (DeFi)
 <table width="100%">
   <tr>
     <th>Project Name</th>
