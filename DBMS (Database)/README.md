@@ -2,14 +2,13 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Tutorial or Courses](#tutorial-or-courses)
-  
-  
-- [Database Category](#database-category)
-
-  - [SQL Databases](#sql-databases)
-  - [NoSQL Databases](#nosql-databases)
+- [Database](#database)
+  - [Table of Contents](#table-of-contents)
+    - [Overview](#overview)
+    - [Database Category](#database-category)
+      - [SQL Databases](#sql-databases)
+      - [NoSQL Databases](#nosql-databases)
+    - [Tutorial or Courses](#tutorial-or-courses)
 
 
 ### Overview
@@ -23,10 +22,6 @@ A database is an organized collection of structured information, or data, typica
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
-    </tr>
-    <tr>
-        <td><a href="https://www.w3schools.com/sql/">SQL</a></td>
-        <td>The W3Schools offers a structured learning path for SQL beginners, covering everything from basic concepts like querying data to more advanced topics like database normalization and transactions.</td>
     </tr>
     <tr>
         <td><a href="https://www.mysql.com/">MySQL</a></td>
