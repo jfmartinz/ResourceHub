@@ -534,6 +534,11 @@ Muzli is a new-tab browser extension that instantly delivers relevant design sto
 > Discover a set of design challenges that unleash your potential, while creating a stunning portfolio.
 
 <table width="100%" id="challenges"><!--Added a section to discover design challenges-->
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
 
 <td> <a href="https://www.crowwwn.com/">Crowwwn</td>
 <td>Find popular design challenges that are a part of weekly contests.<br>
@@ -569,7 +574,6 @@ exercises.</td>
 
 <table width="100%">
       <caption>UI Kits and Mockups : Pre-designed components and mockups to jumpstart Figma projects.</caption>
-=======
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
