@@ -8,7 +8,7 @@
 - [News](#news)<br>
 - [Community](#community)<br>
 - [Youtube Channels](#youtube-channels)<br>
-- [Decentralized Finance (DeFi)](#Decentralized-Finance-(DeFi))
+- [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 
 
 
