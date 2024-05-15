@@ -2,13 +2,11 @@
 
 ## Table of Contents
 
-- [Database](#database)
-  - [Table of Contents](#table-of-contents)
-    - [Overview](#overview)
-    - [Database Category](#database-category)
-      - [SQL Databases](#sql-databases)
-      - [NoSQL Databases](#nosql-databases)
-    - [Tutorial or Courses](#tutorial-or-courses)
+- [Overview](#overview)
+- [Database Category](#database-category)
+  - [SQL Databases](#sql-databases)
+  - [NoSQL Databases](#nosql-databases)
+- [Tutorial or Courses](#tutorial-or-courses)
 
 
 ### Overview
