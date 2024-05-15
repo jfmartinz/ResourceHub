@@ -184,6 +184,9 @@ This category is a curated collection of valuable web development resources cont
       <td><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries</a></td>
       <td>The Front End Development Libraries Certification teaches you how to style your site efficiently with Bootstrap, enhance CSS with Sass, and build powerful Single Page Applications (SPAs) using React and Redux.</td>
   </tr>
+  <td><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer">Meta Front-End Developer Professional Certificate</a></td>
+      <td>Meta's Front-End Developer program offers a fast track to a career in web development. From HTML to CSS, JavaScript to React, equip yourself with essential tools and earn a valuable credential. No prior experience is necessary; just dive in and gain the job-ready skills for success.</td>
+  </tr>
 
 </table>
 
