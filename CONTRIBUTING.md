@@ -48,7 +48,7 @@ There are many ways to contribute, and you don't need to be a coding wizard to g
 > If you come across a resource that you believe would benefit others, we encourage you to share it with us. Here's how you can contribute valuable resources:
 
 1. **Review the Rules for Adding Resources:** Carefully read and understand the guidelines on how to add a resource, including the specified format. Ensure that you follow the provided PR template, as it streamlines the review process for us.
-2. **Raise an Issue:** Create an issue and provide details about the resource you'd like to add. I'll review it, and if it aligns with contributing guidelines. I'll add it it to the project.
+2. **Raise an Issue:** Create an issue and provide details about the resource you'd like to add. I'll review it, and if it aligns with contributing guidelines. I'll add it to the project.
 
 ### Grammatical errors
 > Help us maintain clean and error-free content by fixing typos or grammar issues. Your attention to detail ensures a seamless reading experience for everyone involved.
