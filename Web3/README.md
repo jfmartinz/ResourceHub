@@ -1,17 +1,14 @@
 # Web3 🚀
+Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
 
 ## Table of Contents
-- [Overview](#overview)<br>
 - [Website to learn web3](#website-to-learn-web3)<br>
 - [Tutorial or Courses](#tutorial-or-courses)<br>
 - [Blockchain Technologies](#blockchain-technologies)<br>
 - [News](#news)<br>
 - [Community](#community)<br>
-- [Youtube Channels](#youtube-channels)
-
-
-### Overview
-Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
+- [Youtube Channels](#youtube-channels)<br>
+- [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 
 ### Website to learn Web3
 <table width="100%">
@@ -42,6 +39,14 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
   <tr>
     <td><a href="https://www.web3.university/">Web3 University</a></td>
     <td>The comprehensive educational resource on blockchain development with the most useful tutorials across the web3 ecosystem. </td>
+  </tr>
+   <tr>
+    <td><a href="https://www.web3creators.com/learn-web3/">Web3 Creators</a></td>
+    <td> Web3 Creators offers free resource to become Web3 developer. </td>
+  </tr>
+   <tr>
+    <td><a href= "https://iq.wiki/">IQ.wiki</a></td>
+    <td>IQ.wiki, formerly Everipedia, is the largest crypto encyclopedia with thousands of pages. </td>
   </tr>
 </table>
 
@@ -84,6 +89,11 @@ The course covers:
   <tr>
     <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">Web3 Developer in 2023 Roadmap: Solidity, Smart Contract, and Blockchain Development [Full Course]</a></td>
     <td>Start learning how to become a blockchain developer. In this course, you'll understand the concepts of blockchain technology and smart contracts. You'll create your own wallet, learn how to develop and deploy your own smart contracts, and build a portfolio app to showcase the work you've completed throughout this course.</td>
+  </tr>
+
+   <tr>
+    <td><a href="https://youtu.be/jcgfQEbptdo?si=ntQiEjZJ--FK3mJP"> Learn Blockchain & Solidity Development Full Course 2024 </a></td>
+    <td>Start learning how to become a blockchain developer and become an in-demand blockchain MASTER with the help of the resources.</td>
   </tr>
 
 </table>
@@ -201,3 +211,202 @@ Analytics.</td>
   </tr>
 </table>
 
+### Tools and Libraries
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://web3py.readthedocs.io/en/stable/">Web3.py</a></td>
+    <td>Web3.py is a Python library for interacting with the Ethereum blockchain. It provides a convenient interface for querying blockchain data, sending transactions, and deploying contracts using Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ethers-io/ethers.js/">Ethers.js</a></td>
+    <td>Ethers.js is a JavaScript library for interacting with the Ethereum blockchain. It offers a wide range of features, including signing transactions, managing wallets, and interacting with smart contracts in a browser or Node.js environment.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.soliditylang.org/en/latest/">Solidity</a></td>
+    <td>Solidity is a high-level programming language used for writing smart contracts on the Ethereum blockchain. It is statically typed and supports inheritance, libraries, and complex user-defined types.</td>
+  </tr>
+  <tr>
+    <td><a href="https://hardhat.org/">Hardhat</a></td>
+    <td>Hardhat is a popular Ethereum development environment for building, testing, and deploying smart contracts. It provides a comprehensive suite of tools for development, including built-in support for TypeScript and debugging.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin Contracts</a></td>
+    <td>OpenZeppelin Contracts is a library of reusable and secure smart contracts for the Ethereum blockchain. It includes implementations of standard token standards (such as ERC20 and ERC721) and other commonly used contract patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/trufflesuite/truffle">Truffle Suite</a></td>
+    <td>Truffle Suite is a development framework for Ethereum dApps (decentralized applications). It provides tools for smart contract compilation, testing, and deployment, as well as a suite of development environments for building Ethereum applications.</td>
+  </tr>
+</table>
+
+### Decentralized Finance (DeFi)
+<table width="100%">
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Category/Type</th>
+    <th>Launch Date</th>
+    <th>TVL (Total Value Locked)</th>
+    <th>Founder/Team</th>
+    <th>Audited</th>
+  </tr>
+  <tr>
+    <td><a href="https://compound.finance/">Compound</a></td>
+    <td>Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.</td>
+    <td>Lending</td>
+    <td>September 2018</td>
+    <td>$10 Billion</td>
+    <td>Robert Leshner, Geoffrey Hayes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://uniswap.org/">Uniswap</a></td>
+    <td>Uniswap is a decentralized exchange protocol built on Ethereum. It allows users to swap various ERC-20 tokens directly from their wallets without the need for an intermediary.</td>
+    <td>Decentralized Exchange (DEX)</td>
+    <td>November 2018</td>
+    <td>$6 Billion</td>
+    <td>Hayden Adams</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://aave.com/">Aave</a></td>
+    <td>Aave is an open-source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.</td>
+    <td>Lending</td>
+    <td>January 2020</td>
+    <td>$15 Billion</td>
+    <td>Stani Kulechov</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.curve.fi/">Curve Finance</a></td>
+    <td>Curve Finance is an automated market maker (AMM) optimized for stablecoin trading, allowing users to swap between stablecoins with low slippage and low fees.</td>
+    <td>Automated Market Maker (AMM)</td>
+    <td>January 2020</td>
+    <td>$4 Billion</td>
+    <td>Michael Egorov</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sushi.com/">SushiSwap</a></td>
+    <td>SushiSwap is a decentralized exchange platform and liquidity provider built on Ethereum. It offers various features such as yield farming, staking, and decentralized governance.</td>
+    <td>Decentralized Exchange (DEX)</td>
+    <td>August 2020</td>
+    <td>$3 Billion</td>
+    <td>Chef Nomi (pseudonymous)</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://yearn.finance/">Yearn Finance</a></td>
+    <td>Yearn Finance is a decentralized platform that aggregates DeFi lending protocols to optimize yield farming strategies automatically.</td>
+    <td>Yield Aggregator</td>
+    <td>February 2020</td>
+    <td>$6 Billion</td>
+    <td>Andre Cronje</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://synthetix.io/">Synthetix</a></td>
+    <td>Synthetix is a decentralized platform that enables the creation of synthetic assets (synths) that track the value of real-world assets. Users can trade synthetic assets without needing to own the underlying asset.</td>
+    <td>Synthetic Assets</td>
+    <td>March 2018</td>
+    <td>$2 Billion</td>
+    <td>Kain Warwick</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.chainlinklabs.com/">Chainlink</a></td>
+    <td>Chainlink is a decentralized oracle network that provides reliable and tamper-proof data feeds for smart contracts. It enables smart contracts to securely interact with external data sources and APIs.</td>
+    <td>Oracle</td>
+    <td>September 2017</td>
+    <td>$8 Billion</td>
+    <td>Sergey Nazarov, Steve Ellis</td>
+    <td>Yes</td>
+  </tr>
+</table>
+
+### Roadmap
+<table width="100%">
+  <tr>
+    <th>Step</th>
+    <th>Description</th>
+    <th>Resources</th>
+  </tr>
+  <tr>
+    <td>Step 1</td>
+    <td>Learn Blockchain Basics: Understand the fundamental concepts of blockchain technology, including decentralization, consensus mechanisms, and cryptographic principles.</td>
+    <td><a href="https://www.youtube.com/watch?v=2uYuWiICCM0&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-"> YouTube : Blockchain tutorial for beginnners</a></td>
+  </tr>
+  <tr>
+    <td>Step 2</td>
+    <td>Study Ethereum: Explore the Ethereum blockchain platform, including its architecture, smart contracts, and Ethereum Virtual Machine (EVM).</td>
+    <td><a href="https://ethereum.org/en/what-is-ethereum/">Ethereum - What is Ethereum?</a>, <a href="https://www.youtube.com/watch?v=UihMqcj-cqc">YouTube : Ethereum in 30 minutes</a></td>
+  </tr>
+  <tr>
+    <td>Step 3</td>
+    <td>Learn Solidity: Master the Solidity programming language used for writing smart contracts on the Ethereum blockchain.</td>
+    <td><a href="https://www.youtube.com/watch?v=EhPeHeoKF88">YouTube: Learn Solidity - The COMPLETE Beginner’s Guide</a></td>
+  </tr>
+  <tr>
+    <td>Step 4</td>
+    <td>Explore Decentralized Applications (DApps): Understand the architecture and development of DApps, including frontend and backend components.</td>
+    <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">YouTube: Solidity, Smart Contract, and Blockchain Development Full Course </a></td>
+  </tr>
+  <tr>
+    <td>Step 5</td>
+    <td>Dive into Decentralized Finance (DeFi): Explore the concepts and protocols of DeFi, including lending, borrowing, and decentralized exchanges.</td>
+    <td><a href="https://www.youtube.com/watch?v=J1pX4NLNN1M&list=PLgPmWS2dQHW9_Mo_5OC7Eyqi1FwKOJlb9">YouTube: DeFi Series</a></td>
+  </tr>
+  <tr>
+    <td>Step 6</td>
+    <td>Understand Web3 Technologies: Learn about other blockchain platforms and technologies beyond Ethereum, such as Polkadot, Cardano, and Binance Smart Chain.</td>
+    <td><a href="https://www.youtube.com/watch?v=29Ty-VTDnh4&list=PLOyWqupZ-WGsnACsCmWH7PO-0paz9zlQ8"> YouTube : Polkadot for beginners</a>, <a href="https://www.youtube.com/watch?v=2csG9sR5j7w&list=PLrbMFdXZnzoAwfxIVo-SQ_qEBCqbwuU6o">YouTube : Cardano 101 course</a>, <a href="https://www.youtube.com/watch?v=iJDoc0kvXLc">YouTube : Binance Smart Chain (BSC) explained</a></td>
+  </tr>
+  <tr>
+    <td>Step 7</td>
+    <td>Master Advanced Smart Contract Development: Dive deeper into advanced Solidity topics, security considerations, and best practices for smart contract development.</td>
+    <td><a href="https://github.com/ethereum/solidity">Solidity Documentation</a>, <a href="https://consensys.net/academy/">Consensys Academy</a></td>
+  </tr>
+  <tr>
+    <td>Step 8</td>
+    <td>Explore Blockchain Interoperability: Learn about interoperability protocols and bridges that enable communication between different blockchain networks.</td>
+    <td><a href="https://www.cosmos.network/">Cosmos</a>, <a href="https://www.wanchain.org/">Wanchain</a>, <a href="https://www.polkadot.network/">Polkadot</a></td>
+  </tr>
+  <tr>
+    <td>Step 9</td>
+    <td>Stay Updated and Engage with the Community: Keep up with the latest trends, news, and developments in the Web3 ecosystem by joining forums, attending meetups, and following industry experts.</td>
+    <td><a href="https://www.reddit.com/r/ethereum/">r/ethereum on Reddit</a>, <a href="https://discord.gg/web3">WEB3 🌐 Discord Community</a></td>
+  </tr>
+  <tr>
+    <td>Step 10</td>
+    <td>Gain Practical Experience: Participate in hackathons, build projects, and contribute to open-source blockchain initiatives to apply your knowledge in real-world scenarios.</td>
+    <td>Refer to Hackathons section</td>
+  </tr>
+</table>
+
+### Challenges
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://ethernaut.openzeppelin.com/">Ethernaut</a></td>
+   <td>Ethernaut is a Solidity-based smart contract hacking game. Each level presents a different smart contract vulnerability to exploit and solve.</td>
+ </tr>
+ <tr>
+   <td><a href="https://capturetheether.com/challenges/">Capture the Ether</a></td>
+   <td>Capture the Ether offers a series of challenges designed to test and improve your skills in hacking Ethereum smart contracts. Solve challenges related to security vulnerabilities and earn Ether rewards.</td>
+ </tr>
+ <tr>
+   <td><a href="https://soliditykoans.org/">Solidity Koans</a></td>
+   <td>Solidity Koans is an interactive learning platform that presents Solidity code snippets with incomplete parts. Your task is to fill in the blanks to make the code functional and learn Solidity concepts along the way.</td>
+ </tr>
+ <tr>
+   <td><a href="https://ctftime.org/task/11566">Blockchain CTF</a></td>
+   <td>Blockchain CTF (Capture The Flag) challenges offer a range of tasks related to blockchain technology, including Ethereum smart contract hacking, blockchain analysis, and cryptography.</td>
+ </tr>
+</table>
