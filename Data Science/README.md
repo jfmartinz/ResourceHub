@@ -177,7 +177,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td>Josh explains complex statistical concepts and machine learning algorithms in an easy-to-understand and visual manner. </td>
       </tr>
         <td> <a href="https://www.youtube.com/user/krishnaik06">Krish Naik</a></td>
-        <td>Krish Naik provides tutorials on data science, machihttps://www.youtube.com/user/joshstarmerne learning, deep learning, and related topics, along with practical projects.</td>
+        <td>Krish Naik provides tutorials on data science, machine learning, deep learning, and related topics, along with practical projects.</td>
       </tr>
      </tr>
         <td> <a href="https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ">Codebasics </a></td>
