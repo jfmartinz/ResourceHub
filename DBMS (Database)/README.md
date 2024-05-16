@@ -7,7 +7,7 @@
   - [SQL Databases](#sql-databases)
   - [NoSQL Databases](#nosql-databases)
 - [Tutorial or Courses](#tutorial-or-courses)
-- [SQL vs NoSQL](#key-highlights-on-sql-vs-nosql-database)
+
 
 
 ### Overview
@@ -85,43 +85,3 @@ A database is an organized collection of structured information, or data, typica
         <td>The GeeksforGeeks provides a comprehensive introduction to NoSQL databases, explaining the need for NoSQL, its key characteristics, and how it differs from traditional relational databases (SQL).</td>
 </table>
 
-### Key Highlights on SQL vs NoSQL database
-
-<table width="100%">
-    <tr>
-        <th>SQL</th>
-        <th>NoSQL</th>
-    </tr>
-    <tr>
-        <td>Relational database management system (RDBMS).</td>
-        <td>Non-relational or distributed database system.</td>
-    </tr>
-    <tr>
-        <td>These databases have fixed or static or predefined schema.</td>
-        <td>They have a dynamic schema.</td>
-    </tr>
-    <tr>
-        <td>These databases are not suited for hierarchical data storage.</td>
-        <td>These databases are best suited for hierarchical data storage.</td>
-    </tr>
-    <tr>
-        <td>These databases are best suited for complex queries.</td>
-        <td>These databases are not so good for complex queries.</td>
-    </tr>
-    <tr>
-        <td>Vertically Scalable.</td>
-        <td>Horizontally scalable.</td>
-    </tr>
-    <tr>
-        <td>Vertically Scalable.</td>
-        <td>Horizontally scalable.</td>
-    </tr>
-    <tr>
-        <td>Follows ACID property.</td>
-        <td>Follows CAP (consistency, availability, partition tolerance).</td>
-    </tr>
-    <tr>
-        <td><b>Examples:</b> MySQL, PostgreSQL, Oracle, MS-SQL Server, etc</td>
-        <td><b>Examples:</b> MongoDB, HBase, Neo4j, Cassandra, etc</td>
-    </tr>
-</table>
