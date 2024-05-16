@@ -1586,6 +1586,12 @@ This section contains hundreds of coding challenges that test your knowledge of 
         This GitHub repo is best for understanding how databases and website communicate with each other.
         </td>
       </tr>    
+      <tr>
+        <td><a href=" https://github.com/stanislavstoyanov99/CinemaWorld"> Cinema Website</a></td>
+        <td>
+        Developing a cinema or entertainment website with this web development source code is simple. Aspirants can operate without object-oriented programming (OOP) concepts, but a basic understanding of ASP.NET and C# is necessary to proceed. 
+        </td>
+      </tr> 
   </table>
   
   #### Advance level projects
@@ -1624,5 +1630,11 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <td>
         This GitHub repo helps you build a discord clone using technologies:React, Redux, React-Router, Firebase, Material-UI, SASS, JavaScript, HTML5.
         </td>
-      </tr>    
+      </tr>   
+     <tr>
+        <td><a href="https://codepen.io/samir-singh/pen/JjGvapq">Whatsapp Web clone</a></td>
+        <td>
+         This project is also great for gaining hands-on experience in React. Although there are many technologies and stacks used for full-stack development, they can be overwhelming at times. 
+        </td>
+      </tr>  
   </table>
