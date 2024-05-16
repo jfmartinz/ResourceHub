@@ -100,6 +100,10 @@ This category is a curated collection of valuable web development resources cont
     <td>Fast-track HTML basics for beginners with Traversy Media's accessible tutorial</td>
   </tr>
   <tr>
+    <td><a href="https://scrimba.com/learn/htmlandcss">Learn HTML and CSS</a></td>
+    <td>Learn HTML and CSS through building awesome projects along with coding challenges from Scrimba</td>
+  </tr>
+  <tr>
     <td><a href="https://www.youtube.com/watch?v=EiNiSFIPIQE">Learn CSS Grid - A 13 Minute Deep Dive</a></td>
     <td>A short yet concise and helpful video about learning CSS grid in just 13 minutes</td>
   </tr>
@@ -120,6 +124,14 @@ This category is a curated collection of valuable web development resources cont
     <td>Comprehensive 2-hour JavaScript crash course by JavaScript Mastery.</td>
   </tr>
   <tr>
+    <td><a href="https://30dayjavascript.js.org/">30 Days JavaScript</a></td>
+    <td>30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. </td>
+  </tr>
+  <tr>
+    <td><a href="https://scrimba.com/learn/learnjavascript">Learn JavaScript</a></td>
+    <td>Learn JavaScript by building projects along with coding challenges from Scrimba</td>
+  </tr>
+  <tr>
     <td><a href="https://www.youtube.com/watch?v=EerdGm-ehJQ">JavaScript Tutorial Full Course - Beginner to Pro (2024)</a></td>
     <td>A JavaScript course for beginners, by SuperSimpleDev</td>
   </tr>
@@ -134,6 +146,10 @@ This category is a curated collection of valuable web development resources cont
   <tr>
     <td><a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Make 15 react projects</a></td>
     <td>A one-shot video by freecodecamp focusing on coding react-based projects</td>
+  </tr>
+  <tr>
+    <td><a href="https://scrimba.com/learn/learnreact">Learn React</a></td>
+    <td>Learn React by building projects along with coding challenges from Scrimba</td>
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=Ul3y1LXxzdU&pp=ygUcZnJlZWNvZGVjYW1wIHJlYWN0IGpzIGNvdXJzZQ%3D%3D">Learn About React router v6 in 45mins</a></td>
@@ -313,6 +329,10 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
   <tr>
     <td><a href="https://laracasts.com/path">Full Stack Developer on Laravel and Vue Js</a></td>
     <td>This is the path of becoming a full-stack developer on Laravel and Vuejs</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=tVzUXW6siu0&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&pp=iAQB">Full Stack Web Development course for Absolute Beginners</a></td>
+    <td>Learn Full stack web development starting with HTML, CSS, JavaScript, Node js, Express js, MomgoDB, React js, Next js along with exercises and awesome projects!</td>
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=k4lHXIzCEkM&t=44s">Build and Deploy a Full Stack MERN Application With CRUD, Auth, and Charts Using Refine</a></td>
