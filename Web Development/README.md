@@ -5,9 +5,9 @@ This category is a curated collection of valuable web development resources cont
 
 - [Roadmap](roadmaps)
 
-  - [Front-End Development Roadmap](#front-end-development)
-  - [BackEnd Development Roadmap](#backend-development)
-  - [Full-Stack Development Roadmap](#full-stack-development)
+  - [Front-End Development Roadmap](#front-end-roadmap)
+  - [BackEnd Development Roadmap](#back-end-roadmap)
+  - [Full-Stack Development Roadmap](#full-stack-roadmap)
 
 - [Tutorials or Courses](#tutorials-or-courses)
 
@@ -46,7 +46,7 @@ This category is a curated collection of valuable web development resources cont
 
 ### Roadmap
 
-#### Front-End Development
+#### Front-End Roadmap
 
 <table width="100%">
     <tr>
@@ -59,7 +59,7 @@ This category is a curated collection of valuable web development resources cont
 </tr>
 </table>
 
-#### Back-End Development
+#### Back-End Roadmap
 
 <table width="100%">
     <tr>
@@ -72,7 +72,7 @@ This category is a curated collection of valuable web development resources cont
 </tr>
 </table>
 
-#### Full-Stack Development
+#### Full-Stack Roadmap
 
 <table width="100%">
     <tr>
