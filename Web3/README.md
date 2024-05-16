@@ -1,7 +1,7 @@
 # Web3 🚀
+Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
 
 ## Table of Contents
-- [Overview](#overview)<br>
 - [Website to learn web3](#website-to-learn-web3)<br>
 - [Tutorial or Courses](#tutorial-or-courses)<br>
 - [Blockchain Technologies](#blockchain-technologies)<br>
@@ -9,11 +9,6 @@
 - [Community](#community)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
-
-
-
-### Overview
-Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
 
 ### Website to learn Web3
 <table width="100%">
