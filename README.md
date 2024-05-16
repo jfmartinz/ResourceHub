@@ -30,7 +30,7 @@ Here is a list of the currently available categories of the project:<br>
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
-- [Open Source Development](https://github.com/Nayanika1402/ResourceHub/tree/main/Open%20Source%20Development)
+- [Open Source Development](https://github.com/jfmartinz/ResourceHub/tree/main/Open%20Source%20Development)
 
 
 ## How to contribute
