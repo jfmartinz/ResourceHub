@@ -13,6 +13,7 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
 - [Interview](#interview)<br>
 - [Newsletter](#newsletter)<br>
 - [UI/UX Design Challenges](#challenges)<br>
+- [Figma Resources](#figma-resources)<br>
 
 ### Tutorials or Courses
 
@@ -523,6 +524,7 @@ Muzli is a new-tab browser extension that instantly delivers relevant design sto
       
 </table>
 
+
 ### UI/UX Design Challenges 
 
 > Discover a set of design challenges that unleash your potential, while creating a stunning portfolio.
@@ -533,6 +535,7 @@ Muzli is a new-tab browser extension that instantly delivers relevant design sto
         <th>Description</th>
       </tr>
       <tr>
+
 <td> <a href="https://www.crowwwn.com/">Crowwwn</td>
 <td>Find popular design challenges that are a part of weekly contests.<br>
 Unleash your creativity while adhering to the prompts given.</td>
@@ -559,3 +562,57 @@ industry trends to freshers and veterans alike!</td>
 exercises.</td>
  </tr>
 </table>
+
+
+### Figma Resources
+
+> Find the perfect starting point for your next project with our collection of high-quality Figma templates.
+
+<table width="100%">
+      <caption>UI Kits and Mockups : Pre-designed components and mockups to jumpstart Figma projects.</caption>
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td width="150px"> <a href="https://elements.envato.com/graphic-templates/compatible-with-figma">EnvantoElements</a></td>
+        <td>Envato Elements offers a massive library of creative assets, including a treasure trove of Figma-compatible resources. Dive into a collection of paid yet premium UI kits, mockups, and templates to jumpstart your Figma designs and streamline your workflow.</td>
+      </tr>
+      <tr>
+        <td width="150px"><a href="https://www.getfigit.com/">Figit</a></td>
+        <td>A figma plugin with 1000+ auto layout UI elements with a unified design system that supercharges your design workflow.</td>
+      </tr>
+</table>
+
+<table width="100%">
+      <caption>Web Designs and Templates : Readymade layouts for faster website building, customizable with your content.</caption>
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td width="150px"><a href="https://freebiesui.com/figma-freebies/">FreesbieUI</a></td>
+        <td>This website provides a vibrant collection of free Figma resources to jumpstart your projects. Dive into web designs, templates, mockups and more, all designed to streamline your Figma workflow and boost your design efficiency.</td>
+      </tr>
+      <tr>
+        <td width="150px"><a href="https://dribbble.com/">Dribbble</a></td>
+        <td>A community of UI/UX designers that offers free access to professionally designed Figma content.</td>
+      </tr>
+</table>
+
+<table width="100%">
+      <caption>Open Source Tools : Extensive libraries of icons for enhanced visual communication.</caption>
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td width="150px"><a href="https://www.uxcrush.com/">UX Crush</a></td>
+        <td>UXCrush dives deep into the world of open-source design resources for Figma. Explore a vast library of freely available icons to elevate your Figma projects.</td>
+      </tr>
+      <tr>
+        <td width="150px"><a href="https://figmaresource.com/">figma resources</a></td>
+        <td>Dive into the open-source design world for Figma with Figma Resource! Explore a vast library of freely available icons to enhance your projects.  Remember, Figma Resource is independent of Figma Inc.</td>
+      </tr>
+      
+  </table>
