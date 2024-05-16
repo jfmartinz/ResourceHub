@@ -166,7 +166,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <th>Description</th>
       </tr>
        <tr>
-        <td> <a href="hhttps://www.youtube.com/user/dataschool">Data School </a></td>
+        <td> <a href="https://www.youtube.com/user/dataschool">Data School </a></td>
         <td>Hosted by Kevin Markham, this channel offers tutorials on Python, Pandas, Scikit-Learn, and other data science topics.</td>
       </tr>
         <td> <a href="https://www.youtube.com/user/sentdex">Sentdex</a></td>
