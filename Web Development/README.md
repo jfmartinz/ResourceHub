@@ -5,9 +5,9 @@ This category is a curated collection of valuable web development resources cont
 
 - [Roadmap](roadmaps)
 
-  - [Front-End Development Roadmap](#front-end-development)
-  - [Back-End Development Roadmap](#backend-development)
-  - [Full-Stack Development Roadmap](#full-stack-development)
+  - [Front-End Development Roadmap](#front-end-roadmap)
+  - [BackEnd Development Roadmap](#back-end-roadmap)
+  - [Full-Stack Development Roadmap](#full-stack-roadmap)
 
 - [Tutorials or Courses](#tutorials-or-courses)
 
@@ -46,7 +46,7 @@ This category is a curated collection of valuable web development resources cont
 
 ### Roadmap
 
-#### Front-End Development
+#### Front-End Roadmap
 
 <table width="100%">
     <tr>
@@ -59,7 +59,7 @@ This category is a curated collection of valuable web development resources cont
 </tr>
 </table>
 
-#### Back-End Development
+#### Back-End Roadmap
 
 <table width="100%">
     <tr>
@@ -72,7 +72,7 @@ This category is a curated collection of valuable web development resources cont
 </tr>
 </table>
 
-#### Full-Stack Development
+#### Full-Stack Roadmap
 
 <table width="100%">
     <tr>
@@ -183,7 +183,12 @@ This category is a curated collection of valuable web development resources cont
       <td><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries</a></td>
       <td>The Front End Development Libraries Certification teaches you how to style your site efficiently with Bootstrap, enhance CSS with Sass, and build powerful Single Page Applications (SPAs) using React and Redux.</td>
   </tr>
-
+<tr>
+  <td><a href="https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&si=UYYv7L3NHDF31bHL">Apna College</a>
+  </td>
+  <td>The provided link directs to a playlist hosted by Apna College on YouTube, offering a comprehensive web development course. Covering everything from the basics to advanced topics, this curated collection serves as a valuable resource for beginners and intermediate learners alike. With structured lessons and hands-on tutorials, it equips viewers with the necessary skills to build websites from scratch and navigate the complexities of modern web development.
+  </td> 
+</tr>
 </table>
 
 ### Backend Development
@@ -1414,8 +1419,23 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <th>Description</th>
       </tr>
       <tr>
+      <td><a href="https://www.hackerrank.com/interview/preparation-kits/">HackerRank Preparation Kits</a></td>
+      <td>The best practice platform to practice and show your
+      skills.This is preparation kit for developing critical
+      thinking.</td></tr>
+      <tr>
+      <td><a href="https://www.codechef.com/practice/">CodeShef Practice</a></td>
+      <td>Codeshef is a competitive programming platform where users can practice coding,participate in contests and improve their
+      skills by solving algorithmic problems.</td>
+      </tr>
+      <tr>
         <td> <a href="https://cssbattle.dev/">CSS Battle</a></td>
         <td>The funnest multiplayer game with 300K+ web designers & developers. Replicate the target images using CSS - the shorter your code, the higher your score! Happy coding!</td>
+      </tr>
+      <tr>
+      <td><a href="https://codepen.io/challenges">CodePen Challenges</a></td>
+      <td>Codepen challenges provides prompts for nearly a variety of language and technologies such as HTML, CSS, JAVaSCRIPT and many more.
+      </td>
       </tr>
       <tr>
         <td> <a href="https://www.frontendmentor.io/">Frontend Mentor</a></td>
@@ -1556,12 +1576,12 @@ This section contains hundreds of coding challenges that test your knowledge of 
         </td>
       </tr>  
       <tr>
-        <td><a href="https://github.com/Rohit177/Pinterest_Clone_Tailwind/blob/main/index.html">Pintrest Clone</a></td>
-        <td>This GitHub repo helps you build Pinterest Clone by using HTML and a CSS framework known as TAILWINDCSS.This project is gives you the best practice to learn Tailwindcss.
+        <td><a href="https://github.com/Rohit177/Pinterest_Clone_Tailwind/blob/main/index.html">Pinterest Clone</a></td>
+        <td>This GitHub repo helps you build Pinterest Clone by using HTML and a CSS framework known as TAILWIND CSS.This project is gives you the best practice to learn TAILWIND CSS.
         </td>
       </tr> 
       <tr>
-        <td><a href="https://github.com/harismuneer/Restaurant-Management-System">Restaurent Management System</a></td>
+        <td><a href="https://github.com/harismuneer/Restaurant-Management-System">Restaurant Management System</a></td>
         <td>
         This GitHub repo is best for understanding how databases and website communicate with each other.
         </td>
