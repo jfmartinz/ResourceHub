@@ -20,14 +20,19 @@ To ensure a smooth experience, please follow these important rules:
    ```markdown
    <a href="URL_here">Resource Name</a>
    ```
-
-   **Add to Table**: Insert it into the table like this:
-
+Example:
    ```markdown
-   <tr>
-      <td><a href="URL_here">Resource Name</a></td>
-      <td>URL Description</td>
-   </tr>
+   ### Section name
+ <table width="100%">
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><a href="URL HERE">RESOURCE NAME</a></td>
+      <td>RESOURCE DESCRIPTION</td>
+    </tr>
+</table>
    ```
 
    > Note: Replace "URL_here" with the actual resource URL and provide a brief description.
