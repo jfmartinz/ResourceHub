@@ -320,134 +320,61 @@ Analytics.</td>
   </tr>
 </table>
 
-
-### Pathway 1: Beginners
-
-1. **Start with Basics:**
-   - [LearnWeb3](https://learnweb3.io/)
-
-2. **Solidity Smart Contract Development:**
-   - [CryptoZombies](https://cryptozombies.io/)
-
-3. **Full Stack Web3 Development:**
-   - [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://www.youtube.com/watch?v=8wMKq7HvbKw)
-
-4. **Explore Blockchain Technologies:**
-   - [Ethereum](https://ethereum.org/en/)
-   - [Bitcoin](https://bitcoin.org/en/)
-   - [Binance Smart Chain (BSC)](https://www.bnbchain.org/en/smartChain)
-
-5. **Engage with the Web3 Community:**
-   - [WEB3 🌐 Discord Community](https://discord.gg/web3)
-   - [Ethereum Stack Exchange](https://ethereum.stackexchange.com/)
-
-### Pathway 2: Intermediate
-
-1. **Advanced Smart Contract Development:**
-   - [Consensys Academy](https://consensys.net/academy/)
-
-2. **Blockchain Development with JavaScript:**
-   - [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=55s)
-
-3. **Stay Updated with Web3 News:**
-   - [Wired](https://www.wired.com/tag/web3/)
-   - [Forbes](https://www.forbes.com/digital-assets/news/?sh=5d65d027f9d5)
-
-4. **Explore DeFi Projects:**
-   - [Compound](https://compound.finance/)
-   - [Uniswap](https://uniswap.org/)
-   - [Aave](https://aave.com/)
-
-### Pathway 3: Advanced
-
-1. **Advanced Blockchain Technologies:**
-   - [Polkadot](https://www.polkadot.network/)
-   - [Cardano](https://cardano.org/)
-   - [Chainlink](https://www.chainlinklabs.com/)
-
-2. **Contribute to Web3 Projects:**
-   - [GitHub](https://github.com/ethereum)
-
-3. **Build Scalable Web3 Solutions:**
-   - [Binance Smart Chain (BSC)](https://www.bnbchain.org/en/smartChain)
-   - [Polkadot](https://www.polkadot.network/)
-
-4. **Research and Innovation in Web3:**
-   - [Academic Papers](https://scholar.google.com/)
-
-# Top 25 Web3 Coding Challenges
-
-1. **CryptoZombies**: Learn to code Ethereum dApps by building your own crypto-collectibles game with this interactive tutorial.
-   - [CryptoZombies](https://cryptozombies.io/)
-
-2. **Solidity by Example**: Explore Solidity smart contract development through practical examples covering various concepts and use cases.
-   - [Solidity by Example](https://solidity-by-example.org/)
-
-3. **Ethernaut**: Test your skills in Ethereum smart contract security by solving progressively challenging levels of vulnerabilities.
-   - [Ethernaut](https://ethernaut.openzeppelin.com/)
-
-4. **ChainShot**: Access a wide range of interactive tutorials and coding challenges covering blockchain development, including smart contracts and dApps.
-   - [ChainShot](https://www.chainshot.com/)
-
-5. **Crypto Zombies 2**: The sequel to the popular CryptoZombies tutorial, diving deeper into advanced Solidity concepts and dApp development.
-   - [Crypto Zombies 2](https://cryptozombies.io/)
-
-6. **Build Decentralized Applications (dApps) on Ethereum**: A comprehensive tutorial series on building decentralized applications (dApps) using Ethereum.
-   - [dApps on Ethereum](https://docs.soliditylang.org/en/v0.8.11/introduction-to-smart-contracts.html)
-
-7. **Remix IDE Challenges**: Practice your smart contract development skills using the Remix IDE with a series of hands-on challenges.
-   - [Remix IDE Challenges](https://remix-ide.readthedocs.io/en/latest/index.html)
-
-8. **ETH.Build**: Participate in various coding challenges and hackathons focused on Ethereum and Web3 development.
-   - [ETH.Build](https://eth.build/)
-
-9. **Hack.ethglobal.co**: Join hackathons and coding challenges organized by EthGlobal, featuring real-world problem statements and prizes.
-   - [EthGlobal Hackathons](https://hack.ethglobal.co/)
-
-10. **BuidlGuidl**: A community-driven platform offering coding challenges, workshops, and resources for Ethereum developers.
-    - [BuidlGuidl](https://buidlguidl.com/)
-
-11. **DeFi Tutorial**: Learn to build decentralized finance (DeFi) applications on Ethereum with this step-by-step tutorial series.
-    - [DeFi Tutorial](https://defi.tutorial.ivanontech.com/)
-
-12. **Uniswap V3 SDK Challenge**: Dive into building with Uniswap V3 by participating in their SDK challenge, solving real-world problems.
-    - [Uniswap V3 SDK Challenge](https://uniswap.org/docs/v3/)
-
-13. **Chainlink Hackathon**: Join Chainlink's hackathons to build smart contracts that leverage decentralized oracles for real-world data.
-    - [Chainlink Hackathon](https://chain.link/hackathon)
-
-14. **Yearn.finance Integration Challenge**: Integrate Yearn.finance's suite of DeFi products into your own applications and projects.
-    - [Yearn.finance Integration Challenge](https://yearn.finance/)
-
-15. **Gitcoin Bounties**: Explore various bounties posted on Gitcoin related to Web3 development, including smart contracts and dApps.
-    - [Gitcoin Bounties](https://gitcoin.co/explorer)
-
-16. **ENS Integration Challenge**: Build applications that integrate with the Ethereum Name Service (ENS) for decentralized naming and identity.
-    - [ENS Integration Challenge](https://ens.domains/)
-
-17. **Graph Protocol Subgraph Challenge**: Develop subgraphs for The Graph Protocol to query and index data from decentralized applications.
-    - [Graph Protocol Subgraph Challenge](https://thegraph.com/docs/developer/)
-
-18. **xDAI Chain Integration Challenge**: Integrate with the xDAI chain to leverage its fast and low-cost transactions for your dApps.
-    - [xDAI Chain Integration Challenge](https://www.xdaichain.com/)
-
-19. **Aave Protocol Integration Challenge**: Incorporate Aave's lending and borrowing protocol into your DeFi applications.
-    - [Aave Protocol Integration Challenge](https://aave.com/)
-
-20. **IPFS Integration Challenge**: Integrate the InterPlanetary File System (IPFS) for decentralized storage and content addressing.
-    - [IPFS Integration Challenge](https://ipfs.io/)
-
-21. **NFT Marketplace Challenge**: Build a decentralized marketplace for non-fungible tokens (NFTs) using standards like ERC-721 or ERC-1155.
-    - [NFT Marketplace Challenge](https://ethereum.org/en/nft/)
-
-22. **Balancer Protocol Integration Challenge**: Integrate Balancer's automated portfolio management protocol into your DeFi applications.
-    - [Balancer Protocol Integration Challenge](https://balancer.finance/)
-
-23. **Optimistic Rollup Development Challenge**: Develop applications and solutions on optimistic rollup layer 2 scaling solutions.
-    - [Optimistic Rollup Development Challenge](https://optimism.io/)
-
-24. **zkSync Integration Challenge**: Integrate with zkSync's layer 2 scaling solution for Ethereum to enable fast and cheap transactions.
-    - [zkSync Integration Challenge](https://zksync.io/)
-
-25. **xDAI Chain Bridge Challenge**: Contribute to the development of the xDAI chain bridge to enable interoperability between Ethereum and xDAI.
-    - [xDAI Chain Bridge Challenge](https://www.xdaichain.com/)
+### Roadmap
+<table width="100%">
+  <tr>
+    <th>Step</th>
+    <th>Description</th>
+    <th>Resources</th>
+  </tr>
+  <tr>
+    <td>Step 1</td>
+    <td>Learn Blockchain Basics: Understand the fundamental concepts of blockchain technology, including decentralization, consensus mechanisms, and cryptographic principles.</td>
+    <td><a href="https://www.youtube.com/watch?v=2uYuWiICCM0&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-"> YouTube : Blockchain tutorial for beginnners</a></td>
+  </tr>
+  <tr>
+    <td>Step 2</td>
+    <td>Study Ethereum: Explore the Ethereum blockchain platform, including its architecture, smart contracts, and Ethereum Virtual Machine (EVM).</td>
+    <td><a href="https://ethereum.org/en/what-is-ethereum/">Ethereum - What is Ethereum?</a>, <a href="https://www.youtube.com/watch?v=UihMqcj-cqc">YouTube : Ethereum in 30 minutes</a></td>
+  </tr>
+  <tr>
+    <td>Step 3</td>
+    <td>Learn Solidity: Master the Solidity programming language used for writing smart contracts on the Ethereum blockchain.</td>
+    <td><a href="https://www.youtube.com/watch?v=EhPeHeoKF88">YouTube: Learn Solidity - The COMPLETE Beginner’s Guide</a></td>
+  </tr>
+  <tr>
+    <td>Step 4</td>
+    <td>Explore Decentralized Applications (DApps): Understand the architecture and development of DApps, including frontend and backend components.</td>
+    <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">YouTube: Solidity, Smart Contract, and Blockchain Development Full Course </a></td>
+  </tr>
+  <tr>
+    <td>Step 5</td>
+    <td>Dive into Decentralized Finance (DeFi): Explore the concepts and protocols of DeFi, including lending, borrowing, and decentralized exchanges.</td>
+    <td><a href="https://www.youtube.com/watch?v=J1pX4NLNN1M&list=PLgPmWS2dQHW9_Mo_5OC7Eyqi1FwKOJlb9">YouTube: DeFi Series</a></td>
+  </tr>
+  <tr>
+    <td>Step 6</td>
+    <td>Understand Web3 Technologies: Learn about other blockchain platforms and technologies beyond Ethereum, such as Polkadot, Cardano, and Binance Smart Chain.</td>
+    <td><a href="https://www.youtube.com/watch?v=29Ty-VTDnh4&list=PLOyWqupZ-WGsnACsCmWH7PO-0paz9zlQ8"> YouTube : Polkadot for beginners</a>, <a href="https://www.youtube.com/watch?v=2csG9sR5j7w&list=PLrbMFdXZnzoAwfxIVo-SQ_qEBCqbwuU6o">YouTube : Cardano 101 course</a>, <a href="https://www.youtube.com/watch?v=iJDoc0kvXLc">YouTube : Binance Smart Chain (BSC) explained</a></td>
+  </tr>
+  <tr>
+    <td>Step 7</td>
+    <td>Master Advanced Smart Contract Development: Dive deeper into advanced Solidity topics, security considerations, and best practices for smart contract development.</td>
+    <td><a href="https://github.com/ethereum/solidity">Solidity Documentation</a>, <a href="https://consensys.net/academy/">Consensys Academy</a></td>
+  </tr>
+  <tr>
+    <td>Step 8</td>
+    <td>Explore Blockchain Interoperability: Learn about interoperability protocols and bridges that enable communication between different blockchain networks.</td>
+    <td><a href="https://www.cosmos.network/">Cosmos</a>, <a href="https://www.wanchain.org/">Wanchain</a>, <a href="https://www.polkadot.network/">Polkadot</a></td>
+  </tr>
+  <tr>
+    <td>Step 9</td>
+    <td>Stay Updated and Engage with the Community: Keep up with the latest trends, news, and developments in the Web3 ecosystem by joining forums, attending meetups, and following industry experts.</td>
+    <td><a href="https://www.reddit.com/r/ethereum/">r/ethereum on Reddit</a>, <a href="https://discord.gg/web3">WEB3 🌐 Discord Community</a></td>
+  </tr>
+  <tr>
+    <td>Step 10</td>
+    <td>Gain Practical Experience: Participate in hackathons, build projects, and contribute to open-source blockchain initiatives to apply your knowledge in real-world scenarios.</td>
+    <td>Refer to Hackathons section</td>
+  </tr>
+</table>
