@@ -1414,8 +1414,23 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <th>Description</th>
       </tr>
       <tr>
+      <td><a href="https://www.hackerrank.com/interview/preparation-kits/">HackerRank Preparation Kits</a></td>
+      <td>The best practice platform to practice and show your
+      skills.This is preparation kit for developing critical
+      thinking.</td></tr>
+      <tr>
+      <td><a href="https://www.codechef.com/practice/">CodeShef Practice</a></td>
+      <td>Codeshef is a competitive programming platform where users can practice coding,participate in contests and improve their
+      skills by solving algorithmic problems.</td>
+      </tr>
+      <tr>
         <td> <a href="https://cssbattle.dev/">CSS Battle</a></td>
         <td>The funnest multiplayer game with 300K+ web designers & developers. Replicate the target images using CSS - the shorter your code, the higher your score! Happy coding!</td>
+      </tr>
+      <tr>
+      <td><a href="https://codepen.io/challenges">CodePen Challenges</a></td>
+      <td>Codepen challenges provides prompts for nearly a variety of language and technologies such as HTML, CSS, JAVaSCRIPT and many more.
+      </td>
       </tr>
       <tr>
         <td> <a href="https://www.frontendmentor.io/">Frontend Mentor</a></td>
