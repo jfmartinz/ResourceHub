@@ -183,7 +183,12 @@ This category is a curated collection of valuable web development resources cont
       <td><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries</a></td>
       <td>The Front End Development Libraries Certification teaches you how to style your site efficiently with Bootstrap, enhance CSS with Sass, and build powerful Single Page Applications (SPAs) using React and Redux.</td>
   </tr>
-
+<tr>
+  <td><a href="https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&si=UYYv7L3NHDF31bHL">Apna College</a>
+  </td>
+  <td>The provided link directs to a playlist hosted by Apna College on YouTube, offering a comprehensive web development course. Covering everything from the basics to advanced topics, this curated collection serves as a valuable resource for beginners and intermediate learners alike. With structured lessons and hands-on tutorials, it equips viewers with the necessary skills to build websites from scratch and navigate the complexities of modern web development.
+  </td> 
+</tr>
 </table>
 
 ### Backend Development
