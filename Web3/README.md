@@ -378,3 +378,14 @@ Analytics.</td>
     <td>Refer to Hackathons section</td>
   </tr>
 </table>
+
+### Challenges
+
+| Resource Name              | Description                                                                                         |
+|----------------------------|-----------------------------------------------------------------------------------------------------|
+| [Ethernaut](https://ethernaut.openzeppelin.com/)                  | Ethernaut is a Solidity-based smart contract hacking game. Each level presents a different smart contract vulnerability to exploit and solve. |
+| [Capture the Ether](https://capturetheether.com/challenges/)       | Capture the Ether offers a series of challenges designed to test and improve your skills in hacking Ethereum smart contracts. Solve challenges related to security vulnerabilities and earn Ether rewards. |
+| [Solidity Koans](https://soliditykoans.org/)                     | Solidity Koans is an interactive learning platform that presents Solidity code snippets with incomplete parts. Your task is to fill in the blanks to make the code functional and learn Solidity concepts along the way. |
+| [Blockchain CTF](https://ctftime.org/task/11566)   | Blockchain CTF (Capture The Flag) challenges offer a range of tasks related to blockchain technology, including Ethereum smart contract hacking, blockchain analysis, and cryptography. |
+
+
