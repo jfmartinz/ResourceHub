@@ -32,7 +32,6 @@ Here is a list of the currently available categories of the project:<br>
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
 - [Open Source Development](https://github.com/Nayanika1402/ResourceHub/tree/main/Open%20Source%20Development)
 
-
 ## How to contribute
 Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your fork of this repository before submitting any contributions.
 Expand the following section for a quick guide on how to create a fork:
