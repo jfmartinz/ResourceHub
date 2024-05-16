@@ -1419,7 +1419,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <th>Description</th>
       </tr>
       <tr>
-      <td><a href="https://www.hackerrank.com/interview/preparation-kits/">Problem Solving</a></td>
+      <td><a href="https://www.hackerrank.com/interview/preparation-kits/">HackerRank Preparation Kits</a></td>
       <td>The best practice platform to practice and show your
       skills.This is preparation kit for developing critical
       thinking.</td></tr>
