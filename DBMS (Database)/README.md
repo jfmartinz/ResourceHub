@@ -1,16 +1,13 @@
 # Database
 
+A database is an organized collection of structured information, or data, typically stored electronically in a computer system. Databases are designed to make it easy to store, retrieve, manage, and update data efficiently.
+
 ## Table of Contents
 
-- [Overview](#overview)
 - [Database Category](#database-category)
   - [SQL Databases](#sql-databases)
   - [NoSQL Databases](#nosql-databases)
 - [Tutorial or Courses](#tutorial-or-courses)
-
-
-### Overview
-A database is an organized collection of structured information, or data, typically stored electronically in a computer system. Databases are designed to make it easy to store, retrieve, manage, and update data efficiently.
 
 
 ### Database Category

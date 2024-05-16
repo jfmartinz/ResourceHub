@@ -1,8 +1,8 @@
 # UI & UX Design 🎨
+This curated collection offers valuable UI (User Interface) and UX (User Experience) design resources contributed by talented individuals. Here, you'll discover a diverse range of materials and information on UI & UX design.
 
 ## Table of Contents
 
-- [Overview](#overview)<br>
 - [Tutorials or Courses](#tutorials-or-courses)<br>
 - [Roadmap](#Roadmap)<br>
 - [Tools](#tools)<br>
@@ -13,10 +13,6 @@
 - [Interview](#interview)<br>
 - [Newsletter](#newsletter)<br>
 - [UI/UX Design Challenges](#challenges)<br>
-
-### Overview
-
-This curated collection offers valuable UI (User Interface) and UX (User Experience) design resources contributed by talented individuals. Here, you'll discover a diverse range of materials and information on UI & UX design.
 
 ### Tutorials or Courses
 
