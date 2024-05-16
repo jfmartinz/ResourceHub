@@ -1571,12 +1571,12 @@ This section contains hundreds of coding challenges that test your knowledge of 
         </td>
       </tr>  
       <tr>
-        <td><a href="https://github.com/Rohit177/Pinterest_Clone_Tailwind/blob/main/index.html">Pintrest Clone</a></td>
-        <td>This GitHub repo helps you build Pinterest Clone by using HTML and a CSS framework known as TAILWINDCSS.This project is gives you the best practice to learn Tailwindcss.
+        <td><a href="https://github.com/Rohit177/Pinterest_Clone_Tailwind/blob/main/index.html">Pinterest Clone</a></td>
+        <td>This GitHub repo helps you build Pinterest Clone by using HTML and a CSS framework known as TAILWIND CSS.This project is gives you the best practice to learn TAILWIND CSS.
         </td>
       </tr> 
       <tr>
-        <td><a href="https://github.com/harismuneer/Restaurant-Management-System">Restaurent Management System</a></td>
+        <td><a href="https://github.com/harismuneer/Restaurant-Management-System">Restaurant Management System</a></td>
         <td>
         This GitHub repo is best for understanding how databases and website communicate with each other.
         </td>
