@@ -1,7 +1,7 @@
 # Web3 🚀
+Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
 
 ## Table of Contents
-- [Overview](#overview)<br>
 - [Website to learn web3](#website-to-learn-web3)<br>
 - [Tutorial or Courses](#tutorial-or-courses)<br>
 - [Blockchain Technologies](#blockchain-technologies)<br>
@@ -9,11 +9,6 @@
 - [Community](#community)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
-
-
-
-### Overview
-Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
 
 ### Website to learn Web3
 <table width="100%">
@@ -44,6 +39,14 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
   <tr>
     <td><a href="https://www.web3.university/">Web3 University</a></td>
     <td>The comprehensive educational resource on blockchain development with the most useful tutorials across the web3 ecosystem. </td>
+  </tr>
+   <tr>
+    <td><a href="https://www.web3creators.com/learn-web3/">Web3 Creators</a></td>
+    <td> Web3 Creators offers free resource to become Web3 developer. </td>
+  </tr>
+   <tr>
+    <td><a href= "https://iq.wiki/">IQ.wiki</a></td>
+    <td>IQ.wiki, formerly Everipedia, is the largest crypto encyclopedia with thousands of pages. </td>
   </tr>
 </table>
 
@@ -86,6 +89,11 @@ The course covers:
   <tr>
     <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">Web3 Developer in 2023 Roadmap: Solidity, Smart Contract, and Blockchain Development [Full Course]</a></td>
     <td>Start learning how to become a blockchain developer. In this course, you'll understand the concepts of blockchain technology and smart contracts. You'll create your own wallet, learn how to develop and deploy your own smart contracts, and build a portfolio app to showcase the work you've completed throughout this course.</td>
+  </tr>
+
+   <tr>
+    <td><a href="https://youtu.be/jcgfQEbptdo?si=ntQiEjZJ--FK3mJP"> Learn Blockchain & Solidity Development Full Course 2024 </a></td>
+    <td>Start learning how to become a blockchain developer and become an in-demand blockchain MASTER with the help of the resources.</td>
   </tr>
 
 </table>
