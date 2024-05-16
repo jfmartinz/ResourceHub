@@ -30,6 +30,10 @@ A database is an organized collection of structured information, or data, typica
         <td><a href="https://www.sqlite.org/">SQLite</a></td>
         <td>SQLite is a C-language library that provides a lightweight, disk-based database. It is self-contained, serverless, and requires zero configuration, making it ideal for embedded database solutions.</td>
     </tr>
+    <tr>
+        <td><a href="https://www.oracle.com/in/database/">Oracle</a></td>
+        <td>Oracle Database is a proprietary multi-model database management system produced and marketed by Oracle Corporation. It is a database commonly used for running online transaction processing, data warehousing and mixed database workloads.</td>
+    </tr>
 </table>
 
 #### NoSQL Databases
@@ -51,6 +55,14 @@ A database is an organized collection of structured information, or data, typica
         <td><a href="https://aws.amazon.com/dynamodb/">Amazon DynamoDB</a></td>
         <td>Amazon DynamoDB is a fully managed NoSQL database service provided by Amazon Web Services (AWS). It offers fast and predictable performance with seamless scalability, ideal for applications that require consistent, single-digit millisecond latency at any scale.</td>
     </tr>
+    <tr>
+        <td><a href="https://redis.io/">Redis</a></td>
+        <td>Redis is an open-source, in-memory data structure store that is used as a database, cache, and message broker. It supports various data structures such as strings, hashes, lists, sets, and more, providing high performance and versatility for real-time applications.</td>
+    </tr>
+    <tr>
+        <td><a href="https://neo4j.com/product/neo4j-graph-database/">Neo4j</a></td>
+        <td>Neo4j is a graph database management system designed for storing, querying, and analyzing highly connected data. It uses graph structures with nodes, relationships, and properties to represent and manipulate complex relationships between data entities.</td>
+    </tr>
 </table>
 
 ### Tutorial or Courses
@@ -68,3 +80,4 @@ A database is an organized collection of structured information, or data, typica
         <td><a href="https://www.geeksforgeeks.org/introduction-to-nosql/">NoSQL</a></td>
         <td>The GeeksforGeeks provides a comprehensive introduction to NoSQL databases, explaining the need for NoSQL, its key characteristics, and how it differs from traditional relational databases (SQL).</td>
 </table>
+
