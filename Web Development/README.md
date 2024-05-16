@@ -1422,10 +1422,11 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <td><a href="https://www.hackerrank.com/interview/preparation-kits/">Problem Solving</a></td>
       <td>The best practice platform to practice and show your
       skills.This is preparation kit for developing critical
-      thinking.</td>
+      thinking.</td></tr>
+      <tr>
       <td><a href="https://www.codechef.com/practice/">CodeShef Practice</a></td>
       <td>Codeshef is a competitive programming platform where users can practice coding,participate in contests and improve their
-      skills by solving algorithmic problems.
+      skills by solving algorithmic problems.</td>
       </tr>
       <tr>
         <td> <a href="https://cssbattle.dev/">CSS Battle</a></td>
