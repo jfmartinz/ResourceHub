@@ -1,7 +1,9 @@
 # Web3 🚀
+
 Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
 
 ## Table of Contents
+
 - [Website to learn web3](#website-to-learn-web3)<br>
 - [Tutorial or Courses](#tutorial-or-courses)<br>
 - [Blockchain Technologies](#blockchain-technologies)<br>
@@ -11,6 +13,7 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 
 ### Website to learn Web3
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -51,6 +54,7 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 </table>
 
 ### Tutorial or Courses
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -76,6 +80,7 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - Build a web frontend to interact with the smart contract
 
 The course covers:
+
 - The architecture of Dapps
 - Solidity, the programming language for Ethereum smart contract
 - Remix, the online IDE for Solidity
@@ -83,23 +88,27 @@ The course covers:
 - Ganache, the local development Blockchain
 - Web3, the JS library to integrate a Dapp frontend
 - Metamask, the Ethereum wallet used by most Dapps (browser extension)
-- Deployment to public testnet (Ropsten) and mainnet, using Infura API 
-</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">Web3 Developer in 2023 Roadmap: Solidity, Smart Contract, and Blockchain Development [Full Course]</a></td>
-    <td>Start learning how to become a blockchain developer. In this course, you'll understand the concepts of blockchain technology and smart contracts. You'll create your own wallet, learn how to develop and deploy your own smart contracts, and build a portfolio app to showcase the work you've completed throughout this course.</td>
-  </tr>
+- Deployment to public testnet (Ropsten) and mainnet, using Infura API
+  </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">Web3 Developer in 2023 Roadmap: Solidity, Smart Contract, and Blockchain Development [Full Course]</a></td>
+      <td>Start learning how to become a blockchain developer. In this course, you'll understand the concepts of blockchain technology and smart contracts. You'll create your own wallet, learn how to develop and deploy your own smart contracts, and build a portfolio app to showcase the work you've completed throughout this course.</td>
+    </tr>
 
-   <tr>
-    <td><a href="https://youtu.be/jcgfQEbptdo?si=ntQiEjZJ--FK3mJP"> Learn Blockchain & Solidity Development Full Course 2024 </a></td>
-    <td>Start learning how to become a blockchain developer and become an in-demand blockchain MASTER with the help of the resources.</td>
-  </tr>
+     <tr>
+      <td><a href="https://youtu.be/jcgfQEbptdo?si=ntQiEjZJ--FK3mJP"> Learn Blockchain & Solidity Development Full Course 2024 </a></td>
+      <td>Start learning how to become a blockchain developer and become an in-demand blockchain MASTER with the help of the resources.</td>
+    </tr>
+    <tr>
+      <td><a href="https://youtu.be/SyVMma1IkXM?si=9OFjh0NUKcZv4nri"> Blockchain Full Course  </a></td>
+      <td>This Blockchain Tutorial Full Course will help you understand all the basic concepts of Blockchain. This Blockchain tutorial will help you understand what is Blockchain, explain the Bitcoin story, features of Blockchain which includes a public distributed ledger, hash encryption, proof of work, mining, and at the end you will also see a use case on how banks are using Blockchain in validating user identities. </td>
+    </tr>
 
 </table>
 
-
 ### Blockchain Technologies
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -124,6 +133,22 @@ The course covers:
     <tr>
     <td><a href="https://cardano.org/">Cardano</a></td>
     <td>Cardano is a blockchain platform that focuses on sustainability, scalability, and security. It aims to provide a robust infrastructure for building DApps and smart contracts.</td>
+    </tr>
+    <tr>
+    <td><a href="https://www.avax.network/">Avalanche</a></td>
+    <td>Avalanche is a decentralized, open-source proof of stake blockchain with smart contract functionality. AVAX is the native cryptocurrency of the platform.</td>
+    </tr>
+    <tr>
+    <td><a href="https://app.chainalysis.com/login?redirect=kyt">Chainalysis KYT</a></td>
+    <td>Chainalysis KYT’s website details easy-to-use interface, real-time API (application programming interface) and top-notch intelligence. Chainalysis Data comprises thousands of services, including scams and darknet offerings, that could affect blockchain security. </td>
+    </tr>
+    <tr>
+    <td><a href="https://app.chainalysis.com/login?redirect=kyt">Chainalysis KYT</a></td>
+    <td>Chainalysis KYT’s website details easy-to-use interface, real-time API (application programming interface) and top-notch intelligence. Chainalysis Data comprises thousands of services, including scams and darknet offerings, that could affect blockchain security. </td>
+    </tr>
+    <tr>
+    <td><a href="https://www.builtinsf.com/company/solana-labs">Solana</a></td>
+    <td>Solana offers the ability to create “scalable, user-friendly apps” with its platform, and also says it’s the fastest blockchain in the world, with 400 millisecond block times. It is also super-secure, low-cost ($0.01 per transaction) and resistant to censorship because the network is spread over thousands of independent nodes, the website indicates. Tutorials on the website offer guidance on how to build a decentralized app, run a validator node, and other blockchain functions. </td>
     </tr>
 </table>
 
@@ -153,6 +178,7 @@ The course covers:
 </table>
 
 ### Community
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -188,6 +214,7 @@ Analytics.</td>
 </table>
 
 ### Youtube Channels
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -212,6 +239,7 @@ Analytics.</td>
 </table>
 
 ### Tools and Libraries
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -241,9 +269,19 @@ Analytics.</td>
     <td><a href="https://github.com/trufflesuite/truffle">Truffle Suite</a></td>
     <td>Truffle Suite is a development framework for Ethereum dApps (decentralized applications). It provides tools for smart contract compilation, testing, and deployment, as well as a suite of development environments for building Ethereum applications.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/trufflesuite/ganache-ui">Ganache</a></td>
+    <td>Ganache is your personal blockchain for Ethereum development.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/trufflesuite/drizzle">Drizzle</a></td>
+    <td>Drizzle is a collection of libraries to simplify development of your dapps in Plain JavaScript, React and Vue.</td>
+  </tr>
+
 </table>
 
 ### Decentralized Finance (DeFi)
+
 <table width="100%">
   <tr>
     <th>Project Name</th>
@@ -327,4 +365,3 @@ Analytics.</td>
     <td>Yes</td>
   </tr>
 </table>
-
