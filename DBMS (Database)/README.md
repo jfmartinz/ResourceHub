@@ -92,5 +92,10 @@ A database is an organized collection of structured information, or data, typica
     <tr>
         <td><a href="https://www.geeksforgeeks.org/introduction-to-nosql/">NoSQL</a></td>
         <td>The GeeksforGeeks provides a comprehensive introduction to NoSQL databases, explaining the need for NoSQL, its key characteristics, and how it differs from traditional relational databases (SQL).</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.edx.org/learn/databases">edX</a></td>
+      <td>Offers Courses on database development and database queries.</td>
+    </tr>
 </table>
 
