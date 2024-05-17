@@ -41,9 +41,9 @@
 - [Challenges](#challenges)<br> -->
 <!-- - [Best Practices](#best-practices) -->
 - [Projects](#projects)
-  - [Beginner level](#beginner-level-projects)
+  <!-- - [Beginner level](#beginner-level-projects)
   - [Intermediate level](#intermediate-level-projects)
-  - [Advanced level](#advance-level-projects)
+  - [Advanced level](#advance-level-projects) -->
 
 ### Overview
 
@@ -1307,129 +1307,15 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://www.geeksforgeeks.org/how-to-create-a-landing-page-using-html-css-and-javascript/">Landing Page</a></td>
+        <td><a href="https://www.geeksforgeeks.org/machine-learning-projects/">100+ Machine learning projects</a></td>
         <td>
         This link helps you to Create a Landing Page Using HTML, CSS, and JavaScript provides a practical demonstration of the benefits of building landing pages for improving web development skills.
         </td>
       </tr> 
       <tr>
-        <td><a href="https://www.geeksforgeeks.org/how-to-create-todo-app-using-html-css-js-and-bootstrap/">ToDo application</a></td>
+        <td><a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code">500 ML projects repo</a></td>
         <td>
           This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
         </td>
       </tr>  
-     <tr>
-        <td><a href="https://www.codewithfaraz.com/content/339/build-a-simple-calculator-html-css-javascript-tutorial-source-code">Calculator</a></td>
-        <td>
-        This link helps you to create using HTML, CSS, JS. This project mainly focuses on logic using JS, and also forces you to sharpen you logical thinking skills.
-        </td>
-      </tr>  
-      <tr>
-        <td><a href="https://codewithcurious.com/projects/create-responsive-website-using-html-css-js/">Responsive Web Page</a></td>
-        <td>This link helps you to create responsive web pages using HTML, CSS, JS.This project mainly focuses on making the web page responsive using CSS.
-        </td>
-      </tr> 
-      <tr>
-        <td><a href="https://www.geeksforgeeks.org/create-a-quiz-app-with-timer-using-html-css-and-javascript/">Quiz game</a></td>
-        <td>
-        This link helps you to create a quiz game.This project focuses more on manipulating the Document Object Model (DOM) are excellent for beginners to reinforce their understanding of how JavaScript interacts with web pages
-        </td>
-      </tr>    
-      <tr>
-        <td> <a href="https://www.geeksforgeeks.org/pacman-game-using-react/">PacMan Game</a></td>
-        <td>This game includes classic features like the maze, pellets, and ghosts, and learn some cool React stuff along the way. The game will be easy to play with arrow keys.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.geeksforgeeks.org/expense-tracker-using-react/">Expense Tracker </a></td>
-        <td>It is a web application developed using React. Its main purpose is to assist users in keeping track of their expenses.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.geeksforgeeks.org/build-a-password-generator-app-with-html-css-and-javascript/">Password Generator</a></td>
-        <td>This application will generate strong and secure passwords based on user preferences, such as password length and character types. It aims to provide a convenient tool for users to generate random passwords that are difficult to guess and enhance their online security.  </td>
-      </tr>
-       <tr>
-        <td> <a href="https://www.geeksforgeeks.org/typing-speed-tester-using-react/">Typing Speed Tester</a></td>
-        <td>Typing Speed Tester will provides a random paragraph for the user to type as accurately and quickly as possible within a fixed time limit of one minute. This application also displays the time remaining, counts mistakes calculates the words per minute and characters per minute, and updates these all dynamically in real time.   </td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">JavaScript Music Player</a></td>
-        <td>This JavaScript music player is an interactive web-based application that allows users to play audio files directly from their browser. It is built primarily using JavaScript ,React  along with HTML and CSS, to handle the user interface and the media playback.   </td>
-      </tr>
-  </table>
-
-  #### Intermediate level projects
-
-  <table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://foolishdeveloper.com/drawing-app-javascript/">Drawing App</a></td>
-        <td>
-        This link helps you understand deep JS by building a drawing app. This project is the best practice for understanding intermediate DOM elements and Events.
-        </td>
-      </tr> 
-      <tr>
-        <td><a href="https://www.geeksforgeeks.org/build-a-weather-app-in-html-css-javascript/">Weather application</a></td>
-        <td>
-        This link helps you to understand APIs and how they work in realtime. This website also teaches you the basics of Apis.
-        </td>
-      </tr>  
-     <tr>
-        <td><a href="https://www.codewithfaraz.com/content/339/build-a-simhttps://github.com/MohitSojitra/react-blog-website">Blogging Website</a></td>
-        <td>
-        This GitHub repo teachs you how to create a blogging website using HTML, CSS ,REACT. This project is very helpful for understanding the React basics and Frontend Basics. 
-        </td>
-      </tr>  
-      <tr>
-        <td><a href="https://github.com/Rohit177/Pinterest_Clone_Tailwind/blob/main/index.html">Pintrest Clone</a></td>
-        <td>This GitHub repo helps you build Pinterest Clone by using HTML and a CSS framework known as TAILWINDCSS.This project is gives you the best practice to learn Tailwindcss.
-        </td>
-      </tr> 
-      <tr>
-        <td><a href="https://github.com/harismuneer/Restaurant-Management-System">Restaurent Management System</a></td>
-        <td>
-        This GitHub repo is best for understanding how databases and website communicate with each other.
-        </td>
-      </tr>    
-  </table>
-  
-  #### Advance level projects
-
-  <table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://www.geeksforgeeks.org/real-time-chat-application-in-javascript/">Real-Time Chat Application</a></td>
-        <td>
-        This link helps you build a real time chat application by using HTML,CSS,socket i.o,Node.js. This project is very helpful in learning about how real time chatting applications like facebook,whatsapp work.
-        </td>
-      </tr> 
-      <tr>
-        <td><a href="https://github.com/YashMarmat/FullStack_Ecommerce_App/tree/main">E-Commerce Website</a></td>
-        <td>
-        This link helps Build a E-commerce website using Django as serving Backend and React as serving the Frontend of the project.
-        </td>
-      </tr>  
-     <tr>
-        <td><a href="https://medium.com/bithubph/payment-integration-with-node-js-express-request-and-paystack-api-8cebf51c1f52">Payment Website</a></td>
-        <td>
-        This article helps you to build a Payment website using node.js, express.js and Paystack API. This project helps you to understand the Backend even deeper.
-        </td>
-      </tr>  
-      <tr>
-        <td><a href="https://www.geeksforgeeks.org/stock-market-portfolio-app-using-mern-stack/">Stock Market Portfolio</a></td>
-        <td>
-        This link helps you build a stock market portfolio by using the MERN stack(MongoDB, Express.js, React.js, Node.js),Express,Node serving as Backend and React serving as Frontend for the project.
-        </td>
-      </tr> 
-      <tr>
-        <td><a href="https://github.com/arihant-jain-09/discord-clone">Discord clone</a></td>
-        <td>
-        This GitHub repo helps you build a discord clone using technologies:React, Redux, React-Router, Firebase, Material-UI, SASS, JavaScript, HTML5.
-        </td>
-      </tr>    
-  </table>
+</table>
