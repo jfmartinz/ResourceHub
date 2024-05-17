@@ -26,6 +26,7 @@
   - [SVGs](#svgs)
   - [Other Tools](#other-tools) -->
 <!-- - [UI Components](#ui-components)<br> -->
+- [Machine learning forums](#machine-learning-forums)
 - [Books](#books)<br>
 - [Communities](#communities)
   - [Reddit](#reddit)
@@ -1135,7 +1136,7 @@ to everyone - everywhere!</td>
 </tr>
   </table>
 
-### Interview
+### Machine Learning Forums
 
 > Here are valuable resources to help you excel in your web development interview. You'll find videos, articles, and more to aid your preparation.
 
@@ -1145,30 +1146,25 @@ to everyone - everywhere!</td>
         <th>Description</th>
       </tr>
       <tr>
-      <td><a href="https://youtu.be/P2-CwEljcMo?si=pZiao3MrkCucqkb3"> Web Development Interview </a></td>
+      <td><a href="https://www.reddit.com/r/MachineLearning/"> Machine learning - reddit </a></td>
       <td>Here is the short important concept which should be know for the preparation of Web development Interveiw</td>
       </tr>
       <tr>
-      <td><a href="https://youtu.be/pwLNA_LMw0c?si=Zhq4TXXUw90cyLtP">Frontend Interview Questions </a></td>
+      <td><a href="https://www.kaggle.com/discussions?search=machine+learning">Machine learning discussions - kaggle </a></td>
       <td>This is the collection of interview question which will be helpful in your learning journey.</td>
       <!-- Fixed typo from "forntend" to "Frontend" -->
       </tr>
       <tr>
-      <td><a href="https://www.freecodecamp.org/learn/project-euler/">Projecr Euler</a></td>
+      <td><a href="https://stackoverflow.com/questions/tagged/machine-learning">Machine learning Q/A - stack overflow</a></td>
       <td>Complete the programming challenges below, from the massive Project Euler archives. These will harden your algorithm and mathematics knowledge.
-
-These problems range in difficulty and, for many, the experience is inductive chain learning. That is, by solving one problem, it will expose you to a new concept that allows you to undertake a previously inaccessible problem. Can you finish them all?</td>
-
-</tr>
-<tr>
-<td><a href="https://www.freecodecamp.org/learn/coding-interview-prep/">Coding Interview Prep</a></td>
-<td>If you're looking for free coding exercises to prepare for your next job interview, we've got you covered.
-
-This section contains hundreds of coding challenges that test your knowledge of algorithms, data structures, and mathematics. It also has a number of take-home projects you can use to strengthen your skills, or add to your portfolio.</td>
-
-</tr>
-<tr>
-<td><a href="https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions">100 Days Of Frontend Interview Questions</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td><a href="https://dev.to/search?q=machine%20leanring&filters=class_name:Organization">Machine learning organisations - DEV community</a></td>
+      <td>If you're looking for free coding exercises to prepare for your next job interview, we've got you covered.
+      </tr>
+  <tr>
+<td><a href="https://community.ibm.com/community/user/ai-datascience/communities/community-home/digestviewer?CommunityKey=f1c2cf2b-28bf-4b68-8570-b239473dcbbc">Machine learning communities - IBM</a></td>
 <td>This repo will contain 500 frontend interview questions which will have HTML, CSS, Javascript & React questions. I will add not any question in which we have to write code, just theory questions.</td>
 </tr>
 <tr>
