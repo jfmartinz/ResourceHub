@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 Error Page</title>
+    <link rel="stylesheet" href="error_styles.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="container">
+            <div class="title glitch" data-text="404">404</div>
+            <div class="description glitch" data-text="PAGE NOT FOUND">PAGE NOT FOUND</div>
+        </div>
+        <div class="button-container">
+            <button class="button" onclick="returnHome()">Return Home</button>
+        </div>
+    </div>
+
+    <script>
+        function returnHome() {
+            document.body.classList.add('fade-out');
+            setTimeout(() => {
+                window.location.href = "https://github.com/jfmartinz/ResourceHub";
+            }, 200);
+        }
+    </script>
+</body>
+
+</html>
