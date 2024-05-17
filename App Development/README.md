@@ -176,6 +176,10 @@ App development refers to crafting software for diverse devices, involving plann
         <td> <a href="https://www.pluralsight.com/">Pluralsight </a></td>
         <td>Provides courses on mobile app development, frontend and backend development, and other related topics, with a subscription-based model.</td>
       </tr>
+      <tr>
+            <td><a href="https://www.udemy.com/topic/app-development/">Udemy App Development Courses</a></td>
+            <td>Udemy's app development courses provide comprehensive, hands-on training to help you build professional mobile applications from scratch.</td>
+      </tr>
   </table>
 
 ### Books
