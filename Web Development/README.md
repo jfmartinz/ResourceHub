@@ -3,7 +3,7 @@ This category is a curated collection of valuable web development resources cont
 
 ## Table of Contents
 
-- [Roadmap](roadmaps)
+- [Roadmap](roadmap)
 
   - [Front-End Development Roadmap](#front-end-roadmap)
   - [BackEnd Development Roadmap](#back-end-roadmap)
