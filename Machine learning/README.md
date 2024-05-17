@@ -1,54 +1,39 @@
-# Machine Learning 🌐
+# Machine Learning 🤖
 
 ## Table of Contents
 
 - [Overview](#overview)<br>
-
 - [Roadmap](roadmaps)
-
   - [Machine Learning Roadmap](#machine-learning)
-
 - [Tutorials or Courses](#tutorials-or-courses)
 
     - [Fundamentals of Mathematics](#fundamentals-of-mathematics)
     - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
-    - [Introduction to Machine Learning]()
+    - [Introduction to Machine Learning](#introduction-to-machine-learning)
+    - [Modules](#modules)
+
+- [Machine Learning](#steps-involved-for-machine-learning)
+  - [Data Collection](#data-collection)
+  - [Data Preparation](#data-preparation)
+  - [Model selection](#model-selection)
+  - [Model Training](#model-traning)
+  - [Model Evaluation](#model-evaluation)
+  - [Model optimizing](#model-optimization)
+  - [Model deploying](#model-deployment)
 
 - [Machine learning algorithms](#machine-learning-algorithms)
-- [Tools and Modules](#tools-and-modules)<br>
-  <!-- - [Colors](#colors)
-  - [Generators](#generators)
-  - [Icons](#icons)
-  - [Animations](#animations)
-  - [Code Playgrounds](#code-playgrounds)
-  - [Chrome extenstion](#chrome-extenstion)
-  - [Stock Photos & Videos](#stock-photos-videos)
-  - [SVGs](#svgs)
-  - [Other Tools](#other-tools) -->
-<!-- - [UI Components](#ui-components)<br> -->
-- [Machine learning forums](#machine-learning-forums)
 - [Books](#books)<br>
-- [Communities](#communities)
-  - [Reddit](#reddit)
-  - [Discord](#discord)
-  - [Facebook Groups](#facebook-groups)
-  - [X Tech Communities](#x-tech-communities)
-  - [Other Communities](#other-communities)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
-- [Youtube Channels](#youtube-channels)<br>
-<!-- - [Games](#games)<br>
-- [Interview](#interview)<br>
-- [Challenges](#challenges)<br> -->
-<!-- - [Best Practices](#best-practices) -->
+- [Youtube Channels](#youtube-channels)
+- [Machine learning forums](#machine-learning-forums)
+- [courses](#courses)
 - [Projects](#projects)
-  <!-- - [Beginner level](#beginner-level-projects)
-  - [Intermediate level](#intermediate-level-projects)
-  - [Advanced level](#advance-level-projects) -->
+
 
 ### Overview
 
-This category is a curated collection of valuable Machine learning resources contributed by amazing contributors. Here, you will find a wide range of materials and information which increases your understanding of machine learning.
+This category is a collection of valuable Machine learning resources for any beginner. Here, you will find a wide range of materials and information which increases your understanding of machine learning.
 
 ### Roadmap
 
@@ -126,6 +111,23 @@ This category is a curated collection of valuable Machine learning resources con
         <td>
         This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
     </tr>
+     <tr>
+        <td><a href="https://realpython.com/jupyter-notebook-introduction/">Jupyter Notebook</a></td>
+        <td>
+        This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
+    </tr>
+</table>
+
+
+#### Modules
+
+> Explore an amazing set of web development tools for working with text, images, icons, colors, extensions, and much more.
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
     <tr>
         <td><a href="https://numpy.org/doc/stable/user/absolute_beginners.html">Numpy</a></td>
         <td>
@@ -141,13 +143,22 @@ This category is a curated collection of valuable Machine learning resources con
         <td>
         This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
     </tr>
-     <tr>
-        <td><a href="https://realpython.com/jupyter-notebook-introduction/">Jupyter Notebook</a></td>
-        <td>
-        This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
+    <tr>
+      <td ><a href="https://www.tensorflow.org/tutorials">Tensorflow</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
     </tr>
-
-
+    <tr>
+      <td ><a href="https://pytorch.org/tutorials/">Pytorch</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://keras.io/getting_started/">Keras</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://scikit-learn.org/stable/tutorial/index.html">Scikit-learn</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
 </table>
 
 #### Introduction to Machine Learning
@@ -173,6 +184,157 @@ This category is a curated collection of valuable Machine learning resources con
       <td><a href="https://www.w3schools.com/tutorials/">w3schools Tutorials</a></td>
       <td>Free Tutorials covering all aspects of web development and programming.</td>
   </tr>
+</table>
+
+### Steps involved for machine learning
+
+> These are the steps involved in building a machine learning model.
+
+#### Data Collection
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+      <td ><a href="https://waverleysoftware.com/blog/data-collection-for-machine-learning-guide/">Data collection - guide</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://youtu.be/m1dQ38qDABw">Introduction to Data collection</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://youtu.be/4ub10unSjro">Data collection - video</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+</table>
+
+#### Data Preparation
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+      <td ><a href="https://youtu.be/iMRE4e99NzA">Introduction to Data Preparation</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/#:~:text=You%20discovered%20a%20three%20step%20framework%20for%20data,features%20using%20scaling%2C%20attribute%20decomposition%20and%20attribute%20aggregation.">Data Preparation - article</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://developers.google.com/machine-learning/data-prep/">Data Preparation by Google developers</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+</table>
+
+#### Model Selection
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+      <td ><a href="https://machinelearningmastery.com/a-gentle-introduction-to-model-selection-for-machine-learning/">Introduction to Model selection</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://youtu.be/r-Mc8YswoCE">Model selection process</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://youtu.be/SF0YdBXjr_A">Model selection - video</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+</table>
+
+#### Model Training
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+      <td ><a href="https://www.projectpro.io/article/training-a-machine-learning-model/936">Introduction to Model training </a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://youtu.be/X_XpOk1miIY">Model training by Edureka</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://youtu.be/_N8RXm2QrrM">Model training by Microsoft Azure</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+</table>
+
+#### Model Evaluation
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+      <td ><a href="https://www.geeksforgeeks.org/machine-learning-model-evaluation/">Introduction to Model Evaluation </a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://medium.com/analytics-vidhya/model-evaluation-metrics-in-machine-learning-928999fb79b2">Model Evaluation - Article</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://youtu.be/LbX4X71-TFI">Model Evaluation - Video</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+</table>
+
+#### Model Optimization
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+      <td ><a href="https://www.aporia.com/learn/machine-learning-model/machine-learning-optimization-basics-7-essential-techniques/#:~:text=Machine%20learning%20optimization%20is%20the%20process%20of%20fine-tuning,to%20improve%20its%20performance%20on%20a%20specific%20task.">Introduction to Model Optimization </a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://towardsdatascience.com/understanding-optimization-algorithms-in-machine-learning-edfdb4df766b">Model Optimization - Article</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://youtu.be/x6f5JOPhci0">Model Optimization - Video</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+</table>
+
+#### Model Deployment
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+      <td ><a href="https://builtin.com/machine-learning/model-deployment">Introduction to Model Deployment - Article</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://towardsdatascience.com/ml-model-deployment-strategies-72044b3c1410">Model Deployment Strategies </a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://youtu.be/WZ7vS10KPAw">Model Deployment by Microsoft Azure</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
 </table>
 
 ### Machine Learning Algorithms
@@ -220,655 +382,11 @@ This category is a curated collection of valuable Machine learning resources con
     </tr>
 </table>
 
-### Tools and Modules
-
-> Explore an amazing set of web development tools for working with text, images, icons, colors, extensions, and much more.
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-      <td ><a href="https://www.fontpair.co/">Fontpair</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
-    </tr>
-</table>
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-      <td ><a href="https://www.fontpair.co/">Fontpair</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
-    </tr>
-   <tr>
-        <td><a href="https://www.fontsquirrel.com/">Font Squirrel</a></td>
-        <td>Font Squirrel offers a variety of free fonts for web use. You can also use their web font generator to create custom font kits for your site.</td>
-    </tr>
-    <tr>
-        <td><a href="https://fonts.google.com/">Google Fonts</a></td>
-        <td>Google Fonts offers a vast collection of free, open-source fonts for web projects. You can easily integrate these fonts into your website using CSS.</td>
-    </tr>
-    <tr>
-        <td><a href="https://fonts.adobe.com/">Adobe Fonts</a></td>
-        <td>Adobe Fonts provides access to a large library of high-quality fonts that you can use for web design. It's a paid service but offers excellent font customization options.</td>
-    </tr>
-    <tr>
-       <tr>
-        <td><a href="https://www.dafont.com/">DaFont</a></td>
-        <td>DaFont is a popular resource for free fonts, offering a wide range of styles. It's great for personal and non-commercial projects.</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.myfonts.com/">MyFonts</a></td>
-        <td>MyFonts is a marketplace for commercial fonts, offering a vast selection of high-quality fonts for both web and print projects.</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.typewolf.com/">Typewolf</a></td>
-        <td>Typewolf is a website that showcases beautiful typography in web design. It provides inspiration and identifies the fonts used in various web designs.</td>
-    </tr>
-    <tr>
-        <td><a href="https://fontjoy.com/">Fontjoy</a></td>
-        <td>Fontjoy is a tool that helps you discover font pairings and experiment with typography combinations for your design projects.</td>
-    </tr>
-    <tr>
-        <td><a href="https://fontlibrary.org/">Font Library</a></td>
-        <td>Font Library offers a collection of high-quality, open-source fonts that can be used in web design. You can browse and download fonts for free.</td>
-    </tr>
-        <tr>
-        <td><a href="https://www.fontsmarket.com/">FontsMarket</a></td>
-        <td>FontsMarket provides a collection of free and premium fonts for web and print use. You can explore fonts by style, category, and more.</td>
-    </tr>
-
-</table>
-
-#### Colors
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td> <a href="https://palettemaker.com/">Palettemaker</a></td>
-        <td>Create unique color schemes with AI and see them come to life on real design examples.</td>
-    </tr>
-  <tr>
-        <td> <a href="https://coolors.co/">Coolors</a></td>
-        <td>Coolors is a fast and easy-to-use color scheme generator that helps you find beautiful color combinations for your web projects.</td>
-    </tr>
-  <tr>
-        <td> <a href="https://flatuicolors.com/">FlatUIColors</a></td>
-        <td>This resource provides a collection of flat and trendy colors that work well for modern web design.</td>
-        <!-- Closing td tag was not propely closed: Changes made! -->
-    </tr>
-    <tr>
-      <td><a href="https://realtimecolors.com">Realtime Colors</a></td>
-      <td>Visualize color palettes and fonts on a real website.</td>
-    </tr>
-     <tr>
-        <td> <a href="https://colorhunt.co/">Color Hunt</a></td>
-        <td>Color Hunt is a collection of beautiful color palettes. You can browse and pick palettes to use in your web designs, making color selection a breeze.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://mycolor.space/">MyColor</a></td>
-        <td>MyColor is a color palette generator that helps you create beautiful color schemes and gradients. It provides a user-friendly interface for color selection.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.colorzilla.com/gradient-editor/">ColorZilla Gradient Editor</a></td>
-        <td>ColorZilla's Gradient Editor allows you to create and customize CSS gradients with ease. You can experiment with gradient styles and copy the CSS code for your website.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.materialpalette.com/">Material Palette</a></td>
-        <td>Material Palette helps you choose colors that follow Google's Material Design guidelines. You can create palettes with primary and accent colors for a consistent look.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://paletton.com/">Paletton</a></td>
-        <td>Paletton is a color scheme designer that allows you to create color palettes with various color combinations and preview them in real-time. It's helpful for web and graphic designers.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.color-hex.com/color-palettes/">Color Hex - Palettes</a></td>
-        <td>Color Hex offers a collection of color palettes for inspiration. You can explore different color combinations and find the perfect palette for your web project.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://imagecolorpicker.com/">Image Color Picker</a></td>
-        <td>Image Color Picker is a tool that helps you extract colors from images. Simply upload an image, and it will identify and provide the color codes used in the image.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.webfx.com/web-design/color-schemes/">WebFX Color Scheme Generator</a></td>
-        <td>WebFX's Color Scheme Generator allows you to create cohesive color schemes for your web design projects by selecting a base color and generating matching colors.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://color-picker.dllplayer.com/">Color Picker</a></td>
-        <td>This software extension allows you to pick colors from any web pages, color picker to get pixel code, rgb value of any image on the website you're browsing.</td>
-    </tr>
-    <tr>
-        <td><a href="https://hypercolor.dev/">Hypercolor</a></td>
-        <td>A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors. Easily copy and paste the class names, CSS or even save the gradients as an image.</td>
-    </tr>
-    <tr>
-        <td><a href="https://tailwindcomponents.com/gradient-generator/">Tailwind CSS Gradient Generator</a></td>
-        <td>Mix Tailwind CSS Colors and generate stunning text and background gradients or use our ready-made gradients to create remarkable designs.</td>
-    </tr>
-
-</table>
-
-#### Generators
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td> <a href="https://www.cssportal.com/css-flexbox-generator/">CSS Portal</a></td>
-        <td>CSS Portal is home to many examples of CSS / HTML and how it can be used in website design.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius Generator</a></td>
-        <td>A visual generator to build organic looking shapes with the help of CSS3 border-radius property.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://markodenic.com/tools/glassmorphism-css-generator/">Glassmorphism CSS Generator</a></td>
-        <td>Glassmorphism CSS Generator</td>
-    </tr>
-    <tr>
-        <td> <a href="https://neumorphism.io/#e0e0e0">Neumorphism.io</a></td>
-        <td>CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its possibilities.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://cssgradient.io/">CSS Gradient</a></td>
-        <td>CSS Gradient is a tool that helps you create beautiful CSS gradients for your web projects with a simple and intuitive interface.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://markodenic.com/tools/buttons-generator/">Buttons Generator</a></td>
-        <td>CSS button generator is a free online tool you can use to create CSS button styles in one click.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://cssgrid-generator.netlify.app/">CSS Grid Generator</a></td>
-        <td>built with by sarah_edo. Columns. Rows. Column Gap (in px). Row Gap (in px). Please may I have some code. Reset grid.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://www.gradient-animator.com/">Gradient Animator</a></td>
-        <td>Gradient Animator is a tool that helps you create and animate CSS gradients. You can generate dynamic and eye-catching gradient animations for your website backgrounds or elements.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://cubic-bezier.com/">Cubic Bezier Generator</a></td>
-        <td>This tool allows you to create and fine-tune cubic bezier easing functions for CSS transitions and animations, ensuring smooth and customized motion on your website.</td>
-    </tr>
-       <tr>
-        <td> <a href="https://css3gen.com/text-shadow/">CSS3Gen - Text Shadow Generator</a></td>
-        <td>CSS3Gen's Text Shadow Generator enables you to create and fine-tune text shadow effects for web typography, helping you enhance the visual appeal of your website's text elements.</td>
-    </tr>
-       <tr>
-        <td> <a href="https://www.mockaroo.com/">Mockaroo</a></td>
-        <td>Mockaroo is a data generator that helps you create realistic test data for your web applications. It's useful for testing and development purposes.</td>
-    </tr>
-     <tr>
-        <td> <a href="https://cssmatic.com/box-shadow">CSSmatic - Box Shadow Generator</a></td>
-        <td>CSSmatic's Box Shadow Generator enables you to create and customize CSS box shadow effects with a visual interface, allowing you to control shadows on web elements.</td>
-    </tr>
-     <tr>
-        <td> <a href="https://favicon.io/">Favicon.io</a></td>
-        <td>The only favicon generator you need for your next project. Quickly generate your favicon from text, image, or choose from hundreds of emojis.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://www.favicon-generator.org/">Favicon Generator</a></td>
-        <td>This online tool helps you generate favicons for your website. Favicons are small icons that appear in the browser tab, making your site easily identifiable to users.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://www.blobmaker.app/">Blob Maker</a></td>
-        <td>Blob Maker is a tool that helps you create unusual shapes easily. With Blob Maker, you can experiment with different shapes, colors, and sizes to create eye-catching designs. You can copy and download the SVG file of the shapes you create, making it easy to integrate them into your web projects.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://getwaves.io/">Getwaves</a></td>
-        <td>Getwaves is a CSS generator that helps you create unique wave shapes for your web pages. With Getwaves, you can customize the wave’s amplitude, frequency, and color to match your website’s design. You can also copy and download the SVG file of the waves you create.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://hype4.academy/tools/glassmorphism-generator">Glassmorphism</a></td>
-        <td>Glassmorphism is another design trend that creates a frosted glass effect on elements. With Glassmorphism.com, you can customize the blur, opacity, and color of the glass effect and generate CSS code for your designs.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://cssgenerator.org/box-shadow-css-generator.html">CSS Glow Generator</a></td>
-        <td>CSS Glow Generator is a tool that helps you generate CSS code for a box-shadow effect. With CSS Glow Generator, you can quickly generate box-shadow CSS declarations for your website. You can customize the blur, spread, color, and position of the glow effect to match your website’s design.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://css3generator.com/">CSS3 Generator</a></td>
-        <td>CSS3 Generator is a website that provides many useful CSS generators to demonstrate various CSS properties. With CSS3 Generator, you can experiment with CSS code for border-radius, text-shadow, box-shadow, and many other CSS properties.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://cssgenerator.org/filter-css-generator.html">CSS Filter Generator</a></td>
-        <td>CSS Filter Generator is a tool that helps you create and visualize images with different CSS filters applied to them. With CSS Filter Generator, you can experiment with filters like blur, brightness, contrast, and many others to create unique effects for your website.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://bennettfeely.com/clippy/">Clip Path Maker</a></td>
-        <td>Clip Path Maker is a CSS generator that helps you create complex shapes with the clip-path property. With Clip Path Maker, you can create shapes like triangles, circles, polygons, and many others by adjusting the clip-path parameters.</td>
-    </tr>
-</table>
-
-#### Icons
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><a href="https://boxicons.com/">Boxicons</a></td>
-        <td>Boxicons is a free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.</td>
-    </tr>
-  <tr>
-        <td><a href="https://fontawesome.com/">Fontawesome</a></td>
-        <td>FontAwesome is a popular icon library that offers a wide range of scalable vector icons that can be easily customized for your web projects.
-
-</td>
-    </tr>
-    <tr>
-        <td><a href="https://fonts.google.com/icons">Material Icons</a></td>
-        <td> Google's Material Icons is a comprehensive collection of icons designed according to Material Design guidelines.</td>
-    </tr>
-   <tr>
-        <td><a href="https://www.flaticon.com/">Flaticon</a></td>
-        <td>Flaticon offers a vast collection of free and premium icons, including vector icons and customizable sets for your design projects.</td>
-    </tr>
-   <tr>
-        <td><a href="https://www.iconfinder.com/">Iconfinder</a></td>
-        <td>Iconfinder is a comprehensive platform for discovering and downloading high-quality icons. It offers both free and premium icon sets.</td>
-    </tr>
-      <tr>
-        <td><a href="https://icons8.com/">Icons8</a></td>
-        <td>Icons8 offers a diverse collection of icons, including a free library and a paid service for customizable and vector icons.</td>
-    </tr>
-       <tr>
-        <td><a href="https://www.iconmonstr.com/">Iconmonstr</a></td>
-        <td>Iconmonstr provides a simple and clean collection of free, high-quality icons that you can download without attribution.</td>
-    </tr>
-      <tr>
-        <td><a href="https://thenounproject.com/">The Noun Project</a></td>
-        <td>The Noun Project is a platform dedicated to symbols and icons. It offers both free and paid icons for various design purposes.</td>
-    </tr>
-     <tr>
-        <td><a href="https://feathericons.com/">Feather Icons</a></td>
-        <td>Feather Icons is a collection of simply designed, open-source icons that are easy to customize and use in your web projects.</td>
-    </tr>
-       <tr>
-        <td><a href="https://www.iconshock.com/">Iconshock</a></td>
-        <td>Iconshock provides a wide range of premium and free icons, including icon packs, vector icons, and more for design projects.</td>
-    </tr>
-      <tr>
-        <td><a href="https://www.iconsdb.com/">Icons DB</a></td>
-        <td>Icons DB offers a library of high-quality, free icons in various styles and formats that you can download and use in your projects.</td>
-    </tr>
-        <tr>
-        <td><a href="https://icon-icons.com/">Icon Icons</a></td>
-        <td>Icon Icons offers a selection of free and premium icons, including SVG, PNG, and more formats for design and development.</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.iconshock.com/">IconArchive</a></td>
-        <td>IconArchive is a vast resource for free icons and icon sets. It also provides icon-related articles and tutorials.</td>
-    </tr>
-      <tr>
-        <td><a href="https://icons8.com/line-awesome">Line Awesome</a></td>
-        <td>Line Awesome is an open-source icon set designed to be a replacement for Font Awesome. It's perfect for web projects.</td>
-    </tr>
-      <tr>
-        <td><a href="https://www.iconbros.com/">IconBros</a></td>
-        <td>IconBros offers a collection of free and premium icons that are easy to customize, making them suitable for various design projects.</td>
-    </tr>
-       <tr>
-        <td><a href="https://freeicons.io/">Freeicons</a></td>
-        <td>Get the best icons at Freeicons. We have a huge selection of high quality icons available for download in various formats such as PNG, SVG,EPS and vector.</td>
-    </tr>
-      <tr>
-        <td><a href="https://lucide.dev/icons/">Lucide</a></td>
-        <td>Designed with a strict set of design rules for consistency in style and readability.</td>
-    </tr>
-</table>
-
-#### Animations
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td> <a href="https://animista.net/play/basic/slide-bck">Animista</a></td>
-        <td>Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations.</td>
-    </tr>
-     <tr>
-        <td> <a href="https://animate.style/">Animate CSS</a></td>
-        <td>Animate.css is a popular library for adding ready-made CSS animations to your projects. You can learn from its examples and documentation.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://keyframes.app/">Keyframes.app</a></td>
-        <td>An easy way to create CSS animations, box-shadows, colors, and more. Use the visual editors to adjust properties and watch the changes live as you make them. Then, instantly get the generated CSS to use in your projects. In addition to its core features, Keyframes is completely free, private and open source.</td>
-    </tr>
-        <tr>
-        <td> <a href="https://greensock.com/gsap/">GreenSock Animation Platform (GSAP)</a></td>
-        <td>GSAP is a powerful JavaScript animation library that allows you to create high-performance, smooth animations for web projects.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://animejs.com/">Anime.js</a></td>
-        <td>Anime.js is a lightweight JavaScript animation library that enables you to create simple to complex animations with ease.</td>
-    </tr>
-     <tr>
-        <td> <a href="https://lottiefiles.com/">LottieFiles</a></td>
-        <td>LottieFiles is a platform for using and sharing animations made with Adobe After Effects as JSON files in web projects.</td>
-    </tr>
-     <tr>
-        <td> <a href="https://wowjs.uk/">WOW.js</a></td>
-        <td>WOW.js is a JavaScript library for creating scroll-triggered animations. It allows you to animate elements as they enter the viewport, adding a touch of interactivity to your website.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.scrollmagic.io/">ScrollMagic</a></td>
-        <td>ScrollMagic is a JavaScript library for creating scroll-based animations. It allows you to trigger animations as users scroll down a webpage, adding interactive effects to your site.</td>
-    </tr>
-
-</table>
-
-#### Code Playgrounds
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><a href="https://codepen.io/">Code Pen</a></td>
-        <td>CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.</td>
-    </tr>
-    <tr>
-        <td><a href="https://jsfiddle.net/">JSFiddle</a></td>
-        <td>JSFiddle is an online JavaScript and frontend code editor that allows you to test and share code snippets with others. It supports HTML, CSS, and various JavaScript libraries.</td>
-    </tr>
-    <tr>
-        <td><a href="https://jsbin.com/?html,css,output">JS Bin</a></td>
-        <td>JS Bin is a collaborative JavaScript debugging tool. It's simple to use and provides a live preview of your HTML, CSS, and JavaScript code.</td>
-    </tr>
-    <tr>
-        <td><a href="https://replit.com/">Replit</a></td>
-        <td>Replit offers an online development environment for a wide range of programming languages, making it suitable for both frontend and backend development. It also provides collaborative features.</td>
-    </tr>
-    <tr>
-        <td><a href="https://codesandbox.io/">CodeSandbox</a></td>
-        <td>While primarily known for frontend development, CodeSandbox also offers support for building Node.js applications, making it a suitable choice for backend development in JavaScript.</td>
-    </tr>
-    <tr>
-        <td><a href="https://stackblitz.com/">StackBlitz</a></td>
-        <td>StackBlitz is an online IDE for web development that allows you to create Angular, React, and Vue.js projects in the browser.</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.programiz.com">Programiz</a></td>
-        <td>AN online IDE that allows you to write and test codes in numerous languages like python, HTML, java, javascript, etc.</td>
-    </tr>
-</table>
-
-#### Chrome extenstion
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi">Pesticide for Chrome</a></td>
-        <td>This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm">Web Developer</a></td>
-        <td>The Web Developer extension is a versatile tool that allows you to inspect and edit CSS in real-time, among many other web development tasks.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc">VisBug</a></td>
-        <td>VisBug is a powerful extension for visually manipulating and tweaking CSS styles directly on a web page. It's great for learning by experimentation.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp">ColorZilla</a></td>
-        <td>While primarily a color picker tool, ColorZilla also offers a CSS gradient generator and other useful CSS-related features.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk">CSS Peeper</a></td>
-        <td>CSS Peeper allows you to inspect and analyze the styles of a webpage, making it easier to learn from other websites' designs.</td>
-   </tr>
-   <tr>
-        <td> <a href="https://www.wappalyzer.com/">Wappalyzer</a></td>
-        <td>Wappalyzer is a browser extension that helps you discover the technologies used on websites. It identifies CMS, web frameworks, and more.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.lastpass.com/">LastPass</a></td>
-        <td>LastPass is a popular password manager and security extension for managing your online accounts and passwords securely.</td>
-    </tr>
-       <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm">WhatFont</a></td>
-        <td>WhatFont enables you to easily identify the fonts used on a web page by simply hovering over the text.</td>
-    </tr>
-     <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc">Octotree</a></td>
-        <td>Octotree is a GitHub code tree extension that offers a convenient way to navigate and search through GitHub repositories.</td>
-    </tr>
-       <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa">JSON Formatter</a></td>
-        <td>JSON Formatter makes reading JSON data more user-friendly by formatting it in a tree view.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg">User-Agent Switcher</a></td>
-        <td>User-Agent Switcher helps you change your user-agent to simulate different browsers and devices for testing responsive designs.</td>
-    </tr>
-     <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc">SEOquake</a></td>
-        <td>SEOquake provides a wide range of SEO tools for analyzing web pages, including on-page SEO parameters, keyword density, and more.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn">BuiltWith Technology Profiler</a></td>
-        <td>This extension helps you discover the technology stack used on a website, including frameworks, CMS, and other web technologies.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh">Visual CSS Style Editor</a></td>
-        <td>Visual CSS Style Editor allows you to visually edit the CSS styles of any webpage. You can modify and preview changes in real-time.</td>
-    </tr>
-</table>
-
-#### Stock Photos Videos
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-      <tr>
-        <td> <a href="https://www.unsplash.com/">Unsplash</a></td>
-        <td>Unsplash is a popular platform for high-quality, free-to-use photos and images. It's a go-to resource for web designers and developers looking for stunning visuals.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.pexels.com/">Pexels</a></td>
-        <td>Pexels offers a vast library of free stock photos and videos. It's a valuable resource for finding visual content for web projects.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.shutterstock.com/">Shutterstock</a></td>
-        <td>Shutterstock is a well-known platform that provides a wide range of stock photos, videos, and illustrations. It offers both free and premium content.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.pixabay.com/">Pixabay</a></td>
-        <td>Pixabay is a repository of free images, photos, and videos. It's a great resource for finding creative commons-licensed visuals for web projects.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.videvo.net/">Videvo</a></td>
-        <td>Videvo offers a selection of free stock videos, motion graphics, and music. It's a valuable resource for web developers looking to enhance their projects with video content.</td>
-    </tr>
-          <tr>
-        <td> <a href="https://www.vecteezy.com/">Vecteezy</a></td>
-        <td>Choose from over a million free vectors, clipart graphics, vector art images, design templates, and illustrations created by artists worldwide!</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.freepik.com/">Freepik</a></td>
-        <td>Turn ideas into outstanding designs with high-quality vectors, photos, videos, mockups, and more</td>
-    </tr>
-</table>
-
-#### SVGs
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td> <a href="https://www.svgviewer.dev/">SVG Viewer</a></td>
-        <td>SVG Viewer allows you to view and inspect SVG files in a user-friendly interface, making SVG debugging and optimization easier.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.heropatterns.com/">Hero Patterns</a></td>
-        <td>Hero Patterns is a collection of repeatable SVG background patterns for you to use in your web projects.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.svgbackgrounds.com/">SVG Backgrounds</a></td>
-        <td>SVG Backgrounds offers a vast library of customizable SVG backgrounds for your web designs, providing a modern and visually appealing touch.</td>
-    </tr>
-    <tr>
-      <td><a href="https://haikei.app">Haikei</a></td>
-      <td>Generate unique SVG design assets.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://undraw.co/">UnDraw</a></td>
-        <td>UnDraw provides a selection of customizable SVG illustrations that you can use to add a unique touch to your web designs.</td>
-    </tr>
-       <tr>
-        <td> <a href="https://www.humaaans.com/">humaaans</a></td>
-        <td>humaaans is a resource for customizable human illustrations in SVG format. You can mix and match elements to create unique characters for your web projects.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.manypixels.co/gallery">ManyPixels Illustrations</a></td>
-        <td>ManyPixels Illustrations offers a selection of SVG illustrations and images that you can use to enhance your website or app designs.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://lukaszadam.com/illustrations">Lukasz Adam Illustrations</a></td>
-        <td>Lukasz Adam provides a collection of high-quality, hand-drawn SVG illustrations for free, which you can use in various web and design projects.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://storyset.com/">Storyset</a></td>
-        <td>Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor.</td>
-    </tr>
-        <tr>
-        <td> <a href="https://www.svgminify.com/">SVG Minify</a></td>
-        <td>SVG Minify is an online tool for minimizing the size of SVG files. It optimizes SVGs for the web by removing unnecessary metadata and whitespace.</td>
-    </tr>
-        <tr>
-        <td> <a href="https://www.svgrepo.com/">SVGRepo</a></td>
-        <td>SVGRepo is a collection of high-quality SVGs that you can download and use for free. It's a convenient resource for finding SVG icons and graphics.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://svgsprit.es/">SVG Sprit.es</a></td>
-        <td>SVG Sprit.es is a tool for creating SVG sprites. It helps you consolidate multiple SVG icons into a single sprite, reducing HTTP requests and improving performance.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.svgo.com/">SVGO</a></td>
-        <td>SVGO is a Node.js-based tool for optimizing SVG files. You can use it to reduce the size of SVGs, remove unnecessary data, and improve website loading times.</td>
-    </tr>
-        <tr>
-        <td> <a href="https://www.svgviewer.dev/">SVG.js</a></td>
-        <td>SVG.js is a JavaScript library for manipulating and animating SVG. It provides a simple and efficient way to work with SVG graphics in web development.</td>
-    </tr>
-
-   <tr>
-        <td> <a href="https://www.toptal.com/designers/subtlepatterns/">Subtle Patterns</a></td>
-        <td>Subtle Patterns offers a collection of subtle and seamless background patterns that you can use to enhance the design of your websites.</td>
-    </tr>
-</table>
-
-#### Other Tools
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td> <a href="https://overapi.com/">Over API</a></td>
-        <td>overapi. com is a site collecting all the cheatsheets,all! Computers Electronics and Technology-> Programming and Developer Software.</td>
-    </tr>
-</table>
-
-### UI Components
-
-> Explore a variety of UI components and ready-to-use code snippets to enhance your project.
-
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-    <tr>
-        <td> <a href="https://tailwindui.com/">Tailwind UI</a></td>
-        <td>Build your next idea even faster. Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.</td>
-    </tr>
-      <tr>
-      <td><a href="https://semantic-ui.com/">Semantic UI</td>
-      <td>Semantic UI is an open-source framework that uses CSS and jQuery to build great user interfaces. It is the same as a bootstrap for use and has different great elements to use to make your website look more amazing. It uses a class to add CSS to the elements.</td>
-      <!-- Fixed typo from " great different elements" to "different great elements" -->
-      </tr>
-      <tr>
-      <td><a href="https://uiverse.io/">Uiverse</td>
-      <td>Universe of UI; Hundreds of Open Source UI elements.</td>
-      </tr>
-      <tr>
-      <td><a href="https://ant.design/">Ant Design</td>
-      <td>An enterprise-class UI design language and React UI library with a set of high-quality React components, one of best React UI library for enterprises.</td>
-      </tr>
-      <tr>
-      <td><a href="https://mantine.dev/">Mantine</td>
-      <td>Build fully functional accessible web applications faster than ever – Mantine includes more than 100 customizable components and 50 hooks to cover you in any situation</td>
-      </tr>
-      <tr>
-      <td><a href="https://mui.com/">Material UI</td>
-      <td>MUI offers a comprehensive suite of free UI tools to help you ship new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
-  </td>
-      </tr>
-      <tr>
-      <td><a href="https://www.30secondsofcode.org/">30-seconds-of-code</td>
-      <td>Discover short code snippets for all your development needs.</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.w3schools.com/howto/">W3Schools How To</td>
-      <td>Code snippets for HTML, CSS and JavaScript.</td>
-      </tr>
-      <tr>
-      <td><a href="https://element.eleme.io/#/en-US">Eleme.io</td>
-      <td>A Desktop UI Library. Element, a Vue 2.0 based component library for developers, designers and product managers</td>
-      </tr>
-        <tr>
-        <td> <a href="https://foundation.zurb.com/">Foundation</a></td>
-        <td>Foundation is a responsive front-end framework that provides a range of UI components, including a responsive grid system, forms, and navigation menus.</td>
-    </tr>
-       <tr>
-        <td> <a href="https://www.sitepoint.com/">SitePoint</a></td>
-        <td>SitePoint offers a collection of web development tutorials, articles, and code snippets, covering a wide range of UI and front-end development topics.</td>
-    </tr>
-      <tr>
-        <td> <a href="https://www.smashingmagazine.com/">Smashing Magazine</a></td>
-        <td>Smashing Magazine is a well-known resource for web designers and developers, providing articles, tutorials, and code snippets for building creative and effective UI components.</td>
-    </tr>
-    <tr> 
-        <td> <a href="https://flowbite.com/">Flowbite</a></td>
-        <td>Flowbite is an ecosystem built on top of Tailwind CSS including a component library, block sections, a Figma design system and other resources.</td>
-    </tr>
-    <tr>
-        <td> <a href="https://ui.aceternity.com/">Aceternity UI</a></td>
-        <td>Replicate the most trending components  in your websites without having to worry about styling and animations.
-        </td>
-    </tr>
-
-</table>
 
 ### Books
 
 > Discover a diverse collection of valuable books for Machine Learning.
 
-<!--
-a) If the book is free, include a download link.
-b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. -->
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -898,95 +416,6 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
 ### Communities
 
 > Discover communities where you can learn and network while studying web development. These communities may include Discord servers, Reddit communities, Facebook groups, Twitter, and more.
-
-#### Discord
-
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td> <a href="https://discord.gg/kevin-powell-community-436251713830125568">Kevin Powel - Community</a></td>
-        <td>A friendly place for developers to meet
-other devs, ask questions, get help, and
-just have a good time</td>
-      </tr>
-      <tr>
-        <td> <a href="https://discord.com/invite/BFuauYEQQY">ASAP Frontend</a></td>
-        <td>Learn to Code and Become a Professional Software Engineer ASAP</td>
-      </tr>
-      <tr>
-        <td> <a href="https://discord.gg/w3schools">W3school</a></td>
-        <td>On a quest to make learning available
-to everyone - everywhere!</td>
-      </tr>
-      <tr>
-        <td> <a href="https://discord.com/invite/kx7pk6J">#FrontEndDevelopers</a></td>
-        <td>#frontendDevelopers is now a Discord community for creative developers to exchange information, ask and answer questions, share work, and find gigs.</td>
-      </tr> 
-      <tr>
-        <td> <a href="https://discord.com/invite/kPbSdNZEer">The Programmer's Hangout</a></td>
-        <td>The Programmer's Hangout (TPH) is a discord community geared towards programming. The use of the word "geared" here is important because more accurately it's a discord for programmers of all kinds. If you're a green noob with 5 lines of code under your belt, or if you're a veteran with 15 years of industry experience, TPH has a place for you. More than that, there are over 90,000 people here. You can guarantee you won't be the only person with your experience level on the server.</td>
-      </tr>
-</table>
-
-#### Reddit
-
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td> <a href="https://www.reddit.com/r/Frontend/">r/Frontend/</a></td>
-        <td>/r/frontend is a subreddit for front end web developers who want to move the web forward or want to learn how. If you're looking to find or share the latest and greatest tips, links, thoughts, and discussions on the world of front web development, this is the place to do it.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.reddit.com/r/webdev/">r/webdev/</a></td>
-        <td>A community dedicated to all things web development: both front-end and back-end. For more design-related questions, try /r/web_design.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.reddit.com/r/Frontend/">r/Frontend</a></td>
-        <td>/r/frontend is a subreddit for front end web developers who want to move the web forward or want to learn how. If you're looking to find or share the latest and greatest tips, links, thoughts, and discussions on the world of front web development, this is the place to do it.</td>
-      </tr>
-</table>
-
-#### Facebook Groups
-
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-        <tr>
-        <td> <a href="https://www.facebook.com/groups/2749929895122316/?hoisted_section_header_type=recently_seen&multi_permalinks=6894237864024811">Learn HTML, CSS and JavaScript</a></td>
-        <td>We are trying to build a big community
-          (Group) on Facebook for helping beginner
-          programmers or those who want to start
-          programming. #Html #css and #Js</td>
-      </tr>
-      <tr>
-        <td><a href="https://web.facebook.com/groups/wwebdeveloper">Web developer</a></td>
-        <td>Web developer - a community of the best experts HTML / CSS / PHP / JAVASCRIPT ...</td>
-      </tr>
-      <tr>
-        <td><a href="https://web.facebook.com/groups/416236661724936">Web developers</a></td>
-        <td>Web Developers, HTML, CSS, JavaScript, PHP, C#, ASP .net and more. Discuss coding and jobs to funny memes. Tutorials from beginner to advanced.</td>
-      </tr>
-      <tr>
-        <td><a href="https://web.facebook.com/groups/fullstackdevelopersnetwork">Full Stack Developers / DevOps / Software Designers and Architects</a></td>
-        <td>A community of professional developers from every background.
-        We are here to discuss issues or problems related to all the software development phases that includes planning, designing, architecture, patterns, UI/API/DB development, deployment, continuous integration etc.</td>
-      </tr>
-      <tr>
-        <td><a href="https://web.facebook.com/groups/advfrontenddevs">Advanced Front-End Developers (ReactJS)</a></td>
-        <td>This group focuses on expanding knowledge by filtering beginner questions and assuming a minimum of 2 years of experience in JavaScript front-end development, specifically ReactJS.</td>
-      </tr>
-      <tr>
-        <td><a href="https://web.facebook.com/groups/306772026647688">Javascript Developers</a></td>
-        <td>This group is all about JavaScript questions answers new tricks coding skills development JavaScript new frameworks tutorials and all Angularjs, ReactJs, NodeJs & all</td>
-</table>
 
 ### Datasets
 
@@ -1093,49 +522,6 @@ to everyone - everywhere!</td>
       </tr>
   </table>
 
-### Games
-
-> Learn web development by playing games! Here, you can find a good resources for mastering web development through playing games.
-
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td> <a href="http://www.flexboxdefense.com/">Flexbox Defense</a></td>
-        <td>Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!</td>
-      </tr>
-      <tr>
-        <td> <a href="https://flexboxfroggy.com/">Flexbox Froggy</a></td>
-        <td>Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code!</td>
-      </tr>
-      <tr>
-        <td> <a href="https://cssgridgarden.com/">Grid Garden</a></td>
-        <td>Welcome to Grid Garden, where you write CSS code to grow your carrot garden! Water only the areas that have carrots by using the grid-column-start property. </td>
-      </tr>
-       <tr>
-        <td> <a href="https://www.codemonkey.com/">Code Monkey</a></td>
-        <td>CodeMonkey(opens in a new tab) teaches coding using CoffeeScript — a real open-source programming language that compiles to JavaScript — to teach you to build your own games in HTML5. It’s aimed at coding for kids, but it’s definitely fun for adults, too.  </td>
-      </tr>
-       <tr>
-        <td> <a href="https://www.codingame.com/start/">CodinGame</a></td>
-        <td>CodinGame(opens in a new tab) offers up fun free open-source programming games to help coders learn more than 25 programming languages, including JavaScript, Ruby, and PHP.  </td>
-      </tr>
-       <tr>
-        <td> <a href="https://robocode.sourceforge.io/">Robocode</a></td>
-        <td>If you’ve ever watched the show BattleBots, then Robocode(opens in a new tab) is for you. You’ll learn programming skills by building virtual robot battle tanks in Java or .NET. Battles are then played out onscreen in real time. </td>
-      </tr>      
-  <tr>
-   <td><a href="https://flukeout.github.io/">CSS Diner</a></td>
-   <td>The CSS Diner webapp is really fun and genuinely educational for developers of all skill levels. You’ll go through 26 different levels of increasing difficulty. The first few levels teach core fundamentals like element selectors and class selectors. In the later levels you’re working with advanced concepts like :only-of-type and :not(x).</td>
-</tr>
-<tr>
-   <td><a href="https://www.codepip.com/">Code Pip</a></td>
-   <td>Codepip is the platform for your favorite web development games. Gain an edge in your next interview or project.Create a free account to enjoy the features.</td>
-</tr>
-  </table>
-
 ### Machine Learning Forums
 
 > Here are valuable resources to help you excel in your web development interview. You'll find videos, articles, and more to aid your preparation.
@@ -1178,33 +564,6 @@ to everyone - everywhere!</td>
 
 </table>
 
-### Challenges
-
-> Discover valuable websites to enhance your coding skills, critical thinking, and problem-solving abilities.
-
-  <table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td> <a href="https://cssbattle.dev/">CSS Battle</a></td>
-        <td>The funnest multiplayer game with 300K+ web designers & developers. Replicate the target images using CSS - the shorter your code, the higher your score! Happy coding!</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.frontendmentor.io/">Frontend Mentor</a></td>
-        <td>Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://icodethis.com/">iCodeThis</a></td>
-        <td>Daily projects you can build to improve your coding skills!</td>
-      </tr>
-        <tr>
-        <td> <a href="https://www.codewars.com/">Code Wars</a></td>
-        <td>Code Wars(opens in a new tab) helps you improve your skills by training in challenges with others. They offer a huge variety of programming languages, including JavaScript, Swift, PHP, Python, Ruby, and Haskell. </td>
-      </tr>
-  </table>
-
 ### Courses
 
 > These are Some valuable resources for learning Machine learning.
@@ -1233,7 +592,7 @@ to everyone - everywhere!</td>
 
   ### Projects
 
-> These Projects help you gain real time website building exprience by building these projects.
+> These Projects help you gain real time exprience for machine learning models.
 
   #### Beginner level projects
   <table width="100%">
