@@ -19,7 +19,7 @@
 
 ## What is ResourceHub
 
-_ResourceHub_ is an Open-Source project that serves as a collection of valuable resources for Web Development, UI & UX Design, Web3, Database, Open Source Development and DevOps carefully curated by the amazing contributors in the community.
+_ResourceHub_ is an Open-Source project that serves as a collection of valuable resources for Web Development, UI & UX Design, Web3, Database, Open Source Development, App Development, Data Science and DevOps carefully curated by the amazing contributors in the community.
 
 You can contribute with helpful resources you've discovered on the internet and share them with us!
 
@@ -32,6 +32,8 @@ Here is a list of the currently available categories of the project:<br>
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
 - [Open Source Development](https://github.com/jfmartinz/ResourceHub/tree/main/Open%20Source%20Development)
 - [DevOps](https://github.com/jfmartinz/ResourceHub/tree/main/DevOps)
+- [App Development](https://github.com/jfmartinz/ResourceHub/tree/main/App%20Development)
+- [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
 
 ## How to contribute
 Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your fork of this repository before submitting any contributions.
