@@ -33,6 +33,7 @@
   - [Facebook Groups](#facebook-groups)
   - [X Tech Communities](#x-tech-communities)
   - [Other Communities](#other-communities)
+- [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
 - [Youtube Channels](#youtube-channels)<br>
 <!-- - [Games](#games)<br>
@@ -897,7 +898,7 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
         <td> <a href="https://www.smashingmagazine.com/">Smashing Magazine</a></td>
         <td>Smashing Magazine is a well-known resource for web designers and developers, providing articles, tutorials, and code snippets for building creative and effective UI components.</td>
     </tr>
-    <tr>
+    <tr> 
         <td> <a href="https://flowbite.com/">Flowbite</a></td>
         <td>Flowbite is an ecosystem built on top of Tailwind CSS including a component library, block sections, a Figma design system and other resources.</td>
     </tr>
@@ -1033,13 +1034,9 @@ to everyone - everywhere!</td>
       <tr>
         <td><a href="https://web.facebook.com/groups/306772026647688">Javascript Developers</a></td>
         <td>This group is all about JavaScript questions answers new tricks coding skills development JavaScript new frameworks tutorials and all Angularjs, ReactJs, NodeJs & all</td>
-      <tr>
-        <td><a href="https://web.facebook.com/groups/html5css3javascripttut">Front-End Developers</a></td>
-        <td>Articles/ Posts, Questions, Answers and Help - all about Front-end Web Development</td>
-      </tr>
 </table>
 
-#### X Tech Communities
+### Datasets
 
 <table width="100%">
       <tr>
@@ -1047,39 +1044,28 @@ to everyone - everywhere!</td>
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://twitter.com/i/communities/1488952693443997701">Web Developers</a></td>
+        <td><a href="https://www.kaggle.com/datasets">Kaggle Datasets</a></td>
         <td>Find coding help, gigs, freelancing opportunities, or just someone to hang with.
       </td>
       </tr>
       <tr>
-        <td><a href="https://twitter.com/i/communities/1509195381300768769">Web Developers Community</a></td>
+        <td><a href="https://www.microsoft.com/en-us/research/tools/?">Microsoft Datasets & Tools</a></td>
         <td>For Web Dev Tips and Tricks
       </td>
       </tr>
       <tr>
-        <td><a href="https://twitter.com/i/communities/1699650976725213198">Web Development Geeks</a></td>
+        <td><a href="https://datasetsearch.research.google.com/">Google Datasets</a></td>
         <td>If you just joined, welcome! We're building a community of people doing amazing things in the web development🚀 Share what you're working on 👨‍💻❤
       </td>
       </tr>
       <tr>
-        <td><a href="https://twitter.com/i/communities/1699650976725213198">Tech 360</a></td>
+        <td><a href="https://github.com/awesomedata/awesome-public-datasets">Awesome Data Repo</a></td>
         <td>Sharing knowledge and information on web development and programming in general. | Home to the #coding360challenge ♥️♥️ Remember to eat before coding ✅ 😑
       </td>
       </tr>
       <tr>
-        <td><a href="https://twitter.com/i/communities/1630084664042954752">WeMakeDevs</a></td>
-        <td>This is a community which provides free hands-on training in various fields of computer science and have an inclusive community focusing on a learn by doing approach.
-      </td>
-      </tr>
-       <tr>
-        <td><a href="https://twitter.com/i/communities/1473324714307174405">The Dev Community</a></td>
-        <td>Open community for all the developers on Twitter. Learn and share knowledge through this forum.
-        </td>
-      </tr>
-       <tr>
-        <td><a href="https://twitter.com/i/communities/1526439647551057922">Tech Events and Meetups- India</a></td>
-        <td>Join this community to know about events, meetups and other tech opportunities in India.
-        </td>
+        <td><a href="https://archive.ics.uci.edu/datasets">UCI Datasets</a></td>
+        <td>Articles/ Posts, Questions, Answers and Help - all about Front-end Web Development</td>
       </tr>
 </table>
 
