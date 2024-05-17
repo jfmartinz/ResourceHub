@@ -36,6 +36,19 @@ A database is an organized collection of structured information, or data, typica
         <td><a href="https://www.sqlite.org/">SQLite</a></td>
         <td>SQLite is a C-language library that provides a lightweight, disk-based database. It is self-contained, serverless, and requires zero configuration, making it ideal for embedded database solutions.</td>
     </tr>
+    <tr>
+        <td><a href="https://www.oracle.com/in/database/">Oracle</a></td>
+        <td>Oracle Database is a proprietary multi-model database management system produced and marketed by Oracle Corporation. It is a database commonly used for running online transaction processing, data warehousing and mixed database workloads.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.microsoft.com/en-IN/sql-server/sql-server-downloads">Microsoft SQL Server</a></td>
+        <td>Microsoft SQL Server is primarily a SQL (Structured Query Language) database system. It is an RDBMS designed for managing and querying relational data using SQL.</td>
+    </tr>
+    <tr>
+        <td><a href="https://mariadb.org/">MariaDB</a></td>
+        <td>MariaDB is an open-source relational database that is designed for handling structured data and using SQL for data management tasks such as querying, updating, and managing relational databases.</td>
+    </tr>
+
 </table>
 
 #### NoSQL Databases
@@ -57,6 +70,18 @@ A database is an organized collection of structured information, or data, typica
         <td><a href="https://aws.amazon.com/dynamodb/">Amazon DynamoDB</a></td>
         <td>Amazon DynamoDB is a fully managed NoSQL database service provided by Amazon Web Services (AWS). It offers fast and predictable performance with seamless scalability, ideal for applications that require consistent, single-digit millisecond latency at any scale.</td>
     </tr>
+    <tr>
+        <td><a href="https://redis.io/">Redis</a></td>
+        <td>Redis is an open-source, in-memory data structure store that is used as a database, cache, and message broker. It supports various data structures such as strings, hashes, lists, sets, and more, providing high performance and versatility for real-time applications.</td>
+    </tr>
+    <tr>
+        <td><a href="https://neo4j.com/product/neo4j-graph-database/">Neo4j</a></td>
+        <td>Neo4j is a graph database management system designed for storing, querying, and analyzing highly connected data. It uses graph structures with nodes, relationships, and properties to represent and manipulate complex relationships between data entities.</td>
+    </tr>
+    <tr>
+        <td><a href="https://azure.microsoft.com/en-us/products/cosmos-db/">Azure Cosmos DB</a></td>
+        <td>Azure Cosmos DB is a database service provided by Microsoft Azure. It is designed to globally distribute and scale data with high availability and low latency. Cosmos DB supports various data models including document, key-value, graph, and column-family stores, making it a multi-model database service.</td>
+    </tr>
 </table>
 
 ### Tutorial or Courses
@@ -73,6 +98,11 @@ A database is an organized collection of structured information, or data, typica
     <tr>
         <td><a href="https://www.geeksforgeeks.org/introduction-to-nosql/">NoSQL</a></td>
         <td>The GeeksforGeeks provides a comprehensive introduction to NoSQL databases, explaining the need for NoSQL, its key characteristics, and how it differs from traditional relational databases (SQL).</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.edx.org/learn/databases">edX</a></td>
+      <td>Offers Courses on database development and database queries.</td>
+    </tr>
 </table>
 
 ### Database Design and Modeling
