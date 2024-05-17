@@ -14,9 +14,9 @@
     - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
     - [Introduction to Machine Learning]()
 
-- [Tools](#tools)<br>
-  - [Typography](#typography)
-  - [Colors](#colors)
+- [Machine learning algorithms](#machine-learning-algorithms)
+- [Tools and Modules](#tools-and-modules)<br>
+  <!-- - [Colors](#colors)
   - [Generators](#generators)
   - [Icons](#icons)
   - [Animations](#animations)
@@ -24,7 +24,7 @@
   - [Chrome extenstion](#chrome-extenstion)
   - [Stock Photos & Videos](#stock-photos-videos)
   - [SVGs](#svgs)
-  - [Other Tools](#other-tools)
+  - [Other Tools](#other-tools) -->
 <!-- - [UI Components](#ui-components)<br> -->
 - [Books](#books)<br>
 - [Communities](#communities)
@@ -169,65 +169,6 @@ This category is a curated collection of valuable Machine learning resources con
     <td>In this one video, learn how to develop a fully functional full-stack MERN dashboard application with complete CRUD functionalities, authentication, pagination, sorting, filtering, and more!</td>
   </tr>
    <tr>
-    <td><a href="https://www.youtube.com/watch?v=1RHDhtbqo94&t=68s">Build and Deploy a Modern Full Stack Social Media App | FULL COURSE</a></td>
-    <td>With all advanced Social Media features, such as Google Authentication, create, edit, delete and save posts, like and comment on other people's posts, search and filter images and much more, ShareMe is the best Image Sharing Social Media App that you can currently find on YouTube and on the entire internet.</td>
-  </tr>
-   <tr>
-    <td><a href="https://www.youtube.com/watch?v=O5cmLDVTgAs&t=32s">Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB</a></td>
-    <td>Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!</td>
-  </tr>
-   <tr>
-    <td><a href="https://www.youtube.com/watch?v=-42K44A1oMA">MERN Stack Tutorial - Book Store Project</a></td>
-    <td>Learn the MERN stack (MongoDB, Express, React, Node.js) in this crash course for beginners. Here are some of the topics you will learn about:
-    - Backend CRUD
-    - Backend Router
-    - CORS Policy
-    - MongoDB operations
-    - Frontend CRUD 
-    - Frontend Router </td>
-  </tr>
-   <tr>
-    <td><a href="https://www.youtube.com/playlist?list=PLhaS1k1mPiCO878vo-9xFJAlUfcz9dMv2v">Blog MERN stack project
-</a></td>
-    <td>in this course, I will teach you how you can create a full-stack app step by step.
-this course has two sections:
-1- at the first we will create the Front-end part with React.js and Tailwind CSS.
-2- then we will create our Back-end with Node.js and MongoDB and finally connect our Front-end to our Back-end.</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://communitytaught.org/class/all">100devs</a></td>
-    <td>100Devs is a diverse and inclusive community of 1000s of participants in a training program run by Leon Noel. It is 100% free and requires absolutely no previous technical experience. This is not a coding bootcamp, this is a how-to-get Full Stack Web Dev job bootcamp</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://www.theodinproject.com">The Odin Project</td>
-    <td>The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=nu_pCVPKzTk">Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)</td>
-    <td>Learn full-stack web development in this full course for beginners. First, you will learn the basics of HTML, CSS, and JavaScript. Then, you will learn how to put everything together to create a frontend movie search app. Finally, you will learn how to create a backend API to create movie reviews and connect the frontend to the backend. The backend uses Node.js, Express, and MongoDB.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=P4kuSxpjA48&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN">Twitter clone with React.js, MongoDB and tailwind css</td>
-    <td>Let's build a Twitter clone using react.js, next.js, mongodb and tailwind css.
-Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, profile edits (username, name bio), drag&drop image uploads and much more.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=hlh1zR2Wjvs&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=2">E-Commerce tutorial with Next.js, React, Tailwind, MongoDB and Stripe</td>
-    <td>In this tutorial we are going to build a fully functional e-commerce app with next.js, react.js, tailwind css, mongodb and stripe. We are going to implement stripe checkout and webhook to receive information from stripe.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=dTFXufTgfOE&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=10">Build a Fullstack E-commerce using Next.js (react.js, mongo, tailwind, styled components)</td>
-    <td>In this tutorial, You will learn how to build a fullstack ecommerce app using next.js and mongo database. It will be 2 projects with a lot of cool functionality.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=6dsLLp1_Ww8&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=6">Social Media App Tutorial (React.js, Supabase, Tailwind, Next.js)</td>
-    <td>In this video we are going to build a full stack social media app with react.js, tailwind and supabase. </td>
-  </tr>
-
-   <tr>
       <td><a href="https://www.w3schools.com/tutorials/">w3schools Tutorials</a></td>
       <td>Free Tutorials covering all aspects of web development and programming.</td>
   </tr>
@@ -276,12 +217,22 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
       <td ><a href="https://www.youtube.com/watch?v=EItlUEPCIzM">KMeans Clustering</a></td>
       <td>Free fonts and font pairings to use for your next design project.</td>
     </tr>
+</table>
 
-### Tools
+### Tools and Modules
 
 > Explore an amazing set of web development tools for working with text, images, icons, colors, extensions, and much more.
 
-#### Typography
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+      <td ><a href="https://www.fontpair.co/">Fontpair</a></td>
+      <td>Free fonts and font pairings to use for your next design project.</td>
+    </tr>
+</table>
 
 <table width="100%">
     <tr>
@@ -1258,9 +1209,9 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr>
   </table>
 
-### Best Practices
+### Courses
 
-> Some resources to help adhere to industry best practices.
+> These are Some valuable resources for learning Machine learning.
 
   <table width="100%">
       <tr>
@@ -1268,31 +1219,19 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="https://blog.logrocket.com/node-js-logging-best-practices-essential-guide/">NodeJS Logging Best Practices</a></td>
+        <td> <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Machine learning with python by Freecodecamp</a></td>
         <td>The Frontend Analystics company LogRocket's comprehensive guide to NodeJS logging best practices</td>
       </tr>
       <tr>
-        <td> <a href="https://nextjs.org/docs/app/building-your-application/data-fetching/patterns">NextJS Data Fetching</a></td>
+        <td> <a href="https://www.coursera.org/specializations/machine-learning">Machine learning by university of washington</a></td>
         <td>Official NextJS recommended patterns and best practices for fetching data in React and Next.js. It goes over some of the most common patterns and how to use them.</td>
       </tr>
       <tr>
-        <td> <a href="https://github.com/futurice/backend-best-practices">Backend Best Practices</a></td>
+        <td> <a href="https://www.upgrad.com/machine-learning-ai-pgd-iiitb/?ad_device=c&ad_network=o&ad_creative=79783517955421&ad_keyword_matchtype=p&ad_clickID=ac509c722c82156417e5fa34f2bc0be3&msclkid=ac509c722c82156417e5fa34f2bc0be3&utm_source=bing&utm_medium=cpc&utm_campaign=IND_ACQ_WEB_BI_NBSEARCH_DV_IIITB_EML_HIT_ROI&utm_term=machine%20learning%20program&utm_content=PerformingKws">Post Graduate Programme in Machine Learning & AI by upgrad</a></td>
         <td>A collection of best practices that are framework agnostic and are valid for various backend architectures</td>
       </tr>      
-        <td> <a href="https://github.com/cxpartners/coding-standards">Front-end Coding Standards and Best Practices</a></td>
+        <td> <a href="https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning">Machine learning with python by MIT</a></td>
         <td>A design agency, Cxpartners, made their guide frontend best practices public for all to learn from.</td>
-      </tr> 
-      <tr>
-        <td><a href="https://medium.com/javarevisited/mastering-design-patterns-in-java-1e39194ac480">Design patterns</a></td>
-        <td>As developers, our goal is not just to make things work, but also to make sure our code is maintainable, scalable, adaptable and reusable. Enter design patterns — the time-tested blueprints that empower us to tackle recurring design problems with elegance and efficiency. This Medium article explains design patterns with real world examples using java in simple way. 
-        <!-- Fixed typo from "medium article" to "Medium article" -->
-        </td>
-      </tr> 
-      <tr>
-        <td><a href="https://medium.com/javarevisited/solid-principles-explained-in-java-5b9fca1f5540">Solid principles</a></td>
-        <td>SOLID principles are one of the object-oriented approaches used in software development, intended to create quality software. The broad goal of the SOLID principles is to reduce dependencies, so that developers can change one area of the software without affecting others. Furthermore, they are intended to make designs easier to understand, maintain, reuse, and extend. This Medium article explains solid principles with real world examples using java in simple way.
-          <!-- Fixed typo from "medium article" to "Medium article" -->
-        </td>
       </tr>    
   </table>
 
