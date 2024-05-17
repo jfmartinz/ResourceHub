@@ -186,4 +186,8 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
        <td><a href="https://github.com/ahmedamsaleh/Free-DevOps-Books-1/blob/master/book/DevOps%20for%20Web%20Development.pdf">DevOps for Web Development</a></td>
        <td>This book explains the role of DevOps in the web development process is pivotal, orchestrating a fundamental shift in traditional development practices. DevOps methodologies and principles streamline the entire software development lifecycle, significantly influencing web development in numerous ways.</td>
     </tr>
+    <tr>
+       <td><a href="https://github.com/ahmedamsaleh/Free-DevOps-Books-1/blob/master/book/Effective%20DevOps.pdf">Effective DevOps</a></td>
+       <td>Effective Devops is most comprehensive book that is completely digestible and applicable for those within technology. Excellent reading for anyone interested in understanding DevOps and how to foster a DevOps culture</td>
+    </tr>
 </table>
