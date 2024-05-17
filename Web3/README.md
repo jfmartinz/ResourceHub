@@ -490,3 +490,52 @@ develop software that works with them</td>
    <td>Blockchain CTF (Capture The Flag) challenges offer a range of tasks related to blockchain technology, including Ethereum smart contract hacking, blockchain analysis, and cryptography.</td>
  </tr>
 </table>
+
+### Books
+
+<table width="100%">
+ <tr>
+   <th>Book Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a></td>
+   <td>A comprehensive guide to Ethereum development, covering smart contracts, decentralized applications (dApps), and more.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Daniel-Masters/dp/1484226038">Blockchain Basics: A Non-Technical Introduction</a></td>
+   <td>An introductory book explaining blockchain technology in simple terms, suitable for beginners.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/jimmysong/programmingbitcoin">Programming Bitcoin</a></td>
+   <td>Dive into the technical details of Bitcoin, including how it works and how to program Bitcoin transactions.</td>
+ </tr>
+ <tr>
+   <td><a href="https://defi.bookchain.io/">DeFi for the Rest of Us</a></td>
+   <td>A beginner-friendly guide to decentralized finance (DeFi), exploring various DeFi protocols and use cases.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Mastering-Decentralized-Finance-DeFi-Understand/dp/B0B65FKBZ9">Mastering DeFi</a></td>
+   <td>An advanced book on DeFi, covering topics such as yield farming, liquidity mining, decentralized exchanges, and more.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet/dp/0062886142">The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum</a></td>
+   <td>Chronicles the rise of Ethereum and its impact on the future of the internet and technology.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671">Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond</a></td>
+   <td>Explores the investment potential of cryptocurrencies and blockchain technology, providing insights for investors.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Basics-Bitcoins-Blockchains/dp/1633538001">The Basics of Bitcoins and Blockchains</a></td>
+   <td>A beginner's guide to Bitcoin, blockchain, and cryptocurrency, covering fundamental concepts and principles.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861">The Bitcoin Standard: The Decentralized Alternative to Central Banking</a></td>
+   <td>Discusses the history and economics of money and presents Bitcoin as a decentralized alternative to traditional fiat currencies.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X">Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money</a></td>
+   <td>Provides a behind-the-scenes look at the early days of Bitcoin and the individuals and communities driving its adoption.</td>
+ </tr>
+</table>
