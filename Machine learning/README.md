@@ -1,4 +1,4 @@
-# Web Development 🌐
+# Machine Learning 🌐
 
 ## Table of Contents
 

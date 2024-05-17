@@ -30,6 +30,7 @@ Here is a list of the currently available categories of the project:<br>
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
+- [Machine Learning](https://github.com/chaanakyaaM/ResourceHub/tree/main/Machine%20learning)
 
 
 ## How to contribute
