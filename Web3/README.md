@@ -10,6 +10,7 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [News](#news)<br>
 - [Community](#community)<br>
 - [Youtube Channels](#youtube-channels)<br>
+- [Books](#Books)<br>
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 
 ### Website to learn Web3
@@ -238,6 +239,45 @@ Analytics.</td>
   </tr>
 </table>
 
+
+### Books
+
+
+> Discover a diverse collection of valuable books for learning Web3 Technologies.
+
+<!--
+a) If the book is free, include a download link.
+b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. -->
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td> <a href="https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf">Mastering Bitcoin by Andreas M.</a></td>
+        <td>This book is mostly intended for coders. If you can use a programming language, this book will teach you how cryptographic currencies work, how to use them, and how to
+develop software that works with them</td>
+      <td>Free</td>
+      </tr>
+      <tr>
+         <td> <a href="https://www.wiley.com/en-us/The+Bitcoin+Standard%3A+The+Decentralized+Alternative+to+Central+Banking-p-9781119473916">The Bitcoin Standard: The Decentralized Alternative to Central Banking by Saifedean Ammous</a></td>
+        <td>The book moves on to explain the operation of Bitcoin functionally and intuitively, allowing its users to utilize the Internet to perform the traditional functions of money without having to rely on, any authorities in the physical world. The final chapter of the book explores the most common questions surrounding Bitcoin</td>
+        <td>Paid</td>
+      </tr>
+         <tr>
+        <td> <a href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum by Andreas M.</a></td>
+        <td>A detailed understanding of the fundamentals of Bitcoin, blockchain, and web3 would call for moving to the next stage. It also outlines the reasons why businesses choose Ethereum for transforming conventional business practices. It serves as one of the trusted learning resources for any developer interested in exploring the world of web3.</td>
+        <td>Free</td>
+      </tr>
+
+      
+   
+
+  </table>
+
+
+
 ### Tools and Libraries
 
 <table width="100%">
@@ -450,4 +490,3 @@ Analytics.</td>
    <td>Blockchain CTF (Capture The Flag) challenges offer a range of tasks related to blockchain technology, including Ethereum smart contract hacking, blockchain analysis, and cryptography.</td>
  </tr>
 </table>
-
