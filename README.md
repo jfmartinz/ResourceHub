@@ -17,6 +17,16 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 </div>
 
+## Table of Contents
+
+- [What is ResourceHub](#what-is-resourcehub)
+- [Categories](#categories)
+- [How to Contribute](#how-to-contribute)
+  - [Forking and Submitting a Pull Request](#forking-and-submitting-a-pull-request)
+  - [Using GitHub Desktop](#using-github-desktop)
+- [Our Contributors](#our-contributors)
+- [License](#license)
+
 ## What is ResourceHub
 
 _ResourceHub_ is an Open-Source project that serves as a collection of valuable resources for Web Development, UI & UX Design, Web3, Database, Open Source Development, App Development, Data Science and DevOps carefully curated by the amazing contributors in the community.
