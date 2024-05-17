@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README Content</title>
+    <style>
+        #project-title {
+    text-align: center;
+    font-size: 48px; /* Adjust size as needed */
+    margin-top: 20px;
+    font-family: 'Arial', sans-serif;
+}
+.dark-mode {
+            background-color: #333;
+            color: white;
+        }
+        .light-mode {
+            background-color: white;
+            color: black;
+        }
+        /* Toggle button style */
+        .toggle-button {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: #f6f8fa;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h1, h2, h3 {
+            border-bottom: 1px solid #eaecef;
+            padding-bottom: 0.3em;
+        }
+        code {
+            background-color: #f6f8fa;
+            padding: 0.2em 0.4em;
+            margin: 0;
+            font-size: 85%;
+            border-radius: 3px;
+        }
+        pre {
+            background-color: #f6f8fa;
+            padding: 16px;
+            overflow: auto;
+            line-height: 1.45;
+            border-radius: 3px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body class="light-mode">
+    <button class="toggle-button" id="dark-mode-toggle">Toggle Dark Mode</button>
+    <h1 id="project-title">project title</h1>
+    <p id="project-description">Project description goes here...</p>
+
+    <h2>Installation</h2>
+    <pre><code>git clone https://github.com/your-username/your-repo.git</code></pre>
+
+    <h2>Usage</h2>
+    <p>Instructions on how to use the project after installation.</p>
+
+    <h2>Contributing</h2>
+    <ul>
+        <li>Fork the repository</li>
+        <li>Create your feature branch: <code>git checkout -b my-new-feature</code></li>
+        <li>Commit your changes: <code>git commit -am 'Add some feature'</code></li>
+        <li>Push to the branch: <code>git push origin my-new-feature</code></li>
+        <li>Submit a pull request</li>
+    </ul>
+
+    <h2>License</h2>
+    <p>This project is licensed under the MIT License - see the <a href="https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE">LICENSE.md</a> file for details</p>
+
+    <script>
+          // Dark mode toggle script
+        const toggleButton = document.getElementById('dark-mode-toggle');
+        toggleButton.addEventListener('click', function() {
+            document.body.classList.toggle('dark-mode');
+            document.body.classList.toggle('light-mode');
+        });
+        // Retrieve README content from sessionStorage
+        const readmeContent = sessionStorage.getItem('readmeContent');
+        const filename = sessionStorage.getItem('filename');
+        document.getElementById('project-title').innerHTML = filename;
+        // Decode and render the README content in the div
+        document.getElementById('project-description').innerHTML = readmeContent;
+    </script>
+</body>
+</html>
