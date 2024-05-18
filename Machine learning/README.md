@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Roadmap](roadmaps)
   - [Machine Learning Roadmap](#machine-learning)
 - [Tutorials or Courses](#tutorials-or-courses)
@@ -21,7 +20,7 @@
       - [Model optimizing](#model-optimization)
       - [Model deploying](#model-deployment)
     - [Machine learning algorithms](#machine-learning-algorithms)
-
+    
 - [Books](#books)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
@@ -203,7 +202,7 @@ This category is a collection of valuable Machine learning resources for any beg
     <td><a href="https://www.geeksforgeeks.org/what-is-reinforcement-learning/">Reinforcement learning</a></td>
     <td>In this one video, learn how to develop a fully functional full-stack MERN dashboard application with complete CRUD functionalities, authentication, pagination, sorting, filtering, and more!</td>
   </tr>
-  
+
 </table>
 
 ### Steps involved for machine learning
