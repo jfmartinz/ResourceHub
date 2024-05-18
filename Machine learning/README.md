@@ -20,7 +20,7 @@
       - [Model optimizing](#model-optimization)
       - [Model deploying](#model-deployment)
     - [Machine learning algorithms](#machine-learning-algorithms)
-    
+
 - [Books](#books)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
@@ -46,7 +46,7 @@ This category is a collection of valuable Machine learning resources for any beg
   </tr>
 <tr>
    <td><a href="https://www.scaler.com/blog/machine-learning-roadmap/"> Machine Learning Roadmap </a></td>
-   <td>This roadmap provided by scaler gives you clear roadmap for learning machine learning</td>
+   <td>This roadmap provided by scaler gives you clear cut roadmap for studying/learning Machine learning</td>
 </tr>
 </table>
 
@@ -94,17 +94,18 @@ This category is a collection of valuable Machine learning resources for any beg
     <tr>
         <td><a href="https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=1s">Python for Data Science</a></td>
         <td>
-        This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
+        This 12 hrs video provided Freecodecamp give you the fundamental knowledge required for the data science using python including the introduction of pandas,numpy and matplotlib </td>
     </tr>
     <tr>
         <td><a href="https://www.youtube.com/watch?v=_YWwU-gJI5U&t=1s">Data Visualization using Python</a></td>
         <td>
-        This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
+        This video by intellipaat will gives you clear understanding for the visualization of data using python,This video is suitable for both beginners and a intermediate level programmer as well.</td>
     </tr>
     <tr>
         <td><a href="https://www.youtube.com/watch?v=HXV3zeQKqGY&t=1s">SQL Fundamentals</a></td>
         <td>
-        This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
+        This video by Freecodecamp is a good introduction to SQL (Structured Query Language), covering essential concepts and commands used in database management. It explains the basics of creating, reading, updating, and deleting data within a database.
+        </td>
     </tr>
     <tr>
         <td><a href="https://www.youtube.com/watch?v=qERjkjK8UQ8">SQL for Data Analysis</a></td>
@@ -114,19 +115,19 @@ This category is a collection of valuable Machine learning resources for any beg
      <tr>
         <td><a href="https://realpython.com/jupyter-notebook-introduction/">Jupyter Notebook</a></td>
         <td>
-        This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
+        The Real Python article on Jupyter Notebooks provides an in-depth introduction to using Jupyter Notebooks for data science, Python programming, and interactive computing. The tutorial covers the basics of setting up and running Jupyter Notebooks, including how to install Jupyter via Anaconda or pip, and how to launch and navigate the notebook interface.</td>
     </tr>
      <tr>
         <td><a href="https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc">Google colab</a></td>
         <td>
-        This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
+        The Google Colab introductory notebook provides a comprehensive guide on how to use Google Colab for interactive Python programming. It covers the basics of creating and running code cells, integrating with Google Drive for storage, and using Colab's powerful computing resources. </td>
     </tr>
 </table>
 
 
-#### Modules
+#### Modules/Libraries
 
-> Explore an amazing set of web development tools for working with text, images, icons, colors, extensions, and much more.
+> Explore an amazing set of Python Modules for creating/using or working with Machine learning models.
 
 <table width="100%">
     <tr>
@@ -141,28 +142,28 @@ This category is a collection of valuable Machine learning resources for any beg
      <tr>
         <td><a href="https://www.w3schools.com/python/pandas/default.asp">Pandas</a></td>
         <td>
-        This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
+        The W3Schools Pandas tutorial offers a good introduction to the Pandas library, a powerful tool for data analysis and manipulation in Python. The tutorial covers a wide range of topics, including how to install Pandas, basic operations like creating and manipulating DataFrames and Series, and more</td>
     </tr>
      <tr>
         <td><a href="https://matplotlib.org/stable/tutorials/pyplot.html">Matplotlib</a></td>
         <td>
-        This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
+        The Matplotlib documentation site provides a comprehensive guide to using the pyplot module, which is a part of the Matplotlib library used for creating static, animated, and interactive visualizations in Python.</td>
     </tr>
     <tr>
       <td ><a href="https://www.tensorflow.org/tutorials">Tensorflow</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>The TensorFlow Tutorials page offers a variety of tutorials designed to help users learn and apply machine learning with TensorFlow. It includes beginner-friendly guides using the Keras API, advanced tutorials on custom training, distributed training, and specialized applications such as computer vision, natural language processing, and reinforcement learning.</td>
     </tr>
     <tr>
       <td ><a href="https://pytorch.org/tutorials/">Pytorch</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>The PyTorch tutorials website provides a comprehensive set of resources for learning and using PyTorch, a popular open-source machine learning library. The tutorials are designed for users at various skill levels, from beginners to advanced practitioners, and cover a wide range of topics </td>
     </tr>
     <tr>
       <td ><a href="https://keras.io/getting_started/">Keras</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>That documentation is a great resource for anyone looking to get started with Keras, a popular deep learning framework. Keras provides a user-friendly interface for building and training deep learning models. Whether you're a beginner or an experienced practitioner, Keras offers a lot of flexibility and ease of use.</td>
     </tr>
     <tr>
       <td ><a href="https://scikit-learn.org/stable/tutorial/index.html">Scikit-learn</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This documentation is the best for learning Scikit-learn. Scikit-learn is another fantastic library, primarily used for machine learning tasks such as classification, regression, clustering, and more. Its simple and efficient tools make it accessible to both beginners and experts in the field. </td>
     </tr>
 </table>
 
@@ -192,17 +193,16 @@ This category is a collection of valuable Machine learning resources for any beg
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/supervised-machine-learning/">Supervised Learning</a></td>
-    <td>Learn full-stack web development in this full course for beginners. First, you will learn the basics of HTML, CSS, and JavaScript. Then, you will learn how to put everything together to create a frontend movie search app. Finally, you will learn how to create a backend API to create movie reviews and connect the frontend to the backend. The backend uses Node.js, Express, and MongoDB.</td>
+    <td>The GeeksforGeeks article on supervised machine learning is the best resource. Their tutorials often break down complex topics into understandable explanations and provide code examples to illustrate concepts. Supervised learning is a fundamental concept in machine learning, where models are trained on labeled data to make predictions or decisions..</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/ml-types-learning-part-2/">Unsupervised Learning</a></td>
-    <td>This is the path of becoming a full-stack developer on Laravel and Vuejs</td>
+    <td>In this article on GeeksforGeeks, they delve deeper into different types of machine learning, expanding beyond supervised learning to cover unsupervised learning, semi-supervised learning, reinforcement learning, and more. Understanding the various types of machine learning is essential for choosing the right approach for different tasks and problems.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/what-is-reinforcement-learning/">Reinforcement learning</a></td>
-    <td>In this one video, learn how to develop a fully functional full-stack MERN dashboard application with complete CRUD functionalities, authentication, pagination, sorting, filtering, and more!</td>
+    <td>This geeksforgeeks article on reinforcement learning is the best to understand the RL.RL has applications in various domains, such as robotics, game playing, recommendation systems, and autonomous vehicle control, among others.</td>
   </tr>
-
 </table>
 
 ### Steps involved for machine learning
@@ -218,7 +218,7 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://waverleysoftware.com/blog/data-collection-for-machine-learning-guide/">Data collection - guide</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This guide on data collection for machine learning projects, which is a crucial aspect of building effective machine learning models. Data collection involves gathering, cleaning, and preparing data that will be used to train and evaluate machine learning algorithms.</td>
     </tr>
     <tr>
       <td ><a href="https://youtu.be/m1dQ38qDABw">Introduction to Data collection</a></td>
@@ -243,11 +243,11 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/#:~:text=You%20discovered%20a%20three%20step%20framework%20for%20data,features%20using%20scaling%2C%20attribute%20decomposition%20and%20attribute%20aggregation.">Data Preparation - article</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This article from Machine Learning Mastery provides a comprehensive guide on preparing data for machine learning, Which includes data cleaning, transforming, and organizing data to make it suitable for training machine learning models. </td>
     </tr>
     <tr>
       <td ><a href="https://developers.google.com/machine-learning/data-prep/">Data Preparation by Google developers</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>The Google's Machine Learning Data Preparation guide is a valuable resource for understanding best practices and techniques for preparing data for machine learning projects. Effective data preparation is crucial for building accurate and reliable machine learning models,</td>
     </tr>
 </table>
 
@@ -260,7 +260,7 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://machinelearningmastery.com/a-gentle-introduction-to-model-selection-for-machine-learning/">Introduction to Model selection</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>"A Gentle Introduction to Model Selection for Machine Learning" from Machine Learning Mastery sounds like a great resource for anyone looking to understand how to choose the right model for their machine learning task.</td>
     </tr>
     <tr>
       <td ><a href="https://youtu.be/r-Mc8YswoCE">Model selection process</a></td>
@@ -281,7 +281,7 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://www.projectpro.io/article/training-a-machine-learning-model/936">Introduction to Model training </a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>The article "Training a Machine Learning Model" from ProjectPro seems like a useful guide for anyone looking to understand the process of training machine learning models. Training a machine learning model involves feeding it with labeled data to learn patterns and make predictions or decisions.</td>
     </tr>
     <tr>
       <td ><a href="https://youtu.be/X_XpOk1miIY">Model training by Edureka</a></td>
@@ -302,11 +302,11 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://www.geeksforgeeks.org/machine-learning-model-evaluation/">Introduction to Model Evaluation </a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This GeeksforGeeks offers a clear guide on machine learning model evaluation, a crucial step in the machine learning workflow to ensure that models perform well on unseen data.</td>
     </tr>
     <tr>
       <td ><a href="https://medium.com/analytics-vidhya/model-evaluation-metrics-in-machine-learning-928999fb79b2">Model Evaluation - Article</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This Medium article is about the resource discussing various model evaluation metrics in machine learning which are crucial for understanding their performance and making informed decisions about model selection and deployment</td>
     </tr>
     <tr>
       <td ><a href="https://youtu.be/LbX4X71-TFI">Model Evaluation - Video</a></td>
@@ -323,11 +323,11 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://www.aporia.com/learn/machine-learning-model/machine-learning-optimization-basics-7-essential-techniques/#:~:text=Machine%20learning%20optimization%20is%20the%20process%20of%20fine-tuning,to%20improve%20its%20performance%20on%20a%20specific%20task.">Introduction to Model Optimization </a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>The link provided leads to an article on Aporia's website discussing the basics of machine learning optimization and seven essential techniques used in this process  and understanding these techniques is essential for improving model performance</td>
     </tr>
     <tr>
       <td ><a href="https://towardsdatascience.com/understanding-optimization-algorithms-in-machine-learning-edfdb4df766b">Model Optimization - Article</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>Theis article from Towards Data Science is a comprehensive guide on understanding optimization algorithms in machine learning. Optimization algorithms play a crucial role in training machine learning models by iteratively adjusting model parameters to minimize a loss function..</td>
     </tr>
     <tr>
       <td ><a href="https://youtu.be/x6f5JOPhci0">Model Optimization - Video</a></td>
@@ -344,11 +344,11 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://builtin.com/machine-learning/model-deployment">Introduction to Model Deployment - Article</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This link will lead to an article on Built In discussing model deployment in the context of machine learning. Model deployment is a crucial step in the machine learning lifecycle, where the trained model is deployed into production to make predictions or decisions on new data</td>
     </tr>
     <tr>
       <td ><a href="https://towardsdatascience.com/ml-model-deployment-strategies-72044b3c1410">Model Deployment Strategies </a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>The article from Towards Data Science will focus on machine learning model deployment strategies, which are crucial for ensuring that trained models can be effectively deployed and used in real-world applications. </td>
     </tr>
     <tr>
       <td ><a href="https://youtu.be/WZ7vS10KPAw">Model Deployment by Microsoft Azure</a></td>
@@ -414,27 +414,22 @@ This category is a collection of valuable Machine learning resources for any beg
       </tr>
       <tr>
         <td> <a href="https://www.bing.com/ck/a?!&&p=5f61daa5e0205b73JmltdHM9MTcxNTgxNzYwMCZpZ3VpZD0xYjhkMzU3Yy02YmU3LTZiOGEtMjNkNC0yMWZkNmE4NDZhYTEmaW5zaWQ9NTE4NQ&ptn=3&ver=2&hsh=3&fclid=1b8d357c-6be7-6b8a-23d4-21fd6a846aa1&psq=Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow+pdf&u=a1aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdGEtc2NpZW5jZS1wcm9qZWN0cy1hbmQtcmVzb3VyY2VzL0RhdGEtU2NpZW5jZS1FQm9va3MvbWFpbi9NYWNoaW5lJTIwTGVhcm5pbmcvSGFuZHMtb24tTWFjaGluZS1MZWFybmluZy5wZGY&ntb=1">Hands-On Machine Learning with Scikit-Learn and TensorFlow</a></td>
-        <td>This book by Jon Duckett is incredibly popular. If you are a beginner in designing and recently started learning HTML and CSS then this book is best for you to learn everything from scratch to an expert level. The quality of content in this book is very high, also the presentation of everything is well organized.</td>
+        <td>The Hands-On Machine Learning with Scikit-Learn and TensorFlow is a popular book by Aurélien Géron that covers various machine learning concepts and practical implementations using Scikit-Learn and TensorFlow.</td>
       <td>Free</td>
       </tr>
       <tr>
          <td> <a href="https://https://zlib.pub/book/the-hundred-page-machine-learning-book-5js7fsvqsjt0">The hundred page machine learning book</a></td>
-        <td>Learning only the basic coding literature is not enough if you do not practice writing real-life applications. The 3rd Edition of Eloquent JavaScript, written by Marijn Haverbeke, is a gold mine for anyone working with JavaScript in a modern Web application framework.
-        Through this book, you get to learn about asynchronous programming, bug fixing, and, of course, error handling.</td>
+        <td>This book, authored by Andriy Burkov, provides a concise yet comprehensive overview of machine learning concepts and techniques. It's highly regarded for its accessibility and clarity, making it a valuable resource for both beginners and experienced practitioners</td>
         <td>free</td>
       </tr>
       <tr>
          <td> <a href="https://zlib.pub/book/data-mining-practical-machine-learning-tools-and-techniques-3qi4tcp5b12g">Data mining practical machine learning tools and techniques</a></td>
-        <td>Learning only the basic coding literature is not enough if you do not practice writing real-life applications. The 3rd Edition of Eloquent JavaScript, written by Marijn Haverbeke, is a gold mine for anyone working with JavaScript in a modern Web application framework.
-        Through this book, you get to learn about asynchronous programming, bug fixing, and, of course, error handling.</td>
+        <td>"Data Mining: Practical Machine Learning Tools and Techniques" provides a comprehensive overview of the field of data mining and machine learning. Authored by Ian H. Witten, Eibe Frank, and Mark A. Hall, this book is widely regarded as an essential resource for students, researchers, and practitioners in the field.
+      </td>
         <td>free</td>
       </tr>
       
   </table>
-
-### Communities
-
-> Discover communities where you can learn and network while studying web development. These communities may include Discord servers, Reddit communities, Facebook groups, Twitter, and more.
 
 ### Datasets
 
@@ -445,27 +440,27 @@ This category is a collection of valuable Machine learning resources for any beg
       </tr>
       <tr>
         <td><a href="https://www.kaggle.com/datasets">Kaggle Datasets</a></td>
-        <td>Find coding help, gigs, freelancing opportunities, or just someone to hang with.
+        <td>Kaggle Datasets is a platform where users can explore, access, and share datasets for a wide range of topics and purposes. Kaggle is a popular community-driven platform for data science and machine learning competitions, and its Datasets section extends its offerings to provide access to a diverse collection of datasets contributed by users worldwide.
       </td>
       </tr>
       <tr>
         <td><a href="https://www.microsoft.com/en-us/research/tools/?">Microsoft Datasets & Tools</a></td>
-        <td>For Web Dev Tips and Tricks
+        <td>Microsoft Research Tools is a platform offering a diverse range of tools,datasets and resources for researchers and developers. These tools are designed to facilitate various aspects of research, including data analysis, machine learning, natural language processing, computer vision, and more. 
       </td>
       </tr>
       <tr>
         <td><a href="https://datasetsearch.research.google.com/">Google Datasets</a></td>
-        <td>If you just joined, welcome! We're building a community of people doing amazing things in the web development🚀 Share what you're working on 👨‍💻❤
+        <td>Google Dataset Search is a tool provided by Google that allows users to search for datasets across a wide range of topics and domains. It helps researchers, data scientists, journalists, and other users discover datasets that are relevant to their interests or research needs.
       </td>
       </tr>
       <tr>
         <td><a href="https://github.com/awesomedata/awesome-public-datasets">Awesome Data Repo</a></td>
-        <td>Sharing knowledge and information on web development and programming in general. | Home to the #coding360challenge ♥️♥️ Remember to eat before coding ✅ 😑
+        <td>This GitHub repo is a curated list of publicly available datasets covering a wide range of topics and domains. This repository serves as a valuable resource for researchers, data scientists, developers, and anyone else interested in accessing and working with real-world datasets.
       </td>
       </tr>
       <tr>
         <td><a href="https://archive.ics.uci.edu/datasets">UCI Datasets</a></td>
-        <td>Articles/ Posts, Questions, Answers and Help - all about Front-end Web Development</td>
+        <td>The UCI Machine Learning Repository, hosted at the URL you provided, is a collection of datasets for machine learning research and experimentation. It's maintained by the Center for Machine Learning and Intelligent Systems at the University of California, Irvine (UCI). </td>
       </tr>
 </table>
 
@@ -478,27 +473,23 @@ This category is a collection of valuable Machine learning resources for any beg
       </tr>
       <tr>
         <td> <a href="https://github.com/microsoft/ML-For-Beginners">ML-for-Beginners by Microsoft</a></td>
-        <td>Hashnode is another global programming community where experienced developers answer questions, give suggestions, share their stories, and provide feedback on ongoing projects. Users post micro-blogs about technical issues or real-life development dilemmas, and community members answer and share them — you can follow specific prolific authors or tags on specific programming languages.</td>
+        <td>The GitHub repository "ML-For-Beginners" is an educational resource provided by Microsoft, aimed at beginners who are interested in learning about machine learning (ML) concepts and techniques.</td>
       </tr>
       <tr>
         <td> <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine Learning Tutorial</a></td>
-        <td>DEV Community, or dev.to, is an open source online community presented as a place for programmers to share ideas and help each other grow. According to the vendor, developers are welcome to submit stories, tutorials, questions, or anything worth discussing on dev.to.</td>
+        <td>The GitHub repository "Machine-Learning-Tutorials" by ujjwalkarn is a comprehensive collection of tutorials, resources, and educational materials for individuals interested in learning about machine learning (ML).</td>
       </tr>
       <tr>
         <td> <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp">ML by Zoomcamp</a></td>
-        <td>Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://github.com/mml-book/mml-book.github.io">Mathematics for ML</a></td>
-        <td>A community for web designers and developers to discuss everything from HTML, CSS, JavaScript, PHP, to Photoshop, SEO and more.</td>
+        <td>This GitHub repository by DataTalksClub is a collection of materials and resources associated with the Machine Learning Zoomcamp, an educational initiative aimed at teaching machine learning concepts and techniques through live Zoom sessions. </td>
       </tr>
       <tr>
         <td> <a href="https://github.com/dair-ai/ML-YouTube-Courses">ML YouTube Courses</a></td>
-        <td>A community for web designers and developers to discuss everything from HTML, CSS, JavaScript, PHP, to Photoshop, SEO and more.</td>
+        <td>This GitHub repository is a collection of resources related to machine learning (ML) courses available on YouTube, and  provides links to the YouTube videos or playlists for each course, making it easy for learners to access the course content directly from YouTube. </td>
       </tr>
       <tr>
         <td> <a href="https://github.com/dlsucomet/MLResourceshttps://github.com/dlsucomet/MLResources">Books for Learning Machine Learning</a></td>
-        <td>A community for web designers and developers to discuss everything from HTML, CSS, JavaScript, PHP, to Photoshop, SEO and more.</td>
+        <td>This GitHub repo is a house of books,tutorials,articles,tools and more to learn Machine learning.</td>
       </tr>
       
 </table>
@@ -518,26 +509,26 @@ This category is a collection of valuable Machine learning resources for any beg
       </tr>
       <tr>
         <td> <a href="https://www.youtube.com/c/MachineLearningwithPhil">Machine Learning with Phil</a></td>
-        <td>Slaying the dragon is about facing your fears, pursuing meaning and transforming into the web developer you were always destined to be.</td>
+        <td>The YouTube channel "Deeplearning.ai" hosts a variety of educational content related to artificial intelligence (AI) and machine learning (ML) created by Andrew Ng and his team at Deeplearning.ai. </td>
       </tr>
       <tr>
         <td> <a href="https://www.youtube.com/@sentdex">Sent Dex</a></td>
-        <td>Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP.</td>
+        <td>The YouTube channel "sentdex," hosted by Harrison Kinsley, offers a diverse range of educational content primarily focused on Python programming, machine learning, game development, hardware projects,robotics and more.</td>
       </tr>
       </tr>
         <tr>
         <td> <a href="https://www.youtube.com/c/AbhishekThakurAbhi">Abhishek Thakur</a></td>
-        <td>Fireship is a popular YouTube channel dedicated to providing high-quality, concise tutorials on web development, covering topics like JavaScript, frameworks, and modern development practices.
+        <td>The YouTube channel "Abhishek Thakur (Abhi)" is hosted by Abhishek Thakur, a well-known figure in the machine learning and data science community.This channel is primarly related to Machine leanring. 
         </td>
       </tr>
       <tr>
         <td> <a href="https://www.youtube.com/@dataschool">Dataschool</a></td>
-        <td>FreeCodeCamp, which has a YouTube channel, also offers more comprehensive online courses, and students can choose from 300-hour programs in skills like responsive web design, JavaScript algorithms, and data visualization. You can also find several free online courses in Python, an in-demand coding language.
+        <td>The YouTube channel "Data School," hosted by Kevin Markham, offers a wide range of tutorials and resources related to data science, machine learning, and Python programming, covering topics such as data manipulation with pandas, data visualization with Matplotlib and Seaborn,
         </td>
       </tr>
       <tr>
         <td> <a href="https://www.youtube.com/@codebasics">codebasics</a></td>
-        <td>A community for web designers and developers to discuss everything from HTML, CSS, JavaScript, PHP, to Photoshop, SEO and more.</td>
+        <td>The YouTube channel "codebasics," hosted by codebasics, offers a variety of tutorials and resources focused on programming, data science, machine learning, and artificial intelligence. </td>
       </tr>
   </table>
 
@@ -552,33 +543,24 @@ This category is a collection of valuable Machine learning resources for any beg
       </tr>
       <tr>
       <td><a href="https://www.reddit.com/r/MachineLearning/"> Machine learning - reddit </a></td>
-      <td>Here is the short important concept which should be know for the preparation of Web development Interveiw</td>
+      <td>The subreddit r/MachineLearning is a popular online community on Reddit dedicated to discussions, news, research, and resources related to machine learning and artificial intelligence. </td>
       </tr>
       <tr>
       <td><a href="https://www.kaggle.com/discussions?search=machine+learning">Machine learning discussions - kaggle </a></td>
-      <td>This is the collection of interview question which will be helpful in your learning journey.</td>
-      <!-- Fixed typo from "forntend" to "Frontend" -->
+      <td>The Kaggle Discussions forum is a community-driven platform where data scientists, machine learning practitioners, and enthusiasts engage in discussions, seek help, share insights, and collaborate on projects related to data science and machine learning. </td>
       </tr>
       <tr>
       <td><a href="https://stackoverflow.com/questions/tagged/machine-learning">Machine learning Q/A - stack overflow</a></td>
-      <td>Complete the programming challenges below, from the massive Project Euler archives. These will harden your algorithm and mathematics knowledge.
+      <td>The "machine-learning" tag on Stack Overflow is a popular destination for developers, data scientists, and machine learning practitioners seeking assistance, sharing insights, and discussing topics related to machine learning. 
       </td>
       </tr>
       <tr>
       <td><a href="https://dev.to/search?q=machine%20leanring&filters=class_name:Organization">Machine learning organisations - DEV community</a></td>
-      <td>If you're looking for free coding exercises to prepare for your next job interview, we've got you covered.
+      <td> DEV Community platform for articles related to "machine learning" from organizations. DEV Community is a community-driven platform for developers where they can share their knowledge, experiences, and insights through articles, discussions, and tutorials. 
       </tr>
   <tr>
 <td><a href="https://community.ibm.com/community/user/ai-datascience/communities/community-home/digestviewer?CommunityKey=f1c2cf2b-28bf-4b68-8570-b239473dcbbc">Machine learning communities - IBM</a></td>
-<td>This repo will contain 500 frontend interview questions which will have HTML, CSS, Javascript & React questions. I will add not any question in which we have to write code, just theory questions.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions">JavaScript interview Questions</a></td>
-<td>This book's goal is to help javascript frontend developers prepare for technical job interviews through a collection of carefully compiled questions.</td>
-</tr>
-<tr>
-<td><a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired">Getting Hired Course</a></td>
-<td>Web development is a lifelong journey of learning and growth. Continue that journey on a professional development team! You'll learn where to find jobs, how to do great interviews, and the best strategies to launch your career.</td>
+<td> The IBM Community for AI and Data Science provides a valuable platform for professionals and enthusiasts to learn, collaborate, and stay informed about the latest developments in artificial intelligence, data science, and related fields.</td>
 </tr>
 
 </table>
@@ -594,18 +576,18 @@ This category is a collection of valuable Machine learning resources for any beg
       </tr>
       <tr>
         <td> <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Machine learning with python by Freecodecamp</a></td>
-        <td>The Frontend Analystics company LogRocket's comprehensive guide to NodeJS logging best practices</td>
+        <td>The "Machine Learning with Python" course on FreeCodeCamp provides a valuable learning resource for individuals interested in diving into the field of machine learning using Python, this course offers a structured path to learn machine learning concepts and develop practical skills through hands-on projects and exercises.</td>
       </tr>
       <tr>
         <td> <a href="https://www.coursera.org/specializations/machine-learning">Machine learning by university of washington</a></td>
-        <td>Official NextJS recommended patterns and best practices for fetching data in React and Next.js. It goes over some of the most common patterns and how to use them.</td>
+        <td>This course on Coursera provides a high-quality learning experience for individuals who want to dive deep into the field of machine learning and acquire practical skills that are in high demand in today's job market.</td>
       </tr>
       <tr>
         <td> <a href="https://www.upgrad.com/machine-learning-ai-pgd-iiitb/?ad_device=c&ad_network=o&ad_creative=79783517955421&ad_keyword_matchtype=p&ad_clickID=ac509c722c82156417e5fa34f2bc0be3&msclkid=ac509c722c82156417e5fa34f2bc0be3&utm_source=bing&utm_medium=cpc&utm_campaign=IND_ACQ_WEB_BI_NBSEARCH_DV_IIITB_EML_HIT_ROI&utm_term=machine%20learning%20program&utm_content=PerformingKws">Post Graduate Programme in Machine Learning & AI by upgrad</a></td>
-        <td>A collection of best practices that are framework agnostic and are valid for various backend architectures</td>
+        <td>This ML program offered by upGrad in collaboration with IIIT Bangalore is designed to provide students with a comprehensive education in machine learning and artificial intelligence, preparing them for careers in this rapidly growing and exciting field.</td>
       </tr>      
         <td> <a href="https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning">Machine learning with python by MIT</a></td>
-        <td>A design agency, Cxpartners, made their guide frontend best practices public for all to learn from.</td>
+        <td>This course provided directly to the edX platform's "Machine Learning with Python: from Linear Models to Deep Learning" course offered by the Massachusetts Institute of Technology (MIT). </td>
       </tr>    
   </table>
 
@@ -620,14 +602,12 @@ This category is a collection of valuable Machine learning resources for any beg
       </tr>
       <tr>
         <td><a href="https://www.geeksforgeeks.org/machine-learning-projects/">100+ Machine learning projects</a></td>
-        <td>
-        This link helps you to Create a Landing Page Using HTML, CSS, and JavaScript provides a practical demonstration of the benefits of building landing pages for improving web development skills.
+        <td>This link which navigates to geekforgeeks article focuses on machine learning projects page on which serves as a valuable resource for individuals looking to explore, learn, and practice machine learning concepts through hands-on projects.
         </td>
       </tr> 
       <tr>
         <td><a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code">500 ML projects repo</a></td>
-        <td>
-          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        <td>This GitHub repo maintained by Ashish Patel offers a comprehensive collection of machine learning and AI projects, providing valuable resources and learning opportunities for enthusiasts, students, researchers, and practitioners interested in exploring ML.
         </td>
       </tr>  
 </table>
@@ -641,32 +621,27 @@ This category is a collection of valuable Machine learning resources for any beg
       </tr>
       <tr>
         <td><a href="https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/">Oreilly data show podcast</a></td>
-        <td>
-        This link helps you to Create a Landing Page Using HTML, CSS, and JavaScript provides a practical demonstration of the benefits of building landing pages for improving web development skills.
+        <td>The O'Reilly Data Show Podcast, hosted on the O'Reilly Radar platform, is a podcast series dedicated to exploring various topics of data science, machine learning, artificial intelligence, and related fields.
         </td>
       </tr> 
       <tr>
         <td><a href="https://twimlai.com/podcast/twimlai/">TWIML AI podcast</a></td>
-        <td>
-          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        <td>The TWIML AI Podcast, hosted on the TWIML AI platform, is a podcast series focused on exploring the latest developments, trends, and innovations in the fields of machine learning and artificial intelligence.
         </td>
       </tr> 
       <tr>
         <td><a href="https://talkpython.fm/ ">Talk Python</a></td>
-        <td>
-          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        <td>"Talk Python to Me" provides a valuable platform for Python enthusiasts, developers, and learners to stay informed, inspired, and connected within the vibrant and growing Python community.  
         </td>
       </tr> 
       <tr>
         <td><a href="https://changelog.com/practicalai">Practical AI</a></td>
-        <td>
-          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        <td>The Practical AI podcast offers a valuable platform for individuals interested in practical applications of AI and ML technologies. this podcast provides informative and engaging content to help you stay informed and inspired in the rapidly evolving field
         </td>
       </tr>
       <tr>
         <td><a href="https://www.thetalkingmachines.com/ ">The Talking machines</a></td>
-        <td>
-          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        <td>The "Talking Machines" offers a valuable platform for individuals interested in staying informed, inspired, and engaged in the dynamic field of machine learning, this podcast provides informative and engaging content on ML.
         </td>
       </tr>
         
