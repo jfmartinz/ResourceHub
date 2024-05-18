@@ -48,7 +48,6 @@ A database is an organized collection of structured information, or data, typica
         <td><a href="https://mariadb.org/">MariaDB</a></td>
         <td>MariaDB is an open-source relational database that is designed for handling structured data and using SQL for data management tasks such as querying, updating, and managing relational databases.</td>
     </tr>
-
 </table>
 
 #### NoSQL Databases
@@ -102,6 +101,14 @@ A database is an organized collection of structured information, or data, typica
     <tr>
       <td><a href="https://www.edx.org/learn/databases">edX</a></td>
       <td>Offers Courses on database development and database queries.</td>
+    </tr>
+  <tr>
+      <td><a href="https://shorturl.at/6oNur">NetNinja Youtube</a></td>
+      <td>Free playlist on MongoDb.</td>
+    </tr>
+  <tr>
+      <td><a href="https://www.udemy.com/course/database-engines-crash-course/?couponCode=LEADERSALE24A">Udemy</a></td>
+      <td>Learn ACID, Indexing, Partitioning, Sharding, Concurrency control, Replication, DB Engines, Best Practices and More!.</td>
     </tr>
 </table>
 
