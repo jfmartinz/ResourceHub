@@ -2,33 +2,34 @@
 
 ## Table of Contents
 
-- [Overview](#overview)<br>
+- [Overview](#overview)
 - [Roadmap](roadmaps)
   - [Machine Learning Roadmap](#machine-learning)
 - [Tutorials or Courses](#tutorials-or-courses)
 
     - [Fundamentals of Mathematics](#fundamentals-of-mathematics)
     - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
-    - [Introduction to Machine Learning](#introduction-to-machine-learning)
     - [Modules](#modules)
+    - [Introduction to Machine Learning](#introduction-to-machine-learning)
+    - [Types of Machine learning](#types-of-machine-learning)
+    - [Machine Learning](#steps-involved-for-machine-learning)
+      - [Data Collection](#data-collection)
+      - [Data Preparation](#data-preparation)
+      - [Model selection](#model-selection)
+      - [Model Training](#model-traning)
+      - [Model Evaluation](#model-evaluation)
+      - [Model optimizing](#model-optimization)
+      - [Model deploying](#model-deployment)
+    - [Machine learning algorithms](#machine-learning-algorithms)
 
-- [Machine Learning](#steps-involved-for-machine-learning)
-  - [Data Collection](#data-collection)
-  - [Data Preparation](#data-preparation)
-  - [Model selection](#model-selection)
-  - [Model Training](#model-traning)
-  - [Model Evaluation](#model-evaluation)
-  - [Model optimizing](#model-optimization)
-  - [Model deploying](#model-deployment)
-
-- [Machine learning algorithms](#machine-learning-algorithms)
-- [Books](#books)<br>
+- [Books](#books)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
 - [Youtube Channels](#youtube-channels)
 - [Machine learning forums](#machine-learning-forums)
 - [courses](#courses)
 - [Projects](#projects)
+- [Others](#others)
 
 
 ### Overview
@@ -52,7 +53,7 @@ This category is a collection of valuable Machine learning resources for any beg
 
 ### Tutorials or Courses
 
-> Discover a collection of tutorials and courses for learning the Mathamatics requied for Machine learning.
+> Discover a collection of tutorials and courses for learning the Mathamatics,Fundamentals,Algorithms and more which are requied for Machine learning.
 
 #### Fundamentals of Mathematics
 
@@ -116,6 +117,11 @@ This category is a collection of valuable Machine learning resources for any beg
         <td>
         This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
     </tr>
+     <tr>
+        <td><a href="https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc">Google colab</a></td>
+        <td>
+        This course is provied by the Geeks for Geeks and is perfect for both beginners and coding enthusiasts and covers essential Python fundamentals, including Object-Oriented Programming (OOPs), data structures, and Python libraries.</td>
+    </tr>
 </table>
 
 
@@ -176,14 +182,28 @@ This category is a collection of valuable Machine learning resources for any beg
     <td><a href="https://www.youtube.com/watch?v=Z3exkejEZkg">Machine Learning vs Traditional Programming</a></td>
     <td>This is the path of becoming a full-stack developer on Laravel and Vuejs</td>
   </tr>
+</table>
+
+#### Types of Machine learning
+
+<table width="100%">
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=xtOg44r6dsE">Types of Machine learning</a></td>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/supervised-machine-learning/">Supervised Learning</a></td>
+    <td>Learn full-stack web development in this full course for beginners. First, you will learn the basics of HTML, CSS, and JavaScript. Then, you will learn how to put everything together to create a frontend movie search app. Finally, you will learn how to create a backend API to create movie reviews and connect the frontend to the backend. The backend uses Node.js, Express, and MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/ml-types-learning-part-2/">Unsupervised Learning</a></td>
+    <td>This is the path of becoming a full-stack developer on Laravel and Vuejs</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/what-is-reinforcement-learning/">Reinforcement learning</a></td>
     <td>In this one video, learn how to develop a fully functional full-stack MERN dashboard application with complete CRUD functionalities, authentication, pagination, sorting, filtering, and more!</td>
   </tr>
-   <tr>
-      <td><a href="https://www.w3schools.com/tutorials/">w3schools Tutorials</a></td>
-      <td>Free Tutorials covering all aspects of web development and programming.</td>
-  </tr>
+  
 </table>
 
 ### Steps involved for machine learning
@@ -592,9 +612,8 @@ This category is a collection of valuable Machine learning resources for any beg
 
   ### Projects
 
-> These Projects help you gain real time exprience for machine learning models.
+> These Projects help you gain real time exprience for building machine learning models.
 
-  #### Beginner level projects
   <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -613,3 +632,46 @@ This category is a collection of valuable Machine learning resources for any beg
         </td>
       </tr>  
 </table>
+
+### Others
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/">Oreilly data show podcast</a></td>
+        <td>
+        This link helps you to Create a Landing Page Using HTML, CSS, and JavaScript provides a practical demonstration of the benefits of building landing pages for improving web development skills.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://twimlai.com/podcast/twimlai/">TWIML AI podcast</a></td>
+        <td>
+          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://talkpython.fm/ ">Talk Python</a></td>
+        <td>
+          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://changelog.com/practicalai">Practical AI</a></td>
+        <td>
+          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.thetalkingmachines.com/ ">The Talking machines</a></td>
+        <td>
+          This link helps you to create a basic todo app to understand the basics of JavaScript. In this web app, one can create a todo list using HTML, CSS, JS, BOOTSTRAP. 
+        </td>
+      </tr>
+        
+      
+      
+</table>
+
