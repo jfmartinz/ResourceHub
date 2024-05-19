@@ -31,6 +31,10 @@ Here is a list of the currently available categories of the project:<br>
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
 - [Machine Learning](https://github.com/chaanakyaaM/ResourceHub/tree/main/Machine%20learning)
+- [Open Source Development](https://github.com/jfmartinz/ResourceHub/tree/main/Open%20Source%20Development)
+- [DevOps](https://github.com/jfmartinz/ResourceHub/tree/main/DevOps)
+- [App Development](https://github.com/jfmartinz/ResourceHub/tree/main/App%20Development)
+- [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
 
 
 ## How to contribute
