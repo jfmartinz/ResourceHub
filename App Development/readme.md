@@ -172,10 +172,6 @@ App development refers to crafting software for diverse devices, involving plann
         <td>Android is the most popular mobile operating system in the world, holding 85% of global market share. That makes Android the natural starting point for new app developers. This series of courses teaches the basics needed to develop, design, manage, and distribute a native Android application using the Kotlin programming language and the Android SDK. </td>
       <td>Paid</td>
       </tr>
-      <tr>
-            <td><a href="https://www.udemy.com/topic/app-development/">Udemy App Development Courses</a></td>
-            <td>Udemy's app development courses provide comprehensive, hands-on training to help you build professional mobile applications from scratch.</td>
-      </tr>
   </table>
 
 ### Books
