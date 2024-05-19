@@ -8,7 +8,7 @@
 
     - [Fundamentals of Mathematics](#fundamentals-of-mathematics)
     - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
-    - [Modules](#modules)
+    - [Modules](#moduleslibraries)
     - [Introduction to Machine Learning](#introduction-to-machine-learning)
     - [Types of Machine learning](#types-of-machine-learning)
     - [Machine Learning](#steps-involved-for-machine-learning)
@@ -30,10 +30,6 @@
 - [Projects](#projects)
 - [Others](#others)
 
-
-### Overview
-
-This category is a collection of valuable Machine learning resources for any beginner. Here, you will find a wide range of materials and information which increases your understanding of machine learning.
 
 ### Roadmap
 
@@ -176,7 +172,7 @@ This category is a collection of valuable Machine learning resources for any beg
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=BuezNNeOGCI&t=1s">Introduction to Machine Learning</a></td>
-    <td>This video by Edureka on "Introduction To Machine Learning" will help you understand the basics of Machine Learning and how it can be used to solve real-world problems. </td>
+    <td>This video by Edureka on "Introduction To Machine Learning" will help you understand the basics of Machine Learning like how,what,when and how it can be used to solve real-world problems. </td>
   </tr>
 </table>
 
@@ -423,8 +419,7 @@ This category is a collection of valuable Machine learning resources for any beg
         <td>"Data Mining: Practical Machine Learning Tools and Techniques" provides a comprehensive overview of the field of data mining and machine learning. Authored by Ian H. Witten, Eibe Frank, and Mark A. Hall, this book is widely regarded as an essential resource for students, researchers, and practitioners in the field.
       </td>
         <td>free</td>
-      </tr>
-      
+      </tr>      
   </table>
 
 ### Datasets
@@ -643,9 +638,6 @@ This category is a collection of valuable Machine learning resources for any beg
         <td><a href="https://www.thetalkingmachines.com/ ">The Talking machines</a></td>
         <td>The "Talking Machines" offers a valuable platform for individuals interested in staying informed, inspired, and engaged in the dynamic field of machine learning, this podcast provides informative and engaging content on ML.
         </td>
-      </tr>
-        
-      
-      
+      </tr>    
 </table>
 
