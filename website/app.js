@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
           extensionlessFiles.forEach((file) => {
             // Fetch README data for each file
             fetch(
-              `https://api.github.com/repos/jfmartinz/ResourceHub/contents/${file.path}/README.md`,
+              `https://api.github.com/repos/jfmartinz/ResourceHub/contents/${file.path}/readme.md`,
               {
                 headers: {
                   Authorization: `Bearer ${token}`,
