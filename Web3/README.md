@@ -1,21 +1,20 @@
 # Web3 🚀
 
+Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
+
 ## Table of Contents
-- [Overview](#overview)<br>
+
 - [Website to learn web3](#website-to-learn-web3)<br>
 - [Tutorial or Courses](#tutorial-or-courses)<br>
 - [Blockchain Technologies](#blockchain-technologies)<br>
 - [News](#news)<br>
 - [Community](#community)<br>
 - [Youtube Channels](#youtube-channels)<br>
+- [Books](#Books)<br>
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 
-
-
-### Overview
-Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
-
 ### Website to learn Web3
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -45,9 +44,18 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
     <td><a href="https://www.web3.university/">Web3 University</a></td>
     <td>The comprehensive educational resource on blockchain development with the most useful tutorials across the web3 ecosystem. </td>
   </tr>
+   <tr>
+    <td><a href="https://www.web3creators.com/learn-web3/">Web3 Creators</a></td>
+    <td> Web3 Creators offers free resource to become Web3 developer. </td>
+  </tr>
+   <tr>
+    <td><a href= "https://iq.wiki/">IQ.wiki</a></td>
+    <td>IQ.wiki, formerly Everipedia, is the largest crypto encyclopedia with thousands of pages. </td>
+  </tr>
 </table>
 
 ### Tutorial or Courses
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -73,6 +81,7 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - Build a web frontend to interact with the smart contract
 
 The course covers:
+
 - The architecture of Dapps
 - Solidity, the programming language for Ethereum smart contract
 - Remix, the online IDE for Solidity
@@ -80,18 +89,27 @@ The course covers:
 - Ganache, the local development Blockchain
 - Web3, the JS library to integrate a Dapp frontend
 - Metamask, the Ethereum wallet used by most Dapps (browser extension)
-- Deployment to public testnet (Ropsten) and mainnet, using Infura API 
-</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">Web3 Developer in 2023 Roadmap: Solidity, Smart Contract, and Blockchain Development [Full Course]</a></td>
-    <td>Start learning how to become a blockchain developer. In this course, you'll understand the concepts of blockchain technology and smart contracts. You'll create your own wallet, learn how to develop and deploy your own smart contracts, and build a portfolio app to showcase the work you've completed throughout this course.</td>
-  </tr>
+- Deployment to public testnet (Ropsten) and mainnet, using Infura API
+  </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">Web3 Developer in 2023 Roadmap: Solidity, Smart Contract, and Blockchain Development [Full Course]</a></td>
+      <td>Start learning how to become a blockchain developer. In this course, you'll understand the concepts of blockchain technology and smart contracts. You'll create your own wallet, learn how to develop and deploy your own smart contracts, and build a portfolio app to showcase the work you've completed throughout this course.</td>
+    </tr>
+
+     <tr>
+      <td><a href="https://youtu.be/jcgfQEbptdo?si=ntQiEjZJ--FK3mJP"> Learn Blockchain & Solidity Development Full Course 2024 </a></td>
+      <td>Start learning how to become a blockchain developer and become an in-demand blockchain MASTER with the help of the resources.</td>
+    </tr>
+    <tr>
+      <td><a href="https://youtu.be/SyVMma1IkXM?si=9OFjh0NUKcZv4nri"> Blockchain Full Course  </a></td>
+      <td>This Blockchain Tutorial Full Course will help you understand all the basic concepts of Blockchain. This Blockchain tutorial will help you understand what is Blockchain, explain the Bitcoin story, features of Blockchain which includes a public distributed ledger, hash encryption, proof of work, mining, and at the end you will also see a use case on how banks are using Blockchain in validating user identities. </td>
+    </tr>
 
 </table>
 
-
 ### Blockchain Technologies
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -116,6 +134,22 @@ The course covers:
     <tr>
     <td><a href="https://cardano.org/">Cardano</a></td>
     <td>Cardano is a blockchain platform that focuses on sustainability, scalability, and security. It aims to provide a robust infrastructure for building DApps and smart contracts.</td>
+    </tr>
+    <tr>
+    <td><a href="https://www.avax.network/">Avalanche</a></td>
+    <td>Avalanche is a decentralized, open-source proof of stake blockchain with smart contract functionality. AVAX is the native cryptocurrency of the platform.</td>
+    </tr>
+    <tr>
+    <td><a href="https://app.chainalysis.com/login?redirect=kyt">Chainalysis KYT</a></td>
+    <td>Chainalysis KYT’s website details easy-to-use interface, real-time API (application programming interface) and top-notch intelligence. Chainalysis Data comprises thousands of services, including scams and darknet offerings, that could affect blockchain security. </td>
+    </tr>
+    <tr>
+    <td><a href="https://app.chainalysis.com/login?redirect=kyt">Chainalysis KYT</a></td>
+    <td>Chainalysis KYT’s website details easy-to-use interface, real-time API (application programming interface) and top-notch intelligence. Chainalysis Data comprises thousands of services, including scams and darknet offerings, that could affect blockchain security. </td>
+    </tr>
+    <tr>
+    <td><a href="https://www.builtinsf.com/company/solana-labs">Solana</a></td>
+    <td>Solana offers the ability to create “scalable, user-friendly apps” with its platform, and also says it’s the fastest blockchain in the world, with 400 millisecond block times. It is also super-secure, low-cost ($0.01 per transaction) and resistant to censorship because the network is spread over thousands of independent nodes, the website indicates. Tutorials on the website offer guidance on how to build a decentralized app, run a validator node, and other blockchain functions. </td>
     </tr>
 </table>
 
@@ -145,6 +179,7 @@ The course covers:
 </table>
 
 ### Community
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -180,6 +215,7 @@ Analytics.</td>
 </table>
 
 ### Youtube Channels
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -203,7 +239,86 @@ Analytics.</td>
   </tr>
 </table>
 
+
+### Books
+
+
+> Discover a diverse collection of valuable books for learning Web3 Technologies.
+
+<!--
+a) If the book is free, include a download link.
+b) If the book is not free, provide a URL (web link) where it can be purchased or accessed. -->
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td> <a href="https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf">Mastering Bitcoin by Andreas M.</a></td>
+        <td>This book is mostly intended for coders. If you can use a programming language, this book will teach you how cryptographic currencies work, how to use them, and how to
+develop software that works with them</td>
+      <td>Free</td>
+      </tr>
+      <tr>
+         <td> <a href="https://www.wiley.com/en-us/The+Bitcoin+Standard%3A+The+Decentralized+Alternative+to+Central+Banking-p-9781119473916">The Bitcoin Standard: The Decentralized Alternative to Central Banking by Saifedean Ammous</a></td>
+        <td>The book moves on to explain the operation of Bitcoin functionally and intuitively, allowing its users to utilize the Internet to perform the traditional functions of money without having to rely on, any authorities in the physical world. The final chapter of the book explores the most common questions surrounding Bitcoin</td>
+        <td>Paid</td>
+      </tr>
+      <tr>
+   <td><a href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a></td>
+   <td>A comprehensive guide to Ethereum development, covering smart contracts, decentralized applications (dApps), and more.</td>
+   <td>Paid</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Daniel-Masters/dp/1484226038">Blockchain Basics: A Non-Technical Introduction</a></td>
+   <td>An introductory book explaining blockchain technology in simple terms, suitable for beginners.</td>
+   <td>Paid</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/jimmysong/programmingbitcoin">Programming Bitcoin</a></td>
+   <td>Dive into the technical details of Bitcoin, including how it works and how to program Bitcoin transactions.</td>
+   <td>Paid</td>
+ </tr>
+ <tr>
+   <td><a href="https://defi.bookchain.io/">DeFi for the Rest of Us</a></td>
+   <td>A beginner-friendly guide to decentralized finance (DeFi), exploring various DeFi protocols and use cases.</td>
+   <td>Paid</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Mastering-Decentralized-Finance-DeFi-Understand/dp/B0B65FKBZ9">Mastering DeFi</a></td>
+   <td>An advanced book on DeFi, covering topics such as yield farming, liquidity mining, decentralized exchanges, and more.</td>
+   <td>Paid</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet/dp/0062886142">The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum</a></td>
+   <td>Chronicles the rise of Ethereum and its impact on the future of the internet and technology.</td>
+   <td>Paid</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671">Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond</a></td>
+   <td>Explores the investment potential of cryptocurrencies and blockchain technology, providing insights for investors.</td>
+   <td>Paid</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Basics-Bitcoins-Blockchains/dp/1633538001">The Basics of Bitcoins and Blockchains</a></td>
+   <td>A beginner's guide to Bitcoin, blockchain, and cryptocurrency, covering fundamental concepts and principles.</td>
+   <td>Paid</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X">Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money</a></td>
+   <td>Provides a behind-the-scenes look at the early days of Bitcoin and the individuals and communities driving its adoption.</td>
+   <td>Paid</td>
+ </tr>
+      
+   
+
+  </table>
+
+
+
 ### Tools and Libraries
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -233,9 +348,19 @@ Analytics.</td>
     <td><a href="https://github.com/trufflesuite/truffle">Truffle Suite</a></td>
     <td>Truffle Suite is a development framework for Ethereum dApps (decentralized applications). It provides tools for smart contract compilation, testing, and deployment, as well as a suite of development environments for building Ethereum applications.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/trufflesuite/ganache-ui">Ganache</a></td>
+    <td>Ganache is your personal blockchain for Ethereum development.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/trufflesuite/drizzle">Drizzle</a></td>
+    <td>Drizzle is a collection of libraries to simplify development of your dapps in Plain JavaScript, React and Vue.</td>
+  </tr>
+
 </table>
 
 ### Decentralized Finance (DeFi)
+
 <table width="100%">
   <tr>
     <th>Project Name</th>
@@ -320,3 +445,87 @@ Analytics.</td>
   </tr>
 </table>
 
+
+
+### Roadmap
+<table width="100%">
+  <tr>
+    <th>Step</th>
+    <th>Description</th>
+    <th>Resources</th>
+  </tr>
+  <tr>
+    <td>Step 1</td>
+    <td>Learn Blockchain Basics: Understand the fundamental concepts of blockchain technology, including decentralization, consensus mechanisms, and cryptographic principles.</td>
+    <td><a href="https://www.youtube.com/watch?v=2uYuWiICCM0&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-"> YouTube : Blockchain tutorial for beginnners</a></td>
+  </tr>
+  <tr>
+    <td>Step 2</td>
+    <td>Study Ethereum: Explore the Ethereum blockchain platform, including its architecture, smart contracts, and Ethereum Virtual Machine (EVM).</td>
+    <td><a href="https://ethereum.org/en/what-is-ethereum/">Ethereum - What is Ethereum?</a>, <a href="https://www.youtube.com/watch?v=UihMqcj-cqc">YouTube : Ethereum in 30 minutes</a></td>
+  </tr>
+  <tr>
+    <td>Step 3</td>
+    <td>Learn Solidity: Master the Solidity programming language used for writing smart contracts on the Ethereum blockchain.</td>
+    <td><a href="https://www.youtube.com/watch?v=EhPeHeoKF88">YouTube: Learn Solidity - The COMPLETE Beginner’s Guide</a></td>
+  </tr>
+  <tr>
+    <td>Step 4</td>
+    <td>Explore Decentralized Applications (DApps): Understand the architecture and development of DApps, including frontend and backend components.</td>
+    <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">YouTube: Solidity, Smart Contract, and Blockchain Development Full Course </a></td>
+  </tr>
+  <tr>
+    <td>Step 5</td>
+    <td>Dive into Decentralized Finance (DeFi): Explore the concepts and protocols of DeFi, including lending, borrowing, and decentralized exchanges.</td>
+    <td><a href="https://www.youtube.com/watch?v=J1pX4NLNN1M&list=PLgPmWS2dQHW9_Mo_5OC7Eyqi1FwKOJlb9">YouTube: DeFi Series</a></td>
+  </tr>
+  <tr>
+    <td>Step 6</td>
+    <td>Understand Web3 Technologies: Learn about other blockchain platforms and technologies beyond Ethereum, such as Polkadot, Cardano, and Binance Smart Chain.</td>
+    <td><a href="https://www.youtube.com/watch?v=29Ty-VTDnh4&list=PLOyWqupZ-WGsnACsCmWH7PO-0paz9zlQ8"> YouTube : Polkadot for beginners</a>, <a href="https://www.youtube.com/watch?v=2csG9sR5j7w&list=PLrbMFdXZnzoAwfxIVo-SQ_qEBCqbwuU6o">YouTube : Cardano 101 course</a>, <a href="https://www.youtube.com/watch?v=iJDoc0kvXLc">YouTube : Binance Smart Chain (BSC) explained</a></td>
+  </tr>
+  <tr>
+    <td>Step 7</td>
+    <td>Master Advanced Smart Contract Development: Dive deeper into advanced Solidity topics, security considerations, and best practices for smart contract development.</td>
+    <td><a href="https://github.com/ethereum/solidity">Solidity Documentation</a>, <a href="https://consensys.net/academy/">Consensys Academy</a></td>
+  </tr>
+  <tr>
+    <td>Step 8</td>
+    <td>Explore Blockchain Interoperability: Learn about interoperability protocols and bridges that enable communication between different blockchain networks.</td>
+    <td><a href="https://www.cosmos.network/">Cosmos</a>, <a href="https://www.wanchain.org/">Wanchain</a>, <a href="https://www.polkadot.network/">Polkadot</a></td>
+  </tr>
+  <tr>
+    <td>Step 9</td>
+    <td>Stay Updated and Engage with the Community: Keep up with the latest trends, news, and developments in the Web3 ecosystem by joining forums, attending meetups, and following industry experts.</td>
+    <td><a href="https://www.reddit.com/r/ethereum/">r/ethereum on Reddit</a>, <a href="https://discord.gg/web3">WEB3 🌐 Discord Community</a></td>
+  </tr>
+  <tr>
+    <td>Step 10</td>
+    <td>Gain Practical Experience: Participate in hackathons, build projects, and contribute to open-source blockchain initiatives to apply your knowledge in real-world scenarios.</td>
+    <td>Refer to Hackathons section</td>
+  </tr>
+</table>
+
+### Challenges
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://ethernaut.openzeppelin.com/">Ethernaut</a></td>
+   <td>Ethernaut is a Solidity-based smart contract hacking game. Each level presents a different smart contract vulnerability to exploit and solve.</td>
+ </tr>
+ <tr>
+   <td><a href="https://capturetheether.com/challenges/">Capture the Ether</a></td>
+   <td>Capture the Ether offers a series of challenges designed to test and improve your skills in hacking Ethereum smart contracts. Solve challenges related to security vulnerabilities and earn Ether rewards.</td>
+ </tr>
+ <tr>
+   <td><a href="https://soliditykoans.org/">Solidity Koans</a></td>
+   <td>Solidity Koans is an interactive learning platform that presents Solidity code snippets with incomplete parts. Your task is to fill in the blanks to make the code functional and learn Solidity concepts along the way.</td>
+ </tr>
+ <tr>
+   <td><a href="https://ctftime.org/task/11566">Blockchain CTF</a></td>
+   <td>Blockchain CTF (Capture The Flag) challenges offer a range of tasks related to blockchain technology, including Ethereum smart contract hacking, blockchain analysis, and cryptography.</td>
+ </tr>
+</table>
