@@ -122,7 +122,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 
 ### Technologies
 
-> These are the technologies you can master to be a successful App Developer. They are listed below:
+> These are the technologies you can master to be a successful Data Scientist . They are listed below:
 
 <table width="100%">
       <tr>
@@ -221,7 +221,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 
 ### YouTube Channels
 
-> You can condider these YouTube Channel for learning Data Science:
+> You can consider these YouTube Channel for learning Data Science:
 
 <table width="100%">
       <tr>

@@ -591,7 +591,7 @@ exercises.</td>
         <th>Description</th>
       </tr>
       <tr>
-        <td width="150px"><a href="https://freebiesui.com/figma-freebies/">FreesbieUI</a></td>
+        <td width="150px"><a href="https://freebiesui.com/figma-freebies/">Freebies</a></td>
         <td>This website provides a vibrant collection of free Figma resources to jumpstart your projects. Dive into web designs, templates, mockups and more, all designed to streamline your Figma workflow and boost your design efficiency.</td>
       </tr>
       <tr>
@@ -607,8 +607,8 @@ exercises.</td>
         <th>Description</th>
       </tr>
       <tr>
-        <td width="150px"><a href="https://www.uxcrush.com/">UX Crush</a></td>
-        <td>UXCrush dives deep into the world of open-source design resources for Figma. Explore a vast library of freely available icons to elevate your Figma projects.</td>
+        <td width="150px"><a href="https://www.uxcrush.com/">uxcrush</a></td>
+        <td>uxcrush dives deep into the world of open-source design resources for Figma. Explore a vast library of freely available icons to elevate your Figma projects.</td>
       </tr>
       <tr>
         <td width="150px"><a href="https://figmaresource.com/">figma resources</a></td>
