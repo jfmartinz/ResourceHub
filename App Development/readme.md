@@ -172,6 +172,10 @@ App development refers to crafting software for diverse devices, involving plann
         <td>Android is the most popular mobile operating system in the world, holding 85% of global market share. That makes Android the natural starting point for new app developers. This series of courses teaches the basics needed to develop, design, manage, and distribute a native Android application using the Kotlin programming language and the Android SDK. </td>
       <td>Paid</td>
       </tr>
+      <tr>
+            <td><a href="https://www.udemy.com/topic/app-development/">Udemy App Development Courses</a></td>
+            <td>Udemy's app development courses provide comprehensive, hands-on training to help you build professional mobile applications from scratch.</td>
+      </tr>
   </table>
 
 ### Books
@@ -191,7 +195,7 @@ App development refers to crafting software for diverse devices, involving plann
       </tr>
       <tr>
         <td>Android App Development</td>
-        <td> <a href="https://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1491974052">Head First Android Development" by Dawn Griffiths and David Griffiths</a></td>
+        <td> <a href="https://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1491974052">Head First Android Development - by Dawn Griffiths and David Griffiths</a></td>
         <td>Presents a beginner-friendly approach to Android app development, focusing on building engaging and interactive apps.</td>
       </tr>
       <tr>
@@ -206,14 +210,14 @@ App development refers to crafting software for diverse devices, involving plann
       </tr>
      <tr>
         <td>Cross-Platform App Development</td>
-        <td> <a href="https://www.amazon.com/React-Native-Action-Nader-Dabit/dp/1617294055">React Native in Action" by Nader Dabit</a></td>
+        <td> <a href="https://www.amazon.com/React-Native-Action-Nader-Dabit/dp/1617294055">React Native in Action - by Nader Dabit</a></td>
         <td>Provides practical insights into building mobile apps with React Native, covering topics like navigation, data management, and performance optimization.</td>
       </tr>
   </table>
 
 ### YouTube Channels
 
-> You can condider these YouTube Channel for learning App Development:
+> You can consider these YouTube Channel for learning App Development:
 
 <table width="100%">
       <tr>

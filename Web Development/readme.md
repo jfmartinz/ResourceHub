@@ -3,7 +3,7 @@ This category is a curated collection of valuable web development resources cont
 
 ## Table of Contents
 
-- [Roadmap](roadmaps)
+- [Roadmap](roadmap)
 
   - [Front-End Development Roadmap](#front-end-roadmap)
   - [BackEnd Development Roadmap](#back-end-roadmap)
@@ -187,6 +187,13 @@ This category is a curated collection of valuable web development resources cont
   <td><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer">Meta Front-End Developer Professional Certificate</a></td>
       <td>Meta's Front-End Developer program paves a swift path to web development careers. From HTML basics to advanced React, it covers essential tools. No prior experience required; just dive in for job-ready skills. Equip yourself with Meta's credential for a successful career leap.Engage with expert instructors and join a thriving community of learners. Unlock your potential and transform your future in tech.</td>
   </tr>
+  <tr>
+      <td><a href="https://www.freecodecamp.org/news/learn-web-development-for-free/">Web Development for Beginners </a> </td>
+      <td>
+      It's excellent offers a comprehensive and structured curriculum covering HTML, CSS, JavaScript, and more. With interactive coding challenges, projects, and certifications, learners can build a strong foundation in web development. The platform also provides a supportive community and access to real-world experience through open source projects. Ideal for self-paced learning, it's a valuable tool for anyone starting their journey in web development.
+      </td>
+  </tr>
+  
 </table>
 
 ### Backend Development
