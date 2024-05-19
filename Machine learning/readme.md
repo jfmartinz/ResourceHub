@@ -46,7 +46,7 @@
 </tr>
 <tr>
    <td><a href="https://drive.google.com/file/d/11KvoK4FMs6gJbo-u-0H5Kj-EY5jPz7g5/view?usp=sharing"> ML Engineer Roadmap </a></td>
-   <td>This roadmap  gives you clear cut roadmap for becoming ready fot the  ML Engineer Job Profile</td>
+   <td>This roadmap  gives you clear cut roadmap for becoming ready for the  ML Engineer Job Profile</td>
 </tr>
 </table>
 
