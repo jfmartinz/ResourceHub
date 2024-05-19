@@ -136,8 +136,8 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
       <td>The official Documentation of Docker, where you can learn how to install Docker for Mac, Windows, or Linux and explore the developer tools as well.</td>
   </tr>
   <tr>
-      <td><a href="https://kubernetes.io/">Kuberenetes Documentation</a></td>
-      <td>The official Documentation of Kuberenetes, where you can read the detailed documentation and some blogs related to kubernetes.</td>
+      <td><a href="https://kubernetes.io/">Kubernetes Documentation</a></td>
+      <td>The official Documentation of Kubernetes, where you can read the detailed documentation and some blogs related to kubernetes.</td>
   </tr>
   <tr>
       <td><a href="https://about.gitlab.com/topics/ci-cd/">CI/CD Pipelines</a></td>
