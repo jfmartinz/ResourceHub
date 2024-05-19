@@ -176,11 +176,7 @@ This category is a collection of valuable Machine learning resources for any beg
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=BuezNNeOGCI&t=1s">Introduction to Machine Learning</a></td>
-    <td>Learn full-stack web development in this full course for beginners. First, you will learn the basics of HTML, CSS, and JavaScript. Then, you will learn how to put everything together to create a frontend movie search app. Finally, you will learn how to create a backend API to create movie reviews and connect the frontend to the backend. The backend uses Node.js, Express, and MongoDB.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=Z3exkejEZkg">Machine Learning vs Traditional Programming</a></td>
-    <td>This is the path of becoming a full-stack developer on Laravel and Vuejs</td>
+    <td>This video by Edureka on "Introduction To Machine Learning" will help you understand the basics of Machine Learning and how it can be used to solve real-world problems. </td>
   </tr>
 </table>
 
@@ -222,11 +218,11 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://youtu.be/m1dQ38qDABw">Introduction to Data collection</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video by codebasics helps you to understand how data collection process is done by collecting the data in real time and gaining some hands-on experience.</td>
     </tr>
     <tr>
       <td ><a href="https://youtu.be/4ub10unSjro">Data collection - video</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video helps get knowledge about where to collect data for Machine Learning; and Where to collect Data for Machine Learning. I Have also explained about Kaggle, UCI Machine Learning Repository and Google Dataset Search. </td>
     </tr>
 </table>
 
@@ -239,7 +235,7 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://youtu.be/iMRE4e99NzA">Introduction to Data Preparation</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video helps you break down the crucial steps and best practices to ensure your datasets are primed for machine learning success. From handling missing values and outliers to feature scaling and encoding categorical variables etc.</td>
     </tr>
     <tr>
       <td ><a href="https://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/#:~:text=You%20discovered%20a%20three%20step%20framework%20for%20data,features%20using%20scaling%2C%20attribute%20decomposition%20and%20attribute%20aggregation.">Data Preparation - article</a></td>
@@ -264,11 +260,11 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://youtu.be/r-Mc8YswoCE">Model selection process</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This Edureka video on Model Selection and Boosting, gives you Step by step guide to select and boost your models in Machine Learning, including need For Model Evaluation,Resampling techniques and more</td>
     </tr>
     <tr>
       <td ><a href="https://youtu.be/SF0YdBXjr_A">Model selection - video</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video is about how to choose the right machine learning model, and in this video he had also explained about Cross Validation which is used for Model Selection.</td>
     </tr>
 </table>
 
@@ -284,12 +280,12 @@ This category is a collection of valuable Machine learning resources for any beg
       <td>The article "Training a Machine Learning Model" from ProjectPro seems like a useful guide for anyone looking to understand the process of training machine learning models. Training a machine learning model involves feeding it with labeled data to learn patterns and make predictions or decisions.</td>
     </tr>
     <tr>
-      <td ><a href="https://youtu.be/X_XpOk1miIY">Model training by Edureka</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td ><a href="https://youtu.be/X_XpOk1miIY">Model training - Video</a></td>
+      <td>This Edureka video on 'Data Modeling - Feature Engineering' gives a  brief introduction to how the model is trained using Machine learning algorithms.</td>
     </tr>
     <tr>
-      <td ><a href="https://youtu.be/_N8RXm2QrrM">Model training by Microsoft Azure</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td ><a href="https://youtu.be/_N8RXm2QrrM">Model training - Video</a></td>
+      <td>This video by Microsoft Azure helps you to understand how to utilize the right compute on Microsoft Azure to scale your training of the model efficiently. </td>
     </tr>
 </table>
 
@@ -310,7 +306,7 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://youtu.be/LbX4X71-TFI">Model Evaluation - Video</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video by AssemblyAI helps you to understand about the most commonly used evaluation metrics for classification and regression tasks and more.</td>
     </tr>
 </table>
 
@@ -331,7 +327,7 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://youtu.be/x6f5JOPhci0">Model Optimization - Video</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This beginners friendly video by Brandon Rohrer gives you a brief understanding about how optimization for machine learning works and more.</td>
     </tr>
 </table>
 
@@ -351,8 +347,8 @@ This category is a collection of valuable Machine learning resources for any beg
       <td>The article from Towards Data Science will focus on machine learning model deployment strategies, which are crucial for ensuring that trained models can be effectively deployed and used in real-world applications. </td>
     </tr>
     <tr>
-      <td ><a href="https://youtu.be/WZ7vS10KPAw">Model Deployment by Microsoft Azure</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td ><a href="https://youtu.be/WZ7vS10KPAw">Model Deployment</a></td>
+      <td>This video by Microsoft Azure helps you to understand the various deployment options and optimizations for large-scale model inferencing. </td>
     </tr>
 </table>
 
@@ -575,7 +571,11 @@ This category is a collection of valuable Machine learning resources for any beg
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Machine learning with python by Freecodecamp</a></td>
+        <td><a href="https://youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn&si=tx4cCdtE3EBAUs2C">Machine learning by Edureka</a></td>
+        <td>This youtube playlist by Edureka on machine learning is the best resource to learn machine learning from beginners level to advanced level that too for free.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Machine learning with python by Freecodecamp</a></td>
         <td>The "Machine Learning with Python" course on FreeCodeCamp provides a valuable learning resource for individuals interested in diving into the field of machine learning using Python, this course offers a structured path to learn machine learning concepts and develop practical skills through hands-on projects and exercises.</td>
       </tr>
       <tr>
