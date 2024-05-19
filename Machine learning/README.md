@@ -365,39 +365,39 @@ This category is a collection of valuable Machine learning resources for any beg
     </tr>
     <tr>
       <td ><a href="https://www.youtube.com/watch?v=45ryDIPHdGg">Linear Regression-1</a>,<a href="https://www.youtube.com/watch?v=1BYu65vLKdA">Linear Regression-2</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>These two videos by Techwithtim channel will give you a clear explaination and understanding of the Linear regressing model,which is also the basic model in the machine learning.</td>
     </tr>
     <tr>
       <td ><a href="https://www.youtube.com/watch?v=zM4VZR0px8E">Logistic Regression</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video by codebasics will give you a brief understanding of logistic regression and also how to use sklearn logistic regression class. At the end we have an interesting exercise for you to solve. </td>
     </tr>
     <tr>
       <td ><a href="https://www.youtube.com/watch?v=vsWrXfO3wWw">Gradient Descent</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video, will teach you few important concepts in machine learning such as cost function, gradient descent, learning rate and mean squared error and more. This helps you to python code to implement gradient descent for linear regression in python</td>
     </tr>
     <tr>
       <td ><a href="https://www.youtube.com/watch?v=FB5EdxAGxQg"> Support Vector Machines</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video gives you the comprehensive knowledge for the SVC and covers different parameters such as gamma, regularization and how to fine tune svm classifier using these parameters and more. </td>
     </tr>
     <tr>
       <td ><a href="https://www.youtube.com/watch?v=PPeaRc-r1OI">Naive Bayes-1</a>,<a href="https://www.youtube.com/watch?v=nHIUYwN-5rM">Naive Bayes-2</a></td>
-      <td>lorem20 nnunbuvyktuihf 88 8ogo 8 h</td>
+      <td>These two videos by codebasics gives you the brief understanding of Naive bayes and also teaches you about sklearn library and python for this beginners machine learning model.</td>
     </tr>
     <tr>
       <td ><a href="https://www.youtube.com/watch?v=CQveSaMyEwM">K Nearest Neighbors</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video helps you understand how K nearest neighbors algorithm work and also write python code using sklearn library to build a knn (K nearest neighbors) model to have hands-on experience.</td>
     </tr>
     <tr>
       <td ><a href="https://www.youtube.com/watch?v=PHxYNGo8NcI">Decision Trees</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video will help you to solve a employee salary prediction problem using decision tree, and teahes you how to use the sklearn class to apply the decision tree model using python.</td>
     </tr>
     <tr>
       <td ><a href="https://www.youtube.com/watch?v=ok2s1vV9XW0">Random Forest</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video teaches you about Random forest a popular regression and classification algorithm, this video also helps you to problem  using sklearn RandomForestClassifier in python.</td>
     </tr>
     <tr>
       <td ><a href="https://www.youtube.com/watch?v=EItlUEPCIzM">KMeans Clustering</a></td>
-      <td>Free fonts and font pairings to use for your next design project.</td>
+      <td>This video gives you a comprehensive knowledge about K Means clustering algorithm which is a unsupervised machine learning technique used to cluster data points, and this video also helps you to solve a  clustering problem using sklearn, kmeans and python.</td>
     </tr>
 </table>
 
