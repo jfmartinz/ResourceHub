@@ -104,7 +104,7 @@ A database is an organized collection of structured information, or data, typica
     </tr>
   <tr>
       <td><a href="https://shorturl.at/6oNur">NetNinja Youtube</a></td>
-      <td>Free playlist on MongoDb.</td>
+      <td>This free playlist on MongoDb is very useful to learn MongoDb from scratch.</td>
     </tr>
   <tr>
       <td><a href="https://www.udemy.com/course/database-engines-crash-course/?couponCode=LEADERSALE24A">Udemy</a></td>
