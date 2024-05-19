@@ -13,7 +13,6 @@ A database is an organized collection of structured information, or data, typica
 - [Best Practices](#best-practices)
 - [Challenges](#challenges)
 - [Books](#books)
-- [Youtube Channels](YouTube-Channels)
 - [Interview](#interview)
 
 
@@ -104,6 +103,19 @@ A database is an organized collection of structured information, or data, typica
       <td><a href="https://www.edx.org/learn/databases">edX</a></td>
       <td>Offers Courses on database development and database queries.</td>
     </tr>
+     <tr>
+        <td> <a href="https://www.youtube.com/watch?v=hlGoQC332VM&t=201s&ab_channel=ApnaCollege">SQL One Shot using MySQL</a></td>
+        <td>By the end of an SQL One Shot course using MySQL, you should be able to confidently design, manage, and optimize MySQL databases, write efficient SQL queries, and understand the principles of relational database management.</td>
+      </tr>
+  <tr>
+     <td> <a href="https://www.youtube.com/watch?v=dl00fOOYLOM&ab_channel=CodeHelp-byBabbar">Complete DBMS in 1 Video (With Notes) </a></td>
+        <td> This comprehensive video, it covers all the essential topics required to excel in DBMS. Explore the architecture of DBMS, understand the principles of normalization, learn about indexing techniques, delve into partitioning and sharding strategies, and discover effective scaling techniques. Gain a deep understanding of these core concepts.</td>
+  </tr>
+       
+   <tr>
+       <td> <a href="https://www.youtube.com/watch?v=c5HAwKX-suM&ab_channel=SCALER">DBMS Full Course for Beginners </a></td>
+        <td>This video, will walk you through the (A-Z) of DBMS. Through this detailed video, you will be taught all the concepts related to Database Management System.</td>
+     </tr>
 </table>
 
 ### Database Design and Modeling
@@ -235,31 +247,6 @@ Database design and modeling are critical steps in the creation and management o
         <td>Free</td>
     </tr>
 </table>
-
-### YouTube Channels 
-> You can condider these YouTube Channel for learning about DBMS (Database)
-
-<table width="100%">
-      <tr>
-        <th>Channel Name</th>
-        <th>Description</th>
-      </tr>
-       <tr>
-        <td> <a href="https://www.youtube.com/watch?v=hlGoQC332VM&t=201s&ab_channel=ApnaCollege">Apna College</a></td>
-        <td>You can learn databases, including SQL and NoSQL, from the Apna College YouTube channel.</td>
-      </tr>
-  <tr>
-     <td> <a href="https://www.youtube.com/watch?v=dl00fOOYLOM&ab_channel=CodeHelp-byBabbar">CodeHelp</a></td>
-        <td>CodeHelp provides comprehensive videos, in this they covered all the essential topics required to excel in DBMS for placements,explore the architecture of DBMS.</td>
-  </tr>
-       
-   <tr>
-       <td> <a href="https://www.youtube.com/watch?v=c5HAwKX-suM&ab_channel=SCALER">SCALER </a></td>
-        <td>This channel providea a full course on DBMS for beginners including  SQL , NoSql courses.</td>
-     </tr>
-      
-    
-  </table>
   
 ### Interview
 
