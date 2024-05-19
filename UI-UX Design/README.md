@@ -337,8 +337,8 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="https://designerhangout.co/">Designer Hangout</a></td>
-        <td>Designer Hangout is a dedicated, invite-only network of UX designers and researchers who discuss trends, give advice, share stories, uncover insights, surface opportunities, and connect in-person. As a UX practitioner, Designer Hangout is your "secret weapon" to progressing your career and accomplishing your life goals. Together, we’re creating the World's most reliable brain trust for UX designers in a fast-paced age.</td>
+        <td> <a href="https://www.linkedin.com/groups/717/">UXPA</a></td>
+        <td>UXPA : User Experience Professionals Association International, for people who research, design, and evaluate the user experience (UX) of products and services, promotes UX concepts and techniques through their annual international conference</td>
       </tr>
       <tr>
         <td> <a href="https://www.linkedin.com/groups/4496205/">User Experience (UX)</a></td>
