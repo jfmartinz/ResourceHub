@@ -13,6 +13,7 @@ A database is an organized collection of structured information, or data, typica
 - [Best Practices](#best-practices)
 - [Challenges](#challenges)
 - [Books](#books)
+- [Youtube Channels](YouTube-Channels)
 - [Interview](#interview)
 
 
@@ -235,6 +236,31 @@ Database design and modeling are critical steps in the creation and management o
     </tr>
 </table>
 
+### YouTube Channels 
+> You can condider these YouTube Channel for learning about DBMS (Database)
+
+<table width="100%">
+      <tr>
+        <th>Channel Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td> <a href="https://www.youtube.com/watch?v=hlGoQC332VM&t=201s&ab_channel=ApnaCollege">Apna College</a></td>
+        <td>You can learn databases, including SQL and NoSQL, from the Apna College YouTube channel.</td>
+      </tr>
+  <tr>
+     <td> <a href="https://www.youtube.com/watch?v=dl00fOOYLOM&ab_channel=CodeHelp-byBabbar">CodeHelp</a></td>
+        <td>CodeHelp provides comprehensive videos, in this they covered all the essential topics required to excel in DBMS for placements,explore the architecture of DBMS.</td>
+  </tr>
+       
+   <tr>
+       <td> <a href="https://www.youtube.com/watch?v=c5HAwKX-suM&ab_channel=SCALER">SCALER </a></td>
+        <td>This channel providea a full course on DBMS for beginners including  SQL , NoSql courses.</td>
+     </tr>
+      
+    
+  </table>
+  
 ### Interview
 
 <table width="100%">
