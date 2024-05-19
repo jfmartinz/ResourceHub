@@ -44,6 +44,8 @@ Here is a list of the currently available categories of the project:<br>
 - [DevOps](https://github.com/jfmartinz/ResourceHub/tree/main/DevOps)
 - [App Development](https://github.com/jfmartinz/ResourceHub/tree/main/App%20Development)
 - [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
+- [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
+
 
 ## How to contribute
 Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your fork of this repository before submitting any contributions.
