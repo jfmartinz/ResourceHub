@@ -137,44 +137,40 @@ App development refers to crafting software for diverse devices, involving plann
      
   </table>
 
-  ### Free Courses
+  ### Courses
 
-> You can consider these free courses for learning App Development:
+> You can consider these courses for learning App Development:
 
 <table width="100%">
       <tr>
         <th>Name</th>
         <th>Description</th>
+        <th>Status</th>
       </tr>
        <tr>
         <td> <a href="https://www.freecodecamp.org/">Codecademy </a></td>
         <td> Offers free interactive courses on HTML, CSS, JavaScript, React.js, Angular, and more.</td>
+        <td>Free</td>
       </tr>
+      <tr>
         <td> <a href="https://www.coursera.org/specializations/app-development">Coursera - iOS App Development with Swift Specialization (Audit Mode) </a></td>
         <td>Allows auditing individual courses in the specialization for free, covering Swift programming and iOS app development.</td>
+        <td>Paid</td>
       </tr>
-     
-  </table>
-
-  ### Paid Courses
-
-> You can consider these paid courses for learning App Development:
-
-<table width="100%">
+     <tr>
+        <td> <a href="https://www.coursera.org/specializations/meta-react-native">Coursera - Meta React Native Specialization </a></td>
+        <td>Become a cross-platform mobile app developer. Learn in-demand skills for developing reliable, scalable and user-friendly mobile apps for multiple operating systems, such as iOS and Android.</td>
+        <td>Paid</td>
+      </tr>
       <tr>
-        <th>Name</th>
-        <th>Description</th>
+        <td> <a href="https://www.udemy.com/topic/app-development/">Udemy App Development Courses</a></td>
+        <td>Udemy's app development courses provide comprehensive, hands-on training to help you build professional mobile applications from scratch.</td>
+        <td>Paid</td>
       </tr>
-       <tr>
-        <td> <a href="https://www.coursera.org/specializations/full-stack-web-development">Coursera - Full Stack Web and Multiplatform Mobile App Development Specialization </a></td>
-        <td> Paid specialization covering web development (HTML, CSS, JavaScript, Node.js) and mobile app development (React Native).</td>
-      </tr>
-        <td> <a href="https://www.linkedin.com/learning/">LinkedIn Learning </a></td>
-        <td>Offers various courses on app development, including iOS, Android, and cross-platform development using frameworks like Flutter and React Native.</td>
-      </tr>
-     </tr>
-        <td> <a href="https://www.pluralsight.com/">Pluralsight </a></td>
-        <td>Provides courses on mobile app development, frontend and backend development, and other related topics, with a subscription-based model.</td>
+     <tr>
+        <td> <a href="https://www.linkedin.com/learning/android-development-essential-training-1-your-first-app">LinkedIn - Android Development Essential Training</a></td>
+        <td>Android is the most popular mobile operating system in the world, holding 85% of global market share. That makes Android the natural starting point for new app developers. This series of courses teaches the basics needed to develop, design, manage, and distribute a native Android application using the Kotlin programming language and the Android SDK. </td>
+      <td>Paid</td>
       </tr>
   </table>
 
