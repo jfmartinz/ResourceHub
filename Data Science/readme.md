@@ -286,3 +286,23 @@ Platforms and resources for participating in Data Science challenges to practice
     <td>A global community that organizes datathons and other data science challenges.</td>
   </tr>
 </table>
+
+### Communities
+
+<table width="100%">
+  <tr>
+    <th>Community</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td> <a href="https://www.reddit.com/r/datascience/">r/datascience</a></td>
+    <td>A Reddit community for discussions, questions, and resources about data science.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.kaggle.com/discussion">Kaggle Forums</a></td>
+    <td>Discussion forums on Kaggle where data scientists discuss competitions, datasets, and more.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://datascience.stackexchange.com/">Data Science Stack Exchange</a></td>
+    <td>A Q&A site for data science professionals and enthusiasts to discuss data analysis, statistics, machine learning, and more.</td>
+  </tr>
