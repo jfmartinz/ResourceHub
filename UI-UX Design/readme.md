@@ -642,8 +642,4 @@ exercises.</td>
       <td width="150px"><a href="https://github.com/gregjw/ui-ux">UI-UX</a></td>
       <td>The GitHub repository "UI-UX" by gregjw is a curated list of resources for UI/UX designers. It includes categories such as user research tools, standards and guidelines, prototyping tools, browser extensions, design tools,various frameworks and more.</td>
       </tr>
-      <tr>
-      <td width="150px"><a href="https://github.com/greyhatguy007/meta-front-end-developer-professional-certificate">Meta frontend developer professional course</a></td>
-      <td>The GitHub repository "Meta Front-End Developer Professional Certificate" by greyhatguy007, this repository is organized into various courses, covering topics such as HTML, CSS, JavaScript, React, version control, and advanced React concepts. </td>
-      </tr>
 </table>   
