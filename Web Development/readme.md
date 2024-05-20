@@ -83,6 +83,10 @@ This category is a curated collection of valuable web development resources cont
    <td><a href="https://www.geeksforgeeks.org/full-stack-developer-roadmap/">Full-Stack</a></td>
    <td>This is the roadmap for full-stack development</td>
 </tr>
+<tr>
+   <td><a href="https://drive.google.com/file/d/11fcT3EntbnverpXN6A4XwBC66KmQ-i7e/view?usp=sharing">Full-Stack</a></td>
+   <td>This is the roadmap for full-stack development</td>
+</tr>
 </table>
 
 ### Tutorials or Courses

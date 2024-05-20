@@ -44,6 +44,10 @@
    <td><a href="https://www.scaler.com/blog/machine-learning-roadmap/"> Machine Learning Roadmap </a></td>
    <td>This roadmap provided by scaler gives you clear cut roadmap for studying/learning Machine learning</td>
 </tr>
+<tr>
+   <td><a href="https://drive.google.com/file/d/11KvoK4FMs6gJbo-u-0H5Kj-EY5jPz7g5/view?usp=sharing"> ML Engineer Roadmap </a></td>
+   <td>This roadmap  gives you clear cut roadmap for becoming ready for the  ML Engineer Job Profile</td>
+</tr>
 </table>
 
 ### Tutorials or Courses
