@@ -55,11 +55,74 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td> <a href="https://numpy.org/">NumPy </a></td>
         <td> Fundamental package for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices.</td>
       </tr>
+      <tr>
+        <td> <a href="https://www.python.org/">Python </a></td>
+        <td> Python is a versatile programming language widely used in data science for its simplicity, extensive libraries, and robust community support, making it ideal for data manipulation, analysis, and visualization.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://spark.apache.org/">Apache Spark </a></td>
+        <td> Apache Spark is a powerful open-source distributed computing system that provides fast processing capabilities for large-scale data analytics, making it essential for handling big data in data science.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://matplotlib.org/">Matplotlib </a></td>
+        <td> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python, crucial for plotting complex data in a visually interpretable manner.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://scikit-learn.org/stable/">Scikit-learn </a></td>
+        <td> Scikit-learn is a Python library offering simple and efficient tools for data mining and machine learning, including classification, regression, clustering, and dimensionality reduction.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://jupyter.org/">Jupyter Notebook </a></td>
+        <td> Jupyter Notebook is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text, enhancing interactive data analysis and exploration.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.tensorflow.org/">Tensorflow </a></td>
+        <td> TensorFlow is an open-source platform for machine learning, providing a comprehensive ecosystem of tools, libraries, and community resources to build and deploy machine learning models.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://hadoop.apache.org/">Apache Hadoop </a></td>
+        <td> Apache Hadoop is an open-source framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models, essential for big data storage and processing.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.mathworks.com/products/matlab.html">Matlab </a></td>
+        <td> Matlab is a high-level language and interactive environment for numerical computation, visualization, and programming, widely used for algorithm development, data analysis, and engineering simulations.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://keras.io/">Keras </a></td>
+        <td> Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, enabling fast experimentation with deep neural networks.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.tableau.com/">Tableau  </a></td>
+        <td> Tableau is a powerful data visualization tool that helps in transforming raw data into interactive and shareable dashboards, facilitating deeper insights through graphical representations.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.microsoft.com/en-in/microsoft-365/excel">Excel </a></td>
+        <td> Excel is a spreadsheet application by Microsoft, used for data entry, analysis, and visualization, featuring tools for statistical analysis, pivot tables, and charting.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.datarobot.com/">DataRobot  </a></td>
+        <td> DataRobot is an AI platform that automates the end-to-end process for building, deploying, and maintaining machine learning models, enhancing productivity and accelerating time-to-value in data science projects.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi">Microsoft Power BI   </a></td>
+        <td> Microsoft Power BI is a business analytics service that provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
+        </td>
+      </tr>
   </table>
 
 ### Technologies
 
-> These are the technologies you can master to be a successful App Developer. They are listed below:
+> These are the technologies you can master to be a successful Data Scientist . They are listed below:
 
 <table width="100%">
       <tr>
@@ -158,7 +221,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 
 ### YouTube Channels
 
-> You can condider these YouTube Channel for learning Data Science:
+> You can consider these YouTube Channel for learning Data Science:
 
 <table width="100%">
       <tr>

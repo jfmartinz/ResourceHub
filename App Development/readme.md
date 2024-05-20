@@ -23,7 +23,10 @@ App development refers to crafting software for diverse devices, involving plann
       </tr>
       <th ><a href="https://roadmap.sh/android">App Development </a></th>
         <th>This is the Roadmap for App Development</th>
-
+      <tr>
+      <th ><a href="https://drive.google.com/file/d/11MaaNwSIEv9D270iPRXLMUbr5d9PS7Wy/view?usp=sharing">App Development </a></th>
+        <th>This is the Roadmap for App Development</th>
+      </tr>
   </table>
 
 ### Tools
@@ -199,7 +202,7 @@ App development refers to crafting software for diverse devices, involving plann
       </tr>
       <tr>
         <td>Android App Development</td>
-        <td> <a href="https://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1491974052">Head First Android Development" by Dawn Griffiths and David Griffiths</a></td>
+        <td> <a href="https://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1491974052">Head First Android Development - by Dawn Griffiths and David Griffiths</a></td>
         <td>Presents a beginner-friendly approach to Android app development, focusing on building engaging and interactive apps.</td>
       </tr>
       <tr>
@@ -214,14 +217,14 @@ App development refers to crafting software for diverse devices, involving plann
       </tr>
      <tr>
         <td>Cross-Platform App Development</td>
-        <td> <a href="https://www.amazon.com/React-Native-Action-Nader-Dabit/dp/1617294055">React Native in Action" by Nader Dabit</a></td>
+        <td> <a href="https://www.amazon.com/React-Native-Action-Nader-Dabit/dp/1617294055">React Native in Action - by Nader Dabit</a></td>
         <td>Provides practical insights into building mobile apps with React Native, covering topics like navigation, data management, and performance optimization.</td>
       </tr>
   </table>
 
 ### YouTube Channels
 
-> You can condider these YouTube Channel for learning App Development:
+> You can consider these YouTube Channel for learning App Development:
 
 <table width="100%">
       <tr>

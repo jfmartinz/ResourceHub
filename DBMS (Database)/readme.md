@@ -242,7 +242,7 @@ Database design and modeling are critical steps in the creation and management o
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
-    <td><a href="https://www.hackerrank.com/blog/database-interview-questions-you-should-know/">Hackerrank</a></td>
+    <td><a href="https://www.hackerrank.com/blog/database-interview-questions-you-should-know/">HackerRank</a></td>
         <td>Known for its extensive library of coding challenges, HackerRank includes many database-specific problems. You can practice basic to advanced SQL queries, relational algebra, database normalization, and more. It’s a good place to get familiar with the type of questions that might be asked during technical interviews​.</td>
     </tr>
     <tr>
