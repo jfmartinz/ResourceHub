@@ -9,7 +9,7 @@ PR Title samples:
 
 
 ### Closes Issue
-> KEYWORD #ISSUE-NUMBER. For example: Closes #10 
+> KEYWORD #ISSUE-NUMBER. For example: Closes [#10] 
 
 
 ### Description: 
