@@ -247,3 +247,42 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td>This channel offers tutorials on Python programming, data analysis, machine learning, and deep learning, aimed at beginners. </td>
       </tr>
   </table>
+
+### Challenges
+Platforms and resources for participating in Data Science challenges to practice and showcase your skills.
+
+<table width="100%">
+  <tr>
+    <th>Platform</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td> <a href="https://www.kaggle.com/competitions">Kaggle Competitions</a></td>
+    <td>A platform offering a variety of data science and machine learning competitions.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.drivendata.org/competitions/">DrivenData</a></td>
+    <td>Data science competitions for social good.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.hackerearth.com/challenges/">HackerEarth</a></td>
+    <td>Challenges and hackathons for data science and machine learning enthusiasts.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.kdd.org/kdd2023/">KDD Cup</a></td>
+    <td>Annual data mining and knowledge discovery competition organized by the ACM Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD).</td>
+  </tr>
+  <tr>
+    <td> <a href="https://zindi.africa/competitions">Zindi</a></td>
+    <td>Africa's largest data science competition platform, hosting competitions to solve real-world problems.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.topcoder.com/challenges">Topcoder</a></td>
+    <td>A platform offering data science and algorithm challenges, along with other software development competitions.</td>
+  </tr>
+  <tr>
+  <tr>
+    <td> <a href="https://www.datasciencesociety.net/">Data Science Society</a></td>
+    <td>A global community that organizes datathons and other data science challenges.</td>
+  </tr>
+</table>
