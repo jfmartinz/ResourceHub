@@ -14,6 +14,7 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
 - [Newsletter](#newsletter)<br>
 - [UI/UX Design Challenges](#challenges)<br>
 - [Figma Resources](#figma-resources)<br>
+- [GitHub Repositories](#github-repositories)
 
 ### Tutorials or Courses
 
@@ -614,5 +615,31 @@ exercises.</td>
         <td width="150px"><a href="https://figmaresource.com/">figma resources</a></td>
         <td>Dive into the open-source design world for Figma with Figma Resource! Explore a vast library of freely available icons to enhance your projects.  Remember, Figma Resource is independent of Figma Inc.</td>
       </tr>
-      
   </table>
+
+### GitHub Repositories
+
+>These GitHub repositories help you Learn UI/UX Designs efficiently.
+
+<table width="100%">
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td width="150px"><a href="https://github.com/Pediomo/UI-UX-resources">UI-UX Resources</a></td>
+      <td>The GitHub repository UI-UX-resources Created and managed by Pediomo offers a comprehensive list of resources related to UI/UX design. It includes articles, books, videos, tools, podcasts, courses, and more.</td>
+    </tr>
+    <tr>
+      <td width="150px"><a href="https://github.com/hendurhance/ui-ux">UI-UX</a></td>
+      <td>The GitHub repository UI-UX is created and managed by  hendurhance is a collection of resources which includes various tools, frameworks, and guidelines to enhance the design process and create better user experiences.</td>
+    </tr>
+    <tr>
+      <td width="150px"><a href="https://github.com/togiberlin/ui-ux-designer-roadmap?tab=readme-ov-file">UI-UX Designer roadmap</a></td>
+      <td>The "UI/UX Designer Roadmap" GitHub repository by togiberlin provides a solid understanding of UI-UX designer's roadmap and it also includes clear learning path, detailing essential skills and tools necessary for becoming proficient in UI/UX design.</td>
+      </tr>
+    <tr>
+      <td width="150px"><a href="https://github.com/gregjw/ui-ux">UI-UX</a></td>
+      <td>The GitHub repository "UI-UX" by gregjw is a curated list of resources for UI/UX designers. It includes categories such as user research tools, standards and guidelines, prototyping tools, browser extensions, design tools,various frameworks and more.</td>
+      </tr>
+</table>   
