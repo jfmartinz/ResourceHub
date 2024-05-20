@@ -46,6 +46,7 @@ This category is a curated collection of valuable web development resources cont
 
 ### Roadmap
 
+> Step-by-step guide for front-end, back-end, and full-stack development.
 #### Front-End Roadmap
 
 <table width="100%">
