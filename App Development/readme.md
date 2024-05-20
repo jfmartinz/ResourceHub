@@ -7,8 +7,7 @@ App development refers to crafting software for diverse devices, involving plann
 - [Roadmap](#Roadmap)<br>
 - [Tools](#tools)<br>
 - [Technologies](#technologies)<br>
-- [Free Courses](#free-courses)<br>
-- [Paid Courses](#paid-courses)<br>
+- [Courses](#courses)<br>
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 
