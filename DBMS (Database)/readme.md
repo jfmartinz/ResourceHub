@@ -296,6 +296,7 @@ Database design and modeling are critical steps in the creation and management o
         <td>This Github repository aims to help developers and database administrators find valuable content, including educational materials, tools for database management, performance tuning, extensions, and best practices for Postgre.
         </td>
     </tr>
+</table>
 
 
     
