@@ -103,7 +103,16 @@ A database is an organized collection of structured information, or data, typica
       <td><a href="https://www.edx.org/learn/databases">edX</a></td>
       <td>Offers Courses on database development and database queries.</td>
     </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&ab_channel=NetNinja">NetNinja Youtube</a></td>
+      <td>This free playlist on MongoDb is very useful to learn MongoDb from scratch.</td>
+    </tr>
+  <tr>
+      <td><a href="https://www.udemy.com/course/database-engines-crash-course/?couponCode=LEADERSALE24A">Udemy</a></td>
+      <td>Learn ACID, Indexing, Partitioning, Sharding, Concurrency control, Replication, DB Engines, Best Practices and More!.</td>
+    </tr>
 </table>
+
 
 ### Database Design and Modeling
 Database design and modeling are critical steps in the creation and management of a database system. These processes ensure that the database will meet the requirements of the users and applications it serves.Here we discuss some important components of Database Design and Modeling.
