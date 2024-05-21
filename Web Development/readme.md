@@ -3,7 +3,7 @@ This category is a curated collection of valuable web development resources cont
 
 ## Table of Contents
 
-- [Roadmap](roadmap)
+- [Roadmap](roadmaps)
 
   - [Front-End Development Roadmap](#front-end-roadmap)
   - [BackEnd Development Roadmap](#back-end-roadmap)
@@ -44,7 +44,7 @@ This category is a curated collection of valuable web development resources cont
   - [Intermediate level](#intermediate-level-projects)
   - [Advanced level](#advance-level-projects)
 
-### Roadmap
+### Roadmaps
 
 > Step-by-step guide for front-end, back-end, and full-stack development.
 #### Front-End Roadmap
