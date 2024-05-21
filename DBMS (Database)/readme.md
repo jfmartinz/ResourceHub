@@ -14,6 +14,7 @@ A database is an organized collection of structured information, or data, typica
 - [Challenges](#challenges)
 - [Books](#books)
 - [Interview](#interview)
+- [GitHub Repositories](#github-repositories)
 
 
 ### Database Category
@@ -267,3 +268,34 @@ Database design and modeling are critical steps in the creation and management o
         <td>Codecademy offers a variety of courses and interview prep materials focused on SQL and other data-related skills. They provide free-response questions and AI-generated feedback to help you prepare for technical interviews. Their courses cover essential topics like data analysis, SQL querying, and data visualization​.</td>
     </tr>
 </table>
+
+# GitHub Repositories
+
+<table width="100%">
+    <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ramnes/awesome-mongodb">Awesome Mongo DB</a></td>
+        <td>This GitHub repository is a collection of high-quality resources, tools, libraries, and tutorials for MongoDB, and this is also designed to help developers find everything they need to effectively work with MongoDB, including client libraries, tools for database management, educational materials, and more. 
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/danhuss/awesome-sql">Awesome SQL</a></td>
+        <td>This GitHub repository is a comprehensive  collection of high-quality resources, libraries, tools, and tutorials for SQL and also designed to assist developers and database administrators in finding useful SQL-related content, including learning materials, query optimization techniques, database design best practices, and advanced SQL usage examples.
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/shlomi-noach/awesome-mysql">Awesome mysql</a></td>
+        <td>This github repository serves as a guide for developers and database administrators, offering everything from beginner tutorials and educational materials to advanced tools for database management, performance optimization, security and more in mysql. 
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/dhamaniasad/awesome-postgres">Awesome Postgre</a></td>
+        <td>This Github repository aims to help developers and database administrators find valuable content, including educational materials, tools for database management, performance tuning, extensions, and best practices for Postgre.
+        </td>
+    </tr>
+
+
+    
