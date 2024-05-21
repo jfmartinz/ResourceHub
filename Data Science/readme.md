@@ -248,8 +248,8 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       </tr>
   </table>
 
-### Challenges
-Platforms and resources for participating in Data Science challenges to practice and showcase your skills.
+### Competitions
+Platforms and resources for participating in Data Science competitions to practice and showcase your skills.
 
 <table width="100%">
   <tr>
