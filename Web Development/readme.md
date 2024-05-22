@@ -3,7 +3,7 @@ This category is a curated collection of valuable web development resources cont
 
 ## Table of Contents
 
-- [Roadmap](roadmap)
+- [Roadmap](roadmaps)
 
   - [Front-End Development Roadmap](#front-end-roadmap)
   - [BackEnd Development Roadmap](#back-end-roadmap)
@@ -44,8 +44,9 @@ This category is a curated collection of valuable web development resources cont
   - [Intermediate level](#intermediate-level-projects)
   - [Advanced level](#advance-level-projects)
 
-### Roadmap
+### Roadmaps
 
+> Step-by-step guide for front-end, back-end, and full-stack development.
 #### Front-End Roadmap
 
 <table width="100%">
@@ -81,6 +82,10 @@ This category is a curated collection of valuable web development resources cont
   </tr>
 <tr>
    <td><a href="https://www.geeksforgeeks.org/full-stack-developer-roadmap/">Full-Stack</a></td>
+   <td>This is the roadmap for full-stack development</td>
+</tr>
+<tr>
+   <td><a href="https://drive.google.com/file/d/11fcT3EntbnverpXN6A4XwBC66KmQ-i7e/view?usp=sharing">Full-Stack</a></td>
    <td>This is the roadmap for full-stack development</td>
 </tr>
 </table>
@@ -193,7 +198,12 @@ This category is a curated collection of valuable web development resources cont
       It's excellent offers a comprehensive and structured curriculum covering HTML, CSS, JavaScript, and more. With interactive coding challenges, projects, and certifications, learners can build a strong foundation in web development. The platform also provides a supportive community and access to real-world experience through open source projects. Ideal for self-paced learning, it's a valuable tool for anyone starting their journey in web development.
       </td>
   </tr>
-  
+  <tr>
+  <td><a href="https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&si=UYYv7L3NHDF31bHL">Web Development Course - Apna College</a>
+  </td>
+  <td>The provided link directs to a playlist hosted by Apna College on YouTube, offering a comprehensive web development course. Covering everything from the basics to advanced topics, this curated collection serves as a valuable resource for beginners and intermediate learners alike. With structured lessons and hands-on tutorials, it equips viewers with the necessary skills to build websites from scratch and navigate the complexities of modern web development.
+  </td> 
+</tr>
 </table>
 
 ### Backend Development
