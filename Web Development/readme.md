@@ -1562,11 +1562,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td> <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">JavaScript Music Player</a></td>
         <td>This JavaScript music player is an interactive web-based application that allows users to play audio files directly from their browser. It is built primarily using JavaScript ,React  along with HTML and CSS, to handle the user interface and the media playback.   </td>
-         <tr>
-        <td><a href="https://github.com/kartikmehta18/javascriptgame">Stone-Paper-Scissor game</a></td>
-        <td>
-       The Stone-Paper-Scissor game, also known as Rock-Paper-Scissors, is a simple hand game usually played between two people. Each player simultaneously forms one of three shapes with an outstretched hand. The possible outcomes are: Rock crushes Scissors,  Scissors cuts Paper,      Paper covers Rock. In this implementation, the user can play against the computer. 
-        </td>
+      
      
   </table>
 
