@@ -76,7 +76,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>A comprehensive roadmap that outlines the skills, technologies, and tools you need to become a proficient JavaScript developer.</td>
   </tr>
   <tr>
-    <td><a href="https://dev.to/javascript_tutorial/the-javascript-roadmap-4pl2">JavaScript Developer Roadmap II</a></td>
+    <td><a href="https://www.propeers.in/roadmaps/661cc0c319eb36162ffea7bb">JavaScript Developer Roadmap II</a></td>
     <td>This Roadmap encompasses all aspects of JavaScript, from the fundamental concepts to advanced topics, featuring numerous hands-on coding problem exercises, projects and resources tailored for interview readiness.</td>
   </tr>
 </table>
@@ -267,7 +267,7 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
   <tr>
     <td>Polymorphism</td>
-    <td><a href="https://www.javascripttutorial.net/javascript-polymorphism/">JavaScript Tutorial - Polymorphism in JavaScript</a></td>
+    <td><a href="https://www.geeksforgeeks.org/polymorphism-in-javascript/">JavaScript Tutorial - Polymorphism in JavaScript</a></td>
     <td>An article explaining the concept of polymorphism in JavaScript and how to achieve it.</td>
   </tr>
   <tr>
