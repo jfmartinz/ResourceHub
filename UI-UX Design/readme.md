@@ -10,6 +10,7 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
 - [Books](#books)<br>
 - [Communities](#communities)<br>
 - [Youtube Channels](#youtube-channels)<br>
+- [YouTube Playlist](#youtube-playlists)
 - [Interview](#interview)<br>
 - [Newsletter](#newsletter)<br>
 - [UI/UX Design Challenges](#challenges)<br>
@@ -31,11 +32,6 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
         <td>This beginner web design course covers all you need to know in 5 hours.</td>
             <td>FREE</td>
       </tr>
-      <tr>
-         <td><a href="https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI"> Web Design 101: Free Full Course</a></td>   
-         <td>Flux is offering free web design classes for those using quarantine to learn something new or facing financial constraints.</td>  
-            <td>FREE</td>
-      </tr>
        <tr>
       <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
       <td>The Nielsen Norman Group is a top source for UX research and design. Their website has a wealth of articles and reports covering various UX topics. It's a must-visit for staying current with best practices and industry trends.</td>
@@ -52,7 +48,7 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
             <td>$9.32/month</td>
       </tr>
       <tr>
-      <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization]</a></td>
+      <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization</a></td>
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
             <td>$32.63/month</td>
   </tr>
@@ -405,6 +401,40 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
         <td><a href="https://www.youtube.com/@abnux">ABNUX</a></td>
         <td>Founder of 10kdesigners – learn UI/UX design. This channel is dedicated to helping you become a better designer • Previously Head of Design at Unacademy, Founder @LisnApp.</td>
       </tr>
+</table>
+
+### YouTube Playlists
+
+> These Youtube Playlist Help you learn UI/UX Design more efficiently.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+         <td><a href="https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI"> Web Design 101: Free Full Course</a></td>   
+         <td>Flux is offering free web design classes for those using quarantine to learn something new or facing financial constraints.</td>  
+      </tr>
+      <tr>
+        <td> <a href="https://youtube.com/playlist?list=PLjiHFwhbHYlHSpAflJwjsKAyMaMhASm0F&si=E1Q_pT0zb4pRFo0I">UI/UX Design</a></td>
+        <td>This YoutTube Playlist by DesignwithArash is a perfect collection of videos which includes about Figma, Design techs, Tools and more.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://youtube.com/playlist?list=PLvDSYqFjjGrjIDkeaXwQPwBVKR3D4vsAH&si=ul51wp_IcrVmR_P1">UI UX Design Full Course with Figma & more</a></td>
+        <td>This YouTube Playlist by Drnchrj Academy is a collection of videos about web UI/UX Design, Mobile UI/UX Design ,Figma and more tools. </td>
+      </tr>
+      <tr>
+        <td> <a href="https://youtube.com/playlist?list=PLttcEXjN1UcHu4tCUSNhhuQ4riGARGeap&si=MTORbVNiIb7__Yaz">Figma UI/UX Essential</a></td>
+        <td>This YouTube Playlist by "Bring Your Own Laptop" is a collection of videos which covers topics like fonts in Figma, tips and tricks in Figma, prefernces in Figma and more.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://youtube.com/playlist?list=PLxk9zj3EDi0WG8jU6-RI4GnL4l7Oz0Jhg&si=tYb3ZkV8Ei69LH9t">UX Design - How To Get Started!</a></td>
+        <td>This playlist by J&Smart hosts some of the best UX resources on the training, tools, resources and best practices that you'll need to learn or charge your user experience design career!</td>
+      </tr>
+      <tr>
 </table>
 
 ### Interview
