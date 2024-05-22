@@ -10,6 +10,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 - [Free Courses](#free-courses)<br>
 - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
+- [Communities](#communities)<br>
 - [Youtube Channels](#youtube-channels)<br>
 
 ### Roadmap
@@ -248,6 +249,35 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       </tr>
   </table>
 
+### Communities
+
+<table width="100%">
+  <tr>
+    <th>Community</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td> <a href="https://www.reddit.com/r/datascience/">r/datascience</a></td>
+    <td>This subreddit r/datascience is a community dedicated to discussions and resources related to data science. It serves as a platform for data science professionals, enthusiasts, and learners to share insights, ask questions and more</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.reddit.com/r/DataScienceProjects/">r/DatascienceProjects</a></td>
+    <td>This subreddit is all about sharing and collaborating on data science projects. Whether you’re showcasing your latest work or seeking collaborators, this sub is just that!</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.kaggle.com/discussion">Kaggle Forums</a></td>
+    <td>Discussion forums on Kaggle where data scientists discuss competitions, datasets, and more.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://datascience.stackexchange.com/">Data Science Stack Exchange</a></td>
+    <td>Data Science Stack Exchange is a Q&A community for data science professionals, machine learning practitioners, and researchers. Users can ask and answer questions on a variety of topics including data analysis, statistical modeling, data mining, and algorithm development.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://towardsdatascience.com/">Towards Data Science</a></td>
+    <td>Towards Data Science is a Medium publication that provides a platform for data science enthusiasts and professionals to share their insights, research, and tutorials.</td>
+  </tr>
+  
+
 ### Competitions
 Platforms and resources for participating in Data Science competitions to practice and showcase your skills.
 
@@ -287,22 +317,3 @@ Platforms and resources for participating in Data Science competitions to practi
   </tr>
 </table>
 
-### Communities
-
-<table width="100%">
-  <tr>
-    <th>Community</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td> <a href="https://www.reddit.com/r/datascience/">r/datascience</a></td>
-    <td>A Reddit community for discussions, questions, and resources about data science.</td>
-  </tr>
-  <tr>
-    <td> <a href="https://www.kaggle.com/discussion">Kaggle Forums</a></td>
-    <td>Discussion forums on Kaggle where data scientists discuss competitions, datasets, and more.</td>
-  </tr>
-  <tr>
-    <td> <a href="https://datascience.stackexchange.com/">Data Science Stack Exchange</a></td>
-    <td>A Q&A site for data science professionals and enthusiasts to discuss data analysis, statistics, machine learning, and more.</td>
-  </tr>
