@@ -152,6 +152,10 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td> <a href="https://youtu.be/X2vAabgKiuM?si=ppqTTm_mui7aOtdT">Natural Language Processing and Recommender systems </a></td>
         <td>Branch of AI enabling computers to understand, interpret, and generate human language, vital for text analysis tasks and algorithms suggesting items based on user preferences, leveraging data to enhance personalized recommendations in various domains.</td>
       </tr>
+      <tr>
+      <td><a href="https://youtu.be/yZvFH7B6gKI?si=hYj4x1sAGk9TK1VY">Data Analytics</a></td>
+      <td>Data analytics converts raw data into actionable insights. It includes a range of tools, technologies, and processes used to find trends and solve problems by using data. Data analytics can shape business processes, improve decision-making, and foster business growth.</td>
+      </tr>
   </table>
 
   ### Free Courses
@@ -170,7 +174,9 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td> <a href="https://www.coursera.org/specializations/jhu-data-science">Coursera - Data Science Specialization by Johns Hopkins University </a></td>
         <td>A series of nine courses covering the entire data science workflow using R.</td>
       </tr>
-     
+     <tr>
+     <td> <a href="https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&si=L7jPIALUtbxqz46H">YouTube - Data Analyst Bootcamp by Alex The Analyst </a></td>
+     <td> A Complete Step by Step Guided playlist for Data Analytics, consisting of all Analytical tools like MS Excel, Power BI, Tableau, Python etc. </td>
   </table>
 
   ### Paid Courses
@@ -248,6 +254,9 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
      </tr>
         <td> <a href="https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ">Codebasics </a></td>
         <td>This channel offers tutorials on Python programming, data analysis, machine learning, and deep learning, aimed at beginners. </td>
+      </tr>
+      <td> <a href="https://www.youtube.com/@AlexTheAnalyst"> Alex The Analyst</a></td>
+      <td> This Channel offers  complete tutorials of Various Analytical tools like MS Excel, Power BI, Tableau along with their applications, Project building.</td>
       </tr>
   </table>
 
