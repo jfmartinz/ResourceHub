@@ -58,6 +58,7 @@ This section is dedicated to providing valuable resources for learning and maste
 - [Additional Resources](#additional-resources)
    - [JavaScript Games](#javascript-games)
    - [JavaScript Communities](#javascript-communities)
+   - [JavaScript Documentations](#javascript-documentations)
    - [JavaScript Books](#javascript-books)
 - [Conclusion](#conclusion)
 
