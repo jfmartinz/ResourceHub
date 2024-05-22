@@ -18,7 +18,7 @@ This section is dedicated to providing valuable resources for learning and maste
    - [Asynchronus JavaScript](#asynchronous-javascript)
    - [DOM Manipulation](#dom-manipulation)
    - [APIs ans Fetch](#apis-and-fetch)
-- [Tools and Developer Environment](#development-environment-and-tools)
+- [Tools and Developer Environment](#tools-and-development-environment)
    - [Browser](#browser)
    - [IDEs for JavaScript](#ides-for-javascript)
    - [Online Editors for JavaScript](#online-editors-for-javascript)
