@@ -43,6 +43,7 @@ Here is a list of the currently available categories of the project:<br>
 - [Open Source Development](https://github.com/jfmartinz/ResourceHub/tree/main/Open%20Source%20Development)
 - [DevOps](https://github.com/jfmartinz/ResourceHub/tree/main/DevOps)
 - [App Development](https://github.com/jfmartinz/ResourceHub/tree/main/App%20Development)
+- [Programming Languages](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages)
 - [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
 - [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
 
