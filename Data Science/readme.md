@@ -280,6 +280,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
     <td> <a href="https://www.datasciencesociety.net/">Data Science Society </a></td>
     <td>The Data Science Society is an international digital community focused on data science education and collaboration. It organizes events such as datathons, meetups, and workshops, offering real-world cases for hands-on learning.</td>
   </tr>
+</table>
   
 ### Competitions
 
