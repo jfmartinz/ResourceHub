@@ -31,11 +31,6 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
         <td>This beginner web design course covers all you need to know in 5 hours.</td>
             <td>FREE</td>
       </tr>
-      <tr>
-         <td><a href="https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI"> Web Design 101: Free Full Course</a></td>   
-         <td>Flux is offering free web design classes for those using quarantine to learn something new or facing financial constraints.</td>  
-            <td>FREE</td>
-      </tr>
        <tr>
       <td><a href="https://www.nngroup.com/articles/">Nielsen Norman Group (NN/g) - UX Articles and Research</a></td>
       <td>The Nielsen Norman Group is a top source for UX research and design. Their website has a wealth of articles and reports covering various UX topics. It's a must-visit for staying current with best practices and industry trends.</td>
@@ -52,7 +47,7 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
             <td>$9.32/month</td>
       </tr>
       <tr>
-      <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization]</a></td>
+      <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization</a></td>
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
             <td>$32.63/month</td>
   </tr>
