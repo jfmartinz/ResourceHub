@@ -550,7 +550,7 @@ Automate repetitive tasks with Python using these useful resources.
         <th>Description</th>
       </tr>
        <tr>
-        <td><a href="https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA">Corey Schafer</a></td>
+        <td><a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g">Corey Schafer</a></td>
         <td>Corey Schafer offers in-depth tutorials on Python programming, covering topics from basics to advanced concepts, along with practical examples and projects.</td>
       </tr>
       <tr>
