@@ -348,13 +348,17 @@ Platforms and resources for participating in Data Science competitions to practi
 ### Communities
 
 <table width="100%">
-  <tr>
+   <tr>
     <th>Community</th>
     <th>Description</th>
   </tr>
   <tr>
     <td> <a href="https://www.reddit.com/r/datascience/">r/datascience</a></td>
-    <td>A Reddit community for discussions, questions, and resources about data science.</td>
+    <td>This subreddit r/datascience is a community dedicated to discussions and resources related to data science. It serves as a platform for data science professionals, enthusiasts, and learners to share insights, ask questions and more</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.reddit.com/r/DataScienceProjects/">r/DatascienceProjects</a></td>
+    <td>This subreddit is all about sharing and collaborating on data science projects. Whether you’re showcasing your latest work or seeking collaborators, this sub is just that!</td>
   </tr>
   <tr>
     <td> <a href="https://www.kaggle.com/discussion">Kaggle Forums</a></td>
@@ -362,5 +366,14 @@ Platforms and resources for participating in Data Science competitions to practi
   </tr>
   <tr>
     <td> <a href="https://datascience.stackexchange.com/">Data Science Stack Exchange</a></td>
-    <td>A Q&A site for data science professionals and enthusiasts to discuss data analysis, statistics, machine learning, and more.</td>
+    <td>Data Science Stack Exchange is a Q&A community for data science professionals, machine learning practitioners, and researchers. Users can ask and answer questions on a variety of topics including data analysis, statistical modeling, data mining, and algorithm development.</td>
   </tr>
+  <tr>
+    <td> <a href="https://towardsdatascience.com/">Towards Data Science</a></td>
+    <td>Towards Data Science is a Medium publication that provides a platform for data science enthusiasts and professionals to share their insights, research, and tutorials.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.datasciencesociety.net/">Data Science Society </a></td>
+    <td>The Data Science Society is an international digital community focused on data science education and collaboration. It organizes events such as datathons, meetups, and workshops, offering real-world cases for hands-on learning.</td>
+  </tr>
+</table>
