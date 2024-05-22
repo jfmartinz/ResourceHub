@@ -5,11 +5,8 @@ PR Title samples:
 - `Web development - CSS Portal & Tools`
 - `Web development - Leetcode & Challenges`
 
-<!-- Please note that this PR title format is designed exclusively for adding a resource. If your PR is not about adding a resource, PLEASE DISREGARD THIS TEMPLATE. -->
 
-
-### Closes Issue
-> KEYWORD #ISSUE-NUMBER. For example: Closes [#10] 
+Closes #10
 
 
 ### Description: 
@@ -17,8 +14,10 @@ PR Title samples:
 
 
 ### Resource URL: 
-> Insert the URL of the resource you're proposing 
-
+> Insert the URL of the resource you're proposing
+- 
+-
+-
 
 ### Checklist:
 Before submitting your pull request, ensure that you have completed the following tasks: 
