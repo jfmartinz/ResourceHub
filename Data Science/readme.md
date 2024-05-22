@@ -276,9 +276,13 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
     <td> <a href="https://towardsdatascience.com/">Towards Data Science</a></td>
     <td>Towards Data Science is a Medium publication that provides a platform for data science enthusiasts and professionals to share their insights, research, and tutorials.</td>
   </tr>
+  <tr>
+    <td> <a href="https://www.datasciencesociety.net/">Data Science Society </a></td>
+    <td>The Data Science Society is an international digital community focused on data science education and collaboration. It organizes events such as datathons, meetups, and workshops, offering real-world cases for hands-on learning.</td>
+  </tr>
   
-
 ### Competitions
+
 Platforms and resources for participating in Data Science competitions to practice and showcase your skills.
 
 <table width="100%">
@@ -316,4 +320,3 @@ Platforms and resources for participating in Data Science competitions to practi
     <td>A global community that organizes datathons and other data science challenges.</td>
   </tr>
 </table>
-
