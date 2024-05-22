@@ -36,12 +36,17 @@ This section is dedicated to providing valuable resources for learning and maste
    - [Next.js (for React)](#advanced-frameworks)
    - [Nuxt.js (for Vue)](#advanced-frameworks) 
 - [Back-End Development in JavaScript](#back-end-development-with-javascript)
-       
    - [Node.js](#nodejs)
    - [Testing and Debugging](#testing-and-debugging)
         - [Testing](#1-testing)
         - [Debugging](#2-debugging)
+- [Mobile Development with JavaScript](#mobile-development-with-javascript)
+   - [React Native](#mobile-development-with-javascript)
+   - [Ionic](#mobile-development-with-javascript)
+   - [Native Script](#mobile-development-with-javascript)
+- [Serverless Architecture](#serverless-architecture)
 - [Specialized Topics](#specialized-topics)
+- [Modern JavaScript Features](#modern-javascript-features)
 - [JavaScript Projects](#javascript-projects)
    - [Beginner Level Projects](#beginner-level-projects)
    - [Intermediate Level Projects](#intermediate-level-projects)
@@ -58,6 +63,7 @@ This section is dedicated to providing valuable resources for learning and maste
 - [Additional Resources](#additional-resources)
    - [JavaScript Games](#javascript-games)
    - [JavaScript Communities](#javascript-communities)
+   - [JavaScript Documentations](#javascript-documentations)
    - [JavaScript Books](#javascript-books)
 - [Conclusion](#conclusion)
 
@@ -876,13 +882,99 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
+### Mobile Development with JavaScript
+
+<table width="100%">
+<tr>
+    <th>Framework</th>
+    <th>Description</th>
+    <th>Resources</th>
+  </tr>
+  <tr>
+    <td>React Native</td>
+    <td>Enables building mobile apps using only JavaScript and React. Offers a native-like performance and look. Supported by a large community and many resources for learning.</td>
+    <td>
+      <a href="https://reactnative.dev/">Official Website</a><br><hr />
+      <a href="https://reactnative.dev/docs/getting-started">Documentation</a><br><hr />
+      <a href="https://github.com/facebook/react-native">GitHub Repository</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="3">Ionic</td>
+    <td rowspan="3">A popular open-source framework for building cross-platform mobile apps using web technologies like HTML, CSS, and JavaScript/TypeScript. Offers a library of UI components for a native-like look and feel.</td>
+    <td>
+      <a href="https://ionicframework.com/">Official Website</a><br><hr />
+      <a href="https://ionicframework.com/docs">Documentation</a><br><hr />
+      <a href="https://github.com/ionic-team/ionic-framework">GitHub Repository</a>
+    </td>
+  </tr>
+  <table>
+  <hr />
+  <tr>
+    <td rowspan="3">NativeScript</td>
+    <td rowspan="3">An open-source framework for building truly native mobile applications using JavaScript, TypeScript, or Angular. Allows developers to share a single codebase for iOS and Android apps.</td>
+    <td>
+      <a href="https://nativescript.org/">Official Website</a><br><hr />
+      <a href="https://docs.nativescript.org/">Documentation</a><br><hr />
+      <a href="https://github.com/NativeScript/NativeScript">GitHub Repository</a>
+    </td>
+  </tr>
+</table>
+
+### Serverless Architecture
+> Platforms and Services
+
+<table>
+  <thead>
+    <tr>
+      <th>Platform/Service</th>
+      <th>Description</th>
+      <th>Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AWS Lambda</td>
+      <td>Serverless computing service provided by Amazon Web Services (AWS), allowing you to run code without provisioning or managing servers.</td>
+      <td>
+        <a href="https://docs.aws.amazon.com/lambda/">Documentation</a><hr />
+        <a href="https://aws.amazon.com/lambda/resources/">Tutorials</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Azure Functions</td>
+      <td>Event-driven serverless compute service provided by Microsoft Azure, enabling you to run code in response to triggers without managing infrastructure.</td>
+      <td>
+        <a href="https://docs.microsoft.com/en-us/azure/azure-functions/">Documentation</a>, 
+        <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-cli">Getting Started</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Google Cloud Functions</td>
+      <td>Serverless execution environment for building and connecting cloud services, provided by Google Cloud Platform (GCP).</td>
+      <td>
+        <a href="https://cloud.google.com/functions/docs">Documentation</a><hr /> 
+        <a href="https://cloud.google.com/functions/docs/quickstart">Guides</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Serverless Framework</td>
+      <td>Open-source framework for building serverless applications across different cloud providers, offering simplified deployment, scaling, and management.</td>
+      <td>
+        <a href="https://www.serverless.com/framework/docs/">Documentation</a><hr />
+        <a href="https://www.serverless.com/examples/">Examples</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### Specialized Topics
 
 <table width="100%">
   <tr>
     <th>Topic</th>
     <th>Description</th>
-    <th>Link</th>
   </tr>
   <tr>
  <td><a href="https://webassembly.org/">WebAssembly</a></td>
@@ -900,7 +992,100 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
+### Modern JavaScript Features
+> Here are some morden JavaScript features
 
+<table width="100%">
+<thead>
+    <tr>
+      <th>Feature</th>
+      <th>Description</th>
+      <th>Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ES6 and Beyond</td>
+      <td>New features introduced in ECMAScript 2015 and later versions.</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript">Documentation</a><hr />
+        <a href="https://www.javascripttutorial.net/es-next/">Tutorial</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Template Literals</td>
+      <td>String literals allowing embedded expressions.</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">Article</a><hr />
+        <a href="https://www.youtube.com/watch?v=_y9oxzTGERs">Video</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Destructuring Assignment</td>
+      <td>Extracting data from arrays and objects into distinct variables.</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">Guide</a><hr />
+        <a href="https://www.freecodecamp.org/news/array-and-object-destructuring-in-javascript/">Examples</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Rest and Spread Operators</td>
+      <td>Rest parameter syntax and spread syntax for function arguments and array/object manipulation.</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters">Rest Parameters</a><hr />
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax">Spread Syntax</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Default Parameters</td>
+      <td>Values assigned to function parameters if no value or undefined is passed.</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters">Documentation</a><hr />
+        <a href="https://www.javascripttutorial.net/es-next/javascript-default-parameters/">Tutorial</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Enhanced Object Literals</td>
+      <td>New syntax for defining objects in a more concise and flexible way.</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer">Guide</a><hr />
+        <a href="https://www.javascripttutorial.net/es6/javascript-object-literals/">Example</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Iterators and Generators</td>
+      <td>Iteration protocols for custom data structures and asynchronous iteration.</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators">Documentation</a>, 
+        <a href="https://www.youtube.com/watch?v=qpS5nZkP5d4">Tutorial</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Symbols</td>
+      <td>Unique and immutable data type for identifying object properties.</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol">Guide</a><hr /> 
+        <a href="https://www.javascripttutorial.net/es6/javascript-symbols/">Tutorial</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Optional Chaining</td>
+      <td>Safe navigation through properties of an object without checking for existence.</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining">Documentation</a><hr />
+        <a href="https://www.javascripttutorial.net/es-next/javascript-optional-chaining/">Tutorial</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Nullish Coalescing</td>
+      <td>Operator for providing a default value when dealing with null or undefined.</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator">Guide</a> <hr />
+        <a href="https://www.javascripttutorial.net/es-next/javascript-nullish-coalescing-operator/">Tutorial</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### JavaScript Projects
 > Projects which can help you to enhance your development skills and build your resumes.
@@ -918,7 +1103,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Interactive To-Do List</td>
     <td >DOM manipulation, event listeners, arrays, local storage (optional)</td>
     <td >
-        <a href="https://www.youtube.com/watch?v=bivmcufOJ34">YouTube tutorial</a><br><br>
+        <a href="https://www.youtube.com/watch?v=bivmcufOJ34">YouTube tutorial</a><br><hr />
       <a href="https://skillcrush.com/">Website with code (includes additional features like filtering)</a>
     </td>
   </tr>
@@ -926,7 +1111,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Simple Calculator</td>
     <td>Variables, operators, conditional statements (if/else)</td>
     <td>
-       <a href="https://www.youtube.com/watch?v=j59qQ7YWLxw">YouTube tutorial</a><br><br>
+       <a href="https://www.youtube.com/watch?v=j59qQ7YWLxw">YouTube tutorial</a><br><hr />
        <a href="https://zerotomastery.io/courses/javascript-projects/">Website with code</a>
     </td>
   </tr>
@@ -934,7 +1119,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Random Quote Generator</td>
     <td>Arrays, DOM manipulation, event listeners (optional)</td>
     <td>
-       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random">YouTube tutorial</a><br><br>
+       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random">YouTube tutorial</a><br><hr />
        <a href="https://github.com/topics/random-quote-generator">GitHub repo (for reference and ideas)</a>
     </td>
   </tr>
@@ -942,7 +1127,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Rock-Paper-Scissors Game</td>
     <td>Variables, user input, conditional statements, DOM manipulation</td>
     <td>
-       <a href="https://www.youtube.com/watch?v=pkvY3U1rr9Y">YouTube tutorial</a><br><br>
+       <a href="https://www.youtube.com/watch?v=pkvY3U1rr9Y">YouTube tutorial</a><br><hr />
       <a href="https://www.freecodecamp.org/news/learn-javascript-by-coding-7-games/">Website with code (various beginner games)</a>
     </td>
   </tr>
@@ -950,7 +1135,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Guessing Game (Number or Word)</td>
     <td>Variables, user input, loops (while or for), conditional statements</td>
     <td>
-      <a href="https://www.youtube.com/watch?v=bDHB535KsuI">YouTube tutorial (number guessing)</a><br><br>
+      <a href="https://www.youtube.com/watch?v=bDHB535KsuI">YouTube tutorial (number guessing)</a><br><hr />
       <a href="https://www.youtube.com/watch?v=dgvyE1sJS3Y">YouTube tutorial (word guessing)</a>
     </td>
   </tr>
@@ -958,7 +1143,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Countdown Timer</td>
     <td>Date objects, event listeners, DOM manipulation</td>
     <td>
-       <a href="https://m.youtube.com/watch?v=5pyYfcnqKMY">YouTube tutorial</a><br><br>
+       <a href="https://m.youtube.com/watch?v=5pyYfcnqKMY">YouTube tutorial</a><br><hr />
       <a href="https://zerotomastery.io/">Website with code</a>
     </td>
   </tr>
@@ -966,7 +1151,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Light/Dark Mode Switcher</td>
     <td>DOM manipulation, event listeners, local storage (optional)</td>
     <td>
-     <a href="https://m.youtube.com/watch?v=xodD0nw2veQ">YouTube tutorial</a><br><br>
+     <a href="https://m.youtube.com/watch?v=xodD0nw2veQ">YouTube tutorial</a><br><hr />
       <a href="https://docs.github.com/en/get-started/accessibility/managing-your-theme-settings">Website with code</a>
     </td>
   </tr>
@@ -974,7 +1159,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Interactive Weather App</td>
     <td>Fetch API, DOM manipulation, displaying weather data</td>
     <td>
-       <a href="https://m.youtube.com/watch?v=VaDUGPMjzOM">YouTube tutorial</a><br><br>
+       <a href="https://m.youtube.com/watch?v=VaDUGPMjzOM">YouTube tutorial</a><br><hr />
        <a href="https://openweathermap.org/api">Website with code (uses an API key)</a>
     </td>
   </tr>
@@ -982,14 +1167,14 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Simple Drawing App</td>
     <td>Canvas API, event listeners, drawing shapes and lines</td>
     <td>
-      <a href="https://www.youtube.com/playlist?list=PLSxgVLtIB0IFmQGuVMSE_wDHPW5rq4Ik7">YouTube tutorial</a><br><br> <a href="https://p5js.org/">Website with code (powerful library for creative coding)</a>
+      <a href="https://www.youtube.com/playlist?list=PLSxgVLtIB0IFmQGuVMSE_wDHPW5rq4Ik7">YouTube tutorial</a><br><hr /> <a href="https://p5js.org/">Website with code (powerful library for creative coding)</a>
     </td>
   </tr>
   <tr>
     <td>Password Generator</td>
     <td>Arrays, random number generation, string manipulation</td>
     <td>
-     <a href="https://m.youtube.com/watch?v=m5XF1OQ6rSg">YouTube tutorial</a><br><br>
+     <a href="https://m.youtube.com/watch?v=m5XF1OQ6rSg">YouTube tutorial</a><br><hr />
       <a href="https://w3schools.invisionzone.com/topic/25095-javascript-password-generator/">Website with code</a>
     </td>
   </tr>
@@ -997,7 +1182,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Sticky Navigation Bar</td>
     <td>DOM manipulation, event listeners, window object (for scroll position)</td>
     <td>
-      <a href="https://m.youtube.com/watch?v=tioN7eYXDR0">YouTube tutorial</a><br><br>
+      <a href="https://m.youtube.com/watch?v=tioN7eYXDR0">YouTube tutorial</a><br><hr />
        <a href="https://www.w3schools.com/howto/howto_js_navbar_sticky.asp">Website with code (uses CSS but adaptable with JS)</a>
     </td>
   </tr>
@@ -1005,7 +1190,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Image Gallery (Slideshow or Carousel)</td>
     <td>DOM manipulation, event listeners, arrays (for image data), timers (optional for automatic transitions)</td>
     <td>
-     <a href="https://m.youtube.com/watch?v=sQ_dX1XW6b4">YouTube tutorial (slideshow)</a><br><br><a href="https://www.youtube.com/watch?v=XNUhFEPkQUc">YouTube tutorial (carousel)</a>
+     <a href="https://m.youtube.com/watch?v=sQ_dX1XW6b4">YouTube tutorial (slideshow)</a><br><hr /><a href="https://www.youtube.com/watch?v=XNUhFEPkQUc">YouTube tutorial (carousel)</a>
     </td>
   </tr>
   <tr>
@@ -1029,7 +1214,7 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>E-commerce Website (Simplified)</td>
   <td>DOM manipulation, forms, event listeners, user authentication (optional), shopping cart functionality, basic database interaction (optional)</td>
   <td>
-    <a href="https://www.youtube.com/watch?v=N3FDyheHVMM">YouTube tutorial</a><br><br>
+    <a href="https://www.youtube.com/watch?v=N3FDyheHVMM">YouTube tutorial</a><br><hr />
     <a href="https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site/">Website with code (uses a framework)</a>
   </td>
 </tr>
@@ -1037,7 +1222,7 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Weather App with Advanced Features</td>
   <td>Fetch API, weather APIs (potentially with paid plans for more data), charts and graphs (using libraries like Chart.js), user location tracking (optional)</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=VaDUGPMjzOM">YouTube tutorial (incorporating charts)</a><br><br>
+    <a href="https://m.youtube.com/watch?v=VaDUGPMjzOM">YouTube tutorial (incorporating charts)</a><br><hr />
     <a href="https://openweathermap.org/api">Website with weather API (free tier available)</a>
   </td>
 </tr>
@@ -1045,7 +1230,7 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Memory Game</td>
   <td>Arrays, DOM manipulation, timers, event listeners, game logic (matching pairs)</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=-tlb4tv4mC4">YouTube tutorial</a><br><br>
+    <a href="https://m.youtube.com/watch?v=-tlb4tv4mC4">YouTube tutorial</a><br><hr />
     <a href="https://codepen.io/tag/memory%20game">Website with code</a>
   </td>
 </tr>
@@ -1053,7 +1238,7 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Tic-Tac-Toe with AI Player</td>
   <td>Arrays, DOM manipulation, event listeners, game logic (winning conditions), AI algorithms (minimax or alpha-beta pruning)</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=JN6-OphA_VE">YouTube tutorial</a><br><br>
+    <a href="https://m.youtube.com/watch?v=JN6-OphA_VE">YouTube tutorial</a><br><hr />
     <a href="https://github.com/topics/tic-tac-toe-ai">Website with code</a>
   </td>
 </tr>
@@ -1061,7 +1246,7 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Interactive Charting Library</td>
   <td>DOM manipulation, event listeners, data structures (arrays, objects), D3.js library for data visualization</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=stqJ2vd0LLo">YouTube tutorial</a><br><br>
+    <a href="https://m.youtube.com/watch?v=stqJ2vd0LLo">YouTube tutorial</a><br><hr />
     <a href="https://itequia.com/en/d3-what-is-data-driven-documents/">Website (D3.js library)</a>
   </td>
 </tr>
@@ -1069,7 +1254,7 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Real-Time Data Streaming (Simplified)</td>
   <td>WebSockets, event listeners, data streaming (using libraries like Socket.IO), potentially server-side implementation</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=rxzOqP9YwmM">YouTube tutorial</a><br><br>
+    <a href="https://m.youtube.com/watch?v=rxzOqP9YwmM">YouTube tutorial</a><br><hr />
     <a href="https://socket.io/docs/v4/">Website (Socket.IO library)</a>
   </td>
 </tr>
@@ -1077,8 +1262,8 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>RESTful API Integration</td>
   <td>Fetch API, asynchronous programming, working with APIs (potentially using third-party APIs)</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=cuEtnrL9-H0">YouTube tutorial</a><br><br>
-    <a href="https://gist.github.com/justsml/529d0b1ddc5249095ff4b890aad5e801">GitHub repo (example with public API)</a><br><br>
+    <a href="https://m.youtube.com/watch?v=cuEtnrL9-H0">YouTube tutorial</a><br><hr />
+    <a href="https://gist.github.com/justsml/529d0b1ddc5249095ff4b890aad5e801">GitHub repo (example with public API)</a><br><hr />
     <a href="https://www.w3schools.com/js/js_api_intro.asp">Website with code (uses public API)</a>
   </td>
 </tr>
@@ -1086,8 +1271,8 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Drawing/Painting App with Advanced Features</td>
   <td>Canvas API, event listeners, color manipulation (using libraries like ColorThief), layers (optional)</td>
   <td>
-    <a href="https://www.youtube.com/watch?v=TEaQo1XMCSE">YouTube tutorial (advanced canvas features)</a><br><br>
-    <a href="https://github.com/fabricjs">GitHub repo (canvas drawing library)</a><br><br>
+    <a href="https://www.youtube.com/watch?v=TEaQo1XMCSE">YouTube tutorial (advanced canvas features)</a><br><hr />
+    <a href="https://github.com/fabricjs">GitHub repo (canvas drawing library)</a><br><hr />
     <a href="https://github.com/lokesh/color-thief">Website (ColorThief library)</a>
   </td>
 </tr>
@@ -1095,8 +1280,8 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Music Player with Visualization</td>
   <td>Audio API, Web Audio API, event listeners, DOM manipulation, canvas or SVG for visualizations.</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=p4OHVJxd2FI">YouTube tutorial (basic audio)</a><br><br>
-    <a href="https://github.com/WebAudio/web-audio-api">GitHub repo (Web Audio API examples)</a><br><br>
+    <a href="https://m.youtube.com/watch?v=p4OHVJxd2FI">YouTube tutorial (basic audio)</a><br><hr />
+    <a href="https://github.com/WebAudio/web-audio-api">GitHub repo (Web Audio API examples)</a><br><hr />
     <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API">Website (Web Audio API)</a>
   </td>
 </tr>
@@ -1115,8 +1300,8 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Single-Page Application (SPA) with a Backend Framework</td>
   <td>JavaScript frameworks (React, Vue.js, Angular), routing, state management, integrating with a backend framework (Node.js with Express, Python with Django, etc.) for data persistence and API creation.</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=SqcY0GlETPk">YouTube tutorial (React SPA)</a><br><br>
-    <a href="https://github.com/facebook/react">GitHub repo (sample React SPA)</a><br><br>
+    <a href="https://m.youtube.com/watch?v=SqcY0GlETPk">YouTube tutorial (React SPA)</a><br><hr />
+    <a href="https://github.com/facebook/react">GitHub repo (sample React SPA)</a><br><hr />
     <a href="https://www.freecodecamp.org/news/free-8-hour-node-express-course/">Backend framework tutorial (Node.js with Express)</a>
   </td>
 </tr>
@@ -1124,8 +1309,8 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Interactive Data Visualization Dashboard</td>
   <td>JavaScript visualization libraries (D3.js, Chart.js), data fetching (APIs or databases), user interaction for filtering and exploring data.</td>
   <td>
-    <a href="https://www.youtube.com/watch?v=xkBheRZTkaw">YouTube tutorial (Interactive Data Visualization with D3)</a><br><br>
-    <a href="https://github.com/d3/d3">GitHub repo (D3.js examples)</a><br><br>
+    <a href="https://www.youtube.com/watch?v=xkBheRZTkaw">YouTube tutorial (Interactive Data Visualization with D3)</a><br><hr />
+    <a href="https://github.com/d3/d3">GitHub repo (D3.js examples)</a><br><hr />
     <a href="https://www.chartjs.org/docs/latest/getting-started/">Website (Chart.js library)</a>
   </td>
 </tr>
@@ -1134,7 +1319,7 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>JavaScript machine learning libraries (TensorFlow.js, Keras.js), model training (potentially using cloud platforms or local training), integrating trained models for predictions in the browser. (consider TensorFlow.js for browser deployment)</td>
   <td>
     <a href="https://m.youtube.com/watch?v=Y_XM3Bu-4yc">YouTube tutorial (TensorFlow.js intro)</a><br><br>
-    <a href="https://github.com/tensorflow">GitHub repo (TensorFlow.js examples)</a><br><br>
+    <a href="https://github.com/tensorflow">GitHub repo (TensorFlow.js examples)</a><br><hr />
     <a href="https://transcranial.github.io/keras-js/">Website (Keras.js library)</a>
   </td>
 </tr>
@@ -1144,7 +1329,7 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>JavaScript NLP libraries (spaCy.js, NLTK.js), sentiment analysis, text summarization, named entity recognition. (consider spaCy.js for browser-based applications)</td>
   <td>
     <a href="https://www.youtube.com/watch?v=WnGPv6HnBok">YouTube tutorial (spaCy.js intro)</a><br><br>
-    <a href="https://github.com/topics/spacy">GitHub repo (spaCy.js examples)</a><br><br>
+    <a href="https://github.com/topics/spacy">GitHub repo (spaCy.js examples)</a><br><hr />
     <a href="https://www.kommunicate.io/blog/nlp-libraries-node-javascript/">Website (NLTK.js library)</a> 
   </td>
 </tr>
@@ -1152,8 +1337,8 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Real-Time Collaboration Platform (e.g., Document Editing)</td>
   <td>WebSockets, server-side implementation with real-time data synchronization (using technologies like Firebase or custom solutions), collaborative editing libraries (e.g., Google Docs uses OT algorithms).</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=pP7quzFmWBY">YouTube tutorial (Firebase Realtime Database)</a><br><br>
-    <a href="https://github.com/topics/drawing-on-canvas">GitHub repo (Firebase collaborative drawing app)</a><br><br>
+    <a href="https://m.youtube.com/watch?v=pP7quzFmWBY">YouTube tutorial (Firebase Realtime Database)</a><br><hr />
+    <a href="https://github.com/topics/drawing-on-canvas">GitHub repo (Firebase collaborative drawing app)</a><br><hr />
     <a href="https://en.wikipedia.org/wiki/Operational_transformation">Website (Operational Transformation algorithms)</a>
   </td>
 </tr>
@@ -1161,8 +1346,8 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Progressive Web App (PWA)</td>
   <td>Service Workers, Push Notifications, offline functionality, combining web and native app features.</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=WbbAPfDVqfY">YouTube tutorial (Building a PWA)</a><br><br>
-    <a href="https://github.com/GoogleChrome/lighthouse">GitHub repo (sample PWA)</a><br><br>
+    <a href="https://m.youtube.com/watch?v=WbbAPfDVqfY">YouTube tutorial (Building a PWA)</a><br><hr />
+    <a href="https://github.com/GoogleChrome/lighthouse">GitHub repo (sample PWA)</a><br><hr />
     <a href="https://developer.mozilla.org/en-US/docs/Web/Manifest">Website (Progressive Web Apps explainer)</a>
   </td>
 </tr>
@@ -1170,8 +1355,8 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>3D Game Engine with WebGL</td>
   <td>WebGL (JavaScript library for 3D graphics), game physics engines (Matter.js, Cannon.js), 3D math (matrices, vectors), animation techniques.</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=kB0ZVUrI4Aw">YouTube tutorial (WebGL basics)</a><br><br>
-    <a href="https://threejs.org/">GitHub repo (WebGL framework)</a><br><br>
+    <a href="https://m.youtube.com/watch?v=kB0ZVUrI4Aw">YouTube tutorial (WebGL basics)</a><br><hr />
+    <a href="https://threejs.org/">GitHub repo (WebGL framework)</a><br><hr />
     <a href="http://brm.io/matter-js/">Website (Matter.js physics engine)</a>
   </td>
 </tr>
@@ -1179,8 +1364,8 @@ This section is dedicated to providing valuable resources for learning and maste
   <td>Real-Time Multiplayer Game with WebSockets and Server-Side Logic</td>
   <td>WebSockets for real-time communication, collision detection and synchronization across clients, server-side game logic and state management.</td>
   <td>
-    <a href="https://m.youtube.com/watch?v=HXquxWtE5vA">YouTube tutorial (Multiplayer game with Phaser)</a><br><br>
-    <a href="https://phaser.io/">GitHub repo (Phaser framework)</a><br><br>
+    <a href="https://m.youtube.com/watch?v=HXquxWtE5vA">YouTube tutorial (Multiplayer game with Phaser)</a><br><hr />
+    <a href="https://phaser.io/">GitHub repo (Phaser framework)</a><br><hr />
     <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket">Website (WebSockets explainer)</a>
   </td>
 </tr>
@@ -1275,7 +1460,6 @@ This section is dedicated to providing valuable resources for learning and maste
 > Here are few popular Youtube channels and Playlists which hekp you to build your JS Mastery
 
 ### YouTube Channels for Learning JavaScript
-
 <table>
   <tr>
     <th>YouTube Channel</th>
@@ -1340,7 +1524,6 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 ### YouTube Playlists for Learning JavaScript
-
 <table>
   <tr>
     <th>YouTube Playlist</th>
@@ -1430,7 +1613,6 @@ This section is dedicated to providing valuable resources for learning and maste
 
 
 ### Paid Certification Courses
-
 <table>
   <tr>
     <th>Course</th>
