@@ -169,6 +169,22 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
        <td><a href="https://www.youtube.com/@KodeKloud/videos">KodeKloud </a></td>
        <td>KodeKloud helps you build a successful DevOps career through the best DevOps courses available. Whether you are an absolute beginner or a seasoned specialist, our courses and hands-on labs will give you the tools and confidence to excel at your new DevOps job.</td>
     </tr>
+    <tr>
+       <td><a href="https://www.youtube.com/@acloudguru/videos">Cloud guru</a></td>
+       <td> The Cloud Guru channel provides comprehensive training on cloud computing and DevOps practices. They offer a variety of courses and tutorials on AWS, Azure, Google Cloud, Docker, Kubernetes, and more.</td>
+    </tr>
+    <tr>
+       <td><a href="https://www.youtube.com/@Cloudacademy/videos">Cloud academy </a></td>
+       <td>This Cloud Academy youtube channel offers tutorials and courses on cloud computing and DevOps. They cover AWS, Azure, Google Cloud, Docker, Kubernetes, and other essential DevOps tools and practices, which gives a better understanding for the learners.</td>
+    </tr>
+    <tr>
+       <td><a href="https://www.youtube.com/@ValaxyTechnologies/videos">Valaxy Technology</a></td>
+       <td> The valaxyTechnology channel provides in-depth tutorials on cloud computing, DevOps tools, and technologies and Valaxy Technologies also covers a wide range of topics including AWS, Azure, Docker, Kubernetes, and CI/CD pipelines</td>
+    </tr>
+    <tr>
+       <td><a href="https://www.youtube.com/c/DevOpsDirective">DevOps Detective</a></td>
+       <td>The DevOps Directive channel primaryly focuses on delivering high-quality DevOps tutorials and educational content and this channel covers a variety of tools and practices such as Docker, Kubernetes, Terraform, CI/CD and more.</td>
+    </tr>
 </table>
 
 ### Books
@@ -189,5 +205,13 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
     <tr>
        <td><a href="https://github.com/ahmedamsaleh/Free-DevOps-Books-1/blob/master/book/Effective%20DevOps.pdf">Effective DevOps</a></td>
        <td>Effective Devops is most comprehensive book that is completely digestible and applicable for those within technology. Excellent reading for anyone interested in understanding DevOps and how to foster a DevOps culture</td>
+    </tr>
+    <tr>
+       <td><a href="https://www.dbooks.org/azure-devops-succinctly-1642002046/">Azure DevOps Succinctly</a></td>
+       <td>The "Azure DevOps Succinctly" book by Sander Rossel provides a concise, practical guide to using Azure DevOps. This book covers essential topics such as setting up and managing repositories, pipelines, and automated testing.</td>
+    </tr>
+    <tr>
+       <td><a href="https://freecomputerbooks.com/Kubernetes-Up-and-Running-Dive-into-the-Future-of-Infrastructure.html">Kubernetes</a></td>
+       <td>The book "Kubernetes by Brendan Burns" is a practical book which shows developers and Ops personnel how Kubernetes and container technology can help you achieve new levels of velocity, agility, reliability, and efficiency.</td>
     </tr>
 </table>

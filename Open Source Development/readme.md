@@ -190,6 +190,16 @@ Open source development involves collaborative creation of software where the so
     <td><a href="https://fellowship.mlh.io/">MLH Fellowship</a></td>
     <td>The MLH Fellowship is a remote internship program that pairs talented student developers with open source projects and mentors for 12 weeks during the summer. Participants work on real-world projects and receive mentorship and support from industry professionals.</td>
   </tr>
+
+   <tr>
+    <td><a href="https://www.outreachy.org/">Outreachy</a></td>
+    <td>Outreachy is a paid, remote internship program. Outreachy's goal is to support people from groups underrepresented in tech. It provides an opportunity for an online collaborative environment for learning, and remote mentoring with experienced</td>
+  </tr>
+
+   <tr>
+    <td><a href="https://lfx.linuxfoundation.org/tools/mentorship/">LFX Foundation Mentorship</a></td>
+    <td>The Linux Foundation Mentorship Program, commonly known as LFX Mentorship, stands as a testament to the organization's commitment to fostering talent and innovation within the open source community.It is a three months open-source paid internship</td>
+  </tr>
 </table>
 
 ### Youtube Channels

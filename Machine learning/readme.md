@@ -28,6 +28,7 @@
 - [Machine learning forums](#machine-learning-forums)
 - [courses](#courses)
 - [Projects](#projects)
+- [Interview](#Interview)
 - [Others](#others)
 
 
@@ -43,6 +44,10 @@
 <tr>
    <td><a href="https://www.scaler.com/blog/machine-learning-roadmap/"> Machine Learning Roadmap </a></td>
    <td>This roadmap provided by scaler gives you clear cut roadmap for studying/learning Machine learning</td>
+</tr>
+<tr>
+   <td><a href="https://drive.google.com/file/d/11KvoK4FMs6gJbo-u-0H5Kj-EY5jPz7g5/view?usp=sharing"> ML Engineer Roadmap </a></td>
+   <td>This roadmap  gives you clear cut roadmap for becoming ready for the  ML Engineer Job Profile</td>
 </tr>
 </table>
 
@@ -607,6 +612,28 @@
       </tr>  
 </table>
 
+###  Interview 
+
+> These are some interview preparation resources.
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/machine-learning-interview-questions/">Machine Learning  Interview questions by geeksforgeeks</a></td>
+        <td>This link which navigates to geekforgeeks article focuses on machine learning Interview questions 
+        for both freshers and experienced individuals, ensuring thorough preparation for  ML interview. This ML questions is also beneficial for individuals who are looking for a quick revision of their machine-learning concepts.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://medium.com/@reachpriyaa/how-to-crack-machine-learning-interviews-at-faang-78a2882a05c5">How to crack Machine Learning Interviews at FAANG! - Medium</a></td>
+        <td>This article by Bharathi Priya shared her Machine Learning experiences provided the questions which were asked in her interview and provided tips and tricks to crack any machine leaning interview.
+        </td>
+      </tr>  
+</table>
+
 ### Others
 
   <table width="100%">
@@ -637,6 +664,11 @@
       <tr>
         <td><a href="https://www.thetalkingmachines.com/ ">The Talking machines</a></td>
         <td>The "Talking Machines" offers a valuable platform for individuals interested in staying informed, inspired, and engaged in the dynamic field of machine learning, this podcast provides informative and engaging content on ML.
+        </td>
+      </tr>    
+      <tr>
+        <td><a href="https://machinehack.com/">Machine Hack</a></td>
+        <td>MachineHack is an online platform that offers data science and machine learning competitions. It provides a collaborative environment for data scientists, machine learning practitioners, and enthusiasts to solve real-world business problems through predictive modeling and data analysis. 
         </td>
       </tr>    
 </table>
