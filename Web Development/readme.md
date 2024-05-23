@@ -1332,6 +1332,11 @@ to everyone - everywhere!</td>
         <td>Youtube channel that teaches Web Development in a super simple way.Explore the content rich channel to become a pro in web development.
         </td>
       </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/@ApnaCollegeOfficial">Apna College</a></td>
+        <td>The YouTube channel "Apna College" offers a detailed web development course designed to take you from beginner to advanced levels, covering essential frontend technologies like HTML, CSS, and JavaScript.
+        </td>
+      </tr>
   </table>
 
 ### Games
