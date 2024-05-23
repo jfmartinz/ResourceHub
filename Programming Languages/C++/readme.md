@@ -9,7 +9,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
 - [Roadmap](#roadmap)
   - [C++ Developer Roadmap I](#roadmap)
   - [C++ Developer Roadmap II](#roadmap)
-- [Tutorials](#tutorials)
+- [Tutorials](#tutorial)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Arrays and Strings in C++](#arrays-and-strings-in-c)
@@ -34,6 +34,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
 - [Debugging and Testing](#debugging-and-testing)
 - [Software Development Principles](#software-development-principles)
 - [Books](#books)
+- [Documentations](#documentations)
 - [C++ Projects](#c-projects)
   - [Beginner level projects](#beginner-level-projects)
   - [Intermediate level projects](#intermediate-level-projects)
@@ -45,6 +46,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
   - [Paid Certification Cources](#paid-certification-courses)
 - [Coding platforms](#coding-platforms-for-c)
 - [C++ Communities](#c-communities)
+- [C++ CheatSheets](#c-cheatsheet)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -65,7 +67,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
   </tr>
 </table>
 
-### Tutorial
+### Tutorials
 > Start your journey into C++ programming with these essential resources.
 
 ### Introduction
@@ -971,6 +973,24 @@ Writing to Files File Streams input and output operations in C++.</td>
 </table>
 
 
+### Documentations
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://en.cppreference.com/w/cpp">CPP Reference</a></td>
+    <td>Comprehensive reference for C++ programming language and its standard library.</td>
+  </tr>
+  <tr>
+    <td><a href="https://isocpp.org/std/the-standard">ISO C++ Standard</a></td>
+    <td>The official standard documentation for C++.</td>
+  </tr>
+</table>
+
+
 
 ### C++ Projects
 > Here are some beginner to advance level projects to develop your project based learning.
@@ -1409,9 +1429,10 @@ Writing to Files File Streams input and output operations in C++.</td>
 </table>
 
 ### C++ Communities
-<table>
+
+<table width="100%">
   <tr>
-    <th>Community</th>
+    <th>Platform</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -1427,6 +1448,25 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td>An online community dedicated to C++ programming discussions, tutorials, and code sharing.</td>
   </tr>
 </table>
+
+### C++ CheatSheet
+> This is a C++ programming cheat sheet. It is useful for beginners and intermediates looking to learn or revise the concepts of C++ programming. While learning a new language, it feels annoying to switch pages and find different websites for different concepts that are easily understandable.
+
+<table width="100%">
+  <tr>
+    <th>Cheatsheet</th>
+    <th>Description</th>
+  </tr>
+    <tr>
+    <td><a href="https://www.codewithharry.com/blogpost/cpp-cheatsheet/#google_vignette">C++ CheatSheet - CodeWithHarry</a></td>
+    <td> C++ Cheatsheet by code with harry for beginners and intermediates looking to learn or revise the concepts of C++ programming..</td>
+  </tr>
+      <tr>
+    <td><a href="https://www.interviewbit.com/cpp-cheat-sheet/">C++ CheatSheet - InterviewBit</a></td>
+    <td>Using this C++ cheat sheet, you can begin learning C++ quickly. From basic ideas like data types, loops, and functions to more complicated features like strings, pointers, algorithms, and more, everything you need is there at your fingertips.</td>
+  </tr>
+</table>
+
 
 ## Conclusion
 
