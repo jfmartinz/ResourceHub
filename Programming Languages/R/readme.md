@@ -25,17 +25,8 @@ data analysis tasks.
    - [RMarkdown](#rmarkdown)
 - [R Packages and Libraries](#r-packages-and-libraries)
    - [Data Manipulation Packages](#data-manipulation-packages)
-       - [dplyr](#dplyr)
-       - [tidyr](#tidyr)
-       - [data.table](#datatable)
    - [Data Visualization Packages](#data-visualization-packages)
-       - [ggplot2](#ggplot2)
-       - [plotly](#plotly)
-       - [shiny](#shiny)
    - [Statistical Analysis Packages](#statistical-analysis-packages)
-       - [caret](#caret)
-       - [randomForest](#randomforest)
-       - [MASS](#mass)
 - [Advanced Topics](#advanced-topics)
    - [R for Big Data](#r-for-big-data)
    - [Parallel Computing](#parallel-computing)
@@ -496,4 +487,195 @@ data analysis tasks.
 <td>A tutorial on using R Markdown to create presentations, including tips on slide layouts, customizing themes, and incorporating code and visualizations.</td>
 </tr>
 
+</table>
+
+## R Packages and Libraries
+
+### Data Manipulation Packages
+
+<table width="100%">
+<tr>
+<th>Package Name</th>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>dplyr</td>
+<td><a href="https://www.geeksforgeeks.org/dplyr-package-in-r-programming/">dplyr Package in R</a></td>
+<td>Article for dplyr, a grammar of data manipulation providing a consistent set of verbs that help solve the most common data manipulation challenges.</td>
+</tr>
+<tr>
+<td>tidyr</td>
+<td><a href="https://www.scaler.com/topics/tidyr/">tidyr Package in R Programming</a></td>
+<td>Article for tidyr, a package for tidying data that provides functions to help create tidy data, where each variable is a column and each observation is a row.</td>
+</tr>
+<tr>
+<td>data.table</td>
+<td><a href="https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/">data.table in R</a></td>
+<td>Comprehensive article for data.table, a package that extends data frames with functionalities for fast data manipulation, filtering, and aggregation.</td>
+</tr>
+<tr>
+<td>reshape2</td>
+<td><a href="https://seananderson.ca/2013/10/19/reshape/">An Introduction to reshape2</a></td>
+<td>Article for reshape2, a package for flexibly restructuring and aggregating data, providing tools to melt and cast data between wide and long formats.</td>
+</tr>
+</table>
+
+### Data Visualization Packages 
+
+<table width="100%">
+<tr>
+<th>Package Name</th>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>ggplot2</td>
+<td><a href="https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualization with ggplot2</a></td>
+<td>Article for ggplot2, a powerful and flexible package for creating complex and elegant graphics in R using the grammar of graphics.</td>
+</tr>
+<tr>
+<td>plotly</td>
+<td><a href="https://plotly.com/r/getting-started/">Plotly for R</a></td>
+<td>Documentation for Plotly, a package that allows you to create interactive, web-based plots in R, building on top of ggplot2 and other graphics systems.</td>
+</tr>
+<tr>
+<td>lattice</td>
+<td><a href="https://www.geeksforgeeks.org/lattice-graphs-in-r/">Lattice Graphs in R</a></td>
+<td>Comprehensive guide to lattice, a package for creating trellis graphs that are particularly useful for conditioning plots on one or more variables.</td>
+</tr>
+<tr>
+<td>highcharter</td>
+<td><a href="https://www.geeksforgeeks.org/data-visualization-with-highcharter-in-r/">Highcharter in R</a></td>
+<td>Article for Highcharter, a package that provides a rich framework for creating interactive and high-quality charts using the Highcharts JavaScript library.</td>
+</tr>
+<tr>
+<td>ggvis</td>
+<td><a href="https://ggvis.rstudio.com/">ggvis Documentation</a></td>
+<td>Documentation for ggvis, a package for creating interactive, web-based data visualizations using a grammar of graphics similar to ggplot2.</td>
+</tr>
+</table>
+
+### Statistical Analysis Packages
+
+<table width="100%">
+<tr>
+<th>Package name</th>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>stats</td>
+<td><a href="https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html">Using R stats Package</a></td>
+<td>Documentation for the base R stats package, which provides a wide range of statistical functions, including tools for linear and nonlinear modeling, statistical tests, and time-series analysis.</td>
+</tr>
+<tr>
+<td>car</td>
+<td><a href="https://www.geeksforgeeks.org/car-package-in-r/">car Package in R</a></td>
+<td>Article for the car package, which includes functions for regression analysis, diagnostic tests, and visualization tools to accompany regression models.</td>
+</tr>
+<tr>
+<td>lme4</td>
+<td><a href="https://www.rensvandeschoot.com/tutorials/lme4/">LME4 Tutorial</a></td>
+<td>Comprehensive guide to lme4, a package for fitting linear and generalized linear mixed-effects models, providing tools for complex hierarchical data analysis.</td>
+</tr>
+<tr>
+<td>MASS</td>
+<td><a href="https://www.geeksforgeeks.org/parallel-chart-with-the-mass-library-in-r/">Parallel chart with the MASS </a></td>
+<td>Article for the MASS package, which includes functions and datasets about Parallel Coordinates and tools for robust statistical methods.</td>
+</tr>
+</table>
+
+## Advanced Topics
+
+### R for Big Data
+<table width="100%">
+<tr>
+<th>Topic</th>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>Introduction to Big Data in R</td>
+<td><a href="https://en.wikipedia.org/wiki/Programming_with_Big_Data_in_R">Big Data in R</a></td>
+<td>An overview of how R can be used for big data analysis, covering key packages and techniques for managing and analyzing large datasets.</td>
+</tr>
+<td>sparklyr</td>
+<td><a href="https://www.databricks.com/glossary/sparklyr">What is sparklyr?</a></td>
+<td>Comprehensive guide to sparklyr, an R interface for Apache Spark, which allows for scalable data processing and machine learning on large datasets using Spark's distributed computing capabilities.</td>
+</tr>
+<tr>
+<td>bigmemory</td>
+<td><a href="https://cran.r-project.org/web/packages/bigmemory/bigmemory.pdf">bigmemory Documentation</a></td>
+<td>Documentation for bigmemory, a package that enables the creation, storage, access, and manipulation of large matrices and data frames stored in memory or on disk.</td>
+</tr>
+<tr>
+<td>dplyr with Databases</td>
+<td><a href="https://solutions.posit.co/connections/db/r-packages/dplyr/">Using dplyr with databases</a></td>
+<td>Guide to using dplyr with databases, providing tools to interact with large datasets stored in relational databases and perform data manipulation using SQL through familiar dplyr syntax.</td>
+</tr>
+<tr>
+<td>arrow</td>
+<td><a href="https://r4ds.hadley.nz/arrow">arrow for R Documentation</a></td>
+<td>Documentation for the arrow package, which provides tools to enable high-performance data interchange between R and other languages using the Apache Arrow format.</td>
+</tr>
+</table>
+
+### Parallel Computing
+<table width="100%">
+<tr>
+<th>Topic</th>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>Introduction to Parallel Computing in R</td>
+<td><a href="https://www.geeksforgeeks.org/parallel-programming-in-r/">Parallel Programming In R</a></td>
+<td>An overview of the available packages and tools for high-performance and parallel computing in R, providing a starting point for leveraging multiple processors.</td>
+</tr>
+<tr>
+<td>Need for Parallel Computing</td>
+<td><a href="https://www.tutorialspoint.com/parallel-programming-in-r">Need for Parallel Programming in R</a></td>
+<td>Documentation for the parallel package, which provides parallel computing support in R, including functions for parallel execution of code using multiple cores.</td>
+</tr>
+<tr>
+<td>parallel Package</td>
+<td><a href="https://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/notes/parallel.html#the-parallel-package">parallel Package guide</a></td>
+<td>Documentation for the parallel package, which provides parallel computing support in R, including functions for parallel execution of code using multiple cores.</td>
+</tr>
+</table>
+
+### Advanced Statistical Modeling
+
+<table width="100%">
+<tr>
+<th>Topic</th>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>Introduction to Advanced Statistical Modeling in R</td>
+<td><a href="http://ctfs.si.edu/Public/Workshops/Tupper2012/outline.html">Advanced Modeling in R</a></td>
+<td>An overview of advanced statistical modeling techniques in R, including discussions on various complex models and their applications.</td>
+</tr>
+<tr>
+<td>Generalized Linear Models (GLM)</td>
+<td><a href="https://www.geeksforgeeks.org/generalized-linear-models-using-r/">Generalized Linear Models Using R</a></td>
+<td>Article for the glm function in the stats package, which provides tools for fitting generalized linear models, a flexible generalization of ordinary linear regression.</td>
+</tr>
+<tr>
+<td>Mixed-Effects Models</td>
+<td><a href="https://ourcodingclub.github.io/tutorials/mixed-models/">Introduction to Linea Mixed Models</a></td>
+<td>This workshop is aimed at people new to mixed modeling and as such, it doesn’t cover all the nuances of mixed models, but hopefully serves as a starting point when it comes to both the concepts and the code syntax in R.</td>
+</tr>
+<tr>
+<td>Bayesian Modeling</td>
+<td><a href="https://www.r-bloggers.com/2019/05/bayesian-models-in-r-2/#google_vignette">Bayesian models in R</a></td>
+<td>Documentation for Bayesian models, the R interface to Stan, which provides tools for Bayesian inference using the Stan probabilistic programming language.</td>
+</tr>
+<tr>
+<td>Spatial Modeling</td>
+<td><a href="https://rspatial.org/spatial/">Spatial Data Science with R</a></td>
+<td>An in-depth guide to spatial data analysis and modeling in R, covering various packages and techniques for handling and analyzing spatial data.</td>
+</tr>
 </table>
