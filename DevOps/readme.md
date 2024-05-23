@@ -7,6 +7,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 - [Documentation](#documentation)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [Books](#books)
+- [Tools](#tools)
 
 ### Roadmap
 
@@ -214,4 +215,44 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
        <td><a href="https://freecomputerbooks.com/Kubernetes-Up-and-Running-Dive-into-the-Future-of-Infrastructure.html">Kubernetes</a></td>
        <td>The book "Kubernetes by Brendan Burns" is a practical book which shows developers and Ops personnel how Kubernetes and container technology can help you achieve new levels of velocity, agility, reliability, and efficiency.</td>
     </tr>
+</table>
+
+### Tools
+
+> These tools helps you to levelup your DevOps career.
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.jenkins.io/">Jenkins </a></td>
+        <td>Jenkins is an open-source automation server used for building, testing, and deploying software. It enables continuous integration and continuous delivery (CI/CD) pipelines, automating the software development process.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.docker.com/">Docker</a></td>
+        <td>Docker is a containerization platform that allows developers to package applications and their dependencies into containers. These containers can be easily deployed across different environments, providing consistency and efficiency in software delivery.</td>
+      </tr>
+      <tr>
+        <td><a href="https://kubernetes.io/">Kubernetes</a></td>
+        <td>Kubernetes is an open-source container orchestration platform used for automating the deployment, scaling, and management of containerized applications. It provides features for deploying, scaling, and managing containerized applications in a flexible and efficient manner.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.terraform.io/">Terraform</a></td>
+        <td>Terraform is a tool used for building, changing, and versioning infrastructure safely and efficiently. It allows infrastructure to be defined using declarative configuration files, enabling infrastructure to be managed programmatically.</td>
+      </tr>
+      <tr>
+        <td><a href="https://prometheus.io/">Prometheus</a></td>
+        <td>Prometheus is a alerting toolkit used for collecting and querying metrics from various systems. It provides a flexible query language and powerful alerting capabilities for monitoring the health and performance of applications and infrastructure.</td>
+      </tr>
+      <tr>
+        <td><a href="https://grafana.com/">Grafana</a></td>
+        <td>Grafana is a analytics and monitoring platform used for visualizing and analyzing metrics collected by monitoring systems like Prometheus. It provides a rich set of visualization options and dashboards for gaining insights into the performance and behavior of systems.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.puppet.com/">Puppet</a></td>
+        <td>Puppet is a configuration management tool used for automating infrastructure deployment and configuration. It provides a model-driven approach for managing infrastructure, ensuring consistency and compliance across environment</td>
+      </tr>
+      
 </table>
