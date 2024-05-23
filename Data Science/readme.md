@@ -14,6 +14,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 - [Resources for Finding Datasets](#resources-for-finding-datasets)<br>
 - [Competitions](#competitions)<br>
 - [Communities](#communities)<br>
+- [GitHub Repositories](#github-repositories)
 
 ### Roadmap
 
@@ -152,6 +153,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td> <a href="https://youtu.be/X2vAabgKiuM?si=ppqTTm_mui7aOtdT">Natural Language Processing and Recommender systems </a></td>
         <td>Branch of AI enabling computers to understand, interpret, and generate human language, vital for text analysis tasks and algorithms suggesting items based on user preferences, leveraging data to enhance personalized recommendations in various domains.</td>
       </tr>
+     
   </table>
 
   ### Free Courses
@@ -170,7 +172,9 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td> <a href="https://www.coursera.org/specializations/jhu-data-science">Coursera - Data Science Specialization by Johns Hopkins University </a></td>
         <td>A series of nine courses covering the entire data science workflow using R.</td>
       </tr>
-     
+     <tr>
+     <td> <a href="https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&si=L7jPIALUtbxqz46H">YouTube - Data Analyst Bootcamp by Alex The Analyst </a></td>
+     <td> A Complete Step by Step Guided playlist for Data Analytics, consisting of all Analytical tools like MS Excel, Power BI, Tableau, Python etc. </td>
   </table>
 
   ### Paid Courses
@@ -248,6 +252,12 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
      </tr>
         <td> <a href="https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ">Codebasics </a></td>
         <td>This channel offers tutorials on Python programming, data analysis, machine learning, and deep learning, aimed at beginners. </td>
+      </tr>
+      <td> <a href="https://www.youtube.com/@AlexTheAnalyst"> Alex The Analyst</a></td>
+      <td> This Channel offers  complete tutorials of Various Analytical tools like MS Excel, Power BI, Tableau along with their applications, Project building.</td>
+      </tr>
+      <td> <a href="https://www.youtube.com/@careerfoundry/featured"> Career Foundry</a></td>
+      <td> Covers the entire portion of Data Science along with their application, projects, development. </td>
       </tr>
   </table>
 
@@ -375,5 +385,35 @@ Platforms and resources for participating in Data Science competitions to practi
   <tr>
     <td> <a href="https://www.datasciencesociety.net/">Data Science Society </a></td>
     <td>The Data Science Society is an international digital community focused on data science education and collaboration. It organizes events such as datathons, meetups, and workshops, offering real-world cases for hands-on learning.</td>
+  </tr>
+</table>
+
+### GitHub Repositories
+
+<table width="100%">
+  <tr>
+    <th>Community</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+  <tr>
+    <td> <a href="https://github.com/storieswithsiva/Data-Science-Resources">Data Science Resources</a></td>
+    <td>The GitHub repository "Data-Science-Resources" by storieswithsiva is a curated collection of educational materials and tools for learning data science. It includes links to books, tutorials, courses, datasets, and various programming resources, aimed at helping both beginners and advanced learners.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/academic/awesome-datascience"> Awesome Data Science</a></td>
+    <td>The GitHub repository "awesome-datascience" by academic is a comprehensive list of high-quality resources for data science enthusiasts. It features a wide range of materials including tutorials, books, courses, software, datasets, and more</td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/microsoft/Data-Science-For-Beginners"> Data Science For Beginners</a></td>
+    <td>The GitHub repository "Data-Science-For-Beginners" by Microsoft is an educational resource designed to introduce newcomers to data science. It provides a structured, project-based curriculum with lessons, tutorials, and hands-on activities.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/FavioVazquez/ds-cheatsheets"> Data Science Cheatsheets</a></td>
+    <td>The GitHub repository "ds-cheatsheets" by FavioVazquez is a collection of cheat sheets for data science. These cheat sheets provide quick references and summaries of essential data science concepts, techniques, libraries, and tools.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/jakevdp/PythonDataScienceHandbook?tab=readme-ov-file">Python Data Science Handbook</a></td>
+    <td>The GitHub repository "PythonDataScienceHandbook" by jakevdp ,this one data science book is equivalent to a course, this repo includes Jupyter notebooks with detailed explanations and examples covering essential topics in data science using Python.</td>
   </tr>
 </table>

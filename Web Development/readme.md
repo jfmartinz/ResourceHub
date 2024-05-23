@@ -1332,6 +1332,11 @@ to everyone - everywhere!</td>
         <td>Youtube channel that teaches Web Development in a super simple way.Explore the content rich channel to become a pro in web development.
         </td>
       </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/@ApnaCollegeOfficial">Apna College</a></td>
+        <td>The YouTube channel "Apna College" offers a detailed web development course designed to take you from beginner to advanced levels, covering essential frontend technologies like HTML, CSS, and JavaScript.
+        </td>
+      </tr>
   </table>
 
 ### Games
@@ -1562,7 +1567,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td> <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">JavaScript Music Player</a></td>
         <td>This JavaScript music player is an interactive web-based application that allows users to play audio files directly from their browser. It is built primarily using JavaScript ,React  along with HTML and CSS, to handle the user interface and the media playback.   </td>
-        <tr>
+         <tr>
   </table>
 
   #### Intermediate level projects
