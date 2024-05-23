@@ -1562,6 +1562,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td> <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">JavaScript Music Player</a></td>
         <td>This JavaScript music player is an interactive web-based application that allows users to play audio files directly from their browser. It is built primarily using JavaScript ,React  along with HTML and CSS, to handle the user interface and the media playback.   </td>
+        <tr>
   </table>
 
   #### Intermediate level projects
@@ -1572,7 +1573,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <th>Description</th>
       </tr>
        <tr>
-        <td><a href="https://github.com/kartikmehta18/URLshortner">URL Shortner</a></td>
+        <td><a href="https://www.youtube.com/watch?v=OrcPDu4LYMY">URL Shortner</a></td>
         <td>
         A URL shortener is a simple tool that converts long URLs into shorter, more manageable links. This is particularly useful for sharing links on social media, in emails, or any context where space is limited. Here's how you can create a basic URL shortener using HTML, CSS, and JavaScript.
         </td>
