@@ -703,6 +703,103 @@ This section serves as a curated collection of valuable resources for learning a
 
 
 
+### C Programming Courses
+> Unfortunately, there aren't many widely recognized free certification courses specifically for C programming. However, there are several platforms where you can find free courses, tutorials, and resources to learn C programming
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Course</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>edX</td>
+    <td><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7">Introduction to Computer Science and Programming in C</a></td>
+    <td>Offered by Massachusetts Institute of Technology (MIT)</td>
+  </tr>
+  <tr>
+    <td>edX</td>
+    <td><a href="https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming">C Programming: Language Foundations</a></td>
+    <td>Offered by Dartmouth College</td>
+  </tr>
+  <tr>
+    <td>Coursera</td>
+    <td><a href="https://www.coursera.org/learn/c-programming">C for Everyone: Structured Programming</a></td>
+    <td>Offered by University of California, Santa Cruz</td>
+  </tr>
+  <tr>
+    <td>Coursera</td>
+    <td><a href="https://www.coursera.org/learn/c-programming">C Programming: Getting Started</a></td>
+    <td>Offered by Duke University</td>
+  </tr>
+  <tr>
+    <td>Udemy</td>
+    <td><a href="https://www.udemy.com/course/c-programming-for-beginners-">C Programming For Beginners</a></td>
+    <td>By Tim Buchalka's Learn Programming Academy</td>
+  </tr>
+  <tr>
+    <td>Udemy</td>
+    <td><a href="https://www.udemy.com/course/c-programming-for-beginners-">C Programming For Beginners - Master the C Language</a></td>
+    <td>By Tim Buchalka's Learn Programming Academy</td>
+  </tr>
+  <tr>
+    <td>Codecademy</td>
+    <td><a href="https://www.codecademy.com/learn/learn-c">Learn C</a></td>
+    <td>Offered by Codecademy</td>
+  </tr>
+  <tr>
+    <td>Pluralsight</td>
+    <td><a href="https://www.pluralsight.com/courses/c-fundamentals-c99">C Fundamentals with C99</a></td>
+    <td>By David Chisnall</td>
+  </tr>
+  <tr>
+    <td>MIT OpenCourseWare</td>
+    <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm">Introduction to Computer Science and Programming in C</a></td>
+    <td>Offered by Massachusetts Institute of Technology (MIT)</td>
+  </tr>
+</table>
+
+### Coding Platforms
+> The lists of various online platforms where you can practice and improve your C programming skills. These platforms offer a range of challenges, tutorials, and contests to help you test your knowledge, learn new concepts, and prepare for coding interviews.
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>HackerRank</td>
+    <td><a href="https://www.hackerrank.com/">HackerRank</a></td>
+    <td>HackerRank is a popular platform for practicing coding skills in various languages, including C. It offers a wide range of challenges, from beginner to advanced levels, that test your understanding of C concepts and problem-solving abilities.</td>
+  </tr>
+  <tr>
+    <td>CodeChef</td>
+    <td><a href="https://www.codechef.com/c-programming">CodeChef</a></td>
+    <td>CodeChef is another great platform for practicing C programming. It offers a variety of practice problems, coding contests, and tutorials specifically designed for C learners.</td>
+  </tr>
+  <tr>
+    <td>Coderbyte</td>
+    <td><a href="https://coderbyte.com/">Coderbyte</a></td>
+    <td>Coderbyte offers a collection of coding challenges in various programming languages, including C. The challenges are designed to help you improve your problem-solving skills and learn new coding techniques.</td>
+  </tr>
+  <tr>
+    <td>LeetCode</td>
+    <td><a href="https://leetcode.com/">LeetCode</a></td>
+    <td>LeetCode is a platform that focuses on coding interview preparation. It offers a wide range of coding challenges in various languages, including C.</td>
+  </tr>
+  <tr>
+    <td>GeeksforGeeks</td>
+    <td><a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a></td>
+    <td>GeeksforGeeks is a comprehensive platform that offers a wealth of resources for C programming, including tutorials, practice problems, interview questions, and articles.</td>
+  </tr>
+  <tr>
+    <td>Codewars</td>
+    <td><a href="https://www.codewars.com/">Codewars</a></td>
+    <td>Codewars takes a gamified approach to learning C. It offers a collection of coding challenges (called "katas") that you can solve in various languages, including C.</td>
+  </tr>
+</table>
+
 
 ## Conclusion 
 
