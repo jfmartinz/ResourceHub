@@ -41,7 +41,6 @@ data analysis tasks.
    - [Advanced Level Projects](#advanced-level-projects)
    - [Additional Tips](#additional-tips)
 - [Version Control](#version-control)
-- [Deployment](#deployment)
 - [YouTube](#youtube)
    - [YouTube Channels to Learn R](#youtube-channels-to-learn-r)
    - [YouTube Playlists for Learning R](#youtube-playlists-for-learning-r)
@@ -853,3 +852,48 @@ data analysis tasks.
 - **Debugging Techniques**: Learn debugging techniques to troubleshoot errors in your code effectively. Utilize tools like browser(), print statements, and debugging packages to identify and resolve issues.
 - **Data Ethics and Privacy**: Respect data ethics and privacy principles when collecting, analyzing, and sharing data. Ensure compliance with relevant regulations (e.g., GDPR) and obtain necessary permissions before using sensitive data.
 - **Continuous Learning**: Embrace a growth mindset and commit to continuous learning. Explore new domains, experiment with different techniques, and challenge yourself with increasingly complex projects to expand your skill set and knowledge base.
+
+### Version Control
+
+> Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+<table width="100%">
+  <tr>
+    <th>Topic</th>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Git Basics</td>
+    <td><a href="https://git-scm.com/doc">Official Git Documentation</a></td>
+    <td>Comprehensive official documentation for Git, covering installation, basic concepts, and advanced usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.atlassian.com/git/tutorials">Atlassian Git Tutorials</a></td>
+    <td>Detailed tutorials from Atlassian on Git basics, including commands and workflows.</td>
+  </tr>
+  <tr>
+    <td>Repositories</td>
+    <td><a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories">GitHub Docs - About Repositories</a></td>
+    <td>An overview of GitHub repositories, including how to create and manage them.</td>
+  </tr>
+  <tr>
+    <td>Commits</td>
+    <td><a href="https://www.git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository">Pro Git Book - Recording Changes</a></td>
+    <td>A chapter from the Pro Git book that covers making commits, viewing commit history, and more.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Branching and Merging</td>
+    <td><a href="https://www.atlassian.com/git/tutorials/using-branches">Atlassian Git Tutorials - Using Branches</a></td>
+    <td>An in-depth tutorial on creating, using, and merging branches in Git.</td>
+  </tr>
+  <tr>
+    <td><a href="https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging">Pro Git Book - Branching and Merging</a></td>
+    <td>A chapter from the Pro Git book that covers the basics of branching and merging in Git.</td>
+  </tr>
+  <tr>
+    <td>Pull Requests</td>
+    <td><a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests">GitHub Docs - Collaborating with Pull Requests</a></td>
+    <td>Documentation on creating and managing pull requests on GitHub.</td>
+  </tr>
+</table>
