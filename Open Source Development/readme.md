@@ -111,7 +111,7 @@ Open source development involves collaborative creation of software where the so
     <td>An essential platform for hosting and collaborating on open source projects, GitHub also offers extensive guides and resources for learning Git and contributing to projects.</td>
   </tr>
   <tr>
-    <td><a href="https://bitbucket.org/"></a>Bitbucket</td>
+    <td><a href="https://bitbucket.org/">Bitbucket</a></td>
     <td>What is BitBucket and How it works? An Overview and Its Use ...Bitbucket is a cloud-based Git-based service that allows developers to store, manage, and track code changes. It's designed for professional teams, providing a central place to collaborate on source code, plan projects, and test and deploy code.</td>
   </tr>
 </table>
