@@ -20,14 +20,19 @@ To ensure a smooth experience, please follow these important rules:
    ```markdown
    <a href="URL_here">Resource Name</a>
    ```
-
-   **Add to Table**: Insert it into the table like this:
-
+Example:
    ```markdown
-   <tr>
-      <td><a href="URL_here">Resource Name</a></td>
-      <td>URL Description</td>
-   </tr>
+   ### Section name
+ <table width="100%">
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><a href="URL HERE">RESOURCE NAME</a></td>
+      <td>RESOURCE DESCRIPTION</td>
+    </tr>
+</table>
    ```
 
    > Note: Replace "URL_here" with the actual resource URL and provide a brief description.
@@ -47,24 +52,33 @@ There are many ways to contribute, and you don't need to be a coding wizard to g
 ### Add Valuable Resources
 > If you come across a resource that you believe would benefit others, we encourage you to share it with us. Here's how you can contribute valuable resources:
 
-1. **Review the Rules for Adding Resources:** Carefully read and understand the guidelines on how to add a resource, including the specified format. Ensure that you follow the provided PR template, as it streamlines the review process for us.
-2. **Raise an Issue:** Create an issue and provide details about the resource you'd like to add. I'll review it, and if it aligns with contributing guidelines. I'll add it it into the project.
+1. **Review the [Rules](https://github.com/jfmartinz/ResourceHub/edit/main/CONTRIBUTING.md#important-rules) for Adding Resources:** Carefully read and understand the guidelines on how to add a resource, including the specified format. Ensure that you follow the provided PR template, as it streamlines the review process for us.
 
-### Grammatical errors
+2. **Raise a PR:** If you want to add a resource, you can create a Pull Request (PR) directly.
+
+Please include the following details in your PR:
+  - Resource URL
+  - Description of the resource
+  - Section and category where you plan to add it
+
+### Grammatical Errors
 > Help us maintain clean and error-free content by fixing typos or grammar issues. Your attention to detail ensures a seamless reading experience for everyone involved.
 
-1. **Raise an Issue:** Report any typos or grammar mistakes you come across by creating an issue. We appreciate your keen eye for detail!
+1. **Create a PR:** If you notice any grammatical errors or typos, please create a Pull Request (PR) directly. Your contributions help us maintain the quality and accuracy of our project.
 
 ### Enhance Documentation
-> Improving our project documentation is crucial for creating a user-friendly experience. If you have ideas on how to enhance the current documentation.
+> Improving our project documentation is crucial for creating a user-friendly experience. If you have ideas on how to enhance the current documentation, please share them.
 
 1. **Raise an Issue:** Start a discussion about your documentation improvement ideas. Perhaps you've identified areas where we can enhance the documentation for a better user experience, making it more user-friendly and accessible. Share your insights to help us continually improve.
 
 ### Report Outdated or Broken Links
 > Help us maintain the reliability of our resources by reporting any broken links or outdated information.
 
-1. **Raise an Issue:** If you come across broken links or outdated resources, create an issue and provide details on the category or location where you found it. This information will help us swiftly address the issue and keep everything up to date.
+1. **Create a PR:** If you come across outdated or broken links, please create a Pull Request (PR) directly. Include details on the category or location where you found the issue. This will help us swiftly address and update the information.
 
-Thank you for considering contributing to ResourceHub! Your contributions plays a crucial role in making this project a valuable resource for the web development community. 🌐✨
+---
+
+
+Thank you for considering contributing to ResourceHub! Your contributions play a crucial role in making this project a valuable resource for the web development community. 🌐✨
 
 Happy contributing! 🚀

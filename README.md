@@ -17,9 +17,19 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 </div>
 
+## Table of Contents
+
+- [What is ResourceHub](#what-is-resourcehub)
+- [Categories](#categories)
+- [How to Contribute](#how-to-contribute)
+  - [Forking and Submitting a Pull Request](#forking-and-submitting-a-pull-request)
+  - [Using GitHub Desktop](#using-github-desktop)
+- [Our Contributors](#our-contributors)
+- [License](#license)
+
 ## What is ResourceHub
 
-_ResourceHub_ is an Open-Source project that serves as a collection of valuable resources for Web Development, carefully curated by the amazing contributors in the community.
+_ResourceHub_ is an Open-Source project that serves as a collection of valuable resources for Web Development, UI & UX Design, Web3, Database, Open Source Development, App Development, Data Science and DevOps carefully curated by the amazing contributors in the community.
 
 You can contribute with helpful resources you've discovered on the internet and share them with us!
 
@@ -30,6 +40,12 @@ Here is a list of the currently available categories of the project:<br>
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
+- [Open Source Development](https://github.com/jfmartinz/ResourceHub/tree/main/Open%20Source%20Development)
+- [DevOps](https://github.com/jfmartinz/ResourceHub/tree/main/DevOps)
+- [App Development](https://github.com/jfmartinz/ResourceHub/tree/main/App%20Development)
+- [Programming Languages](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages)
+- [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
+- [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
 
 
 ## How to contribute
