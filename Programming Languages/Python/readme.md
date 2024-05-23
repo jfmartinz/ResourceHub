@@ -20,6 +20,10 @@ Python development refers to creating applications, scripts, and software soluti
 - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
+- [Python Projects](#python-projects)
+  - [Beginner Level Projects](#beginner-level-projects)
+  - [Intermediate Level Projects](#intermediate-level-projects)
+  - [Advance Level Projects](#advance-level-projects)
 
 ### Roadmap
 
