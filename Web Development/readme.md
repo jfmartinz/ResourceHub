@@ -1,4 +1,5 @@
 # Web Development 🌐
+
 This category is a curated collection of valuable web development resources contributed by amazing contributors. Here, you will find a wide range of materials and information about web development.
 
 ## Table of Contents
@@ -8,12 +9,14 @@ This category is a curated collection of valuable web development resources cont
   - [Front-End Development Roadmap](#front-end-roadmap)
   - [BackEnd Development Roadmap](#back-end-roadmap)
   - [Full-Stack Development Roadmap](#full-stack-roadmap)
+  - [Deployment Roadmap](#deployment-roadmap)
 
 - [Tutorials or Courses](#tutorials-or-courses)
 
   - [Front-End Development](#front-end-development)
   - [Back-End Development](#backend-development)
   - [Full-Stack Development](#full-stack-development)
+  - [Deployment](#deployment)
 
 - [Tools](#tools)<br>
   - [Typography](#typography)
@@ -25,6 +28,7 @@ This category is a curated collection of valuable web development resources cont
   - [Chrome extenstion](#chrome-extenstion)
   - [Stock Photos & Videos](#stock-photos-videos)
   - [SVGs](#svgs)
+  - [Hosting](#hosting)
   - [Other Tools](#other-tools)
 - [UI Components](#ui-components)<br>
 - [Books](#books)<br>
@@ -43,10 +47,12 @@ This category is a curated collection of valuable web development resources cont
   - [Beginner level](#beginner-level-projects)
   - [Intermediate level](#intermediate-level-projects)
   - [Advanced level](#advance-level-projects)
+- [Blogs](#blogs)
 
 ### Roadmaps
 
 > Step-by-step guide for front-end, back-end, and full-stack development.
+
 #### Front-End Roadmap
 
 <table width="100%">
@@ -87,6 +93,19 @@ This category is a curated collection of valuable web development resources cont
 <tr>
    <td><a href="https://drive.google.com/file/d/11fcT3EntbnverpXN6A4XwBC66KmQ-i7e/view?usp=sharing">Full-Stack</a></td>
    <td>This is the roadmap for full-stack development</td>
+</tr>
+</table>
+
+#### Deployment Roadmap
+
+<table width="100%">
+    <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+<tr>
+   <td><a href="https://roadmap.sh/full-stack">Deployment</a></td>
+   <td>This is the roadmap for full-stack development with deployment</td>
 </tr>
 </table>
 
@@ -397,6 +416,47 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
       <td>Free Tutorials covering all aspects of web development and programming.</td>
   </tr>
 </table>
+
+### Deployment
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=Z2DZntrqM2g">Can you Code a Product from Development to Deployment (as the only coder)?
+</a></td>
+<td>
+Coding a product from development to deployment all alone? Is it possible? Today I will share some of my experiences pertaining to the same!
+</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLIPSN1xWXb-BM4ong88IF3sUfK7Ar0bfi">Website Testing and Deployment||Web Development Fundamentals||Edunet Foundation||APSCHE||AICTE
+
+</a></td>
+
+<td>
+Coding a product from development to deployment all alone? Is it possible? Today I will share some of my experiences pertaining to the same!
+</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/watch?v=_LIuNAu5Ktc">HOST a website for FREE using AWS? | Deploy a Website to AWS in Under 8 Minute | AWS + DevOps
+</a></td>
+<td>
+How to HOST a website for FREE using AWS? | Static Website Hosting with AWS | Genie Ashwani
+</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/watch?v=4eMnz8VbgyM">Host Website for FREE using Github Pages | Web Development Course
+</a></td>
+
+<td>
+In this video, We will learn how to Host our Website for Free using Github Pages.
+</td>
+  </tr>
+
+  </table>
 
 ### Tools
 
@@ -947,6 +1007,39 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     </tr>
 </table>
 
+#### Hosting
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td> <a href="https://www.godaddy.com/en-in/hosting/web-hosting">GoDaddy</a></td>
+        <td>GoDaddy's Reliable Web Hosting keeps your website up and running. Featuring 99.9% uptime guarantee and award winning 24/7 tech support.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.hostinger.in/web-hosting">Hostinger</a></td>
+        <td>Buy web hosting plans that come with a domain and everything you need to launch a site. Experience a reliable hosting service with 99.9% uptime guarantee.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://firebase.google.com/products/hosting">Firebase</a></td>
+        <td>BuFirebase Hosting Fast, secure hosting for static websites. Deploy static websites in seconds using a global CDN.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://cloud.google.com/solutions/web-hosting">Google Cloud</a></td>
+        <td>Web hosting services from Google Cloud. Host everything from blogs to dynamic websites in the cloud with Click to Deploy or customized solutions.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://azure.microsoft.com/en-in">Microsoft Azure</a></td>
+        <td>Invent with purpose, realize cost savings, and make your organization more efficient with Microsoft Azure's open and flexible cloud computing platform.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://aws.amazon.com/websites/">Amazon Web Services (AWS)</a></td>
+        <td>AWS offers a cloud web hosting solution that provides businesses & organizations with a flexible, scalable, low-cost way to deliver websites & applications.</td>
+    </tr>
+</table>
+
 #### Other Tools
 
 <table width="100%">
@@ -957,6 +1050,10 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     <tr>
         <td> <a href="https://overapi.com/">Over API</a></td>
         <td>overapi. com is a site collecting all the cheatsheets,all! Computers Electronics and Technology-> Programming and Developer Software.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.netlify.com/">Netlify</a></td>
+        <td>Connect everything. Build anything. Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.</td>
     </tr>
 </table>
 
@@ -1509,11 +1606,12 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr>    
   </table>
 
-  ### Projects
+### Projects
 
 > These Projects help you gain real time website building exprience by building these projects.
 
-  #### Beginner level projects
+#### Beginner level projects
+
   <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -1570,7 +1668,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr>
   </table>
 
-  #### Intermediate level projects
+#### Intermediate level projects
 
   <table width="100%">
       <tr>
@@ -1658,3 +1756,36 @@ This section contains hundreds of coding challenges that test your knowledge of 
         </td>
       </tr>  
   </table>
+
+### Blogs
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Deployment">MDN Web Docs</a></td>
+        <td>
+        The build process · Open the package. · We'll add a build command that we can run to build our code. · You should now be able to run the website.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.codecademy.com/learn/deploy-a-website">Codecademy</a></td>
+        <td>
+        Deploying—or pushing new code to a server—is an integral part of a developer's daily workflow. Knowing the relationship between your computer.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.spaceotechnologies.com/blog/web-app-deployment/">SpaceQ Technologies</a></td>
+        <td>
+        Web app deployment refers to the process of making a web application available for end users to interact with on the internet.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.brmwebdev.com/web-design/deployment">brmwebdev</a></td>
+        <td>
+        Deployment is the final phase of our project. Once your website has been tested thoroughly, we will deploy it to a fast, secure, & highly scalable server.
+        </td>
+      </tr> 
+      </table>
