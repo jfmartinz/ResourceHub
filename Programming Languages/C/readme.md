@@ -26,7 +26,7 @@ This section serves as a curated collection of valuable resources for learning a
 - [C Programming Courses](#c-programming-courses)
 - [Books](#books)
 - [Websites](#websites)
-- [Conclusion](#Conclusion)
+- [Conclusion](#conclusion)
 
 ### Roadmap
 
@@ -42,6 +42,9 @@ This section serves as a curated collection of valuable resources for learning a
     <td>It encompasses all aspects of C programming, from the fundamental concepts to advanced topics, featuring numerous hands-on coding exercises and resources tailored for interview readiness.</td>
   </tr>
 </table>
+
+### Tutorials
+> Here are the tutorial guides which can help you to develop and enhance your coding skills
 
 ### Introduction
 > This section covers introductory topics essential for beginners diving into C programming. From understanding the history and importance of C to setting up your development environment and writing your first program, these resources will lay the groundwork for your learning journey.
