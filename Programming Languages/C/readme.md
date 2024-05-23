@@ -800,6 +800,82 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
+### Books 
+> Here are some books that can help and guide you to enhance your skills in C programming.
+
+<table>
+        <tr>
+            <th>Book Title</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td><a href="https://www.amazon.com/Learn-Programming-beginners-programming-disciplined/dp/1789349915">C Programming for Beginners by Aaron Courville</a></td>
+            <td>A beginner-friendly guide with clear explanations and practice exercises.</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.amazon.com/Programming-easy-steps-Mike-McGrath/dp/1840785446">C Programming in Easy Steps by Mike McGrath</a></td>
+            <td>A step-by-step approach to learning C with concise explanations.</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.amazon.com/Programming-Language-Dennis-M-Ritchie/dp/0876925964" ">The C Programming Language, 2nd Edition by Brian Kernighan and Dennis Ritchie</a></td>
+            <td>A classic and widely-respected resource, but requires some programming experience.</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.amazon.com/C-Primer-Plus-6th-Developers/dp/0321928423" >C Primer Plus by Stephen Prata</a></td>
+            <td>A comprehensive guide for beginners that covers fundamental and advanced topics in C.</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.amazon.com/Head-First-C-David-Griffiths/dp/1449399916" >Head First C by David Griffiths and Dawn Griffiths</a></td>
+            <td>An engaging and visually rich introduction to C programming.</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504" >C Programming: A Modern Approach by K.N. King</a></td>
+            <td>A modern and comprehensive guide to C programming with a clear and logical structure.</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.amazon.com/Programming-Ansi-C-Balagurusamy/dp/933921966X" >Programming in ANSI C by E. Balagurusamy</a></td>
+            <td>A textbook-style guide that covers the ANSI C standard with plenty of examples and exercises.</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.amazon.com/Let-Us-C-Yashavant-Kanetkar/dp/8183331637" >Let Us C by Yashavant Kanetkar</a></td>
+            <td>A popular book in India that provides a clear and systematic introduction to C programming.</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.amazon.com/Expert-Programming-Peter-van-Linden/dp/0131774298" >Expert C Programming: Deep C Secrets by Peter van der Linden</a></td>
+            <td>An advanced book that dives into the intricacies of C programming and provides expert-level insights.</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984" >C Programming Absolute Beginner's Guide by Greg Perry and Dean Miller</a></td>
+            <td>A beginner-friendly book that focuses on the fundamentals of C programming.</td>
+        </tr>
+    </table>
+
+
+### Websites 
+> Popular Websites to Learn C Programming 
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/c-programming-language/">GeeksforGeeks - Introduction to C Programming</a></td>
+    <td>An introduction to the C programming language covering its history, features, and applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/c-programming">Programiz - Learn C Programming</a></td>
+    <td>A comprehensive tutorial series covering the basics of C programming, including syntax, data types, control structures, and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/index.htm">Tutorialspoint - C Programming Tutorial</a></td>
+    <td>A beginner-friendly tutorial on C programming, providing step-by-step explanations of concepts with examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.freecodecamp.org/news/learn-c-c-from-scratch/">freeCodeCamp - Learn C and C++ from Scratch</a></td>
+    <td>A beginner's guide to learning C programming, starting from the basics and progressing to advanced topics.</td>
+  </tr>
+</table>
 
 ## Conclusion 
 
