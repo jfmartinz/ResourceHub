@@ -44,6 +44,8 @@
   - [Beginner level](#beginner-level-projects)
   - [Intermediate level](#intermediate-level-projects)
   - [Advanced level](#advance-level-projects)
+- [Full-stack with various technology stacks](#various-technolgy-stacks)
+
 
 ### Overview
 
@@ -1587,3 +1589,529 @@ This section contains hundreds of coding challenges that test your knowledge of 
         </td>
       </tr>    
   </table>
+
+### Various Technolgy Stacks
+
+> Typically, a full-stack developer often specializes in a specific stack,which is a combination of front-end,back-end,databases along with other related tools and frameworks.By specializing in a specific stack, developers can focus their learning efforts on mastering the technologies and frameworks within that stack. These examples of full-stack develpoment offers you a clear pathway.
+
+<h4>Building Web Applications with LAMP Stack</h4>
+
+>A LAMP stack is a bundle of four different software technologies that developers use to build websites and web applications. LAMP is an acronym for the
+ Linux-The operating system , Apache-The web server , MySQL-The database server , PHP-The programming language
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://aws.amazon.com/what-is/lamp-stack/"> Get started with LAMP stack</a></td>
+        <td>
+        An overview of the LAMP stack and its significance in web development.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://youtu.be/8SZZIy51g5c?si=InPczNun35OPry-D">LAMP Roadmap</a></td>
+        <td>
+         This roadmap covers everything from the basics of web development to advanced topics like microservices and DevOps. You'll learn how to choose the right technologies, develop both front-end and back-end skills, manage databases, and use version control systems.
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/linux-tutorial/">Linux Basics</a></td>
+        <td>
+        This link helps you to cover basic concepts of Linux such as Linux commands,directory and file management, man pages, file permissions,shells and more 
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.sumologic.com/blog/apache-web-server-introduction/">Importance of Apache Web Server</a></td>
+        <td>
+        This gives you an in-depth overview of Apache Web Server, covering its importance, usage, and functionality.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://ubuntu.com/tutorials/install-and-configure-apache#1-overview">Install and Configure Apache</a></td>
+        <td>
+        This link helps you to install Apache,create your own website,setting up the virtualhost configuration file and activating virtualhost file.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://dev.mysql.com/doc/mysql-getting-started/en/">Installing and Starting MySQL</a></td>
+        <td>
+        This documentation gives you a easiest way to install MySQL on Linux along with other operating systems too. 
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://www.javatpoint.com/basic-mysql-commands-in-linux">Basic MySQL Commands in Linux</a></td>
+        <td>
+        This article helps you to master basic MySQL commands in Linux that you can use to do interaction with the database.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.w3schools.com/php/default.asp">PHP</a></td>
+        <td>
+        PHP is a server-side scripting language used to handle server-side logic, process user input, interact with databases, and generate dynamic content for web pages.Learn PHP from beginner to advanced levels with this tutorial and reference covering all topics.
+        </td>
+      </tr>     
+      <tr>
+        <td><a href="https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&si=DBzaBOOQGmm9MT8r">Front end technology HTML,CSS and JavaScript</a></td>
+        <td>
+        For front-end development, HTML, CSS, and JavaScript are commonly used. These technologies handle the presentation layer of web applications, including the layout, design, and interactivity that users interact with in their web browsers.This playlist helps to start your learning journey of front end development.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://soshace.com/development-with-lamp-stack-illustrated-address-book-project/">Example project in LAMP stack</a></td>
+        <td>
+        Here is project to refer.This is blog on development with LAMP Stack illustrating Address Book Project
+        </td>   
+  </table>
+
+<h4>Creating Web Apps with MEAN Stack</h4>
+
+>MEAN is a technology stack used for building full-stack applications. It's a combination of the following technologies MongoDB — a document database
+, Express — a Node.js framework for building APIs , Angular — a front-end application framework , Node.js — a server-side JavaScript runtime environment.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.mongodb.com/resources/languages/mean-stack"> Introduction to MEAN stack</a></td>
+        <td>
+         Discover what the MEAN stack is, how it can be used and works, the pros and cons of the MEAN stack.
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/mean-stack/">MEAN Stack Roadmap</a></td>
+        <td>
+         A roadmap for mastering MEAN Stack development involves progressing through various steps, acquiring skills in each component, and gaining hands-on experience. 
+        </td>   
+      </tr> 
+       <tr>
+        <td><a href="https://www.w3schools.com/angular/">Angular,Front-end application framework</a></td>
+        <td>
+          A complete tutorial to start learning AngularJS,a JavaScript framework from basic to adavance level
+        </td>
+      </tr>   
+      <tr>
+        <td><a href="https://learn.mongodb.com/learning-paths/introduction-to-mongodb">A step to learn MongoDB</a></td>
+        <td>
+        MongoDb is a NoSQL database system that stores data in a flexible, JSON-like format. MongoDB is known for its scalability, high performance, and ease of use.This is an introduction to MongoDB course that guides you to get started with MongoDB.This includes connecting to a MongoDB database, how to conduct simple CRUD operations, and key topics such as aggregation, indexing, data modeling, and transactions.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.tutorialspoint.com/nodejs/index.htm">Node.js Overview</a></td>
+        <td>
+        Node.js is an open-source and cross-platform JavaScript runtime environment.This is a Node.js Tutorial that guides you right from Installation of Node.js to Connecting MongoDB 
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://youtu.be/f2EqECiTBL8?si=W6GNhgm9OCG5urP4">Express.js--a Node.js framework</a></td>
+        <td>
+          This video gives you complete knowledge from Node.js along the path to Express.js 
+        </td>
+      </tr>  
+       <tr>
+        <td><a href="https://youtu.be/rCkTNAmWwCE?si=ERhGUWNz5Wsz-Tnf">Connect Angular with Express JS</a></td>
+        <td>
+         In this video tutorial, you'll learn how to integrate Angular with Express.js to build a full-stack web application. We'll guide you through the process of setting up a backend API using Express.js, which will serve as the backend for your Angular frontend.
+        </td>
+      </tr>  
+       <tr>
+        <td><a href="https://youtu.be/J8FkH5dPoZ0?si=MhQjs-uctSgmAaOF">Connect ExpressJS with MongoDB</a></td>
+        <td>
+         In this video, we'll make a connection to a MongoDB database using the mongodb module in Node.js.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://youtu.be/48SUuk8e55c?si=47ZU4UP5ld9g7TAZ">Complete course on MEAN Stack</a></td>
+        <td>
+        All-in-one Course on MEAN stack for the developer 
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/build-a-simple-web-app-with-express-angular/">A simple web app with Express and Angular</a></td>
+        <td>
+         This an article that helps you in buliding an application using Angular and Express.
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://www.theknowledgeacademy.com/blog/mean-stack-projects/">Best MEAN Stack Projects Ideas</a></td>
+        <td>
+         The top 10 MEAN Stack project ideas range from e-commerce platforms and social media applications to educational websites and financial management tools. 
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://medium.com/@OffshoreITStaffing/apps-built-with-mean-stack-and-mern-stack-47a7c0aa1ab3">Applications built on MEAN stack</a></td>
+        <td>
+         Here are 5 Applications built with MEAN Stack:
+          -YouTube
+          -Flickr
+          -Forbes
+          -Tumblr
+          -ShutterStock
+          -PayTm
+        </td>   
+      </tr> 
+</table>
+
+
+<h4>Creating Web Applications with Ruby on Rails</h4>
+
+>Ruby on Rails is a server-side web application framework written in Ruby under the MIT License. Rails is a Model–View–Controller (MVC) framework. It provides default structures for a database, a web service, and web pages. In essence, Ruby on Rails is a full-stack framework for web development. Ruby-The programming language used , Rails-The web application framework , SQLite/MySQL/PostgreSQL- Common databases used with Rails , JavaScript-For front-end interactions.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/ruby-on-rails-introduction/"> Introduction to Ruby on Rails</a></td>
+        <td>
+         Learn more about What is Ruby on Rails along it's features,advantages and disadvantages.
+      </tr>
+      <tr>
+        <td><a href="https://gist.github.com/onlurking/857b1b3a06f6b77c1bc411edb339e603">Ruby and Rails Study Roadmap</a></td>
+        <td>
+         Here is a respository to check out the complete Ruby on Rails Roadmap.
+        </td>   
+      </tr> 
+       <tr>
+        <td><a href="https://www.javatpoint.com/ruby-tutorial">Ruby programming tutorial.</a></td>
+        <td>
+          This is a Ruby programming tutorial designed for both beginners and professionals.This includes all topics of Ruby such as installation, example, operators, control statements, loops, comments, arrays, strings, hashes, regular expressions, file handling, exception handling, OOPs, Ranges, Iterators. etc
+        </td>
+      </tr>   
+      <tr>
+        <td><a href="https://www.javatpoint.com/ruby-on-rails-tutorial">Get started with Rails</a></td>
+        <td>
+           This Ruby on Rails tutorial includes all topics of Ruby on Rails such as features, MVC, Router, Scaffolding, Views, Hello World example, bundlers, migrations, layout, CRUD Example, interview questions etc.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.devdungeon.com/content/ruby-sqlite-tutorial">SQLite Database Management</a></td>
+        <td>
+         SQLite3 is an awesome cross-platform relational database. Some of the major benefits of SQLite include its simplicity and easy management.To learn more about SQLite and how to use it in general, check out this SQLite3 Tutorial. 
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://youtu.be/wbZ6yrVxScM?si=QmVVPs8aqxk-0FpE">Building Web Applications with Ruby on Rails Framework</a></td>
+        <td>
+          This Ruby on Rails tutorial will help beginners understand how the framework works and the key steps to create a blog using Ruby on Rails.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://youtu.be/MJSZ3WcgHeE?si=Xfl6bT2dPFon5S1p">Testing and Debugging Rails Applications</a></td>
+        <td>
+          This videos help sort out your bugs including logging & customer loggers,Debug on webpage,Marginalia Gem,Memory & profiling, ByeBug etc
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/build-a-simple-web-app-with-express-angular/">How to Deploy Rails to Render</a></td>
+        <td>
+         This is a video that helps you to modify our database yaml file,create a build script,build command, deploying from a render yaml file,deploy in progress,controller.
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://optymize.io/blog/top-4-ruby-on-rails-projects-ideas-for-beginners-to-get-started/">Project Ideas for Beginners</a></td>
+        <td>
+          Top 4 Ruby On Rails Projects For Beginners
+              -The first classic exercise is to build a blog using RoR.
+              -Build a simple product catalogue and shopping cart using RoR.
+              -Creating an object-oriented quiz game using RoR.
+              -Creating a Twitter or Reddit bot using RoR.
+         </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://www.clustox.com/blog/famous-ruby-on-rails-apps">Popular Ruby on Rails Apps</a></td>
+        <td>
+          Here are the 10 most famous Ruby On Rails Apps And Sites
+        </td>   
+      </tr> 
+</table>
+
+<h4>Python Web Development using Django</h4>
+
+>Python is a versatile programming language widely used in web development.Python Django is a web framework that allows to quickly create efficient web pages. Django is also called batteries included framework because it provides built-in features such as Django Admin Interface, default database – SQLite3, etc.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.browserstack.com/guide/web-development-in-python-guide"> Introduction to Python web development</a></td>
+        <td>
+           This guide gives you a complete info on why python for web development completely guide you on this python web development through  different framework,libraries etc.
+         </td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/HHHMHA/django-roadmap">Django Roadmap</a></td>
+        <td>
+         Here is a respository to check out the complete Django roadmap.
+        </td>   
+      </tr> 
+       <tr>
+        <td><a href="https://www.w3schools.com/python/python_intro.asp">Python Programming tutorial.</a></td>
+        <td>
+         Python is a popular programming language.Python can be used on a server to create web applications.This tutorial can help you to learn python from scratch.
+        </td>
+      </tr>   
+      <tr>
+        <td><a href="https://youtu.be/F5mRW0jo-U4?si=izlL-Ztc3maNQ1Sy">Python Django Web Framework - Full Course for Beginners</a></td>
+        <td>
+           Learn the Python Django framework with this free full course
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://youtu.be/fBA-jaWab9k?si=q2DUqIOBhvEjK1vd">Connect Django Backend to React.js Frontend</a></td>
+        <td>
+          This will guide you through the process step-by-step using Python,Django and ReactJs. 
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://youtu.be/5g_xIwxLSJk?si=6-raNS18r3ecJhQJ">How to Connect MySQL database with Django Project </a></td>
+        <td>
+        In this video, you will walk you through the process of seamlessly connecting a MySQL database or any other SQL database to a Django project. You will learn about how to set up the MySQL and SQLite database, configure Django's settings, create a new Django app, manage database credentials, handle migrations, and do some more stuff.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://youtu.be/IoxHUrbiqUo?si=zNtbCOp5piU3YuGu">The 4 best ways to deploy a Django application</a></td>
+        <td>
+          This video provides best ways to deploy a Django application that includes Introduction,Installing directly on a server Use Docker-compose to run app directly on Linux server,A managed Docker orchestration service and Use a server less technology 
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://github.com/analyticalnahid/django-react-mysql-crud-docker">Sample Project Example</a></td>
+        <td>
+         This is a sample project that demonstrates a CRUD (Create, Read, Update, Delete) application using Django, React, and MySQL. It provides a basic template for building web applications with Django as the backend, React as the frontend, and MySQL as the database.
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/top-django-projects-for-beginners/">Django Projects for Beginners</a></td>
+        <td>
+         Here are the Django projects for beginners includes a summary along with detailed step-by-step tutorials is described in detail for those who are yet to start making Django projects in 2023.
+         </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://www.netguru.com/blog/django-apps-examples">Django Apps Example</a></td>
+        <td>
+          More specifically, here are some examples of companies, their websites, and apps built with Django.
+        </td>   
+      </tr> 
+</table>
+
+<h4>Full-Stack Development with Java</h4>
+
+>Java is a widely-used programming language that is known for its stability and scalability, making it a popular choice for full-stack web development. This tutorial will guide you through the basics of Java programming, introduce you to essential frameworks, cover database management, and provide insights into building and deploying Java-based web applications.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/java-full-stack/"> Introduction to Java web development</a></td>
+        <td>
+           This gives complete introduction to Java full stack web development.A “Java full stack” refers to a type of software development technique that involves using the Java programming language for both the front-end and back-end parts of a web application. 
+         </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.simplilearn.com/java-developer-roadmap-article">Java Full stack RoadMap</a></td>
+        <td>
+         You will gain a quick overview of Java Full Stack development and understand the role of Java in cloud computing, all within the context of various career options for developers.
+        </td>   
+      </tr> 
+       <tr>
+        <td><a href="https://www.w3schools.com/java/java_intro.asp">Java Programming tutorial</a></td>
+        <td>
+         Java is a popular high-level, object-oriented programming language, which was originally developed by Sun Microsystems and released in 1995.After completing this tutorial, you will find yourself at a moderate level of expertise in Java Programming, from where you can elevate yourself to the next levels.
+        </td>
+      </tr>   
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/spring-boot/">Introduction to SpringBoot</a></td>
+        <td>
+          Spring Boot is a Java framework that makes it easier to create and run Java applications. It simplifies the configuration and setup process, allowing developers to focus more on writing code for their applications.This Spring Boot Tutorial is a comprehensive guide that covers both basic and advanced concepts of the Spring Framework. It is designed for beginners as well as professionals.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://youtu.be/35EQXmHKZYs?si=jFyGqr61JfOe5CrN">Spring Boot Tutorials | Full Course</a></td>
+        <td>
+         In this video, you will be guided through the essentials of Spring and Spring Boot, starting with an introduction to Spring and its core concepts like Dependency Injection.  You will then learn how to set up the Spring Tool Suite (Spring Boot IDE), build a web application using Spring Boot, and understand key components such as the Application Properties File and ModelAndView.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://youtu.be/5RA5NpxbioI?si=QWZOeP8Z6Umz7PBH">React JS + Spring Boot REST API Example Tutorial</a></td>
+        <td>
+         In this tutorial, you will create a "single page application" using React as frontend and spring boot as backend. 
+         1. springboot-backend (server) – To Develop REST API
+         2. react-frontend (client) – Consume REST API
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://youtu.be/5g_xIwxLSJk?si=6-raNS18r3ecJhQJ">Connect a MongoDB database to Spring Boot Tutorial</a></td>
+        <td>
+        In this video, you will walk you through the process of seamlessly connecting a MySQL database or any other SQL database to a Django project. You will learn about how to set up the MySQL and SQLite database, configure Django's settings, create a new Django app, manage database credentials, handle migrations, and do some more stuff.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://youtu.be/5PdEmeopJVQ?si=va3dfMqJj3UMDNBL">Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course</a></td>
+        <td>
+          In this full stack development course video, you will learn how to create an application using MongoDB for the database, Java and Spring Boot for the backend, and React for the frontend.
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://github.com/knowledgefactory4u/springboot-mongodb-react-crud">Sample Project Reference</a></td>
+        <td>
+         This is a git hub repository you can check out to work with springboot-mongodb-react-crud.
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/spring-project-ideas/">Spring Project Ideas For Beginners</a></td>
+        <td>
+         In this article, we’ll take a detailed look at each project, including its goal, summary, and tech stack.
+         </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://www.netguru.com/blog/django-apps-examples">Top 10 Startups Using Spring Boot</a></td>
+        <td>
+          In this article, we will explore some startups using Spring Boot and what benefits it brings for them.
+        </td>   
+      </tr> 
+</table>
+
+<h4>Developing Web Applications with ASP.NET</h4>
+
+> ASP.NET is a web application framework developed and marketed by Microsoft to allow programmers to build dynamic web sites. It allows you to use a full featured programming language such as C# or VB.NET to build web applications easily.ASP.NET is a server-side technology used for developing dynamic websites and web applications on the internet. It also produces data-driven web applications. ASP.NET is also an free online framework that allows you to create amazing websites and web apps with HTML, CSS, and JavaScript. 
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.javatpoint.com/asp-net-introduction">Introduction to ASP.net Framework</a></td>
+        <td>
+           This comprehensive ASP.NET tutorial covers all the essential topics to get you started with ASP.NET web development. You'll begin with an introduction to ASP.NET and its lifecycle, explore ASP.NET Web Forms, including key server controls like Label, TextBox, Button, HyperLink, and advanced controls like Calendar and FileUpload. Learn about session management, cookies, and data handling with controls 
+         </td>
+      </tr>
+       <tr>
+        <td><a href="https://github.com/saifaustcse/dotnet-developer-roadmap">.NET Developer Roadmap</a></td>
+        <td>
+          Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Full stack .NET developer. 
+        </td>   
+      </tr> 
+       <tr>
+        <td><a href="https://www.w3schools.com/cs/index.php">C# Programming Basics</a></td>
+        <td>
+         C# is an object-oriented programming language created by Microsoft that runs on the .NET Framework.This tutorial will guide you through the fundamentals of C# programming, providing a strong foundation for developing applications using this versatile language.
+        </td>
+      </tr>   
+      <tr>
+        <td><a href="https://www.sqlservertutorial.net/getting-started/what-is-sql-server/">SQL Server Database Management</a></td>
+        <td>
+          SQL Server is a relational database management system (RDBMS) developed and marketed by Microsoft.Similar to other RDBMS software, SQL Server is built on top of SQL, a standard programming language for interacting with relational databases.This tutorial guides you on complete SQL Server Database Management.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://youtu.be/xhPHMXu1agM?si=dVmkb4UvPtRAcGuj">Building Web Applications with ASP.NET</a></td>
+        <td>
+         In this video on ASP.NET Web Application, We will learn how to create a login form using  ASP.NET Web Application(.NET Framework)
+         template. This template is used to create asp.net web forms, mvc or web API Applications and many other features in ASP.NET. 
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://youtu.be/KBaDCPl9gM4?si=SpxdKUci0tg661ve">Deploying ASP.NET Applications</a></td>
+        <td>
+         This video will show you how to deploy your ASP.net web application on Amazon AWS cloud platform in just 15 mins using AWS Visual studio Toolkit 2022. 
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://github.com/topics/asp-net-project">Asp.net Project Examples</a></td>
+        <td>
+       These repositories demonstrate the versatility and practical applications of ASP.NET in different projects, from tour management systems to shopping websites and educational programs.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.interviewbit.com/blog/asp-net-projects-with-source-code/">Top ASP.NET Projects</a></td>
+        <td>
+          This guide provides a comprehensive list of ASP.NET project ideas suitable for different skill levels. Whether you're a beginner, intermediate, or advanced developer, these projects will help you hone your skills and apply your knowledge in practical scenarios.
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://www.phpbabu.com/10-great-applications-created-with-asp-net/ ">10 great applications created with ASP.NET</a></td>
+        <td>
+        Explore 10 great applications created with ASP.NET to gain insights into the capabilities of this powerful web framework. Understand how ASP.NET, utilizing CSS, HTML, and JavaScript, has become popular for building both small and large-scale websites. 
+        </td>
+      </tr> 
+</table>
+
+<h4> Developing Web Apps with MERN Stack</h4>
+
+> The MERN stack is an open source–centric collection of technologies that uses JavaScript for both the browser and server sides of a web application. MERN is an acronym for the four technologies that form the stack: MongoDB, Express, React, and Node.js. MongoDB – A NoSQL database that deals with data , Express – A framework for NodeJS and handles GET, PUT, POST, and DELETE functions , React – A JavaScript library for building User Interfaces, building single-page applications , NodeJS – An open-source server environment.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.knowledgehut.com/blog/web-development/mern-stack#mern-stack-components%C2%A0%C2%A0">Introduction to MERN stack</a></td>
+        <td>
+          This comprehensive MERN Stack tutorial covers thre introduction to get you started with full-stack web development using the MERN Stack. You'll begin with an introduction to each component of the MERN Stack—MongoDB, Express.js, React, and Node.js. 
+         </td>
+      </tr>
+       <tr>
+        <td><a href="https://pwskills.com/blog/mern-stack-development-roadmap/">MERN stack Roadmap</a></td>
+        <td>
+         The MERN (MongoDB, Express.js, React, Node.js) Stack is a powerful combination of technologies for building robust web applications. A roadmap for mastering MERN Stack development involves progressing through various stages, acquiring skills in each component, and gaining hands-on experience. 
+         </td>
+      </tr>   
+      <tr>
+        <td><a href="https://youtube.com/playlist?list=PLp50dWW_m40UWFSV6PTgYzciZJIxgHy7Q&si=_GslwdROk-hWTlPv">MongoDB Full Tutorial</a></td>
+        <td>
+          This comprehensive MongoDB tutorial covers all the essential topics to get you started with MongoDB, the popular NoSQL database. You'll begin with an introduction to MongoDB and its key features, learn how to set up your development environment, and explore basic CRUD (Create, Read, Update, Delete) operations.
+         </td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/RVFAyFWO4go?si=cpiWv1Wf46dQixWQ">React Full Course</a></td>
+        <td>
+       This React JS Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 9 hours of React JS code and instruction to level up your programming skills. This course teaches modern React with functional components and hooks.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.javatpoint.com/expressjs-tutorial">ExpressJS Tutorial</a></td>
+        <td>
+        This comprehensive Express.js tutorial covers all the essential topics to get you started with Express.js, the popular Node.js framework for building web applications and APIs. You'll begin with an introduction to Express.js and its core features, learn how to set up your development environment, and create your first Express.js server. Dive into more advanced topics such as routing, middleware, handling requests and responses, and integrating with databases. 
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://youtu.be/w3vs4a03y3I?si=swzFhN3paKQ4eXB0">Connect ExpressJS with React</a></td>
+        <td>
+         In this video, I will be showing you how to create a project with an Express/Node backend and a React frontend. We will set up a backend API with Express that returns an array of users and in the frontend, we will fetch that backend and display the same users onto the frontend.
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://youtu.be/QzEjUOYNoIs?si=PqPVVeQyHwIs5Xmw">Connect ExpressJS with MongoDB</a></td>
+        <td>
+         In this video, I will be showing you how to set up a basic Express.js project with MongoDB integration. We will start by initializing the project, installing necessary dependencies (Express, Mongoose, Nodemon), and creating a basic server. Then, we'll connect the server to a MongoDB cluster, define a schema, and fetch documents from a collection to print them. 
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://youtu.be/CvCiNeLnZ00?si=5S_GP1cKHTa_1uV1">MERN Stack Full Tutorial and Project</a></td>
+        <td>
+         This MERN Stack Full Tutorial & Project provides a complete all-in-one course with 8 hours of code and instruction to level up your web development skills. Think of this MERN Stack Full Tutorial Course as a full stack video textbook with 13 clearly defined chapters.
+        </td>
+      </tr> 
+       <tr>
+        <td><a href="https://www.geeksforgeeks.org/mern-stack-projects/">MERN Stack projects</a></td>
+        <td>
+          This article delves into basic projects in the MERN stack, offering developers opportunities to deepen their understanding and bolster their resumes.
+        </td>   
+      </tr> 
+      <tr>
+        <td><a href="https://medium.com/@OffshoreITStaffing/apps-built-with-mean-stack-and-mern-stack-47a7c0aa1ab3 ">Apps built on MERN stack</a></td>
+        <td>
+        Here are some  examples of applications built using the MERN stack, showcasing its versatility and capability in real-world scenarios.
+        </td>
+      </tr> 
+</table>
