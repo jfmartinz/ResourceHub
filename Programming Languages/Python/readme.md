@@ -20,6 +20,7 @@ Python development refers to creating applications, scripts, and software soluti
 - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
+- [YouTube Playlists](#youtube-playlist)
 
 ### Roadmap
 
@@ -566,4 +567,34 @@ Automate repetitive tasks with Python using these useful resources.
         <td>Mosh Hamedani delivers Python tutorials focusing on practical programming skills, software development best practices, and tips for becoming a proficient Python developer.</td>
       </tr>
 </table>
-These channels provide excellent resources for learning Python programming, catering to learners of all levels with their diverse range of content and teaching styles.
+
+### YouTube Playlist
+
+> YThese YouTube Playlists helps you to learn python in a structured way:
+
+<table width="100%">
+      <tr>
+        <th>Channel Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL9ooVrP1hQOE4KoZLUP4LgBwFH2IJCQs6">Python Full Course </a></td>
+        <td>This playlist by Edureka helps you Master Python programming , and tailored for all skill levels, this series starts with the fundamentals and gradually introduces more complex topics, ensuring a solid understanding of Python.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3">Python for Beginners</a></td>
+        <td>This playlist by Telusko helps you understand python very easily and this playlist is curated series for those who are new to coding, providing step-by-step guidance through the essentials of Python. You'll start with the basics, like installation and syntax, and gradually progress to more complex topics such as data types, control structures, functions, modules and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp">Python Right now</a></td>
+        <td>This youbute playlist by NetworkChuck gives you the best way to learning python in the most funniest way, this playlist gives you the clear explaination for python Beginners.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB">Python Tutorials - Freecodecamp</a></td>
+        <td>This playlist by Freecodecamp is a comprehensive series for those who are new to coding,this playlist provides a thorough introduction to not only Python but also Django,Flask and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU">Python Tutorials</a></td>
+        <td>This youtube playlist by Corey Schafer is ideal for both beginners and those looking to deepen their understanding of Python.This playlist will give you the brief introducation to Python frameworks like Django, flask and modules like Pandas, numpy and more.</td>
+      </tr>
+</table>
