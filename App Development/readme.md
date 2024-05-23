@@ -94,7 +94,7 @@ App development refers to crafting software for diverse devices, involving plann
 
 <table width="100%">
       <tr>
-        <th>Technology</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -126,9 +126,9 @@ App development refers to crafting software for diverse devices, involving plann
 
 <table width="100%">
       <tr>
-        <th>Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
-        <th>Status</th>
+        <th>Cost</th>
       </tr>
        <tr>
         <td> <a href="https://www.freecodecamp.org/">Codecademy </a></td>
@@ -159,11 +159,11 @@ App development refers to crafting software for diverse devices, involving plann
 
 ### Books
 
-> You can refer these books on App Development. They are listed below:
+> You can refer to these books on App Development. They are listed below:
 
 <table width="100%">
       <tr>
-        <th>Book</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -194,7 +194,7 @@ App development refers to crafting software for diverse devices, involving plann
 
 <table width="100%">
       <tr>
-        <th>Channel Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
