@@ -571,3 +571,184 @@ Automate repetitive tasks with Python using these useful resources.
       </tr>
 </table>
 These channels provide excellent resources for learning Python programming, catering to learners of all levels with their diverse range of content and teaching styles.
+
+#### Python Projects
+> Python Projects which can help you to enhance your development skills and build your resumes.
+
+### Beginner Level Projects
+
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Resources</th>
+  </tr>
+  <tr>
+    <td>Mad Libs Generator</td>
+    <td>A classic game that tests your understanding of string manipulation and user input.</td>
+    <td><a href="https://pythongeeks.org/python-mad-libs-generator-project/">Geeks for Geeks</a></td>
+  </tr>
+  <tr>
+    <td>Currency Converter</td>
+    <td>A simple application for converting between currencies. Introduces basic calculations and data types.</td>
+    <td><a href="https://www.scaler.com/topics/currency-converter-java-project/">Scaler Currency Converter</a></td>
+  </tr>
+  <tr>
+    <td>Number Guessing Game</td>
+    <td>A fun way to practice user interaction and conditional statements (if/else).</td>
+    <td><a href="https://www.geeksforgeeks.org/number-guessing-game-in-java/">GeeksforGeeks Number Guessing Game</a></td>
+  </tr>
+  <tr>
+    <td>Text-Based Adventure Game</td>
+    <td>Create a story where users make choices, introducing concepts like control flow and arrays.</td>
+    <td><a href="https://github.com/topics/ascii-art?l=java">GitHub ASCII Art</a></td>
+  </tr>
+  <tr>
+    <td>Simple Text Editor</td>
+    <td>Develop a basic text editor application that allows users to create, edit, and save text files.</td>
+    <td><a href="https://www.geeksforgeeks.org/java-swing-simple-text-editor/">Simple Text Editor in Java Swing</a></td>
+  </tr>
+  <tr>
+    <td>Quiz Application</td>
+    <td>Create a quiz application where users can answer multiple-choice questions and receive feedback on their performance.</td>
+    <td><a href="https://www.codejava.net/java-se/swing/create-simple-quiz-game-in-java-swing">Quiz Application in Java Swing</a></td>
+  </tr>
+  <tr>
+    <td>Library Management System</td>
+    <td>Build a library management system allowing librarians to manage books, borrowers, and transactions.</td>
+    <td><a href="https://www.javatpoint.com/library-management-system-in-java">Library Management System in Java</a></td>
+  </tr>
+  <tr>
+    <td>Weather Application</td>
+    <td>Develop a simple weather application that retrieves and displays weather information based on user input or location.</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLTl9hO2QlndidemKAsveFe5a1mqxS7lXQ">Java Weather Application Tutorial</a></td>
+  </tr>
+    <tr>
+    <td>Hangman Game</td>
+    <td>Implement the classic Hangman game where players guess letters to reveal a hidden word before running out of attempts.</td>
+    <td><a href="https://www.geeksforgeeks.org/java-program-for-hangman-game/">Hangman Game in Java</a></td>
+  </tr>
+  <tr>
+    <td>Address Book</td>
+    <td>Develop a basic address book application to manage contacts, including features like adding new contacts, searching, and deleting.</td>
+    <td><a href="https://www.geeksforgeeks.org/address-book-in-java/">Address Book in Java</a></td>
+  </tr>
+  <tr>
+    <td>Temperature Converter</td>
+    <td>Build a program that converts temperatures between Celsius and Fahrenheit scales based on user input.</td>
+    <td><a href="https://www.javatpoint.com/java-program-to-convert-temperature-celsius-to-fahrenheit">Java Program to Convert Temperature</a></td>
+  </tr>
+</table>
+
+
+### Intermediate Level Projects
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Resources</th>
+  </tr>
+  <tr>
+    <td>To-Do List App</td>
+    <td>A practical application for managing tasks. Introduces data structures (lists) and persistence (saving data).</td>
+    <td><a href="https://m.youtube.com/watch?v=Hvuij8SOW8Q">To-Do List App YouTube Tutorial</a></td>
+  </tr>
+  <tr>
+    <td>Contact List App</td>
+    <td>Build a simple address book application. Introduces object-oriented programming (OOP) concepts like classes and objects.</td>
+    <td><a href="https://docs.oracle.com/cd/E19798-01/821-1841/gkanq/index.html">Contact List App Documentation</a></td>
+  </tr>
+  <tr>
+    <td>Quiz Application</td>
+    <td>Create a multiple-choice quiz with scoring and user feedback. Practices user interaction and data structures like maps.</td>
+    <td><a href="https://www.tutorialspoint.com/java/java_online_quiz.htm">Java Online Quiz Tutorial</a></td>
+  </tr>
+  <tr>
+    <td>Tic-Tac-Toe Game</td>
+    <td>Develop a two-player Tic-Tac-Toe game with a graphical interface (GUI) using Java Swing. Teaches GUI development and game logic.</td>
+    <td><a href="https://m.youtube.com/watch?v=YMeVSoNumAg">Tic-Tac-Toe Game YouTube Tutorial</a></td>
+  </tr>
+  <tr>
+    <td>Library Management System</td>
+    <td>Develop a system for managing library operations such as book borrowing, returning, and inventory management.</td>
+    <td><a href="https://www.javatpoint.com/library-management-system">Library Management System Tutorial</a></td>
+  </tr>
+  <tr>
+    <td>Online Shopping System</td>
+    <td>Build an e-commerce platform with features like product browsing, shopping cart, and order processing.</td>
+    <td><a href="https://www.java2blog.com/online-shopping-project-java/">Online Shopping Project in Java Tutorial</a></td>
+  </tr>
+  <tr>
+    <td>Banking Management System</td>
+    <td>Develop a comprehensive banking system including account management, transaction processing, and reporting.</td>
+    <td><a href="https://www.javatpoint.com/banking-management-system">Banking Management System Tutorial</a></td>
+  </tr>
+  <tr>
+    <td>Hotel Management System</td>
+    <td>Create a system for managing hotel operations such as room booking, guest check-in/out, and billing.</td>
+    <td><a href="https://www.javatpoint.com/hotel-management-system">Hotel Management System Tutorial</a></td>
+  </tr>
+  <tr>
+    <td>Inventory Management System</td>
+    <td>Build a system for tracking inventory levels, orders, sales, and deliveries for a business.</td>
+    <td><a href="https://www.javatpoint.com/inventory-management-system">Inventory Management System Tutorial</a></td>
+  </tr>
+  
+</table>
+
+### Advance Level Projects
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Resources</th>
+  </tr>
+  <tr>
+    <td>E-commerce Website</td>
+    <td>Build a basic online store with functionalities like product listings, shopping cart, and user authentication (requires a database).</td>
+    <td><a href="https://www.youtube.com/watch?v=U5TdEJnJU88">E-commerce Website Tutorial</a></td>
+  </tr>
+  <tr>
+    <td>Music Player Application</td>
+    <td>Develop a music player that reads and plays audio files. Introduces working with external libraries and file handling.</td>
+    <td><a href="https://www.tabnine.com/code/java/classes/uk.co.caprica.vlcj.player.MediaPlayer">MediaPlayer Class Example</a></td>
+  </tr>
+  <tr>
+    <td>Data Visualization Tool</td>
+    <td>Create a program that reads data from a file and displays it visually using charts and graphs. Teaches working with data sets and libraries like JavaFX.</td>
+    <td><a href="https://www.baeldung.com/">Baeldung Java Tutorials</a></td>
+  </tr>
+  <tr>
+    <td>Simple Chat Application</td>
+    <td>Build a basic chat application for real-time communication between users. Introduces networking concepts and libraries like sockets.</td>
+    <td><a href="https://www.instructables.com/Creating-a-Chat-Server-Using-Java/">Creating a Chat Server Using Java</a></td>
+  </tr>
+  <tr>
+    <td>Loan Approver</td>
+    <td> JAVA Spring Boot based machine learning Loan Approver Application As A Service.</td>
+    <td><a href="https://github.com/mgorav/SmartLoadApproverAsServiceUsingMachineLearning">Loan approval GitHub
+  <tr>
+    <td>Real-time Analytics Dashboard</td>
+    <td>This is a real-time analytics dashboard app using Spring Boot and Web Socket..</td>
+    <td><a href="https://github.com/accavdar/mc-dashboard">Real-time Analytics Dashboard GitHub</a></td>
+  </tr>
+  <tr>
+    <td>Blockchain Implementation</td>
+    <td>Implement a basic blockchain system in Java, covering concepts like distributed ledger, mining, consensus algorithms, and smart contracts.</td>
+    <td><a href="https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa">Blockchain Tutorial in Java</a></td>
+  </tr>
+  <tr>
+    <td>Cointrader</td>
+    <td>Coin Trader is a Java-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
+    <td><a href="https://medium.com/automation-generation/build-an-automated-stock-trading-system-in-java-bfb5b739eb6f">Cointrader using Javva </a></td>
+  </tr>
+  <tr>
+    <td>Network Security Toolkit</td>
+    <td>Develop a toolkit for network security analysis and penetration testing, implementing various algorithms and techniques for network scanning, vulnerability assessment, and intrusion detection.</td>
+    <td><a href="https://github.com/pixee/java-security-toolkit">Java-security-toolkit</a></td>
+  </tr>
+</table>
+
