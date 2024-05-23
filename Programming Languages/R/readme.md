@@ -1,9 +1,9 @@
 # R Programming Language 📊
-R development refers to creating applications, statistical models, and data analysis solutions using the R programming language. 
-Known for its strength in statistical computing, data visualization, and data manipulation, R is widely used in data science, academic research, bioinformatics,
+- R development refers to creating applications, statistical models, and data analysis solutions using the R programming language. 
+- Known for its strength in statistical computing, data visualization, and data manipulation, R is widely used in data science, academic research, bioinformatics,
 and quantitative analysis. It emphasizes reproducible research and high-quality graphics, making it a popular choice for statisticians, data analysts, and researchers.
-R supports multiple programming paradigms, including procedural and functional programming, and has a large, supportive community, contributing to a rich ecosystem 
-of packages and resources. Its comprehensive libraries, such as ggplot2 for visualization and dplyr for data manipulation, make R a powerful tool for handling complex
+- R supports multiple programming paradigms, including procedural and functional programming, and has a large, supportive community, contributing to a rich ecosystem of packages and resources.
+- Its comprehensive libraries, such as ggplot2 for visualization and dplyr for data manipulation, make R a powerful tool for handling complex
 data analysis tasks.
 
 ## Table of Contents
@@ -48,7 +48,6 @@ data analysis tasks.
    - [Free Certification Courses](#free-certification-courses)
    - [Paid Certification Courses](#paid-certification-courses)
 - [Additional Resources](#additional-resources)
-   - [R Games](#r-games)
    - [R Communities](#r-communities)
    - [R Books](#r-books)
 - [Conclusion](#conclusion)
@@ -74,7 +73,6 @@ data analysis tasks.
 > Start your journey into R programming with these essential tutorials covering basic syntax and concepts.
 
 ### Introduction
-> Start your journey into R programming with these essential resources covering the basics, including its history, versions, and how to run R.
 
 <table width="100%">
   <tr>
@@ -89,12 +87,12 @@ data analysis tasks.
   </tr>
   <tr>
     <td>History of R</td>
-    <td><a href="https://en.wikipedia.org/wiki/R_(programming_language)#History">History of R</a></td>
+    <td><a href="https://www.naukri.com/code360/library/historical-page-of-r">History of R</a></td>
     <td>An article detailing the history and evolution of R from its creation to the present day.</td>
   </tr>
   <tr>
     <td>R Versions</td>
-    <td><a href="https://cran.r-project.org/bin/windows/base/old/">Previous Releases of R</a></td>
+    <td><a href="https://docs.posit.co/resources/snippets/r-versions/">Previous Releases of R</a></td>
     <td>An FAQ entry explaining the different versions of R and the features introduced in each version.</td>
   </tr>
   <tr>
@@ -135,7 +133,7 @@ data analysis tasks.
 </tr>
 <tr>
 <td>Data Types & Objects in R</td>
-<td><a href= "https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=7">R Objects & Data Types</a></td>
+<td><a href= "https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures.html">R Objects & Data Types</a></td>
 <td>Explanation of different data types used in R, including vectors (numeric, character, logical), matrices, data frames (creating, subsetting), factors, and lists.</td>
 </tr>
 <tr>
@@ -150,7 +148,7 @@ data analysis tasks.
 </tr>
 <tr>
 <td>Working with Data in R</td>
-<td><a href =  "https://www.datacamp.com/tracks/data-analyst-with-r">Data Analysis in R</a></td>
+<td><a href =  "https://www.geeksforgeeks.org/data-handling-in-r-programming/">Data Handling in R</a></td>
 <td>An introduction to data import (from CSV, Excel), manipulation (sorting, filtering, combining datasets), exploration (summary statistics, visualization), and cleaning techniques (handling missing values, outliers).</td>
 </tr>
 <tr>
@@ -160,7 +158,7 @@ data analysis tasks.
 </tr>
 <tr>
 <td>Functions in R</td>
-<td><a href = "https://www.datacamp.com/courses/introduction-to-writing-functions-in-r">Writing Functions in R </a></td>
+<td><a href = "https://www.w3schools.com/r/r_functions.asp">Writing Functions in R </a></td>
 <td>Learn how to define and use functions to create reusable blocks of code in R. Covers function arguments, returning values, and scope.</td>
 </tr>
 <tr>
@@ -173,23 +171,32 @@ data analysis tasks.
 
 ### Data Manipulation
 
-<table width="100%"> 
-<tr> <th>Topic</th> <th>Resource Name</th> <th>Description</th> </tr> 
-<tr> <td>Introduction to Data Manipulation</td> 
-<td><a href="https://www.intellipaat.com/blog/tutorial/r-programming/data-manipulation-in-r/">Intellipaat Tutorial</a></td> 
-<td>Understand the importance of data manipulation in R, including techniques for organizing and preparing data for analysis and visualization.</td> </tr> 
-<tr> 
-<td>Using dplyr Package for Data Manipulation</td> <td><a href="https://www.intellipaat.com/blog/tutorial/r-programming/data-manipulation-in-r/">Intellipaat Tutorial</a></td> 
-<td>Learn how to efficiently manipulate data in R using the dplyr package, including functions like select(), filter(), mutate(), summarise(), group_by(), and arrange().</td> </tr> 
-<tr> <td>Grouping Data in R</td> 
-<td><a href="https://www.datanovia.com/en/courses/data-manipulation-in-r/">Datanovia Course</a></td> 
-<td>Explore how to group data by a variable and compute summary statistics on each subset, enhancing your data manipulation skills in R.</td> </tr> 
-<tr> <td>Renaming and Adding Columns</td> 
-<td><a href="https://www.datanovia.com/en/courses/data-manipulation-in-r/">Datanovia Course</a></td> 
-<td>Learn techniques for renaming and adding columns to your dataset, improving data organization and analysis in R.</td> </tr> 
-<tr> <td>Computing Summary Statistics</td> 
-<td><a href="https://www.datanovia.com/en/courses/data-manipulation-in-r/">Datanovia Course</a></td> 
-<td>Master the computation of summary statistics in R, including mean, median, standard deviation, and more, to gain insights from your data.</td> </tr>
+<table width="100%">
+<tr>
+<th>Topic</th>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>Introduction to Data Manipulation</td>
+<td><a href="https://bookdown.org/rdpeng/RProgDA/basic-data-manipulation.html">Basic Data Manipulation</a></td>
+<td>Understand the importance of data manipulation in R, including techniques for organizing and preparing data for analysis and visualization.</td>
+</tr>
+<tr>
+<td>Using dplyr Package for Data Manipulation</td>
+<td><a href="https://www.intellipaat.com/blog/tutorial/r-programming/data-manipulation-in-r/">Intellipaat Tutorial</a></td>
+<td>Learn how to efficiently manipulate data in R using the dplyr package, including functions like select(), filter(), mutate(), summarise(), group_by(), and arrange().</td>
+</tr>
+<tr>
+<td>Grouping Data in R</td>
+<td><a href="https://builtin.com/data-science/grouping-r">Grouping Data with R </a></td>
+<td>Explore how to group data by a variable and compute summary statistics on each subset, enhancing your data manipulation skills in R.</td>
+</tr>
+<tr>
+<td>Renaming and Adding Columns</td>
+<td><a href="https://www.r-bloggers.com/2024/03/a-beginners-guide-to-renaming-data-frame-columns-in-r/">Renaming Data Frame Columns in R</a></td>
+<td>Learn techniques for renaming and adding columns to your dataset, improving data organization and analysis in R.</td>
+</tr>
 </table>
 
 ### Data Visualization
@@ -897,3 +904,168 @@ data analysis tasks.
     <td>Documentation on creating and managing pull requests on GitHub.</td>
   </tr>
 </table>
+
+## Youtube
+
+### YouTube Channels to Learn R
+<table width="100%">
+<tr>
+<th>Channel</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/user/joshstarmer">StatQuest with Josh Starmer</a></td>
+<td>Josh Starmer explains complex statistical concepts and programming languages like R with clear and concise videos.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@GoogleDevelopers/playlists">Google for Developers</a></td>
+<td>Google for Developers has a variety of resources for learning R, including their YouTube channel. They offer tutorials on using R with Google products like BigQuery, making it a great option for those who want to leverage Google's cloud platform for data analysis.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@machinelearningplus/featured">Machine Learning Plus – Selva</a></td>
+<td>This channel offers in-depth tutorials on machine learning, with a focus on using R.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/c/rprogramming101">R Programming 101</a></td>
+<td>This channel offers tutorials on R programming basics, data analysis, visualization, and machine learning.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/c/datacamp">Data Camp</a></td>
+<td>Learn R programming for data science through tutorials covering various topics such as data manipulation, visualization, and modeling.</td>
+</tr>
+</table>
+
+### YouTube Playlists for Learning R
+
+<table width="100%">
+<tr>
+<th>Playlist</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="http://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t">R Programming Tutorial by Tutorialspoint</a></td>
+<td>This playlist by Tutorialspoint offers a comprehensive tutorial series covering various topics in R programming, suitable for beginners.</td>
+</tr>
+<tr>
+<td><a href="http://www.youtube.com/playlist?list=PLtL57Fdbwb_Chn-dNR0qBjH3esKS2MXY3">R Programming 101 by R Programming</a></td>
+<td>This playlist provides introductory tutorials on R programming, covering basic concepts and techniques for beginners.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU">R Programming & Statistics by MarinStatsLectures</a></td>
+<td>MarinStatsLectures offers tutorials on R programming and statistics, covering various statistical concepts and their implementation in R.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCzVMGCPi1kwvABu7eWv08P">R Programming Tutorials by thenewboston</a></td>
+<td>This playlist provides a series of tutorials on R programming covering basic and advanced topics, suitable for learners at different skill levels.</td>
+</tr>
+</table>
+
+
+## Courses
+
+### Free Certification Courses
+<table width="100%">
+<tr>
+<th>Course</th>
+<th>Provider</th>
+</tr>
+<tr>
+<td><a href="https://www.datacamp.com/courses/free-introduction-to-r">Introduction to R</a></td>
+<td>DataCamp</td>
+</tr>
+<tr>
+<td><a href="https://www.coursera.org/learn/r-programming">R Programming</a></td>
+<td>Coursera</td>
+</tr>
+<tr>
+<td><a href="https://www.edx.org/professional-certificate/harvardx-data-science">Data Science: R Basics</a></td>
+<td>edX</td>
+</tr>
+<tr>
+<td><a href="https://www.udemy.com/course/r-basics/">R Basics - R Programming Language Introduction</a></td>
+<td>Udemy</td>
+</tr>
+<tr>
+<td><a href="https://www.coursera.org/specializations/statistics">Data Analysis with R Specialization</a></td>
+<td>Coursera</td>
+</tr>
+</table>
+
+### Paid Certification Courses
+
+<table width="100%">
+<tr>
+<th>Course</th>
+<th>Provider</th>
+</tr>
+<tr>
+<td><a href="https://www.edx.org/professional-certificate/harvardx-data-science">Professional Certificate in Data Science: R Programming</a></td>
+<td>Harvard University - edX</td>
+</tr>
+<tr>
+<td><a href="https://www.udemy.com/course/r-programming/">R Programming A-Z™: R For Data Science With Real Exercises!</a></td>
+<td>Udemy</td>
+</tr>
+<tr>
+<td><a href="https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/">Data Science and Machine Learning Bootcamp with R</a></td>
+<td>Udemy</td>
+</tr>
+<tr>
+<td><a href="https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r">Data Visualization & Dashboarding with R Specialization</a></td>
+<td>Coursera (offered by Johns Hopkins University)</td>
+</tr>
+<tr>
+<td><a href="https://www.udemy.com/course/r-programming-for-statistics-and-data-science/">R Programming for Statistics and Data Science 2021</a></td>
+<td>Udemy</td>
+</tr>
+</table>
+
+## Additional Resources
+
+### R Communities
+<table width="100%">
+<tr>
+<th>Community</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="https://community.rstudio.com/">RStudio Community</a></td>
+<td>A forum hosted by RStudio where users can ask questions, share tips, and discuss topics related to R programming, RStudio IDE, and packages.</td>
+</tr>
+<tr>
+<td><a href="https://www.reddit.com/r/Rlanguage/">r/Rlanguage (Reddit)</a></td>
+<td>A subreddit dedicated to discussions about the R programming language, where users can share news, ask questions, and engage in discussions.</td>
+</tr>
+</table>
+
+### R Books
+<table width="100%">
+<tr>
+<th>Title</th>
+<th>Author(s)</th>
+</tr>
+<tr>
+<td><a href="https://www.amazon.com/R-Cookbook-OReilly-Cookbooks-Paul/dp/0596809158">R Cookbook</a></td>
+<td>Paul Teetor</td>
+</tr>
+<tr>
+<td><a href="https://www.amazon.com/Art-R-Programming-Statistical-Software/dp/1593273843">The Art of R Programming</a></td>
+<td>Norman Matloff</td>
+</tr>
+<tr>
+<td><a href="https://www.amazon.com/Using-Introductory-Statistics-Chapman-Hall/dp/1466590734/ref=sr_1_1?dib=eyJ2IjoiMSJ9.MMC8KySF3vodrO7L2zv7Yio8DBHC_g5s2wyesdWehPukRBAveLVCIyFOvOtPKsSiHD99ZOYcy9nP9alRyEAzMHd_88g8IIHX3caM4FHQqxj-h4cjuQkTu2DMfp-7hz0ECeZwfkWeWnkrnyt1ixI2a204gE0L08TjfPeKbOo1giNkZaFo-JRmGEj8RM0RyKC0sSuQHzczbVpCeTh_u_J8wrPRwyS50Fv_Kn9_mXM5LbI.ovYaXCXqfsjec20Q7Lw_jEoruAC9gUsBBNgd0xfcmN4&dib_tag=se&keywords=Introductory-Statistics-Using-R&qid=1716470344&sr=8-1">Introductory Statistics with R</a></td>
+<td>John Verzani</td>
+</tr>
+<tr>
+<td><a href="https://www.amazon.com/Hands-Programming-Writing-Functions-Extending/dp/1449359019">Hands-On Programming with R</a></td>
+<td>Garrett Grolemund</td>
+</tr>
+<tr>
+<td><a href="https://www.amazon.com/Advanced-R-Hadley-Wickham/dp/1466586966">Advanced R</a></td>
+<td>Hadley Wickham</td>
+</tr>
+</table>
+
+## Conclusion
+
+In conclusion, the world of R programming offers a rich ecosystem of resources and communities for enthusiasts at all levels. Whether you're just starting your journey or seeking to deepen your expertise, there's a wealth of books, courses, and communities available to support your learning and growth. From the comprehensive tutorials of online platforms like DataCamp and Coursera to the insightful discussions on forums like RStudio Community and r/Rlanguage, the R community thrives on collaboration and knowledge sharing. Additionally, books such as "R Cookbook" and "The Art of R Programming" provide invaluable insights and practical guidance for tackling real-world data analysis challenges. With dedication and exploration, you can unlock the full potential of R programming and embark on a rewarding journey of discovery in data science and statistical analysis.
