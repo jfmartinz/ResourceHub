@@ -772,6 +772,11 @@ This section is a curated collection of valuable Java and Java development resou
     <td><a href="https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q">CodeWithHarry</a></td>
     <td>CodeWithHarry's beginner-friendly playlist on Java programming, with practical examples and easy-to-follow tutorials.</td>
   </tr>
+  <tr>
+    <td>Data Structures and Algorithms in Java</td>
+    <td><a href="https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d">Dinesh Varyani</a></td>
+    <td>Dinesh Varyani's Data Structures and Algorithms in Java covers basic to advanced topics. The course walks you through multiple Java algorithms, data structure problems, and their solutions with step-by-step visualizations.</td>
+  </tr>
 </table>
 
 
