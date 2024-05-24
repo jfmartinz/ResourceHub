@@ -89,3 +89,16 @@ document.addEventListener("DOMContentLoaded", function () {
     "https://api.github.com/repos/jfmartinz/ResourceHub/contents/"
   );
 });
+function filterCards() {
+  const input = document.querySelector(".search-input");
+  const val = input.value.toLowerCase();
+  const cards = document.querySelectorAll(".card");
+  cards.forEach((card) => {
+    const title = card.querySelector("p").textContent.toLowerCase();
+    if (title.includes(val)) {
+      card.style.display = "block";
+    } else {
+      card.style.display = "none";
+    }
+  });
+}
