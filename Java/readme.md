@@ -995,6 +995,11 @@ This section is a curated collection of valuable Java and Java development resou
     <td>Build a program that converts temperatures between Celsius and Fahrenheit scales based on user input.</td>
     <td><a href="https://www.javatpoint.com/java-program-to-convert-temperature-celsius-to-fahrenheit">Java Program to Convert Temperature</a></td>
   </tr>
+  <tr>
+    <td>Tic Tac Toe Game</td>
+    <td>Build a tic-tac-toe game provided its implementation,code and rules to play the game </td>
+    <td><a href="https://www.geeksforgeeks.org/tic-tac-toe-game-in-java/">Tic Tac Toe Game in Java </a></td>
+  </tr>
 </table>
 
 
