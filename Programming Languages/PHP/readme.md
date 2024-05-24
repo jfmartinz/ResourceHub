@@ -43,8 +43,8 @@ By leveraging PHP, developers can create secure, efficient, and scalable web app
   - [Additional Tips](#additional-tips)
 - [Version Control](#version-control)
 - [YouTube](#youtube)
-  - [YouTube Channels to Learn PHP](#youtube-channels-to-learn-php)
-  - [YouTube Playlists for Learning PHP](#youtube-playlists-to-learn-php)
+  - [YouTube Channels for Learning PHP](#youtube-channels-for-learning-php)
+  - [YouTube Playlists for Learning PHP](#youtube-playlists-for-learning-php)
 - [Courses](#courses)
   - [Free Certification Courses](#free-certification-courses)
   - [Paid Certification Courses](#paid-certification-courses)
@@ -853,3 +853,170 @@ By leveraging PHP, developers can create secure, efficient, and scalable web app
     <td>Documentation on creating and managing pull requests on GitHub.</td>
   </tr>
 </table>
+
+## Youtube
+
+### YouTube Channels for Learning PHP
+
+<table width="100%">
+ <tr>
+   <th>Channel Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/user/TechGuyWeb">Traversy Media</a></td>
+   <td>Comprehensive tutorials on PHP and full-stack development, covering basics to advanced topics.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/user/phpacademy">PHP Academy</a></td>
+   <td>Detailed PHP tutorials, including real-world projects and advanced PHP programming concepts.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">The Net Ninja</a></td>
+   <td>Beginner to advanced PHP tutorials, along with other web development technologies and frameworks.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/user/programmingwithmosh">Programming with Mosh</a></td>
+   <td>PHP fundamentals and advanced topics, presented in a clear and concise manner.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/user/learncodeacademy">LearnCode.academy</a></td>
+   <td>PHP tutorials as part of broader web development series, suitable for beginners and intermediate learners.</td>
+ </tr>
+</table>
+
+### YouTube Playlists for Learning PHP
+
+<table width="100%">
+ <tr>
+   <th>Playlist Name</th>
+   <th>Resource</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpEO_ESLKvPIke53MWjAGwIT">PHP for Beginners</a></td>
+   <td>TutorialsPoint Playlist</td>
+   <td>A comprehensive guide to learning PHP from scratch, covering fundamental concepts and practical examples.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW">PHP Full Course</a></td>
+   <td>Codecourse Playlist</td>
+   <td>Complete PHP tutorial series that includes basic to advanced topics, along with hands-on projects.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o">PHP Tutorials</a></td>
+   <td>The Net Ninja Playlist</td>
+   <td>Beginner-friendly PHP tutorials focusing on the essentials and providing real-world examples.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn">PHP & MySQL Web Development</a></td>
+   <td>Traversy Media Playlist</td>
+   <td>An in-depth series on PHP and MySQL, perfect for those looking to build dynamic web applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh">PHP OOP Tutorials</a></td>
+   <td>Dani Krossing Playlist</td>
+   <td>Focused on Object-Oriented Programming (OOP) in PHP, covering classes, objects, inheritance, and more.</td>
+ </tr>
+</table>
+
+## Courses
+
+### Free Certification Courses
+
+<table width="100%">
+ <tr>
+   <th>Course</th>
+   <th>Provider</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.codecademy.com/learn/learn-php">Learn PHP</a></td>
+   <td>Codecademy</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.simplilearn.com/learn-php-basics-free-course-skillup">Introduction to PHP Basics</a></td>
+   <td>Simplilearn</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.coursera.org/learn/web-applications-php">Building Web Applications in PHP</a></td>
+   <td>Coursera (University of Michigan)</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.classcentral.com/course/freecodecamp-php-programming-language-tutorial-full-course-105107">PHP Tutorial</a></td>
+   <td>class central</td>
+ </tr>
+</table>
+
+
+### Paid Certification Courses
+
+<table width="100%">
+ <tr>
+   <th>Course</th>
+   <th>Provider</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.udemy.com/course/php-for-beginners-/?couponCode=OF52424">PHP for Beginners - Become a PHP Master</a></td>
+   <td>Udemy</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.pluralsight.com/courses/php-getting-started">PHP: Getting Started</a></td>
+   <td>Pluralsight</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.linkedin.com/learning/php-essential-training-2">PHP Essential Training</a></td>
+   <td>LinkedIn Learning</td>
+ </tr>
+</table>
+
+## Additional Resources
+
+### PHP Communities
+
+<table width="100%">
+ <tr>
+   <th>Community</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.php.net/support.php">PHP.net Community</a></td>
+   <td>The official PHP community site, offering mailing lists, forums, and resources for PHP developers.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.reddit.com/r/PHP/">Reddit - r/PHP</a></td>
+   <td>A Reddit community for PHP developers to discuss topics, share resources, and seek help.</td>
+ </tr>
+</table>
+
+### PHP Books
+
+<table width="100%">
+ <tr>
+   <th>Book</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.oreilly.com/library/view/programming-php-4th/9781492054122/">Programming PHP</a></td>
+   <td>A comprehensive guide to PHP programming, covering basic to advanced topics with practical examples.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.oreilly.com/library/view/php-cookbook/9781098121310/">PHP Cookbook</a></td>
+   <td>Filled with real-world solutions to common PHP programming problems, this book provides code recipes for everyday tasks.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript/dp/1491978910/">Learning PHP, MySQL & JavaScript</a></td>
+   <td>This book introduces dynamic web development, focusing on PHP, MySQL, JavaScript, and CSS.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.amazon.com/Modern-PHP-New-Features-Good/dp/1491905018/">Modern PHP: New Features and Good Practices</a></td>
+   <td>This book covers the latest features in PHP and teaches modern development practices to write clean, maintainable code.</td>
+ </tr>
+</table>
+
+## Conclusion
+
+In this documentation, we've provided a comprehensive guide to PHP programming, covering everything from fundamental concepts and setting up the development
+environment to advanced topics and practical projects. We've included valuable resources such as tutorials, popular frameworks, essential libraries, and best 
+practices for security. Additionally, we've highlighted useful PHP communities, recommended books, and courses—both free and paid—to facilitate continuous 
+learning and development. Whether you're a beginner or an advanced user, this documentation aims to equip you with the knowledge and tools necessary to excel in
+PHP programming and build robust, dynamic web applications.
