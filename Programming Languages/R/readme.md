@@ -75,267 +75,204 @@ These resources are designed to help you build a strong foundation in R programm
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>What is R?</td>
-    <td><a href="https://www.geeksforgeeks.org/r-programming-language-introduction/">R Programming Language Introduction</a></td>
+    <td><a href="https://www.geeksforgeeks.org/r-programming-language-introduction/">What is R?</a></td>
     <td>A comprehensive introduction to R, explaining what it is, its uses, and why it's important.</td>
   </tr>
   <tr>
-    <td>History of R</td>
     <td><a href="https://www.naukri.com/code360/library/historical-page-of-r">History of R</a></td>
     <td>An article detailing the history and evolution of R from its creation to the present day.</td>
   </tr>
   <tr>
-    <td>R Versions</td>
-    <td><a href="https://docs.posit.co/resources/snippets/r-versions/">Previous Releases of R</a></td>
+    <td><a href="https://docs.posit.co/resources/snippets/r-versions/">R versions</a></td>
     <td>An FAQ entry explaining the different versions of R and the features introduced in each version.</td>
   </tr>
   <tr>
-    <td>How to run R</td>
-    <td><a href="https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu">DataCamp - Installing R</a></td>
+    <td><a href="https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu">How to run R</a></td>
     <td>A guide on how to install and run R on various operating systems such as Windows, macOS, and Ubuntu.</td>
   </tr>
-  <tr>
-    <td>IDEs for R</td>
-    <td><a href="https://www.rstudio.com/">RStudio</a></td>
-    <td>An integrated development environment (IDE) specifically designed for R programming.</td>
-  </tr>
-  <tr>
-    <td>Online Editors for R</td>
-    <td><a href="https://rstudio.cloud/">RStudio Cloud</a></td>
-    <td>An online platform that provides a web-based interface for writing and running R code.</td>
-  </tr>
-    <tr>
-    <td>RMarkdown</td>
-    <td><a href="https://rmarkdown.rstudio.com/">RStudio - RMarkdown</a></td>
-    <td>A markdown format that enables easy creation of dynamic documents, presentations, and reports using R.</td>
-  </tr>
+
 </table>
 
 
 ### Fundamentals
 
-> Here are the fundamentals for R programming with introduction, data types, input and output in R control flow statements, functions and packages.
-
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to R Programming</td>
-<td><a href = "https://www.w3schools.com/r/">R for Beginners </a></td>
+<td><a href = "https://www.w3schools.com/r/">RIntroduction to R Programming </a></td>
 <td>A gentle introduction to the R programming language, covering its basic concepts, environment (RStudio), and history.</td>
 </tr>
 <tr>
-<td>Data Types & Objects in R</td>
-<td><a href= "https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures.html">R Objects & Data Types</a></td>
+<td><a href= "https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures.html">Data Types & Objects in R</a></td>
 <td>Explanation of different data types used in R, including vectors (numeric, character, logical), matrices, data frames (creating, subsetting), factors, and lists.</td>
 </tr>
 <tr>
-<td>Input in R</td>
-<td><a href= "https://www.geeksforgeeks.org/taking-input-from-user-in-r-programming/?ref=lbp">Taking Input from User in R Programming</a></td>
+<td><a href= "https://www.geeksforgeeks.org/taking-input-from-user-in-r-programming/?ref=lbp">Taking Input from User in R ProgrammingInput in R</a></td>
 <td>Explanation of different data types used in R, including vectors (numeric, character, logical), matrices, data frames (creating, subsetting), factors, and lists.</td>
 </tr>
 <tr>
-<td>Output in R</td>
-<td><a href= "https://www.geeksforgeeks.org/printing-output-of-an-r-program/?ref=lbp">Printing Output of an R Program</a></td>
+<td><a href= "https://www.geeksforgeeks.org/printing-output-of-an-r-program/?ref=lbp">Output in R</a></td>
 <td>Explanation of different data types used in R, including vectors (numeric, character, logical), matrices, data frames (creating, subsetting), factors, and lists.</td>
 </tr>
 <tr>
-<td>Working with Data in R</td>
-<td><a href =  "https://www.geeksforgeeks.org/data-handling-in-r-programming/">Data Handling in R</a></td>
+<td><a href =  "https://www.geeksforgeeks.org/data-handling-in-r-programming/">Working with Data in R</a></td>
 <td>An introduction to data import (from CSV, Excel), manipulation (sorting, filtering, combining datasets), exploration (summary statistics, visualization), and cleaning techniques (handling missing values, outliers).</td>
 </tr>
 <tr>
-<td>Control Flow Statements</td>
 <td><a href = "https://www.geeksforgeeks.org/control-statements-in-r-programming/">Control Flow in R Programming </a></td>
 <td>A guide to using conditional statements (if/else, ifelse) and loops (for, while) to control program flow in R, including nested loops and breaking/continuing loops.</td>
 </tr>
 <tr>
-<td>Functions in R</td>
-<td><a href = "https://www.w3schools.com/r/r_functions.asp">Writing Functions in R </a></td>
+<td><a href = "https://www.w3schools.com/r/r_functions.asp">Functions in R</a></td>
 <td>Learn how to define and use functions to create reusable blocks of code in R. Covers function arguments, returning values, and scope.</td>
 </tr>
 <tr>
-<td>Packages in R</td>
-<td><a href = "https://www.geeksforgeeks.org/packages-in-r-programming/">Using Packages in R</a> </td>
+<td><a href = "https://www.geeksforgeeks.org/packages-in-r-programming/">Packages in R</a> </td>
 <td>Introduction to installing and using R packages to extend functionalities. Explore popular packages like 'tidyverse' (dplyr, ggplot2) for data manipulation and visualization.</td>
 </tr>
 <tr>
 </table>
 
 ### Data Manipulation
-> Data manipulation involves modifying data to make it easier to read and to be more organized. We manipulate data for analysis and visualization. 
 
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Data Manipulation</td>
-<td><a href="https://bookdown.org/rdpeng/RProgDA/basic-data-manipulation.html">Basic Data Manipulation</a></td>
+<td><a href="https://bookdown.org/rdpeng/RProgDA/basic-data-manipulation.html">Introduction to Data Manipulation</a></td>
 <td>Understand the importance of data manipulation in R, including techniques for organizing and preparing data for analysis and visualization.</td>
 </tr>
 <tr>
-<td>Using dplyr Package for Data Manipulation</td>
-<td><a href="https://www.intellipaat.com/blog/tutorial/r-programming/data-manipulation-in-r/">Intellipaat Tutorial</a></td>
+<td><a href="https://www.intellipaat.com/blog/tutorial/r-programming/data-manipulation-in-r/">Using dplyr Package for Data Manipulation</a></td>
 <td>Learn how to efficiently manipulate data in R using the dplyr package, including functions like select(), filter(), mutate(), summarise(), group_by(), and arrange().</td>
 </tr>
 <tr>
-<td>Grouping Data in R</td>
-<td><a href="https://builtin.com/data-science/grouping-r">Grouping Data with R </a></td>
+<td><a href="https://builtin.com/data-science/grouping-r">Grouping Data in R</a></td>
 <td>Explore how to group data by a variable and compute summary statistics on each subset, enhancing your data manipulation skills in R.</td>
 </tr>
 <tr>
-<td>Renaming and Adding Columns</td>
-<td><a href="https://www.r-bloggers.com/2024/03/a-beginners-guide-to-renaming-data-frame-columns-in-r/">Renaming Data Frame Columns in R</a></td>
+<td><a href="https://www.r-bloggers.com/2024/03/a-beginners-guide-to-renaming-data-frame-columns-in-r/">Renaming and Adding Columns</a></td>
 <td>Learn techniques for renaming and adding columns to your dataset, improving data organization and analysis in R.</td>
 </tr>
 </table>
 
 ### Data Visualization
-> Data visualization is a technique used for the graphical representation of data. By using elements like scatter plots, charts, graphs, histograms, maps, etc., we make our data more understandable
-
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Data Visualization Concepts</td>
 <td><a href = "https://ladal.edu.au/introviz.html">Data Visualization with R</a></td>
 <td>This article explores the theory behind effective data visualization techniques.</td>
 </tr>
 <tr>
-<td>Creating Basic Plots in R</td>
-<td><a href="https://www.analyticsvidhya.com/blog/2022/03/a-comprehensive-guide-on-ggplot2-in-r/">ggplot2 Tutorial </a></td>
+<td><a href="https://www.analyticsvidhya.com/blog/2022/03/a-comprehensive-guide-on-ggplot2-in-r/">Creating Basic Plots in R</a></td>
 <td>Learn how to create common chart types like scatter plots, bar charts, and histograms using the ggplot2 package.</td>
 </tr>
 <tr>
-<td>Working with Different Plots</td>
-<td><a href= "https://www.geeksforgeeks.org/time-series-visualization-with-ggplot2-in-r/">Visualizing Time Series Data in R </a></td>
+<td><a href= "https://www.geeksforgeeks.org/time-series-visualization-with-ggplot2-in-r/">Working with Different Plots </a></td>
 <td>A guide to visualizing time-based data using R, including line charts, heatmaps, and time series specific packages.</td>
 </tr>
 <tr>
-<td>Data Exploration with R</td>
-<td><a href = "https://www.listendata.com/2014/06/data-exploration-using-r.html">Data Exploration using R</a></td>
+<td><a href = "https://www.listendata.com/2014/06/data-exploration-using-r.html">Data Exploration with R/a></td>
 <td>This article explores the role of data visualization in data exploration and analysis, helping you discover insights from your data.</td>
 </tr>
 <tr>
-<td>Best Practices for Effective Data Visualization</td>
-<td><a href = "https://www.toptal.com/designers/data-visualization/data-visualization-best-practices">Best Practices</a></td>
+<td><a href = "https://www.toptal.com/designers/data-visualization/data-visualization-best-practices">Best Practices for Effective Data Visualization</a></td>
 <td>A quick reference guide outlining best practices for creating clear, informative, and visually appealing data visualizations.</td>
 </tr>
 </table>
 
 ### Statistical Analysis
-> Statistical Analysis with R is one of the best practices which statisticians, data analysts, and data scientists do while analyzing statistical data. 
 
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Statistical Analysis</td>
-<td><a href="https://www.geeksforgeeks.org/r-statistics/"> R - Statistics </a></td>
+
+<td><a href="https://www.geeksforgeeks.org/r-statistics/"> Introduction to Statistical Analysis</a></td>
 <td>A foundational overview of statistical analysis concepts, including data collection, describing data, and exploring relationships.</td>
 </tr>
 <tr>
-<td>Descriptive Statistics in R</td>
-<td><a href = "https://cran.r-project.org/web/packages/vtable/vignettes/sumtable.html">Summary Statistics in R </a></td>
+<td><a href = "https://cran.r-project.org/web/packages/vtable/vignettes/sumtable.html">Descriptive Statistics in R</a></td>
 <td>Learn how to calculate and interpret summary statistics (mean, median, standard deviation) in R for understanding basic data characteristics.</td>
 </tr>
 <tr>
-<td>Probability and Distributions</td>
 <td><a href="https://www.tandfonline.com/doi/full/10.1080/02664760802416539">Probability and Statistics with R</a></td>
 <td>This interactive article introduces probability concepts like random variables, probability distributions (normal, binomial), and their role in statistical analysis.</td>
 </tr>
 <tr>
-<td>Hypothesis Testing</td>
 <td><a href="https://www.geeksforgeeks.org/hypothesis-testing-in-r-programming/">Hypothesis Testing in R Programming</a></td>
 <td>An explanation of hypothesis testing, a core statistical method for making claims about populations based on sample data.</td>
 </tr>
 <tr>
-<td>Common Statistical Tests in R</td>
 <td><a href="https://www.dataanalytics.org.uk/basic-statistical-tests-using-r/">Statistical Tests in R </a></td>
 <td>Explore commonly used statistical tests in R, such as t-tests, chi-square tests, and ANOVA, for comparing groups or analyzing relationships.</td>
 </tr>
 <tr>
-<td>Data Visualization for Statistical Analysis</td>
-<td><a href="https://statsandr.com/blog/graphics-in-r-with-ggplot2/">Graphics in R with ggplot2</a></td>
+<td><a href="https://statsandr.com/blog/graphics-in-r-with-ggplot2/">Data Visualization for Statistical Analysis</a></td>
 <td>This article demonstrates how to use ggplot2 to create informative visualizations that effectively communicate statistical results.</td>
 </tr>
 </table>
 
 ### Machine Learning
-> Machine Learning as the name suggests is the field of study that allows computers to learn and take decisions on their own, Many R packages for machine learning are available off the shelf and many modern methods in statistical learning are implemented in R as part of their development.
 
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Machine Learning</td>
-<td><a href="https://www.datacamp.com/community/tutorials/machine-learning-in-r">Machine Learning in R: A Step-by-Step Guide</a></td>
+<td><a href="https://www.datacamp.com/community/tutorials/machine-learning-in-r">Introduction to Machine Learning</a></td>
 <td>An introductory article providing a comprehensive overview of machine learning concepts and basic implementation in R, with code examples.</td>
 </tr>
 <tr>
-<td>Data Preprocessing</td>
 <td><a href="https://www.geeksforgeeks.org/data-preprocessing-in-r/">Data Preprocessing in R</a></td>
 <td>A detailed guide on data preprocessing techniques in R, covering data cleaning, normalization, and feature engineering.</td>
 </tr>
 <tr>
-<td>Supervised Learning</td>
-<td><a href="https://www.geeksforgeeks.org/classification-in-r-programming/">Classification in R</a></td>
+<td><a href="https://www.geeksforgeeks.org/classification-in-r-programming/">Supervised Learning</a></td>
 <td>An article focusing on implementing supervised learning algorithms, specifically logistic regression, in R with practical examples.</td>
 </tr>
 <tr>
-<td>Unsupervised Learning</td>
-<td><a href="https://www.datacamp.com/tutorial/k-means-clustering-r">K-Means Clustering in R</a></td>
+<td><a href="https://www.datacamp.com/tutorial/k-means-clustering-r">Unsupervised Learning</a></td>
 <td>A practical guide to performing k-means clustering in R, including steps for data preparation, clustering, and visualization.</td>
 </tr>
 <tr>
-<td>Model Evaluation</td>
-<td><a href="https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234">Metrics to Evaluate Your Machine Learning Algorithm</a></td>
+<td><a href="https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234">Model Evaluation</a></td>
 <td>An in-depth article on different metrics used for evaluating machine learning models in R, such as accuracy, precision, recall, and F1 score.</td>
 </tr>
 <tr>
-<td>Feature Engineering</td>
 <td><a href="https://www.geeksforgeeks.org/feature-engineering-in-r-programming/">Feature Engineering in R</a></td>
 <td>An article discussing essential feature engineering techniques in R, including creating new features, handling categorical variables, and feature selection methods.</td>
 </tr>
 </table>
 
 ### Deep Learning
->Deep Learning with R introduces the world of deep learning using the powerful Keras library and its R language interface.
 
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Deep Learning</td>
 <td><a href="https://www.geeksforgeeks.org/deep-learning-in-r-programming/">Deep Learning with R</a></td>
 <td>An introduction to deep learning in R, including setting up the environment, building simple neural networks, and running your first models.</td>
 </tr>
 <tr>
-<td>Building Neural Networks</td>
-<td><a href="https://www.r-bloggers.com/2019/07/getting-started-with-tensorflow-keras-in-python-and-r/">Basic Classification with TensorFlow in R</a></td>
+<td><a href="https://www.r-bloggers.com/2019/07/getting-started-with-tensorflow-keras-in-python-and-r/">Building Neural Networks</a></td>
 <td>A tutorial on building basic neural networks for classification tasks using TensorFlow in R, including code examples and explanations.</td>
 </tr>
 </table>
@@ -344,21 +281,17 @@ These resources are designed to help you build a strong foundation in R programm
 ### Reproducible Research
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Reproducible Research</td>
 <td><a href="https://geanders.github.io/RProgrammingForResearch/reproducible-research-1.html">What is Reproducible Research</a></td>
 <td>An introductory article on using R Markdown for reproducible research, covering the basics of creating dynamic documents that integrate code and text.</td>
 </tr>
-<td>Reproducible Workflows with RStudio</td>
 <td><a href="https://support.rstudio.com/hc/en-us/articles/206212048-Reproducible-Research-with-RStudio-and-R-Markdown">Reproducible Research with RStudio and R Markdown</a></td>
 <td>An article on setting up reproducible workflows using RStudio and R Markdown, highlighting features and best practices to ensure reproducibility.</td>
 </tr>
 <tr>
-<td>Interactive Documents with Shiny</td>
 <td><a href="https://garrettgman.github.io/rmarkdown/authoring_shiny.html#:~:text=To%20create%20a%20new%20interactive,Shift%2BK%20on%20Mac)%3A">Interactive Documents with R Markdown and Shiny</a></td>
 <td>A guide to creating interactive documents that combine R Markdown with Shiny, enabling the development of dynamic, interactive reports.</td>
 </tr>
@@ -371,27 +304,22 @@ These resources are designed to help you build a strong foundation in R programm
 
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Getting Started with RStudio</td>
-<td><a href="https://rstudio.cloud/learn/primers/1.2">RStudio Primers</a></td>
+<td><a href="https://rstudio.cloud/learn/primers/1.2">Getting Started with RStudio</a></td>
 <td>An introductory guide to RStudio, covering the basics of the RStudio interface, setting up projects, and running R code interactively.</td>
 </tr>
 <tr>
-<td>Using RStudio with Git</td>
 <td><a href="https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r">Using RStudio with Git and GitHub</a></td>
 <td>A guide on integrating Git and GitHub with RStudio, covering version control, collaboration, and syncing your work with remote repositories.</td>
 </tr>
 <tr>
-<td>RStudio Shortcuts</td>
 <td><a href="https://www.appsilon.com/post/rstudio-shortcuts-and-tips">RStudio Shortcuts and Tips</a></td>
 <td>A comprehensive list of keyboard shortcuts in RStudio to improve efficiency and speed up your coding workflow.</td>
 </tr>
 <tr>
-<td>Debugging in RStudio</td>
 <td><a href="https://support.posit.co/hc/en-us/articles/205612627-Debugging-with-the-RStudio-IDE">Debugging with RStudio</a></td>
 <td>An article on the debugging tools available in RStudio, including how to set breakpoints, step through code, and inspect variables to troubleshoot errors.</td>
 </tr>
@@ -400,32 +328,27 @@ These resources are designed to help you build a strong foundation in R programm
 ### IDEs for R
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>RStudio Overview</td>
 <td><a href="https://rstudio.com/products/rstudio/">RStudio IDE</a></td>
 <td>An in-depth look at RStudio, one of the most popular IDEs for R, covering its features, installation, and how to get started.</td>
 </tr>
 <tr>
-<td>Visual Studio Code (VSCode) with R</td>
-<td><a href="https://code.visualstudio.com/docs/languages/r">Using R in VSCode</a></td>
+<td><a href="https://code.visualstudio.com/docs/languages/r">Visual Studio Code (VSCode) with R</a></td>
 <td>A guide on setting up and using R in Visual Studio Code (VSCode), including extensions and configuration for an optimized R development experience.</td>
 </tr>
 <tr>
-<td>Jupyter Notebooks with R</td>
-<td><a href="https://docs.anaconda.com/free/navigator/tutorials/r-lang/">How to use the R programming language in Jupyter Notebook</a></td>
+<td><a href="https://docs.anaconda.com/free/navigator/tutorials/r-lang/">Jupyter Notebooks with R</a></td>
 <td>Documentation on using Jupyter Notebooks for R, detailing how to install the necessary kernels, create interactive notebooks, and integrate R code.</td>
 </tr>
 <tr>
-<td>PyCharm with R Plugin</td>
+
 <td><a href="https://www.jetbrains.com/help/pycharm/r-plugin-support.html">R Plugin for PyCharm</a></td>
 <td>A guide on using the R plugin in PyCharm, a popular IDE for Python that also supports R, offering features like intelligent code completion, debugging, and visualization.</td>
 </tr>
 <tr>
-<td>StatET for Eclipse</td>
 <td><a href="https://projects.eclipse.org/projects/tools.statet">StatET for Eclipse</a></td>
 <td>An article on StatET, a plugin for the Eclipse IDE that provides support for R, including an interactive console, syntax highlighting, and integration with R packages.</td>
 </tr>
@@ -434,30 +357,25 @@ These resources are designed to help you build a strong foundation in R programm
 ### Online Editors for R
 <table width="100%">
 <tr>
-<th>Topic</th>
+
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>RStudio Cloud</td>
 <td><a href="https://www.appsilon.com/post/r-studio-cloud">RStudio Cloud</a></td>
 <td>A guide to RStudio Cloud, an online version of RStudio that allows you to run R scripts and projects in a web browser, with no installation required.</td>
 </tr>
 <tr>
-<td>Google Colab with R</td>
 <td><a href="https://www.geeksforgeeks.org/how-to-use-r-with-google-colaboratory/">Using R in Google Colab</a></td>
 <td>A tutorial on how to set up and use R in Google Colab, a free cloud service that supports running R notebooks interactively.</td>
 </tr>
 <tr>
-<td>Kaggle Kernels</td>
-<td><a href="https://www.kaggle.com/code/rtatman/getting-started-in-r-first-steps">Getting started in R: First Steps</a></td>
+<td><a href="https://www.kaggle.com/code/rtatman/getting-started-in-r-first-steps">Kaggle Kernels</a></td>
 <td>Documentation on using Kaggle Kernels, an online platform for running R and Python code in Jupyter notebooks, with access to datasets and collaborative features.</td>
 </tr>
 <tr>
-<td>Repl.it</td>
 <td><a href="https://replit.com/languages/rlang">Repl.it for R</a></td>
 <td>A online coding platform that supports R, providing an interactive environment to write, run, and share R code instantly.</td>
-</tr>
 </tr>
 </table>
 
@@ -465,41 +383,33 @@ These resources are designed to help you build a strong foundation in R programm
 
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to R Markdown</td>
 <td><a href="https://rmarkdown.rstudio.com/">R Markdown Official Documentation</a></td>
 <td>The official documentation for R Markdown, providing a comprehensive guide on how to create dynamic documents that integrate R code, text, and output.</td>
 </tr>
 <tr>
-<td>R Markdown Basics</td>
 <td><a href="https://rmarkdown.rstudio.com/authoring_basics.html">R Markdown Basics</a></td>
 <td>A tutorial on the basics of R Markdown, covering markdown syntax, code chunks, output formats, and document structure.</td>
 </tr>
 <tr>
-<td>R Markdown Cheat Sheet</td>
 <td><a href="https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf">R Markdown Cheat Sheet</a></td>
 <td>A cheat sheet that summarizes the most important syntax and features of R Markdown, handy for quick reference while working on documents.</td>
 </tr>
 <tr>
-<td>R Markdown Gallery</td>
 <td><a href="https://rmarkdown.rstudio.com/gallery.html">R Markdown Gallery</a></td>
 <td>A gallery of R Markdown examples showcasing various types of documents, including reports, presentations, dashboards, and websites.</td>
 </tr>
 <tr>
-<td>R Markdown for Reproducible Research</td>
 <td><a href="https://rmarkdown.rstudio.com/articles_intro.html">R Markdown: The Definitive Guide</a></td>
 <td>An in-depth guide to using R Markdown for reproducible research, covering workflows, document structure, and best practices for creating dynamic and reproducible documents.</td>
 </tr>
 <tr>
-<td>R Markdown for Presentations</td>
 <td><a href="https://rmarkdown.rstudio.com/lesson-13.html">R Markdown for Presentations</a></td>
 <td>A tutorial on using R Markdown to create presentations, including tips on slide layouts, customizing themes, and incorporating code and visualizations.</td>
 </tr>
-
 </table>
 
 ## R Packages and Libraries
@@ -507,99 +417,81 @@ These resources are designed to help you build a strong foundation in R programm
 > Packages in R Programming language are a set of R functions, compiled code, and sample data. These are stored under a directory called “library” within the R environment
 
 ### Data Manipulation Packages
-> Here are Data Manipulation Packages for R
 
 <table width="100%">
 <tr>
 <th>Package Name</th>
-<th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>dplyr</td>
 <td><a href="https://www.geeksforgeeks.org/dplyr-package-in-r-programming/">dplyr Package in R</a></td>
 <td>Article for dplyr, a grammar of data manipulation providing a consistent set of verbs that help solve the most common data manipulation challenges.</td>
 </tr>
 <tr>
-<td>tidyr</td>
 <td><a href="https://www.scaler.com/topics/tidyr/">tidyr Package in R Programming</a></td>
 <td>Article for tidyr, a package for tidying data that provides functions to help create tidy data, where each variable is a column and each observation is a row.</td>
 </tr>
 <tr>
-<td>data.table</td>
 <td><a href="https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/">data.table in R</a></td>
 <td>Comprehensive article for data.table, a package that extends data frames with functionalities for fast data manipulation, filtering, and aggregation.</td>
 </tr>
 <tr>
-<td>reshape2</td>
-<td><a href="https://seananderson.ca/2013/10/19/reshape/">An Introduction to reshape2</a></td>
+
+<td><a href="https://seananderson.ca/2013/10/19/reshape/">reshape2</a></td>
 <td>Article for reshape2, a package for flexibly restructuring and aggregating data, providing tools to melt and cast data between wide and long formats.</td>
 </tr>
 </table>
 
 ### Data Visualization Packages 
-> Here are  Data Visualization Packages for R
 
 <table width="100%">
 <tr>
 <th>Package Name</th>
-<th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>ggplot2</td>
-<td><a href="https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualization with ggplot2</a></td>
+<td><a href="https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html"> ggplot2</a></td>
 <td>Article for ggplot2, a powerful and flexible package for creating complex and elegant graphics in R using the grammar of graphics.</td>
 </tr>
 <tr>
-<td>plotly</td>
 <td><a href="https://plotly.com/r/getting-started/">Plotly for R</a></td>
 <td>Documentation for Plotly, a package that allows you to create interactive, web-based plots in R, building on top of ggplot2 and other graphics systems.</td>
 </tr>
 <tr>
-<td>lattice</td>
 <td><a href="https://www.geeksforgeeks.org/lattice-graphs-in-r/">Lattice Graphs in R</a></td>
 <td>Comprehensive guide to lattice, a package for creating trellis graphs that are particularly useful for conditioning plots on one or more variables.</td>
 </tr>
 <tr>
-<td>highcharter</td>
 <td><a href="https://www.geeksforgeeks.org/data-visualization-with-highcharter-in-r/">Highcharter in R</a></td>
 <td>Article for Highcharter, a package that provides a rich framework for creating interactive and high-quality charts using the Highcharts JavaScript library.</td>
 </tr>
 <tr>
-<td>ggvis</td>
-<td><a href="https://ggvis.rstudio.com/">ggvis Documentation</a></td>
+<td><a href="https://ggvis.rstudio.com/">ggvis </a></td>
 <td>Documentation for ggvis, a package for creating interactive, web-based data visualizations using a grammar of graphics similar to ggplot2.</td>
 </tr>
 </table>
 
 ### Statistical Analysis Packages
-> Here are Statistical Analysis Packages for R
 
 <table width="100%">
 <tr>
 <th>Package name</th>
-<th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>stats</td>
-<td><a href="https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html">Using R stats Package</a></td>
+<td><a href="https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html">stats Package</a></td>
 <td>Documentation for the base R stats package, which provides a wide range of statistical functions, including tools for linear and nonlinear modeling, statistical tests, and time-series analysis.</td>
 </tr>
 <tr>
-<td>car</td>
 <td><a href="https://www.geeksforgeeks.org/car-package-in-r/">car Package in R</a></td>
 <td>Article for the car package, which includes functions for regression analysis, diagnostic tests, and visualization tools to accompany regression models.</td>
 </tr>
 <tr>
-<td>lme4</td>
-<td><a href="https://www.rensvandeschoot.com/tutorials/lme4/">LME4 Tutorial</a></td>
+<td><a href="https://www.rensvandeschoot.com/tutorials/lme4/">LME4</a></td>
 <td>Comprehensive guide to lme4, a package for fitting linear and generalized linear mixed-effects models, providing tools for complex hierarchical data analysis.</td>
 </tr>
 <tr>
-<td>MASS</td>
-<td><a href="https://www.geeksforgeeks.org/parallel-chart-with-the-mass-library-in-r/">Parallel chart with the MASS </a></td>
+<td><a href="https://www.geeksforgeeks.org/parallel-chart-with-the-mass-library-in-r/">MASS </a></td>
 <td>Article for the MASS package, which includes functions and datasets about Parallel Coordinates and tools for robust statistical methods.</td>
 </tr>
 </table>
@@ -608,97 +500,80 @@ These resources are designed to help you build a strong foundation in R programm
 > Here are some advance topics in R which you can consider to enhance your mastery in R programming.
 
 ### R for Big Data
->R has great ways to handle working with big data including programming in parallel and interfacing with Spark
 
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Big Data in R</td>
 <td><a href="https://en.wikipedia.org/wiki/Programming_with_Big_Data_in_R">Big Data in R</a></td>
 <td>An overview of how R can be used for big data analysis, covering key packages and techniques for managing and analyzing large datasets.</td>
 </tr>
-<td>sparklyr</td>
 <td><a href="https://www.databricks.com/glossary/sparklyr">What is sparklyr?</a></td>
 <td>Comprehensive guide to sparklyr, an R interface for Apache Spark, which allows for scalable data processing and machine learning on large datasets using Spark's distributed computing capabilities.</td>
 </tr>
 <tr>
-<td>bigmemory</td>
-<td><a href="https://cran.r-project.org/web/packages/bigmemory/bigmemory.pdf">bigmemory Documentation</a></td>
+<td><a href="https://cran.r-project.org/web/packages/bigmemory/bigmemory.pdf">bigmemory</a></td>
 <td>Documentation for bigmemory, a package that enables the creation, storage, access, and manipulation of large matrices and data frames stored in memory or on disk.</td>
 </tr>
 <tr>
-<td>dplyr with Databases</td>
 <td><a href="https://solutions.posit.co/connections/db/r-packages/dplyr/">Using dplyr with databases</a></td>
 <td>Guide to using dplyr with databases, providing tools to interact with large datasets stored in relational databases and perform data manipulation using SQL through familiar dplyr syntax.</td>
 </tr>
 <tr>
-<td>arrow</td>
 <td><a href="https://r4ds.hadley.nz/arrow">arrow for R Documentation</a></td>
 <td>Documentation for the arrow package, which provides tools to enable high-performance data interchange between R and other languages using the Apache Arrow format.</td>
 </tr>
 </table>
 
 ### Parallel Computing
->Many computations in R can be made faster by the use of parallel computation. Generally, parallel computation is the simultaneous execution of different pieces of a larger computation across multiple computing processors or cores.
+
 
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Parallel Computing in R</td>
 <td><a href="https://www.geeksforgeeks.org/parallel-programming-in-r/">Parallel Programming In R</a></td>
 <td>An overview of the available packages and tools for high-performance and parallel computing in R, providing a starting point for leveraging multiple processors.</td>
 </tr>
 <tr>
-<td>Need for Parallel Computing</td>
 <td><a href="https://www.tutorialspoint.com/parallel-programming-in-r">Need for Parallel Programming in R</a></td>
 <td>Documentation for the parallel package, which provides parallel computing support in R, including functions for parallel execution of code using multiple cores.</td>
 </tr>
 <tr>
-<td>parallel Package</td>
 <td><a href="https://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/notes/parallel.html#the-parallel-package">parallel Package guide</a></td>
 <td>Documentation for the parallel package, which provides parallel computing support in R, including functions for parallel execution of code using multiple cores.</td>
 </tr>
 </table>
 
 ### Advanced Statistical Modeling
-> Advanced statistical modeling is the application of sophisticated mathematical and computational techniques to data analysis and inference.
+
 
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Advanced Statistical Modeling in R</td>
 <td><a href="http://ctfs.si.edu/Public/Workshops/Tupper2012/outline.html">Advanced Modeling in R</a></td>
 <td>An overview of advanced statistical modeling techniques in R, including discussions on various complex models and their applications.</td>
 </tr>
 <tr>
-<td>Generalized Linear Models (GLM)</td>
 <td><a href="https://www.geeksforgeeks.org/generalized-linear-models-using-r/">Generalized Linear Models Using R</a></td>
 <td>Article for the glm function in the stats package, which provides tools for fitting generalized linear models, a flexible generalization of ordinary linear regression.</td>
 </tr>
 <tr>
-<td>Mixed-Effects Models</td>
 <td><a href="https://ourcodingclub.github.io/tutorials/mixed-models/">Introduction to Linea Mixed Models</a></td>
 <td>This workshop is aimed at people new to mixed modeling and as such, it doesn’t cover all the nuances of mixed models, but hopefully serves as a starting point when it comes to both the concepts and the code syntax in R.</td>
 </tr>
 <tr>
-<td>Bayesian Modeling</td>
 <td><a href="https://www.r-bloggers.com/2019/05/bayesian-models-in-r-2/#google_vignette">Bayesian models in R</a></td>
 <td>Documentation for Bayesian models, the R interface to Stan, which provides tools for Bayesian inference using the Stan probabilistic programming language.</td>
 </tr>
 <tr>
-<td>Spatial Modeling</td>
 <td><a href="https://rspatial.org/spatial/">Spatial Data Science with R</a></td>
 <td>An in-depth guide to spatial data analysis and modeling in R, covering various packages and techniques for handling and analyzing spatial data.</td>
 </tr>
@@ -710,22 +585,18 @@ These resources are designed to help you build a strong foundation in R programm
 ### Bioinformatics
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Bioinformatics in R</td>
 <td><a href="https://ucdavis-bioinformatics-training.github.io/2021-March-Introduction-to-R-for-Bioinformatics/R/Intro2R_main">Introduction to R for Bioinformatics</a></td>
 <td>It provides a wide variety of statistical and graphical techniques (linear and nonlinear modeling, statistical tests, time series analysis, classification.</td>
 </tr>
 <tr>
-<td>Bioconductor</td>
 <td><a href="https://www.bioconductor.org/">Bioconductor</a></td>
 <td>The official website for Bioconductor, a project that provides tools for the analysis and comprehension of high-throughput genomic data.</td>
 </tr>
 <tr>
-<td>Genomic Data Analysis</td>
 <td><a href="https://www.bioconductor.org/packages/release/bioc/html/GenomicRanges.html">GenomicRanges Documentation</a></td>
 <td>Documentation for the GenomicRanges package, which provides tools for representation and manipulation of genomic intervals and variables defined along a genome.</td>
 </tr>
@@ -734,21 +605,17 @@ These resources are designed to help you build a strong foundation in R programm
 ### Time Series Analysis
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Time Series Analysis</td>
-<td><a href="https://otexts.com/fpp3/">Forecasting: Principles and Practice</a></td>
+<td><a href="https://otexts.com/fpp3/">Introduction to Time Series Analysis</a></td>
 <td>An online book that provides a comprehensive introduction to time series analysis and forecasting using R, covering fundamental concepts and methods.</td>
 </tr>
 <tr>
-<td>Time Series Objects in R</td>
 <td><a href="https://www.nku.edu/~longa/Rweb/library/base/html/ts.html#:~:text=The%20function%20ts%20is%20used,single%20(univariate)%20time%20series.">Time-Series Objects</a></td>
 <td>Documentation for the zoo package, which provides tools for creating and manipulating time series objects, allowing for regular and irregular time series.</td>
 </tr>
-<td>Exponential Smoothing</td>
 <td><a href="https://www.geeksforgeeks.org/exponential-smoothing-in-r-programming/">Exponential Smoothing in R</a></td>
 <td>Documentation for the smooth package, which provides functions for various exponential smoothing methods, including ETS models.</td>
 </tr>
@@ -757,17 +624,14 @@ These resources are designed to help you build a strong foundation in R programm
 ### Geospatial Analysis
 <table width="100%">
 <tr>
-<th>Topic</th>
 <th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
-<td>Introduction to Geospatial Analysis in R</td>
 <td><a href="https://www.geeksforgeeks.org/geospatial-data-analysis-with-r/">Geospatial Data Analysis with R</a></td>
 <td>An overview of the available packages and tools for geospatial analysis in R, providing a comprehensive starting point for spatial data analysis.</td>
 </tr>
 <tr>
-<td>Spatial Data Handling</td>
 <td><a href="https://geobgu.xyz/r/">Introduction to Spatial Data Programming with R</a></td>
 <td>Documentation for the Spatial Data Programming, which provides classes and methods for spatial data, making it essential for handling geographic information in R.</td>
 </tr>
@@ -777,8 +641,6 @@ These resources are designed to help you build a strong foundation in R programm
 > Here are some projrct ideas for R programming from beginner level to advance level.
 
 ### Beginner Level Projects
-> Here Beginner Level R projects from which you can start your project building.
-
 <table width="100%">
 <tr>
 <th>Project</th>
@@ -808,7 +670,6 @@ These resources are designed to help you build a strong foundation in R programm
 </table>
 
 ### Intermediate Level Projects
-> Here are some Intermediate Level Projects ideas
 <table width="100%">
 <tr>
 <th>Project</th>
@@ -838,7 +699,6 @@ These resources are designed to help you build a strong foundation in R programm
 </table>
 
 ### Advanced Level Projects
-> Here are some Advanced Level Projects
 
 <table width="100%">
 <tr>
@@ -867,20 +727,6 @@ These resources are designed to help you build a strong foundation in R programm
 <td><a href="https://github.com/ianaraujo/twitter-scraping-automation">Twitter Scraping Automation</a></td>
 </tr>
 </table>
-
-### Additional Tips
-
-- **Use Version Control**: Utilize version control systems like Git to track changes in your codebase, collaborate with others, and revert to previous versions if needed.
-- **Document Your Code**: Write clear and concise comments to explain the purpose of your code, the logic behind specific functions, and any assumptions made during the analysis.
-- **Explore Package Documentation**: R has a vast ecosystem of packages. Dive into package documentation to explore available functions, parameters, and usage examples that can simplify your tasks.
-- **Optimize Code Performance**: Consider optimizing your code for better performance, especially when dealing with large datasets or complex computations. Techniques like vectorization and parallelization can often improve efficiency.
-- **Practice Reproducible Research**: Structure your projects to be reproducible by organizing code, data, and documentation in a systematic manner. Utilize tools like R Markdown to create reproducible reports that integrate code, visualizations, and narrative text.
-- **Seek Community Support**: R has a vibrant community of users and developers. Don't hesitate to seek help from forums, mailing lists, or social media platforms when encountering challenges or seeking advice on best practices.
-- **Stay Updated**: Keep abreast of new developments in the R ecosystem, including updates to packages, new techniques, and best practices. Attend conferences, workshops, or webinars to stay informed and continuously improve your skills.
-- **Collaborate Effectively**: When working on collaborative projects, establish clear communication channels, define roles and responsibilities, and use project management tools to track progress and coordinate tasks efficiently.
-- **Debugging Techniques**: Learn debugging techniques to troubleshoot errors in your code effectively. Utilize tools like browser(), print statements, and debugging packages to identify and resolve issues.
-- **Data Ethics and Privacy**: Respect data ethics and privacy principles when collecting, analyzing, and sharing data. Ensure compliance with relevant regulations (e.g., GDPR) and obtain necessary permissions before using sensitive data.
-- **Continuous Learning**: Embrace a growth mindset and commit to continuous learning. Explore new domains, experiment with different techniques, and challenge yourself with increasingly complex projects to expand your skill set and knowledge base.
 
 ### Version Control
 
