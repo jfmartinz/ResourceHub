@@ -1665,7 +1665,11 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td> <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">JavaScript Music Player</a></td>
         <td>This JavaScript music player is an interactive web-based application that allows users to play audio files directly from their browser. It is built primarily using JavaScript ,React  along with HTML and CSS, to handle the user interface and the media playback.   </td>
-      </tr>
+         <tr>
+         <tr>
+        <td> <a href="https://youtu.be/_V33HCZWLDQ?si=glsR3_ZPlp1XnGZ4">Stone-Paper-Scissor</a></td>
+        <td>The Stone-Paper-Scissor game, also known as Rock-Paper-Scissors, is a simple hand game usually played between two people. Each player simultaneously forms one of three shapes with an outstretched hand. The possible outcomes are: Rock crushes Scissors, Scissors cuts Paper,Paper covers Rock .The game displays the choices of both the player and the computer </td>
+         <tr>
   </table>
 
 #### Intermediate level projects
@@ -1675,6 +1679,12 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/watch?v=OrcPDu4LYMY">URL Shortner</a></td>
+        <td>
+        A URL shortener is a simple tool that converts long URLs into shorter, more manageable links. This is particularly useful for sharing links on social media, in emails, or any context where space is limited. Here's how you can create a basic URL shortener using HTML, CSS, and JavaScript.
+        </td>
+      </tr> 
       <tr>
         <td><a href="https://foolishdeveloper.com/drawing-app-javascript/">Drawing App</a></td>
         <td>
