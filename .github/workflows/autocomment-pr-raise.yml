@@ -5,6 +5,8 @@ on:
     types: [opened]
   issues:
     types: [opened]
+  pull_request:
+    types: [closed]
 
 permissions:
   issues: write
@@ -47,7 +49,7 @@ jobs:
       run: |
         COMMENT=$(cat <<EOF
         {
-          "body": "[Auto-Comment]: Thank you for raising this issue! 🚀 We've received your input and will review it shortly. Please make sure to check our CONTRIBUTING.md for any additional information. Feel free to reach out if you have any questions or need further assistance. Happy contributing! 😊"
+          "body": "Thank you for opening this issue! 😊 We'll review it as soon as possible. Please make sure you've provided all necessary details and context to help us address it effectively. If you have any additional information or updates, feel free to add them here. Thanks for contributing! 🙏"
         }
         EOF
         )
@@ -56,6 +58,33 @@ jobs:
           -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
           -H "Accept: application/vnd.github.v3+json" \
           https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
+          -d "$COMMENT")
+        cat response.json
+        if [ "$RESPONSE" -ne 201 ]; then
+          echo "Failed to add comment"
+          exit 1
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  comment-pr-merged:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true
+
+    steps:
+    - name: Add Comment to Merged Pull Request
+      run: |
+        COMMENT=$(cat <<EOF
+        {
+          "body": "Congratulations! Your pull request has been merged. 🎉 Thank you for your contribution! 🙏 If you have any further improvements or ideas, feel free to open another pull request. We appreciate your efforts and look forward to more contributions from you!"
+        }
+        EOF
+        )
+        RESPONSE=$(curl -s -o response.json -w "%{http_code}" \
+          -X POST \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments \
           -d "$COMMENT")
         cat response.json
         if [ "$RESPONSE" -ne 201 ]; then
