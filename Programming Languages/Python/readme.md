@@ -704,41 +704,41 @@ These channels provide excellent resources for learning Python programming, cate
   <tr>
     <td>E-commerce Website</td>
     <td>Build a basic online store with functionalities like product listings, shopping cart, and user authentication (requires a database).</td>
-    <td><a href="https://www.youtube.com/watch?v=U5TdEJnJU88">E-commerce Website Tutorial</a></td>
+    <td><a href="https://www.youtube.com/watch?v=Yg5zkd9nm6w&t=1s">E-commerce Website Tutorial</a></td>
   </tr>
   <tr>
     <td>Music Player Application</td>
     <td>Develop a music player that reads and plays audio files. Introduces working with external libraries and file handling.</td>
-    <td><a href="https://www.tabnine.com/code/java/classes/uk.co.caprica.vlcj.player.MediaPlayer">MediaPlayer Class Example</a></td>
+    <td><a href="https://pythongeeks.org/python-music-player/">MediaPlayer Class Example</a></td>
   </tr>
   <tr>
     <td>Data Visualization Tool</td>
-    <td>Create a program that reads data from a file and displays it visually using charts and graphs. Teaches working with data sets and libraries like JavaFX.</td>
-    <td><a href="https://www.baeldung.com/">Baeldung Java Tutorials</a></td>
+    <td>Create a program that reads data from a file and displays it visually using charts and graphs. Teaches working with data sets and libraries .</td>
+    <td><a href="https://www.geeksforgeeks.org/data-visualization-with-python/">GeeksforGeeks</a></td>
   </tr>
   <tr>
     <td>Simple Chat Application</td>
     <td>Build a basic chat application for real-time communication between users. Introduces networking concepts and libraries like sockets.</td>
-    <td><a href="https://www.instructables.com/Creating-a-Chat-Server-Using-Java/">Creating a Chat Server Using Java</a></td>
+    <td><a href="https://www.geeksforgeeks.org/gui-chat-application-using-tkinter-in-python/">Creating a Chat Server </a></td>
   </tr>
   <tr>
-    <td>Loan Approver</td>
-    <td> JAVA Spring Boot based machine learning Loan Approver Application As A Service.</td>
-    <td><a href="https://github.com/mgorav/SmartLoadApproverAsServiceUsingMachineLearning">Loan approval GitHub
+    <td>ChatBot</td>
+    <td> Python program to build an interactive chatbot for conversation or task automation.</td>
+    <td><a href="https://realpython.com/build-a-chatbot-python-chatterbot/">ChatBot 
   <tr>
     <td>Real-time Analytics Dashboard</td>
     <td>This is a real-time analytics dashboard app using Spring Boot and Web Socket..</td>
-    <td><a href="https://github.com/accavdar/mc-dashboard">Real-time Analytics Dashboard GitHub</a></td>
+    <td><a href="https://www.geeksforgeeks.org/real-time-translation-app-using-python/">Real-time Analytics Dashboard</a></td>
   </tr>
   <tr>
     <td>Blockchain Implementation</td>
-    <td>Implement a basic blockchain system in Java, covering concepts like distributed ledger, mining, consensus algorithms, and smart contracts.</td>
-    <td><a href="https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa">Blockchain Tutorial in Java</a></td>
+    <td>Implement a basic blockchain system in Python, covering concepts like distributed ledger, mining, consensus algorithms, and smart contracts.</td>
+    <td><a href="https://github.com/topics/python-blockchain">Blockchain</a></td>
   </tr>
   <tr>
     <td>Cointrader</td>
-    <td>Coin Trader is a Java-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
-    <td><a href="">Cointrader using Python </a></td>
+    <td>Coin Trader is a Python-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
+    <td><a href="https://cointrader.readthedocs.io/en/latest/_modules/cointrader/chart.html">Cointrader Documentation in Python </a></td>
   </tr>
   <tr>
     <td>Network Security Toolkit</td>
