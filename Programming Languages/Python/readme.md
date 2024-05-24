@@ -693,7 +693,6 @@ These channels provide excellent resources for learning Python programming, cate
   
 </table>
 
-<!--
 ### Advance Level Projects
 
 <table>
@@ -739,12 +738,12 @@ These channels provide excellent resources for learning Python programming, cate
   <tr>
     <td>Cointrader</td>
     <td>Coin Trader is a Java-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
-    <td><a href="https://medium.com/automation-generation/build-an-automated-stock-trading-system-in-java-bfb5b739eb6f">Cointrader using Javva </a></td>
+    <td><a href="">Cointrader using Python </a></td>
   </tr>
   <tr>
     <td>Network Security Toolkit</td>
     <td>Develop a toolkit for network security analysis and penetration testing, implementing various algorithms and techniques for network scanning, vulnerability assessment, and intrusion detection.</td>
-    <td><a href="https://github.com/pixee/java-security-toolkit">Java-security-toolkit</a></td>
+    <td><a href="https://github.com/SAMi-Rn/Network_Security_Toolkit">Python-security-toolkit</a></td>
   </tr>
 </table>
 
