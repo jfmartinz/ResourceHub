@@ -597,4 +597,9 @@ Automate repetitive tasks with Python using these useful resources.
         <td><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU">Python Tutorials</a></td>
         <td>This youtube playlist by Corey Schafer is ideal for both beginners and those looking to deepen their understanding of Python.This playlist will give you the brief introducation to Python frameworks like Django, flask and modules like Pandas, numpy and more.</td>
       </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg">Python for Beginners (Full Course)-CodeWithHarry</a></td>
+        <td>This Python tutorial for absolute beginners in the Hindi series will focus on teaching you Python concepts from the ground up to an advanced level. This video series starts with Python basics and then moves toward advanced Python. Python concepts are taught in depth with exercises and handwritten notes.
+         </td>
+      </tr>
 </table>
