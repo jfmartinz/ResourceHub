@@ -5,7 +5,8 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 - [Roadmap](#roadmap)<br>
 - [Tutorial or Courses](#tutorials-or-courses)<br>
 - [Documentation](#documentation)<br>
-- [Youtube Channels](#youtube-channels)<br>
+- [YouTube Channels](#youtube-channels)<br>
+- [YouTube Playlist](#youtube-playlist)
 - [Books](#books)
 - [Tools](#tools)
 
@@ -186,6 +187,35 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
        <td><a href="https://www.youtube.com/c/DevOpsDirective">DevOps Detective</a></td>
        <td>The DevOps Directive channel primaryly focuses on delivering high-quality DevOps tutorials and educational content and this channel covers a variety of tools and practices such as Docker, Kubernetes, Terraform, CI/CD and more.</td>
     </tr>
+</table>
+
+### YouTube Playlist
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL9ooVrP1hQOE5ZDJJsnEXZ2upwK7aTYiX">DevOps Training </a></td>
+        <td>This Playlist by Edureka will take you through - what is devops, devops tutorial videos, devops tools tutorial, devops engineer tutorial, docker tutorial, jenkins tutorial, puppet tutorial, ansible tutorial, chef tutorial, kubernetes tutorial.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs">DevOps Courses</a></td>
+        <td>This DevOps courses playlist by Freecodecamp will not only help you learn DevOps but the videos in this playlist also helps you to learn AWS, Docker, Kuberneter and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLAdTNzDIZj_8BerYwx-rUjmVkj6A9vD9_">30 days of DevOps</a></td>
+        <td> This youtube playlist is a systamatic way to learn DevOps in 30 days, this playlist is very helpfull for beginners who want to start with DevOps</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak">DevOps Bootcamp</a></td>
+        <td>This DevOps bootcamp consisting of outstanding content to get you from beginner to advance in the field, this playlist gives you the clear and easy understanding for the DevOps.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE">DevOps Tutorial for Beginners</a></td>
+        <td>This DevOps tutorial for beginners Playlist will help you learn DevOps course end to end. To start with what is DevOps, DevOps basics, DevOps fundamentals, the various DevOps tools and how it works.</td>
+      </tr>
 </table>
 
 ### Books
