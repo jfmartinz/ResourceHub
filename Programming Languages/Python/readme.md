@@ -587,17 +587,17 @@ These channels provide excellent resources for learning Python programming, cate
   <tr>
     <td>Mad Libs Generator</td>
     <td>A classic game that tests your understanding of string manipulation and user input.</td>
-    <td><a href="https://pythongeeks.org/python-mad-libs-generator-project/">Geeks for Geeks</a></td>
+    <td><a href="https://pythongeeks.org/python-mad-libs-generator-project/">GeeksforGeeks Mad Libs Generator</a></td>
   </tr>
   <tr>
-    <td>Currency Converter</td>
-    <td>A simple application for converting between currencies. Introduces basic calculations and data types.</td>
-    <td><a href="https://www.scaler.com/topics/currency-converter-java-project/">Scaler Currency Converter</a></td>
+    <td>Scientific Calculator</td>
+    <td>A scientific calculator which can perform majority of mathematic problems upto engineering level.</td>
+    <td><a href="https://www.geeksforgeeks.org/scientific-gui-calculator-using-tkinter-in-python/">GeeksforGeeks Calculator</a></td>
   </tr>
   <tr>
-    <td>Number Guessing Game</td>
-    <td>A fun way to practice user interaction and conditional statements (if/else).</td>
-    <td><a href="https://www.geeksforgeeks.org/number-guessing-game-in-java/">GeeksforGeeks Number Guessing Game</a></td>
+    <td>Snake Game</td>
+    <td>The main objective of the player is to catch the maximum number of fruits without hitting the wall or itself.</td>
+    <td><a href="https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/">GeeksforGeeks Number Snake Game</a></td>
   </tr>
   <tr>
     <td>Text-Based Adventure Game</td>
@@ -641,7 +641,7 @@ These channels provide excellent resources for learning Python programming, cate
   </tr>
 </table>
 
-
+<!-->
 ### Intermediate Level Projects
 
 <table>
