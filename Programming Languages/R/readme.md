@@ -1,10 +1,9 @@
 # R Programming Language 📊
-- R development refers to creating applications, statistical models, and data analysis solutions using the R programming language. 
-- Known for its strength in statistical computing, data visualization, and data manipulation, R is widely used in data science, academic research, bioinformatics,
-and quantitative analysis. It emphasizes reproducible research and high-quality graphics, making it a popular choice for statisticians, data analysts, and researchers.
-- R supports multiple programming paradigms, including procedural and functional programming, and has a large, supportive community, contributing to a rich ecosystem of packages and resources.
-- Its comprehensive libraries, such as ggplot2 for visualization and dplyr for data manipulation, make R a powerful tool for handling complex
-data analysis tasks.
+
+R is a powerful programming language and software environment specifically designed for statistical computing and graphics. It is widely used among statisticians, data analysts, and researchers for data manipulation, calculation, and graphical display.  The language is highly extensible and offers a wide array of statistical and graphical techniques, comprehensive libraries, such as ggplot2 for visualization and dplyr for data manipulation, make R a powerful tool for handling complex
+data analysis task making it an essential tool in the field of data science.
+
+These resources are designed to help you build a strong foundation in R programming and apply it effectively to your data analysis and visualization tasks. Whether you are a beginner starting with the basics or an experienced user looking to deepen your understanding, the following sections cover various aspects of R, including tutorials, coding platforms, tools, and more. 
 
 ## Table of Contents
 
@@ -63,7 +62,7 @@ data analysis tasks.
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://r-dir.com/r-dev-roadmap/">R Developer Roadmap </a></td>
+    <td><a href="https://prezi.com/p/yl-sls3pg9ku/roadmap-for-r-programing/">R Developer Roadmap </a></td>
     <td>A comprehensive roadmap that outlines the skills, technologies, and tools you need to become a proficient R developer.</td>
   </tr>
 </table>
@@ -120,6 +119,8 @@ data analysis tasks.
 
 ### Fundamentals
 
+> Here are the fundamentals for R programming with introduction, data types, input and output in R control flow statements, functions and packages.
+
 <table width="100%">
 <tr>
 <th>Topic</th>
@@ -170,6 +171,7 @@ data analysis tasks.
 </table>
 
 ### Data Manipulation
+> Data manipulation involves modifying data to make it easier to read and to be more organized. We manipulate data for analysis and visualization. 
 
 <table width="100%">
 <tr>
@@ -200,6 +202,7 @@ data analysis tasks.
 </table>
 
 ### Data Visualization
+> Data visualization is a technique used for the graphical representation of data. By using elements like scatter plots, charts, graphs, histograms, maps, etc., we make our data more understandable
 
 <table width="100%">
 <tr>
@@ -235,6 +238,7 @@ data analysis tasks.
 </table>
 
 ### Statistical Analysis
+> Statistical Analysis with R is one of the best practices which statisticians, data analysts, and data scientists do while analyzing statistical data. 
 
 <table width="100%">
 <tr>
@@ -275,6 +279,7 @@ data analysis tasks.
 </table>
 
 ### Machine Learning
+> Machine Learning as the name suggests is the field of study that allows computers to learn and take decisions on their own, Many R packages for machine learning are available off the shelf and many modern methods in statistical learning are implemented in R as part of their development.
 
 <table width="100%">
 <tr>
@@ -315,6 +320,7 @@ data analysis tasks.
 </table>
 
 ### Deep Learning
+>Deep Learning with R introduces the world of deep learning using the powerful Keras library and its R language interface.
 
 <table width="100%">
 <tr>
@@ -359,6 +365,7 @@ data analysis tasks.
 </table>
 
 ## Tools and Development Environment
+> Here are somme tools and development environments for R programming.
 
 ## Rstudio
 
@@ -497,7 +504,10 @@ data analysis tasks.
 
 ## R Packages and Libraries
 
+> Packages in R Programming language are a set of R functions, compiled code, and sample data. These are stored under a directory called “library” within the R environment
+
 ### Data Manipulation Packages
+> Here are Data Manipulation Packages for R
 
 <table width="100%">
 <tr>
@@ -528,6 +538,7 @@ data analysis tasks.
 </table>
 
 ### Data Visualization Packages 
+> Here are  Data Visualization Packages for R
 
 <table width="100%">
 <tr>
@@ -563,6 +574,7 @@ data analysis tasks.
 </table>
 
 ### Statistical Analysis Packages
+> Here are Statistical Analysis Packages for R
 
 <table width="100%">
 <tr>
@@ -593,8 +605,11 @@ data analysis tasks.
 </table>
 
 ## Advanced Topics
+> Here are some advance topics in R which you can consider to enhance your mastery in R programming.
 
 ### R for Big Data
+>R has great ways to handle working with big data including programming in parallel and interfacing with Spark
+
 <table width="100%">
 <tr>
 <th>Topic</th>
@@ -628,6 +643,8 @@ data analysis tasks.
 </table>
 
 ### Parallel Computing
+>Many computations in R can be made faster by the use of parallel computation. Generally, parallel computation is the simultaneous execution of different pieces of a larger computation across multiple computing processors or cores.
+
 <table width="100%">
 <tr>
 <th>Topic</th>
@@ -652,6 +669,7 @@ data analysis tasks.
 </table>
 
 ### Advanced Statistical Modeling
+> Advanced statistical modeling is the application of sophisticated mathematical and computational techniques to data analysis and inference.
 
 <table width="100%">
 <tr>
@@ -687,6 +705,7 @@ data analysis tasks.
 </table>
 
 ## Specialized Topics
+> Here are some specialized topics
 
 ### Bioinformatics
 <table width="100%">
@@ -755,8 +774,10 @@ data analysis tasks.
 </table>
 
 ## R Projects
+> Here are some projrct ideas for R programming from beginner level to advance level.
 
 ### Beginner Level Projects
+> Here Beginner Level R projects from which you can start your project building.
 
 <table width="100%">
 <tr>
@@ -787,7 +808,7 @@ data analysis tasks.
 </table>
 
 ### Intermediate Level Projects
-
+> Here are some Intermediate Level Projects ideas
 <table width="100%">
 <tr>
 <th>Project</th>
@@ -817,6 +838,7 @@ data analysis tasks.
 </table>
 
 ### Advanced Level Projects
+> Here are some Advanced Level Projects
 
 <table width="100%">
 <tr>
@@ -906,6 +928,7 @@ data analysis tasks.
 </table>
 
 ## Youtube
+> Here are some youtube channels which you can refer.
 
 ### YouTube Channels to Learn R
 <table width="100%">
@@ -962,6 +985,7 @@ data analysis tasks.
 
 
 ## Courses
+> Here are some courses.
 
 ### Free Certification Courses
 <table width="100%">
@@ -1021,6 +1045,7 @@ data analysis tasks.
 </table>
 
 ## Additional Resources
+> Additional resources which may help you in your development journey.
 
 ### R Communities
 <table width="100%">
@@ -1068,4 +1093,8 @@ data analysis tasks.
 
 ## Conclusion
 
-In conclusion, the world of R programming offers a rich ecosystem of resources and communities for enthusiasts at all levels. Whether you're just starting your journey or seeking to deepen your expertise, there's a wealth of books, courses, and communities available to support your learning and growth. From the comprehensive tutorials of online platforms like DataCamp and Coursera to the insightful discussions on forums like RStudio Community and r/Rlanguage, the R community thrives on collaboration and knowledge sharing. Additionally, books such as "R Cookbook" and "The Art of R Programming" provide invaluable insights and practical guidance for tackling real-world data analysis challenges. With dedication and exploration, you can unlock the full potential of R programming and embark on a rewarding journey of discovery in data science and statistical analysis.
+R programming is an indispensable tool for data analysis, statistics, and visualization. The extensive range of resources provided in this guide aims to facilitate your learning journey, from mastering the basics to exploring advanced techniques. With the right combination of tutorials, coding platforms, and tools, you can develop a strong proficiency in R and leverage its capabilities for your data-driven projects.
+
+Remember that practice is key to becoming proficient in R programming. Take advantage of the coding platforms to test your skills, participate in challenges, and apply your knowledge to real-world scenarios. Whether you are a student, researcher, or data science professional, the resources provided here will support your growth and help you achieve your goals in the field of data analysis with R.
+
+Happy Coding!!
