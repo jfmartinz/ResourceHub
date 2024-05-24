@@ -1594,7 +1594,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
         </td>
       </tr> 
       <tr>
-        <td><a href="https://youtu.be/bMYCWccL-3U?si=Is54k_lYA-5zjBkM">Drawing App</a></td>
+        <td><a href="https://foolishdeveloper.com/drawing-app-javascript/">Drawing App</a></td>
         <td>
         This link helps you understand deep JS by building a drawing app. This project is the best practice for understanding intermediate DOM elements and Events.
         </td>
