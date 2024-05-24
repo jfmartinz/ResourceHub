@@ -1568,6 +1568,10 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <td> <a href="https://www.geeksforgeeks.org/create-a-music-player-using-javascript/">JavaScript Music Player</a></td>
         <td>This JavaScript music player is an interactive web-based application that allows users to play audio files directly from their browser. It is built primarily using JavaScript ,React  along with HTML and CSS, to handle the user interface and the media playback.   </td>
          <tr>
+         <tr>
+        <td> <a href="https://youtu.be/_V33HCZWLDQ?si=glsR3_ZPlp1XnGZ4">Stone-Paper-Scissor</a></td>
+        <td>The Stone-Paper-Scissor game, also known as Rock-Paper-Scissors, is a simple hand game usually played between two people. Each player simultaneously forms one of three shapes with an outstretched hand. The possible outcomes are: Rock crushes Scissors, Scissors cuts Paper,Paper covers Rock .The game displays the choices of both the player and the computer </td>
+         <tr>
   </table>
 
   #### Intermediate level projects
