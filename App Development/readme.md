@@ -217,3 +217,32 @@ App development refers to crafting software for diverse devices, involving plann
       </tr>
   </table>
 
+  ### GitHub Repositories
+
+  <table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://github.com/Solido/awesome-flutter">Awesome Flutter</a></td>
+        <td>This github repo is a collection of Flutter libraries, tools, tutorials, articles, and other resources. It aims to provide a comprehensive collection of high-quality resources to help Flutter developers enhance their skills and productivity. The repository is maintained by the Flutter community and is regularly updated with new resources.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/JStumpp/awesome-android">Awesome Android</a></td>
+        <td>This Github repo is a curated list of Android libraries, frameworks, tools, and other resources. This repository serves as a one-stop destination for Android developers looking for high-quality libraries and tools to enhance their development process. It includes resources for various aspects of Android development, from UI design to networking.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/vsouza/awesome-ios">Awesome IOS</a></td>
+        <td>This Github repo  aims to provides a collection of high-quality tools and resources for iOS developers. It covers a wide range of topics, including UI design, networking, data storage, and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mcxiaoke/awesome-kotlin">Awesome Kotlin</a></td>
+        <td>This repo aims to provide a comprehensive collection of high-quality resources to help developers who use Kotlin for various purposes such as Android development, server-side development, and more. It is maintained by the Kotlin community and is regularly updated with new resources.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/jondot/awesome-react-native">Awesome React Native</a></td>
+        <td>This repo aims to serve as a comprehensive guide for developers looking to improve their skills, find useful tools, and stay updated with the latest trends in React Native development. The repository is maintained by the React Native community and is regularly updated with new resources.</td>
+      </tr>
+</table>
+
