@@ -161,6 +161,10 @@
       <td ><a href="https://scikit-learn.org/stable/tutorial/index.html">Scikit-learn</a></td>
       <td>This documentation is the best for learning Scikit-learn. Scikit-learn is another fantastic library, primarily used for machine learning tasks such as classification, regression, clustering, and more. Its simple and efficient tools make it accessible to both beginners and experts in the field. </td>
     </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/introduction-to-seaborn-python/">Seaborn</a></td>
+    <td>Seaborn is an amazing visualization library for statistical graphics plotting in Python. It provides beautiful default styles and color palettes to make statistical plots more attractive.</td>
+  </tr>
 </table>
 
 #### Introduction to Machine Learning
