@@ -14,6 +14,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 - [Resources for Finding Datasets](#resources-for-finding-datasets)<br>
 - [Competitions](#competitions)<br>
 - [Communities](#communities)<br>
+- [GitHub Repositories](#github-repositories)
 
 ### Roadmap
 
@@ -384,5 +385,35 @@ Platforms and resources for participating in Data Science competitions to practi
   <tr>
     <td> <a href="https://www.datasciencesociety.net/">Data Science Society </a></td>
     <td>The Data Science Society is an international digital community focused on data science education and collaboration. It organizes events such as datathons, meetups, and workshops, offering real-world cases for hands-on learning.</td>
+  </tr>
+</table>
+
+### GitHub Repositories
+
+<table width="100%">
+  <tr>
+    <th>Community</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+  <tr>
+    <td> <a href="https://github.com/storieswithsiva/Data-Science-Resources">Data Science Resources</a></td>
+    <td>The GitHub repository "Data-Science-Resources" by storieswithsiva is a curated collection of educational materials and tools for learning data science. It includes links to books, tutorials, courses, datasets, and various programming resources, aimed at helping both beginners and advanced learners.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/academic/awesome-datascience"> Awesome Data Science</a></td>
+    <td>The GitHub repository "awesome-datascience" by academic is a comprehensive list of high-quality resources for data science enthusiasts. It features a wide range of materials including tutorials, books, courses, software, datasets, and more</td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/microsoft/Data-Science-For-Beginners"> Data Science For Beginners</a></td>
+    <td>The GitHub repository "Data-Science-For-Beginners" by Microsoft is an educational resource designed to introduce newcomers to data science. It provides a structured, project-based curriculum with lessons, tutorials, and hands-on activities.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/FavioVazquez/ds-cheatsheets"> Data Science Cheatsheets</a></td>
+    <td>The GitHub repository "ds-cheatsheets" by FavioVazquez is a collection of cheat sheets for data science. These cheat sheets provide quick references and summaries of essential data science concepts, techniques, libraries, and tools.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/jakevdp/PythonDataScienceHandbook?tab=readme-ov-file">Python Data Science Handbook</a></td>
+    <td>The GitHub repository "PythonDataScienceHandbook" by jakevdp ,this one data science book is equivalent to a course, this repo includes Jupyter notebooks with detailed explanations and examples covering essential topics in data science using Python.</td>
   </tr>
 </table>

@@ -909,7 +909,8 @@ This section is dedicated to providing valuable resources for learning and maste
       <a href="https://github.com/ionic-team/ionic-framework">GitHub Repository</a>
     </td>
   </tr>
-  <table>
+  </table>
+<table width="100%">
   <hr />
   <tr>
     <td rowspan="3">NativeScript</td>

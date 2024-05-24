@@ -20,10 +20,14 @@ Python development refers to creating applications, scripts, and software soluti
 - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
+<<<<<<< HEAD:Programming Languages/Python/readme.md
 - [Python Projects](#python-projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
+=======
+- [YouTube Playlists](#youtube-playlist)
+>>>>>>> 591c3892f320cc343b2af46677c70265bf04782d:Python/readme.md
 
 ### Roadmap
 
@@ -570,6 +574,7 @@ Automate repetitive tasks with Python using these useful resources.
         <td>Mosh Hamedani delivers Python tutorials focusing on practical programming skills, software development best practices, and tips for becoming a proficient Python developer.</td>
       </tr>
 </table>
+<<<<<<< HEAD:Programming Languages/Python/readme.md
 These channels provide excellent resources for learning Python programming, catering to learners of all levels with their diverse range of content and teaching styles.
 
 #### Python Projects
@@ -587,57 +592,57 @@ These channels provide excellent resources for learning Python programming, cate
   <tr>
     <td>Mad Libs Generator</td>
     <td>A classic game that tests your understanding of string manipulation and user input.</td>
-    <td><a href="https://pythongeeks.org/python-mad-libs-generator-project/">GeeksforGeeks Mad Libs Generator</a></td>
+    <td><a href="https://pythongeeks.org/python-mad-libs-generator-project/">Geeks for Geeks</a></td>
   </tr>
   <tr>
-    <td>Scientific Calculator</td>
-    <td>A scientific calculator which can perform majority of mathematic problems upto engineering level.</td>
-    <td><a href="https://www.geeksforgeeks.org/scientific-gui-calculator-using-tkinter-in-python/">GeeksforGeeks Calculator</a></td>
+    <td>Currency Converter</td>
+    <td>A simple application for converting between currencies. Introduces basic calculations and data types.</td>
+    <td><a href="https://www.scaler.com/topics/currency-converter-java-project/">Scaler Currency Converter</a></td>
   </tr>
   <tr>
-    <td>Snake Game</td>
-    <td>The main objective of the player is to catch the maximum number of fruits without hitting the wall or itself.</td>
-    <td><a href="https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/">GeeksforGeeks Number Snake Game</a></td>
+    <td>Number Guessing Game</td>
+    <td>A fun way to practice user interaction and conditional statements (if/else).</td>
+    <td><a href="https://www.geeksforgeeks.org/number-guessing-game-in-java/">GeeksforGeeks Number Guessing Game</a></td>
   </tr>
   <tr>
     <td>Text-Based Adventure Game</td>
     <td>Create a story where users make choices, introducing concepts like control flow and arrays.</td>
-    <td><a href="https://www.makeuseof.com/python-text-adventure-game-create/">MUO</a></td>
+    <td><a href="https://github.com/topics/ascii-art?l=java">GitHub ASCII Art</a></td>
   </tr>
   <tr>
     <td>Simple Text Editor</td>
     <td>Develop a basic text editor application that allows users to create, edit, and save text files.</td>
-    <td><a href="https://www.geeksforgeeks.org/build-a-basic-text-editor-using-tkinter-in-python">Simple Text Editor</a></td>
+    <td><a href="https://www.geeksforgeeks.org/java-swing-simple-text-editor/">Simple Text Editor in Java Swing</a></td>
   </tr>
   <tr>
     <td>Quiz Application</td>
     <td>Create a quiz application where users can answer multiple-choice questions and receive feedback on their performance.</td>
-    <td><a href="https://realpython.com/python-quiz-application/">Quiz Application </a></td>
+    <td><a href="https://www.codejava.net/java-se/swing/create-simple-quiz-game-in-java-swing">Quiz Application in Java Swing</a></td>
   </tr>
   <tr>
     <td>Library Management System</td>
     <td>Build a library management system allowing librarians to manage books, borrowers, and transactions.</td>
-    <td><a href="https://pythongeeks.org/python-library-management-system-project/">Library Management System </a></td>
+    <td><a href="https://www.javatpoint.com/library-management-system-in-java">Library Management System in Java</a></td>
   </tr>
   <tr>
     <td>Weather Application</td>
     <td>Develop a simple weather application that retrieves and displays weather information based on user input or location.</td>
-    <td><a href="https://www.askpython.com/python/examples/gui-weather-app-in-python">Weather Application Tutorial</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLTl9hO2QlndidemKAsveFe5a1mqxS7lXQ">Java Weather Application Tutorial</a></td>
   </tr>
     <tr>
     <td>Hangman Game</td>
     <td>Implement the classic Hangman game where players guess letters to reveal a hidden word before running out of attempts.</td>
-    <td><a href="https://realpython.com/python-hangman/">Hangman Game</a></td>
+    <td><a href="https://www.geeksforgeeks.org/java-program-for-hangman-game/">Hangman Game in Java</a></td>
   </tr>
   <tr>
     <td>Address Book</td>
     <td>Develop a basic address book application to manage contacts, including features like adding new contacts, searching, and deleting.</td>
-    <td><a href="https://pythongeeks.org/python-contact-address-book-project/">Address Book</a></td>
+    <td><a href="https://www.geeksforgeeks.org/address-book-in-java/">Address Book in Java</a></td>
   </tr>
   <tr>
     <td>Temperature Converter</td>
     <td>Build a program that converts temperatures between Celsius and Fahrenheit scales based on user input.</td>
-    <td><a href="https://www.freecodecamp.org/news/temperature-converter-calculator-with-python">Program to Convert Temperature</a></td>
+    <td><a href="https://www.javatpoint.com/java-program-to-convert-temperature-celsius-to-fahrenheit">Java Program to Convert Temperature</a></td>
   </tr>
 </table>
 
@@ -653,42 +658,47 @@ These channels provide excellent resources for learning Python programming, cate
   <tr>
     <td>To-Do List App</td>
     <td>A practical application for managing tasks. Introduces data structures (lists) and persistence (saving data).</td>
-    <td><a href="https://www.youtube.com/watch?v=izQGdZvRs7I&t=14s">To-Do List App YouTube Tutorial</a></td>
+    <td><a href="https://m.youtube.com/watch?v=Hvuij8SOW8Q">To-Do List App YouTube Tutorial</a></td>
   </tr>
   <tr>
-    <td>Alarm Clock</td>
-    <td>Python program to simulate a digital alarm clock with user-set wake up time.</td>
-    <td><a href="https://www.youtube.com/watch?v=no5dz0GOWy8">Alarm Clock YouTube Tutorial</a></td>
+    <td>Contact List App</td>
+    <td>Build a simple address book application. Introduces object-oriented programming (OOP) concepts like classes and objects.</td>
+    <td><a href="https://docs.oracle.com/cd/E19798-01/821-1841/gkanq/index.html">Contact List App Documentation</a></td>
+  </tr>
+  <tr>
+    <td>Quiz Application</td>
+    <td>Create a multiple-choice quiz with scoring and user feedback. Practices user interaction and data structures like maps.</td>
+    <td><a href="https://www.tutorialspoint.com/java/java_online_quiz.htm">Java Online Quiz Tutorial</a></td>
   </tr>
   <tr>
     <td>Tic-Tac-Toe Game</td>
-    <td>Develop a two-player Tic-Tac-Toe game with a graphical interface (GUI) . Teaches GUI development and game logic.</td>
-    <td><a href="https://www.youtube.com/watch?v=dK6gJw4-NCo">Tic-Tac-Toe Game YouTube Tutorial</a></td>
+    <td>Develop a two-player Tic-Tac-Toe game with a graphical interface (GUI) using Java Swing. Teaches GUI development and game logic.</td>
+    <td><a href="https://m.youtube.com/watch?v=YMeVSoNumAg">Tic-Tac-Toe Game YouTube Tutorial</a></td>
   </tr>
   <tr>
     <td>Library Management System</td>
     <td>Develop a system for managing library operations such as book borrowing, returning, and inventory management.</td>
-    <td><a href="https://pythongeeks.org/python-library-management-system-project/#google_vignette">Library Management System Tutorial</a></td>
+    <td><a href="https://www.javatpoint.com/library-management-system">Library Management System Tutorial</a></td>
   </tr>
   <tr>
     <td>Online Shopping System</td>
     <td>Build an e-commerce platform with features like product browsing, shopping cart, and order processing.</td>
-    <td><a href="https://www.geeksforgeeks.org/e-commerce-website-using-django/">Online Shopping Project using Django</a></td>
+    <td><a href="https://www.java2blog.com/online-shopping-project-java/">Online Shopping Project in Java Tutorial</a></td>
   </tr>
   <tr>
     <td>Banking Management System</td>
     <td>Develop a comprehensive banking system including account management, transaction processing, and reporting.</td>
-    <td><a href="https://pythonscholar.com/python-projects/bank-management-system-project-in-python">Banking Management System Tutorial</a></td>
+    <td><a href="https://www.javatpoint.com/banking-management-system">Banking Management System Tutorial</a></td>
   </tr>
   <tr>
     <td>Hotel Management System</td>
     <td>Create a system for managing hotel operations such as room booking, guest check-in/out, and billing.</td>
-    <td><a href="https://www.geeksforgeeks.org/hotel-management-project-in-python/">Hotel Management System</a></td>
+    <td><a href="https://www.javatpoint.com/hotel-management-system">Hotel Management System Tutorial</a></td>
   </tr>
   <tr>
     <td>Inventory Management System</td>
     <td>Build a system for tracking inventory levels, orders, sales, and deliveries for a business.</td>
-    <td><a href="https://www.geeksforgeeks.org/inventory-management-with-json-in-python/">Inventory Management System using JSON</a></td>
+    <td><a href="https://www.javatpoint.com/inventory-management-system">Inventory Management System Tutorial</a></td>
   </tr>
   
 </table>
@@ -704,46 +714,84 @@ These channels provide excellent resources for learning Python programming, cate
   <tr>
     <td>E-commerce Website</td>
     <td>Build a basic online store with functionalities like product listings, shopping cart, and user authentication (requires a database).</td>
-    <td><a href="https://www.youtube.com/watch?v=Yg5zkd9nm6w&t=1s">E-commerce Website Tutorial</a></td>
+    <td><a href="https://www.youtube.com/watch?v=U5TdEJnJU88">E-commerce Website Tutorial</a></td>
   </tr>
   <tr>
     <td>Music Player Application</td>
     <td>Develop a music player that reads and plays audio files. Introduces working with external libraries and file handling.</td>
-    <td><a href="https://pythongeeks.org/python-music-player/">MediaPlayer Class Example</a></td>
+    <td><a href="https://www.tabnine.com/code/java/classes/uk.co.caprica.vlcj.player.MediaPlayer">MediaPlayer Class Example</a></td>
   </tr>
   <tr>
     <td>Data Visualization Tool</td>
-    <td>Create a program that reads data from a file and displays it visually using charts and graphs. Teaches working with data sets and libraries .</td>
-    <td><a href="https://www.geeksforgeeks.org/data-visualization-with-python/">GeeksforGeeks</a></td>
+    <td>Create a program that reads data from a file and displays it visually using charts and graphs. Teaches working with data sets and libraries like JavaFX.</td>
+    <td><a href="https://www.baeldung.com/">Baeldung Java Tutorials</a></td>
   </tr>
   <tr>
     <td>Simple Chat Application</td>
     <td>Build a basic chat application for real-time communication between users. Introduces networking concepts and libraries like sockets.</td>
-    <td><a href="https://www.geeksforgeeks.org/gui-chat-application-using-tkinter-in-python/">Creating a Chat Server </a></td>
+    <td><a href="https://www.instructables.com/Creating-a-Chat-Server-Using-Java/">Creating a Chat Server Using Java</a></td>
   </tr>
   <tr>
-    <td>ChatBot</td>
-    <td> Python program to build an interactive chatbot for conversation or task automation.</td>
-    <td><a href="https://realpython.com/build-a-chatbot-python-chatterbot/">ChatBot 
+    <td>Loan Approver</td>
+    <td> JAVA Spring Boot based machine learning Loan Approver Application As A Service.</td>
+    <td><a href="https://github.com/mgorav/SmartLoadApproverAsServiceUsingMachineLearning">Loan approval GitHub
   <tr>
     <td>Real-time Analytics Dashboard</td>
     <td>This is a real-time analytics dashboard app using Spring Boot and Web Socket..</td>
-    <td><a href="https://www.geeksforgeeks.org/real-time-translation-app-using-python/">Real-time Analytics Dashboard</a></td>
+    <td><a href="https://github.com/accavdar/mc-dashboard">Real-time Analytics Dashboard GitHub</a></td>
   </tr>
   <tr>
     <td>Blockchain Implementation</td>
-    <td>Implement a basic blockchain system in Python, covering concepts like distributed ledger, mining, consensus algorithms, and smart contracts.</td>
-    <td><a href="https://github.com/topics/python-blockchain">Blockchain</a></td>
+    <td>Implement a basic blockchain system in Java, covering concepts like distributed ledger, mining, consensus algorithms, and smart contracts.</td>
+    <td><a href="https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa">Blockchain Tutorial in Java</a></td>
   </tr>
   <tr>
     <td>Cointrader</td>
-    <td>Coin Trader is a Python-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
-    <td><a href="https://cointrader.readthedocs.io/en/latest/_modules/cointrader/chart.html">Cointrader Documentation in Python </a></td>
+    <td>Coin Trader is a Java-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
+    <td><a href="https://medium.com/automation-generation/build-an-automated-stock-trading-system-in-java-bfb5b739eb6f">Cointrader using Javva </a></td>
   </tr>
   <tr>
     <td>Network Security Toolkit</td>
     <td>Develop a toolkit for network security analysis and penetration testing, implementing various algorithms and techniques for network scanning, vulnerability assessment, and intrusion detection.</td>
-    <td><a href="https://github.com/SAMi-Rn/Network_Security_Toolkit">Python-security-toolkit</a></td>
+    <td><a href="https://github.com/pixee/java-security-toolkit">Java-security-toolkit</a></td>
   </tr>
 </table>
 
+=======
+
+### YouTube Playlist
+
+> YThese YouTube Playlists helps you to learn python in a structured way:
+
+<table width="100%">
+      <tr>
+        <th>Channel Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL9ooVrP1hQOE4KoZLUP4LgBwFH2IJCQs6">Python Full Course </a></td>
+        <td>This playlist by Edureka helps you Master Python programming , and tailored for all skill levels, this series starts with the fundamentals and gradually introduces more complex topics, ensuring a solid understanding of Python.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3">Python for Beginners</a></td>
+        <td>This playlist by Telusko helps you understand python very easily and this playlist is curated series for those who are new to coding, providing step-by-step guidance through the essentials of Python. You'll start with the basics, like installation and syntax, and gradually progress to more complex topics such as data types, control structures, functions, modules and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp">Python Right now</a></td>
+        <td>This youbute playlist by NetworkChuck gives you the best way to learning python in the most funniest way, this playlist gives you the clear explaination for python Beginners.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB">Python Tutorials - Freecodecamp</a></td>
+        <td>This playlist by Freecodecamp is a comprehensive series for those who are new to coding,this playlist provides a thorough introduction to not only Python but also Django,Flask and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU">Python Tutorials</a></td>
+        <td>This youtube playlist by Corey Schafer is ideal for both beginners and those looking to deepen their understanding of Python.This playlist will give you the brief introducation to Python frameworks like Django, flask and modules like Pandas, numpy and more.</td>
+      </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg">Python for Beginners (Full Course)-CodeWithHarry</a></td>
+        <td>This Python tutorial for absolute beginners in the Hindi series will focus on teaching you Python concepts from the ground up to an advanced level. This video series starts with Python basics and then moves toward advanced Python. Python concepts are taught in depth with exercises and handwritten notes.
+         </td>
+      </tr>
+</table>
+>>>>>>> 591c3892f320cc343b2af46677c70265bf04782d:Python/readme.md
