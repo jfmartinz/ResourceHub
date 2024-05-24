@@ -602,46 +602,46 @@ These channels provide excellent resources for learning Python programming, cate
   <tr>
     <td>Text-Based Adventure Game</td>
     <td>Create a story where users make choices, introducing concepts like control flow and arrays.</td>
-    <td><a href="https://github.com/topics/ascii-art?l=java">GitHub ASCII Art</a></td>
+    <td><a href="https://www.makeuseof.com/python-text-adventure-game-create/">MUO</a></td>
   </tr>
   <tr>
     <td>Simple Text Editor</td>
     <td>Develop a basic text editor application that allows users to create, edit, and save text files.</td>
-    <td><a href="https://www.geeksforgeeks.org/java-swing-simple-text-editor/">Simple Text Editor in Java Swing</a></td>
+    <td><a href="https://www.geeksforgeeks.org/build-a-basic-text-editor-using-tkinter-in-python">Simple Text Editor</a></td>
   </tr>
   <tr>
     <td>Quiz Application</td>
     <td>Create a quiz application where users can answer multiple-choice questions and receive feedback on their performance.</td>
-    <td><a href="https://www.codejava.net/java-se/swing/create-simple-quiz-game-in-java-swing">Quiz Application in Java Swing</a></td>
+    <td><a href="https://realpython.com/python-quiz-application/">Quiz Application </a></td>
   </tr>
   <tr>
     <td>Library Management System</td>
     <td>Build a library management system allowing librarians to manage books, borrowers, and transactions.</td>
-    <td><a href="https://www.javatpoint.com/library-management-system-in-java">Library Management System in Java</a></td>
+    <td><a href="https://pythongeeks.org/python-library-management-system-project/">Library Management System </a></td>
   </tr>
   <tr>
     <td>Weather Application</td>
     <td>Develop a simple weather application that retrieves and displays weather information based on user input or location.</td>
-    <td><a href="https://www.youtube.com/playlist?list=PLTl9hO2QlndidemKAsveFe5a1mqxS7lXQ">Java Weather Application Tutorial</a></td>
+    <td><a href="https://www.askpython.com/python/examples/gui-weather-app-in-python">Weather Application Tutorial</a></td>
   </tr>
     <tr>
     <td>Hangman Game</td>
     <td>Implement the classic Hangman game where players guess letters to reveal a hidden word before running out of attempts.</td>
-    <td><a href="https://www.geeksforgeeks.org/java-program-for-hangman-game/">Hangman Game in Java</a></td>
+    <td><a href="https://realpython.com/python-hangman/">Hangman Game</a></td>
   </tr>
   <tr>
     <td>Address Book</td>
     <td>Develop a basic address book application to manage contacts, including features like adding new contacts, searching, and deleting.</td>
-    <td><a href="https://www.geeksforgeeks.org/address-book-in-java/">Address Book in Java</a></td>
+    <td><a href="https://pythongeeks.org/python-contact-address-book-project/">Address Book</a></td>
   </tr>
   <tr>
     <td>Temperature Converter</td>
     <td>Build a program that converts temperatures between Celsius and Fahrenheit scales based on user input.</td>
-    <td><a href="https://www.javatpoint.com/java-program-to-convert-temperature-celsius-to-fahrenheit">Java Program to Convert Temperature</a></td>
+    <td><a href="https://www.freecodecamp.org/news/temperature-converter-calculator-with-python">Program to Convert Temperature</a></td>
   </tr>
 </table>
 
-<!-->
+
 ### Intermediate Level Projects
 
 <table>
@@ -653,51 +653,47 @@ These channels provide excellent resources for learning Python programming, cate
   <tr>
     <td>To-Do List App</td>
     <td>A practical application for managing tasks. Introduces data structures (lists) and persistence (saving data).</td>
-    <td><a href="https://m.youtube.com/watch?v=Hvuij8SOW8Q">To-Do List App YouTube Tutorial</a></td>
+    <td><a href="https://www.youtube.com/watch?v=izQGdZvRs7I&t=14s">To-Do List App YouTube Tutorial</a></td>
   </tr>
   <tr>
-    <td>Contact List App</td>
-    <td>Build a simple address book application. Introduces object-oriented programming (OOP) concepts like classes and objects.</td>
-    <td><a href="https://docs.oracle.com/cd/E19798-01/821-1841/gkanq/index.html">Contact List App Documentation</a></td>
-  </tr>
-  <tr>
-    <td>Quiz Application</td>
-    <td>Create a multiple-choice quiz with scoring and user feedback. Practices user interaction and data structures like maps.</td>
-    <td><a href="https://www.tutorialspoint.com/java/java_online_quiz.htm">Java Online Quiz Tutorial</a></td>
+    <td>Alarm Clock</td>
+    <td>Python program to simulate a digital alarm clock with user-set wake up time.</td>
+    <td><a href="https://www.youtube.com/watch?v=no5dz0GOWy8">Alarm Clock YouTube Tutorial</a></td>
   </tr>
   <tr>
     <td>Tic-Tac-Toe Game</td>
-    <td>Develop a two-player Tic-Tac-Toe game with a graphical interface (GUI) using Java Swing. Teaches GUI development and game logic.</td>
-    <td><a href="https://m.youtube.com/watch?v=YMeVSoNumAg">Tic-Tac-Toe Game YouTube Tutorial</a></td>
+    <td>Develop a two-player Tic-Tac-Toe game with a graphical interface (GUI) . Teaches GUI development and game logic.</td>
+    <td><a href="https://www.youtube.com/watch?v=dK6gJw4-NCo">Tic-Tac-Toe Game YouTube Tutorial</a></td>
   </tr>
   <tr>
     <td>Library Management System</td>
     <td>Develop a system for managing library operations such as book borrowing, returning, and inventory management.</td>
-    <td><a href="https://www.javatpoint.com/library-management-system">Library Management System Tutorial</a></td>
+    <td><a href="https://pythongeeks.org/python-library-management-system-project/#google_vignette">Library Management System Tutorial</a></td>
   </tr>
   <tr>
     <td>Online Shopping System</td>
     <td>Build an e-commerce platform with features like product browsing, shopping cart, and order processing.</td>
-    <td><a href="https://www.java2blog.com/online-shopping-project-java/">Online Shopping Project in Java Tutorial</a></td>
+    <td><a href="https://www.geeksforgeeks.org/e-commerce-website-using-django/">Online Shopping Project using Django</a></td>
   </tr>
   <tr>
     <td>Banking Management System</td>
     <td>Develop a comprehensive banking system including account management, transaction processing, and reporting.</td>
-    <td><a href="https://www.javatpoint.com/banking-management-system">Banking Management System Tutorial</a></td>
+    <td><a href="https://pythonscholar.com/python-projects/bank-management-system-project-in-python">Banking Management System Tutorial</a></td>
   </tr>
   <tr>
     <td>Hotel Management System</td>
     <td>Create a system for managing hotel operations such as room booking, guest check-in/out, and billing.</td>
-    <td><a href="https://www.javatpoint.com/hotel-management-system">Hotel Management System Tutorial</a></td>
+    <td><a href="https://www.geeksforgeeks.org/hotel-management-project-in-python/">Hotel Management System</a></td>
   </tr>
   <tr>
     <td>Inventory Management System</td>
     <td>Build a system for tracking inventory levels, orders, sales, and deliveries for a business.</td>
-    <td><a href="https://www.javatpoint.com/inventory-management-system">Inventory Management System Tutorial</a></td>
+    <td><a href="https://www.geeksforgeeks.org/inventory-management-with-json-in-python/">Inventory Management System using JSON</a></td>
   </tr>
   
 </table>
 
+<!--
 ### Advance Level Projects
 
 <table>
