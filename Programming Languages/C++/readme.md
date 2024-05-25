@@ -123,7 +123,6 @@ This section is a curated collection of valuable C++ resources for absolute begi
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>

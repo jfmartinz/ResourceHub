@@ -424,10 +424,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <th>Description</th>
       </tr>
        <tr>
-        <td> <a href = "https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/"> </a> Freecodecamp</td>
+        <td> <a href = "https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/"> Freecodecamp</a> </td>
         <td> Learn Python from scratch to advanced proficiency with hands-on exercises and real-world projects in this comprehensive course.</td>
       </tr>
-        <td> <a href = "https://www.codecademy.com/learn/learn-python-3"> </a>Codecademy</td>
+        <td> <a href = "https://www.codecademy.com/learn/learn-python-3"> Codecademy</a></td>
         <td>Learn Python 3 fundamentals and syntax through interactive lessons and projects on Codecademy's platform.</td>
       </tr>
      
