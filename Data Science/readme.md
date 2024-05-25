@@ -7,8 +7,9 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 - [Roadmap](#Roadmap)<br>
 - [Tools](#tools)<br>
 - [Technologies](#technologies)<br>
-- [Free Courses](#free-courses)<br>
-- [Paid Courses](#paid-courses)<br>
+- [Courses](#courses)<br>
+   - [Free Cources](#free-courses)<br>
+   - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [Resources for Finding Datasets](#resources-for-finding-datasets)<br>
@@ -36,7 +37,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 
 <table width="100%">
       <tr>
-        <th>Tool</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -104,7 +105,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       </tr>
       <tr>
         <td> <a href="https://www.tableau.com/">Tableau  </a></td>
-        <td> Tableau is a powerful data visualization tool that helps in transforming raw data into interactive and shareable dashboards, facilitating deeper insights through graphical representations.
+        <td> Tableau is a powerful data visualization tool that helps transform raw data into interactive and shareable dashboards, facilitating deeper insights through graphical representations.
         </td>
       </tr>
       <tr>
@@ -130,7 +131,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 
 <table width="100%">
       <tr>
-        <th>Technology</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -139,7 +140,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       </tr>
       <tr>
         <td> <a href="https://www.geeksforgeeks.org/machine-learning/">Machine Learning </a></td>
-        <td>Subset of AI, algorithms enable systems to learn from data, recognize patterns, make decisions without explicit instructions.</td>
+        <td>Subset of AI, algorithms enable systems to learn from data, recognize patterns, and make decisions without explicit instructions.</td>
       </tr>
       <tr>
         <td> <a href="https://careersonair.withgoogle.com/events/data-structure-series">Data Structures and Algorithms </a></td>
@@ -147,7 +148,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       </tr>
       <tr>
         <td> <a href="https://www.udemy.com/course/deeplearning/?matchtype=b&msclkid=43f9068978e717f4cced60cf5620fe96&utm_campaign=BG-Python_v.PROF_la.EN_cc.INDIA_ti.7380&utm_content=deal4584&utm_medium=udemyads&utm_source=bing&utm_term=_._ag_1212761738059125_._ad__._kw_%2BPython+%2Bdeep+%2BTraining_._de_c_._dm__._pl__._ti_kwd-75797920897271%3Aloc-90_._li_154938_._pd__._">Deep Learning </a></td>
-        <td> Subset of ML, mimics human brain's neural networks, capable of processing vast amounts of unstructured data for complex tasks.</td>
+        <td> Subset of ML, mimics the human brain's neural networks, capable of processing vast amounts of unstructured data for complex tasks.</td>
       </tr>
       <tr>
         <td> <a href="https://youtu.be/X2vAabgKiuM?si=ppqTTm_mui7aOtdT">Natural Language Processing and Recommender systems </a></td>
@@ -156,13 +157,13 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
      
   </table>
 
-  ### Free Courses
-
-> You can consider these free courses for learning Data Science:
+  ### Courses
+  > You can consider these courses for learning Data Science:
+  #### Free Courses
 
 <table width="100%">
       <tr>
-        <th>Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -174,16 +175,14 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       </tr>
      <tr>
      <td> <a href="https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&si=L7jPIALUtbxqz46H">YouTube - Data Analyst Bootcamp by Alex The Analyst </a></td>
-     <td> A Complete Step by Step Guided playlist for Data Analytics, consisting of all Analytical tools like MS Excel, Power BI, Tableau, Python etc. </td>
+     <td> A Complete step-by-step guided playlist for Data Analytics, consisting of all Analytical tools like MS Excel, Power BI, Tableau, Python etc. </td>
   </table>
 
-  ### Paid Courses
-
-> You can consider these paid courses for learning Data Science:
+  #### Paid Courses
 
 <table width="100%">
       <tr>
-        <th>Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -197,11 +196,11 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 
 ### Books
 
-> You can refer these books on Data Science. They are listed below:
+> You can refer to these books on Data Science. They are listed below:
 
 <table width="100%">
       <tr>
-        <th>Book</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -210,7 +209,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       </tr>
       <tr>
         <td> <a href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</a></td>
-        <td>Covers practical machine learning techniques using popular Python libraries like Scikit-Learn, Keras, and TensorFlow. </td>
+        <td>Covers practical machine-learning techniques using popular Python libraries like Scikit-Learn, Keras, and TensorFlow. </td>
       </tr>
       <tr>
         <td> <a href="https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/">Data Science for Business" by Foster Provost and Tom Fawcett</a></td>
@@ -232,7 +231,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 
 <table width="100%">
       <tr>
-        <th>Channel Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -257,17 +256,17 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       <td> This Channel offers  complete tutorials of Various Analytical tools like MS Excel, Power BI, Tableau along with their applications, Project building.</td>
       </tr>
       <td> <a href="https://www.youtube.com/@careerfoundry/featured"> Career Foundry</a></td>
-      <td> Covers the entire portion of Data Science along with their application, projects, development. </td>
+      <td> Covers the entire portion of Data Science along with their application, projects, and development. </td>
       </tr>
   </table>
 
 ### Resources for Finding Datasets
 
-> These are valuable resources to find datasets for data science projects. They are listed below:
+> These are valuable resources for finding datasets for data science projects. They are listed below:
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -321,7 +320,7 @@ Platforms and resources for participating in Data Science competitions to practi
 
 <table width="100%">
   <tr>
-    <th>Platform</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -359,7 +358,7 @@ Platforms and resources for participating in Data Science competitions to practi
 
 <table width="100%">
    <tr>
-    <th>Community</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -376,7 +375,7 @@ Platforms and resources for participating in Data Science competitions to practi
   </tr>
   <tr>
     <td> <a href="https://datascience.stackexchange.com/">Data Science Stack Exchange</a></td>
-    <td>Data Science Stack Exchange is a Q&A community for data science professionals, machine learning practitioners, and researchers. Users can ask and answer questions on a variety of topics including data analysis, statistical modeling, data mining, and algorithm development.</td>
+    <td>Data Science Stack Exchange is a Q&A community for data science professionals, machine learning practitioners, and researchers. Users can ask and answer questions on a variety of topics including data analysis, statistical modelling, data mining, and algorithm development.</td>
   </tr>
   <tr>
     <td> <a href="https://towardsdatascience.com/">Towards Data Science</a></td>
@@ -392,7 +391,7 @@ Platforms and resources for participating in Data Science competitions to practi
 
 <table width="100%">
   <tr>
-    <th>Community</th>
+          <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
