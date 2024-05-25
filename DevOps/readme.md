@@ -10,6 +10,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 - [Communities](#communities)
 - [Books](#books)
 - [Tools](#tools)
+- [GitHub Repositories](#github-repositories)
 
 ### Roadmap
 
@@ -315,4 +316,49 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
         <td>Puppet is a configuration management tool used for automating infrastructure deployment and configuration. It provides a model-driven approach for managing infrastructure, ensuring consistency and compliance across environment</td>
       </tr>
       
+</table>
+
+### GitHub Repositories
+
+<table width="100%">
+    <tr>
+        <th>Resource</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/docker/awesome-compose">Awesome Compose</a></td>
+        <td>A curated list of Docker Compose samples. This repository is perfect for beginners to understand how to set up different environments using Docker Compose.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/microsoft/IoT-For-Beginners">IoT For Beginners</a></td>
+        <td>A comprehensive curriculum with lessons and projects for learning the basics of IoT (Internet of Things) and cloud development, suitable for beginners entering the DevOps field.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/kamranahmedse/developer-roadmap">Developer Roadmap</a></td>
+        <td>Provides a roadmap for developers, including paths for becoming a DevOps engineer. It is a great resource for beginners to understand the skills and tools needed in DevOps.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jlevy/the-art-of-command-line">The Art of Command Line</a></td>
+        <td>This repository offers a collection of command-line tips and tricks, which are crucial for intermediate DevOps practitioners to enhance their productivity and efficiency.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/earthly/awesome-earthly">Awesome Earthly</a></td>
+        <td>A curated list of resources about Earthly, a build automation tool that simplifies CI/CD pipelines. Suitable for intermediate DevOps engineers looking to streamline their build processes.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/open-guides/og-aws">Open Guide to AWS</a></td>
+        <td>A comprehensive guide to using Amazon Web Services (AWS), covering best practices, tips, and tools. Ideal for intermediate DevOps professionals working with AWS.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sindresorhus/awesome">Awesome</a></td>
+        <td>A curated list of awesome lists on various topics, including programming languages, frameworks, and software development tools. A valuable resource for finding high-quality materials on numerous subjects.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/kelseyhightower/kubernetes-the-hard-way">Kubernetes the Hard Way</a></td>
+        <td>This repository provides a tutorial on setting up Kubernetes from scratch. It's intended for advanced users who want to deeply understand Kubernetes internals.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mhausenblas/mkdocs-deploy-gh-pages">mkdocs-deploy-gh-pages</a></td>
+        <td>Offers resources for deploying documentation to GitHub Pages using MkDocs, tailored for advanced DevOps professionals focusing on automated documentation workflows.</td>
+    </tr>
 </table>
