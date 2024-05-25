@@ -576,9 +576,10 @@ Automate repetitive tasks with Python using these useful resources.
       </tr>
 </table>
 These channels provide excellent resources for learning Python programming, catering to learners of all levels with their diverse range of content and teaching styles.
-<head>
 
-#### Python Projects
+
+# Python Projects
+
 > Python Projects which can help you to enhance your development skills and build your resumes.
 
 ### Beginner Level Projects
