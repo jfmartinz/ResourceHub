@@ -88,7 +88,6 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
   </tr>
   <tr>
@@ -421,14 +420,14 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 <table width="100%">
       <tr>
-        <th>Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
-        <td> <a href = "https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/" </a> Freecodecamp</td>
+        <td> <a href = "https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/"> </a> Freecodecamp</td>
         <td> Learn Python from scratch to advanced proficiency with hands-on exercises and real-world projects in this comprehensive course.</td>
       </tr>
-        <td> <a href = "https://www.codecademy.com/learn/learn-python-3" </a>Codecademy</td>
+        <td> <a href = "https://www.codecademy.com/learn/learn-python-3"> </a>Codecademy</td>
         <td>Learn Python 3 fundamentals and syntax through interactive lessons and projects on Codecademy's platform.</td>
       </tr>
      
@@ -440,7 +439,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 <table width="100%">
       <tr>
-        <th>Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -489,7 +488,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 <table width="100%">
       <tr>
-        <th>Channel Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -516,7 +515,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 <table width="100%">
       <tr>
-        <th>Channel Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -529,17 +528,17 @@ Python supports multiple programming paradigms, including procedural, object-ori
       </tr>
       <tr>
         <td><a href="https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp">Python Right now</a></td>
-        <td>This youbute playlist by NetworkChuck gives you the best way to learning python in the most funniest way, this playlist gives you the clear explaination for python Beginners.</td>
+        <td>This youtube playlist by NetworkChuck gives you the best way to learn python in the most funniest way, this playlist gives you a clear explaination for Python beginners.</td>
       </tr>
       <tr>
         <td><a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB">Python Tutorials - Freecodecamp</a></td>
-        <td>This playlist by Freecodecamp is a comprehensive series for those who are new to coding,this playlist provides a thorough introduction to not only Python but also Django,Flask and more.</td>
+        <td>This playlist by Freecodecamp is a comprehensive series for those who are new to coding,this playlist provides a thorough introduction to not only Python but also Django, Flask and more.</td>
       </tr>
       <tr>
         <td><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU">Python Tutorials</a></td>
-        <td>This youtube playlist by Corey Schafer is ideal for both beginners and those looking to deepen their understanding of Python.This playlist will give you the brief introducation to Python frameworks like Django, flask and modules like Pandas, numpy and more.</td>
+        <td>This youtube playlist by Corey Schafer is ideal for both beginners and those looking to deepen their understanding of Python.This playlist will give you a brief introduction to Python frameworks like Django and Flask and modules like Pandas, numpy and more.</td>
       </tr>
-   <tr>
+ <tr>
     <td><a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg">Python for Beginners (Full Course)-CodeWithHarry</a></td>
         <td>This Python tutorial for absolute beginners in the Hindi series will focus on teaching you Python concepts from the ground up to an advanced level. This video series starts with Python basics and then moves toward advanced Python. Python concepts are taught in depth with exercises and handwritten notes.
          </td>

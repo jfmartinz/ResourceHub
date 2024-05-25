@@ -1289,9 +1289,13 @@ Writing to Files File Streams input and output operations in C++.</td>
       <tr>
     <td><a href="https://www.interviewbit.com/cpp-cheat-sheet/">C++ CheatSheet - InterviewBit</a></td>
     <td>Using this C++ cheat sheet, you can begin learning C++ quickly. From basic ideas like data types, loops, and functions to more complicated features like strings, pointers, algorithms, and more, everything you need is there at your fingertips.</td>
+    </tr>
+  <tr>
+    <td><a href="https://quickref.me/cpp.html">C++ CheatSheet - QuickRef.ME</a></td>
+    <td>A concise C++ CheatSheet covering essential syntax, data types, control structures, functions, OOP concepts, and standard libraries for quick access and review. 
+    </td>  
   </tr>
 </table>
-
 
 ## Conclusion
 

@@ -207,7 +207,7 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### Arrays in C
+#### Arrays in C
 
 
 <table>
@@ -329,7 +329,7 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### File Management
+#### File Management
 
 <table>
   <tr>
@@ -410,9 +410,10 @@ This section serves as a curated collection of valuable resources for learning a
 ### C Projects
 > Here are some great ideas for projects in C from beginner level to the advance level.
 
+### Beginner level projects
    <table>
         <tr>
-            <th>Project</th>
+            <th>Resource Name</th>
             <th>Description</th>
         </tr>
         <tr>
@@ -453,8 +454,7 @@ This section serves as a curated collection of valuable resources for learning a
         </tr>
     </table>
 
-### Intermediate Level Projects
-> Here are some Intermediate level projects in C to level up and polish your skills,
+#### Intermediate Level Projects
     
 <table width="100%">
         <tr>
@@ -501,7 +501,7 @@ This section serves as a curated collection of valuable resources for learning a
 
 <table>
         <tr>
-            <th>Project</th>
+            <th>Resource Name</th>
             <th>Description</th>
         </tr>
         <tr>
@@ -535,10 +535,10 @@ This section serves as a curated collection of valuable resources for learning a
     </table>
 
 ### Youtube Channels
-> You can refer these youtube channels to learn and understand the concepts of C programming languages
+> You can refer to these YouTube channels to learn and understand the concepts of C programming languages
 <table>
         <tr>
-            <th>Channel</th>
+            <th>Resource Name</th>
             <th>Description</th>
         </tr>
         <tr>
@@ -666,7 +666,7 @@ This section serves as a curated collection of valuable resources for learning a
 
 <table>
         <tr>
-            <th>Book Title</th>
+            <th>Resource Name</th>
             <th>Description</th>
         </tr>
         <tr>
