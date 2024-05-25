@@ -896,7 +896,7 @@ Includes communities, forums, books, and other resources recommended by experien
 
 <table width="100%">
  <tr>
-   <th>Book</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
