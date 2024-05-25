@@ -1196,6 +1196,129 @@ Below are some essential resources to help you get started and deepen your under
   </tr>
 </table>
 
+### Courses
+
+> The following resources provide a variety of free and paid courses to help you learn TypeScript. Whether you are a beginner or an experienced developer, these courses cover everything from basic to advanced concepts, as well as practical applications of TypeScript.
+
+#### Free Courses
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://mva.microsoft.com/en-US/training-courses/angular-applications-with-typescript-14330">Angular Applications with TypeScript (Microsoft Virtual Academy)</a> </td>
+      <td>A course on building Angular applications with TypeScript by Microsoft Virtual Academy.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=OZxnFB0yQHs">AngularJS with TypeScript made easy (SSW TV)</a> </td>
+      <td>A YouTube video that simplifies the process of using TypeScript with AngularJS.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=I6ypD7qv3Z8">Full Stack React GraphQL TypeScript Tutorial - 14 hour course (YouTube)</a> </td>
+      <td>An extensive YouTube course covering full stack development with React, GraphQL, and TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=Ut694dsIa8w">Evolving JavaScript with TypeScript</a></td>
+      <td>A detailed introduction to TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=1TW9SdHIiXI">Why program in TypeScript?</a></td>
+      <td>An overview of TypeScript syntax and its benefits over JavaScript.</td>
+    </tr>
+    <tr>
+      <td><a href="https://skillcombo.com/topic/typescript/free">List of free online courses about TypeScript</a></td>
+      <td>A curated list of free online courses for learning TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo">Functional Programming with TypeScript</a></td>
+      <td>A YouTube playlist introducing functional programming with TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=l4QjeBEkNLc">Building CRM from scratch with TypeScript and Bun</a></td>
+      <td>A YouTube video on building a CRM system using TypeScript, Bun, and Tailwind.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Paid Courses
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.pluralsight.com/courses/typescript">TypeScript Fundamentals (Pluralsight)</a> </td>
+      <td>A comprehensive course on the fundamentals of TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.pluralsight.com/courses/typescript-practical-migration">Practical TypeScript Migration (Pluralsight)</a> </td>
+      <td>A course focused on migrating existing JavaScript projects to TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.pluralsight.com/courses/angular-typescript">Angular with TypeScript (Pluralsight)</a> </td>
+      <td>A course on using TypeScript with Angular to build robust applications.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.pluralsight.com/courses/using-typescript-large-angularjs-apps">Using TypeScript for Large AngularJS Applications (Pluralsight)</a> </td>
+      <td>A course tailored to using TypeScript in large AngularJS applications.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/application-development/introduction-typescript-video">Introduction to TypeScript (Packt)</a> </td>
+      <td>A video course introducing the basics of TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/web-development/mastering-typescript-video">Mastering TypeScript (Packt)</a> </td>
+      <td>An advanced course on mastering TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.udemy.com/typescript-the-complete-developers-guide/">TypeScript: The Complete Developer's Guide  (Udemy)</a></td>
+      <td>A comprehensive guide to TypeScript for developers.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.manning.com/livevideo/angular-for-java-developers-typescript/">Angular with TypeScript (Manning)</a> </td>
+      <td>A course focused on using TypeScript with Angular for Java developers.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.udemy.com/course/learn-typescript/">Mastering TypeScript - 2024 Edition (Udemy)</a> </td>
+      <td>An updated course on mastering TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href="https://skillcombo.com/topic/typescript/">List of paid online courses about TypeScript</a></td>
+      <td>A curated list of paid online courses for learning TypeScript.</td>
+    </tr>
+  </tbody>
+</table>
+
+### Coummunity and Support
+
+<table width="100%">
+  <tr>
+    <th>Resource</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://stackoverflow.com/questions/tagged/typescript">Stack Overflow</a></td>
+    <td>Get help and answers to your TypeScript questions from the Stack Overflow community.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/microsoft/TypeScript">TypeScript GitHub repository</a></td>
+    <td>Access the official TypeScript GitHub repository for filing issues, contributing, and accessing the latest updates.</td>
+  </tr>
+  <tr>
+    <td>Developer communities (<a href="https://discord.com/invite/typescript">Discord</a>, <a href="https://www.reddit.com/r/typescript/">Reddit</a>)</td>
+    <td>Join developer communities on Discord and Reddit dedicated to TypeScript for discussions, sharing resources, and getting support.</td>
+  </tr>
+</table>
+
 
 ## Conclusion
 
