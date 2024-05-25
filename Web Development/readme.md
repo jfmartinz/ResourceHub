@@ -16,7 +16,7 @@ This category is a curated collection of valuable web development resources cont
   - [Front-End Development](#front-end-development)
   - [Back-End Development](#backend-development)
   - [Full-Stack Development](#full-stack-development)
-  - [Deployment](#deployment)
+      - [Deployment](#deployment)
 
 - [Tools](#tools)<br>
   - [Typography](#typography)
