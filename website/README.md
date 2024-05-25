@@ -1,24 +1,37 @@
 <h2>How to use website</h2>
-
-
-1. Navigate to ResourceHub/website
 <br>
+
+1. Navigate to ResourceHub/website in the terminal
+<br>
+
 2. Go to terminal and run this command
 
 
 ```javascript 
 npm i cors axios express dotenv
 ```
-<br>
+
+
 3. Create a new .env file in the website directory
 <br>
-4. Go to the .env file and create a variable  called GITHUB_TOKEN
-example usage
-<br>
-GITHUB_TOKEN=YOUR_API_KEY
-<br>
-5. Replace the YOUR_API_KEY with your Github Api key
 
+4. Go to the .env file and create a variable  called GITHUB_TOKEN
+<br>
+example usage
+
+```
+
+GITHUB_TOKEN=YOUR_API_KEY
+```
+<br>
+
+
+6. Replace the YOUR_API_KEY with your Github Api key
+
+7. Start the server by typing the following command in the terminal
+   ```javascript 
+          node server.js
+   ```
 
 <br>
 <h2>how to obtain github api key from github--></h2>
