@@ -466,35 +466,35 @@ This section serves as a curated collection of valuable resources for learning a
             <th>Description</th>    
         </tr>
         <tr>
-            <td><a href="https://www.youtube.com/watch?v=_7Q-zc1w_mQ">Snake Game <hr> YouTube Tutorial (CS Dojo)</a><hr><a href="https://github.com/topics/snake-game-in-c">GitHub Repository (Basic implementation)</a></td>
+            <td><a href="https://www.youtube.com/watch?v=_7Q-zc1w_mQ">Snake Game - YouTube Tutorial (CS Dojo)</a><br><a href="https://github.com/topics/snake-game-in-c">GitHub Repository (Basic implementation)</a></td>
             <td>A classic game where a snake moves around the screen eating food and avoiding obstacles.</td>
         </tr>
         <tr>
-            <td><a href="https://m.youtube.com/watch?v=j1mDa-6f-e8">Tetris <hr> YouTube Tutorial (The Coding Train)</a><hr><a href="https://codereview.stackexchange.com/questions/136406/tetris-in-c-in-200-lines">Website with C Code Example (Cuplikan)</a></td>
+            <td><a href="https://m.youtube.com/watch?v=j1mDa-6f-e8">Tetris - YouTube Tutorial (The Coding Train)</a><br><a href="https://codereview.stackexchange.com/questions/136406/tetris-in-c-in-200-lines">Website with C Code Example (Cuplikan)</a></td>
             <td>A challenging puzzle game where players fit falling Tetriminos (geometric shapes) together.</td>   
         </tr>
         <tr>
-            <td><a href="https://www.nesoacademy.org/pl/02-c-programming">Traffic Light Simulator <hr> Blog with C Code Example (Neso Academy)</a><hr><a href="https://www.geeksforgeeks.org/project-idea-traffic-signal-control-automatic/">Article with Explanation (GeeksforGeeks)</a></td>
+            <td><a href="https://www.nesoacademy.org/pl/02-c-programming">Traffic Light Simulator - Blog with C Code Example (Neso Academy)</a><br><a href="https://www.geeksforgeeks.org/project-idea-traffic-signal-control-automatic/">Article with Explanation (GeeksforGeeks)</a></td>
             <td>Simulate the traffic flow at an intersection with different light timings.</td>
         </tr>
         <tr>
-            <td><a href="https://m.youtube.com/watch?v=ovooX4sVSfs">Library Management System <hr> YouTube Tutorial (freeCodeCamp.org)</a><hr><a href="https://github.com/arpit456jain">GitHub Repository (Basic example with file handling)</a></td>
+            <td><a href="https://m.youtube.com/watch?v=ovooX4sVSfs">Library Management System - YouTube Tutorial (freeCodeCamp.org)</a><br><a href="https://github.com/arpit456jain">GitHub Repository (Basic example with file handling)</a></td>
             <td>Create a system to track books in a library, including adding, borrowing, and returning books.</td>
         </tr>
         <tr>
-            <td><a href="https://www.programiz.com/cpp-programming/examples"> Student Database System <hr> Website with C Code Example (Programiz)</a><hr><a href="https://www.javatpoint.com/student-record-system-in-c">Article with Explanation (TutorialsPoint)</a></td>
+            <td><a href="https://www.programiz.com/cpp-programming/examples"> Student Database System - Website with C Code Example (Programiz)</a><br><a href="https://www.javatpoint.com/student-record-system-in-c">Article with Explanation (TutorialsPoint)</a></td>
             <td>Develop a system to store and manage student information (grades, attendance, etc.).</td>
         </tr>
         <tr>
-            <td><a href="https://www.youtube.com/@TheCherno">Drawing Program<hr>YouTube Tutorial (The Cherno)</a><hr><a href="https://paroj.github.io/gltut/">Website with Code Example (Learn by Doing)</a></td>
+            <td><a href="https://www.youtube.com/@TheCherno">Drawing Program - YouTube Tutorial (The Cherno)</a><br><a href="https://paroj.github.io/gltut/">Website with Code Example (Learn by Doing)</a></td>
             <td>Build a drawing program progressively.</td>
         </tr>
         <tr>
-             <td><a href="https://medium.devleader.ca/generate-ascii-art-a-simple-how-to-in-c-1b3f53a972f0">ASCII Art Generator<hr>Blog with C Code Example (Medium)</a><hr><a href="https://github.com/topics/ascii-art-generator">GitHub Repository (More advanced example with image processing)</a></td>
+             <td><a href="https://medium.devleader.ca/generate-ascii-art-a-simple-how-to-in-c-1b3f53a972f0">ASCII Art Generator - Blog with C Code Example (Medium)</a><br><a href="https://github.com/topics/ascii-art-generator">GitHub Repository (More advanced example with image processing)</a></td>
             <td>Generate ASCII Art from Images in C.</td>
         </tr>
         <tr>
-            <td><a href="https://www.youtube.com/watch?v=TrR-suFO4to">Simple Text Editor<hr>YouTube Tutorial (freeCodeCamp.org)</a><hr><a href="https://www.programiz.com/c-programming/online-compiler/">Website with C Code (Programiz)</a></td>
+            <td><a href="https://www.youtube.com/watch?v=TrR-suFO4to">Simple Text Editor - YouTube Tutorial (freeCodeCamp.org)</a><br><a href="https://www.programiz.com/c-programming/online-compiler/">Website with C Code (Programiz)</a></td>
             <td>Implement basic text editing functionalities.</td>
         </tr>
         <tr>
