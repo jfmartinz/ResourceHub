@@ -29,7 +29,7 @@ Python development refers to creating applications, scripts, and software soluti
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
 
-### Roadmap
+## Roadmap
 
 > A Python development roadmap outlines the essential steps and skills needed to become proficient in Python programming.
 
@@ -46,10 +46,10 @@ Python development refers to creating applications, scripts, and software soluti
       </tr>
   </table>
 
- ### Tutorials
+ ## Tutorials
 Start your journey into Python programming with these essential tutorials covering basic syntax and concepts.
 
-#### Fundamentals
+### Fundamentals
 <table width="100%">
   <tr>
     <th>Topic</th>
@@ -98,7 +98,7 @@ Start your journey into Python programming with these essential tutorials coveri
   </tr>
 </table>
 
-#### Object-Oriented Programming (OOP)
+### Object-Oriented Programming (OOP)
 Object-Oriented Programming (OOP) concepts in Python with these tutorials covering classes, inheritance, polymorphism, encapsulation, and abstraction.
 
 <table width="100%">
@@ -139,7 +139,7 @@ Object-Oriented Programming (OOP) concepts in Python with these tutorials coveri
   </tr>
 </table>
 
-#### Core Python Libraries
+### Core Python Libraries
 Core Python Libraries with these tutorials covering strings, collections framework, exception handling, file handling, input/output (I/O), and multithreading.
 
 <table width="100%">
@@ -180,7 +180,7 @@ Core Python Libraries with these tutorials covering strings, collections framewo
   </tr>
 </table>
 
-#### Frameworks and Libraries
+### Frameworks and Libraries
 Enhance your Python development process with these popular frameworks and libraries.
 
 <table width="100%">
@@ -226,7 +226,7 @@ Enhance your Python development process with these popular frameworks and librar
   </tr>
 </table>
 
-#### Web Development with Flask
+### Web Development with Flask
 Learn web development with Flask through these comprehensive resources.
 
 <table width="100%">
@@ -252,7 +252,7 @@ Learn web development with Flask through these comprehensive resources.
   </tr>
 </table>
 
-#### Web Development with Django
+### Web Development with Django
 Master web development with Django through these detailed tutorials.
 
 <table width="100%">
@@ -278,7 +278,7 @@ Master web development with Django through these detailed tutorials.
   </tr>
 </table>
 
-#### Data Science and Machine Learning
+### Data Science and Machine Learning
 Explore data science and machine learning with Python through these essential resources.
 
 <table width="100%">
@@ -319,7 +319,7 @@ Explore data science and machine learning with Python through these essential re
   </tr>
 </table>
 
-#### Automation with Python
+### Automation with Python
 Automate repetitive tasks with Python using these useful resources.
 
 <table width="100%">
@@ -346,7 +346,7 @@ Automate repetitive tasks with Python using these useful resources.
 </table>
 
 
-### Tools
+## Tools
 
 >Discover a wide variety of tools essential for Python Development. They are listed below:
 
@@ -423,7 +423,7 @@ Automate repetitive tasks with Python using these useful resources.
       </tr>
   </table>
 
-### Technologies
+## Technologies
 
 > These are the technologies you can master to be a successful Python Developer. They are listed below:
 
@@ -475,7 +475,7 @@ Automate repetitive tasks with Python using these useful resources.
       </tr>
   </table>
 
-  ### Free Courses
+  ## Free Courses
 
 > You can consider these free courses for learning Python :
 
@@ -494,7 +494,7 @@ Automate repetitive tasks with Python using these useful resources.
      
   </table>
 
-  ### Paid Courses
+  ## Paid Courses
 
 > You can consider these paid courses for learning App Development:
 
@@ -516,7 +516,7 @@ Automate repetitive tasks with Python using these useful resources.
       </tr>
   </table>
 
-### Books
+## Books
 
 > You can refer these books on Python Development. They are listed below:
 
@@ -549,7 +549,7 @@ Automate repetitive tasks with Python using these useful resources.
   </table>
 <head>
 
-### YouTube Channels
+## YouTube Channels
 
 > You can consider these YouTube Channel for learning Python Development:
 
@@ -578,7 +578,7 @@ Automate repetitive tasks with Python using these useful resources.
 These channels provide excellent resources for learning Python programming, catering to learners of all levels with their diverse range of content and teaching styles.
 
 
-# Python Projects
+## Python Projects
 
 > Python Projects which can help you to enhance your development skills and build your resumes.
 
