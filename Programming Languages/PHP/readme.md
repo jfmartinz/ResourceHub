@@ -54,7 +54,7 @@ By leveraging PHP, developers can create secure, efficient, and scalable web app
 
 ### Roadmap
 
-The roadmap section will provide a structured learning path for mastering PHP. It will outline the sequence of topics and skills to be covered, from basic syntax and functions to advanced concepts like security and performance optimization. This roadmap is designed to guide learners through their PHP journey, ensuring a comprehensive understanding of the language and its applications.
+> The roadmap section will provide a structured learning path for mastering PHP. It will outline the sequence of topics and skills to be covered, from basic syntax and functions to advanced concepts like security and performance optimization. This roadmap is designed to guide learners through their PHP journey, ensuring a comprehensive understanding of the language and its applications.
 
 <table width="100%">
  <tr>
@@ -69,7 +69,7 @@ The roadmap section will provide a structured learning path for mastering PHP. I
 
 ## Tutorials
 
-The tutorials section will contain step-by-step guides and practical examples for learning PHP. It will cover a wide range of topics, starting with introductory material and progressing to more complex subjects. Tutorials will include code snippets, detailed explanations, and hands-on exercises to reinforce learning.
+> The tutorials section will contain step-by-step guides and practical examples for learning PHP. It will cover a wide range of topics, starting with introductory material and progressing to more complex subjects. Tutorials will include code snippets, detailed explanations, and hands-on exercises to reinforce learning.
 
 ### Introduction
 
@@ -315,7 +315,7 @@ The tutorials section will contain step-by-step guides and practical examples fo
 
 ## Tools and Development Environment
 
-This section will introduce the essential tools and development environments for PHP. It will cover the setup and configuration of local development servers, integrated development environments (IDEs), and online editors. This section aims to equip developers with the necessary tools to write, debug, and deploy PHP code effectively.
+> This section will introduce the essential tools and development environments for PHP. It will cover the setup and configuration of local development servers, integrated development environments (IDEs), and online editors. This section aims to equip developers with the necessary tools to write, debug, and deploy PHP code effectively.
 
 ### Setting Up PHP Environment
 
@@ -403,7 +403,7 @@ This section will introduce the essential tools and development environments for
 
 ## PHP Frameworks and Libraries
 
-The frameworks and libraries section will provide an overview of popular PHP frameworks such as Laravel, Symfony, and CodeIgniter. It will also introduce essential libraries that extend PHP's functionality. This section will help developers choose the right frameworks and libraries for their projects and understand how to integrate them into their development workflow.
+> The frameworks and libraries section will provide an overview of popular PHP frameworks such as Laravel, Symfony, and CodeIgniter. It will also introduce essential libraries that extend PHP's functionality. This section will help developers choose the right frameworks and libraries for their projects and understand how to integrate them into their development workflow.
 
 ### Popular PHP Frameworks
 
@@ -467,7 +467,7 @@ The frameworks and libraries section will provide an overview of popular PHP fra
 
 ## Advanced Topics
 
-This section will delve into advanced PHP topics, including object-oriented programming, design patterns, and performance optimization techniques. It will also cover topics like advanced error handling, security best practices, and API development. This section is intended for developers who have a solid grasp of PHP basics and are looking to deepen their knowledge and skills.
+> This section will delve into advanced PHP topics, including object-oriented programming, design patterns, and performance optimization techniques. It will also cover topics like advanced error handling, security best practices, and API development. This section is intended for developers who have a solid grasp of PHP basics and are looking to deepen their knowledge and skills.
 
 ### Object-Oriented Programming
 
@@ -537,7 +537,7 @@ This section will delve into advanced PHP topics, including object-oriented prog
 
 ## Specialized Topics
 
-The specialized topics section will cover niche areas of PHP development, such as working with specific databases, integrating with third-party APIs, and handling real-time data. It will also explore areas like web scraping, command-line scripting with PHP, and developing for content management systems (CMS) like WordPress.
+> The specialized topics section will cover niche areas of PHP development, such as working with specific databases, integrating with third-party APIs, and handling real-time data. It will also explore areas like web scraping, command-line scripting with PHP, and developing for content management systems (CMS) like WordPress.
 
 ### API Development
 
@@ -624,13 +624,13 @@ The specialized topics section will cover niche areas of PHP development, such a
 
 ## PHP Projects
 
-The PHP projects section will feature practical project ideas and examples that demonstrate how to apply PHP skills in real-world scenarios. Projects will be categorized by difficulty level (beginner, intermediate, and advanced) and will cover a variety of use cases, from simple web applications to complex systems.
+> The PHP projects section will feature practical project ideas and examples that demonstrate how to apply PHP skills in real-world scenarios. Projects will be categorized by difficulty level (beginner, intermediate, and advanced) and will cover a variety of use cases, from simple web applications to complex systems.
 
 ### Beginner Level Projects
 <table width="100%">
  <tr>
-   <th>Project</th>
-   <th>Resources</th>
+   <th>Resource Name</th>
+   <th>Description</th>
  </tr>
  <tr>
    <td>Simple User Registration System</td>
@@ -650,8 +650,8 @@ The PHP projects section will feature practical project ideas and examples that 
 
 <table width="100%">
  <tr>
-   <th>Project</th>
-   <th>Resources</th>
+   <th>Resource Name</th>
+   <th>Description</th>
  </tr>
  <tr>
    <td>Simple E-Commerce Application</td>
@@ -675,8 +675,8 @@ The PHP projects section will feature practical project ideas and examples that 
 
 <table width="100%">
  <tr>
-   <th>Project</th>
-   <th>Resources</th>
+   <th>Resource Name</th>
+   <th>Description</th>
  </tr>
  <tr>
    <td>Chatbot Application</td>
@@ -696,7 +696,7 @@ The PHP projects section will feature practical project ideas and examples that 
 
 ## Version Control
 
-This section will introduce version control concepts and tools, with a focus on using Git for PHP development. It will cover essential topics like repository setup, branching, merging, and collaboration workflows. This section aims to help developers manage their codebase efficiently and work effectively in team environments.
+> This section will introduce version control concepts and tools, with a focus on using Git for PHP development. It will cover essential topics like repository setup, branching, merging, and collaboration workflows. This section aims to help developers manage their codebase efficiently and work effectively in team environments.
 
 <table width="100%">
   <tr>
@@ -735,13 +735,13 @@ This section will introduce version control concepts and tools, with a focus on 
 
 ## Youtube
 
-The YouTube section will list recommended YouTube channels and playlists for learning PHP. It will include curated content that covers various aspects of PHP development, from beginner tutorials to advanced topics. This section will provide learners with additional multimedia resources to complement their studies.
+> The YouTube section will list recommended YouTube channels and playlists for learning PHP. It will include curated content that covers various aspects of PHP development, from beginner tutorials to advanced topics. This section will provide learners with additional multimedia resources to complement their studies.
 
 ### YouTube Channels for Learning PHP
 
 <table width="100%">
  <tr>
-   <th>Channel Name</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -770,7 +770,7 @@ The YouTube section will list recommended YouTube channels and playlists for lea
 
 <table width="100%">
  <tr>
-   <th>Playlist Name</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -803,8 +803,8 @@ The courses section will provide links to both free and paid certification cours
 
 <table width="100%">
  <tr>
-   <th>Course</th>
-   <th>Provider</th>
+   <th>Resource Name</th>
+   <th>Description</th>
  </tr>
  <tr>
    <td><a href="https://www.codecademy.com/learn/learn-php">Learn PHP</a></td>
@@ -829,8 +829,8 @@ The courses section will provide links to both free and paid certification cours
 
 <table width="100%">
  <tr>
-   <th>Course</th>
-   <th>Provider</th>
+   <th>Resource Name</th>
+   <th>Description</th>
  </tr>
  <tr>
    <td><a href="https://www.udemy.com/course/php-for-beginners-/?couponCode=OF52424">PHP for Beginners - Become a PHP Master</a></td>
@@ -848,13 +848,13 @@ The courses section will provide links to both free and paid certification cours
 
 ## Additional Resources
 
-The additional resources section will compile a list of books, online communities, forums, and other valuable resources for PHP developers. It will provide recommendations for further reading, networking opportunities, and places to seek help and advice. This section aims to support continuous learning and professional growth in PHP development.
+> The additional resources section will compile a list of books, online communities, forums, and other valuable resources for PHP developers. It will provide recommendations for further reading, networking opportunities, and places to seek help and advice. This section aims to support continuous learning and professional growth in PHP development.
 
 ### PHP Communities
 
 <table width="100%">
  <tr>
-   <th>Community</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -871,7 +871,7 @@ The additional resources section will compile a list of books, online communitie
 
 <table width="100%">
  <tr>
-   <th>Book</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
