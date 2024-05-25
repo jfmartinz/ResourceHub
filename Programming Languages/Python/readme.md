@@ -1,5 +1,7 @@
 # Python Development 🐍🐍
-Python development refers to creating applications, scripts, and software solutions using the Python programming language. Known for its simplicity, readability, and extensive libraries, Python is widely used in web development, data science, machine learning, automation, and more. It emphasizes rapid development and clear, maintainable code, making it a popular choice for both beginners and experienced developers. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming, and has a large, supportive community, contributing to a vast ecosystem of tools and resources.
+Python development refers to creating applications, scripts, and software solutions using the Python programming language. Known for its simplicity, readability, and extensive libraries, Python is widely used in web development, data science, machine learning, automation, and more. It emphasizes rapid development and clear, maintainable code, making it a popular choice for both beginners and experienced developers. 
+
+Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming, and has a large, supportive community, contributing to a vast ecosystem of tools and resources.
 
 ## Table of Contents
 
@@ -40,141 +42,116 @@ Python development refers to creating applications, scripts, and software soluti
   </table>
 
  ### Tutorials
-Start your journey into Python programming with these essential tutorials covering basic syntax and concepts.
+> Start your journey into Python programming with these essential tutorials covering basic syntax and concepts.
 
 #### Fundamentals
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Introduction to Python</td>
-    <td><a href="https://www.scaler.com/topics/python/introduction-to-python/">Scaler - Introduction to Python</a></td>
+    <td><a href="https://www.scaler.com/topics/python/introduction-to-python/">Introduction to Python</a></td>
     <td>A detailed article providing an overall introduction to Python, covering its history, features, and applications.</td>
   </tr>
   <tr>
-    <td>Installation</td>
-    <td><a href="https://www.python.org/downloads/">Python.org - Download and Installation</a></td>
+    <td><a href="https://www.python.org/downloads/">Download and Installation</a></td>
     <td>Official Python documentation explaining how to download and install Python on various operating systems.</td>
   </tr>
   <tr>
-    <td>Basic Syntax</td>
-    <td><a href="https://www.geeksforgeeks.org/python-syntax/">GeeksforGeeks - Basic Syntax</a></td>
+    <td><a href="https://www.geeksforgeeks.org/python-syntax/"> Syntax</a></td>
     <td>An article explaining the basic syntax of Python, including indentation, comments, and variable declarations.</td>
   </tr>
   <tr>
-    <td>Data Types</td>
-    <td><a href="https://www.w3schools.com/python/python_datatypes.asp">W3Schools - Data Types</a></td>
+    <td><a href="https://www.w3schools.com/python/python_datatypes.asp">Data Types</a></td>
     <td>An article explaining the different data types available in Python.</td>
   </tr>
   <tr>
-    <td>Operators</td>
-    <td><a href="https://www.programiz.com/python-programming/operators">Programiz - Operators</a></td>
+    <td><a href="https://www.programiz.com/python-programming/operators">Operators</a></td>
     <td>An article explaining the various operators in Python.</td>
   </tr>
   <tr>
-    <td>Control Statements</td>
-    <td><a href="https://www.scaler.com/topics/control-statements-in-python/">Scaler - Control Statements</a></td>
+    <td><a href="https://www.scaler.com/topics/control-statements-in-python/">Control Statements</a></td>
     <td>An article explaining Python control structures, including conditionals (if, elif, else) and loops (for, while).</td>
   </tr>
   <tr>
-    <td>Functions</td>
-    <td><a href="https://www.geeksforgeeks.org/functions-in-python/">GeeksforGeeks - Functions in Python</a></td>
+    <td><a href="https://www.geeksforgeeks.org/functions-in-python/">Functions in Python</a></td>
     <td>An article explaining functions in Python, including declaration, invocation, and lambda functions.</td>
   </tr>
   <tr>
-    <td>Official Documentation</td>
     <td><a href="https://docs.python.org/3/tutorial/">Python.org - Official Documentation</a></td>
     <td>Official Python documentation providing a thorough introduction to Python basics, including variables, operators, control flow statements, and functions.</td>
   </tr>
 </table>
 
 #### Object-Oriented Programming (OOP)
-Object-Oriented Programming (OOP) concepts in Python with these tutorials covering classes, inheritance, polymorphism, encapsulation, and abstraction.
 
 <table width="100%">
   <tr>
     <th>Topic</th>
     <th>Resource Name</th>
-    <th>Description</th>
   </tr>
   <tr>
-    <td>OOP Concepts</td>
-    <td><a href="https://www.scaler.com/topics/python/oops-concepts-in-python/">Scaler - OOP Concepts in Python</a></td>
+    <td><a href="https://www.scaler.com/topics/python/oops-concepts-in-python/">OOP Concepts in Python</a></td>
     <td>An article explaining the overall concept of Object-Oriented Programming in Python.</td>
   </tr>
   <tr>
-    <td>Classes and Objects</td>
-    <td><a href="https://www.javatpoint.com/python-classes-and-objects">JavaTpoint - Classes and Objects</a></td>
+    <td><a href="https://www.javatpoint.com/python-classes-and-objects">Classes and Objects</a></td>
     <td>An article explaining the definition of classes and objects in Python, their instantiation, and usage.</td>
   </tr>
   <tr>
-    <td>Inheritance</td>
-    <td><a href="https://www.geeksforgeeks.org/inheritance-in-python/">GeeksforGeeks - Inheritance in Python</a></td>
+    <td><a href="https://www.geeksforgeeks.org/inheritance-in-python/">Inheritance in Python</a></td>
     <td>An article covering inheritance in Python, including types and method overriding.</td>
   </tr>
   <tr>
-    <td>Polymorphism</td>
-    <td><a href="https://www.programiz.com/python-programming/polymorphism">Programiz - Polymorphism in Python</a></td>
+    <td><a href="https://www.programiz.com/python-programming/polymorphism">Polymorphism in Python</a></td>
     <td>An article explaining polymorphism in Python, including method overloading and overriding.</td>
   </tr>
   <tr>
-    <td>Encapsulation</td>
-    <td><a href="https://www.w3schools.com/python/python_encapsulation.asp">W3Schools - Encapsulation</a></td>
+    <td><a href="https://www.w3schools.com/python/python_encapsulation.asp">Encapsulation</a></td>
     <td>An article covering encapsulation in Python, including access modifiers, getters, and setters.</td>
   </tr>
   <tr>
-    <td>Abstraction</td>
-    <td><a href="https://www.scaler.com/topics/python/abstraction-in-python/">Scaler - Abstraction in Python</a></td>
+    <td><a href="https://www.scaler.com/topics/python/abstraction-in-python/">Abstraction in Python</a></td>
     <td>An article explaining abstraction in Python, including abstract classes and interfaces.</td>
   </tr>
 </table>
 
 #### Core Python Libraries
-Core Python Libraries with these tutorials covering strings, collections framework, exception handling, file handling, input/output (I/O), and multithreading.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Strings</td>
-    <td><a href="https://www.geeksforgeeks.org/python-strings/">GeeksforGeeks - Strings</a></td>
+    <td><a href="https://www.geeksforgeeks.org/python-strings/">Strings</a></td>
     <td>An article covering string manipulation in Python using the str class and related methods.</td>
   </tr>
   <tr>
-    <td>Collections Framework</td>
-    <td><a href="https://www.scaler.com/topics/python/collections-module-in-python/">Scaler - Collections Framework</a></td>
+    <td><a href="https://www.scaler.com/topics/python/collections-module-in-python/">Collections Framework</a></td>
     <td>An article explaining the Python Collections module, including lists, sets, dictionaries, and queues.</td>
   </tr>
   <tr>
-    <td>Exception Handling</td>
-    <td><a href="https://www.scaler.com/topics/python/exception-handling-in-python/">Scaler - Exception Handling</a></td>
+    <td><a href="https://www.scaler.com/topics/python/exception-handling-in-python/"> Exception Handling</a></td>
     <td>An article covering exception handling in Python, including try-except blocks and custom exceptions.</td>
   </tr>
   <tr>
-    <td>File Handling</td>
-    <td><a href="https://www.geeksforgeeks.org/file-handling-python/">GeeksforGeeks - File Handling</a></td>
+    <td><a href="https://www.geeksforgeeks.org/file-handling-python/">File Handling</a></td>
     <td>An article covering file handling in Python, including reading from and writing to files.</td>
   </tr>
   <tr>
-    <td>Input/Output (I/O)</td>
-    <td><a href="https://www.programiz.com/python-programming/file-operation">Programiz - Input/Output (I/O)</a></td>
+    <td><a href="https://www.programiz.com/python-programming/file-operation"> Input/Output (I/O)</a></td>
     <td>An article explaining input/output (I/O) operations in Python, including file handling and streams.</td>
   </tr>
   <tr>
-    <td>Multithreading</td>
-    <td><a href="https://www.tutorialspoint.com/python/python_multithreading.htm">TutorialsPoint - Multithreading in Python</a></td>
+    <td><a href="https://www.tutorialspoint.com/python/python_multithreading.htm">Multithreading in Python</a></td>
     <td>An article covering multithreading in Python, including the Thread class, threading module, and synchronization.</td>
   </tr>
 </table>
 
 #### Frameworks and Libraries
-Enhance your Python development process with these popular frameworks and libraries.
+>Enhance your Python development process with these popular frameworks and libraries.
 
 <table width="100%">
   <tr>
@@ -220,7 +197,7 @@ Enhance your Python development process with these popular frameworks and librar
 </table>
 
 #### Web Development with Flask
-Learn web development with Flask through these comprehensive resources.
+> Learn web development with Flask through these comprehensive resources.
 
 <table width="100%">
   <tr>
@@ -246,7 +223,7 @@ Learn web development with Flask through these comprehensive resources.
 </table>
 
 #### Web Development with Django
-Master web development with Django through these detailed tutorials.
+> Master web development with Django through these detailed tutorials.
 
 <table width="100%">
   <tr>
@@ -272,48 +249,41 @@ Master web development with Django through these detailed tutorials.
 </table>
 
 #### Data Science and Machine Learning
-Explore data science and machine learning with Python through these essential resources.
+> Explore data science and machine learning with Python through these essential resources.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Introduction to Data Science</td>
     <td><a href="https://www.dataquest.io/path/data-scientist/">Dataquest - Data Scientist Path</a></td>
     <td>A comprehensive learning path for data science on Dataquest, including Python programming, data analysis, and machine learning.</td>
   </tr>
   <tr>
-    <td>Pandas for Data Analysis</td>
     <td><a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html">Pandas - 10 Minutes to pandas</a></td>
     <td>Official Pandas documentation that provides a quick introduction to using Pandas for data analysis.</td>
   </tr>
   <tr>
-    <td>Machine Learning with Scikit-learn</td>
     <td><a href="https://scikit-learn.org/stable/tutorial/index.html">Scikit-learn Tutorials</a></td>
     <td>Official Scikit-learn tutorials covering various machine learning algorithms and their implementation in Python.</td>
   </tr>
   <tr>
-    <td>Data Visualization</td>
-    <td><a href="https://seaborn.pydata.org/tutorial.html">Seaborn - Official Tutorial</a></td>
+    <td><a href="https://seaborn.pydata.org/tutorial.html">Data Visualization</a></td>
     <td>Official Seaborn tutorial that covers data visualization techniques in Python.</td>
   </tr>
   <tr>
-    <td>Deep Learning with TensorFlow</td>
     <td><a href="https://www.tensorflow.org/tutorials">TensorFlow Tutorials</a></td>
     <td>Official TensorFlow tutorials that guide you through building and training neural networks.</td>
   </tr>
   <tr>
-    <td>Deep Learning with PyTorch</td>
     <td><a href="https://pytorch.org/tutorials/">PyTorch Tutorials</a></td>
     <td>Official PyTorch tutorials that cover deep learning concepts and their implementation in PyTorch.</td>
   </tr>
 </table>
 
 #### Automation with Python
-Automate repetitive tasks with Python using these useful resources.
+
 
 <table width="100%">
   <tr>
@@ -345,72 +315,58 @@ Automate repetitive tasks with Python using these useful resources.
 
 <table width="100%">
       <tr>
-        <th>Purpose</th>
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
-        <td>Integrated Development Environments (IDEs)</td>
         <td> <a href="https://www.jetbrains.com/pycharm/">PyCharm</a></td>
         <td>IDE specifically for Python development, offering code analysis, graphical debugger, and integration with various tools and frameworks.</td>
       </tr>
       <tr>
-        <td>Integrated Development Environments (IDEs)</td>
         <td> <a href="https://code.visualstudio.com/">Visual Studio Code</a></td>
         <td>Popular code editor with extensive Python support through extensions, providing features like debugging, linting, and version control.</td>
       </tr>
       <tr>
-        <td>Version Control</td>
         <td> <a href="https://git-scm.com/">Git</a></td>
         <td>Distributed version control system for tracking changes in source code, collaborating with teams, and managing project history.</td>
       </tr>
       <tr>
-        <td>Version Control</td>
         <td> <a href="https://github.com/">GitHub</a></td>
         <td>Platform for hosting Git repositories, managing code, and collaborating with other developers.</td>
       </tr>
       <tr>
-        <td>Package Management</td>
         <td> <a href="https://pip.pypa.io/en/stable/">pip</a></td>
         <td>Package installer for Python, used to install and manage software packages written in Python.</td>
       </tr>
       <tr>
-        <td>Package Management</td>
         <td> <a href="https://conda.io/">Conda</a></td>
         <td>Open-source package management and environment management system that runs on Windows, macOS, and Linux.</td>
       </tr>
       <tr>
-        <td>Web Frameworks</td>
         <td> <a href="https://www.djangoproject.com/">Django</a></td>
         <td>High-level Python web framework that encourages rapid development and clean, pragmatic design.</td>
       </tr>
       <tr>
-        <td>Web Frameworks</td>
         <td> <a href="https://flask.palletsprojects.com/">Flask</a></td>
         <td>Lightweight WSGI web application framework designed to make getting started quick and easy, with the ability to scale up to complex applications.</td>
       </tr>
       <tr>
-        <td>Data Science and Machine Learning</td>
         <td> <a href="https://numpy.org/">NumPy</a></td>
         <td>Library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.</td>
       </tr>
       <tr>
-        <td>Data Science and Machine Learning</td>
         <td> <a href="https://pandas.pydata.org/">Pandas</a></td>
         <td>Open-source data analysis and manipulation tool, built on top of the Python programming language.</td>
       </tr>
       <tr>
-        <td>Data Science and Machine Learning</td>
         <td> <a href="https://www.tensorflow.org/">TensorFlow</a></td>
         <td>End-to-end open-source platform for machine learning, providing a comprehensive ecosystem of tools, libraries, and community resources.</td>
       </tr>
       <tr>
-        <td>Testing and Debugging</td>
         <td> <a href="https://docs.pytest.org/en/stable/">pytest</a></td>
         <td>Framework that makes building simple and scalable test cases easy.</td>
       </tr>
       <tr>
-        <td>Testing and Debugging</td>
         <td> <a href="https://pypi.org/project/coverage/">Coverage.py</a></td>
         <td>Tool for measuring code coverage of Python programs.</td>
       </tr>
@@ -422,47 +378,38 @@ Automate repetitive tasks with Python using these useful resources.
 
 <table width="100%">
       <tr>
-        <th>Domain</th>
         <th>Technology</th>
         <th>Description</th>
       </tr>
        <tr>
-        <td>Web Development</td>
         <td> <a href="https://www.djangoproject.com/">Django</a></td>
         <td>High-level web framework that promotes rapid development and clean, pragmatic design, providing an all-inclusive platform for building web applications.</td>
       </tr>
       <tr>
-        <td>Web Development</td>
         <td> <a href="https://flask.palletsprojects.com/">Flask</a></td>
         <td>Lightweight WSGI web application framework designed to get started quickly and easily, with the ability to scale up to complex applications.</td>
       </tr>
       <tr>
-        <td>Data Science</td>
         <td> <a href="https://numpy.org/">NumPy</a></td>
         <td>Fundamental package for scientific computing with Python, offering support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions.</td>
       </tr>
       <tr>
-        <td>Data Science</td>
         <td> <a href="https://pandas.pydata.org/">Pandas</a></td>
         <td>Open-source data analysis and manipulation tool, built on top of Python, providing data structures and operations for manipulating numerical tables and time series.</td>
       </tr>
       <tr>
-        <td>Machine Learning</td>
         <td> <a href="https://scikit-learn.org/">Scikit-learn</a></td>
         <td>Simple and efficient tools for predictive data analysis, built on NumPy, SciPy, and matplotlib, offering various classification, regression, and clustering algorithms.</td>
       </tr>
       <tr>
-        <td>Machine Learning</td>
         <td> <a href="https://www.tensorflow.org/">TensorFlow</a></td>
         <td>End-to-end open-source platform for machine learning, providing a comprehensive ecosystem of tools, libraries, and community resources.</td>
       </tr>
       <tr>
-        <td>Web Scraping</td>
         <td> <a href="https://www.crummy.com/software/BeautifulSoup/">Beautiful Soup</a></td>
         <td>Library for parsing HTML and XML documents, extracting data from web pages, and navigating and searching parse trees.</td>
       </tr>
       <tr>
-        <td>Web Scraping</td>
         <td> <a href="https://scrapy.org/">Scrapy</a></td>
         <td>Framework for web scraping that provides tools to extract data from websites, process them, and store them in the desired format.</td>
       </tr>
@@ -515,27 +462,22 @@ Automate repetitive tasks with Python using these useful resources.
 
 <table width="100%">
       <tr>
-        <th>Platform</th>
         <th>Book</th>
         <th>Description</th>
       </tr>
        <tr>
-        <td>Python Programming</td>
         <td><a href="https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280">Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes</a></td>
         <td>Introduces Python through practical projects and exercises, ideal for beginners and those transitioning from other languages.</td>
       </tr>
        <tr>
-        <td>Python Programming</td>
         <td><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008">Fluent Python: Clear, Concise, and Effective Programming by Luciano Ramalho</a></td>
         <td>Explores Python's advanced features and best practices for writing clear, idiomatic code.</td>
       </tr>
        <tr>
-        <td>Python Programming</td>
         <td><a href="https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989">Effective Python: 90 Specific Ways to Write Better Python by Brett Slatkin</a></td>
         <td>Offers practical advice and tips to improve your Python code and programming skills.</td>
       </tr>
        <tr>
-        <td>Python Data Analysis</td>
         <td><a href="https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057">Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas</a></td>
         <td>Covers essential tools and techniques for data manipulation, visualization, and analysis using Python.</td>
       </tr>
@@ -570,7 +512,7 @@ Automate repetitive tasks with Python using these useful resources.
 
 ### YouTube Playlist
 
-> YThese YouTube Playlists helps you to learn python in a structured way:
+> These YouTube Playlists helps you to learn python in a structured way:
 
 <table width="100%">
       <tr>
