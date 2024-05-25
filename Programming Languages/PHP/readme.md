@@ -337,7 +337,7 @@ This section will introduce the essential tools and development environments for
    <td>Overview of tools and techniques for managing multiple PHP versions on a single system, including PHP version managers like phpbrew and multiple PHP installations.</td>
  </tr>
  <tr>
-   <td><a href="[https://www.example.com/php-extensions-and-libraries](https://docs.bitnami.com/aws/infrastructure/lamp/configuration/install-modules-php/)">Installing PHP Modules</a></td>
+   <td><a href="https://docs.bitnami.com/aws/infrastructure/lamp/configuration/install-modules-php/">Installing PHP Modules</a></td>
    <td>Guide to installing and managing PHP Modules using package managers and manually downloading and installing Modules.</td>
  </tr>
  <tr>
