@@ -166,6 +166,10 @@
       <td ><a href="https://scikit-learn.org/stable/tutorial/index.html">Scikit-learn</a></td>
       <td>This documentation is the best for learning Scikit-learn. Scikit-learn is another fantastic library, primarily used for machine learning tasks such as classification, regression, clustering, and more. Its simple and efficient tools make it accessible to both beginners and experts in the field. </td>
     </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/introduction-to-seaborn-python/">Seaborn</a></td>
+    <td>Seaborn is an amazing visualization library for statistical graphics plotting in Python. It provides beautiful default styles and color palettes to make statistical plots more attractive.</td>
+  </tr>
 </table>
 
 #### Introduction to Machine Learning
@@ -482,12 +486,7 @@
       <tr>
         <td> <a href="https://github.com/dair-ai/ML-YouTube-Courses">ML YouTube Courses</a></td>
         <td>This GitHub repository is a collection of resources related to machine learning (ML) courses available on YouTube, and  provides links to the YouTube videos or playlists for each course, making it easy for learners to access the course content directly from YouTube. </td>
-      </tr>
-      <tr>
-        <td> <a href="https://github.com/dlsucomet/MLResourceshttps://github.com/dlsucomet/MLResources">Books for Learning Machine Learning</a></td>
-        <td>This GitHub repo is a house of books,tutorials,articles,tools and more to learn Machine learning.</td>
-      </tr>
-      
+      </tr>  
 </table>
 
 ### YouTube Channels

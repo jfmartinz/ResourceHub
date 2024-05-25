@@ -112,6 +112,18 @@ A database is an organized collection of structured information, or data, typica
       <td><a href="https://www.udemy.com/course/database-engines-crash-course/?couponCode=LEADERSALE24A">Udemy</a></td>
       <td>Learn ACID, Indexing, Partitioning, Sharding, Concurrency control, Replication, DB Engines, Best Practices and More!.</td>
     </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=aoMOmSx5Zyw&list=PLWPirh4EWFpHMw9bRo47tn4aknBUvuXNU">Tuturialspoint Youtube</a></td>
+      <td>The "DBMS in Simple Steps" playlist is beneficial for anyone seeking to understand the fundamentals and advanced concepts of DBMS</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl">Krish Naik Youtube</a></td>
+      <td>Krish Naik’s "MySQL Playlist" is beneficial to understand and work with MySQL databases.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=T7AxM7Vqvaw&list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc">Jenny’s Lectures CS IT Youtube</a></td>
+      <td>The "DBMS" playlist is helpful for clearing the basic and advanced of DBMS.</td>
+    </tr>
 </table>
 
 
