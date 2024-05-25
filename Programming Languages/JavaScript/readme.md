@@ -92,58 +92,46 @@ This section is dedicated to providing valuable resources for learning and maste
 
 ### Introduction
 
-> Start your journey into JavaScript programming with these essential resources covering the basics, including its history, versions, and how to run JavaScript.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>What is JavaScript?</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#What_is_JavaScript">MDN Web Docs - What is JavaScript?</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#What_is_JavaScript">What is JavaScript?</a></td>
     <td>A comprehensive introduction to JavaScript, explaining what it is, its uses, and why it's important.</td>
   </tr>
   <tr>
-    <td>History of JavaScript</td>
     <td><a href="https://roadmap.sh/guides/history-of-javascript">Roadmap.sh - History of JavaScript</a></td>
     <td>An article detailing the history and evolution of JavaScript from its creation to the present day.</td>
   </tr>
   <tr>
-    <td>JavaScript Versions</td>
-    <td><a href="https://www.w3schools.com/js/js_versions.asp">W3Schools - JavaScript Versions</a></td>
+    <td><a href="https://www.w3schools.com/js/js_versions.asp">JavaScript Versions</a></td>
     <td>An article explaining the different versions of JavaScript and the features introduced in each version.</td>
   </tr>
   <tr>
-    <td>How to run JavaScript</td>
-    <td><a href="https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html">Digital Ocean - How to Run JavaScript</a></td>
+    <td><a href="https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html">How to Run JavaScript</a></td>
     <td>A guide on different ways to run JavaScript code, including in the browser console and through external files.</td>
   </tr>
   <tr>
-    <td>Client Side Scripting and Server Side Scripting</td>
-    <td><a href="https://www.scaler.com/topics/javascript/client-side-scripting-and-server-side-scripting/">Scaler - Client Side Scripting vs Server Side Scripting</a></td>
+    <td><a href="https://www.scaler.com/topics/javascript/client-side-scripting-and-server-side-scripting/"> Client Side Scripting vs Server Side Scripting</a></td>
     <td>An article explaining the differences between client-side scripting and server-side scripting, with examples.</td>
   </tr>
   <tr>
-    <td>How to include a JavaScript file in another JavaScript file?</td>
-    <td><a href="https://www.scaler.com/topics/javascript/import-js-file-in-js/">Scaler - How to Include a JavaScript File in Another JavaScript File</a></td>
+      <td><a href="https://www.scaler.com/topics/javascript/import-js-file-in-js/">How to Include a JavaScript File in Another JavaScript File</a></td>
     <td>A tutorial on how to include one JavaScript file into another, using various methods such as ES6 modules and CommonJS.</td>
   </tr>
     <tr>
-    <td>Difference Between Java and JavaScript</td>
-    <td><a href="https://www.scaler.com/topics/javascript/difference-between-java-and-javascript/">Scaler - How to Include a JavaScript File in Another JavaScript File</a></td>
+    <td><a href="https://www.scaler.com/topics/javascript/difference-between-java-and-javascript/">Difference Between Java and JavaScript</a></td>
     <td>A tutorial on Difference between java and javscript.</td>
       </tr>
-          <tr>
-    <td>What is JSON?</td>
-    <td><a href="https://www.scaler.com/topics/javascript/what-is-json/">Scaler - What is JSON?</a></td>
+       <tr>
+    <td><a href="https://www.scaler.com/topics/javascript/what-is-json/">What is JSON?</a></td>
     <td>An article understanding what is JSON..</td>
       </tr>
-
- <tr>
-    <td>What is AJAX?</td>
-    <td><a href="https://www.scaler.com/topics/javascript/what-is-ajax/">Scaler - What is AJAX?</a></td>
+    <tr>
+    <td><a href="https://www.scaler.com/topics/javascript/what-is-ajax/"> What is AJAX?</a></td>
     <td>An article understanding What is AJAX?..</td>
       </tr>
 </table>
@@ -152,84 +140,68 @@ This section is dedicated to providing valuable resources for learning and maste
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   
   <tr>
-    <td>Basic Syntax</td>
-    <td><a href="https://www.w3schools.com/js/js_syntax.asp">W3Schools - JavaScript Syntax</a></td>
+    <td><a href="https://www.w3schools.com/js/js_syntax.asp">JavaScript Syntax</a></td>
     <td>An article explaining the basic syntax and rules for writing JavaScript code.</td>
   </tr>
 
   <tr>
-    <td>Data Types</td>
-    <td><a href="https://www.javascripttutorial.net/javascript-data-types/">JavaScript Tutorial - Data Types</a></td>
+    <td><a href="https://www.javascripttutorial.net/javascript-data-types/"> Data Types</a></td>
     <td>An article providing an overview of JavaScript data types, including string, number, boolean, null, undefined, object, and symbol.</td>
   </tr>
   <tr>
-    <td>Operators</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators">MDN Web Docs - Expressions and Operators</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators">Expressions and Operators</a></td>
     <td>An article detailing various operators used in JavaScript, including arithmetic, comparison, logical, and assignment operators.</td>
   </tr>
   <tr>
-    <td>Variables</td>
-    <td><a href="https://www.w3schools.com/js/js_variables.asp">W3Schools - JavaScript Variables</a></td>
+    <td><a href="https://www.w3schools.com/js/js_variables.asp">JavaScript Variables</a></td>
     <td>An article explaining how to declare and use variables in JavaScript using the var, let, and const keywords.</td>
   </tr>
   <tr>
-    <td>Control Structures</td>
     <td><a href="https://www.javascript.info/ifelse">Control flow and error handling</a></td>
     <td>An article explaining JavaScript Block statement Conditional statements (if, switch) and Exception handling statements</td>
   </tr>
    <tr>
-    <td>Loops and Iterations</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration">MDN web Docs - Loops and Iterations</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration"> Loops and Iterations</a></td>
     <td>An article explaining for statement do...while statement while statement labeled statement break statement continue statement for...in statement for...of statement</td>
   </tr>
 <tr>
-    <td>JavaScript Objects</td>
-    <td><a href="https://www.tutorialsteacher.com/javascript/javascript-object">Troubleshooting JavaScript</a></td>
+    <td><a href="https://www.tutorialsteacher.com/javascript/javascript-object">JavaScript Objects</a></td>
     <td>Here you will learn objects, object literals, Object() constructor function, and access object in JavaScript.</td>
   </tr>
 <tr>
-    <td>JS Pop Message</td>
     <td><a href="https://www.tutorialsteacher.com/javascript/display-popup-message-in-javascript">JavaScript Pop Message</a></td>
     <td>An article explaining JavaScript Message Boxes: alert(), confirm(), prompt().</td>
   </tr>
  <tr>
-    <td>Type Conversion</td>
-    <td><a href="https://javascript.info/type-conversions">JavaScript info - Type Conversion</a></td>
+    <td><a href="https://javascript.info/type-conversions">Type Conversion</a></td>
     <td>An article explaining Type Conversion in Javascript</td>
   </tr>
   <tr>
-    <td>Functions</td>
     <td><a href="https://javascript.info/type-conversions">Functions</a></td>
     <td>An article explaining Defining functions, Calling functions, Function scope, Scope and the function stack, Closures, Using the arguments object, Function parameters, Arrow functions</td>
   </tr>
   <tr>
-    <td>Numbers and dates</td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Numbers_and_dates">Numbers and Dates</a></td>
     <td>An article explaining Numbers Number object Math object BigInts Date object</td>
   </tr>
 <tr>
-    <td>Regular expressions</td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#tools">Numbers and Dates</a></td>
     <td>An article explaining Creating a regular expression Writing a regular expression pattern Using regular expressions in JavaScript Examples and Tools</td>
   </tr>
 <tr>
-    <td>JavaScript Closures</td>
-    <td><a href="https://www.tutorialsteacher.com/javascript/closure-in-javascript">Tutorials Teacher - JavaScript Closures</a></td>
+    <td><a href="https://www.tutorialsteacher.com/javascript/closure-in-javascript"> JavaScript Closures</a></td>
     <td>A documentation explaining What went wrong? Types of error An erroneous example Fixing syntax errors A logic error Other common errors Summary See also</td>
   </tr>
   <tr>
-    <td>JavaScript modules</td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules">JavaScript modules</a></td>
     <td>A documentation explaining A background on modules Browser compatibility Introducing an example Basic example structure Exporting module features Importing features into your script Importing modules using import maps Applying the module to your HTML Other differences between modules and standard scripts Default exports versus named exports Avoiding naming conflicts Renaming imports and exports Creating a module object</td>
   </tr>
   <tr>
-    <td>Troubleshooting JavaScript</td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#tools">Troubleshooting JavaScript</a></td>
     <td>A documentation explaining What went wrong? Types of error An erroneous example Fixing syntax errors A logic error Other common errors Summary See also</td>
   </tr>
@@ -238,149 +210,117 @@ This section is dedicated to providing valuable resources for learning and maste
 
 ### Object-Oriented Programming (OOP)
 
-> Understand the principles of Object-Oriented Programming (OOP) in JavaScript with these essential resources.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>OOP in JavaScript</td>
-    <td><a href="https://www.scaler.com/topics/javascript/oops-in-javascript/">Scaler - Object-oriented JavaScript</a></td>
+    <td><a href="https://www.scaler.com/topics/javascript/oops-in-javascript/"> Object-oriented JavaScript</a></td>
     <td>An Overview to understanding object-oriented programming concepts in JavaScript.</td>
   </tr>
   <tr>
-    <td>Classes in JavaScript</td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript">Understanding Classes in JavaScript</a></td>
     <td>An article explaining how to use classes and objects in JavaScript to implement OOP principles.</td>
   </tr>
   <tr>
-    <td>Inheritance</td>
-    <td><a href="https://www.geeksforgeeks.org/javascript-inheritance/">GeeksforGeeks - Inheritance in JavaScript</a></td>
+    <td><a href="https://www.geeksforgeeks.org/javascript-inheritance/">Inheritance in JavaScript</a></td>
     <td>An article covering inheritance in JavaScript, including Prototypal Inheritance Classical Inheritance Functional Inheritance.</td>
   </tr>
     <tr>
-    <td>Prototypes and Inheritance</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain">MDN Web Docs - Inheritance and the prototype chain</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain">Inheritance and the prototype chain</a></td>
     <td>An in-depth guide to prototypes and inheritance in JavaScript, covering the prototype chain and object inheritance.</td>
   </tr>
   <tr>
-    <td>Encapsulation</td>
-    <td><a href="https://www.geeksforgeeks.org/encapsulation-in-javascript/">GeeksforGeeks - JavaScript Encapsulation</a></td>
+    <td><a href="https://www.geeksforgeeks.org/encapsulation-in-javascript/">JavaScript Encapsulation</a></td>
     <td>A comprehensive guide to understanding and implementing encapsulation in JavaScript.</td>
   </tr>
   <tr>
-    <td>Polymorphism</td>
-    <td><a href="https://www.geeksforgeeks.org/polymorphism-in-javascript/">JavaScript Tutorial - Polymorphism in JavaScript</a></td>
+    <td><a href="https://www.geeksforgeeks.org/polymorphism-in-javascript/">Polymorphism in JavaScript</a></td>
     <td>An article explaining the concept of polymorphism in JavaScript and how to achieve it.</td>
   </tr>
   <tr>
-
   <tr>
-    <td>Objects and Properties</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects">MDN Web Docs - Working with Objects</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects">Objects and Properties</a></td>
     <td>A comprehensive guide to creating and manipulating objects in JavaScript, including defining properties.</td>
   </tr>
   <tr>
-    <td>Methods</td>
-    <td><a href="https://www.w3schools.com/js/js_object_methods.asp">W3Schools - JavaScript Object Methods</a></td>
+    <td><a href="https://www.w3schools.com/js/js_object_methods.asp">JavaScript Object Methods</a></td>
     <td>An explanation of how to define and use methods within JavaScript objects.</td>
   </tr>
   <tr>
-    <td>this Keyword</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this">MDN Web Docs - this</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this">this Keyword</a></td>
     <td>A detailed explanation of the "this" keyword in JavaScript, including its context and usage.</td>
   </tr>
-
   <tr>
-    <td>ES6 Classes</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes">MDN Web Docs - Classes</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes">ES6 Classes</a></td>
     <td>An overview of ES6 classes in JavaScript, including syntax and usage.</td>
   </tr>
 </table>
 
 ### Data Structures
 
-> Learn about JavaScript data structures, focusing on indexed and keyed collections, with these essential resources.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
     <tr>
-    <td>JavaScript data structures</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">MDN Web Docs - JavaScript data structures
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures"> JavaScript data structures
 </a></td>
     <td>An in-depth look at JavaScript's Map and Set objects, which are used to store collections of keyed data.</td>
   </tr>
   <tr>
-    <td>Indexed Collections</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections">MDN Web Docs - Indexed Collections</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections">Indexed Collections</a></td>
     <td>A comprehensive guide article about Creating an array Referring to array elements Populating an array Array transformations Sparse arrays Multi-dimensional arrays Using arrays to store other properties Working with array-like objects.</td>
   </tr>
   <tr>
-    <td>Keyed Collections</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections">MDN Web Docs - Keyed Collections</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections">Keyed Collections</a></td>
     <td>An in-depth look at JavaScript's Map and Set objects, which are used to store collections of keyed data.</td>
   </tr>
   <tr>
-    <td>Maps</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map">MDN Web Docs - Map</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map">Map</a></td>
     <td>Detailed documentation on the Map object, including how to create, set, get, and iterate over entries.</td>
   </tr>
   <tr>
-    <td>Sets</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set">MDN Web Docs - Set</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set">Set</a></td>
     <td>Information on the Set object, explaining how to create, add, delete, and iterate over elements in a set.</td>
   </tr>
   <tr>
-    <td>WeakMap</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap">MDN Web Docs - WeakMap</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap"> WeakMap</a></td>
     <td>An overview of the WeakMap object, used to store weakly held key-value pairs.</td>
   </tr>
   <tr>
-    <td>WeakSet</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet">MDN Web Docs - WeakSet</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet"> WeakSet</a></td>
     <td>Documentation on the WeakSet object, which holds a collection of weakly held objects.</td>
   </tr>
 </table>
 
 
 ### Asynchronous JavaScript
->Dive into the world of asynchronous JavaScript with these resources, covering callbacks, promises, and the modern async/await syntax.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Asynchronous JavaScript</td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous">MDN Web Docs - Asynchronous JavaScript</a></td>
     <td>An overview of asynchronous programming concepts in JavaScript, including the event loop, callbacks, promises, and async/await.</td>
   </tr>
   <tr>
-    <td>Callbacks</td>
     <td><a href="https://www.geeksforgeeks.org/javascript-callbacks/">GeeksforGeeks - JavaScript Callbacks</a></td>
     <td>An article explaining callbacks in JavaScript, including examples and use cases.</td>
   </tr>
   <tr>
-    <td>Promises</td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises">MDN Web Docs - Using Promises</a></td>
     <td>A comprehensive guide on using promises in JavaScript, including how to create, chain, and handle them.</td>
   </tr>
   <tr>
-    <td>Async/Await I</td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await">MDN Web Docs - Async/Await</a></td>
     <td>An in-depth look at the async/await syntax, showing how to write cleaner and more readable asynchronous code.</td>
   </tr>
   <tr>
-    <td>Async/Await II</td>
     <td><a href="https://javascript.info/async-await">JavaScript.info - Async/Await</a></td>
     <td>A tutorial on the async/await syntax, explaining its usage and benefits with examples.</td>
   </tr>
@@ -391,24 +331,19 @@ This section is dedicated to providing valuable resources for learning and maste
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>DOM Manipulation Overview</td>
-    <td><a href="https://www.freecodecamp.org/news/dom-manipulation-in-javascript/">The DOM Explained in Plain English</a></td>
+    <td><a href="https://www.freecodecamp.org/news/dom-manipulation-in-javascript/">DOM Manipulation Overview</a></td>
     <td>An easy-to-understand introduction to the concepts and importance of DOM manipulation.</td>
   </tr>
-  <tr></tr>
   <tr>
-    <td>Document Object Model (DOM)</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">MDN Web Docs - Introduction to the DOM</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">Introduction to the DOM</a></td>
     <td>An introduction to the Document Object Model (DOM), explaining its purpose and how it represents a web page's structure.</td>
   </tr>
   <tr></tr>
   <tr>
-    <td rowspan="2">Selecting Elements</td>
     <td><a href="https://www.javascripttutorial.net/javascript-dom/javascript-getelementbyid/">JavaScript Tutorial - Selecting Elements</a></td>
     <td>A guide on how to use getElementById to select elements in the DOM.</td>
   </tr>
@@ -417,8 +352,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>An explanation of how to use querySelector to find the first element that matches a specified CSS selector.</td>
   </tr>
   <tr>
-    <td rowspan="3">Modifying Elements</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent">MDN Web Docs - textContent</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent">textContent</a></td>
     <td>A guide on using textContent to get or set the text content of an element.</td>
   </tr>
   <tr>
@@ -430,8 +364,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Understand how to modify CSS properties of an element using JavaScript.</td>
   </tr>
   <tr>
-    <td rowspan="2">Event Listeners</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener">MDN Web Docs - EventTarget.addEventListener()</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener">EventTarget.addEventListener()</a></td>
     <td>An in-depth guide on using the addEventListener method to handle events and user interactions in the DOM.</td>
   </tr>
   <tr></tr>
@@ -441,24 +374,20 @@ This section is dedicated to providing valuable resources for learning and maste
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="3">Working with APIs</td>
-    <td><a href="https://javascript.info/fetch">JavaScript.info - Working with Fetch</a></td>
+    <td><a href="https://javascript.info/fetch">Working with Fetch</a></td>
     <td>A comprehensive guide to using the Fetch API to make network requests and handle responses in JavaScript.</td>
   </tr>
   <tr></tr>
   <tr></tr>
   <tr>
-    <td>Handling JSON data</td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse">MDN Web Docs - JSON.parse()</a></td>
     <td>An explanation of how to use JSON.parse() to parse JSON data received from an API response.</td>
   </tr>
   <tr>
-    <td>Getting Started with RESTful APIs</td>
     <td><a href="https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/#getting-started-with-rest-apis">How to Work with RESTful API in JavaScript</a></td>
     <td>A tutorial on working with RESTful APIs in JavaScript, covering topics such as making HTTP requests and handling responses by Building a JavaScript Project
 .</td>
@@ -471,7 +400,6 @@ This section is dedicated to providing valuable resources for learning and maste
 > Get started with setting up your development environment for JavaScript programming with these essential resources.
 
 ### Browser
-> Mostly, you will have a browser already installed on your PC, Microsoft Edge on the Windows platform, and Safari on Mac OS. You can install the following browsers as per your preference:
 
 <table width="100%">
   <tr>
@@ -501,8 +429,6 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 ### IDEs for JavaScript
-
-> You can write JavaScript code using a simple editor like Notepad. However, you can install any open-sourced or licensed IDE (Integrated Development Environment) to get the advantage of IntelliSense support for JavaScript and syntax error/warning highlighter for rapid development.
 
 
 <table width="100%">
@@ -538,7 +464,6 @@ This section is dedicated to providing valuable resources for learning and maste
 
 ### Online Editors for JavaScript
 
-> Use the online editor to quickly execute the JavaScript code without any installation. The followings are free online editors:
 
 <table width="100%">
   <tr>
@@ -560,11 +485,9 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 ### Browser DevTools
-> Popular Browser devtools for Javascript
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
@@ -581,97 +504,77 @@ This section is dedicated to providing valuable resources for learning and maste
 ### JavaScript Frameworks and Libraries
 >  The enormous variety of frameworks and libraries, making websites with JavaScript is now easier. Therefore, excellent knowledge of JavaScript frameworks is the key to being a developer who can build fantastic websites. 
 ### Front-End Frameworks
-> Lets gey started with these front end frameworks: React, Angular, Vue.
-
 ### 1. React
-> ReactJS is the most famous JavaScript library, which Jordan Walke developed on Facebook. This library offers something different to front-end developers as it makes the core predictable and easy to debug. ReactJS provides an efficient way to create and use the dynamic UI of the website for higher incoming traffic. 
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>JSX</td>
-    <td><a href="https://reactjs.org/docs/introducing-jsx.html">React Official Documentation - Introducing JSX</a></td>
+    <td><a href="https://reactjs.org/docs/introducing-jsx.html">- Introducing JSX</a></td>
     <td>An introduction to JSX, the syntax extension for JavaScript used in React to describe UI elements.</td>
   </tr>
   <tr>
-    <td>Components (functional and class-based)</td>
-    <td><a href="https://reactjs.org/docs/components-and-props.html">React Official Documentation - Components and Props</a></td>
+    <td><a href="https://reactjs.org/docs/components-and-props.html">Components and Props</a></td>
     <td>A detailed guide on creating and using functional and class-based components in React.</td>
   </tr>
   <tr>
-    <td>State and props</td>
-    <td><a href="https://reactjs.org/docs/state-and-lifecycle.html">React Official Documentation - State and Lifecycle</a></td>
+    <td><a href="https://reactjs.org/docs/state-and-lifecycle.html">State and Lifecycle</a></td>
     <td>An article explaining how to use state and props in React components to manage data and render UI elements.</td>
   </tr>
   <tr>
-    <td>Lifecycle methods</td>
-    <td><a href="https://reactjs.org/docs/react-component.html#the-component-lifecycle">React Official Documentation - Component Lifecycle</a></td>
+    <td><a href="https://reactjs.org/docs/react-component.html#the-component-lifecycle">Component Lifecycle</a></td>
     <td>A comprehensive guide on React component lifecycle methods and how to use them effectively.</td>
   </tr>
   <tr>
-    <td>Hooks (useState, useEffect)</td>
-    <td><a href="https://reactjs.org/docs/hooks-intro.html">React Official Documentation - Introducing Hooks</a></td>
+    <td><a href="https://reactjs.org/docs/hooks-intro.html">Introducing Hooks</a></td>
     <td>An introduction to React hooks, including useState and useEffect, and how they simplify state and side-effect management in functional components.</td>
   </tr>
 </table>
 
 ### 2. Angular 
->  AngularJs is a JavaScript open-source front-end framework that is mainly used to develop single-page web applications(SPAs). It is a continuously growing and expanding framework which provides better ways for developing web applications.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Components</td>
-    <td><a href="https://angular.io/guide/architecture-components">Angular Official Documentation - Introduction to Components</a></td>
+    <td><a href="https://angular.io/guide/architecture-components">Introduction to Components</a></td>
     <td>An overview of Angular components, including how to create and use them in applications.</td>
   </tr>
   <tr>
-    <td>Services and dependency injection</td>
-    <td><a href="https://angular.io/guide/architecture-services">Angular Official Documentation - Introduction to Services and Dependency Injection</a></td>
+    <td><a href="https://angular.io/guide/architecture-services">Introduction to Services and Dependency Injection</a></td>
     <td>An article explaining how to use services and dependency injection in Angular to share data and functionality across components.</td>
   </tr>
   <tr>
-    <td>Directives and pipes</td>
-    <td><a href="https://angular.io/guide/attribute-directives">Angular Official Documentation - Attribute Directives</a></td>
+    <td><a href="https://angular.io/guide/attribute-directives"> Attribute Directives</a></td>
     <td>A guide on using attribute directives to modify the behavior or appearance of DOM elements in Angular.</td>
   </tr>
   <tr>
-    <td>Angular CLI</td>
-    <td><a href="https://angular.io/cli">Angular Official Documentation - Angular CLI</a></td>
+    <td><a href="https://angular.io/cli">Angular CLI</a></td>
     <td>A comprehensive guide on using the Angular CLI to streamline the development process, including generating components, services, and other Angular elements.</td>
   </tr>
 </table>
 
 
 ### 3. Vue
->Vue.js is an open-source JavaScript framework developed for improving the features of the front-end frameworks such as React and Angular. This framework includes Virtual DOM like React and two-way binding like Angular.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Templates</td>
-    <td><a href="https://vuejs.org/v2/guide/syntax.html">Vue.js Official Documentation - Templates</a></td>
+    <td><a href="https://vuejs.org/v2/guide/syntax.html">Templates</a></td>
     <td>An introduction to Vue.js templates, explaining the syntax and how to use templates to bind data to the DOM.</td>
   </tr>
   <tr>
-    <td>Reactivity</td>
-    <td><a href="https://vuejs.org/v2/guide/reactivity.html">Vue.js Official Documentation - Reactivity</a></td>
+    <td><a href="https://vuejs.org/v2/guide/reactivity.html"> Reactivity</a></td>
     <td>A detailed guide on Vue.js reactivity system, explaining how Vue.js makes your data reactive and the principles behind it.</td>
   </tr>
   <tr>
-    <td>Vue CLI</td>
     <td><a href="https://cli.vuejs.org/">Vue CLI Official Documentation</a></td>
     <td>An overview of the Vue Command Line Interface (CLI), which provides tools and features to simplify the development process in Vue.js.</td>
   </tr>
@@ -679,36 +582,28 @@ This section is dedicated to providing valuable resources for learning and maste
 
 ### 4. jQuery
 
-> jQuery is an open-source JavaScript library developed in 2006 to simplify the interaction with DOM. Developers can also navigate the DOM tree through jQuery’s fantastic feature. it has cross-platform support that intends to simplify the client-side HTML scripting.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Introduction to jQuery</td>
-    <td><a href="https://www.jquery.com/">jQuery Official Website</a></td>
+    <td><a href="https://www.jquery.com/">Introduction to jQuery</a></td>
     <td>The official website for jQuery, providing an introduction to the library and its features.</td>
   </tr>
   <tr>
-    <td>Selecting Elements</td>
     <td><a href="https://api.jquery.com/category/selectors/">jQuery API - Selectors</a></td>
     <td>An overview of jQuery's selectors, which allow you to select and manipulate HTML elements.</td>
   </tr>
   <tr>
-    <td>Event Handling</td>
     <td><a href="https://learn.jquery.com/events/event-basics/">jQuery Learning Center - Event Basics</a></td>
     <td>A guide on how to handle events in jQuery, including binding event handlers and using event methods.</td>
   </tr>
   <tr>
-    <td>DOM Manipulation</td>
-    <td><a href="https://learn.jquery.com/using-jquery-core/manipulating-the-dom/">jQuery Learning Center - Manipulating the DOM</a></td>
+    <td><a href="https://learn.jquery.com/using-jquery-core/manipulating-the-dom/">DOM Manipulation</a></td>
     <td>A detailed explanation of how to manipulate the DOM using jQuery, including adding, removing, and modifying elements.</td>
   </tr>
   <tr>
-    <td>AJAX</td>
     <td><a href="https://api.jquery.com/jquery.ajax/">jQuery API - AJAX</a></td>
     <td>A comprehensive guide on using jQuery's AJAX methods to perform asynchronous HTTP requests.</td>
   </tr>
@@ -718,12 +613,10 @@ This section is dedicated to providing valuable resources for learning and maste
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="4">Redux (for React)</td>
     <td><a href="https://redux.js.org/introduction/getting-started">Redux - Actions</a></td>
     <td>An introduction to actions in Redux, a state management library for React.</td>
   </tr>
@@ -740,7 +633,6 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>A guide to using middleware in Redux for handling side effects, including Redux Thunk and Redux Saga.</td>
   </tr>
   <tr>
-    <td rowspan="3">Vuex (for Vue)</td>
     <td><a href="https://vuex.vuejs.org/">Vuex - Introduction</a></td>
     <td>Official documentation for Vuex, the state management pattern + library for Vue.js applications.</td>
   </tr>
@@ -774,16 +666,13 @@ This section is dedicated to providing valuable resources for learning and maste
 ### Back-End Development with JavaScript
 
 ### Node.js
-> Node.js is an open source server environment. It allows you to run JavaScript on the server.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="2">Introduction</td>
     <td><a href="https://nodejs.org/en/about/">Node.js Environment</a></td>
     <td>An introduction to the Node.js runtime environment, explaining its features and advantages for back-end development.</td>
   </tr>
@@ -792,7 +681,6 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Documentation on NPM, the package manager for Node.js, including how to install and manage packages.</td>
   </tr>
   <tr>
-    <td rowspan="3">Building a Server</td>
     <td><a href="https://expressjs.com/en/starter/hello-world.html">Using Express.js</a></td>
     <td>A beginner's guide to setting up a server using Express.js, a popular Node.js framework.</td>
   </tr>
@@ -805,7 +693,6 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>A guide on using middleware in Express.js to handle various functions like authentication, logging, and more.</td>
   </tr>
   <tr>
-    <td rowspan="2">Database Integration</td>
     <td><a href="https://mongoosejs.com/docs/">MongoDB with Mongoose</a></td>
     <td>Official documentation for Mongoose, an ODM (Object Data Modeling) library for MongoDB and Node.js.</td>
   </tr>
@@ -816,67 +703,53 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 ### Testing and Debugging
+> Testing is the process of verifying and validating that a software or application is bug-free, meets the technical requirements as guided by its design and development, Debugging is the process of fixing a bug in the software or an application. It can be defined as identifying, analyzing, and removing errors.
 
 ### 1. Testing
-> Testing is the process of verifying and validating that a software or application is bug-free, meets the technical requirements as guided by its design and development, and meets the user requirements effectively and efficiently by handling all the exceptional and boundary cases.
 
 <table width="100%">
   <tr>
-    <th>Category</th>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="3">Unit Testing</td>
-    <td>Mocha</td>
     <td><a href="https://mochajs.org/">Mocha Official Site</a></td>
     <td>Comprehensive documentation and guides for using Mocha, a feature-rich JavaScript test framework running on Node.js and in the browser.</td>
   </tr>
   <tr>
-    <td>Chai</td>
     <td><a href="https://www.chaijs.com/">Chai Official Site</a></td>
     <td>Documentation for Chai, a BDD / TDD assertion library for Node.js and the browser that can be delightfully paired with any JavaScript testing framework.</td>
   </tr>
   <tr>
-    <td>Jest</td>
     <td><a href="https://jestjs.io/">Jest Official Site</a></td>
     <td>Official site for Jest, a delightful JavaScript testing framework with a focus on simplicity.</td>
   </tr>
   <tr>
-    <td rowspan="2">End-to-End Testing</td>
-    <td>Cypress</td>
     <td><a href="https://www.cypress.io/">Cypress Official Site</a></td>
     <td>Comprehensive documentation and guides for using Cypress, a next generation front-end testing tool built for the modern web.</td>
   </tr>
   <tr>
-    <td>Selenium</td>
     <td><a href="https://www.selenium.dev/">Selenium Official Site</a></td>
     <td>Official site for Selenium, a suite of tools for automating web browsers.</td>
   </tr>
 </table>
 
 ### 2. Debugging
-> Debugging is the process of fixing a bug in the software or an application. It can be defined as identifying, analyzing, and removing errors.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Using Browser DevTools</td>
     <td><a href="https://developers.google.com/web/tools/chrome-devtools/javascript">Google Developers - Chrome DevTools</a></td>
     <td>An in-depth guide on using Chrome DevTools for debugging JavaScript code.</td>
   </tr>
   <tr>
-    <td>Console Logging</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/Console/log">MDN Web Docs - Console.log()</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/Console/log">Console.log()</a></td>
     <td>Documentation on using console.log() and other console methods to debug JavaScript code.</td>
   </tr>
   <tr>
-    <td>Breakpoints and Stepping Through Code</td>
     <td><a href="https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints">Google Developers - Breakpoints in Chrome DevTools</a></td>
     <td>A guide on setting breakpoints and stepping through JavaScript code in Chrome DevTools.</td>
   </tr>
@@ -885,87 +758,68 @@ This section is dedicated to providing valuable resources for learning and maste
 ### Mobile Development with JavaScript
 
 <table width="100%">
-<tr>
+  <tr>
     <th>Framework</th>
     <th>Description</th>
-    <th>Resources</th>
   </tr>
   <tr>
-    <td>React Native</td>
+    <td>
+      <a href="https://reactnative.dev/">React Native</a><br>
+     <a href="https://reactnative.dev/docs/getting-started">Documentation</a>, <a href="https://github.com/facebook/react-native">GitHub Repository</a>
+    </td>
     <td>Enables building mobile apps using only JavaScript and React. Offers a native-like performance and look. Supported by a large community and many resources for learning.</td>
-    <td>
-      <a href="https://reactnative.dev/">Official Website</a><br><hr />
-      <a href="https://reactnative.dev/docs/getting-started">Documentation</a><br><hr />
-      <a href="https://github.com/facebook/react-native">GitHub Repository</a>
-    </td>
   </tr>
-
   <tr>
-    <td rowspan="3">Ionic</td>
-    <td rowspan="3">A popular open-source framework for building cross-platform mobile apps using web technologies like HTML, CSS, and JavaScript/TypeScript. Offers a library of UI components for a native-like look and feel.</td>
     <td>
-      <a href="https://ionicframework.com/">Official Website</a><br><hr />
-      <a href="https://ionicframework.com/docs">Documentation</a><br><hr />
-      <a href="https://github.com/ionic-team/ionic-framework">GitHub Repository</a>
+      <a href="https://ionicframework.com/">Ionic</a><br>
+      <a href="https://ionicframework.com/docs">Documentation</a>, <a href="https://github.com/ionic-team/ionic-framework">GitHub Repository</a>
     </td>
+    <td>A popular open-source framework for building cross-platform mobile apps using web technologies like HTML, CSS, and JavaScript/TypeScript. Offers a library of UI components for a native-like look and feel.</td>
   </tr>
-  </table>
-<table width="100%">
-  <hr />
   <tr>
-    <td rowspan="3">NativeScript</td>
-    <td rowspan="3">An open-source framework for building truly native mobile applications using JavaScript, TypeScript, or Angular. Allows developers to share a single codebase for iOS and Android apps.</td>
     <td>
-      <a href="https://nativescript.org/">Official Website</a><br><hr />
-      <a href="https://docs.nativescript.org/">Documentation</a><br><hr />
-      <a href="https://github.com/NativeScript/NativeScript">GitHub Repository</a>
+      <a href="https://nativescript.org/">NativeScript</a><br>
+      <a href="https://docs.nativescript.org/">Documentation</a>, <a href="https://github.com/NativeScript/NativeScript">GitHub Repository</a>
     </td>
+    <td>An open-source framework for building truly native mobile applications using JavaScript, TypeScript, or Angular. Allows developers to share a single codebase for iOS and Android apps.</td>
   </tr>
 </table>
 
 ### Serverless Architecture
 > Platforms and Services
+Here's the updated table with all resource links added to the Platform/Service column and the Resources column removed:
 
 <table>
   <thead>
     <tr>
       <th>Platform/Service</th>
       <th>Description</th>
-      <th>Resources</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>AWS Lambda</td>
+      <td>
+        <a href="https://docs.aws.amazon.com/lambda/">AWS Lambda</a>
+      </td>
       <td>Serverless computing service provided by Amazon Web Services (AWS), allowing you to run code without provisioning or managing servers.</td>
-      <td>
-        <a href="https://docs.aws.amazon.com/lambda/">Documentation</a><hr />
-        <a href="https://aws.amazon.com/lambda/resources/">Tutorials</a>
-      </td>
     </tr>
     <tr>
-      <td>Azure Functions</td>
+      <td>
+        <a href="https://docs.microsoft.com/en-us/azure/azure-functions/">Azure Functions</a>
+      </td>
       <td>Event-driven serverless compute service provided by Microsoft Azure, enabling you to run code in response to triggers without managing infrastructure.</td>
-      <td>
-        <a href="https://docs.microsoft.com/en-us/azure/azure-functions/">Documentation</a>, 
-        <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-cli">Getting Started</a>
-      </td>
     </tr>
     <tr>
-      <td>Google Cloud Functions</td>
+      <td>
+        <a href="https://cloud.google.com/functions/docs">Google Cloud Functions</a>
+      </td>
       <td>Serverless execution environment for building and connecting cloud services, provided by Google Cloud Platform (GCP).</td>
-      <td>
-        <a href="https://cloud.google.com/functions/docs">Documentation</a><hr /> 
-        <a href="https://cloud.google.com/functions/docs/quickstart">Guides</a>
-      </td>
     </tr>
     <tr>
-      <td>Serverless Framework</td>
-      <td>Open-source framework for building serverless applications across different cloud providers, offering simplified deployment, scaling, and management.</td>
       <td>
-        <a href="https://www.serverless.com/framework/docs/">Documentation</a><hr />
-        <a href="https://www.serverless.com/examples/">Examples</a>
+        <a href="https://www.serverless.com/framework/docs/">Serverless Framework</a>
       </td>
+      <td>Open-source framework for building serverless applications across different cloud providers, offering simplified deployment, scaling, and management.</td>
     </tr>
   </tbody>
 </table>
@@ -997,93 +851,72 @@ This section is dedicated to providing valuable resources for learning and maste
 > Here are some morden JavaScript features
 
 <table width="100%">
-<thead>
+  <thead>
     <tr>
       <th>Feature</th>
       <th>Description</th>
-      <th>Resources</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>ES6 and Beyond</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript">ES6 and Beyond</a>
+      </td>
       <td>New features introduced in ECMAScript 2015 and later versions.</td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript">Documentation</a><hr />
-        <a href="https://www.javascripttutorial.net/es-next/">Tutorial</a>
-      </td>
     </tr>
     <tr>
-      <td>Template Literals</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">Template Literals</a>
+      </td>
       <td>String literals allowing embedded expressions.</td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">Article</a><hr />
-        <a href="https://www.youtube.com/watch?v=_y9oxzTGERs">Video</a>
-      </td>
     </tr>
     <tr>
-      <td>Destructuring Assignment</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">Destructuring Assignment</a>
+      </td>
       <td>Extracting data from arrays and objects into distinct variables.</td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">Guide</a><hr />
-        <a href="https://www.freecodecamp.org/news/array-and-object-destructuring-in-javascript/">Examples</a>
-      </td>
     </tr>
     <tr>
-      <td>Rest and Spread Operators</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters">Rest and Spread Operators</a>
+      </td>
       <td>Rest parameter syntax and spread syntax for function arguments and array/object manipulation.</td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters">Rest Parameters</a><hr />
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax">Spread Syntax</a>
-      </td>
     </tr>
     <tr>
-      <td>Default Parameters</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters">Default Parameters</a>
+      </td>
       <td>Values assigned to function parameters if no value or undefined is passed.</td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters">Documentation</a><hr />
-        <a href="https://www.javascripttutorial.net/es-next/javascript-default-parameters/">Tutorial</a>
-      </td>
     </tr>
     <tr>
-      <td>Enhanced Object Literals</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer">Enhanced Object Literals</a>
+      </td>
       <td>New syntax for defining objects in a more concise and flexible way.</td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer">Guide</a><hr />
-        <a href="https://www.javascripttutorial.net/es6/javascript-object-literals/">Example</a>
-      </td>
     </tr>
     <tr>
-      <td>Iterators and Generators</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators">Iterators and Generators</a>
+      </td>
       <td>Iteration protocols for custom data structures and asynchronous iteration.</td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators">Documentation</a>, 
-        <a href="https://www.youtube.com/watch?v=qpS5nZkP5d4">Tutorial</a>
-      </td>
     </tr>
     <tr>
-      <td>Symbols</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol">Symbols</a>
+      </td>
       <td>Unique and immutable data type for identifying object properties.</td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol">Guide</a><hr /> 
-        <a href="https://www.javascripttutorial.net/es6/javascript-symbols/">Tutorial</a>
-      </td>
     </tr>
     <tr>
-      <td>Optional Chaining</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining">Optional Chaining</a>
+      </td>
       <td>Safe navigation through properties of an object without checking for existence.</td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining">Documentation</a><hr />
-        <a href="https://www.javascripttutorial.net/es-next/javascript-optional-chaining/">Tutorial</a>
-      </td>
     </tr>
     <tr>
-      <td>Nullish Coalescing</td>
-      <td>Operator for providing a default value when dealing with null or undefined.</td>
       <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator">Guide</a> <hr />
-        <a href="https://www.javascripttutorial.net/es-next/javascript-nullish-coalescing-operator/">Tutorial</a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator">Nullish Coalescing</a>
       </td>
+      <td>Operator for providing a default value when dealing with null or undefined.</td>
     </tr>
   </tbody>
 </table>
@@ -1092,312 +925,364 @@ This section is dedicated to providing valuable resources for learning and maste
 > Projects which can help you to enhance your development skills and build your resumes.
 
 ### Beginner Level Projects
-> The Comprehensive list empowers you to embark on your JavaScript coding journey!
 
 <table width="100%">
   <tr>
     <th>Project</th>
     <th>Concepts</th>
-    <th>Resources</th>
   </tr>
   <tr>
-    <td>Interactive To-Do List</td>
-    <td >DOM manipulation, event listeners, arrays, local storage (optional)</td>
-    <td >
-        <a href="https://www.youtube.com/watch?v=bivmcufOJ34">YouTube tutorial</a><br><hr />
+    <td>
+      <a href="https://www.youtube.com/watch?v=bivmcufOJ34">Interactive To-Do List</a><br>
       <a href="https://skillcrush.com/">Website with code (includes additional features like filtering)</a>
     </td>
+    <td>DOM manipulation, event listeners, arrays, local storage (optional)</td>
   </tr>
   <tr>
-    <td>Simple Calculator</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=j59qQ7YWLxw">Simple Calculator</a><br>
+      <a href="https://zerotomastery.io/courses/javascript-projects/">Website with code</a>
+    </td>
     <td>Variables, operators, conditional statements (if/else)</td>
-    <td>
-       <a href="https://www.youtube.com/watch?v=j59qQ7YWLxw">YouTube tutorial</a><br><hr />
-       <a href="https://zerotomastery.io/courses/javascript-projects/">Website with code</a>
-    </td>
   </tr>
   <tr>
-    <td>Random Quote Generator</td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random">Random Quote Generator</a><br>
+      <a href="https://github.com/topics/random-quote-generator">GitHub repo (for reference and ideas)</a>
+    </td>
     <td>Arrays, DOM manipulation, event listeners (optional)</td>
-    <td>
-       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random">YouTube tutorial</a><br><hr />
-       <a href="https://github.com/topics/random-quote-generator">GitHub repo (for reference and ideas)</a>
-    </td>
   </tr>
   <tr>
-    <td>Rock-Paper-Scissors Game</td>
-    <td>Variables, user input, conditional statements, DOM manipulation</td>
     <td>
-       <a href="https://www.youtube.com/watch?v=pkvY3U1rr9Y">YouTube tutorial</a><br><hr />
+      <a href="https://www.youtube.com/watch?v=pkvY3U1rr9Y">Rock-Paper-Scissors Game</a><br>
       <a href="https://www.freecodecamp.org/news/learn-javascript-by-coding-7-games/">Website with code (various beginner games)</a>
     </td>
+    <td>Variables, user input, conditional statements, DOM manipulation</td>
   </tr>
   <tr>
-    <td>Guessing Game (Number or Word)</td>
-    <td>Variables, user input, loops (while or for), conditional statements</td>
     <td>
-      <a href="https://www.youtube.com/watch?v=bDHB535KsuI">YouTube tutorial (number guessing)</a><br><hr />
-      <a href="https://www.youtube.com/watch?v=dgvyE1sJS3Y">YouTube tutorial (word guessing)</a>
+      <a href="https://www.youtube.com/watch?v=bDHB535KsuI">Guessing Game (Number)</a><br>
+      <a href="https://www.youtube.com/watch?v=dgvyE1sJS3Y">Guessing Game (Word)</a>
     </td>
+    <td>Variables, user input, loops (while or for), conditional statements</td>
   </tr>
   <tr>
-    <td>Countdown Timer</td>
-    <td>Date objects, event listeners, DOM manipulation</td>
     <td>
-       <a href="https://m.youtube.com/watch?v=5pyYfcnqKMY">YouTube tutorial</a><br><hr />
+      <a href="https://m.youtube.com/watch?v=5pyYfcnqKMY">Countdown Timer</a><br>
       <a href="https://zerotomastery.io/">Website with code</a>
     </td>
+    <td>Date objects, event listeners, DOM manipulation</td>
   </tr>
   <tr>
-    <td>Light/Dark Mode Switcher</td>
-    <td>DOM manipulation, event listeners, local storage (optional)</td>
     <td>
-     <a href="https://m.youtube.com/watch?v=xodD0nw2veQ">YouTube tutorial</a><br><hr />
+      <a href="https://m.youtube.com/watch?v=xodD0nw2veQ">Light/Dark Mode Switcher</a><br>
       <a href="https://docs.github.com/en/get-started/accessibility/managing-your-theme-settings">Website with code</a>
     </td>
+    <td>DOM manipulation, event listeners, local storage (optional)</td>
   </tr>
   <tr>
-    <td>Interactive Weather App</td>
+    <td>
+      <a href="https://m.youtube.com/watch?v=VaDUGPMjzOM">Interactive Weather App</a><br>
+      <a href="https://openweathermap.org/api">Website with code (uses an API key)</a>
+    </td>
     <td>Fetch API, DOM manipulation, displaying weather data</td>
-    <td>
-       <a href="https://m.youtube.com/watch?v=VaDUGPMjzOM">YouTube tutorial</a><br><hr />
-       <a href="https://openweathermap.org/api">Website with code (uses an API key)</a>
-    </td>
   </tr>
   <tr>
-    <td>Simple Drawing App</td>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLSxgVLtIB0IFmQGuVMSE_wDHPW5rq4Ik7">Simple Drawing App</a><br>
+      <a href="https://p5js.org/">Website with code (powerful library for creative coding)</a>
+    </td>
     <td>Canvas API, event listeners, drawing shapes and lines</td>
-    <td>
-      <a href="https://www.youtube.com/playlist?list=PLSxgVLtIB0IFmQGuVMSE_wDHPW5rq4Ik7">YouTube tutorial</a><br><hr /> <a href="https://p5js.org/">Website with code (powerful library for creative coding)</a>
-    </td>
   </tr>
   <tr>
-    <td>Password Generator</td>
-    <td>Arrays, random number generation, string manipulation</td>
     <td>
-     <a href="https://m.youtube.com/watch?v=m5XF1OQ6rSg">YouTube tutorial</a><br><hr />
+      <a href="https://m.youtube.com/watch?v=m5XF1OQ6rSg">Password Generator</a><br>
       <a href="https://w3schools.invisionzone.com/topic/25095-javascript-password-generator/">Website with code</a>
     </td>
+    <td>Arrays, random number generation, string manipulation</td>
   </tr>
   <tr>
-    <td>Sticky Navigation Bar</td>
+    <td>
+      <a href="https://m.youtube.com/watch?v=tioN7eYXDR0">Sticky Navigation Bar</a><br>
+      <a href="https://www.w3schools.com/howto/howto_js_navbar_sticky.asp">Website with code (uses CSS but adaptable with JS)</a>
+    </td>
     <td>DOM manipulation, event listeners, window object (for scroll position)</td>
-    <td>
-      <a href="https://m.youtube.com/watch?v=tioN7eYXDR0">YouTube tutorial</a><br><hr />
-       <a href="https://www.w3schools.com/howto/howto_js_navbar_sticky.asp">Website with code (uses CSS but adaptable with JS)</a>
-    </td>
   </tr>
   <tr>
-    <td>Image Gallery (Slideshow or Carousel)</td>
+    <td>
+      <a href="https://m.youtube.com/watch?v=sQ_dX1XW6b4">Image Gallery (Slideshow)</a><br>
+      <a href="https://www.youtube.com/watch?v=XNUhFEPkQUc">Image Gallery (Carousel)</a>
+    </td>
     <td>DOM manipulation, event listeners, arrays (for image data), timers (optional for automatic transitions)</td>
-    <td>
-     <a href="https://m.youtube.com/watch?v=sQ_dX1XW6b4">YouTube tutorial (slideshow)</a><br><hr /><a href="https://www.youtube.com/watch?v=XNUhFEPkQUc">YouTube tutorial (carousel)</a>
-    </td>
   </tr>
   <tr>
-    <td>Movie App (Basic Search or Listing)</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=iWwU-6edn5E">Movie App (Basic Search or Listing)</a>
+    </td>
     <td>Fetch API, DOM manipulation, displaying movie data (may require an API key or public dataset)</td>
-    <td> 
-       <a href="https://www.youtube.com/watch?v=iWwU-6edn5E">YouTube tutorial</a</td>
-    </tr>
+  </tr>
 </table>
 
 ### Intermediate Level Projects
-> Remember, these are just starting points. Feel free to tailor these ideas or explore other projects based on your interests!
 
 <table width="100%">
   <tr>
     <th>Project</th>
     <th>Concepts</th>
-    <th>Resources</th>
   </tr>
-<tr>
-  <td>E-commerce Website (Simplified)</td>
-  <td>DOM manipulation, forms, event listeners, user authentication (optional), shopping cart functionality, basic database interaction (optional)</td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=N3FDyheHVMM">YouTube tutorial</a><br><hr />
-    <a href="https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site/">Website with code (uses a framework)</a>
-  </td>
-</tr>
-<tr>
-  <td>Weather App with Advanced Features</td>
-  <td>Fetch API, weather APIs (potentially with paid plans for more data), charts and graphs (using libraries like Chart.js), user location tracking (optional)</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=VaDUGPMjzOM">YouTube tutorial (incorporating charts)</a><br><hr />
-    <a href="https://openweathermap.org/api">Website with weather API (free tier available)</a>
-  </td>
-</tr>
-<tr>
-  <td>Memory Game</td>
-  <td>Arrays, DOM manipulation, timers, event listeners, game logic (matching pairs)</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=-tlb4tv4mC4">YouTube tutorial</a><br><hr />
-    <a href="https://codepen.io/tag/memory%20game">Website with code</a>
-  </td>
-</tr>
-<tr>
-  <td>Tic-Tac-Toe with AI Player</td>
-  <td>Arrays, DOM manipulation, event listeners, game logic (winning conditions), AI algorithms (minimax or alpha-beta pruning)</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=JN6-OphA_VE">YouTube tutorial</a><br><hr />
-    <a href="https://github.com/topics/tic-tac-toe-ai">Website with code</a>
-  </td>
-</tr>
-<tr>
-  <td>Interactive Charting Library</td>
-  <td>DOM manipulation, event listeners, data structures (arrays, objects), D3.js library for data visualization</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=stqJ2vd0LLo">YouTube tutorial</a><br><hr />
-    <a href="https://itequia.com/en/d3-what-is-data-driven-documents/">Website (D3.js library)</a>
-  </td>
-</tr>
-<tr>
-  <td>Real-Time Data Streaming (Simplified)</td>
-  <td>WebSockets, event listeners, data streaming (using libraries like Socket.IO), potentially server-side implementation</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=rxzOqP9YwmM">YouTube tutorial</a><br><hr />
-    <a href="https://socket.io/docs/v4/">Website (Socket.IO library)</a>
-  </td>
-</tr>
-<tr>
-  <td>RESTful API Integration</td>
-  <td>Fetch API, asynchronous programming, working with APIs (potentially using third-party APIs)</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=cuEtnrL9-H0">YouTube tutorial</a><br><hr />
-    <a href="https://gist.github.com/justsml/529d0b1ddc5249095ff4b890aad5e801">GitHub repo (example with public API)</a><br><hr />
-    <a href="https://www.w3schools.com/js/js_api_intro.asp">Website with code (uses public API)</a>
-  </td>
-</tr>
-<tr>
-  <td>Drawing/Painting App with Advanced Features</td>
-  <td>Canvas API, event listeners, color manipulation (using libraries like ColorThief), layers (optional)</td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=TEaQo1XMCSE">YouTube tutorial (advanced canvas features)</a><br><hr />
-    <a href="https://github.com/fabricjs">GitHub repo (canvas drawing library)</a><br><hr />
-    <a href="https://github.com/lokesh/color-thief">Website (ColorThief library)</a>
-  </td>
-</tr>
-<tr>
-  <td>Music Player with Visualization</td>
-  <td>Audio API, Web Audio API, event listeners, DOM manipulation, canvas or SVG for visualizations.</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=p4OHVJxd2FI">YouTube tutorial (basic audio)</a><br><hr />
-    <a href="https://github.com/WebAudio/web-audio-api">GitHub repo (Web Audio API examples)</a><br><hr />
-    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API">Website (Web Audio API)</a>
-  </td>
-</tr>
-
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=bivmcufOJ34">Interactive To-Do List</a><br>
+      <a href="https://skillcrush.com/">Website with code (includes additional features like filtering)</a>
+    </td>
+    <td>DOM manipulation, event listeners, arrays, local storage (optional)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=j59qQ7YWLxw">Simple Calculator</a><br>
+      <a href="https://zerotomastery.io/courses/javascript-projects/">Website with code</a>
+    </td>
+    <td>Variables, operators, conditional statements (if/else)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random">Random Quote Generator</a><br>
+      <a href="https://github.com/topics/random-quote-generator">GitHub repo (for reference and ideas)</a>
+    </td>
+    <td>Arrays, DOM manipulation, event listeners (optional)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=pkvY3U1rr9Y">Rock-Paper-Scissors Game</a><br>
+      <a href="https://www.freecodecamp.org/news/learn-javascript-by-coding-7-games/">Website with code (various beginner games)</a>
+    </td>
+    <td>Variables, user input, conditional statements, DOM manipulation</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=bDHB535KsuI">Guessing Game (Number)</a><br>
+      <a href="https://www.youtube.com/watch?v=dgvyE1sJS3Y">Guessing Game (Word)</a>
+    </td>
+    <td>Variables, user input, loops (while or for), conditional statements</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=5pyYfcnqKMY">Countdown Timer</a><br>
+      <a href="https://zerotomastery.io/">Website with code</a>
+    </td>
+    <td>Date objects, event listeners, DOM manipulation</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=xodD0nw2veQ">Light/Dark Mode Switcher</a><br>
+      <a href="https://docs.github.com/en/get-started/accessibility/managing-your-theme-settings">Website with code</a>
+    </td>
+    <td>DOM manipulation, event listeners, local storage (optional)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=VaDUGPMjzOM">Interactive Weather App</a><br>
+      <a href="https://openweathermap.org/api">Website with code (uses an API key)</a>
+    </td>
+    <td>Fetch API, DOM manipulation, displaying weather data</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLSxgVLtIB0IFmQGuVMSE_wDHPW5rq4Ik7">Simple Drawing App</a><br>
+      <a href="https://p5js.org/">Website with code (powerful library for creative coding)</a>
+    </td>
+    <td>Canvas API, event listeners, drawing shapes and lines</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=m5XF1OQ6rSg">Password Generator</a><br>
+      <a href="https://w3schools.invisionzone.com/topic/25095-javascript-password-generator/">Website with code</a>
+    </td>
+    <td>Arrays, random number generation, string manipulation</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=tioN7eYXDR0">Sticky Navigation Bar</a><br>
+      <a href="https://www.w3schools.com/howto/howto_js_navbar_sticky.asp">Website with code (uses CSS but adaptable with JS)</a>
+    </td>
+    <td>DOM manipulation, event listeners, window object (for scroll position)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=sQ_dX1XW6b4">Image Gallery (Slideshow)</a><br>
+      <a href="https://www.youtube.com/watch?v=XNUhFEPkQUc">Image Gallery (Carousel)</a>
+    </td>
+    <td>DOM manipulation, event listeners, arrays (for image data), timers (optional for automatic transitions)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=iWwU-6edn5E">Movie App (Basic Search or Listing)</a>
+    </td>
+    <td>Fetch API, DOM manipulation, displaying movie data (may require an API key or public dataset)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=N3FDyheHVMM">E-commerce Website (Simplified)</a><br>
+      <a href="https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site/">Website with code (uses a framework)</a>
+    </td>
+    <td>DOM manipulation, forms, event listeners, user authentication (optional), shopping cart functionality, basic database interaction (optional)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=VaDUGPMjzOM">Weather App with Advanced Features</a><br>
+      <a href="https://openweathermap.org/api">Website with weather API (free tier available)</a>
+    </td>
+    <td>Fetch API, weather APIs (potentially with paid plans for more data), charts and graphs (using libraries like Chart.js), user location tracking (optional)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=-tlb4tv4mC4">Memory Game</a><br>
+      <a href="https://codepen.io/tag/memory%20game">Website with code</a>
+    </td>
+    <td>Arrays, DOM manipulation, timers, event listeners, game logic (matching pairs)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=JN6-OphA_VE">Tic-Tac-Toe with AI Player</a><br>
+      <a href="https://github.com/topics/tic-tac-toe-ai">Website with code</a>
+    </td>
+    <td>Arrays, DOM manipulation, event listeners, game logic (winning conditions), AI algorithms (minimax or alpha-beta pruning)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=stqJ2vd0LLo">Interactive Charting Library</a><br>
+      <a href="https://itequia.com/en/d3-what-is-data-driven-documents/">Website (D3.js library)</a>
+    </td>
+    <td>DOM manipulation, event listeners, data structures (arrays, objects), D3.js library for data visualization</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=rxzOqP9YwmM">Real-Time Data Streaming (Simplified)</a><br>
+      <a href="https://socket.io/docs/v4/">Website (Socket.IO library)</a>
+    </td>
+    <td>WebSockets, event listeners, data streaming (using libraries like Socket.IO), potentially server-side implementation</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=cuEtnrL9-H0">RESTful API Integration</a><br>
+      <a href="https://gist.github.com/justsml/529d0b1ddc5249095ff4b890aad5e801">GitHub repo (example with public API)</a><br>
+      <a href="https://www.w3schools.com/js/js_api_intro.asp">Website with code (uses public API)</a>
+    </td>
+    <td>Fetch API, asynchronous programming, working with APIs (potentially using third-party APIs)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=TEaQo1XMCSE">Drawing/Painting App with Advanced Features</a><br>
+      <a href="https://github.com/fabricjs">GitHub repo (canvas drawing library)</a><br>
+      <a href="https://github.com/lokesh/color-thief">Website (ColorThief library)</a>
+    </td>
+    <td>Canvas API, event listeners, color manipulation (using libraries like ColorThief), layers (optional)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m.youtube.com/watch?v=p4OHVJxd2FI">Music Player with Visualization</a><br>
+      <a href="https://github.com/WebAudio/web-audio-api">GitHub repo (Web Audio API examples)</a><br>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API">Website (Web Audio API)</a>
+    </td>
+    <td>Audio API, Web Audio API, event listeners, DOM manipulation, canvas or SVG for visualizations.</td>
+  </tr>
 </table>
 
 ### Advance Level Projects
-> Remember: These are ambitious projects, so break them down into smaller
+
 <table width="100%">
   <tr>
     <th>Project</th>
     <th>Concepts</th>
-    <th>Resources</th>
   </tr>
-<tr>
-  <td>Single-Page Application (SPA) with a Backend Framework</td>
-  <td>JavaScript frameworks (React, Vue.js, Angular), routing, state management, integrating with a backend framework (Node.js with Express, Python with Django, etc.) for data persistence and API creation.</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=SqcY0GlETPk">YouTube tutorial (React SPA)</a><br><hr />
-    <a href="https://github.com/facebook/react">GitHub repo (sample React SPA)</a><br><hr />
-    <a href="https://www.freecodecamp.org/news/free-8-hour-node-express-course/">Backend framework tutorial (Node.js with Express)</a>
-  </td>
-</tr>
-<tr>
-  <td>Interactive Data Visualization Dashboard</td>
-  <td>JavaScript visualization libraries (D3.js, Chart.js), data fetching (APIs or databases), user interaction for filtering and exploring data.</td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=xkBheRZTkaw">YouTube tutorial (Interactive Data Visualization with D3)</a><br><hr />
-    <a href="https://github.com/d3/d3">GitHub repo (D3.js examples)</a><br><hr />
-    <a href="https://www.chartjs.org/docs/latest/getting-started/">Website (Chart.js library)</a>
-  </td>
-</tr>
-<tr>
-  <td>Machine Learning Model Deployment in the Browser</td>
-  <td>JavaScript machine learning libraries (TensorFlow.js, Keras.js), model training (potentially using cloud platforms or local training), integrating trained models for predictions in the browser. (consider TensorFlow.js for browser deployment)</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=Y_XM3Bu-4yc">YouTube tutorial (TensorFlow.js intro)</a><br><br>
-    <a href="https://github.com/tensorflow">GitHub repo (TensorFlow.js examples)</a><br><hr />
-    <a href="https://transcranial.github.io/keras-js/">Website (Keras.js library)</a>
-  </td>
-</tr>
-
-<tr>
-  <td>Natural Language Processing (NLP) Application</td>
-  <td>JavaScript NLP libraries (spaCy.js, NLTK.js), sentiment analysis, text summarization, named entity recognition. (consider spaCy.js for browser-based applications)</td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=WnGPv6HnBok">YouTube tutorial (spaCy.js intro)</a><br><br>
-    <a href="https://github.com/topics/spacy">GitHub repo (spaCy.js examples)</a><br><hr />
-    <a href="https://www.kommunicate.io/blog/nlp-libraries-node-javascript/">Website (NLTK.js library)</a> 
-  </td>
-</tr>
-<tr>
-  <td>Real-Time Collaboration Platform (e.g., Document Editing)</td>
-  <td>WebSockets, server-side implementation with real-time data synchronization (using technologies like Firebase or custom solutions), collaborative editing libraries (e.g., Google Docs uses OT algorithms).</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=pP7quzFmWBY">YouTube tutorial (Firebase Realtime Database)</a><br><hr />
-    <a href="https://github.com/topics/drawing-on-canvas">GitHub repo (Firebase collaborative drawing app)</a><br><hr />
-    <a href="https://en.wikipedia.org/wiki/Operational_transformation">Website (Operational Transformation algorithms)</a>
-  </td>
-</tr>
-<tr>
-  <td>Progressive Web App (PWA)</td>
-  <td>Service Workers, Push Notifications, offline functionality, combining web and native app features.</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=WbbAPfDVqfY">YouTube tutorial (Building a PWA)</a><br><hr />
-    <a href="https://github.com/GoogleChrome/lighthouse">GitHub repo (sample PWA)</a><br><hr />
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Manifest">Website (Progressive Web Apps explainer)</a>
-  </td>
-</tr>
-<tr>
-  <td>3D Game Engine with WebGL</td>
-  <td>WebGL (JavaScript library for 3D graphics), game physics engines (Matter.js, Cannon.js), 3D math (matrices, vectors), animation techniques.</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=kB0ZVUrI4Aw">YouTube tutorial (WebGL basics)</a><br><hr />
-    <a href="https://threejs.org/">GitHub repo (WebGL framework)</a><br><hr />
-    <a href="http://brm.io/matter-js/">Website (Matter.js physics engine)</a>
-  </td>
-</tr>
-<tr>
-  <td>Real-Time Multiplayer Game with WebSockets and Server-Side Logic</td>
-  <td>WebSockets for real-time communication, collision detection and synchronization across clients, server-side game logic and state management.</td>
-  <td>
-    <a href="https://m.youtube.com/watch?v=HXquxWtE5vA">YouTube tutorial (Multiplayer game with Phaser)</a><br><hr />
-    <a href="https://phaser.io/">GitHub repo (Phaser framework)</a><br><hr />
-    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket">Website (WebSockets explainer)</a>
-  </td>
-</tr>
-
+  <tr>
+    <td>
+      Single-Page Application (SPA) with a Backend Framework<br>
+      <a href="https://m.youtube.com/watch?v=SqcY0GlETPk">YouTube tutorial (React SPA)</a><br>
+      <a href="https://github.com/facebook/react">GitHub repo (sample React SPA)</a><br>
+      <a href="https://www.freecodecamp.org/news/free-8-hour-node-express-course/">Backend framework tutorial (Node.js with Express)</a>
+    </td>
+    <td>JavaScript frameworks (React, Vue.js, Angular), routing, state management, integrating with a backend framework (Node.js with Express, Python with Django, etc.) for data persistence and API creation.</td>
+  </tr>
+  <tr>
+    <td>
+      Interactive Data Visualization Dashboard<br>
+      <a href="https://www.youtube.com/watch?v=xkBheRZTkaw">YouTube tutorial (Interactive Data Visualization with D3)</a><br>
+      <a href="https://github.com/d3/d3">GitHub repo (D3.js examples)</a><br>
+      <a href="https://www.chartjs.org/docs/latest/getting-started/">Website (Chart.js library)</a>
+    </td>
+    <td>JavaScript visualization libraries (D3.js, Chart.js), data fetching (APIs or databases), user interaction for filtering and exploring data.</td>
+  </tr>
+  <tr>
+    <td>
+      Machine Learning Model Deployment in the Browser<br>
+      <a href="https://m.youtube.com/watch?v=Y_XM3Bu-4yc">YouTube tutorial (TensorFlow.js intro)</a><br>
+      <a href="https://github.com/tensorflow">GitHub repo (TensorFlow.js examples)</a><br>
+      <a href="https://transcranial.github.io/keras-js/">Website (Keras.js library)</a>
+    </td>
+    <td>JavaScript machine learning libraries (TensorFlow.js, Keras.js), model training (potentially using cloud platforms or local training), integrating trained models for predictions in the browser.</td>
+  </tr>
+  <tr>
+    <td>
+      Natural Language Processing (NLP) Application<br>
+      <a href="https://www.youtube.com/watch?v=WnGPv6HnBok">YouTube tutorial (spaCy.js intro)</a><br>
+      <a href="https://github.com/topics/spacy">GitHub repo (spaCy.js examples)</a><br>
+      <a href="https://www.kommunicate.io/blog/nlp-libraries-node-javascript/">Website (NLTK.js library)</a> 
+    </td>
+    <td>JavaScript NLP libraries (spaCy.js, NLTK.js), sentiment analysis, text summarization, named entity recognition.</td>
+  </tr>
+  <tr>
+    <td>
+      Real-Time Collaboration Platform (e.g., Document Editing)<br>
+      <a href="https://m.youtube.com/watch?v=pP7quzFmWBY">YouTube tutorial (Firebase Realtime Database)</a><br>
+      <a href="https://github.com/topics/drawing-on-canvas">GitHub repo (Firebase collaborative drawing app)</a><br>
+      <a href="https://en.wikipedia.org/wiki/Operational_transformation">Website (Operational Transformation algorithms)</a>
+    </td>
+    <td>WebSockets, server-side implementation with real-time data synchronization (using technologies like Firebase or custom solutions), collaborative editing libraries (e.g., Google Docs uses OT algorithms).</td>
+  </tr>
+  <tr>
+    <td>
+      Progressive Web App (PWA)<br>
+      <a href="https://m.youtube.com/watch?v=WbbAPfDVqfY">YouTube tutorial (Building a PWA)</a><br>
+      <a href="https://github.com/GoogleChrome/lighthouse">GitHub repo (sample PWA)</a><br>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/Manifest">Website (Progressive Web Apps explainer)</a>
+    </td>
+    <td>Service Workers, Push Notifications, offline functionality, combining web and native app features.</td>
+  </tr>
+  <tr>
+    <td>
+      3D Game Engine with WebGL<br>
+      <a href="https://m.youtube.com/watch?v=kB0ZVUrI4Aw">YouTube tutorial (WebGL basics)</a><br>
+      <a href="https://threejs.org/">GitHub repo (WebGL framework)</a><br>
+      <a href="http://brm.io/matter-js/">Website (Matter.js physics engine)</a>
+    </td>
+    <td>WebGL (JavaScript library for 3D graphics), game physics engines (Matter.js, Cannon.js), 3D math (matrices, vectors), animation techniques.</td>
+  </tr>
+  <tr>
+    <td>
+      Real-Time Multiplayer Game with WebSockets and Server-Side Logic<br>
+      <a href="https://m.youtube.com/watch?v=HXquxWtE5vA">YouTube tutorial (Multiplayer game with Phaser)</a><br>
+      <a href="https://phaser.io/">GitHub repo (Phaser framework)</a><br>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket">Website (WebSockets explainer)</a>
+    </td>
+    <td>WebSockets for real-time communication, collision detection and synchronization across clients, server-side game logic and state management.</td>
+  </tr>
 </table>
-
-#### Additional Tips:
-
-- Start with simpler projects and gradually progress to more complex ones.
-- Break down larger projects into smaller, achievable tasks.
-- Experiment and don't be afraid to make mistakes. 
-- Learning happens through practice.
-- Use the developer tools in your browser to inspect elements and experiment with JavaScript code.
-- There are many online communities and forums where you can ask questions and get help from other JavaScript learners.
-
 
 
 
 
 ### Version Control
 > Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+Here's the revised table:
 
 <table width="100%">
   <tr>
     <th>Topic</th>
-    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="2">Git Basics</td>
-    <td><a href="https://git-scm.com/doc">Official Git Documentation</a></td>
+    <td ><a href="https://git-scm.com/doc">Git Basics</a></td>
     <td>Comprehensive official documentation for Git, covering installation, basic concepts, and advanced usage.</td>
   </tr>
   <tr>
@@ -1405,18 +1290,15 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>Detailed tutorials from Atlassian on Git basics, including commands and workflows.</td>
   </tr>
   <tr>
-    <td>Repositories</td>
-    <td><a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories">GitHub Docs - About Repositories</a></td>
+    <td><a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories">Repositories</a></td>
     <td>An overview of GitHub repositories, including how to create and manage them.</td>
   </tr>
   <tr>
-    <td>Commits</td>
-    <td><a href="https://www.git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository">Pro Git Book - Recording Changes</a></td>
+    <td><a href="https://www.git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository">Commits</a></td>
     <td>A chapter from the Pro Git book that covers making commits, viewing commit history, and more.</td>
   </tr>
   <tr>
-    <td rowspan="2">Branching and Merging</td>
-    <td><a href="https://www.atlassian.com/git/tutorials/using-branches">Atlassian Git Tutorials - Using Branches</a></td>
+    <td><a href="https://www.atlassian.com/git/tutorials/using-branches">Branching and Merging</a></td>
     <td>An in-depth tutorial on creating, using, and merging branches in Git.</td>
   </tr>
   <tr>
@@ -1424,8 +1306,7 @@ This section is dedicated to providing valuable resources for learning and maste
     <td>A chapter from the Pro Git book that covers the basics of branching and merging in Git.</td>
   </tr>
   <tr>
-    <td>Pull Requests</td>
-    <td><a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests">GitHub Docs - Collaborating with Pull Requests</a></td>
+    <td><a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests">Pull Requests</a></td>
     <td>Documentation on creating and managing pull requests on GitHub.</td>
   </tr>
 </table>
@@ -1437,22 +1318,18 @@ This section is dedicated to providing valuable resources for learning and maste
 <table width="100%">
   <tr>
     <th>Platform</th>
-    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Vercel</td>
-    <td><a href="https://vercel.com/docs">Vercel Documentation</a></td>
+    <td><a href="https://vercel.com/docs">Vercel</a></td>
     <td>Comprehensive documentation on how to deploy applications using Vercel, covering setup, configuration, and best practices.</td>
   </tr>
   <tr>
-    <td>Netlify</td>
-    <td><a href="https://docs.netlify.com/">Netlify Documentation</a></td>
+    <td><a href="https://docs.netlify.com/">Netlify</a></td>
     <td>Official documentation for deploying websites and applications with Netlify, including guides on continuous deployment, domain management, and more.</td>
   </tr>
   <tr>
-    <td>Heroku</td>
-    <td><a href="https://devcenter.heroku.com/">Heroku Dev Center</a></td>
+    <td><a href="https://devcenter.heroku.com/">Heroku</a></td>
     <td>Detailed guides and documentation on deploying and managing applications on Heroku, covering a wide range of languages and frameworks.</td>
   </tr>
 </table>
@@ -1583,32 +1460,36 @@ This section is dedicated to providing valuable resources for learning and maste
     <th>Organization</th>
   </tr>
   <tr>
-    <td>JavaScript Basics</td>
     <td><a href="https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript">Google Developers</a></td>
+    <td>JavaScript Basics</td>
+
   </tr>
   <tr>
-    <td>Introduction to Web Development using JavaScript</td>
     <td><a href="https://www.edx.org/learn/web-development/ibm-introduction-to-web-development-with-html5-css3-and-javascript">The Hong Kong University of Science and Technology (HKUST) x edX</a></td>
+    <td>Introduction to Web Development using JavaScript</td>
   </tr>
   <tr>
-    <td>Programming for Everybody (Getting Started with Python)</td>
-    <td><a href="https://www.coursera.org/learn/python">The University of Michigan x Coursera</a></td>
+    <td><a href="https://www.coursera.org/learn/python">The University of Michigan x Coursera</a>
+        <td>Programming for Everybody (Getting Started with Python)</td>
   </tr>
   <tr>
-    <td>Learn JavaScript</td>
     <td><a href="https://www.codecademy.com/catalog/language/javascript">Codecademy</a></td>
+        <td>Learn JavaScript</td>
+
   </tr>
   <tr>
-    <td>JavaScript Programming Course</td>
-    <td><a href="https://www.khanacademy.org/computing/computer-programming/programming">Khan Academy</a></td>
+    <td><a href="https://www.khanacademy.org/computing/computer-programming/programming">Khan Academy</a>
+      <td>JavaScript Programming Course</td>
+</td>
   </tr>
   <tr>
-    <td>Intro to JavaScript and DOM Manipulation</td>
     <td><a href="https://www.udacity.com/course/intro-to-javascript--ud803">Udacity</a></td>
+      <td>Intro to JavaScript and DOM Manipulation</td>
   </tr>
   <tr>
-    <td>Learn to Code</td>
     <td><a href="https://codecombat.com/play">CodeCombat</a></td>
+    <td>Learn to Code</td>
+
   </tr>
 </table>
 
@@ -1616,37 +1497,41 @@ This section is dedicated to providing valuable resources for learning and maste
 ### Paid Certification Courses
 <table>
   <tr>
-    <th>Course</th>
     <th>Organization</th>
+    <th>Course</th>
 
   </tr>
   <tr>
-    <td>The Complete JavaScript Course 2024: From Zero to Expert!</td>
-    <td><a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy</a></td>
+  <td><a href="https://www.udemy.com/course/the-complete-javascript-course/">Udemy</a></td>
+  <td>The Complete JavaScript Course 2024: From Zero to Expert!</td>
+
   </tr>
   <tr>
-    <td>Intermediate JavaScript Nanodegree</td>
     <td><a href="https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032">Udacity</a></td>
+    <td>Intermediate JavaScript Nanodegree</td>
+
   </tr>
   <tr>
-    <td>JavaScript: Getting Started</td>
     <td><a href="https://www.pluralsight.com/courses/javascript-getting-started">Pluralsight</a></td>
+    <td>JavaScript: Getting Started</td>
+
   </tr>
   <tr>
-    <td>JavaScript Essential Training</td>
     <td><a href="https://www.linkedin.com/learning/javascript-essential-training-3">LinkedIn Learning</a></td>
+   <td>JavaScript Essential Training</td>
   </tr>
   <tr>
-    <td>JavaScript Introduction</td>
     <td><a href="https://www.edx.org/professional-certificate/introduction-to-web-development">edX</a></td>
+        <td>JavaScript Introduction</td>
   </tr>
   <tr>
-    <td>IBM Full-Stack JavaScript Developer Professional Certificate</td>
-    <td><a href="https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer">Coursera</a></td>
+    <td><a href="https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer">Coursera</a>
+        <td>IBM Full-Stack JavaScript Developer Professional Certificate</td>
+    </td>
   </tr>
   <tr>
-    <td>JavaScript Techdegree</td>
     <td><a href="https://teamtreehouse.com/techdegree/javascript-techdegree">Treehouse</a></td>
+        <td>JavaScript Techdegree</td>
   </tr>
 </table>
 
@@ -1655,7 +1540,6 @@ This section is dedicated to providing valuable resources for learning and maste
 > Additional Resources that you may find helpful
 
 ### JavaScript Games
-> Here are some engaging games to learn JavaScript that cater to different learning styles
 
 <table width="100%">
   <tr>
@@ -1690,7 +1574,6 @@ This section is dedicated to providing valuable resources for learning and maste
 
 
 ### JavaScript Communities
-> Here are some great online communities to connect with other JavaScript developers
 
 <table width="100%">
   <tr>
@@ -1727,7 +1610,6 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 ### JavaScript Documentations
-> Here are some excellent resources that you can consider official references for learning JavaScript
 <table>
   <tr>
     <th>Documentation</th>
@@ -1749,7 +1631,6 @@ This section is dedicated to providing valuable resources for learning and maste
 
 
 ### JavaScript Books
-> Books you may refer
 
 <table width="100%">
   <tr>
