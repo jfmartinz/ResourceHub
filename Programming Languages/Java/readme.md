@@ -1099,7 +1099,7 @@ This section is a curated collection of valuable Java and Java development resou
   <tr>
     <td>Cointrader</td>
     <td>Coin Trader is a Java-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
-    <td><a href="https://medium.com/automation-generation/build-an-automated-stock-trading-system-in-java-bfb5b739eb6f">Cointrader using Javva </a></td>
+    <td><a href="https://medium.com/automation-generation/build-an-automated-stock-trading-system-in-java-bfb5b739eb6f">Cointrader using Java </a></td>
   </tr>
   <tr>
     <td>Network Security Toolkit</td>
