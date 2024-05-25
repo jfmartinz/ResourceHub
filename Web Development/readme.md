@@ -9,14 +9,13 @@ This category is a curated collection of valuable web development resources cont
   - [Front-End Development Roadmap](#front-end-roadmap)
   - [BackEnd Development Roadmap](#back-end-roadmap)
   - [Full-Stack Development Roadmap](#full-stack-roadmap)
-  - [Deployment Roadmap](#deployment-roadmap)
 
 - [Tutorials or Courses](#tutorials-or-courses)
 
   - [Front-End Development](#front-end-development)
   - [Back-End Development](#backend-development)
   - [Full-Stack Development](#full-stack-development)
-      - [Deployment](#deployment)
+    - [Deployment](#deployment)
 
 - [Tools](#tools)<br>
   - [Typography](#typography)
@@ -93,19 +92,6 @@ This category is a curated collection of valuable web development resources cont
 <tr>
    <td><a href="https://drive.google.com/file/d/11fcT3EntbnverpXN6A4XwBC66KmQ-i7e/view?usp=sharing">Full-Stack</a></td>
    <td>This is the roadmap for full-stack development</td>
-</tr>
-</table>
-
-#### Deployment Roadmap
-
-<table width="100%">
-    <tr>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
-<tr>
-   <td><a href="https://roadmap.sh/full-stack">Deployment</a></td>
-   <td>This is the roadmap for full-stack development with deployment</td>
 </tr>
 </table>
 
