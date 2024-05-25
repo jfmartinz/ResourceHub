@@ -316,7 +316,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 </table>
 
 ### Competitions
-Platforms and resources for participating in Data Science competitions to practice and showcase your skills.
+> Platforms and resources for participating in Data Science competitions to practice and showcase your skills.
 
 <table width="100%">
   <tr>
@@ -355,7 +355,7 @@ Platforms and resources for participating in Data Science competitions to practi
 </table>
 
 ### Communities
-
+> These are some communities of Data Science enthusiasts where you can seek help and guidelines.
 <table width="100%">
    <tr>
     <th>Resource Name</th>
@@ -388,6 +388,7 @@ Platforms and resources for participating in Data Science competitions to practi
 </table>
 
 ### GitHub Repositories
+> These are some GitHub Repositories that you can refer to for your journey in the course of Data Science.
 
 <table width="100%">
   <tr>
