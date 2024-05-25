@@ -43,7 +43,7 @@ This category is a curated collection of valuable web development resources cont
   - [Beginner level](#beginner-level-projects)
   - [Intermediate level](#intermediate-level-projects)
   - [Advanced level](#advance-level-projects)
-- [Full-stack with various technology stacks](#various-technolgy-stacks)
+- [Technology stacks](#technology-stacks)
 
 
 ### Roadmaps
@@ -1656,7 +1656,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr>  
   </table>
 
-### Various Technolgy Stacks
+### Technology Stacks
 
 > Typically, a full-stack developer often specializes in a specific stack,which is a combination of front-end,back-end,databases along with other related tools and frameworks.By specializing in a specific stack, developers can focus their learning efforts on mastering the technologies and frameworks within that stack. These examples of full-stack develpoment offers you a clear pathway.
 
@@ -1715,19 +1715,19 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://www.w3schools.com/php/default.asp">PHP</a></td>
         <td>
-        PHP is a server-side scripting language used to handle server-side logic, process user input, interact with databases, and generate dynamic content for web pages.Learn PHP from beginner to advanced levels with this tutorial and reference covering all topics.
+        Learn PHP from beginner right from syntax to advanced levels with this tutorial and reference covering all topics.
         </td>
       </tr>     
       <tr>
         <td><a href="https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&si=DBzaBOOQGmm9MT8r">Front end technology HTML,CSS and JavaScript</a></td>
         <td>
-        For front-end development, HTML, CSS, and JavaScript are commonly used. These technologies handle the presentation layer of web applications, including the layout, design, and interactivity that users interact with in their web browsers.This playlist helps to start your learning journey of front end development.
+        This Website development course will teach you about how to create a website from scratch. This web development course is designed for beginners with an aim to take HTML5, CSS3, JavaScript/ES5/ES6 and other concepts to advanced level.
         </td>
       </tr>  
       <tr>
         <td><a href="https://soshace.com/development-with-lamp-stack-illustrated-address-book-project/">Example project in LAMP stack</a></td>
         <td>
-        Here is project to refer.This is blog on development with LAMP Stack illustrating Address Book Project
+        Here is project to refer.This is blog on development with LAMP Stack illustrating Address Book Project.
         </td>   
   </table>
 
@@ -1744,30 +1744,30 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://www.mongodb.com/resources/languages/mean-stack"> Introduction to MEAN stack</a></td>
         <td>
-         Discover what the MEAN stack is, how it can be used and works, the pros and cons of the MEAN stack.
+         This link helps you to discover what the MEAN stack is, how it can be used and works, the pros and cons of the MEAN stack.
       </tr>
       <tr>
         <td><a href="https://www.geeksforgeeks.org/mean-stack/">MEAN Stack Roadmap</a></td>
         <td>
-         A roadmap for mastering MEAN Stack development involves progressing through various steps, acquiring skills in each component, and gaining hands-on experience. 
+         Here is a roadmap for mastering MEAN Stack development involves progressing through various steps, acquiring skills in each component, and gaining hands-on experience. 
         </td>   
       </tr> 
        <tr>
         <td><a href="https://www.w3schools.com/angular/">Angular,Front-end application framework</a></td>
         <td>
-          A complete tutorial to start learning AngularJS,a JavaScript framework from basic to adavance level
+          This is a complete tutorial to start learning AngularJS,a JavaScript framework from basic to adavance level
         </td>
       </tr>   
       <tr>
         <td><a href="https://learn.mongodb.com/learning-paths/introduction-to-mongodb">A step to learn MongoDB</a></td>
         <td>
-        MongoDb is a NoSQL database system that stores data in a flexible, JSON-like format. MongoDB is known for its scalability, high performance, and ease of use.This is an introduction to MongoDB course that guides you to get started with MongoDB.This includes connecting to a MongoDB database, how to conduct simple CRUD operations, and key topics such as aggregation, indexing, data modeling, and transactions.
+         This learning path includes connecting to a MongoDB database, how to conduct simple CRUD operations, and key topics such as aggregation, indexing, data modeling, and transactions.
         </td>
       </tr> 
       <tr>
         <td><a href="https://www.tutorialspoint.com/nodejs/index.htm">Node.js Overview</a></td>
         <td>
-        Node.js is an open-source and cross-platform JavaScript runtime environment.This is a Node.js Tutorial that guides you right from Installation of Node.js to Connecting MongoDB 
+           This is a Node.js Tutorial that guides you right from Installation of Node.js to Connecting MongoDB 
         </td>
       </tr> 
       <tr>
@@ -1791,7 +1791,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://youtu.be/48SUuk8e55c?si=47ZU4UP5ld9g7TAZ">Complete course on MEAN Stack</a></td>
         <td>
-        All-in-one Course on MEAN stack for the developer 
+        This is a All-In-One Course on MEAN stack for the developer 
         </td>   
       </tr> 
       <tr>
@@ -1803,13 +1803,13 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://www.theknowledgeacademy.com/blog/mean-stack-projects/">Best MEAN Stack Projects Ideas</a></td>
         <td>
-         The top 10 MEAN Stack project ideas range from e-commerce platforms and social media applications to educational websites and financial management tools. 
+         This blog guides you with 10 MEAN Stack project ideas range from e-commerce platforms and social media applications to educational websites and financial management tools. 
         </td>   
       </tr> 
       <tr>
         <td><a href="https://medium.com/@OffshoreITStaffing/apps-built-with-mean-stack-and-mern-stack-47a7c0aa1ab3">Applications built on MEAN stack</a></td>
         <td>
-         Here are 5 Applications built with MEAN Stack:
+         Here you can refer 5 Applications built with MEAN Stack:
           -YouTube
           -Flickr
           -Forbes
@@ -1833,7 +1833,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://www.geeksforgeeks.org/ruby-on-rails-introduction/"> Introduction to Ruby on Rails</a></td>
         <td>
-         Learn more about What is Ruby on Rails along it's features,advantages and disadvantages.
+         Thorugh this intro you can learn more about What is Ruby on Rails along it's features,advantages and disadvantages.
       </tr>
       <tr>
         <td><a href="https://gist.github.com/onlurking/857b1b3a06f6b77c1bc411edb339e603">Ruby and Rails Study Roadmap</a></td>
@@ -1856,7 +1856,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://www.devdungeon.com/content/ruby-sqlite-tutorial">SQLite Database Management</a></td>
         <td>
-         SQLite3 is an awesome cross-platform relational database. Some of the major benefits of SQLite include its simplicity and easy management.To learn more about SQLite and how to use it in general, check out this SQLite3 Tutorial. 
+         To learn more about SQLite and how to use it in general,how to create databases,tables etc. check out this SQLite3 Tutorial. 
         </td>
       </tr> 
       <tr>
@@ -1880,7 +1880,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://optymize.io/blog/top-4-ruby-on-rails-projects-ideas-for-beginners-to-get-started/">Project Ideas for Beginners</a></td>
         <td>
-          Top 4 Ruby On Rails Projects For Beginners
+          Check out the top 4 Ruby On Rails Projects For Beginners
               -The first classic exercise is to build a blog using RoR.
               -Build a simple product catalogue and shopping cart using RoR.
               -Creating an object-oriented quiz game using RoR.
@@ -1890,7 +1890,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://www.clustox.com/blog/famous-ruby-on-rails-apps">Popular Ruby on Rails Apps</a></td>
         <td>
-          Here are the 10 most famous Ruby On Rails Apps And Sites
+          This blog helps you to refer here are the 10 most famous Ruby On Rails Apps And Sites
         </td>   
       </tr> 
 </table>
@@ -1919,19 +1919,19 @@ This section contains hundreds of coding challenges that test your knowledge of 
        <tr>
         <td><a href="https://www.w3schools.com/python/python_intro.asp">Python Programming tutorial.</a></td>
         <td>
-         Python is a popular programming language.Python can be used on a server to create web applications.This tutorial can help you to learn python from scratch.
+           This tutorial can help you to learn Python from scratch, providing a comprehensive and structured approach to understanding the basics and advancing to more complex concepts in Python programming.
         </td>
       </tr>   
       <tr>
         <td><a href="https://youtu.be/F5mRW0jo-U4?si=izlL-Ztc3maNQ1Sy">Python Django Web Framework - Full Course for Beginners</a></td>
         <td>
-           Learn the Python Django framework with this free full course
+           Learn the Python Django framework with this free full course, offering a detailed and comprehensive guide to mastering Django from the basics to advanced features.
         </td>
       </tr> 
       <tr>
         <td><a href="https://youtu.be/fBA-jaWab9k?si=q2DUqIOBhvEjK1vd">Connect Django Backend to React.js Frontend</a></td>
         <td>
-          This will guide you through the process step-by-step using Python,Django and ReactJs. 
+          This will guide you through the process to connect back end with front end step-by-step using Python,Django and ReactJs. 
         </td>
       </tr>  
       <tr>
@@ -1978,25 +1978,25 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://www.geeksforgeeks.org/java-full-stack/"> Introduction to Java web development</a></td>
         <td>
-           This gives complete introduction to Java full stack web development.A “Java full stack” refers to a type of software development technique that involves using the Java programming language for both the front-end and back-end parts of a web application. 
+          Explore the world of Java Full Stack development with this comprehensive guide, covering everything from Java fundamentals to advanced frameworks like Spring and Hibernate, ensuring you master both frontend and backend technologies for building robust applications.
          </td>
       </tr>
       <tr>
         <td><a href="https://www.simplilearn.com/java-developer-roadmap-article">Java Full stack RoadMap</a></td>
         <td>
-         You will gain a quick overview of Java Full Stack development and understand the role of Java in cloud computing, all within the context of various career options for developers.
+         This article helps you to gain a quick overview of Java Full Stack development and understand the role of Java in cloud computing, all within the context of various career options for developers.
         </td>   
       </tr> 
        <tr>
         <td><a href="https://www.w3schools.com/java/java_intro.asp">Java Programming tutorial</a></td>
         <td>
-         Java is a popular high-level, object-oriented programming language, which was originally developed by Sun Microsystems and released in 1995.After completing this tutorial, you will find yourself at a moderate level of expertise in Java Programming, from where you can elevate yourself to the next levels.
+        Master Java programming with this in-depth tutorial, designed to guide you through the essentials of Java development, from basic syntax and concepts to advanced features and best practices.
         </td>
       </tr>   
       <tr>
         <td><a href="https://www.geeksforgeeks.org/spring-boot/">Introduction to SpringBoot</a></td>
         <td>
-          Spring Boot is a Java framework that makes it easier to create and run Java applications. It simplifies the configuration and setup process, allowing developers to focus more on writing code for their applications.This Spring Boot Tutorial is a comprehensive guide that covers both basic and advanced concepts of the Spring Framework. It is designed for beginners as well as professionals.
+         This Spring Boot Tutorial is a comprehensive guide that covers both basic and advanced concepts of the Spring Framework. It is designed for beginners as well as professionals.
         </td>
       </tr> 
       <tr>
@@ -2069,13 +2069,13 @@ This section contains hundreds of coding challenges that test your knowledge of 
        <tr>
         <td><a href="https://www.w3schools.com/cs/index.php">C# Programming Basics</a></td>
         <td>
-         C# is an object-oriented programming language created by Microsoft that runs on the .NET Framework.This tutorial will guide you through the fundamentals of C# programming, providing a strong foundation for developing applications using this versatile language.
+         This tutorial will guide you through the fundamentals of C# programming, providing a strong foundation for developing applications using this versatile language.
         </td>
       </tr>   
       <tr>
         <td><a href="https://www.sqlservertutorial.net/getting-started/what-is-sql-server/">SQL Server Database Management</a></td>
         <td>
-          SQL Server is a relational database management system (RDBMS) developed and marketed by Microsoft.Similar to other RDBMS software, SQL Server is built on top of SQL, a standard programming language for interacting with relational databases.This tutorial guides you on complete SQL Server Database Management.
+         This tutorial guides you on complete SQL Server Database Management, covering everything from the fundamentals of SQL Server architecture and installation to  ensuring you gain comprehensive expertise in managing SQL Server databases effectively.
         </td>
       </tr> 
       <tr>
@@ -2129,7 +2129,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
        <tr>
         <td><a href="https://pwskills.com/blog/mern-stack-development-roadmap/">MERN stack Roadmap</a></td>
         <td>
-         The MERN (MongoDB, Express.js, React, Node.js) Stack is a powerful combination of technologies for building robust web applications. A roadmap for mastering MERN Stack development involves progressing through various stages, acquiring skills in each component, and gaining hands-on experience. 
+        This is a roadmap for mastering MERN Stack development involves progressing through various stages, acquiring skills in each component, and gaining hands-on experience. 
          </td>
       </tr>   
       <tr>
