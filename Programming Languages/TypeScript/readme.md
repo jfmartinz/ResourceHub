@@ -13,7 +13,7 @@ Below are some essential resources to help you get started and deepen your under
 - [Roadmap](#roadmap)
    - [TypeScript Developer Roadmap I](#roadmap)
    - [TypeScript Developer Roadmap II](#roadmap)
-- [Tutorials](#tutorials)
+- [Tutorial](#tutorial)
    - [Introduction](#introduction)
    - [Fundamentals](#fundamentals)
    - [Classes and OOP](#classes-and-oop)
