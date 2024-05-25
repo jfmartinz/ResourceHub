@@ -72,70 +72,55 @@ This section is a curated collection of valuable C++ resources for absolute begi
 
 ### Introduction
 
-> Getting started with C++ that cover the basics, history, setup, and fundamental concepts of the language
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>What is C++?</td>
-    <td><a href="https://www.geeksforgeeks.org/c-plus-plus/">GeeksforGeeks - Introduction to C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/c-plus-plus/">What is C++?</a></td>
     <td>A detailed article explaining what C++ is, its features, and its applications.</td>
   </tr>
   <tr>
-    <td>History of C++</td>
-    <td><a href="https://www.scaler.com/topics/cpp/origin-and-philosophy-of-cpp/">Scaler - History of C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/origin-and-philosophy-of-cpp/">History of C++</a></td>
     <td>An overview of the origin and history and evolution of the C++ programming language.</td>
   </tr>
   <tr>
-    <td>Why C++?</td>
-    <td><a href="https://www.simplilearn.com/tutorials/cpp-tutorial/top-uses-of-c-plus-plus-programming">SimpleLearn - Why Learn C++?</a></td>
+    <td><a href="https://www.simplilearn.com/tutorials/cpp-tutorial/top-uses-of-c-plus-plus-programming">Why Learn C++?</a></td>
     <td>An article discussing the reasons and advantages of learning C++.</td>
   </tr>
   <tr>
-    <td>Difference Between C and C++</td>
-    <td><a href="https://www.scaler.com/topics/cpp/difference-between-c-and-cplusplus/">Scaler - Difference Between C and C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/difference-between-c-and-cplusplus/">Difference Between C and C++</a></td>
     <td>An article highlighting the key differences between C and C++.</td>
   </tr>
   <tr>
-    <td>C++ Environment Setup</td>
-    <td><a href="https://www.scaler.com/topics/cpp/cpp-environment-setup/">Scaler - C++ Environment Setup</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/cpp-environment-setup/">C++ Environment Setup</a></td>
     <td>A guide to setting up the C++ programming environment, including installation steps for compilers and IDEs.</td>
   </tr>
   <tr>
-    <td>C++ Comments and C-style Comment in C++</td>
-    <td><a href="https://www.scaler.com/topics/cpp/comments-in-cpp/">Scaler - Comments in C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/comments-in-cpp/">Comments in C++</a></td>
     <td>An article explaining how to use comments in C++, including single-line, multi-line, and C-style comments.</td>
   </tr>
   <tr>
-    <td>C++ Header Files</td>
-    <td><a href="https://www.scaler.com/topics/cpp/cpp-header-files/">Scaler - C++ Header Files</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/cpp-header-files/">C++ Header Files</a></td>
     <td>An overview of header files in C++, their purpose, and how to use them.</td>
   </tr>
   <tr>
-    <td>Namespaces in C++</td>
-    <td><a href="https://www.scaler.com/topics/cpp/namespace-in-cpp/">Scaler - Namespaces in C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/namespace-in-cpp/">Namespaces in C++</a></td>
     <td>An article explaining the concept of namespaces in C++ and how to use them to organize code.</td>
   </tr>
   <tr>
-    <td>C++ Coding Standards</td>
-    <td><a href="https://www.scaler.com/topics/cpp/cpp-coding-standards/">Scaler - C++ Coding Standards</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/cpp-coding-standards/">C++ Coding Standards</a></td>
     <td>A guide to coding standards and best practices in C++ programming.</td>
   </tr>
   <tr>
-    <td>Statements in C++</td>
-    <td><a href="https://www.scaler.com/topics/cpp/statements-in-cpp/">Scaler - Statements in C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/statements-in-cpp/">Statements in C++</a></td>
     <td>An article explaining different types of statements in C++, such as expression statements, compound statements, and control statements.</td>
   </tr>
 </table>
 
 ### Fundamentals
 
-> Dive into the foundational concepts of C++ programming. This section covers the basic syntax, structure, and essential elements that form the building blocks of C++.
-
 <table width="100%">
   <tr>
     <th>Topic</th>
@@ -143,332 +128,264 @@ This section is a curated collection of valuable C++ resources for absolute begi
     <th>Description</th>
   </tr>
   <tr>
-    <td>Basic Syntax and Structure</td>
-    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_basic_syntax.htm">TutorialsPoint - Basic Syntax</a></td>
+    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_basic_syntax.htm">Basic Syntax</a></td>
     <td>An article explaining the basic syntax and structure of a C++ program.</td>
   </tr>
   <tr>
-    <td>Hello World Program</td>
-    <td><a href="https://www.programiz.com/cpp-programming/examples/print-sentence">Programiz - Hello World Program</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/examples/print-sentence"> Hello World Program</a></td>
     <td>A tutorial on writing and understanding the "Hello, World!" program in C++.</td>
   </tr>
   <tr>
-    <td>Basic Input and Output</td>
-    <td><a href="https://www.javatpoint.com/cpp-basic-input-output">Javatpoint - Basic Input and Output</a></td>
+    <td><a href="https://www.javatpoint.com/cpp-basic-input-output">Basic Input and Output</a></td>
     <td>An introduction to handling basic input and output operations in C++ using cin and cout.</td>
   </tr>
   <tr>
-    <td>C++ Variables, Literals and Constants</td>
-    <td><a href="https://www.programiz.com/cpp-programming/variables-literals">Programiz - Variables in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/variables-literals"> Variables in C++</a></td>
     <td>An article explaining how to declare and use variables in C++.</td>
   </tr>
   <tr>
-    <td>Data Types</td>
-    <td><a href="https://www.programiz.com/cpp-programming/data-types">Programiz - Data Types in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/data-types">Data Types in C++</a></td>
     <td>An overview of various data types in C++ and their usage.</td>
      </tr>
   <tr>
-    <td>C++ Constants</td>
-    <td><a href="https://www.programiz.com/cpp-programming/constants">Programiz - Operators in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/constants"> Operators in C++</a></td>
     <td>An article explaining different operators in C++ and their functions.</td>
   </tr>
   </tr>
   <tr>
-    <td>Operators in C++</td>
-    <td><a href="https://www.programiz.com/cpp-programming/operators">Programiz - Operators in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/operators"> Operators in C++</a></td>
     <td>An article explaining different operators in C++ and their functions.</td>
   </tr>
   <tr>
-    <td>Modifiers in C++</td>
-    <td><a href="https://www.scaler.com/topics/cpp/modifiers-in-cpp/">Scaler - Modifiers in C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/modifiers-in-cpp/">Modifiers in C++</a></td>
     <td>An article about various modifiers in C++ and how they are used to alter the data types.</td>
   </tr>
   <tr>
-    <td>Keywords in C++</td>
-    <td><a href="https://www.javatpoint.com/cpp-keywords">Javatpoint - Keywords in C++</a></td>
+    <td><a href="https://www.javatpoint.com/cpp-keywords"> Keywords in C++</a></td>
     <td>A comprehensive list of reserved keywords in C++ and their purposes.</td>
   </tr>
   <tr>
-    <td>Type Conversion in C++</td>
-    <td><a href="https://www.geeksforgeeks.org/type-conversion-in-c/">GeeksforGeeks - Type Conversion in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/type-conversion-in-c/">Type Conversion in C++</a></td>
     <td>An article explaining the process of converting one data type to another in C++.</td>
   </tr>
   <tr>
-    <td>Expressions in C++</td>
-    <td><a href="https://www.scaler.com/topics/cpp/expressions-in-cpp/">Scaler - Expressions in C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/expressions-in-cpp/">Expressions in C++</a></td>
     <td>An article detailing different types of expressions in C++ and their uses.</td>
   </tr>
     <tr>
-    <td>Conditional Statements</td>
-    <td><a href="https://www.scaler.com/topics/cpp/conditional-statements-in-cpp/">Scaler - Conditional Statements in C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/conditional-statements-in-cpp/">Conditional Statements in C++</a></td>
     <td>An article explaining the various conditional statements in C++, such as if, else if, and switch statements.</td>
   </tr>
   <tr>
-    <td>Loops</td>
     <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_loops.htm">TutorialsPoint - Loops in C++</a></td>
     <td>An article covering the different types of loops in C++, including for, while, and do-while loops.</td>
   </tr>
   <tr>
-    <td>Control Flow Statements</td>
-    <td><a href="https://www.programiz.com/cpp-programming/control-structures">Programiz - Control Flow Statements in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/control-structures">Control Flow Statements in C++</a></td>
     <td>An article discussing control flow statements in C++ such as break, continue, and goto.</td>
   </tr>
   <tr>
-    <td>Functions</td>
-    <td><a href="https://www.geeksforgeeks.org/functions-in-c/">GeeksforGeeks - Functions in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/functions-in-c/">Functions in C++</a></td>
     <td>A guide to functions in C++, including declaration, definition, and usage.</td>
   </tr>
   <tr>
-    <td>C++ Programming Default Arguments</td>
-    <td><a href="https://www.scaler.com/topics/cpp/default-arguments-in-cpp/">Scaler - Default Arguments in C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/default-arguments-in-cpp/">Default Arguments in C++</a></td>
     <td>An article explaining how to use default arguments in C++ functions.</td>
   </tr>
   <tr>
-    <td>Function Overloading</td>
-    <td><a href="https://www.programiz.com/cpp-programming/function-overloading">Programiz - Function Overloading in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/function-overloading"> Function Overloading in C++</a></td>
     <td>An article detailing the concept of function overloading in C++.</td>
   </tr>
   <tr>
-    <td>Inline Functions</td>
-    <td><a href="https://www.javatpoint.com/cpp-inline-function">Javatpoint - Inline Functions in C++</a></td>
+    <td><a href="https://www.javatpoint.com/cpp-inline-function"> Inline Functions in C++</a></td>
     <td>A guide to using inline functions in C++ to improve performance.</td>
   </tr>
   <tr>
-    <td>Recursion</td>
-    <td><a href="https://www.programiz.com/cpp-programming/recursion">Programiz - Recursion in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/recursion">Recursion in C++</a></td>
     <td>An introduction to recursion in C++, including examples and use cases.</td>
   </tr>
 </table>
 
 ### Arrays and Strings in C++
 
-> Learn about handling arrays and strings in C++. This section covers the basics of array and string manipulation, including different types of arrays, operations on arrays, and string handling using C-strings and the C++ string class.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Arrays in C++</td>
-    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm">TutorialsPoint - Arrays in C++</a></td>
+    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm">Arrays in C++</a></td>
     <td>An article explaining the basics of arrays in C++.</td>
   </tr>
   <tr>
-    <td>One-dimensional Arrays</td>
-    <td><a href="https://www.geeksforgeeks.org/one-dimensional-array-c/">GeeksforGeeks - One-dimensional Arrays in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/one-dimensional-array-c/"> One-dimensional Arrays in C++</a></td>
     <td>A guide to working with one-dimensional arrays in C++.</td>
   </tr>
   <tr>
-    <td>Multidimensional Arrays</td>
-    <td><a href="https://www.programiz.com/cpp-programming/multidimensional-arrays">Programiz - Multidimensional Arrays in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/multidimensional-arrays">Multidimensional Arrays in C++</a></td>
     <td>An article on how to use multidimensional arrays in C++.</td>
   </tr>
   <tr>
-    <td>Array Operations</td>
-    <td><a href="https://www.scaler.com/topics/cpp/array-operations-in-cpp/">Scaler - Array Operations in C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/array-operations-in-cpp/"> Array Operations in C++</a></td>
     <td>An article covering various operations on arrays in C++.</td>
   </tr>
   <tr>
-    <td>Strings in C++</td>
-    <td><a href="https://www.javatpoint.com/cpp-strings">Javatpoint - Strings in C++</a></td>
+    <td><a href="https://www.javatpoint.com/cpp-strings">Strings in C++</a></td>
     <td>An overview of strings in C++, including basic concepts and usage.</td>
   </tr>
   <tr>
-    <td>String Initialization</td>
-    <td><a href="https://www.geeksforgeeks.org/ways-to-initialize-a-string-in-c/">GeeksforGeeks - String Initialization in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/ways-to-initialize-a-string-in-c/">String Initialization in C++</a></td>
     <td>An article detailing different methods of initializing strings in C++.</td>
   </tr>
   <tr>
-    <td>String Operations</td>
-    <td><a href="https://www.scaler.com/topics/cpp/string-operations-in-cpp/">Scaler - String Operations in C++</a></td>
+    <td><a href="https://www.scaler.com/topics/cpp/string-operations-in-cpp/">String Operations in C++</a></td>
     <td>A guide to performing various operations on strings in C++.</td>
   </tr>
   <tr>
-    <td>C-Strings and String Class</td>
-    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_strings.htm">TutorialsPoint - C-Strings and String Class in C++</a></td>
+    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_strings.htm">C-Strings and String Class in C++</a></td>
     <td>An article explaining the differences and usage of C-strings and the C++ string class.</td>
   </tr>
 </table>
 
 ### Pointers and References in C++
 
-> Explore the concepts of pointers and references in C++. This section covers the basics of pointer arithmetic, pointers in relation to arrays, function pointers, and the differences between pointers and references. Additionally, learn about dynamic memory allocation using `new`, `delete`, `malloc`, and `free`.
-
 ### Pointers 
-> In C++, pointers are variables that store the memory addresses of other variables.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Pointer Basics</td>
-    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm">TutorialsPoint - Pointer Basics</a></td>
+    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm">TPointer Basics</a></td>
     <td>An introduction to pointers, covering basic concepts and usage in C++.</td>
   </tr>
   <tr>
-    <td>Pointer Arithmetic</td>
-    <td><a href="https://www.geeksforgeeks.org/pointer-arithmetic-in-c-cpp/">GeeksforGeeks - Pointer Arithmetic</a></td>
+    <td><a href="https://www.geeksforgeeks.org/pointer-arithmetic-in-c-cpp/"> Pointer Arithmetic</a></td>
     <td>An article explaining pointer arithmetic and how to perform operations on pointers.</td>
   </tr>
   <tr>
-    <td>Pointers and Arrays</td>
-    <td><a href="https://www.programiz.com/cpp-programming/pointers-arrays">Programiz - Pointers and Arrays in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/pointers-arrays">Pointers and Arrays in C++</a></td>
     <td>A guide on how pointers interact with arrays in C++.</td>
   </tr>
   <tr>
-    <td>Pointers to Pointers</td>
-    <td><a href="https://www.javatpoint.com/cpp-pointer-to-pointer">Javatpoint - Pointers to Pointers</a></td>
+    <td><a href="https://www.javatpoint.com/cpp-pointer-to-pointer">Pointers to Pointers</a></td>
     <td>An article explaining the concept and usage of pointers to pointers in C++.</td>
   </tr>
   <tr>
-    <td>Function Pointers</td>
-    <td><a href="https://www.geeksforgeeks.org/function-pointer-in-c/">GeeksforGeeks - Function Pointers</a></td>
+    <td><a href="https://www.geeksforgeeks.org/function-pointer-in-c/">Function Pointers</a></td>
     <td>An article detailing how to use function pointers in C++.</td>
   </tr>
   </table>
 
 ### References
->In C++, we use a reference to create an alias for a variable. We can use the reference variable to access or modify the variable.
 
   <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>References</td>
-    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_references.htm">TutorialsPoint - References in C++</a></td>
+    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_references.htm"> References in C++</a></td>
     <td>An introduction to references in C++ and their usage.</td>
   </tr>
   <tr>
-    <td>Reference Variables</td>
-    <td><a href="https://www.geeksforgeeks.org/references-in-c/">GeeksforGeeks - Reference Variables in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/references-in-c/"> Reference Variables in C++</a></td>
     <td>An article explaining reference variables and their applications in C++.</td>
   </tr>
   <tr>
-    <td>References vs Pointers</td>
-    <td><a href="https://www.programiz.com/cpp-programming/pointers-references">Programiz - References vs Pointers in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/pointers-references">  References vs Pointers in C++</a></td>
     <td>A comparison of references and pointers, highlighting their differences and use cases.</td>
   </tr>
   </table>
 
 ### Dynamic Memory Allocation
->C++ allows us to allocate the memory dynamically in run time. This is known as dynamic memory allocation.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Dynamic Memory Allocation</td>
-    <td><a href="https://www.javatpoint.com/cpp-dynamic-memory-allocation">Javatpoint - Dynamic Memory Allocation in C++</a></td>
+    <td><a href="https://www.javatpoint.com/cpp-dynamic-memory-allocation"> Dynamic Memory Allocation in C++</a></td>
     <td>An article explaining dynamic memory allocation in C++.</td>
   </tr>
   <tr>
-    <td>new and delete operators</td>
-    <td><a href="https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/">GeeksforGeeks - new and delete operators</a></td>
+    <td><a href="https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/"> new and delete operators</a></td>
     <td>A guide on using the `new` and `delete` operators for dynamic memory allocation in C++.</td>
   </tr>
   <tr>
-    <td>malloc and free</td>
-    <td><a href="https://www.tutorialspoint.com/c_standard_library/c_function_malloc.htm">TutorialsPoint - malloc and free</a></td>
+    <td><a href="https://www.tutorialspoint.com/c_standard_library/c_function_malloc.htm"> malloc and free</a></td>
     <td>An article covering the usage of `malloc` and `free` functions for dynamic memory allocation in C++.</td>
   </tr>
 </table>
 
 ### Object-Oriented Programming (OOP)
 
-> Understand the principles of Object-Oriented Programming (OOP) in C++. This section covers the concepts of classes and objects, constructors and destructors, inheritance, polymorphism, and more, which are fundamental to mastering C++.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Object-Oriented Programming (OOP) in C++ Overview</td>
     <td><a href="https://www.javatpoint.com/cpp-oops-concepts">Javatpoint - OOP in C++ Overview</a></td>
     <td>An overview of Object-Oriented Programming concepts in C++.</td>
   </tr>
   <tr>
-    <td>Classes and Objects</td>
     <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm">TutorialsPoint - Classes and Objects in C++</a></td>
     <td>An introduction to defining classes and creating objects in C++.</td>
   </tr>
   <tr>
-    <td>Defining Classes</td>
     <td><a href="https://www.geeksforgeeks.org/c-classes-and-objects/">GeeksforGeeks - Defining Classes in C++</a></td>
     <td>An article explaining how to define classes in C++.</td>
   </tr>
   <tr>
-    <td>Creating Objects</td>
     <td><a href="https://www.programiz.com/cpp-programming/object-class">Programiz - Creating Objects in C++</a></td>
     <td>A guide on how to create objects in C++.</td>
   </tr>
   <tr>
-    <td>Access Modifiers (public, private, protected)</td>
     <td><a href="https://www.programiz.com/cpp-programming/access-modifiers">Programiz - Access Modifiers in C++</a></td>
     <td>An article detailing the use of access modifiers in C++.</td>
   </tr>
   <tr>
-    <td>Constructors and Destructors</td>
     <td><a href="https://www.programiz.com/cpp-programming/constructors">Programiz - Constructors and Destructors in C++</a></td>
     <td>An introduction to constructors and destructors in C++.</td>
   </tr>
   <tr>
-    <td>Default Constructors</td>
     <td><a href="https://www.geeksforgeeks.org/default-constructors-in-c/">GeeksforGeeks - Default Constructors in C++</a></td>
     <td>An article explaining default constructors in C++.</td>
   </tr>
-    <td>Destructors</td>
     <td><a href="https://www.scaler.com/topics/cpp/destructor-in-cpp/">Scaler - Destructors in C++</a></td>
     <td>An article explaining destructors in C++.</td>
   </tr>
   <tr>
-    <td>Inheritance</td>
     <td><a href="https://www.javatpoint.com/cpp-inheritance">Javatpoint - Inheritance in C++</a></td>
     <td>A comprehensive guide to inheritance in C++.</td>
   </tr>
   <tr>
-    <td>Polymorphism</td>
     <td><a href="https://www.geeksforgeeks.org/polymorphism-in-c/">GeeksforGeeks - Polymorphism in C++</a></td>
     <td>An article explaining the concept of polymorphism in C++.</td>
   </tr>
-     <td>Encapsulation</td>
     <td><a href="https://www.programiz.com/cpp-programming/encapsulation">Programiz - Polymorphism in C++</a></td>
     <td>An article explaining the concept of ecapsulation in C++.</td>
   </tr>
   <tr>
-    <td>Function Overriding</td>
     <td><a href="https://www.programiz.com/cpp-programming/function-overriding">Programiz - Function Overriding in C++</a></td>
     <td>An article detailing function overriding in C++.</td>
   </tr>
   <tr>
-    <td>Virtual Functions</td>
     <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_virtual_functions.htm">TutorialsPoint - Virtual Functions in C++</a></td>
     <td>A guide to using virtual functions in C++.</td>
   </tr>
   <tr>
-    <td>Abstract Classes and Pure Virtual Functions</td>
     <td><a href="https://www.geeksforgeeks.org/abstract-classes-in-cpp/">GeeksforGeeks - Abstract Classes and Pure Virtual Functions in C++</a></td>
     <td>An article explaining abstract classes and pure virtual functions in C++.</td>
   </tr>
   <tr>
-    <td>Operator Overloading</td>
     <td><a href="https://www.javatpoint.com/cpp-operator-overloading">Javatpoint - Operator Overloading in C++</a></td>
     <td>An introduction to operator overloading in C++.</td>
   </tr>
   <tr>
-    <td>Friend Functions</td>
     <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_friend_functions.htm">TutorialsPoint - Friend Functions in C++</a></td>
     <td>An article explaining friend functions in C++.</td>
   </tr>
@@ -476,67 +393,54 @@ This section is a curated collection of valuable C++ resources for absolute begi
 
 ### Data Structures and Algorithms
 
-> Explore essential data structures and algorithms to efficiently solve problems and optimize your C++ code.
 
 <table width="100%">
   <tr>
-    <th>Data Structure or Algorithm</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Arrays</td>
-    <td><a href="https://www.geeksforgeeks.org/array-data-structure/">GeeksforGeeks - Arrays in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/array-data-structure/">Arrays in C++</a></td>
     <td>An introduction to arrays in C++, including array declaration, initialization, and common operations.</td>
   </tr>
   <tr>
-    <td>Linked Lists</td>
-    <td><a href="https://www.geeksforgeeks.org/data-structures/linked-list/">GeeksforGeeks - Linked List in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/data-structures/linked-list/">Linked List in C++</a></td>
     <td>A comprehensive guide to linked lists in C++, covering singly linked lists, doubly linked lists, and circular linked lists.</td>
   </tr>
   <tr>
-    <td>Stacks</td>
-    <td><a href="https://www.geeksforgeeks.org/stack-data-structure/">GeeksforGeeks - Stacks in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/stack-data-structure/">Stacks in C++</a></td>
     <td>An overview of stacks in C++, including stack implementation and common stack operations.</td>
   </tr>
   <tr>
-    <td>Queues</td>
-    <td><a href="https://www.geeksforgeeks.org/queue-data-structure/">GeeksforGeeks - Queues in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/queue-data-structure/"> Queues in C++</a></td>
     <td>An introduction to queues in C++, covering queue implementation and common queue operations.</td>
   </tr>
   <tr>
-    <td>Trees</td>
-    <td><a href="https://www.geeksforgeeks.org/binary-tree-data-structure/">GeeksforGeeks - Trees in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/binary-tree-data-structure/">Trees in C++</a></td>
     <td>A detailed guide to trees in C++, including binary trees, binary search trees, and tree traversal algorithms.</td>
   </tr>
   <tr>
-    <td>Graphs</td>
-    <td><a href="https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/">GeeksforGeeks - Graphs in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/">Graphs in C++</a></td>
     <td>An overview of graphs in C++, covering graph representation and common graph algorithms.</td>
   </tr>
   <tr>
-    <td>Sorting Algorithms</td>
-    <td><a href="https://www.geeksforgeeks.org/sorting-algorithms/">GeeksforGeeks - Sorting Algorithms in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/sorting-algorithms/">Sorting Algorithms in C++</a></td>
     <td>A collection of sorting algorithms implemented in C++, including bubble sort, insertion sort, merge sort, and quick sort.</td>
   </tr>
   <tr>
-    <td>Searching Algorithms</td>
-    <td><a href="https://www.geeksforgeeks.org/searching-algorithms/">GeeksforGeeks - Searching Algorithms in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/searching-algorithms/"> Searching Algorithms in C++</a></td>
     <td>A collection of searching algorithms implemented in C++, including linear search, binary search, and interpolation search.</td>
   </tr>
   <tr>
-    <td>Dynamic Programming</td>
-    <td><a href="https://www.geeksforgeeks.org/dynamic-programming/">GeeksforGeeks - Dynamic Programming in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/dynamic-programming/"> Dynamic Programming in C++</a></td>
     <td>An introduction to dynamic programming and its applications in C++, covering top-down and bottom-up approaches.</td>
   </tr>
 </table>
 
 ### Tools
-> Here are some tools for c++
+> Here are some tools and ides for c++
 
 ### Tools and IDEs for C++
-
-> Explore various Integrated Development Environments (IDEs) and tools tailored for C++ development.
 
 <table width="100%">
   <tr>
@@ -575,8 +479,6 @@ This section is a curated collection of valuable C++ resources for absolute begi
 
 ### Online Editors and Compilers for C++
 
-> Experiment with C++ code, practice algorithms, and share snippets with these online editors and compilers.
-
 <table width="100%">
   <tr>
     <th>Name</th>
@@ -612,53 +514,44 @@ This section is a curated collection of valuable C++ resources for absolute begi
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Templates</td>
-    <td><a href="https://www.geeksforgeeks.org/templates-cpp/">GeeksforGeeks - Templates in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/templates-cpp/"> Templates in C++</a></td>
     <td>An introduction to templates in C++, explaining their purpose and usage.</td>
   </tr>
   <tr>
-    <td>Class Templates</td>
-    <td><a href="https://www.programiz.com/cpp-programming/class-templates">Programiz - Class Templates</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/class-templates"> Class Templates</a></td>
     <td>An article explaining how to define and use class templates in C++.</td>
   </tr>
  
   <tr>
-    <td>Standard Template Library (STL)</td>
-    <td><a href="https://www.geeksforgeeks.org/the-c-standard-template-library-stl/">GeeksforGeeks - Standard Template Library (STL)</a></td>
+    <td><a href="https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"> Standard Template Library (STL)</a></td>
     <td>An introduction to the Standard Template Library in C++, including its components and uses.</td>
   </tr>
   <tr>
   <tr>
-    <td>Iterators</td>
-    <td><a href="https://www.programiz.com/cpp-programming/iterators">Programiz - Iterators in C++</a></td>
+    <td><a href="https://www.programiz.com/cpp-programming/iterators">Iterators in C++</a></td>
     <td>An article explaining iterators in C++ and their usage with STL containers.</td>
   </tr>
   <tr>
-    <td>Functors</td>
-    <td><a href="https://www.geeksforgeeks.org/functors-in-cpp/">GeeksforGeeks - Functors in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/functors-in-cpp/">Functors in C++</a></td>
     <td>An article on functors (function objects) in C++ and their usage.</td>
   </tr>
   <tr>
-    <td>Exception Handling</td>
-    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_exceptions_handling.htm">TutorialsPoint - Exception Handling in C++</a></td>
+    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_exceptions_handling.htm"> Exception Handling in C++</a></td>
     <td>An introduction to exception handling in C++.</td>
   </tr>
   <tr>
   <tr>
-    <td>File I/O</td>
-    <td><a href="https://www.geeksforgeeks.org/file-handling-c-classes/">GeeksforGeeks - File I/O in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/file-handling-c-classes/">File I/O in C++</a></td>
     <td>An overview of file Reading from Files
 Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 
   <tr>
-    <td>Multithreding</td>
-    <td><a href="https://www.geeksforgeeks.org/multithreading-in-cpp/">GeeksforGeeks - Multithreading in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/multithreading-in-cpp/"> Multithreading in C++</a></td>
     <td>An introduction to multithreading concepts in C++.</td>
   </tr>
 </table>
@@ -666,28 +559,23 @@ Writing to Files File Streams input and output operations in C++.</td>
 ### STL (Standard Template Library)
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Introduction to STL</td>
-    <td><a href="https://www.geeksforgeeks.org/the-c-standard-template-library-stl/">GeeksforGeeks - Introduction to STL</a></td>
+    <td><a href="https://www.geeksforgeeks.org/the-c-standard-template-library-stl/">  Introduction to STL</a></td>
     <td>An introduction to the Standard Template Library (STL) in C++.</td>
   </tr>
   <tr>
-    <td>Vectors</td>
-    <td><a href="https://www.cplusplus.com/reference/vector/vector/">cplusplus.com - Vectors</a></td>
+    <td><a href="https://www.cplusplus.com/reference/vector/vector/">Vectors</a></td>
     <td>A detailed reference for using vectors in C++.</td>
   </tr>
   <tr>
-    <td>Maps</td>
-    <td><a href="https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/">GeeksforGeeks - Maps</a></td>
+    <td><a href="https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/">Maps</a></td>
     <td>An article explaining maps in STL.</td>
   </tr>
   <tr>
-    <td>Sets</td>
-    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_sets.htm">TutorialsPoint - Sets</a></td>
+    <td><a href="https://www.tutorialspoint.com/cplusplus/cpp_sets.htm">Sets</a></td>
     <td>An article explaining sets in STL.</td>
   </tr>
 </table>
@@ -698,28 +586,23 @@ Writing to Files File Streams input and output operations in C++.</td>
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Design Patterns Overview</td>
-    <td><a href="https://refactoring.guru/design-patterns/cpp">Refactoring Guru - Design Patterns in C++</a></td>
+    <td><a href="https://refactoring.guru/design-patterns/cpp">Design Patterns in C++</a></td>
     <td>An introduction to design patterns, their importance, and their implementation in C++.</td>
   </tr>
   <tr>
-    <td>Creational Patterns</td>
-    <td><a href="https://www.geeksforgeeks.org/creational-design-patterns-in-cpp/">GeeksforGeeks - Creational Design Patterns in C++</a></td>
+    <td><a href="https://www.geeksforgeeks.org/creational-design-patterns-in-cpp/"> Creational Design Patterns in C++</a></td>
     <td>A detailed guide on creational design patterns like Singleton, Factory, Abstract Factory, Builder, and Prototype in C++.</td>
   </tr>
   <tr>
-    <td>Structural Patterns</td>
-    <td><a href="https://www.geeksforgeeks.org/structural-design-patterns/">GeeksforGeeks - Structural Design Patterns</a></td>
+    <td><a href="https://www.geeksforgeeks.org/structural-design-patterns/"> Structural Design Patterns</a></td>
     <td>An overview of structural design patterns like Adapter, Bridge, Composite, Decorator, Facade, Flyweight, and Proxy in C++.</td>
   </tr>
   <tr>
-    <td>Behavioral Patterns</td>
-    <td><a href="https://www.geeksforgeeks.org/behavioral-design-patterns/">GeeksforGeeks - Behavioral Design Patterns</a></td>
+    <td><a href="https://www.geeksforgeeks.org/behavioral-design-patterns/">Behavioral Design Patterns</a></td>
     <td>An introduction to behavioral design patterns like Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, and Visitor in C++.</td>
   </tr>
 </table>
@@ -730,128 +613,100 @@ Writing to Files File Streams input and output operations in C++.</td>
 
 ### New Features in C++11
 
-> Explore the new features introduced in C++11, enhancing the expressiveness and efficiency of C++ programming. This section covers auto and decltype, nullptr, lambda expressions, range-based for loop, and smart pointers, providing insights into modern C++ programming practices.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>auto and decltype</td>
-    <td><a href="https://en.cppreference.com/w/cpp/language/auto">cppreference.com - auto and decltype</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/language/auto">auto and decltype</a></td>
     <td>An overview of the auto and decltype keywords in C++11, allowing automatic type deduction and type declarations based on expressions.</td>
   </tr>
   <tr>
-    <td>nullptr</td>
-    <td><a href="https://en.cppreference.com/w/cpp/language/nullptr">cppreference.com - nullptr</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/language/nullptr">nullptr</a></td>
     <td>An explanation of the nullptr keyword introduced in C++11, providing a type-safe replacement for NULL.</td>
   </tr>
   <tr>
-    <td>Lambda Expressions</td>
-    <td><a href="https://en.cppreference.com/w/cpp/language/lambda">cppreference.com - Lambda Expressions</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/language/lambda">Lambda Expressions</a></td>
     <td>An overview of lambda expressions in C++11, enabling inline anonymous function definitions and providing a concise syntax for writing function objects.</td>
   </tr>
   <tr>
-    <td>Range-based for loop</td>
-    <td><a href="https://en.cppreference.com/w/cpp/language/range-for">cppreference.com - Range-based for loop</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/language/range-for">Range-based for loop</a></td>
     <td>An explanation of the range-based for loop introduced in C++11, simplifying iteration over elements of a range or container.</td>
   </tr>
   <tr>
-    <td>Smart Pointers (unique_ptr, shared_ptr, weak_ptr)</td>
-    <td><a href="https://en.cppreference.com/w/cpp/memory">cppreference.com - Smart Pointers</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/memory"> Smart Pointers</a></td>
     <td>An overview of smart pointers introduced in C++11, including unique_ptr, shared_ptr, and weak_ptr, providing automatic memory management and preventing memory leaks.</td>
   </tr>
 </table>
 
 ### C++14 Features
 
-> Discover the new features introduced in C++14, expanding the capabilities and expressiveness of the C++ programming language. This section covers binary literals, generic lambdas, and std::make_unique, providing insights into the enhancements brought by C++14.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Binary Literals</td>
-    <td><a href="https://en.cppreference.com/w/cpp/language/integer_literal#Binary_literals">cppreference.com - Binary Literals</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/language/integer_literal#Binary_literals"> Binary Literals</a></td>
     <td>An explanation of binary literals introduced in C++14, allowing the representation of integral values in binary format directly within the source code.</td>
   </tr>
   <tr>
-    <td>Generic Lambdas</td>
-    <td><a href="https://en.cppreference.com/w/cpp/language/generic_lambda">cppreference.com - Generic Lambdas</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/language/generic_lambda">Generic Lambdas</a></td>
     <td>An overview of generic lambdas introduced in C++14, enabling lambda functions with templated operator() for greater flexibility in function parameter types.</td>
   </tr>
   <tr>
-    <td>std::make_unique</td>
-    <td><a href="https://en.cppreference.com/w/cpp/memory/unique_ptr/make_unique">cppreference.com - std::make_unique</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/memory/unique_ptr/make_unique">std::make_unique</a></td>
     <td>An explanation of std::make_unique introduced in C++14, providing a convenient way to create instances of std::unique_ptr with dynamic memory allocation.</td>
   </tr>
 </table>
 
 ### C++17 Features
 
-> Explore the new features introduced in C++17, bringing further improvements and enhancements to the C++ programming language. This section covers std::optional, std::variant, structured bindings, and std::any, providing insights into the advancements brought by C++17.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>std::optional</td>
-    <td><a href="https://en.cppreference.com/w/cpp/utility/optional">cppreference.com - std::optional</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/utility/optional">std::optional</a></td>
     <td>An overview of std::optional introduced in C++17, providing a container for optional values that may or may not exist, eliminating the need for null pointers.</td>
   </tr>
   <tr>
-    <td>std::variant</td>
-    <td><a href="https://en.cppreference.com/w/cpp/utility/variant">cppreference.com - std::variant</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/utility/variant"> std::variant</a></td>
     <td>An explanation of std::variant introduced in C++17, allowing the representation of a value that can be one of a fixed set of types.</td>
   </tr>
   <tr>
-    <td>Structured Bindings</td>
-    <td><a href="https://en.cppreference.com/w/cpp/language/structured_binding">cppreference.com - Structured Bindings</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/language/structured_binding">Structured Bindings</a></td>
     <td>An overview of structured bindings introduced in C++17, enabling convenient access to the elements of a tuple-like object or a structured binding declaration.</td>
   </tr>
   <tr>
-    <td>std::any</td>
-    <td><a href="https://en.cppreference.com/w/cpp/utility/any">cppreference.com - std::any</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/utility/any">std::any</a></td>
     <td>An explanation of std::any introduced in C++17, providing a type-safe container for single values of any type.</td>
   </tr>
 </table>
 
 ### C++20 Features
 
-> Discover the latest features introduced in C++20, bringing significant enhancements and new capabilities to the C++ programming language. This section covers concepts, ranges, coroutines, and modules, providing insights into the advancements brought by C++20.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Concepts</td>
-    <td><a href="https://en.cppreference.com/w/cpp/language/constraints">cppreference.com - Concepts</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/language/constraints"> Concepts</a></td>
     <td>An overview of concepts introduced in C++20, enabling template constraints to specify requirements on template arguments.</td>
   </tr>
   <tr>
-    <td>Ranges</td>
-    <td><a href="https://en.cppreference.com/w/cpp/ranges">cppreference.com - Ranges</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/ranges"> Ranges</a></td>
     <td>An explanation of ranges introduced in C++20, providing a unified approach for handling sequences of elements.</td>
   </tr>
   <tr>
-    <td>Coroutines</td>
-    <td><a href="https://en.cppreference.com/w/cpp/language/coroutines">cppreference.com - Coroutines</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/language/coroutines"> Coroutines</a></td>
     <td>An overview of coroutines introduced in C++20, enabling functions to be suspended and resumed at certain points.</td>
   </tr>
   <tr>
-    <td>Modules</td>
-    <td><a href="https://en.cppreference.com/w/cpp/language/modules">cppreference.com - Modules</a></td>
+    <td><a href="https://en.cppreference.com/w/cpp/language/modules"> Modules</a></td>
     <td>An explanation of modules introduced in C++20, providing a new modularization mechanism to replace header files and improve build times and dependencies.</td>
   </tr>
 </table>
@@ -1002,99 +857,86 @@ Writing to Files File Streams input and output operations in C++.</td>
   <tr>
     <th>Project Name</th>
     <th>Description</th>
-    <th>Resources</th>
   </tr>
   <tr>
-    <td>Number Guessing Game</td>
-    <td>Develop a classic game where the user tries to guess a randomly generated number within a specified range. Implement loops, conditional statements (if/else), and user input/output to create an engaging experience.</td>
     <td><a href="https://github.com/topics/number-guessing-game?l=c%2B%2B">Number Guessing Game on GitHub</a><br> <Hr /><a href="https://www.youtube.com/watch?v=ZNS65osF8uU">YouTube Number Guessing Game in C++</a></td>
+    <td>Develop a classic game where the user tries to guess a randomly generated number within a specified range. Implement loops, conditional statements (if/else), and user input/output to create an engaging experience.</td>
   </tr>
   <tr>
-    <td>Rock-Paper-Scissors</td>
-    <td>Build a fun and interactive game where the user plays against the computer. Utilize random number generation, conditional statements, and loops to determine the winner based on game rules.</td>
     <td><a href="https://github.com/topics/rock-paper-scissors?l=c%2B%2B">Rock Paper Scissors on GitHub</a><br><Hr /><a href="https://www.youtube.com/watch?v=hjC6U0WY0E4">YouTube Rock Paper Scissors C++</a></td>
+    <td>Build a fun and interactive game where the user plays against the computer. Utilize random number generation, conditional statements, and loops to determine the winner based on game rules.</td>
   </tr>
   <tr>
-    <td>Simple Calculator</td>
-    <td>Create a basic calculator that performs addition, subtraction, multiplication, and division. Focus on user input/output, arithmetic operations, and potentially switch statements or function calls for modularity.</td>
     <td><a href="https://github.com/topics/calculator-cpp">Calculator in C++ on GitHub</a><br><Hr /><a href="https://www.youtube.com/watch?v=eaB5khADvN0">YouTube Simple Calculator in C++</a></td>
+    <td>Create a basic calculator that performs addition, subtraction, multiplication, and division. Focus on user input/output, arithmetic operations, and potentially switch statements or function calls for modularity.</td>
   </tr>
   <tr>
-    <td>Mad Libs</td>
-    <td>Develop a program that generates a silly story by prompting the user for various words (nouns, verbs, adjectives, etc.) and inserting them into a pre-written template. Explore string manipulation techniques and user input/output.</td>
     <td><a href="https://github.com/topics/add-two-numbers">Add Two Numbers on GitHub</a><br><Hr /><a href="https://www.thewordfinder.com/wordlibs/">Word Libs</a></td>
+    <td>Develop a program that generates a silly story by prompting the user for various words (nouns, verbs, adjectives, etc.) and inserting them into a pre-written template. Explore string manipulation techniques and user input/output.</td>
   </tr>
   <tr>
-    <td>Text-Based Adventure Game</td>
-    <td>Design a text-based adventure where the user explores different environments, makes choices, and interacts with objects or characters. Introduce branching narratives, conditional statements, and arrays/vectors for storing game data.</td>
     <td><a href="https://github.com/topics/adventure-game?l=c%2B%2B">Adventure Game on GitHub</a><br><Hr /><a href="https://about.gitlab.com/blog/2023/08/24/building-a-text-adventure-using-cplusplus-and-code-suggestions/">Building a Text Adventure using C++</a></td>
-  </tr>  <tr>
-    <td>Unit Converter</td>
+    <td>Design a text-based adventure where the user explores different environments, makes choices, and interacts with objects or characters. Introduce branching narratives, conditional statements, and arrays/vectors for storing game data.</td>
+  </tr>  
+  <tr>
+    <td><a href="https://www.w3schools.com/cpp/"> Unit Converter - Website tutorial</a></td>
     <td>Build a program that converts between various units of measurement (length, weight, temperature, etc.). Utilize functions for modularity, switch statements for handling different conversions, and potentially user-defined data types for structured data.</td>
-    <td><a href="https://www.w3schools.com/cpp/">Website tutorial</a></td>
   </tr>
   <tr>
-    <td>Password Generator</td>
-    <td>Create a program that generates secure passwords based on user-defined criteria (length, character types). Explore random number generation, string manipulation, and potentially loops to create a strong password.</td>
     <td><a href="https://github.com/topics/password-generator-cpp">Password Generator on GitHub</a><br><Hr /><a href="https://www.codespeedy.com/generate-a-random-password-of-a-specific-length-in-cpp/">Website tutorial</a></td>
+    <td>Create a program that generates secure passwords based on user-defined criteria (length, character types). Explore random number generation, string manipulation, and potentially loops to create a strong password.</td>
   </tr>
   <tr>
-    <td>Guess the Number (Advanced)</td>
+    <td><a href="https://practice.geeksforgeeks.org/faq.php">Guess the Number (Advanced) - Website tutorial (for high score tracking)</a></td>
     <td>Build upon the basic number guessing game by introducing features like difficulty levels (varying number range), multiple attempts, and keeping track of high scores. Utilize loops for multiple attempts, conditional statements for difficulty levels, and arrays for storing high scores.</td>
-    <td><a href="https://practice.geeksforgeeks.org/faq.php">Website tutorial (for high score tracking)</a></td>
   </tr>
   <tr>
-    <td>Quiz Game</td>
+    <td><a href="https://www.programiz.com/cpp-programming/online-compiler/"> Quiz Game - Website tutorial</a></td>
     <td>Design a quiz game on a specific topic (e.g., history, science, general knowledge). Implement arrays/vectors for storing questions and answers, user input/output for interaction, and scoring mechanisms based on correct answers.</td>
-    <td><a href="https://www.programiz.com/cpp-programming/online-compiler/">Website tutorial</a></td>
   </tr>
   <tr>
-    <td>Student Grade Calculator</td>
+    <td><a href="https://www.geeksforgeeks.org/calculate-the-cgpa-and-cgpa-of-marks-obtained-by-a-student-in-n-subjects/">Student Grade Calculator - Website tutorial</a></td>
     <td>Develop a program that calculates student grades based on user-provided scores and a predefined grading system. Utilize user input/output, conditional statements for applying grading logic, and potentially arrays/vectors for storing student data.</td>
-    <td><a href="https://www.geeksforgeeks.org/calculate-the-cgpa-and-cgpa-of-marks-obtained-by-a-student-in-n-subjects/">Website tutorial</a></td>
   </tr>
 </table>
 
 
 ### Intermediate Level Projects
 
-
-
 <table width="100%">
   <tr>
     <th>Project Name</th>
-    <th>Short Description</th>
-    <th>Resources</th>
+    <th> Description</th>
   </tr>
   <tr>
-    <td>Snake Game</td>
-    <td>Build a classic arcade game where the player controls a snake that grows by eating food and avoids hitting walls or its own tail. Implement 2D graphics using libraries like SFML or graphics.h, keyboard input for movement, and collision detection for a fun and engaging experience.</td>
-    <td><a href="https://github.com/SFML/SFML">SFML Snake Game on GitHub</a><br><Hr /><a href="https://github.com/Alkaison/Snake-Game">Snake Game with graphics.h on GitHub</a></td>
+    <td><a href="https://github.com/SFML/SFML">Snake Game</a></td>
+    <td>Build a classic arcade game where the player controls a snake that grows by eating food and avoids hitting walls or its own tail. Implement 2D graphics using libraries like SFML or graphics.h, keyboard input for movement, and collision detection for a fun and engaging experience.<br>
+    Resources: <a href="https://github.com/SFML/SFML">SFML Snake Game on GitHub</a>, <a href="https://github.com/Alkaison/Snake-Game">Snake Game with graphics.h on GitHub</a></td>
   </tr>
   <tr>
-    <td>Text Editor</td>
-    <td>Develop a basic text editor that allows users to create, open, edit, and save text files. Utilize file handling techniques, string manipulation functions, and potentially a user interface library (like FLTK) for a more polished look.</td>
-    <td><a href="http://www.fltk.org/doc/tutorial.html#hello_world">FLTK Tutorial</a></td>
+    <td><a href="http://www.fltk.org/doc/tutorial.html#hello_world">Text Editor</a></td>
+    <td>Develop a basic text editor that allows users to create, open, edit, and save text files. Utilize file handling techniques, string manipulation functions, and potentially a user interface library (like FLTK) for a more polished look.<br>
+    Resources: <a href="http://www.fltk.org/doc/tutorial.html#hello_world">FLTK Tutorial</a></td>
   </tr>
   <tr>
-    <td>Tic-Tac-Toe with AI</td>
-    <td>Build upon the basic Tic-Tac-Toe game by implementing an AI opponent using algorithms like minimax or alpha-beta pruning. This requires game state representation, evaluation functions, and decision-making logic for the AI to play optimally.</td>
-    <td><a href="https://github.com/topics/tic-tac-toe?l=c%2B%2B">Tic-Tac-Toe on GitHub</a><br><Hr /><a href="https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory">Minimax Algorithm Tutorial</a></td>
+    <td><a href="https://github.com/topics/tic-tac-toe?l=c%2B%2B">Tic-Tac-Toe with AI</a></td>
+    <td>Build upon the basic Tic-Tac-Toe game by implementing an AI opponent using algorithms like minimax or alpha-beta pruning. This requires game state representation, evaluation functions, and decision-making logic for the AI to play optimally.<br>
+    Resources: <a href="https://github.com/topics/tic-tac-toe?l=c%2B%2B">Tic-Tac-Toe on GitHub</a>, <a href="https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory">Minimax Algorithm Tutorial</a></td>
   </tr>
   <tr>
-    <td>Minesweeper</td>
-    <td>Create the classic Minesweeper game where players uncover squares on a grid, avoiding hidden mines and revealing numbers indicating nearby mines. Implement a 2D grid representation, user interaction for uncovering squares, and logic for mine placement and number generation.</td>
-    <td><a href="https://github.com/topics/minesweeper?l=c%2B%2B">Minesweeper on GitHub</a><br><Hr /><a href="https://www.geeksforgeeks.org/c++-implementation-of-minesweeper-game">Minesweeper Implementation Tutorial</a></td>
+    <td><a href="https://github.com/topics/minesweeper?l=c%2B%2B">Minesweeper</a></td>
+    <td>Create the classic Minesweeper game where players uncover squares on a grid, avoiding hidden mines and revealing numbers indicating nearby mines. Implement a 2D grid representation, user interaction for uncovering squares, and logic for mine placement and number generation.<br>
+    Resources: <a href="https://github.com/topics/minesweeper?l=c%2B%2B">Minesweeper on GitHub</a>, <a href="https://www.geeksforgeeks.org/c++-implementation-of-minesweeper-game">Minesweeper Implementation Tutorial</a></td>
   </tr>
   <tr>
-    <td>Music Player</td>
-    <td>Develop a basic music player that can play audio files in various formats (e.g., MP3, WAV). Utilize multimedia libraries like SFML or BASS to handle audio playback, file I/O, and user interface elements for playlist management and playback controls.</td>
-    <td><a href="https://github.com/SFML/SFML">SFML Music Player on GitHub</a><br><Hr /><a href="https://www.un4seen.com/html/doc/BASS.html">BASS Library Documentation</a></td>
+    <td><a href="https://github.com/SFML/SFML">Music Player</a></td>
+    <td>Develop a basic music player that can play audio files in various formats (e.g., MP3, WAV). Utilize multimedia libraries like SFML or BASS to handle audio playback, file I/O, and user interface elements for playlist management and playback controls.<br>
+    Resources: <a href="https://github.com/SFML/SFML">SFML Music Player on GitHub</a>, <a href="https://www.un4seen.com/html/doc/BASS.html">BASS Library Documentation</a></td>
   </tr>
   <tr>
-    <td>Image Processing Application (OpenCV)</td>
-    <td>Explore image processing with OpenCV by building an application that performs basic operations like image filtering (blurring, sharpening), object detection (simple shapes), or image manipulation (resizing, cropping). Utilize OpenCV functions for image loading, processing, and display.</td>
-    <td><a href="https://opencv.org">OpenCV Website</a><br><Hr /><a href="https://docs.opencv.org/tutorials/core/introduction.html">OpenCV Basics Tutorial</a></td>
+    <td><a href="https://opencv.org">Image Processing Application (OpenCV)</a></td>
+    <td>Explore image processing with OpenCV by building an application that performs basic operations like image filtering (blurring, sharpening), object detection (simple shapes), or image manipulation (resizing, cropping). Utilize OpenCV functions for image loading, processing, and display.<br>
+    Resources: <a href="https://opencv.org">OpenCV Website</a>, <a href="https://docs.opencv.org/tutorials/core/introduction.html">OpenCV Basics Tutorial</a></td>
   </tr>
 </table>
 
@@ -1105,53 +947,43 @@ Writing to Files File Streams input and output operations in C++.</td>
 <table width="100%">
   <tr>
     <th>Project Name</th>
-    <th>Short Description</th>
-    <th>Resources</th>
+    <th>Description</th>
   </tr>
   <tr>
-    <td>Sorting Visualizer</td>
-    <td>Create an interactive program that visually demonstrates different sorting algorithms on an array of elements.</td>
     <td><a href="https://www.geeksforgeeks.org/sorting-algorithms/">Sorting Algorithms Tutorial</a><br><hr/><a href="https://www.fltk.org/">FLTK Graphics Library</a></td>
+    <td>Create an interactive program that visually demonstrates different sorting algorithms on an array of elements.</td>
   </tr>
   <tr>
-    <td>Pathfinding Algorithm</td>
+    <td><a href="https://www.geeksforgeeks.org/a-search-algorithm/">Pathfinding Algorithm - A* Algorithm Tutorial</a><br><hr/><a href="https://www.geeksforgeeks.org/two-dimensional-difference-array/">Grid Representation Reference</a></td>
     <td>Implement a pathfinding algorithm (e.g., A*, Dijkstra's algorithm) to find the shortest path between two points on a grid map.</td>
-    <td><a href="https://www.geeksforgeeks.org/a-search-algorithm/">A* Algorithm Tutorial</a><br><hr/><a href="https://www.geeksforgeeks.org/two-dimensional-difference-array/">Grid Representation Reference</a></td>
   </tr>
   <tr>
-    <td>Data Compression/Decompression</td>
+     <td><a href="https://www.geeksforgeeks.org/problems/huffman-encoding3345/1">Data Compression/Decompression - Huffman Coding Tutorial</a><hr/><br><a href="https://www.zlib.net/">Zlib Library</a></td>
     <td>Explore data compression techniques like Huffman coding or Lempel-Ziv (LZ) algorithms. Build a program that compresses and decompresses text files.</td>
-    <td><a href="https://www.geeksforgeeks.org/problems/huffman-encoding3345/1">Huffman Coding Tutorial</a><hr/><br><a href="https://www.zlib.net/">Zlib Library</a></td>
   </tr>
   <tr>
-    <td>2D Platformer Game</td>
+    <td><a href="https://www.sfml-dev.org/">2D Platformer Game - SFML Library</a><br><a href="https://discourse.libsdl.org/categories">SDL Library</a><hr/><br><a href="https://m.youtube.com/watch?v=lURuqDfs_BY">SFML Platformer Tutorial</a></td>
     <td>Develop a side-scrolling platformer game with jumping, running, and environment interaction.</td>
-    <td><a href="https://www.sfml-dev.org/">SFML Library</a><br><a href="https://discourse.libsdl.org/categories">SDL Library</a><hr/><br><a href="https://m.youtube.com/watch?v=lURuqDfs_BY">SFML Platformer Tutorial</a></td>
   </tr>
   <tr>
     <td>Tower Defense Game</td>
     <td>Design a tower defense game with strategic tower placement, enemy pathfinding, and resource management.</td>
-    <td>Same resources as 2D Platformer Game</td>
   </tr>
   <tr>
-    <td>Simple Strategy Game</td>
+    <td>Simple Strategy Game - Same resources as 2D Platformer Game</td>
     <td>Build a turn-based strategy game with unit movement, combat, and AI opponents.</td>
-    <td>Same resources as 2D Platformer Game</td>
   </tr>
   <tr>
-    <td>Simple Chat Client/Server</td>
+    <td><a href="https://www.boost.org/">chat application - Boost.Asio Library</a><br><hr/><a href="https://www.geeksforgeeks.org/c-plus-plus/">Boost.Asio Chat Tutorial</a></td>
     <td>Develop a basic chat application with client-server communication for messaging.</td>
-    <td><a href="https://www.boost.org/">Boost.Asio Library</a><br><hr/><a href="https://www.geeksforgeeks.org/c-plus-plus/">Boost.Asio Chat Tutorial</a></td>
   </tr>
   <tr>
     <td>Echo Server</td>
     <td>Create a server application that echos back received data for testing network communication.</td>
-    <td>Same resources as Simple Chat Client/Server</td>
   </tr>
   <tr>
-    <td>File Transfer Client</td>
-    <td>Build a client program that transfers files from a remote server to the local machine.</td>
     <td>Same resources as Simple Chat Client/Server<br> <hr/><a href="https://www.programiz.com/cpp-programming/file-handling">File Handling Tutorial</a></td>
+    <td>Build a client program that transfers files from a remote server to the local machine.</td>
   </tr>
 </table>
 
@@ -1301,37 +1133,30 @@ Writing to Files File Streams input and output operations in C++.</td>
 
 <table width="100%">
   <tr>
-    <th>Platform</th>
     <th>Course</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Coursera</td>
     <td><a href="https://www.coursera.org/courses?query=c%2B%2B">Coding for Everyone: C and C++</a></td>
     <td>Several universities offer free C++ courses on Coursera, including "Coding for Everyone: C and C++" from the University of California, Santa Cruz. These courses provide video lectures, quizzes, and a certificate upon completion.</td>
   </tr>
   <tr>
-    <td>Simplilearn</td>
     <td><a href="https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup">Free C++ Course with Certificate</a></td>
     <td>This platform offers a "Free C++ Course with Certificate" that covers C++ basics, variables, operators, control flow statements, arrays, and functions. You can earn a certificate upon finishing the course.</td>
   </tr>
   <tr>
-    <td>Scaler Academy</td>
     <td><a href="https://www.scaler.com/topics/cpp/">C++ Course: Learn the Essentials</a></td>
     <td>Their "C++ Course: Learn the Essentials" provides an introduction to C++ programming fundamentals with modules on variables, data types, loops, functions, and pointers. They offer a certificate upon completion.</td>
   </tr>
   <tr>
-    <td>edX</td>
     <td><a href="https://www.edx.org/">Introductory C++ Courses</a></td>
     <td>While edX courses tend to be paid, they sometimes offer free introductory sections or trials. You might find introductory C++ courses with certificates here.</td>
   </tr>
   <tr>
-    <td>HackerRank</td>
     <td><a href="https://www.hackerrank.com/domains/cpp">C++ Tutorials</a></td>
     <td>HackerRank provides a collection of free C++ tutorials and practice problems. You can work through these tutorials to improve your problem-solving skills and solidify your C++ knowledge.</td>
   </tr>
   <tr>
-    <td>Stanford CS106L</td>
     <td><a href="https://web.stanford.edu/class/cs106l/">Programming Fundamentals with C++</a></td>
     <td>Stanford's CS106L Programming Fundamentals with C++ course offers video lectures, assignments, and online resources. While there's no certificate, this provides an in-depth learning experience.</td>
   </tr>
