@@ -580,64 +580,63 @@ These channels provide excellent resources for learning Python programming, cate
 
 <table>
   <tr>
-    <th>Project Name</th>
+  <th> Resource Name</th>
     <th>Description</th>
-    <th>Resources</th>
   </tr>
   <tr>
-    <td>Mad Libs Generator</td>
+     <td><a href="https://pythongeeks.org/python-mad-libs-generator-project/">GeeksforGeeks Mad Libs Generator</a></td>
     <td>A classic game that tests your understanding of string manipulation and user input.</td>
-    <td><a href="https://pythongeeks.org/python-mad-libs-generator-project/">GeeksforGeeks Mad Libs Generator</a></td>
+   
   </tr>
   <tr>
-    <td>Scientific Calculator</td>
-    <td>A scientific calculator which can perform majority of mathematic problems upto engineering level.</td>
-    <td><a href="https://www.geeksforgeeks.org/scientific-gui-calculator-using-tkinter-in-python/">GeeksforGeeks Calculator</a></td>
+  <td><a href="https://www.geeksforgeeks.org/scientific-gui-calculator-using-tkinter-in-python/">GeeksforGeeks Calculator</a></td>
+        <td>A scientific calculator which can perform majority of mathematic problems upto engineering level.</td>
+    
   </tr>
   <tr>
-    <td>Snake Game</td>
-    <td>The main objective of the player is to catch the maximum number of fruits without hitting the wall or itself.</td>
-    <td><a href="https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/">GeeksforGeeks Number Snake Game</a></td>
+  <td><a href="https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/">GeeksforGeeks Number Snake Game</a></td>
+        <td>The main objective of the player is to catch the maximum number of fruits without hitting the wall or itself.</td>
+    
   </tr>
   <tr>
-    <td>Text-Based Adventure Game</td>
+      <td><a href="https://www.makeuseof.com/python-text-adventure-game-create/">MUO Text Based Adventure  Game</a></td>
     <td>Create a story where users make choices, introducing concepts like control flow and arrays.</td>
-    <td><a href="https://www.makeuseof.com/python-text-adventure-game-create/">MUO</a></td>
+  
   </tr>
   <tr>
-    <td>Simple Text Editor</td>
+<td><a href="https://www.geeksforgeeks.org/build-a-basic-text-editor-using-tkinter-in-python">Simple Text Editor GeeksForGeeks</a></td>
     <td>Develop a basic text editor application that allows users to create, edit, and save text files.</td>
-    <td><a href="https://www.geeksforgeeks.org/build-a-basic-text-editor-using-tkinter-in-python">Simple Text Editor</a></td>
+    
   </tr>
   <tr>
-    <td>Quiz Application</td>
+<td><a href="https://realpython.com/python-quiz-application/">Quiz Application RealPython </a></td>
     <td>Create a quiz application where users can answer multiple-choice questions and receive feedback on their performance.</td>
-    <td><a href="https://realpython.com/python-quiz-application/">Quiz Application </a></td>
+    
   </tr>
   <tr>
-    <td>Library Management System</td>
+<td><a href="https://pythongeeks.org/python-library-management-system-project/">Library Management System PythonGeeks </a></td>
     <td>Build a library management system allowing librarians to manage books, borrowers, and transactions.</td>
-    <td><a href="https://pythongeeks.org/python-library-management-system-project/">Library Management System </a></td>
+    
   </tr>
   <tr>
-    <td>Weather Application</td>
+    <td><a href="https://www.askpython.com/python/examples/gui-weather-app-in-python">Weather Application Tutorial AskPython</a></td>
     <td>Develop a simple weather application that retrieves and displays weather information based on user input or location.</td>
-    <td><a href="https://www.askpython.com/python/examples/gui-weather-app-in-python">Weather Application Tutorial</a></td>
+    
   </tr>
     <tr>
-    <td>Hangman Game</td>
+   <td><a href="https://realpython.com/python-hangman/">Hangman Game RealPython</a></td>
     <td>Implement the classic Hangman game where players guess letters to reveal a hidden word before running out of attempts.</td>
-    <td><a href="https://realpython.com/python-hangman/">Hangman Game</a></td>
+    
   </tr>
   <tr>
-    <td>Address Book</td>
+   <td><a href="https://pythongeeks.org/python-contact-address-book-project/">Address Book PythonGeeks</a></td>
     <td>Develop a basic address book application to manage contacts, including features like adding new contacts, searching, and deleting.</td>
-    <td><a href="https://pythongeeks.org/python-contact-address-book-project/">Address Book</a></td>
+    
   </tr>
   <tr>
-    <td>Temperature Converter</td>
+ <td><a href="https://www.freecodecamp.org/news/temperature-converter-calculator-with-python">Program to Convert Temperature Freecodecamp</a></td>
     <td>Build a program that converts temperatures between Celsius and Fahrenheit scales based on user input.</td>
-    <td><a href="https://www.freecodecamp.org/news/temperature-converter-calculator-with-python">Program to Convert Temperature</a></td>
+    
   </tr>
 </table>
 
@@ -646,49 +645,49 @@ These channels provide excellent resources for learning Python programming, cate
 
 <table>
   <tr>
-    <th>Project Name</th>
-    <th>Description</th>
     <th>Resources</th>
+    <th>Description</th>
+    
   </tr>
   <tr>
-    <td>To-Do List App</td>
-    <td>A practical application for managing tasks. Introduces data structures (lists) and persistence (saving data).</td>
     <td><a href="https://www.youtube.com/watch?v=izQGdZvRs7I&t=14s">To-Do List App YouTube Tutorial</a></td>
+    <td>A practical application for managing tasks. Introduces data structures (lists) and persistence (saving data).</td>
+    
   </tr>
   <tr>
-    <td>Alarm Clock</td>
-    <td>Python program to simulate a digital alarm clock with user-set wake up time.</td>
     <td><a href="https://www.youtube.com/watch?v=no5dz0GOWy8">Alarm Clock YouTube Tutorial</a></td>
+    <td>Python program to simulate a digital alarm clock with user-set wake up time.</td>
+    
   </tr>
   <tr>
-    <td>Tic-Tac-Toe Game</td>
+     <td><a href="https://www.youtube.com/watch?v=dK6gJw4-NCo">Tic-Tac-Toe Game YouTube Tutorial</a></td>
     <td>Develop a two-player Tic-Tac-Toe game with a graphical interface (GUI) . Teaches GUI development and game logic.</td>
-    <td><a href="https://www.youtube.com/watch?v=dK6gJw4-NCo">Tic-Tac-Toe Game YouTube Tutorial</a></td>
+   
   </tr>
   <tr>
-    <td>Library Management System</td>
+       <td><a href="https://pythongeeks.org/python-library-management-system-project/#google_vignette">Library Management System Tutorial</a></td>
     <td>Develop a system for managing library operations such as book borrowing, returning, and inventory management.</td>
-    <td><a href="https://pythongeeks.org/python-library-management-system-project/#google_vignette">Library Management System Tutorial</a></td>
+
   </tr>
   <tr>
-    <td>Online Shopping System</td>
+    <td><a href="https://www.geeksforgeeks.org/e-commerce-website-using-django/">Online Shopping Project using Django GeeksforGeeks</a></td>
     <td>Build an e-commerce platform with features like product browsing, shopping cart, and order processing.</td>
-    <td><a href="https://www.geeksforgeeks.org/e-commerce-website-using-django/">Online Shopping Project using Django</a></td>
+    
   </tr>
   <tr>
-    <td>Banking Management System</td>
+  <td><a href="https://pythonscholar.com/python-projects/bank-management-system-project-in-python">Banking Management System Tutorial PythonScholar</a></td>
     <td>Develop a comprehensive banking system including account management, transaction processing, and reporting.</td>
-    <td><a href="https://pythonscholar.com/python-projects/bank-management-system-project-in-python">Banking Management System Tutorial</a></td>
+    
   </tr>
   <tr>
-    <td>Hotel Management System</td>
+     <td><a href="https://www.geeksforgeeks.org/hotel-management-project-in-python/">Hotel Management System GeeksforGeeks</a></td>
     <td>Create a system for managing hotel operations such as room booking, guest check-in/out, and billing.</td>
-    <td><a href="https://www.geeksforgeeks.org/hotel-management-project-in-python/">Hotel Management System</a></td>
+   
   </tr>
   <tr>
-    <td>Inventory Management System</td>
+   <td><a href="https://www.geeksforgeeks.org/inventory-management-with-json-in-python/">Inventory Management System using JSON</a></td>
     <td>Build a system for tracking inventory levels, orders, sales, and deliveries for a business.</td>
-    <td><a href="https://www.geeksforgeeks.org/inventory-management-with-json-in-python/">Inventory Management System using JSON</a></td>
+    
   </tr>
   
 </table>
@@ -697,53 +696,53 @@ These channels provide excellent resources for learning Python programming, cate
 
 <table>
   <tr>
-    <th>Project Name</th>
+   <th>Resources</th>
     <th>Description</th>
-    <th>Resources</th>
+    
   </tr>
   <tr>
-    <td>E-commerce Website</td>
-    <td>Build a basic online store with functionalities like product listings, shopping cart, and user authentication (requires a database).</td>
     <td><a href="https://www.youtube.com/watch?v=Yg5zkd9nm6w&t=1s">E-commerce Website Tutorial</a></td>
+    <td>Build a basic online store with functionalities like product listings, shopping cart, and user authentication (requires a database).</td>
+    
   </tr>
   <tr>
-    <td>Music Player Application</td>
+ <td><a href="https://pythongeeks.org/python-music-player/">MediaPlayer Class Example</a></td>
     <td>Develop a music player that reads and plays audio files. Introduces working with external libraries and file handling.</td>
-    <td><a href="https://pythongeeks.org/python-music-player/">MediaPlayer Class Example</a></td>
+   
   </tr>
   <tr>
-    <td>Data Visualization Tool</td>
+   <td><a href="https://www.geeksforgeeks.org/data-visualization-with-python/">Data Visualization Tool GeeksforGeeks</a></td>
     <td>Create a program that reads data from a file and displays it visually using charts and graphs. Teaches working with data sets and libraries .</td>
-    <td><a href="https://www.geeksforgeeks.org/data-visualization-with-python/">GeeksforGeeks</a></td>
+   
   </tr>
   <tr>
-    <td>Simple Chat Application</td>
+ <td><a href="https://www.geeksforgeeks.org/gui-chat-application-using-tkinter-in-python/">Creating a Chat Server GeeksforGeeks</a></td>
     <td>Build a basic chat application for real-time communication between users. Introduces networking concepts and libraries like sockets.</td>
-    <td><a href="https://www.geeksforgeeks.org/gui-chat-application-using-tkinter-in-python/">Creating a Chat Server </a></td>
+    
   </tr>
   <tr>
-    <td>ChatBot</td>
+       <td><a href="https://realpython.com/build-a-chatbot-python-chatterbot/">ChatBot </td>
     <td> Python program to build an interactive chatbot for conversation or task automation.</td>
-    <td><a href="https://realpython.com/build-a-chatbot-python-chatterbot/">ChatBot 
+
   <tr>
-    <td>Real-time Analytics Dashboard</td>
+       <td><a href="https://www.geeksforgeeks.org/real-time-translation-app-using-python/">Real-time Analytics Dashboard GeeksforGeeks</a></td>
     <td>This is a real-time analytics dashboard app using Spring Boot and Web Socket..</td>
-    <td><a href="https://www.geeksforgeeks.org/real-time-translation-app-using-python/">Real-time Analytics Dashboard</a></td>
+
   </tr>
   <tr>
-    <td>Blockchain Implementation</td>
-    <td>Implement a basic blockchain system in Python, covering concepts like distributed ledger, mining, consensus algorithms, and smart contracts.</td>
     <td><a href="https://github.com/topics/python-blockchain">Blockchain</a></td>
+    <td>Implement a basic blockchain system in Python, covering concepts like distributed ledger, mining, consensus algorithms, and smart contracts.</td>
+    
   </tr>
   <tr>
-    <td>Cointrader</td>
-    <td>Coin Trader is a Python-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
     <td><a href="https://cointrader.readthedocs.io/en/latest/_modules/cointrader/chart.html">Cointrader Documentation in Python </a></td>
+    <td>Coin Trader is a Python-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
+    
   </tr>
   <tr>
-    <td>Network Security Toolkit</td>
+  <td><a href="https://github.com/SAMi-Rn/Network_Security_Toolkit">Python-security-toolkit</a></td>
     <td>Develop a toolkit for network security analysis and penetration testing, implementing various algorithms and techniques for network scanning, vulnerability assessment, and intrusion detection.</td>
-    <td><a href="https://github.com/SAMi-Rn/Network_Security_Toolkit">Python-security-toolkit</a></td>
+    
   </tr>
 </table>
 
