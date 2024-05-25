@@ -1686,6 +1686,12 @@ This section contains hundreds of coding challenges that test your knowledge of 
         </td>
       </tr> 
       <tr>
+        <td><a href="https://youtu.be/bMYCWccL-3U?si=oeRNnbwvWLa98G-P">Card Blackjack game</a></td>
+        <td>
+        In this you will learn how to make the card game, black jack! You will learn how to create a deck, shuffle it, and deal cards to the dealer and the player. You will also learn to hit (draw cards) and stay (submit your hand) and compare the results to see who wins the round.
+        </td>
+      </tr> 
+      <tr>
         <td><a href="https://foolishdeveloper.com/drawing-app-javascript/">Drawing App</a></td>
         <td>
         This link helps you understand deep JS by building a drawing app. This project is the best practice for understanding intermediate DOM elements and Events.
