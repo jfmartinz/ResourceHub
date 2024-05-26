@@ -60,10 +60,9 @@ This section is a curated collection of valuable Java and Java development resou
 </table>
 
 ### Tutorials
+> Start your journey into Java programming with these essential tutorials covering basic syntax and all concepts.
 
 ### Fundamentals
-
-
 
 <table width="100%">
   <tr>
@@ -86,7 +85,7 @@ This section is a curated collection of valuable Java and Java development resou
   
 
  <tr>
-    <td><a href=" https://www.javatpoint.com/javafx-how-to-install-java">Installation</a></td>
+    <td><a href="https://www.geeksforgeeks.org/how-to-download-and-install-java-for-64-bit-machine/">Installation</a></td>
     <td>An article explaining step by step installation of Java.</td>
   </tr>
 
@@ -320,7 +319,7 @@ Here's the updated table:
 
 <table width="100%">
   <tr>
-    <th>Tool/IDE</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -499,7 +498,7 @@ Here's the updated table:
 
 <table width="100%">
   <tr>
-    <th>Book Title</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -579,7 +578,7 @@ Here's the updated table:
 
 <table width="100%">
   <tr>
-    <th>Channel Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -624,7 +623,7 @@ Here's the updated table:
 
 <table width="100%">
   <tr>
-    <th>Playlist/Channel</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
    <tr>
@@ -684,7 +683,7 @@ Here's the updated table:
 
 <table width="100%">
   <tr>
-    <th>Platform</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -816,7 +815,7 @@ Here's the updated table:
 
 <table>
   <tr>
-    <th>Project Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -869,7 +868,7 @@ Here's the updated table:
 
 <table>
   <tr>
-    <th>Project Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -914,7 +913,7 @@ Here's the updated table:
 ### Advance Level Projects
 <table>
   <tr>
-    <th>Project Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -956,6 +955,7 @@ Here's the updated table:
 </table>
 
 ### Interview Preparation
+> Here are some resources which can help you to prepare for java interview rounds
 
 <table width="100%">
   <tr>
@@ -996,13 +996,13 @@ Here's the updated table:
 
 
 ### Additional Resources
+> Here are some additional resources which you may consider to expand your java skills
 
 ### Java Games
-> Coding Games to Practice Your Java Skills
 
 <table width="100%">
   <tr>
-    <th>Game</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -1035,7 +1035,7 @@ Here's the updated table:
 
 <table width="100%">
   <tr>
-    <th>Community Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>

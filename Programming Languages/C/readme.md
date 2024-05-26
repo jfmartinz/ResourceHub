@@ -462,23 +462,23 @@ This section serves as a curated collection of valuable resources for learning a
             <th>Description</th>
         </tr>
         <tr>
-            <td><a href="https://www.youtube.com/watch?v=_7Q-zc1w_mQ">Snake Game - YouTube Tutorial (CS Dojo)</a><hr><a href="https://github.com/topics/snake-game-in-c">Snake Game - GitHub Repository (Basic implementation)</a></td>
+            <td><a href="https://www.youtube.com/watch?v=_7Q-zc1w_mQ">Snake Game - YouTube Tutorial (CS Dojo)</a><a href="https://github.com/topics/snake-game-in-c">Snake Game - GitHub Repository (Basic implementation)</a></td>
             <td>A classic game where a snake moves around the screen eating food and avoiding obstacles.</td>
         </tr>
         <tr>
-            <td><a href="https://m.youtube.com/watch?v=j1mDa-6f-e8">Tetris - YouTube Tutorial (The Coding Train)</a><hr><a href="https://codereview.stackexchange.com/questions/136406/tetris-in-c-in-200-lines">Tetris - Website with C Code Example (Cuplikan)</a></td>
+            <td><a href="https://m.youtube.com/watch?v=j1mDa-6f-e8">Tetris - YouTube Tutorial (The Coding Train)</a><a href="https://codereview.stackexchange.com/questions/136406/tetris-in-c-in-200-lines">Tetris - Website with C Code Example (Cuplikan)</a></td>
             <td>A challenging puzzle game where players fit falling Tetriminos (geometric shapes) together.</td>
         </tr>
         <tr>
-            <td><a href="https://www.nesoacademy.org/pl/02-c-programming">Traffic Light Simulator - Blog with C Code Example (Neso Academy)</a><hr><a href="https://www.geeksforgeeks.org/project-idea-traffic-signal-control-automatic/">Traffic Light Simulator - Article with Explanation (GeeksforGeeks)</a></td>
+            <td><a href="https://www.nesoacademy.org/pl/02-c-programming">Traffic Light Simulator - Blog with C Code Example (Neso Academy)</a><a href="https://www.geeksforgeeks.org/project-idea-traffic-signal-control-automatic/">Traffic Light Simulator - Article with Explanation (GeeksforGeeks)</a></td>
             <td>Simulate the traffic flow at an intersection with different light timings.</td>
         </tr>
         <tr>
-            <td><a href="https://m.youtube.com/watch?v=ovooX4sVSfs">Library Management System - YouTube Tutorial (freeCodeCamp.org)</a><hr><a href="https://github.com/arpit456jain">Library Management System - GitHub Repository (Basic example with file handling)</a></td>
+            <td><a href="https://m.youtube.com/watch?v=ovooX4sVSfs">Library Management System - YouTube Tutorial (freeCodeCamp.org)</a><a href="https://github.com/arpit456jain">Library Management System - GitHub Repository (Basic example with file handling)</a></td>
             <td>Create a system to track books in a library, including adding, borrowing, and returning books.</td>
         </tr>
         <tr>
-            <td><a href="https://www.programiz.com/cpp-programming/examples">Student Database System - Website with C Code Example (Programiz)</a><hr><a href="https://www.javatpoint.com/student-record-system-in-c">Student Database System- Article with Explanation (TutorialsPoint)</a></td>
+            <td><a href="https://www.programiz.com/cpp-programming/examples">Student Database System - Website with C Code Example (Programiz)</a><a href="https://www.javatpoint.com/student-record-system-in-c">Student Database System- Article with Explanation (TutorialsPoint)</a></td>
             <td>Develop a system to store and manage student information (grades, attendance, etc.).</td>
         </tr>
         <tr>
@@ -529,7 +529,7 @@ This section serves as a curated collection of valuable resources for learning a
             <td>Visualizes different sorting algorithms to understand their working.</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/kaworu/JamesM">Web Server - GitHub Repository</a><hr /><a href="https://www.jamesmolloy.co.uk/tutorial_html/">Web Server - Website with C Code</a></td>
+            <td><a href="https://github.com/kaworu/JamesM">Web Server - GitHub Repository</a><a href="https://www.jamesmolloy.co.uk/tutorial_html/">Web Server - Website with C Code</a></td>
             <td>Building a simple web server in C programming language.</td>
         </tr>
     </table>

@@ -150,7 +150,6 @@ Python supports multiple programming paradigms, including procedural, object-ori
 </table>
 
 #### Frameworks and Libraries
->Enhance your Python development process with these popular frameworks and libraries.
 
 <table width="100%">
   <tr>
@@ -196,7 +195,6 @@ Python supports multiple programming paradigms, including procedural, object-ori
 </table>
 
 #### Web Development with Flask
-> Learn web development with Flask through these comprehensive resources.
 
 <table width="100%">
   <tr>
@@ -222,7 +220,6 @@ Python supports multiple programming paradigms, including procedural, object-ori
 </table>
 
 #### Web Development with Django
-> Master web development with Django through these detailed tutorials.
 
 <table width="100%">
   <tr>
@@ -248,7 +245,6 @@ Python supports multiple programming paradigms, including procedural, object-ori
 </table>
 
 #### Data Science and Machine Learning
-> Explore data science and machine learning with Python through these essential resources.
 
 <table width="100%">
   <tr>

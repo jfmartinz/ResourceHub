@@ -858,23 +858,23 @@ Writing to Files File Streams input and output operations in C++.</td>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/topics/number-guessing-game?l=c%2B%2B">Number Guessing Game on GitHub</a><br> <Hr /><a href="https://www.youtube.com/watch?v=ZNS65osF8uU">YouTube Number Guessing Game in C++</a></td>
+    <td><a href="https://github.com/topics/number-guessing-game?l=c%2B%2B">Number Guessing Game on GitHub</a><br><a href="https://www.youtube.com/watch?v=ZNS65osF8uU">YouTube Number Guessing Game in C++</a></td>
     <td>Develop a classic game where the user tries to guess a randomly generated number within a specified range. Implement loops, conditional statements (if/else), and user input/output to create an engaging experience.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/topics/rock-paper-scissors?l=c%2B%2B">Rock Paper Scissors on GitHub</a><br><Hr /><a href="https://www.youtube.com/watch?v=hjC6U0WY0E4">YouTube Rock Paper Scissors C++</a></td>
+    <td><a href="https://github.com/topics/rock-paper-scissors?l=c%2B%2B">Rock Paper Scissors on GitHub</a><br><a href="https://www.youtube.com/watch?v=hjC6U0WY0E4">YouTube Rock Paper Scissors C++</a></td>
     <td>Build a fun and interactive game where the user plays against the computer. Utilize random number generation, conditional statements, and loops to determine the winner based on game rules.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/topics/calculator-cpp">Calculator in C++ on GitHub</a><br><Hr /><a href="https://www.youtube.com/watch?v=eaB5khADvN0">YouTube Simple Calculator in C++</a></td>
+    <td><a href="https://github.com/topics/calculator-cpp">Calculator in C++ on GitHub</a><br><a href="https://www.youtube.com/watch?v=eaB5khADvN0">YouTube Simple Calculator in C++</a></td>
     <td>Create a basic calculator that performs addition, subtraction, multiplication, and division. Focus on user input/output, arithmetic operations, and potentially switch statements or function calls for modularity.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/topics/add-two-numbers">Add Two Numbers on GitHub</a><br><Hr /><a href="https://www.thewordfinder.com/wordlibs/">Word Libs</a></td>
+    <td><a href="https://github.com/topics/add-two-numbers">Add Two Numbers on GitHub</a><br><a href="https://www.thewordfinder.com/wordlibs/">Word Libs</a></td>
     <td>Develop a program that generates a silly story by prompting the user for various words (nouns, verbs, adjectives, etc.) and inserting them into a pre-written template. Explore string manipulation techniques and user input/output.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/topics/adventure-game?l=c%2B%2B">Adventure Game on GitHub</a><br><Hr /><a href="https://about.gitlab.com/blog/2023/08/24/building-a-text-adventure-using-cplusplus-and-code-suggestions/">Building a Text Adventure using C++</a></td>
+    <td><a href="https://github.com/topics/adventure-game?l=c%2B%2B">Adventure Game on GitHub</a><br><a href="https://about.gitlab.com/blog/2023/08/24/building-a-text-adventure-using-cplusplus-and-code-suggestions/">Building a Text Adventure using C++</a></td>
     <td>Design a text-based adventure where the user explores different environments, makes choices, and interacts with objects or characters. Introduce branching narratives, conditional statements, and arrays/vectors for storing game data.</td>
   </tr>  
   <tr>
@@ -882,7 +882,7 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td>Build a program that converts between various units of measurement (length, weight, temperature, etc.). Utilize functions for modularity, switch statements for handling different conversions, and potentially user-defined data types for structured data.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/topics/password-generator-cpp">Password Generator on GitHub</a><br><Hr /><a href="https://www.codespeedy.com/generate-a-random-password-of-a-specific-length-in-cpp/">Website tutorial</a></td>
+    <td><a href="https://github.com/topics/password-generator-cpp">Password Generator on GitHub</a><br><a href="https://www.codespeedy.com/generate-a-random-password-of-a-specific-length-in-cpp/">Website tutorial</a></td>
     <td>Create a program that generates secure passwords based on user-defined criteria (length, character types). Explore random number generation, string manipulation, and potentially loops to create a strong password.</td>
   </tr>
   <tr>
@@ -949,19 +949,19 @@ Writing to Files File Streams input and output operations in C++.</td>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.geeksforgeeks.org/sorting-algorithms/">Sorting Algorithms Tutorial</a><br><hr/><a href="https://www.fltk.org/">FLTK Graphics Library</a></td>
+    <td><a href="https://www.geeksforgeeks.org/sorting-algorithms/">Sorting Algorithms Tutorial</a><br><a href="https://www.fltk.org/">FLTK Graphics Library</a></td>
     <td>Create an interactive program that visually demonstrates different sorting algorithms on an array of elements.</td>
   </tr>
   <tr>
-    <td><a href="https://www.geeksforgeeks.org/a-search-algorithm/">Pathfinding Algorithm - A* Algorithm Tutorial</a><br><hr/><a href="https://www.geeksforgeeks.org/two-dimensional-difference-array/">Grid Representation Reference</a></td>
+    <td><a href="https://www.geeksforgeeks.org/a-search-algorithm/">Pathfinding Algorithm - A* Algorithm Tutorial</a><br><a href="https://www.geeksforgeeks.org/two-dimensional-difference-array/">Grid Representation Reference</a></td>
     <td>Implement a pathfinding algorithm (e.g., A*, Dijkstra's algorithm) to find the shortest path between two points on a grid map.</td>
   </tr>
   <tr>
-     <td><a href="https://www.geeksforgeeks.org/problems/huffman-encoding3345/1">Data Compression/Decompression - Huffman Coding Tutorial</a><hr/><br><a href="https://www.zlib.net/">Zlib Library</a></td>
+     <td><a href="https://www.geeksforgeeks.org/problems/huffman-encoding3345/1">Data Compression/Decompression - Huffman Coding Tutorial</a><br><a href="https://www.zlib.net/">Zlib Library</a></td>
     <td>Explore data compression techniques like Huffman coding or Lempel-Ziv (LZ) algorithms. Build a program that compresses and decompresses text files.</td>
   </tr>
   <tr>
-    <td><a href="https://www.sfml-dev.org/">2D Platformer Game - SFML Library</a><br><a href="https://discourse.libsdl.org/categories">SDL Library</a><hr/><br><a href="https://m.youtube.com/watch?v=lURuqDfs_BY">SFML Platformer Tutorial</a></td>
+    <td><a href="https://www.sfml-dev.org/">2D Platformer Game - SFML Library</a><br><a href="https://discourse.libsdl.org/categories">SDL Library</a><br><a href="https://m.youtube.com/watch?v=lURuqDfs_BY">SFML Platformer Tutorial</a></td>
     <td>Develop a side-scrolling platformer game with jumping, running, and environment interaction.</td>
   </tr>
   <tr>
@@ -973,7 +973,7 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td>Build a turn-based strategy game with unit movement, combat, and AI opponents.</td>
   </tr>
   <tr>
-    <td><a href="https://www.boost.org/">chat application - Boost.Asio Library</a><br><hr/><a href="https://www.geeksforgeeks.org/c-plus-plus/">Boost.Asio Chat Tutorial</a></td>
+    <td><a href="https://www.boost.org/">chat application - Boost.Asio Library</a><br><a href="https://www.geeksforgeeks.org/c-plus-plus/">Boost.Asio Chat Tutorial</a></td>
     <td>Develop a basic chat application with client-server communication for messaging.</td>
   </tr>
   <tr>
@@ -981,7 +981,7 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td>Create a server application that echos back received data for testing network communication.</td>
   </tr>
   <tr>
-    <td>Same resources as Simple Chat Client/Server<br> <hr/><a href="https://www.programiz.com/cpp-programming/file-handling">File Handling Tutorial</a></td>
+    <td>Same resources as Simple Chat Client/Server<br><a href="https://www.programiz.com/cpp-programming/file-handling">File Handling Tutorial</a></td>
     <td>Build a client program that transfers files from a remote server to the local machine.</td>
   </tr>
 </table>

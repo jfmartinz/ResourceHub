@@ -51,7 +51,6 @@ This section is dedicated to providing valuable resources for learning and maste
    - [Beginner Level Projects](#beginner-level-projects)
    - [Intermediate Level Projects](#intermediate-level-projects)
    - [Advance Level Projects](#advance-level-projects)
-   - [Additional Tips](#additional-tips)
 - [Version Control](#version-control)
 - [Deployment](#deployment)
 - [Youtube](#youtube)
@@ -403,7 +402,7 @@ This section is dedicated to providing valuable resources for learning and maste
 
 <table width="100%">
   <tr>
-    <th>Browser</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -433,7 +432,7 @@ This section is dedicated to providing valuable resources for learning and maste
 
 <table width="100%">
   <tr>
-    <th>IDE</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -467,7 +466,7 @@ This section is dedicated to providing valuable resources for learning and maste
 
 <table width="100%">
   <tr>
-    <th>Online Editor</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -647,10 +646,11 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 ### Advanced Frameworks
+> Here are some advanced frameworks in javascript integrating powerful features like Nextjs server-side rendering and Vuex for state management.
 
 <table width="100%">
   <tr>
-    <th>Framework</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -664,6 +664,7 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 ### Back-End Development with JavaScript
+> Here are resources for Javascript in Back end development
 
 ### Node.js
 
@@ -756,10 +757,11 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 ### Mobile Development with JavaScript
+> Here are resources for mobile development with JavScript.
 
 <table width="100%">
   <tr>
-    <th>Framework</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -792,7 +794,7 @@ Here's the updated table with all resource links added to the Platform/Service c
 <table>
   <thead>
     <tr>
-      <th>Platform/Service</th>
+      <th>Resource Name</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -825,10 +827,11 @@ Here's the updated table with all resource links added to the Platform/Service c
 </table>
 
 ### Specialized Topics
+> Here are some specialized topics in javascript which you may consider to expand your knowledge
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -853,7 +856,7 @@ Here's the updated table with all resource links added to the Platform/Service c
 <table width="100%">
   <thead>
     <tr>
-      <th>Feature</th>
+      <th>Resource Name</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -928,8 +931,8 @@ Here's the updated table with all resource links added to the Platform/Service c
 
 <table width="100%">
   <tr>
-    <th>Project</th>
-    <th>Concepts</th>
+    <th>Resource Name</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>
@@ -1027,8 +1030,8 @@ Here's the updated table with all resource links added to the Platform/Service c
 
 <table width="100%">
   <tr>
-    <th>Project</th>
-    <th>Concepts</th>
+    <th>Resource Name</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>
@@ -1192,8 +1195,8 @@ Here's the updated table with all resource links added to the Platform/Service c
 
 <table width="100%">
   <tr>
-    <th>Project</th>
-    <th>Concepts</th>
+    <th>Resource Name</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>
@@ -1278,7 +1281,7 @@ Here's the revised table:
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -1317,7 +1320,7 @@ Here's the revised table:
 
 <table width="100%">
   <tr>
-    <th>Platform</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -1340,7 +1343,7 @@ Here's the revised table:
 ### YouTube Channels for Learning JavaScript
 <table>
   <tr>
-    <th>YouTube Channel</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -1404,7 +1407,7 @@ Here's the revised table:
 ### YouTube Playlists for Learning JavaScript
 <table>
   <tr>
-    <th>YouTube Playlist</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -1456,8 +1459,8 @@ Here's the revised table:
 
 <table>
   <tr>
-    <th>Course </th>
-    <th>Organization</th>
+    <th>Resource Name </th>
+    <th>Description</th>
   </tr>
   <tr>
     <td><a href="https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript">Google Developers</a></td>
@@ -1497,8 +1500,8 @@ Here's the revised table:
 ### Paid Certification Courses
 <table>
   <tr>
-    <th>Organization</th>
-    <th>Course</th>
+    <th>Resource Name</th>
+    <th>Description</th>
 
   </tr>
   <tr>
@@ -1543,7 +1546,7 @@ Here's the revised table:
 
 <table width="100%">
   <tr>
-    <th>Game</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -1577,7 +1580,7 @@ Here's the revised table:
 
 <table width="100%">
   <tr>
-    <th>Community</th>
+    <th>Resource Name</th>
     <th>Description</th>
 
   </tr>
@@ -1612,7 +1615,7 @@ Here's the revised table:
 ### JavaScript Documentations
 <table>
   <tr>
-    <th>Documentation</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -1634,7 +1637,7 @@ Here's the revised table:
 
 <table width="100%">
   <tr>
-    <th>Book Title</th>
+    <th>Resource Name</th>
     <th>Description</th>
     <th>Link</th>
   </tr>
