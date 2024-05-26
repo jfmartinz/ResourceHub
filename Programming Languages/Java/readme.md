@@ -60,64 +60,53 @@ This section is a curated collection of valuable Java and Java development resou
 </table>
 
 ### Tutorials
-> Start your journey into Java programming with these essential tutorials covering basic syntax and concepts.
+> Start your journey into Java programming with these essential tutorials covering basic syntax and all concepts.
+
 ### Fundamentals
-
-
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Introduction to Java</td>
-    <td><a href="https://www.scaler.com/topics/java/introduction-to-java/">Scaler - Introduction to Java</a></td>
+    <td><a href="https://www.scaler.com/topics/java/introduction-to-java/">Introduction to Java</a></td>
     <td>A detailed article providing an overall introduction to Java, covering its history, features and applications, JAVA Terminologies, JDK,JVM, JRE etc.</td>
   </tr>
    <tr>
-    <td>Packages in Java</td>
-    <td><a href="https://www.scaler.com/topics/java/packages-in-java/">Scaler - Packages in Java</a></td>
+    <td><a href="https://www.scaler.com/topics/java/packages-in-java/"> Packages in Java</a></td>
     <td>An article about Packages in Java which serve as a container for organizing classes, interfaces, and sub-packages.</td>
   </tr>
  
   <tr>
-    <td>Basic Syntax</td>
-    <td><a href="https://www.geeksforgeeks.org/java-basic-syntax/">GeeksforGeeks - Basic Syntax</a></td>
+    <td><a href="https://www.geeksforgeeks.org/java-basic-syntax/">Basic Syntax</a></td>
     <td>An article explaining basic syntax in Java.</td>
   </tr>
   
 
  <tr>
-    <td>Installation</td>
-    <td><a href=" https://www.javatpoint.com/javafx-how-to-install-java">Javatpoint - Installation</a></td>
+    <td><a href="https://www.geeksforgeeks.org/how-to-download-and-install-java-for-64-bit-machine/">Installation</a></td>
     <td>An article explaining step by step installation of Java.</td>
   </tr>
 
   <tr>
-    <td>Data Types</td>
-    <td><a href="https://www.geeksforgeeks.org/data-types-in-java/">GeeksforGeeks - Data types</a></td>
+    <td><a href="https://www.geeksforgeeks.org/data-types-in-java/"> Data types</a></td>
     <td>An article explaining data types.</td>
   </tr>
   <tr>
-    <td>Operators</td>
-    <td><a href="https://www.programiz.com/java-programming/operators">Programiz - Operators</a></td>
+    <td><a href="https://www.programiz.com/java-programming/operators"> Operators</a></td>
     <td>An article explaining Operators in java.</td>
   </tr>
 
   <tr>
-    <td>Control Statements</td>
-    <td><a href="https://www.scaler.com/topics/control-statements-in-java/">Scaler - Control Statements</a></td>
+    <td><a href="https://www.scaler.com/topics/control-statements-in-java/"> Control Statements</a></td>
     <td>An article explaining Java control structures, including conditionals (if, switch) and loops (for, while, do-while).</td>
   </tr>
   <tr>
-    <td>Methods</td>
-    <td><a href="https://www.geeksforgeeks.org/methods-in-java/">GeeksforGeeks - Methods in Java</a></td>
+    <td><a href="https://www.geeksforgeeks.org/methods-in-java/">Methods in Java</a></td>
     <td>An article explaining methods in Java, including declaration, invocation, and overloading.</td>
   </tr>
   <tr>
-    <td>Official Documentation</td>
     <td><a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html">Oracle - The Java™ Tutorials: Learning the Java Language</a></td>
     <td>Official Oracle documentation providing a thorough introduction to Java basics, including variables, operators, control flow statements, and methods.</td>
   </tr>
@@ -127,43 +116,34 @@ This section is a curated collection of valuable Java and Java development resou
 
 ### Object-Oriented Programming (OOP)
 
-> Object-Oriented Programming (OOP) concepts in Java with these tutorials covering classes, inheritance, polymorphism, encapsulation, and abstraction.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
 <tr>
-    <td>OOPS Concepts</td>
-    <td><a href="https://www.scaler.com/topics/java/oops-concepts-in-java/">Scaler - OOPS Conecpts in Java</a></td>
+    <td><a href="https://www.scaler.com/topics/java/oops-concepts-in-java/">OOPS Conecpts in Java</a></td>
     <td>An article explaining Overall Concept of Object-Oriented Programming.</td>
   </tr>
 
   <tr>
-    <td>Classes and Objects</td>
-    <td><a href="https://www.javatpoint.com/object-and-class-in-java">JavaTpoint - Classes and Objects</a></td>
+    <td><a href="https://www.javatpoint.com/object-and-class-in-java">Classes and Objects</a></td>
     <td>An article explaining the definition of classes and objects in Java, their instantiation, and usage.</td>
   </tr>
   <tr>
-    <td>Inheritance</td>
-    <td><a href="https://www.scaler.com/topics/java/inheritance-in-java/">Scaler - Inheritance</a></td>
+    <td><a href="https://www.scaler.com/topics/java/inheritance-in-java/">Inheritance</a></td>
     <td>An article covering inheritance in Java, including types and the use of the extends keyword and method overriding.</td>
   </tr>
   <tr>
-    <td>Polymorphism</td>
-    <td><a href="https://www.geeksforgeeks.org/polymorphism-in-java/">GeeksforGeeks - Polymorphism</a></td>
+    <td><a href="https://www.geeksforgeeks.org/polymorphism-in-java/"> Polymorphism</a></td>
     <td>An article explaining polymorphism in Java, including method overloading and overriding.</td>
   </tr>
   <tr>
-    <td>Encapsulation</td>
-    <td><a href="https://www.scaler.com/topics/java/encapsulation-in-java/">Scaler - Encapsulation</a></td>
+    <td><a href="https://www.scaler.com/topics/java/encapsulation-in-java/">Encapsulation</a></td>
     <td>An article covering encapsulation in Java, including access modifiers, getters, and setters.</td>
   </tr>
   <tr>
-    <td>Abstraction</td>
-    <td><a href="https://www.scaler.com/topics/java/abstraction-in-java/">Scaler - Abstraction</a></td>
+    <td><a href="https://www.scaler.com/topics/java/abstraction-in-java/"> Abstraction</a></td>
     <td>An article explaining abstraction in Java, including abstract classes and interfaces.</td>
   </tr>
 </table>
@@ -171,51 +151,39 @@ This section is a curated collection of valuable Java and Java development resou
 
 ### Core Java Libraries
 
-> Core Java Libraries with these tutorials covering strings, collections framework, exception handling, file handling, input/output (I/O), and multithreading.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Strings</td>
-    <td><a href="https://www.geeksforgeeks.org/string-class-in-java/">GeeksforGeeks - Strings</a></td>
+    <td><a href="https://www.geeksforgeeks.org/string-class-in-java/">Strings</a></td>
     <td>An article covering string manipulation in Java using the String class and StringBuilder.</td>
   </tr>
   <tr>
-    <td>Collections Framework</td>
-    <td><a href="https://www.scaler.com/topics/java/collections-in-java/">Scaler - Collections Framework</a></td>
+    <td><a href="https://www.scaler.com/topics/java/collections-in-java/">Collections Framework</a></td>
     <td>An article explaining the Java Collections Framework, including lists, sets, maps, and queues.</td>
   </tr>
   <tr>
-    <td>Exception Handling</td>
-    <td><a href="https://www.scaler.com/topics/java/exception-handling-in-java/">Scaler - Exception Handling</a></td>
+    <td><a href="https://www.scaler.com/topics/java/exception-handling-in-java/">Exception Handling</a></td>
     <td>An article covering exception handling in Java, including try-catch blocks and custom exceptions.</td>
   </tr>
   <tr>
-    <td>File Handling</td>
-    <td><a href="https://www.geeksforgeeks.org/file-handling-in-java/">GeeksForGeeks - File Handling</a></td>
+    <td><a href="https://www.geeksforgeeks.org/file-handling-in-java/">File Handling</a></td>
     <td>An article covering exception handling in Java, including try-catch blocks and custom exceptions.</td>
   </tr>
 
   <tr>
-    <td>Input/Output (I/O)</td>
-    <td><a href="https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples/">GeeksforGeeks - Input/Output (I/O)</a></td>
+    <td><a href="https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples/">Input/Output (I/O)</a></td>
     <td>An article explaining input/output (I/O) operations in Java, including file handling and streams.</td>
   </tr>
   <tr>
-    <td>Multithreading</td>
-    <td><a href="https://www.tutorialspoint.com/java/java_multithreading.htm">TutorialsPoint - Multithreading in Java</a></td>
+    <td><a href="https://www.tutorialspoint.com/java/java_multithreading.htm">Multithreading in Java</a></td>
     <td>An article covering multithreading in Java, including the Thread class, Runnable interface, and synchronization.</td>
   </tr>
 </table>
 
-
 ## Frameworks and Libraries
-
-> Java frameworks and libraries to streamline your development process with these recommended resources.
 
 <table width="100%">
   <tr>
@@ -260,16 +228,12 @@ This section is a curated collection of valuable Java and Java development resou
 
 ### Microservices
 
-> Microservices architecture, design principles, benefits, and popular tools like Spring Cloud, Docker, and Kubernetes for building and managing microservices-based applications.
-
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="2">Microservices Architecture</td>
     <td><a href="https://microservices.io/">Microservices.io</a></td>
     <td>Microservices.io provides a comprehensive guide to microservices architecture, including design principles, patterns, and best practices.</td>
   </tr>
@@ -278,17 +242,14 @@ This section is a curated collection of valuable Java and Java development resou
     <td>Red Hat's article explaining the concept of microservices, their benefits, and how they differ from monolithic architectures.</td>
   </tr>
   <tr>
-    <td>Spring Cloud</td>
     <td><a href="https://spring.io/projects/spring-cloud">Spring Cloud - Official Website</a></td>
     <td>Official website for Spring Cloud, a collection of tools for building and deploying cloud-native microservices-based applications with Spring Boot.</td>
   </tr>
   <tr>
-    <td>Docker</td>
     <td><a href="https://www.docker.com/">Docker - Official Website</a></td>
     <td>Official website for Docker, a platform for developing, shipping, and running applications in containers.</td>
   </tr>
   <tr>
-    <td>Kubernetes</td>
     <td><a href="https://kubernetes.io/">Kubernetes - Official Website</a></td>
     <td>Official website for Kubernetes, an open-source container orchestration platform for automating deployment, scaling, and management of containerized applications.</td>
   </tr>
@@ -297,51 +258,38 @@ This section is a curated collection of valuable Java and Java development resou
 
 ### Java EE (Enterprise Edition)
 
-
-> Java EE components to build robust enterprise applications with these recommended resources.
-
 <table width="100%">
   <tr>
-    <th>Component</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Java Servlets</td>
-    <td><a href="https://docs.oracle.com/javaee/7/tutorial/servlets.htm">Java Servlets Tutorial</a></td>
+    <td><a href="https://docs.oracle.com/javaee/7/tutorial/servlets.htm">Java Servlets</a></td>
     <td>Tutorial on Java Servlets, providing an overview of servlets and how to use them to handle requests and generate dynamic web content.</td>
   </tr>
   <tr>
-    <td>JavaServer Pages (JSP)</td>
-    <td><a href="https://www.w3schools.in/jsp/tutorials/">JavaServer Pages (JSP) Tutorial</a></td>
+    <td><a href="https://www.w3schools.in/jsp/tutorials/">JavaServer Pages (JSP)</a></td>
     <td>Tutorial on JavaServer Pages (JSP), covering the basics of JSP syntax, directives, scripting elements, and expression language.</td>
   </tr>
   <tr>
-    <td>Enterprise JavaBeans (EJB)</td>
-    <td><a href="https://docs.oracle.com/javaee/7/tutorial/ejb-intro.htm">Enterprise JavaBeans (EJB) Tutorial</a></td>
+    <td><a href="https://docs.oracle.com/javaee/7/tutorial/ejb-intro.htm">Enterprise JavaBeans (EJB)</a></td>
     <td>Tutorial on Enterprise JavaBeans (EJB), explaining the different types of EJB components and how to develop and deploy them in enterprise applications.</td>
   </tr>
   <tr>
-    <td>Java Persistence API (JPA)</td>
-    <td><a href="https://docs.oracle.com/javaee/7/tutorial/partpersist.htm">Java Persistence API (JPA) Tutorial</a></td>
+    <td><a href="https://docs.oracle.com/javaee/7/tutorial/partpersist.htm">Java Persistence API (JPA)</a></td>
     <td>Tutorial on Java Persistence API (JPA), covering object-relational mapping (ORM) and how to use JPA to interact with relational databases in Java EE applications.</td>
   </tr>
   <tr>
-    <td>JavaServer Faces (JSF)</td>
-    <td><a href="https://docs.oracle.com/javaee/7/javaserverfaces/2.2/docs/Vdldocs/index.html">JavaServer Faces (JSF) Documentation</a></td>
+    <td><a href="https://docs.oracle.com/javaee/7/javaserverfaces/2.2/docs/Vdldocs/index.html">JavaServer Faces (JSF)</a></td>
     <td>Documentation for JavaServer Faces (JSF), a web application framework for building component-based user interfaces for Java EE applications.</td>
   </tr>
   <tr>
-    <td>Java Message Service (JMS)</td>
-    <td><a href="https://docs.oracle.com/javaee/7/tutorial/jms-concepts.htm">Java Message Service (JMS) Tutorial</a></td>
+    <td><a href="https://docs.oracle.com/javaee/7/tutorial/jms-concepts.htm">Java Message Service (JMS)</a></td>
     <td>Tutorial on Java Message Service (JMS), covering the basic concepts of messaging and how to use JMS to build messaging applications in Java EE.</td>
   </tr>
 </table>
 
 ## Java Database Connectivity (JDBC)
-
-
->  Java Database Connectivity (JDBC) for interacting with databases in Java applications.
 
 <table width="100%">
   <tr>
@@ -367,53 +315,38 @@ This section is a curated collection of valuable Java and Java development resou
 ## Tools and IDEs
 
 > Java Tools and IDEs to enhance your development experience with these recommended resources.
+Here's the updated table:
 
 <table width="100%">
   <tr>
-    <th>Tool/IDE</th>
-    <th>Installation</th>
-    <th>Article/Documentation</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>IntelliJ IDEA</td>
-    <td><a href="https://www.jetbrains.com/idea/download/">Download</a></td>
-    <td><a href="https://www.jetbrains.com/idea/documentation/">Documentation</a></td>
+    <td><a href="https://www.jetbrains.com/idea/documentation/">IntelliJ IDEA</a></td>
     <td>IntelliJ IDEA is one of the most popular IDEs for Java development, providing features like intelligent code assistance, built-in tools, and support for various technologies.</td>
   </tr>
   <tr>
-    <td>Eclipse IDE</td>
-    <td><a href="https://www.eclipse.org/downloads/packages/">Download</a></td>
-    <td><a href="https://www.eclipse.org/documentation/">Documentation</a></td>
+    <td><a href="https://www.eclipse.org/documentation/">Eclipse IDE</a></td>
     <td>Eclipse IDE is tailored for Java developers, offering a robust development environment with features like code refactoring, debugging, and extensive plugin support.</td>
   </tr>
   <tr>
-    <td>NetBeans IDE</td>
-    <td><a href="https://netbeans.apache.org/tutorial/main/kb/docs/ide/overview-screencast/">Download</a></td>
-    <td><a href="https://netbeans.apache.org/front/main/index.html">Documentation</a></td>
+    <td><a href="https://netbeans.apache.org/front/main/index.html">NetBeans IDE</a></td>
     <td>NetBeans IDE is an open-source IDE with features like smart code editing, profiling, and support for Java SE, Java EE, and JavaFX.</td>
   </tr>
   <tr>
-    <td>JUnit and Testing Frameworks</td>
-    <td><a href="https://junit.org/junit5/docs/current/user-guide/#installation">Installation</a></td>
-    <td><a href="https://junit.org/junit5/docs/current/user-guide/">Documentation</a></td>
+    <td><a href="https://junit.org/junit5/docs/current/user-guide/">JUnit and Testing Frameworks</a></td>
     <td>JUnit is a popular testing framework for Java, providing features like assertions, annotations, and parameterized tests for writing unit tests.</td>
   </tr>
   <tr>
-    <td>Apache Ant and Apache Maven for Build Automation</td>
-    <td><a href="https://ant.apache.org/manual/install.html">Apache Ant Installation</a> , <br><a href="https://maven.apache.org/install.html">Apache Maven Installation</a></td>
     <td><a href="https://ant.apache.org/manual/index.html">Apache Ant Manual</a> ,<br><a href="https://maven.apache.org/guides/index.html">Apache Maven Guides</a></td>
     <td>Apache Ant is a build automation tool, while Apache Maven is a build automation and project management tool, providing dependency management, project structuring, and more.</td>
   </tr>
   <tr>
-    <td>Version Control Systems: Git</td>
-    <td><a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Git Installation</a></td>
-    <td><a href="https://git-scm.com/book/en/v2">Pro Git Book</a></td>
+    <td><a href="https://git-scm.com/book/en/v2">Version Control Systems: Git</a></td>
     <td>Git is a version control system, offering features like branching, merging, and GitHub/GitLab integration.</td>
   </tr>
-    <tr>
-    <td>GitHub and GitLab</td>
-    <td>N/A</td>
+  <tr>
     <td><a href="https://docs.github.com/en/get-started/quickstart/set-up-git">GitHub Documentation</a> ,<br><a href="https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html">GitLab Documentation</a></td>
     <td>Documentation for setting up and using Git with GitHub and GitLab for version control.</td>
   </tr>
@@ -425,12 +358,10 @@ This section is a curated collection of valuable Java and Java development resou
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="2">Servlets and JSP</td>
     <td><a href="https://docs.oracle.com/javaee/7/tutorial/servlets.htm">Servlets and JSP Tutorial - Oracle</a></td>
     <td>Oracle's tutorial covering Servlets and JSP, explaining how to develop web applications using these technologies with examples.</td>
   </tr>
@@ -439,7 +370,6 @@ This section is a curated collection of valuable Java and Java development resou
     <td>Tutorial on JavaServer Pages (JSP), covering JSP syntax, directives, scripting elements, and more.</td>
   </tr>
   <tr>
-    <td rowspan="3">Web Frameworks</td>
     <td><a href="https://docs.spring.io/spring-framework/docs/current/reference/html/web.html">Spring MVC Documentation</a></td>
     <td>Documentation for Spring MVC, a powerful framework for building web applications and APIs with Java and Spring.</td>
   </tr>
@@ -452,22 +382,18 @@ This section is a curated collection of valuable Java and Java development resou
     <td>Oracle's tutorial on JavaServer Faces (JSF), covering the basics of JSF and how to develop web applications using JSF components.</td>
   </tr>
   <tr>
-    <td>RESTful Services</td>
     <td><a href="https://www.baeldung.com/rest-with-spring-series">Building RESTful Web Services with Spring Boot - Baeldung</a></td>
     <td>Baeldung's tutorial series on building RESTful web services with Spring Boot, covering various aspects including request mapping, data validation, error handling, and more.</td>
   </tr>
     <tr>
-    <td>JAAS Authentication and Authorization</td>
     <td><a href="https://docs.oracle.com/javase/8/docs/technotes/guides/security/jaas/JAASRefGuide.html">Java Authentication and Authorization Service (JAAS) Reference Guide - Oracle</a></td>
     <td>Oracle's reference guide for Java Authentication and Authorization Service (JAAS), providing information on how to implement user authentication and authorization in Java applications.</td>
   </tr>
   <tr>
-    <td>JavaMail API Email Communication</td>
     <td><a href="https://javaee.github.io/javamail/">JavaMail API Documentation</a></td>
     <td>Documentation for JavaMail API, a Java library for sending and receiving emails in Java applications.</td>
   </tr>
   <tr>
-    <td>WebSockets</td>
     <td><a href="https://docs.oracle.com/javaee/7/tutorial/websocket.htm">Java WebSockets Tutorial - Oracle</a></td>
     <td>Oracle's tutorial on Java WebSockets, explaining how to use WebSockets for bidirectional communication between client and server in web applications.</td>
   </tr>
@@ -477,17 +403,14 @@ This section is a curated collection of valuable Java and Java development resou
 
 ### Java Android Development
 
-
 > Android app development using Java for building mobile applications. Learn about Android UI development, handling user input, working with databases, and integrating with web services.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="2">Android App Development</td>
     <td><a href="https://developer.android.com/guide">Android Developer Guide - Official</a></td>
     <td>Official developer guide by Android covering various topics from getting started with Android development to advanced topics like app architecture and testing.</td>
   </tr>
@@ -495,7 +418,6 @@ This section is a curated collection of valuable Java and Java development resou
     
   </tr>
   <tr>
-    <td rowspan="2">User Interface (UI) Development</td>
     <td><a href="https://developer.android.com/guide/topics/ui">Android UI Guide - Official</a></td>
     <td>Official guide by Android on user interface development, covering layouts, views, styles, themes, and more.</td>
   </tr>
@@ -503,7 +425,6 @@ This section is a curated collection of valuable Java and Java development resou
  
   </tr>
   <tr>
-    <td rowspan="2">Database Integration</td>
     <td><a href="https://developer.android.com/training/data-storage">Android Data Storage - Official</a></td>
     <td>Official guide by Android on data storage options, including SQLite databases, SharedPreferences, and file storage.</td>
   </tr>
@@ -512,7 +433,6 @@ This section is a curated collection of valuable Java and Java development resou
     <td>Tutorialspoint's tutorial on integrating SQLite databases into Android apps, covering CRUD operations, transactions, and more.</td>
   </tr>
   <tr>
-    <td rowspan="2">Web Services Integration</td>
     <td><a href="https://developer.android.com/training/volley">Android Volley Tutorial - Official</a></td>
     <td>Official guide by Android on using Volley library for network operations such as fetching JSON data from web services.</td>
   </tr>
@@ -521,7 +441,6 @@ This section is a curated collection of valuable Java and Java development resou
     <td>AndroidHive provides tutorials and articles on various Android development topics including web services integration using Retrofit, OkHttp, and more.</td>
   </tr>
     <tr>
-    <td rowspan="2">Android App Testing and Debugging</td>
     <td><a href="https://developer.android.com/training/testing">Android Testing - Official</a></td>
     <td>Official guide by Android on testing Android apps using frameworks like JUnit, Espresso, and UI Automator.</td>
   </tr>
@@ -530,17 +449,14 @@ This section is a curated collection of valuable Java and Java development resou
 
 ## Java Networking
 
-
 > Java's networking capabilities for building client-server applications, socket programming, and working with protocols like TCP/IP and UDP. Learn about URL handling, HTTP connections, and web services development in Java.
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="2">Socket Programming</td>
     <td><a href="https://docs.oracle.com/javase/tutorial/networking/sockets/index.html">Socket Programming Tutorial - Oracle</a></td>
     <td>Oracle's tutorial covering socket programming in Java, explaining how to create client-server applications using sockets with examples.</td>
   </tr>
@@ -549,7 +465,6 @@ This section is a curated collection of valuable Java and Java development resou
     <td>Baeldung's comprehensive guide to Java sockets, covering socket programming concepts, creating TCP and UDP clients and servers, handling multiple connections, and more.</td>
   </tr>
   <tr>
-    <td rowspan="2">URL Handling</td>
     <td><a href="https://docs.oracle.com/javase/tutorial/networking/urls/index.html">URL Handling Tutorial - Oracle</a></td>
     <td>Oracle's tutorial on URL handling in Java, explaining how to work with URLs to access resources over the internet, open connections, and more.</td>
   </tr>
@@ -558,7 +473,6 @@ This section is a curated collection of valuable Java and Java development resou
     <td>Baeldung's tutorial on working with URLs in Java, covering URL class, constructing and parsing URLs, encoding and decoding URL components, and more.</td>
   </tr>
   <tr>
-    <td rowspan="2">HTTP Connections</td>
     <td><a href="https://docs.oracle.com/javase/tutorial/networking/urls/readingWriting.html">Reading from and Writing to a URL - Oracle</a></td>
     <td>Oracle's tutorial on reading from and writing to a URL in Java, explaining how to open connections, send and receive data using HttpURLConnection.</td>
   </tr>
@@ -567,7 +481,6 @@ This section is a curated collection of valuable Java and Java development resou
     <td>Baeldung's tutorial on making HTTP requests in Java, covering various libraries and methods for sending HTTP requests, handling responses, and more.</td>
   </tr>
   <tr>
-    <td rowspan="2">Web Services Development</td>
     <td><a href="https://docs.oracle.com/javase/8/docs/technotes/guides/net/index.html">Java Networking Guide - Oracle</a></td>
     <td>Oracle's networking guide covering various aspects of networking in Java, including socket programming, URL handling, HTTP connections, and more.</td>
   </tr>
@@ -581,12 +494,11 @@ This section is a curated collection of valuable Java and Java development resou
 
 ### Books
 
-
 > Highly recommended books on Java programming for in-depth learning and reference.
 
 <table width="100%">
   <tr>
-    <th>Book Title</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -632,8 +544,6 @@ This section is a curated collection of valuable Java and Java development resou
 </table>
 
 
-
-
 ### Documentation
 
 > Official documentation and reference materials for Java.
@@ -668,7 +578,7 @@ This section is a curated collection of valuable Java and Java development resou
 
 <table width="100%">
   <tr>
-    <th>Channel Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -711,36 +621,28 @@ This section is a curated collection of valuable Java and Java development resou
 
 ### YouTube Playlists
 
-> YouTube playlists for structured learning on various Java programming topics, ranging from beginner to advanced levels.
-
 <table width="100%">
   <tr>
-    <th>Playlist Name</th>
-    <th>Channel</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
    <tr>
-    <td>Java Programming</td>
     <td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRjicb0pe9mrbrXZ36V7WkyJ">Neso Academy</a></td>
     <td>Neso Academy's playlist covering various Java programming topics, including core concepts and advanced topics, with clear explanations.</td>
   </tr>
   <tr>
-    <td>Java and DSA Foundation Course</td>
     <td><a href="https://www.youtube.com/playlist?list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr">College Wallah</a></td>
     <td>College Wallah's playlist focusing on data structures and algorithms using Java, ideal for beginners and those preparing for coding interviews.</td>
   </tr>
   <tr>
-    <td>Java Tutorial for Beginners</td>
     <td><a href="https://www.youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1">Bro Code</a></td>
     <td>Bro Code's playlist providing tutorials on Java programming, covering basic concepts to advanced topics with practical examples.</td>
   </tr>
   <tr>
-    <td>A MOSH JAVA FOR BEGINNER</td>
     <td><a href="https://www.youtube.com/playlist?list=PLNdU2uGFOUdz3QG6C0nKQn69UmUyQSCpX">Programming with Mosh</a></td>
     <td>A comprehensive playlist by Mosh Hamedani covering Java basics, object-oriented programming, and essential concepts for beginners.</td>
   </tr>
   <tr>
-    <td>Java Tutorial for Beginners</td>
     <td><a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5">Telusko</a></td>
     <td>Navin Reddy's extensive Java course covering fundamental to advanced topics, with practical examples and project-based learning.</td>
   </tr>
@@ -748,32 +650,26 @@ This section is a curated collection of valuable Java and Java development resou
   <tr>
   </tr>
   <tr>
-    <td>Java Programming</td>
     <td><a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4">freeCodeCamp.org</a></td>
     <td>freeCodeCamp's playlist offering full-length Java courses and tutorials, suitable for learners at all levels.</td>
   </tr>
   <tr>
-    <td>Java Tutorial for Beginners [HINDI]</td>
     <td><a href="https://www.youtube.com/playlist?list=PLhvdldYcnZMmxgR8iP46Vr3fCZkbACiSo">Coding Wallah Sir</a></td>
     <td>Extensive tutorials on Java basics and advanced topics by ProgrammingKnowledge, with practical coding demonstrations.</td>
   </tr>
   <tr>
-    <td>Java Video Tutorial</td>
     <td><a href="https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19">Derek Banas</a></td>
     <td>Derek Banas' playlist offering a fast-paced and thorough overview of Java programming, ideal for those looking to learn quickly.</td>
   </tr>
   <tr>
-    <td>Java + DSA + Interview Preparation Course</td>
     <td><a href="https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ">Kunal Kushwaha</a></td>
     <td>Kunal Kushwaha's comprehensive Java series covering basic to advanced topics, with detailed explanations and coding examples.</td>
   </tr>
   <tr>
-    <td>Java Tutorials For Beginners In Hindi</td>
     <td><a href="https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q">CodeWithHarry</a></td>
     <td>CodeWithHarry's beginner-friendly playlist on Java programming, with practical examples and easy-to-follow tutorials.</td>
   </tr>
   <tr>
-    <td>Data Structures and Algorithms in Java</td>
     <td><a href="https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d">Dinesh Varyani</a></td>
     <td>Dinesh Varyani's Data Structures and Algorithms in Java covers basic to advanced topics. The course walks you through multiple Java algorithms, data structure problems, and their solutions with step-by-step visualizations.</td>
   </tr>
@@ -787,7 +683,7 @@ This section is a curated collection of valuable Java and Java development resou
 
 <table width="100%">
   <tr>
-    <th>Platform</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -834,42 +730,36 @@ This section is a curated collection of valuable Java and Java development resou
 </table>
 
 ### Courses
+> Explore these certification courses to enhance your Java skills:
 
 ### Free Certification Courses
 
-> Explore these free certification courses to enhance your Java skills:
 
 <table width="100%">
   <tr>
-    <th>Platform</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Coursera</td>
     <td><a href="https://www.coursera.org/specializations/java-programming">Java Programming and Software Engineering Fundamentals Specialization</a></td>
     <td>A comprehensive specialization covering Java programming fundamentals, software engineering, and more.</td>
   </tr>
  
   <tr>
-    <td>Udacity</td>
     <td><a href="https://www.udacity.com/course/java-programming-basics--ud282">Java Programming Basics</a></td>
     <td>A free course by Udacity that covers the basics of Java programming.</td>
   </tr>
   <tr>
-    <td>Codecademy</td>
     <td><a href="https://www.codecademy.com/learn/learn-java">Learn Java</a></td>
     <td>An introductory course to Java programming.</td>
   </tr>
   <tr>
  
   <tr>
-    <td>SoloLearn</td>
     <td><a href="https://www.sololearn.com/Course/Java/">Java Tutorial</a></td>
     <td>An interactive Java course with a certification upon completion.</td>
   </tr>
   <tr>
-    <td>Udemy</td>
     <td><a href="https://www.udemy.com/course/java-tutorial/">Java Tutorial for Complete Beginners</a></td>
     <td>A free course on Udemy designed for complete beginners to learn Java programming.</td>
   </tr>
@@ -881,47 +771,37 @@ This section is a curated collection of valuable Java and Java development resou
 ### Paid Certification Courses
 
 
-> Explore these paid certification courses to gain recognized credentials in Java programming:
-
 <table width="100%">
   <tr>
-    <th>Platform</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Coursera</td>
     <td><a href="https://www.coursera.org/specializations/java-programming">Java Programming and Software Engineering Fundamentals Specialization</a></td>
     <td>A comprehensive specialization offered by Duke University, covering Java programming fundamentals, software engineering, and more. Includes a certificate upon completion.</td>
   </tr>
   <tr>
-    <td>edX</td>
     <td><a href="https://www.edx.org/certificates/professional-certificate/uc3mx-introduction-java-programming">Introduction to Java Programming</a></td>
     <td>Offered by Hong Kong University of Science and Technology, this course provides an introduction to Java programming with a verified certificate upon completion.</td>
   </tr>
   <tr>
-    <td>Udacity</td>
     <td><a href="https://www.udacity.com/course/java-developer-nanodegree--nd035">Java Developer Nanodegree</a></td>
     <td>This Nanodegree program includes real-world projects and expert reviews. It covers advanced Java topics and offers a certificate upon completion.</td>
   </tr>
  
   <tr>
-    <td>Udemy</td>
     <td><a href="https://www.udemy.com/course/advanced-java-programming/">Advanced Java Programming</a></td>
     <td>This advanced course covers multithreading, network programming, and design patterns in Java. Includes a certificate upon completion.</td>
   </tr>
   <tr>
-    <td>LinkedIn Learning</td>
     <td><a href="https://www.linkedin.com/learning/advanced-java-programming">Advanced Java Programming</a></td>
     <td>A LinkedIn Learning course that covers advanced topics like concurrency, performance tuning, and Java NIO. Provides a certificate upon completion.</td>
   </tr>
   <tr>
-    <td>Oracle University</td>
     <td><a href="https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808">Java SE 8 Programmer I Certification</a></td>
     <td>Oracle University's certification course and exam for Java SE 8 Programmer I. Includes study materials and a certification upon passing the exam.</td>
   </tr>
   <tr>
-    <td>Springboard</td>
     <td><a href="https://www.springboard.com/workshops/software-engineering-career-track/">Software Engineering Career Track</a></td>
     <td>This comprehensive program includes Java as part of its curriculum and offers job guarantees and a certificate upon completion.</td>
   </tr>
@@ -933,182 +813,149 @@ This section is a curated collection of valuable Java and Java development resou
 
 ### Beginner Level Projects
 
-
 <table>
   <tr>
-    <th>Project Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
-    <th>Resources</th>
   </tr>
   <tr>
-    <td>Mad Libs Game</td>
+    <td><a href="https://gist.github.com/schroern1886/a69fe7f68bfe12f8c00eb72c10dda10e">Mad Libs Game</a></td>
     <td>A classic game that tests your understanding of string manipulation and user input.</td>
-    <td><a href="https://gist.github.com/schroern1886/a69fe7f68bfe12f8c00eb72c10dda10e">GitHub Gist</a></td>
   </tr>
   <tr>
-    <td>Currency Converter</td>
+    <td><a href="https://www.scaler.com/topics/currency-converter-java-project/">Currency Converter</a></td>
     <td>A simple application for converting between currencies. Introduces basic calculations and data types.</td>
-    <td><a href="https://www.scaler.com/topics/currency-converter-java-project/">Scaler Currency Converter</a></td>
   </tr>
   <tr>
-    <td>Number Guessing Game</td>
+    <td><a href="https://www.geeksforgeeks.org/number-guessing-game-in-java/">Number Guessing Game</a></td>
     <td>A fun way to practice user interaction and conditional statements (if/else).</td>
-    <td><a href="https://www.geeksforgeeks.org/number-guessing-game-in-java/">GeeksforGeeks Number Guessing Game</a></td>
   </tr>
   <tr>
-    <td>Text-Based Adventure Game</td>
+    <td><a href="https://github.com/topics/ascii-art?l=java">Text-Based Adventure Game</a></td>
     <td>Create a story where users make choices, introducing concepts like control flow and arrays.</td>
-    <td><a href="https://github.com/topics/ascii-art?l=java">GitHub ASCII Art</a></td>
   </tr>
   <tr>
-    <td>Simple Text Editor</td>
+    <td><a href="https://www.geeksforgeeks.org/java-swing-simple-text-editor/">Simple Text Editor</a></td>
     <td>Develop a basic text editor application that allows users to create, edit, and save text files.</td>
-    <td><a href="https://www.geeksforgeeks.org/java-swing-simple-text-editor/">Simple Text Editor in Java Swing</a></td>
   </tr>
   <tr>
-    <td>Quiz Application</td>
+    <td><a href="https://www.codejava.net/java-se/swing/create-simple-quiz-game-in-java-swing">Quiz Application</a></td>
     <td>Create a quiz application where users can answer multiple-choice questions and receive feedback on their performance.</td>
-    <td><a href="https://www.codejava.net/java-se/swing/create-simple-quiz-game-in-java-swing">Quiz Application in Java Swing</a></td>
   </tr>
   <tr>
-    <td>Library Management System</td>
+    <td><a href="https://www.javatpoint.com/library-management-system-in-java">Library Management System</a></td>
     <td>Build a library management system allowing librarians to manage books, borrowers, and transactions.</td>
-    <td><a href="https://www.javatpoint.com/library-management-system-in-java">Library Management System in Java</a></td>
   </tr>
   <tr>
-    <td>Weather Application</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLTl9hO2QlndidemKAsveFe5a1mqxS7lXQ">Weather Application</a></td>
     <td>Develop a simple weather application that retrieves and displays weather information based on user input or location.</td>
-    <td><a href="https://www.youtube.com/playlist?list=PLTl9hO2QlndidemKAsveFe5a1mqxS7lXQ">Java Weather Application Tutorial</a></td>
   </tr>
     <tr>
-    <td>Hangman Game</td>
+    <td><a href="https://www.geeksforgeeks.org/java-program-for-hangman-game/">Hangman Game</a></td>
     <td>Implement the classic Hangman game where players guess letters to reveal a hidden word before running out of attempts.</td>
-    <td><a href="https://www.geeksforgeeks.org/java-program-for-hangman-game/">Hangman Game in Java</a></td>
   </tr>
   <tr>
-    <td>Address Book</td>
+    <td><a href="https://www.geeksforgeeks.org/address-book-in-java/">Address Book</a></td>
     <td>Develop a basic address book application to manage contacts, including features like adding new contacts, searching, and deleting.</td>
-    <td><a href="https://www.geeksforgeeks.org/address-book-in-java/">Address Book in Java</a></td>
   </tr>
   <tr>
-    <td>Temperature Converter</td>
+    <td><a href="https://www.javatpoint.com/java-program-to-convert-temperature-celsius-to-fahrenheit">Temperature Converter</a></td>
     <td>Build a program that converts temperatures between Celsius and Fahrenheit scales based on user input.</td>
-    <td><a href="https://www.javatpoint.com/java-program-to-convert-temperature-celsius-to-fahrenheit">Java Program to Convert Temperature</a></td>
   </tr>
 </table>
-
 
 ### Intermediate Level Projects
 
 <table>
   <tr>
-    <th>Project Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
-    <th>Resources</th>
   </tr>
   <tr>
-    <td>To-Do List App</td>
+    <td><a href="https://m.youtube.com/watch?v=Hvuij8SOW8Q">To-Do List App</a></td>
     <td>A practical application for managing tasks. Introduces data structures (lists) and persistence (saving data).</td>
-    <td><a href="https://m.youtube.com/watch?v=Hvuij8SOW8Q">To-Do List App YouTube Tutorial</a></td>
   </tr>
   <tr>
-    <td>Contact List App</td>
+    <td><a href="https://docs.oracle.com/cd/E19798-01/821-1841/gkanq/index.html">Contact List App</a></td>
     <td>Build a simple address book application. Introduces object-oriented programming (OOP) concepts like classes and objects.</td>
-    <td><a href="https://docs.oracle.com/cd/E19798-01/821-1841/gkanq/index.html">Contact List App Documentation</a></td>
   </tr>
   <tr>
-    <td>Quiz Application</td>
+    <td><a href="https://www.tutorialspoint.com/java/java_online_quiz.htm">Quiz Application</a></td>
     <td>Create a multiple-choice quiz with scoring and user feedback. Practices user interaction and data structures like maps.</td>
-    <td><a href="https://www.tutorialspoint.com/java/java_online_quiz.htm">Java Online Quiz Tutorial</a></td>
   </tr>
   <tr>
-    <td>Tic-Tac-Toe Game</td>
+    <td><a href="https://m.youtube.com/watch?v=YMeVSoNumAg">Tic-Tac-Toe Game</a></td>
     <td>Develop a two-player Tic-Tac-Toe game with a graphical interface (GUI) using Java Swing. Teaches GUI development and game logic.</td>
-    <td><a href="https://m.youtube.com/watch?v=YMeVSoNumAg">Tic-Tac-Toe Game YouTube Tutorial</a></td>
   </tr>
   <tr>
-    <td>Library Management System</td>
+    <td><a href="https://www.javatpoint.com/library-management-system">Library Management System</a></td>
     <td>Develop a system for managing library operations such as book borrowing, returning, and inventory management.</td>
-    <td><a href="https://www.javatpoint.com/library-management-system">Library Management System Tutorial</a></td>
   </tr>
   <tr>
-    <td>Online Shopping System</td>
+    <td><a href="https://www.java2blog.com/online-shopping-project-java/">Online Shopping System</a></td>
     <td>Build an e-commerce platform with features like product browsing, shopping cart, and order processing.</td>
-    <td><a href="https://www.java2blog.com/online-shopping-project-java/">Online Shopping Project in Java Tutorial</a></td>
   </tr>
   <tr>
-    <td>Banking Management System</td>
+    <td><a href="https://www.javatpoint.com/banking-management-system">Banking Management System</a></td>
     <td>Develop a comprehensive banking system including account management, transaction processing, and reporting.</td>
-    <td><a href="https://www.javatpoint.com/banking-management-system">Banking Management System Tutorial</a></td>
   </tr>
   <tr>
-    <td>Hotel Management System</td>
+    <td><a href="https://www.javatpoint.com/hotel-management-system">Hotel Management System</a></td>
     <td>Create a system for managing hotel operations such as room booking, guest check-in/out, and billing.</td>
-    <td><a href="https://www.javatpoint.com/hotel-management-system">Hotel Management System Tutorial</a></td>
   </tr>
   <tr>
-    <td>Inventory Management System</td>
+    <td><a href="https://www.javatpoint.com/inventory-management-system">Inventory Management System</a></td>
     <td>Build a system for tracking inventory levels, orders, sales, and deliveries for a business.</td>
-    <td><a href="https://www.javatpoint.com/inventory-management-system">Inventory Management System Tutorial</a></td>
   </tr>
   
 </table>
 
 ### Advance Level Projects
-
 <table>
   <tr>
-    <th>Project Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
-    <th>Resources</th>
   </tr>
   <tr>
-    <td>E-commerce Website</td>
+    <td><a href="https://www.youtube.com/watch?v=U5TdEJnJU88">E-commerce Website</a></td>
     <td>Build a basic online store with functionalities like product listings, shopping cart, and user authentication (requires a database).</td>
-    <td><a href="https://www.youtube.com/watch?v=U5TdEJnJU88">E-commerce Website Tutorial</a></td>
   </tr>
   <tr>
-    <td>Music Player Application</td>
+    <td><a href="https://www.tabnine.com/code/java/classes/uk.co.caprica.vlcj.player.MediaPlayer">Music Player Application</a></td>
     <td>Develop a music player that reads and plays audio files. Introduces working with external libraries and file handling.</td>
-    <td><a href="https://www.tabnine.com/code/java/classes/uk.co.caprica.vlcj.player.MediaPlayer">MediaPlayer Class Example</a></td>
   </tr>
   <tr>
-    <td>Data Visualization Tool</td>
+    <td><a href="https://www.baeldung.com/">Data Visualization Tool</a></td>
     <td>Create a program that reads data from a file and displays it visually using charts and graphs. Teaches working with data sets and libraries like JavaFX.</td>
-    <td><a href="https://www.baeldung.com/">Baeldung Java Tutorials</a></td>
   </tr>
   <tr>
-    <td>Simple Chat Application</td>
+    <td><a href="https://www.instructables.com/Creating-a-Chat-Server-Using-Java/">Simple Chat Application</a></td>
     <td>Build a basic chat application for real-time communication between users. Introduces networking concepts and libraries like sockets.</td>
-    <td><a href="https://www.instructables.com/Creating-a-Chat-Server-Using-Java/">Creating a Chat Server Using Java</a></td>
   </tr>
   <tr>
-    <td>Loan Approver</td>
-    <td> JAVA Spring Boot based machine learning Loan Approver Application As A Service.</td>
-    <td><a href="https://github.com/mgorav/SmartLoadApproverAsServiceUsingMachineLearning">Loan approval GitHub
+    <td><a href="https://github.com/mgorav/SmartLoadApproverAsServiceUsingMachineLearning">Loan Approver</a></td>
+    <td>JAVA Spring Boot based machine learning Loan Approver Application As A Service.</td>
+  </tr>
   <tr>
-    <td>Real-time Analytics Dashboard</td>
+    <td><a href="https://github.com/accavdar/mc-dashboard">Real-time Analytics Dashboard</a></td>
     <td>This is a real-time analytics dashboard app using Spring Boot and Web Socket..</td>
-    <td><a href="https://github.com/accavdar/mc-dashboard">Real-time Analytics Dashboard GitHub</a></td>
   </tr>
   <tr>
-    <td>Blockchain Implementation</td>
+    <td><a href="https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa">Blockchain Implementation</a></td>
     <td>Implement a basic blockchain system in Java, covering concepts like distributed ledger, mining, consensus algorithms, and smart contracts.</td>
-    <td><a href="https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa">Blockchain Tutorial in Java</a></td>
   </tr>
   <tr>
-    <td>Cointrader</td>
+    <td><a href="https://medium.com/automation-generation/build-an-automated-stock-trading-system-in-java-bfb5b739eb6f">Cointrader</a></td>
     <td>Coin Trader is a Java-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
-    <td><a href="https://medium.com/automation-generation/build-an-automated-stock-trading-system-in-java-bfb5b739eb6f">Cointrader using Javva </a></td>
   </tr>
   <tr>
-    <td>Network Security Toolkit</td>
+    <td><a href="https://github.com/pixee/java-security-toolkit">Network Security Toolkit</a></td>
     <td>Develop a toolkit for network security analysis and penetration testing, implementing various algorithms and techniques for network scanning, vulnerability assessment, and intrusion detection.</td>
-    <td><a href="https://github.com/pixee/java-security-toolkit">Java-security-toolkit</a></td>
   </tr>
 </table>
 
 ### Interview Preparation
+> Here are some resources which can help you to prepare for java interview rounds
 
 <table width="100%">
   <tr>
@@ -1149,13 +996,13 @@ This section is a curated collection of valuable Java and Java development resou
 
 
 ### Additional Resources
+> Here are some additional resources which you may consider to expand your java skills
 
 ### Java Games
-> Coding Games to Practice Your Java Skills
 
 <table width="100%">
   <tr>
-    <th>Game</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -1188,7 +1035,7 @@ This section is a curated collection of valuable Java and Java development resou
 
 <table width="100%">
   <tr>
-    <th>Community Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
