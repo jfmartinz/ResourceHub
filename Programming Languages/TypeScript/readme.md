@@ -267,7 +267,7 @@ Below are some essential resources to help you get started and deepen your under
 
 <table width="100%">
   <tr>
-    <th>Advanced Type</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -292,7 +292,7 @@ Below are some essential resources to help you get started and deepen your under
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -316,7 +316,7 @@ Below are some essential resources to help you get started and deepen your under
 ### Modules
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -346,7 +346,7 @@ Below are some essential resources to help you get started and deepen your under
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -383,7 +383,7 @@ Below are some essential resources to help you get started and deepen your under
 ### Typescript with popular frameworks
 <table width="100%">
   <tr>
-    <th>Framework</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -644,7 +644,7 @@ Below are some essential resources to help you get started and deepen your under
 <table width="100%">
   <thead>
     <tr>
-      <th>Library</th>
+      <th>Resource Name</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -747,7 +747,7 @@ Below are some essential resources to help you get started and deepen your under
 <table width="100%">
   <thead>
     <tr>
-      <th>Build System</th>
+      <th>Resource Name</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -906,7 +906,7 @@ Below are some essential resources to help you get started and deepen your under
 
 <table width="100%">
   <tr>
-    <th>Channel</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -978,61 +978,32 @@ Below are some essential resources to help you get started and deepen your under
 
 <table width="100%">
   <tr>
-    <th>Project</th>
+    <th>Resource Name</th>
     <th>Description</th>
-    <th>Resources</th>
   </tr>
   <tr>
-    <td>To-Do List Application</td>
+    <td><a href="https://dev.to/alanpcosta/build-a-simple-to-do-list-app-with-typescript-and-react-1gkm">To-Do List App with TypeScript and React</a>
+</td>
     <td>Build a simple to-do list application where users can add, remove, and mark tasks as completed.</td>
-    <td>
-      <ul>
-        <li><a href="https://dev.to/alanpcosta/build-a-simple-to-do-list-app-with-typescript-and-react-1gkm">To-Do List App with TypeScript and React</a></li>
-        <li><a href="https://dev.to/lizc/todolist-with-typescript-react-4c91">Build a Todo List App with TypeScript</a></li>
-        <li><a href="https://github.com/basarat/typescript-react/tree/master/03-todo">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Weather Application</td>
+    <td><a href="https://dev.to/shamimhasan/build-a-weather-app-using-typescript-and-react-in-2021-1k2a">Build a Weather App with TypeScript</a>
+</td>
     <td>Create a weather application that allows users to enter a location and view the current weather information.</td>
-    <td>
-      <ul>
-        <li><a href="https://dev.to/shamimhasan/build-a-weather-app-using-typescript-and-react-in-2021-1k2a">Build a Weather App with TypeScript</a></li>
-        <li><a href="https://www.youtube.com/watch?v=G5SWM-6zXGo">Creating a Weather App with TypeScript and React</a></li>
-        <li><a href="https://github.com/WebDevSimplified/Weather-App">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Calculator Application</td>
+    <td><a href="https://dev.to/easybuoy/building-a-simple-calculator-in-typescript-3pck">Building a Calculator with TypeScript</a></td>
     <td>Develop a basic calculator application with TypeScript, allowing users to perform arithmetic operations.</td>
-    <td>
-      <ul>
-        <li><a href="https://dev.to/easybuoy/building-a-simple-calculator-in-typescript-3pck">Building a Calculator with TypeScript</a></li>
-        <li><a href="https://github.com/digital-flowers/typescript-calculator">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Simple Blog</td>
+    <td>    <a href="https://medium.com/@DylanAttal/typescript-node-js-express-js-build-a-blog-in-6-minutes-a13ebeaec43c">Building a Blog with TypeScript and Node.js</a>
+</td>
     <td>Create a simple blog application where users can view, create, and delete blog posts.</td>
-    <td>
-      <ul>
-        <li><a href="https://medium.com/@DylanAttal/typescript-node-js-express-js-build-a-blog-in-6-minutes-a13ebeaec43c">Building a Blog with TypeScript and Node.js</a></li>
-        <li><a href="https://github.com/dylantatte/express-ts-blog">GitHub Repo</a></li>
-      </ul>
     </td>
   </tr>
   <tr>
-    <td>Recipe Finder</td>
+    <td><a href="https://www.youtube.com/watch?v=U9T6YkEDkMo">Creating a Recipe Finder with TypeScript</a></td>
     <td>Build a recipe finder application that allows users to search for recipes based on ingredients.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=U9T6YkEDkMo">Creating a Recipe Finder with TypeScript</a></li>
-        <li><a href="https://github.com/WebDevSimplified/Recipe-Finder">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
 </table>
 
@@ -1040,59 +1011,33 @@ Below are some essential resources to help you get started and deepen your under
 
 <table width="100%">
   <tr>
-    <th>Project</th>
+    <th>Resource Name</th>
     <th>Description</th>
-    <th>Resources</th>
   </tr>
   <tr>
-    <td>E-commerce Website</td>
+    <td><a href="https://www.youtube.com/watch?v=F2JCjVSZlG0">Building an E-commerce Website with TypeScript, React, and Node.js</a>
+</td>
     <td>Develop an e-commerce website with features like product listing, search, cart management, and checkout.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=F2JCjVSZlG0">Building an E-commerce Website with TypeScript, React, and Node.js</a></li>
-        <li><a href="https://github.com/SimCoderYoutube/E-Commerce-Website-Full-Stack">GitHub Repo</a></li>
-      </ul>
     </td>
   </tr>
   <tr>
-    <td>Task Management App</td>
+    <td><a href="https://dev.to/ibrahima92/building-a-task-manager-app-with-react-and-typescript-part-1-29d6">Building a Task Manager App with React and TypeScript</a>
+</td>
     <td>Create a task management application where users can create, assign, prioritize, and track tasks.</td>
-    <td>
-      <ul>
-        <li><a href="https://dev.to/ibrahima92/building-a-task-manager-app-with-react-and-typescript-part-1-29d6">Building a Task Manager App with React and TypeScript</a></li>
-        <li><a href="https://github.com/Ibrahima92/task-manager">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Social Media Dashboard</td>
+    <td><a href="https://www.youtube.com/watch?v=SC7EVjy6qo8">Building a Social Media Dashboard with TypeScript and React</a>
+</td>
     <td>Develop a social media dashboard application that integrates with popular social platforms and displays analytics.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=SC7EVjy6qo8">Building a Social Media Dashboard with TypeScript and React</a></li>
-        <li><a href="https://github.com/weibenfalk/react-dashboard-ts">GitHub Repo</a></li>
-      </ul>
-    </td>
-  </tr>
   <tr>
-    <td>Finance Tracker</td>
+    <td>    <a href="https://www.youtube.com/watch?v=nT3sY4vVr5g">Building a Finance Tracker App with TypeScript and React</a>
+</td>
     <td>Build a finance tracker application that allows users to manage their income, expenses, and investments.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=nT3sY4vVr5g">Building a Finance Tracker App with TypeScript and React</a></li>
-        <li><a href="https://github.com/dcode-youtube/react-finance-tracker">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Real-Time Chat App</td>
+    <td><a href="https://www.youtube.com/watch?v=U6T6Vof9D_k">Building a Real-Time Chat App with TypeScript, React, and Firebase</a>
+</td>
     <td>Develop a real-time chat application with features like user authentication, message encryption, and message history.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=U6T6Vof9D_k">Building a Real-Time Chat App with TypeScript, React, and Firebase</a></li>
-        <li><a href="https://github.com/karlhadwen/realtime-chat-app">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
 </table>
 
@@ -1100,99 +1045,48 @@ Below are some essential resources to help you get started and deepen your under
 
 <table width="100%">
   <tr>
-    <th>Project</th>
+    <th>Resource Name</th>
     <th>Description</th>
-    <th>Resources</th>
   </tr>
   <tr>
-    <td>E-commerce Platform with Microservices Architecture</td>
+ <td>
+    <a href="https://www.youtube.com/watch?v=7v_T6MHDAIY">E-commerce Platform with Microservices Architecture - Building Microservices with TypeScript, Node.js, and React</a>
+    </td>    
     <td>Develop an e-commerce platform using a microservices architecture, with services for user authentication, product management, order processing, and payment integration.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=7v_T6MHDAIY">Building Microservices with TypeScript, Node.js, and React</a></li>
-        <li><a href="https://github.com/nazmulb/microservices-node-react">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Blockchain Implementation</td>
+    <td> <a href="https://www.youtube.com/watch?v=zVqczFZr124">Building a Blockchain with TypeScript</a></td>
     <td>Implement a blockchain system with TypeScript, including concepts like proof-of-work, transaction validation, and decentralized consensus.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=zVqczFZr124">Building a Blockchain with TypeScript</a></li>
-        <li><a href="https://github.com/15Dkatz/typescript-blockchain">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Machine Learning Model Deployment</td>
+    <td> <a href="https://www.youtube.com/watch?v=H3joSO_rPtY">Machine Learning Model Deployment</a></td>
     <td>Deploy a machine learning model using TypeScript for inference, with a frontend interface for user interaction and a backend server for model serving.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=H3joSO_rPtY">Deploying a Machine Learning Model with TypeScript, React, and Flask</a></li>
-        <li><a href="https://github.com/burhanuday/ml-model-deployment">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Full-Stack Application with GraphQL</td>
+    <td><a href="https://www.youtube.com/watch?v=n1mdAPFq2Os">Building a Full-Stack App with TypeScript, React, Node.js, and GraphQL</a>
+</td>
     <td>Build a full-stack application with TypeScript, React, Node.js, and GraphQL, including features like authentication, real-time updates, and data querying.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=n1mdAPFq2Os">Building a Full-Stack App with TypeScript, React, Node.js, and GraphQL</a></li>
-        <li><a href="https://github.com/academind/node-typescript-graphql">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Serverless Application with AWS Lambda</td>
+    <td><a href="https://www.youtube.com/watch?v=DYKVmwAQaWk">Building Serverless Apps with TypeScript and AWS Lambda</a></td>
     <td>Create a serverless application using AWS Lambda with TypeScript, integrating with other AWS services like DynamoDB, S3, and API Gateway.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=DYKVmwAQaWk">Building Serverless Apps with TypeScript and AWS Lambda</a></li>
-        <li><a href="https://github.com/mojoAgilan/aws-lambda-typescript">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
    <tr>
-    <td>Real-Time Chat Application with WebSockets</td>
+    <td><a href="https://www.youtube.com/watch?v=oxFr7we3LC8">Building a Real-Time Chat App with TypeScript, WebSockets, and React</a>
+</td>
     <td>Develop a real-time chat application using TypeScript, WebSockets for communication, and a React frontend for user interface.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=oxFr7we3LC8">Building a Real-Time Chat App with TypeScript, WebSockets, and React</a></li>
-        <li><a href="https://github.com/hidjou/classsed-react-socketio-chatapp">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Financial Portfolio Management System</td>
+    <td><a href="https://www.youtube.com/watch?v=Wh6EzdGG7GU">Building a Financial Portfolio Management System with TypeScript</a></td>
     <td>Create a financial portfolio management system using TypeScript, with features for tracking investments, generating reports, and analyzing portfolio performance.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=Wh6EzdGG7GU">Building a Financial Portfolio Management System with TypeScript</a></li>
-        <li><a href="https://github.com/bradtraversy/financial-portfolio">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Task Management Dashboard</td>
+    <td><a href="https://www.youtube.com/watch?v=0wRXqh9L92Q">Building a Task Management Dashboard with TypeScript, React, and Redux</a></td>
     <td>Build a task management dashboard with TypeScript, React, and Redux, allowing users to create, assign, and track tasks across teams.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=0wRXqh9L92Q">Building a Task Management Dashboard with TypeScript, React, and Redux</a></li>
-        <li><a href="https://github.com/Dunebook/Task-Management">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td>Interactive Data Visualization Dashboard</td>
+    <td><a href="https://www.youtube.com/watch?v=I1IrBrfY6ME">Building an Interactive Data Visualization Dashboard with TypeScript and D3.js</a></td>
     <td>Develop an interactive data visualization dashboard using TypeScript, D3.js for data visualization, and a responsive UI framework like Bootstrap.</td>
-    <td>
-      <ul>
-        <li><a href="https://www.youtube.com/watch?v=I1IrBrfY6ME">Building an Interactive Data Visualization Dashboard with TypeScript and D3.js</a></li>
-        <li><a href="https://github.com/curran/dataviz-course-2018">GitHub Repo</a></li>
-      </ul>
-    </td>
   </tr>
 </table>
 
@@ -1302,7 +1196,7 @@ Below are some essential resources to help you get started and deepen your under
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
