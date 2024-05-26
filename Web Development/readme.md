@@ -44,6 +44,13 @@ This category is a curated collection of valuable web development resources cont
   - [Intermediate level](#intermediate-level-projects)
   - [Advanced level](#advance-level-projects)
 - [Technology stacks](#technology-stacks)
+  - [Building Web Applications with LAMP Stack](#building-web-applications-with-lamp-stack)
+  - [Creating Web Apps with MEAN Stack](#creating-web-apps-with-mean-stack)
+  - [Creating Web Applications with Ruby on Rails](#creating-web-applications-with-ruby-on-rails)
+  - [Python Web Development using Django](#python-web-development-using-django)
+  - [Full-Stack Development with Java](#full-stack-development-with-java)
+  - [Developing Web Applications with ASP.NET](#developing-web-applications-with-aspnet)
+  - [Developing Web Apps with MERN Stack](#developing-web-apps-with-mern-stack)
 
 
 ### Roadmaps
@@ -1665,10 +1672,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
 
 > Typically, a full-stack developer often specializes in a specific stack,which is a combination of front-end,back-end,databases along with other related tools and frameworks.By specializing in a specific stack, developers can focus their learning efforts on mastering the technologies and frameworks within that stack. These examples of full-stack develpoment offers you a clear pathway.
 
-<h4>Building Web Applications with LAMP Stack</h4>
-
->A LAMP stack is a bundle of four different software technologies that developers use to build websites and web applications. LAMP is an acronym for the
- Linux-The operating system , Apache-The web server , MySQL-The database server , PHP-The programming language
+#### Building Web Applications with LAMP Stack
 
 <table width="100%">
       <tr>
@@ -1736,10 +1740,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
         </td>   
   </table>
 
-<h4>Creating Web Apps with MEAN Stack</h4>
-
->MEAN is a technology stack used for building full-stack applications. It's a combination of the following technologies MongoDB — a document database
-, Express — a Node.js framework for building APIs , Angular — a front-end application framework , Node.js — a server-side JavaScript runtime environment.
+#### Creating Web Apps with MEAN Stack
 
 <table width="100%">
       <tr>
@@ -1826,9 +1827,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
 </table>
 
 
-<h4>Creating Web Applications with Ruby on Rails</h4>
-
->Ruby on Rails is a server-side web application framework written in Ruby under the MIT License. Rails is a Model–View–Controller (MVC) framework. It provides default structures for a database, a web service, and web pages. In essence, Ruby on Rails is a full-stack framework for web development. Ruby-The programming language used , Rails-The web application framework , SQLite/MySQL/PostgreSQL- Common databases used with Rails , JavaScript-For front-end interactions.
+#### Creating Web Applications with Ruby on Rails
 
 <table width="100%">
       <tr>
@@ -1900,9 +1899,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr> 
 </table>
 
-<h4>Python Web Development using Django</h4>
-
->Python is a versatile programming language widely used in web development.Python Django is a web framework that allows to quickly create efficient web pages. Django is also called batteries included framework because it provides built-in features such as Django Admin Interface, default database – SQLite3, etc.
+#### Python Web Development using Django
 
 <table width="100%">
       <tr>
@@ -1971,9 +1968,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr> 
 </table>
 
-<h4>Full-Stack Development with Java</h4>
-
->Java is a widely-used programming language that is known for its stability and scalability, making it a popular choice for full-stack web development. This tutorial will guide you through the basics of Java programming, introduce you to essential frameworks, cover database management, and provide insights into building and deploying Java-based web applications.
+#### Full-Stack Development with Java
 
 <table width="100%">
       <tr>
@@ -2050,9 +2045,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr> 
 </table>
 
-<h4>Developing Web Applications with ASP.NET</h4>
-
-> ASP.NET is a web application framework developed and marketed by Microsoft to allow programmers to build dynamic web sites. It allows you to use a full featured programming language such as C# or VB.NET to build web applications easily.ASP.NET is a server-side technology used for developing dynamic websites and web applications on the internet. It also produces data-driven web applications. ASP.NET is also an free online framework that allows you to create amazing websites and web apps with HTML, CSS, and JavaScript. 
+#### Developing Web Applications with ASP.NET
 
 <table width="100%">
       <tr>
@@ -2116,7 +2109,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr> 
 </table>
 
-<h4> Developing Web Apps with MERN Stack</h4>
+#### Developing Web Apps with MERN Stack
 
 > The MERN stack is an open source–centric collection of technologies that uses JavaScript for both the browser and server sides of a web application. MERN is an acronym for the four technologies that form the stack: MongoDB, Express, React, and Node.js. MongoDB – A NoSQL database that deals with data , Express – A framework for NodeJS and handles GET, PUT, POST, and DELETE functions , React – A JavaScript library for building User Interfaces, building single-page applications , NodeJS – An open-source server environment.
 
