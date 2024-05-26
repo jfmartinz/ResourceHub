@@ -105,7 +105,10 @@ The course covers:
       <td><a href="https://youtu.be/SyVMma1IkXM?si=9OFjh0NUKcZv4nri"> Blockchain Full Course  </a></td>
       <td>This Blockchain Tutorial Full Course will help you understand all the basic concepts of Blockchain. This Blockchain tutorial will help you understand what is Blockchain, explain the Bitcoin story, features of Blockchain which includes a public distributed ledger, hash encryption, proof of work, mining, and at the end you will also see a use case on how banks are using Blockchain in validating user identities. </td>
     </tr>
-
+    <tr>
+    <td><a href="https://courses.30dayscoding.com/courses/Blockchain-developer-course-64eec408e4b002b964b568be"> Complete Blockchain and Web3 course </a></td>
+    <td>Learn Blockchain and Web3 from scratch. This course is for beginners who want to learn Blockchain and Web3. This course is taught by Aryan Singh, SWE Google under his website 30 days of coding.</td>
+    </tr>
 </table>
 
 ### Blockchain Technologies
