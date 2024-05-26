@@ -420,7 +420,7 @@ These resources are designed to help you build a strong foundation in R programm
 
 <table width="100%">
 <tr>
-<th>Package Name</th>
+<th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
@@ -475,7 +475,7 @@ These resources are designed to help you build a strong foundation in R programm
 
 <table width="100%">
 <tr>
-<th>Package name</th>
+<th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
@@ -643,58 +643,48 @@ These resources are designed to help you build a strong foundation in R programm
 ### Beginner Level Projects
 <table width="100%">
 <tr>
-<th>Project</th>
-<th>Concepts</th>
-<th>Resources</th>
+<th>Resource Name</th>
+<th>Description</th>
 </tr>
 <tr>
-<td>Movie Recommendation System</td>
-<td>Collaborative Filtering, Data Preprocessing, Model Evaluation</td>
 <td><a href="https://github.com/Rpita623/Movie-Recommendation-System-using-R_Project">Movie Recommendation System using R</a></td>
+<td>Collaborative Filtering, Data Preprocessing, Model Evaluation</td>
 </tr>
 <tr>
-<td>Credit Card Fraud Detection</td>
-<td>Machine Learning, Feature Engineering, Model Training</td>
 <td><a href="https://github.com/Rpita623/Detecting-Credit-Card-Fraud">Detecting Credit Card Fraud</a></td>
+<td>Machine Learning, Feature Engineering, Model Training</td>
 </tr>
 <tr>
-<td>Red Wine Quality Analysis</td>
-<td>Exploratory Data Analysis, Data Visualization, Statistical Analysis</td>
 <td><a href="https://www.kaggle.com/code/sagarnildass/red-wine-analysis-by-r">Red Wine Analysis by R</a></td>
+<td>Exploratory Data Analysis, Data Visualization, Statistical Analysis</td>
 </tr>
 <tr>
-<td>Customer Segmentation</td>
-<td>Clustering Techniques, Customer Segmentation, Data Analysis</td>
 <td><a href="https://github.com/TejasSangle/R-Programming-Customer-Segmentation">R Programming: Customer Segmentation</a></td>
+<td>Clustering Techniques, Customer Segmentation, Data Analysis</td>
 </tr>
 </table>
 
 ### Intermediate Level Projects
 <table width="100%">
 <tr>
-<th>Project</th>
-<th>Concepts</th>
-<th>Resources</th>
+<th>Resource Name</th>
+<th>Description</th>
 </tr>
 <tr>
-<td>Clustering Heart Disease Patient Data</td>
-<td>Clustering Analysis, Health Data Analysis, Data Visualization</td>
 <td><a href="https://github.com/veeralakrishna/Datacamp-Project-Solutions-R/tree/master/Clustering%20Heart%20Disease%20Patient%20Data">Datacamp Project Solutions in R</a></td>
+<td>Clustering Analysis, Health Data Analysis, Data Visualization</td>
 </tr>
 <tr>
-<td>Natural Language Processing and Text Mining</td>
-<td>Text Mining, NLP Techniques, Sentiment Analysis</td>
 <td><a href="https://github.com/luizfelipebrito/Natural-language-processing-and-Text-Mining-with-R">Natural Language Processing and Text Mining with R</a></td>
+<td>Text Mining, NLP Techniques, Sentiment Analysis</td>
 </tr>
 <tr>
-<td>Time Series Forecasting</td>
-<td>Time Series Analysis, Forecasting Methods, Model Evaluation</td>
 <td><a href="https://github.com/tanaymukherjee/Time-Series-Forecasting-in-R">Time Series Forecasting in R</a></td>
+<td>Time Series Analysis, Forecasting Methods, Model Evaluation</td>
 </tr>
 <tr>
-<td>Customer Segmentation</td>
-<td>Clustering Techniques, Customer Behavior Analysis, Market Segmentation</td>
 <td><a href="https://github.com/TejasSangle/R-Programming-Customer-Segmentation">R Programming: Customer Segmentation</a></td>
+<td>Clustering Techniques, Customer Behavior Analysis, Market Segmentation</td>
 </tr>
 </table>
 
@@ -702,29 +692,24 @@ These resources are designed to help you build a strong foundation in R programm
 
 <table width="100%">
 <tr>
-<th>Project</th>
-<th>Concepts</th>
-<th>Resources</th>
+<th>Resource Name</th>
+<th>Description</th>
 </tr>
 <tr>
-<td>Uber Data Analysis</td>
-<td>Data Visualization, Time Series Analysis, Geospatial Analysis</td>
 <td><a href="https://www.kaggle.com/code/prakharrathi25/uber-data-analysis-in-r/notebook">Uber Data Analysis in R</a></td>
+<td>Data Visualization, Time Series Analysis, Geospatial Analysis</td>
 </tr>
 <tr>
-<td>Applied Predictive Modeling</td>
-<td>Machine Learning, Predictive Modeling, Model Evaluation</td>
 <td><a href="https://github.com/anilsilwal98/AppliedPredictiveModeling">Applied Predictive Modeling</a></td>
+<td>Machine Learning, Predictive Modeling, Model Evaluation</td>
 </tr>
 <tr>
-<td>Crypto Stock Return Data Analysis</td>
-<td>Financial Data Analysis, Time Series Modeling, Clustering</td>
 <td><a href="https://github.com/LloydJI/R-project-Crypto-Stock-Return-Data-Calculating-Returns-Uncorrelated-Clusters">R-project-Crypto-Stock-Return-Data-Calculating-Returns-Uncorrelated-Clusters</a></td>
+<td>Financial Data Analysis, Time Series Modeling, Clustering</td>
 </tr>
 <tr>
-<td>Twitter Scraping Automation</td>
-<td>Data Scraping, Automation, Social Media Analysis</td>
 <td><a href="https://github.com/ianaraujo/twitter-scraping-automation">Twitter Scraping Automation</a></td>
+<td>Data Scraping, Automation, Social Media Analysis</td>
 </tr>
 </table>
 
@@ -734,12 +719,10 @@ These resources are designed to help you build a strong foundation in R programm
 
 <table width="100%">
   <tr>
-    <th>Topic</th>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="2">Git Basics</td>
     <td><a href="https://git-scm.com/doc">Official Git Documentation</a></td>
     <td>Comprehensive official documentation for Git, covering installation, basic concepts, and advanced usage.</td>
   </tr>
@@ -748,17 +731,14 @@ These resources are designed to help you build a strong foundation in R programm
     <td>Detailed tutorials from Atlassian on Git basics, including commands and workflows.</td>
   </tr>
   <tr>
-    <td>Repositories</td>
     <td><a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories">GitHub Docs - About Repositories</a></td>
     <td>An overview of GitHub repositories, including how to create and manage them.</td>
   </tr>
   <tr>
-    <td>Commits</td>
     <td><a href="https://www.git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository">Pro Git Book - Recording Changes</a></td>
     <td>A chapter from the Pro Git book that covers making commits, viewing commit history, and more.</td>
   </tr>
   <tr>
-    <td rowspan="2">Branching and Merging</td>
     <td><a href="https://www.atlassian.com/git/tutorials/using-branches">Atlassian Git Tutorials - Using Branches</a></td>
     <td>An in-depth tutorial on creating, using, and merging branches in Git.</td>
   </tr>
@@ -767,7 +747,6 @@ These resources are designed to help you build a strong foundation in R programm
     <td>A chapter from the Pro Git book that covers the basics of branching and merging in Git.</td>
   </tr>
   <tr>
-    <td>Pull Requests</td>
     <td><a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests">GitHub Docs - Collaborating with Pull Requests</a></td>
     <td>Documentation on creating and managing pull requests on GitHub.</td>
   </tr>
@@ -779,7 +758,7 @@ These resources are designed to help you build a strong foundation in R programm
 ### YouTube Channels to Learn R
 <table width="100%">
 <tr>
-<th>Channel</th>
+<th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
@@ -808,7 +787,7 @@ These resources are designed to help you build a strong foundation in R programm
 
 <table width="100%">
 <tr>
-<th>Playlist</th>
+<th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
@@ -836,8 +815,8 @@ These resources are designed to help you build a strong foundation in R programm
 ### Free Certification Courses
 <table width="100%">
 <tr>
-<th>Course</th>
-<th>Provider</th>
+<th>Resource Name</th>
+<th>Description</th>
 </tr>
 <tr>
 <td><a href="https://www.datacamp.com/courses/free-introduction-to-r">Introduction to R</a></td>
@@ -865,8 +844,8 @@ These resources are designed to help you build a strong foundation in R programm
 
 <table width="100%">
 <tr>
-<th>Course</th>
-<th>Provider</th>
+<th>Resource Name</th>
+<th>Description</th>
 </tr>
 <tr>
 <td><a href="https://www.edx.org/professional-certificate/harvardx-data-science">Professional Certificate in Data Science: R Programming</a></td>
@@ -896,7 +875,7 @@ These resources are designed to help you build a strong foundation in R programm
 ### R Communities
 <table width="100%">
 <tr>
-<th>Community</th>
+<th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
@@ -912,28 +891,28 @@ These resources are designed to help you build a strong foundation in R programm
 ### R Books
 <table width="100%">
 <tr>
-<th>Title</th>
-<th>Author(s)</th>
+<th>Resource Name</th>
+<th>Description</th>
 </tr>
 <tr>
 <td><a href="https://www.amazon.com/R-Cookbook-OReilly-Cookbooks-Paul/dp/0596809158">R Cookbook</a></td>
-<td>Paul Teetor</td>
+<td>R Cookbook By Paul Teetor</td>
 </tr>
 <tr>
 <td><a href="https://www.amazon.com/Art-R-Programming-Statistical-Software/dp/1593273843">The Art of R Programming</a></td>
-<td>Norman Matloff</td>
+<td>The Art of R Programming By Norman Matloff</td>
 </tr>
 <tr>
 <td><a href="https://www.amazon.com/Using-Introductory-Statistics-Chapman-Hall/dp/1466590734/ref=sr_1_1?dib=eyJ2IjoiMSJ9.MMC8KySF3vodrO7L2zv7Yio8DBHC_g5s2wyesdWehPukRBAveLVCIyFOvOtPKsSiHD99ZOYcy9nP9alRyEAzMHd_88g8IIHX3caM4FHQqxj-h4cjuQkTu2DMfp-7hz0ECeZwfkWeWnkrnyt1ixI2a204gE0L08TjfPeKbOo1giNkZaFo-JRmGEj8RM0RyKC0sSuQHzczbVpCeTh_u_J8wrPRwyS50Fv_Kn9_mXM5LbI.ovYaXCXqfsjec20Q7Lw_jEoruAC9gUsBBNgd0xfcmN4&dib_tag=se&keywords=Introductory-Statistics-Using-R&qid=1716470344&sr=8-1">Introductory Statistics with R</a></td>
-<td>John Verzani</td>
+<td>Introductory Statistics with R By John Verzani</td>
 </tr>
 <tr>
 <td><a href="https://www.amazon.com/Hands-Programming-Writing-Functions-Extending/dp/1449359019">Hands-On Programming with R</a></td>
-<td>Garrett Grolemund</td>
+<td>Advanced R By Garrett Grolemund</td>
 </tr>
 <tr>
 <td><a href="https://www.amazon.com/Advanced-R-Hadley-Wickham/dp/1466586966">Advanced R</a></td>
-<td>Hadley Wickham</td>
+<td>By Hadley Wickham</td>
 </tr>
 </table>
 

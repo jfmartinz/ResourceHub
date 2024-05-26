@@ -1,5 +1,40 @@
-<h2>how to use website</h2>
-relace   API_KEY in app.js(line NO. 7)  to your GitHub  API_KEY and uncomment it!!
+<h2>How to use website</h2>
+<br>
+
+1. Navigate to ResourceHub/website
+
+
+2. Go to terminal and run this command
+
+
+```javascript 
+npm i cors axios express dotenv
+```
+
+3. Create a new .env file in the website directory
+<br>
+4. Go to the .env file and create a variable  called GITHUB_TOKEN
+
+
+
+```
+
+GITHUB_TOKEN=YOUR_API_KEY
+
+```
+
+5. Replace the YOUR_API_KEY with your Github Api key
+<br>
+
+6. Go to the terminal and run
+
+```javascript
+
+node server.js
+
+```
+
+
 <br>
 <h2>how to obtain github api key from github--></h2>
 

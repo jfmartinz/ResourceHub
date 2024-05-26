@@ -12,7 +12,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 - [Tools](#tools)
 
 ### Roadmap
-
+> You can refer to the roadmaps in the following table
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -26,7 +26,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 
 
 ### Tutorials or Courses
-
+> These are some tutorials and courses that you can refer to
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -92,7 +92,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 </table>
 
 ### Documentation
-
+> These are some documentation that can help understand DevOps better.
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -158,7 +158,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 </table>
 
 ### YouTube Channels
-
+> These are some Youtube Channels, you can refer to learn DevOps
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -191,7 +191,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 </table>
 
 ### YouTube Playlist
-
+> These are some Youtube Playlist for reference and complete guidance
 <table width="100%">
       <tr>
         <th>Resource</th>
@@ -220,6 +220,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 </table>
 
 ### Communities
+> These are some communities where you can seek help and guidance in the field of DevOps
 
 <table width="100%">
       <tr>
@@ -249,7 +250,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 </table>
 
 ### Books
-
+? These are some books, you can checkout 
 <table width="100%">
     <tr>
         <th>Resource Name</th>
