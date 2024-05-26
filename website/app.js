@@ -108,7 +108,6 @@ document.addEventListener("DOMContentLoaded", async function () {
         throw new Error("Network response was not ok");
       }
       const data = await response.json();
-      console.log(data); // Log the response data
       return data.apik[0].apikey;
     } catch (error) {
       console.error("Error fetching data:", error);
