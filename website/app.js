@@ -1,10 +1,17 @@
 // script.js
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", async function () {
+  const loading = document.getElementById("card-container");
+  loading.innerHTML = `
+                    <p class="classic-4">Loading....</p>
+                
+                `;
   const cardContainer = document.getElementById("card-container");
-
   // Function to fetch GitHub data
+
   function fetchGitHubData(url) {
+    // Replace with your actual token
     // const token = " Your API_KEY"; // Replace with your actual token
+    // Call the function
 
     fetch(url, {
       headers: {
@@ -26,8 +33,12 @@ document.addEventListener("DOMContentLoaded", function () {
             );
           }
         } else if (!response.ok) {
+          loading.innerHTML = `
+            <p style="font-size: x-large;">Error while fetching...  <button onclick="window.location.reload()">Retry</button> </p>`;
           throw new Error(`HTTP error! status: ${response.status}`);
         } else {
+          const loading = document.getElementById("card-container");
+          loading.innerHTML = " ";
           return response.json();
         }
       })
@@ -89,3 +100,16 @@ document.addEventListener("DOMContentLoaded", function () {
     "https://api.github.com/repos/jfmartinz/ResourceHub/contents/"
   );
 });
+function filterCards() {
+  const input = document.querySelector(".search-input");
+  const val = input.value.toLowerCase();
+  const cards = document.querySelectorAll(".card");
+  cards.forEach((card) => {
+    const title = card.querySelector("p").textContent.toLowerCase();
+    if (title.includes(val)) {
+      card.style.display = "block";
+    } else {
+      card.style.display = "none";
+    }
+  });
+}

@@ -23,10 +23,7 @@ Open source development involves collaborative creation of software where the so
     <td><a href="https://www.edx.org/">edX</a></td>
     <td>edX hosts courses from universities and institutions worldwide, including courses on open source software development.</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/">GitHub</a></td>
-    <td>An essential platform for hosting and collaborating on open source projects, GitHub also offers extensive guides and resources for learning Git and contributing to projects.</td>
-  </tr>
+  
   <tr>
     <td><a href="https://opensource.org/">Open Source Initiative(OSI)</a></td>
     <td>The OSI website provides information on the principles of open source software and licenses, helping developers understand the legal and ethical aspects of open source development.</td>
@@ -109,6 +106,14 @@ Open source development involves collaborative creation of software where the so
     <td><a href="https://code.visualstudio.com/">Vs Code</a></td>
     <td>An open source code editor developed by Microsoft, known for its versatility, extensibility, and support for various programming languages and technologies.</td>
     </tr>
+  <tr>
+    <td><a href="https://github.com/">GitHub</a></td>
+    <td>An essential platform for hosting and collaborating on open source projects, GitHub also offers extensive guides and resources for learning Git and contributing to projects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://bitbucket.org/">Bitbucket</a></td>
+    <td>What is BitBucket and How it works? An Overview and Its Use ...Bitbucket is a cloud-based Git-based service that allows developers to store, manage, and track code changes. It's designed for professional teams, providing a central place to collaborate on source code, plan projects, and test and deploy code.</td>
+  </tr>
 </table>
 
 ### Community
