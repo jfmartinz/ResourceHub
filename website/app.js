@@ -7,10 +7,29 @@ document.addEventListener("DOMContentLoaded", async function () {
                 `;
   const cardContainer = document.getElementById("card-container");
   // Function to fetch GitHub data
+  const apiUrl =
+    "https://script.googleusercontent.com/macros/echo?user_content_key=SOnBnlAhhwAY2lLH5HfppGmJGT_2ps5V6IQnMqMGBXbQfQRkZzw_v_5iRGG0aocf2N5fb1QagfriAH_KtdGjmF5EZ-d2l64Mm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnC62rQSNc23BPEU_1j4s8hh_HP6kAPpX9xtypcE4mPgzpikbBkSG4MZLP8aImUTewbmUkdfzbTtyUarIvNXMDMKXAagsogLIsQ&lib=MghKih2WtI3ppVHa2nSvtXXt7vnFOnL-L";
+
+  async function getkey() {
+    try {
+      const response = await fetch(apiUrl);
+      if (!response.ok) {
+        throw new Error("Network response was not ok");
+      }
+      const data = await response.json();
+      console.log(data); // Log the response data
+      return data.apik[0].apikey;
+    } catch (error) {
+      console.error("Error fetching data:", error);
+    }
+  }
+
+  // Call the function
+  const token = await getkey();
 
   function fetchGitHubData(url) {
     // Replace with your actual token
-    // const token = " Your API_KEY"; // Replace with your actual token
+    // Replace with your actual token
     // Call the function
 
     fetch(url, {
@@ -73,6 +92,9 @@ document.addEventListener("DOMContentLoaded", async function () {
                     <p>${file.name}</p>
                   </div>
                 `;
+
+                console.log(readmeData);
+
                 // Modify the click event for each card
                 card.onclick = function () {
                   // Save README content in sessionStorage
