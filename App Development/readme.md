@@ -222,14 +222,6 @@ App development refers to crafting software for diverse devices, involving plann
         <td><a href="https://www.amazon.com/Learning-React-Native-Building-JavaScript/dp/1491929006">Learning React Native by Bonnie Eisenman</a></td>
         <td>Offers a comprehensive introduction to React Native, guiding readers through the process of building and deploying React Native apps.</td>
       </tr>
-      <tr>
-        <td><a href="https://www.amazon.com/React-Native-Blueprints-rapidly-developing/dp/1787288090">React Native Blueprints by Emilio Rodriguez Martinez</a></td>
-        <td>Includes practical projects that demonstrate how to build various types of React Native applications, from simple to advanced.</td>
-      </tr>
-       <tr>
-        <td><a href="https://www.amazon.com/Practical-React-Native-Create-Responsive/dp/1484261467">Practical React Native by Frank Zammetti</a></td>
-        <td>Guides readers through creating responsive mobile applications using React Native, with practical examples and detailed explanations.</td>
-      </tr>
   </table>
 
 ### YouTube Channels
@@ -305,24 +297,8 @@ App development refers to crafting software for diverse devices, involving plann
         <td>This repo contains  code for some inbuilt ,cross-platform UI components for React Native to build a consistent design across different devices.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/FormidableLabs/victory-native">Victory Native</a></td>
-        <td>Charting library for React Native, providing a set of modular and customizable chart components.</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/react-native-community/react-native-camera">React Native Camera</a></td>
-        <td>Comprehensive camera module for React Native, supporting barcode scanning, face detection, and more.</td>
-      </tr>
-      <tr>
         <td><a href="https://github.com/invertase/react-native-firebase">React Native Firebase</a></td>
         <td>Comprehensive Firebase integration for React Native, supporting authentication, database, storage, analytics, and more.</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/ptomasroos/react-native-multi-slider">React Native Multi Slider</a></td>
-        <td>Customizable multi-point slider component for React Native.</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/react-native-image-picker/react-native-image-picker">React Native Image Picker</a></td>
-        <td>Library for selecting images and videos from the device's library or camera in React Native apps.</td>
       </tr>
       <tr>
         <td><a href="https://github.com/react-native-community/react-native-localize">React Native Localize</a></td>
