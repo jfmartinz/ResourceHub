@@ -2165,13 +2165,13 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://youtu.be/w3vs4a03y3I?si=swzFhN3paKQ4eXB0">Connect ExpressJS with React</a></td>
         <td>
-         In this video, you will be showing you how to create a project with an Express/Node backend and a React frontend. you will set up a backend API with Express that returns an array of users and in the frontend, you will fetch that backend and display the same users onto the frontend.
+         In this video, you will be shown how to create a project with an Express/Node backend and a React frontend. you will set up a backend API with Express that returns an array of users and in the frontend, you will fetch that backend and display the same users onto the frontend.
         </td>
       </tr>  
       <tr>
         <td><a href="https://youtu.be/QzEjUOYNoIs?si=PqPVVeQyHwIs5Xmw">Connect ExpressJS with MongoDB</a></td>
         <td>
-         In this video, you will be showing  how to set up a basic Express.js project with MongoDB integration. you will start by initializing the project, installing necessary dependencies (Express, Mongoose, Nodemon), and creating a basic server. Then, you will connect the server to a MongoDB cluster, define a schema, and fetch documents from a collection to print them. 
+         In this video, you will be shown how to set up a basic Express.js project with MongoDB integration. you will start by initializing the project, installing necessary dependencies (Express, Mongoose, Nodemon), and creating a basic server. Then, you will connect the server to a MongoDB cluster, define a schema, and fetch documents from a collection to print them. 
         </td>
       </tr>  
       <tr>
