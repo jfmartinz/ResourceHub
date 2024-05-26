@@ -2127,8 +2127,6 @@ This section contains hundreds of coding challenges that test your knowledge of 
 
 #### Developing Web Apps with MERN Stack
 
-> The MERN stack is an open source–centric collection of technologies that uses JavaScript for both the browser and server sides of a web application. MERN is an acronym for the four technologies that form the stack: MongoDB, Express, React, and Node.js. MongoDB – A NoSQL database that deals with data , Express – A framework for NodeJS and handles GET, PUT, POST, and DELETE functions , React – A JavaScript library for building User Interfaces, building single-page applications , NodeJS – An open-source server environment.
-
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -2167,13 +2165,13 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://youtu.be/w3vs4a03y3I?si=swzFhN3paKQ4eXB0">Connect ExpressJS with React</a></td>
         <td>
-         In this video, I will be showing you how to create a project with an Express/Node backend and a React frontend. We will set up a backend API with Express that returns an array of users and in the frontend, we will fetch that backend and display the same users onto the frontend.
+         In this video, you will be showing you how to create a project with an Express/Node backend and a React frontend. you will set up a backend API with Express that returns an array of users and in the frontend, you will fetch that backend and display the same users onto the frontend.
         </td>
       </tr>  
       <tr>
         <td><a href="https://youtu.be/QzEjUOYNoIs?si=PqPVVeQyHwIs5Xmw">Connect ExpressJS with MongoDB</a></td>
         <td>
-         In this video, I will be showing you how to set up a basic Express.js project with MongoDB integration. We will start by initializing the project, installing necessary dependencies (Express, Mongoose, Nodemon), and creating a basic server. Then, we'll connect the server to a MongoDB cluster, define a schema, and fetch documents from a collection to print them. 
+         In this video, you will be showing  how to set up a basic Express.js project with MongoDB integration. you will start by initializing the project, installing necessary dependencies (Express, Mongoose, Nodemon), and creating a basic server. Then, you will connect the server to a MongoDB cluster, define a schema, and fetch documents from a collection to print them. 
         </td>
       </tr>  
       <tr>
