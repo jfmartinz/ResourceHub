@@ -195,7 +195,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 > These are some Youtube Playlist for reference and complete guidance
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -225,7 +225,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -285,7 +285,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -323,7 +323,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 
 <table width="100%">
     <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
     </tr>
     <tr>
