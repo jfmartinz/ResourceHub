@@ -46,6 +46,7 @@ Here is a list of the currently available categories of the project:<br>
 - [Programming Languages](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages)
 - [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
 - [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
+- [Linux Development](https://github.com/jfmartinz/ResourceHub/tree/main/Linux%20Development)
 
 
 ## How to contribute
