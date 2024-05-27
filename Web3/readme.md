@@ -9,7 +9,8 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [Blockchain Technologies](#blockchain-technologies)<br>
 - [News](#news)<br>
 - [Community](#community)<br>
-- [Youtube Channels](#youtube-channels)<br>
+- [YouTube Channels](#youtube-channels)<br>
+- [YouTube Playlist](#youtube-playlists)
 - [Books](#Books)<br>
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 
@@ -242,6 +243,34 @@ Analytics.</td>
   </tr>
 </table>
 
+### YouTube Playlists
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLTwiqKOPckq-jVx4kR-yHJQe19SrmYf_i">Blockchain Development | freeCodeCamp</a></td>
+        <td>The Blockchain Development playlist by freeCodeCamp is a comprehensive collection of tutorials and educational videos designed to teach you the fundamentals and advanced concepts of blockchain technology and development.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-">Blockchain Tutorial for Beginners</a></td>
+        <td>This youtube playlist by Telusko is the best start for beginners to learn Blockchain, this playlist covers a wide range of topics including Blockchain basics, Ethereum, Smart Contracts Hyperledger Fabric, Cryptography and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN">Web3.js · Ethereum Blockchain Developer Crash Course</a></td>
+        <td>The "Web3.js · Ethereum Blockchain Developer Crash Course" playlist on YouTube, offered by Dapp University, provides an in-depth crash course on developing applications using Web3.js and Ethereum. The series includes tutorials on blockchain fundamentals and practical projects to help viewers build and deploy their own decentralized applications (DApps).</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9">Web3 Tutorial</a></td>
+        <td>This playlist by James Bachini gives you the brief understanding of web3. This playlist primarly focuses on from start to finish showing how to build a web3 application.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL2-Nvp2Kn0FPH2xU3IbKrrkae-VVXs1vk">Solidity Blockchain Developer Foundry Full Course 2023</a></td>
+        <td>The "Solidity Blockchain Developer Foundry Full Course 2023" playlist by Cyfrin Audits offers a thorough course on Solidity and blockchain development using Foundry. It covers key concepts such as smart contract development, testing, deployment and more.</td>
+      </tr>
+</table>
 
 ### Books
 
