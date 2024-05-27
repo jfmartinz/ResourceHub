@@ -13,6 +13,7 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [YouTube Playlist](#youtube-playlists)
 - [Books](#Books)<br>
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
+- [GitHub Repositories](#github-repositories)
 
 ### Website to learn Web3
 
@@ -560,4 +561,33 @@ develop software that works with them</td>
    <td><a href="https://ctftime.org/task/11566">Blockchain CTF</a></td>
    <td>Blockchain CTF (Capture The Flag) challenges offer a range of tasks related to blockchain technology, including Ethereum smart contract hacking, blockchain analysis, and cryptography.</td>
  </tr>
+</table>
+
+### GitHub Repositories
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://github.com/bkrem/awesome-solidity">Awesome Solidity</a></td>
+        <td>The "Awesome Solidity" is a GitHub repository maintained by bkrem that serves as a curated list of resources, tools, and projects related to Solidity, the programming language primarily used for writing smart contracts on blockchain platforms like Ethereum. </td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ttumiel/Awesome-Ethereum">Awesome Ethereum</a></td>
+        <td>This repository serves as a list of resources dedicated to the Ethereum blockchain platform, covering a wide range of topics including development tools, smart contract languages, decentralized applications (dApps), Ethereum Improvement Proposals (EIPs), and much more</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Overtorment/awesome-smart-contracts">Awesome Smart Contracts</a></td>
+        <td>This repository serves as a curated collection of resources dedicated to smart contracts development, a key component of blockchain technology enabling self-executing contracts with predefined rules and conditions.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ong/awesome-decentralized-finance">Awesome DeFi</a></td>
+        <td>This repository's focus on providing a comprehensive collection of resources for understanding, participating in, and contributing to the decentralized finance (DeFi) ecosystem. It emphasizes community contributions, collaboration, and knowledge sharing within the DeFi community.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Envoy-VC/awesome-web3">Awesome Web3</a></td>
+        <td>This GitHub repository "awesome-web3" by Envoy-VC serves as a curated collection of resources dedicated to Web3 technology, including decentralized protocols, blockchain technology, and peer-to-peer interactions and more.</td>
+      </tr>
 </table>
