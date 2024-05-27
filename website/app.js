@@ -115,6 +115,12 @@ document.addEventListener("DOMContentLoaded", async function () {
   }
   const token = await getkey();
   function fetchGitHubData(url) {
+    const loading = document.getElementById("card-container");
+    loading.innerHTML = `
+                    <p class="classic-4">Loading....</p>
+                
+                `;
+
     // Replace with your actual token
     // const token = " Your API_KEY"; // Replace with your actual token
     // Call the function
@@ -180,16 +186,28 @@ document.addEventListener("DOMContentLoaded", async function () {
                   </div>
                 `;
                 // Modify the click event for each card
-                card.onclick = function () {
-                  // Save README content in sessionStorage
-                  sessionStorage.setItem(
-                    "readmeContent",
-                    atob(readmeData.content)
-                  );
-                  sessionStorage.setItem("filename", file.name);
-                  // Open the content-display.html page
-                  window.location.href = "content-display.html";
-                };
+                if (readmeData.message != "Not Found")
+                  card.onclick = function () {
+                    console.log(readmeData);
+
+                    // Save README content in sessionStorage
+                    sessionStorage.setItem(
+                      "readmeContent",
+                      atob(readmeData.content)
+                    );
+                    sessionStorage.setItem("filename", file.name);
+                    // Open the content-display.html page
+                    window.location.href = "content-display.html";
+                  };
+                else
+                  card.onclick = function () {
+                    console.log("Not Found");
+                    fetchGitHubData(
+                      `https://api.github.com/repos/jfmartinz/ResourceHub/contents/${file.path}/`
+                    );
+                    // window.location.reload();
+                  };
+
                 cardContainer.appendChild(card);
               })
               .catch((readmeError) =>
