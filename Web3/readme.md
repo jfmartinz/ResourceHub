@@ -9,9 +9,11 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [Blockchain Technologies](#blockchain-technologies)<br>
 - [News](#news)<br>
 - [Community](#community)<br>
-- [Youtube Channels](#youtube-channels)<br>
+- [YouTube Channels](#youtube-channels)<br>
+- [YouTube Playlist](#youtube-playlists)
 - [Books](#Books)<br>
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
+- [GitHub Repositories](#github-repositories)
 
 ### Website to learn Web3
 
@@ -105,7 +107,10 @@ The course covers:
       <td><a href="https://youtu.be/SyVMma1IkXM?si=9OFjh0NUKcZv4nri"> Blockchain Full Course  </a></td>
       <td>This Blockchain Tutorial Full Course will help you understand all the basic concepts of Blockchain. This Blockchain tutorial will help you understand what is Blockchain, explain the Bitcoin story, features of Blockchain which includes a public distributed ledger, hash encryption, proof of work, mining, and at the end you will also see a use case on how banks are using Blockchain in validating user identities. </td>
     </tr>
-
+    <tr>
+    <td><a href="https://courses.30dayscoding.com/courses/Blockchain-developer-course-64eec408e4b002b964b568be"> Complete Blockchain and Web3 course </a></td>
+    <td>Learn Blockchain and Web3 from scratch. This course is for beginners who want to learn Blockchain and Web3. This course is taught by Aryan Singh, SWE Google under his website 30 days of coding.</td>
+    </tr>
 </table>
 
 ### Blockchain Technologies
@@ -239,6 +244,34 @@ Analytics.</td>
   </tr>
 </table>
 
+### YouTube Playlists
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLTwiqKOPckq-jVx4kR-yHJQe19SrmYf_i">Blockchain Development | freeCodeCamp</a></td>
+        <td>The Blockchain Development playlist by freeCodeCamp is a comprehensive collection of tutorials and educational videos designed to teach you the fundamentals and advanced concepts of blockchain technology and development.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-">Blockchain Tutorial for Beginners</a></td>
+        <td>This youtube playlist by Telusko is the best start for beginners to learn Blockchain, this playlist covers a wide range of topics including Blockchain basics, Ethereum, Smart Contracts Hyperledger Fabric, Cryptography and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN">Web3.js · Ethereum Blockchain Developer Crash Course</a></td>
+        <td>The "Web3.js · Ethereum Blockchain Developer Crash Course" playlist on YouTube, offered by Dapp University, provides an in-depth crash course on developing applications using Web3.js and Ethereum. The series includes tutorials on blockchain fundamentals and practical projects to help viewers build and deploy their own decentralized applications (DApps).</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLvndXYySeVJ7zKODsgbado7xlr3sYfrU9">Web3 Tutorial</a></td>
+        <td>This playlist by James Bachini gives you the brief understanding of web3. This playlist primarly focuses on from start to finish showing how to build a web3 application.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL2-Nvp2Kn0FPH2xU3IbKrrkae-VVXs1vk">Solidity Blockchain Developer Foundry Full Course 2023</a></td>
+        <td>The "Solidity Blockchain Developer Foundry Full Course 2023" playlist by Cyfrin Audits offers a thorough course on Solidity and blockchain development using Foundry. It covers key concepts such as smart contract development, testing, deployment and more.</td>
+      </tr>
+</table>
 
 ### Books
 
@@ -528,4 +561,33 @@ develop software that works with them</td>
    <td><a href="https://ctftime.org/task/11566">Blockchain CTF</a></td>
    <td>Blockchain CTF (Capture The Flag) challenges offer a range of tasks related to blockchain technology, including Ethereum smart contract hacking, blockchain analysis, and cryptography.</td>
  </tr>
+</table>
+
+### GitHub Repositories
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://github.com/bkrem/awesome-solidity">Awesome Solidity</a></td>
+        <td>The "Awesome Solidity" is a GitHub repository maintained by bkrem that serves as a curated list of resources, tools, and projects related to Solidity, the programming language primarily used for writing smart contracts on blockchain platforms like Ethereum. </td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ttumiel/Awesome-Ethereum">Awesome Ethereum</a></td>
+        <td>This repository serves as a list of resources dedicated to the Ethereum blockchain platform, covering a wide range of topics including development tools, smart contract languages, decentralized applications (dApps), Ethereum Improvement Proposals (EIPs), and much more</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Overtorment/awesome-smart-contracts">Awesome Smart Contracts</a></td>
+        <td>This repository serves as a curated collection of resources dedicated to smart contracts development, a key component of blockchain technology enabling self-executing contracts with predefined rules and conditions.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ong/awesome-decentralized-finance">Awesome DeFi</a></td>
+        <td>This repository's focus on providing a comprehensive collection of resources for understanding, participating in, and contributing to the decentralized finance (DeFi) ecosystem. It emphasizes community contributions, collaboration, and knowledge sharing within the DeFi community.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Envoy-VC/awesome-web3">Awesome Web3</a></td>
+        <td>This GitHub repository "awesome-web3" by Envoy-VC serves as a curated collection of resources dedicated to Web3 technology, including decentralized protocols, blockchain technology, and peer-to-peer interactions and more.</td>
+      </tr>
 </table>
