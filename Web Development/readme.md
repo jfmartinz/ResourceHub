@@ -1608,7 +1608,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
       In this  create the flappy bird game with html, css, and javascript. you will learn how to create the game loop, add images onto the canvas, add click handlers to make the flappy bird jump, randomly generate pipes and move them across the screen, detect collisions between the flappy bird and each pipe, and add a running score. 
       </tr> 
        <tr>
-        <td><a href="hhttps://youtu.be/M0egyNvsN-Y?si=3rA3eaooV4Cz1tAs">Memory Game</a></td>
+        <td><a href="https://youtu.be/M0egyNvsN-Y?si=3rA3eaooV4Cz1tAs">Memory Game</a></td>
         <td>
       In this  create the Memory Game with html, css, and javascript. you will learn how to create the game, add click handlers to make the flip box, and if your box have same items your both box in open condition and you win if not so it wil go to rest position vice-versa.
       </tr> 
