@@ -135,8 +135,7 @@ Core Python Libraries with these tutorials covering strings, collections framewo
 
 
 <table width="100%">
-  <tr>https://github.com/jfmartinz/ResourceHub/pull/446/conflict?name=Programming%2BLanguages%252FPython%252Freadme.md&ancestor_oid=ce12fab1fd551f6f14b3dd9b47e739d674220cb2&base_oid=a312ecd67ff407e8d084c8feea59a74572d46ff3&head_oid=a82d3d60d00f7ef27df58f05c5d86d43bfaeda98
-    <th>Resource Name</th>
+      <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
