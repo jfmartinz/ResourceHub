@@ -69,12 +69,12 @@ C# through tutorials, tools, frameworks, and advanced topics.
  </tr>
 </table>
 
-## Tutorials
+### Tutorials
 
 > Offers step-by-step guides and tutorials covering various aspects of C# programming.
 Helps beginners understand fundamental concepts and advanced users explore new techniques.
 
-### Introduction
+#### Introduction
 
 <table width="100%">
  <tr>
@@ -103,7 +103,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
  </tr>
 </table>
 
-### Fundamentals
+#### Fundamentals
 
 <table width="100%">
  <tr>
@@ -137,7 +137,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 </table>
 
 
-### Data Manipulation
+#### Data Manipulation
 
 <table width="100%">
  <tr>
@@ -159,7 +159,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 </table>
 
 
-### Data Visualization
+#### Data Visualization
 
 <table width="100%">
  <tr>
@@ -180,7 +180,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
  </tr>
 </table>
 
-### Object Oriented Programming
+#### Object Oriented Programming
 <table width="100%">
  <tr>
    <th>Resource Name</th>
@@ -229,7 +229,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 </table>
 
 
-### LINQ
+#### LINQ
 
 <table width="100%">
  <tr>
@@ -258,7 +258,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
  </tr>
 </table>
 
-### Asynchronous Programming
+#### Asynchronous Programming
 
 <table width="100%">
  <tr>
@@ -287,7 +287,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
  </tr>
 </table>
 
-### Error Handling
+#### Error Handling
 
 <table width="100%">
  <tr>
@@ -317,12 +317,12 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 </table>
 
 
-## Tools and Development Environment
+### Tools and Development Environment
 
 > Introduces essential tools and software environments for C# development.
 Includes popular integrated development environments (IDEs), compilers, and debuggers.
 
-### IDEs for C sharp
+#### IDEs for C sharp
 
 <table width="100%">
  <tr>
@@ -343,7 +343,7 @@ Includes popular integrated development environments (IDEs), compilers, and debu
  </tr>
 </table>
 
-### Online Editors for C Sharp
+#### Online Editors for C Sharp
 
 <table width="100%">
  <tr>
@@ -369,12 +369,12 @@ Includes popular integrated development environments (IDEs), compilers, and debu
 </table>
 
 
-## C Sharp Frameworks and Libraries
+### C Sharp Frameworks and Libraries
 
 >Highlights prominent frameworks and libraries available for C# development.
 Covers libraries for web development, database interaction, graphics, and more.
 
-### ASP.NET
+#### ASP.NET
 
 <table width="100%">
  <tr>
@@ -404,7 +404,7 @@ Covers libraries for web development, database interaction, graphics, and more.
 </table>
 
 
-### Entity Framework
+#### Entity Framework
 
 <table width="100%">
  <tr>
@@ -434,7 +434,7 @@ Covers libraries for web development, database interaction, graphics, and more.
 </table>
 
 
-### Xamarin
+#### Xamarin
 
 <table width="100%">
  <tr>
@@ -464,11 +464,11 @@ Covers libraries for web development, database interaction, graphics, and more.
 </table>
 
 
-## Advanced Topics
+### Advanced Topics
 >Explores advanced concepts and techniques in C# programming.
 Topics may include asynchronous programming, multithreading, design patterns, and performance optimization.
 
-### Memory Management
+#### Memory Management
 
 <table width="100%">
  <tr>
@@ -494,7 +494,7 @@ Topics may include asynchronous programming, multithreading, design patterns, an
 </table>
 
 
-### Reflection
+#### Reflection
 
 <table width="100%">
  <tr>
@@ -516,7 +516,7 @@ Topics may include asynchronous programming, multithreading, design patterns, an
 </table>
 
 
-### Interoperability
+#### Interoperability
 
 <table width="100%">
  <tr>
@@ -541,11 +541,11 @@ Topics may include asynchronous programming, multithreading, design patterns, an
  </tr>
 </table>
 
-## Specialized Topics
+### Specialized Topics
 > Delves into specialized areas of C# development, such as game development, microservices.
 Provides resources for developers interested in niche applications of C#.
 
-### Game Development with Unity
+#### Game Development with Unity
 
 <table width="100%">
  <tr>
@@ -591,7 +591,7 @@ Provides resources for developers interested in niche applications of C#.
 </table>
 
 
-### Microservices
+#### Microservices
 
 <table width="100%">
  <tr>
@@ -632,11 +632,11 @@ Provides resources for developers interested in niche applications of C#.
  </tr>
 </table>
 
-## C Sharp Projects
+### C Sharp Projects
 >Offers project ideas and repositories for practicing C# programming skills.
 Projects range from beginner-level exercises to advanced applications, covering various domains and functionalities.
 
-### Beginner Level Projects
+#### Beginner Level Projects
 
 <table width="100%">
  <tr>
@@ -661,7 +661,7 @@ Projects range from beginner-level exercises to advanced applications, covering 
  </tr>
 </table>
 
-### Intermediate Level Projects
+#### Intermediate Level Projects
 
 <table width="100%">
  <tr>
@@ -690,7 +690,7 @@ Projects range from beginner-level exercises to advanced applications, covering 
  </tr>
 </table>
 
-### Advanced Level Projects
+#### Advanced Level Projects
 
 <table width="100%">
  <tr>
@@ -715,7 +715,7 @@ Projects range from beginner-level exercises to advanced applications, covering 
  </tr>
 </table>
 
-## Version Control
+### Version Control
 
 > Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
 
@@ -752,11 +752,11 @@ Projects range from beginner-level exercises to advanced applications, covering 
 
 
 
-## Youtube
+### Youtube
 > Curates a list of YouTube channels and playlists dedicated to teaching C# programming.
 Includes tutorials, walkthroughs, and tips from experienced developers and educators.
 
-### YouTube Channels to Learn C sharp
+#### YouTube Channels to Learn C sharp
 
 <table width="100%">
  <tr>
@@ -782,7 +782,7 @@ Includes tutorials, walkthroughs, and tips from experienced developers and educa
 </table>
 
 
-### YouTube Playlists for Learning C sharp
+#### YouTube Playlists for Learning C sharp
 
 <table width="100%">
  <tr>
@@ -807,11 +807,11 @@ Includes tutorials, walkthroughs, and tips from experienced developers and educa
  </tr>
 </table>
 
-## Courses
+### Courses
 > Provides information about free and paid certification courses for learning C#.
 Highlights reputable online platforms offering structured courses and certifications.
 
-### Free Certification Courses
+#### Free Certification Courses
 
 <table width="100%">
  <tr>
@@ -837,7 +837,7 @@ Highlights reputable online platforms offering structured courses and certificat
 </table>
 
 
-### Paid Certification Courses
+#### Paid Certification Courses
 
 <table width="100%">
  <tr>
@@ -867,11 +867,11 @@ Highlights reputable online platforms offering structured courses and certificat
 </table>
 
 
-## Additional Resources
+### Additional Resources
 > Offers supplementary resources for furthering one's understanding of C# programming.
 Includes communities, forums, books, and other resources recommended by experienced developers.
 
-### C Sharp Communities
+#### C Sharp Communities
 
 <table width="100%">
  <tr>
@@ -892,7 +892,7 @@ Includes communities, forums, books, and other resources recommended by experien
  </tr>
 </table>
 
-### C Sharp Books
+#### C Sharp Books
 
 <table width="100%">
  <tr>
@@ -921,7 +921,7 @@ Includes communities, forums, books, and other resources recommended by experien
  </tr>
 </table>
 
-## Conclusion
+### Conclusion
 
 In conclusion, mastering C# opens up a world of possibilities in software development, from building desktop applications to creating web services and mobile
 apps. With its powerful features, extensive libraries, and strong integration with the .NET ecosystem, C# empowers developers to write efficient, scalable, and
