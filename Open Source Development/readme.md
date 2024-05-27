@@ -10,6 +10,7 @@ Open source development involves collaborative creation of software where the so
 - [Youtube Channels](#youtube-channels)
 
 ### Website to learn Open Source Development
+> These are some websites where you can learn Open Source Development.
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -31,6 +32,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Tutorial or Courses
+>These are some tutorials that you can use to learn Open Source Development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -59,6 +61,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Open Source Technologies
+> These are some open source Technologies you should know about
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -117,6 +120,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Community
+> These are some communities, you can seek help from for your journey with Open-source Development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -149,6 +153,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Events
+> These are some events where you can participate.
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -203,6 +208,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Youtube Channels
+> These are some Youtube channels, where you can learn about open source development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
