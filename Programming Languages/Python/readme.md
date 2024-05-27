@@ -135,6 +135,7 @@ Core Python Libraries with these tutorials covering strings, collections framewo
 
 
 <table width="100%">
+<tr>
       <th>Resource Name</th>
     <th>Description</th>
   </tr>
