@@ -17,11 +17,12 @@ Python supports multiple programming paradigms, including procedural, object-ori
    - [Data Science and Machine Learning](#data-science-and-machine-learning)<br>
    - [Automation with Python](#automation-with-python)<br>
 - [Tools](#tools)<br>
-  - [Online Interpreters/Compilers](#online-interpreters)
- 
+   - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)<br>
+   - [Online Interpreters/Compilers](#online-interpreters)<br>
 - [Technologies](#technologies)<br>
-- [Free Courses](#free-courses)<br>
-- [Paid Courses](#paid-courses)<br>
+- [Courses](#courses)<br>
+   - [Free Courses](#free-courses)<br>
+   - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlist)
@@ -309,7 +310,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 ### Tools
 
 >Discover a wide variety of tools essential for Python Development. They are listed below:
-
+#### Integrated Development Environment (IDE) 
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -371,11 +372,11 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 #### Online Interpreters
 
-> These online python Interpreters help you to run python code online in your browser:
+> These online Python interpreters help you to run python code online in your browser:
 
 <table width="100%">
       <tr>
-        <th>Channel Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -406,7 +407,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 <table width="100%">
       <tr>
-        <th>Technology</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -442,10 +443,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>Framework for web scraping that provides tools to extract data from websites, process them, and store them in the desired format.</td>
       </tr>
   </table>
-
-  ### Free Courses
-
-> You can consider these free courses for learning Python :
+  
+### Courses
+> You can consider these courses for learning Python :
+  #### Free Courses
 
 <table width="100%">
       <tr>
@@ -462,9 +463,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
      
   </table>
 
-  ### Paid Courses
-
-> You can consider these paid courses for learning App Development:
+  #### Paid Courses
 
 <table width="100%">
       <tr>
@@ -490,7 +489,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 <table width="100%">
       <tr>
-        <th>Book</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
