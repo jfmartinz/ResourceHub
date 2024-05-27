@@ -5,22 +5,20 @@
 - [Roadmap](roadmaps)
   - [Machine Learning Roadmap](#machine-learning)
 - [Tutorials or Courses](#tutorials-or-courses)
-
     - [Fundamentals of Mathematics](#fundamentals-of-mathematics)
     - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
     - [Modules](#moduleslibraries)
     - [Introduction to Machine Learning](#introduction-to-machine-learning)
     - [Types of Machine learning](#types-of-machine-learning)
-    - [Machine Learning](#steps-involved-for-machine-learning)
+    - [Steps involved for Machine Learning](#steps-involved-for-machine-learning)
       - [Data Collection](#data-collection)
       - [Data Preparation](#data-preparation)
-      - [Model selection](#model-selection)
-      - [Model Training](#model-traning)
+      - [Model Selection](#model-selection)
+      - [Model Training](#model-training)
       - [Model Evaluation](#model-evaluation)
       - [Model optimizing](#model-optimization)
       - [Model deploying](#model-deployment)
     - [Machine learning algorithms](#machine-learning-algorithms)
-
 - [Books](#books)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
@@ -28,12 +26,12 @@
 - [Machine learning forums](#machine-learning-forums)
 - [courses](#courses)
 - [Projects](#projects)
-- [Interview](#Interview)
+- [Interview](#interview)
 - [Others](#others)
 
 
 ### Roadmap
-
+> This is a roadmap, we can refer to for starting with machine learning.
 #### Machine Learning
 
 <table width="100%">
@@ -128,7 +126,6 @@
 
 #### Modules/Libraries
 
-> Explore an amazing set of Python Modules for creating/using or working with Machine learning models.
 
 <table width="100%">
     <tr>
@@ -206,11 +203,8 @@
   </tr>
 </table>
 
-### Steps involved for machine learning
-
-> These are the steps involved in building a machine learning model.
-
-#### Data Collection
+#### Steps involved for machine learning:
+##### Data Collection
 
 <table width="100%">
     <tr>
@@ -231,7 +225,7 @@
     </tr>
 </table>
 
-#### Data Preparation
+##### Data Preparation
 
 <table width="100%">
     <tr>
@@ -252,7 +246,7 @@
     </tr>
 </table>
 
-#### Model Selection
+##### Model Selection
 
 <table width="100%">
     <tr>
@@ -273,7 +267,7 @@
     </tr>
 </table>
 
-#### Model Training
+##### Model Training
 
 <table width="100%">
     <tr>
@@ -294,7 +288,7 @@
     </tr>
 </table>
 
-#### Model Evaluation
+##### Model Evaluation
 
 <table width="100%">
     <tr>
@@ -315,7 +309,7 @@
     </tr>
 </table>
 
-#### Model Optimization
+##### Model Optimization
 
 <table width="100%">
     <tr>
@@ -336,7 +330,7 @@
     </tr>
 </table>
 
-#### Model Deployment
+##### Model Deployment
 
 <table width="100%">
     <tr>
@@ -358,6 +352,7 @@
 </table>
 
 ### Machine Learning Algorithms
+> These are some machine learning algorithm, you can learn.
 
 <table width="100%">
     <tr>
@@ -432,7 +427,7 @@
   </table>
 
 ### Datasets
-
+> These are some datasets that can help you practice machine learning
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -465,6 +460,7 @@
 </table>
 
 ### GitHub Repositories
+> These are some GitHub repositories you can refer to
 
 <table width="100%">
       <tr>
@@ -634,7 +630,7 @@
 </table>
 
 ### Others
-
+> These are some other resources you can refer to.
   <table width="100%">
       <tr>
         <th>Resource Name</th>
