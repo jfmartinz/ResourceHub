@@ -27,7 +27,7 @@
   - [YouTube Channels](#youtube-channel)
   - [YouTube Playlists](#youtube-playlists)
 - [GitHub Repositories](#github-repositories)
-- [Interview Questions](#interview-questions)
+- [Interview Preparation](#interview-preparation)
 - [Books](#books)
 - [Projects](#projects)
 
@@ -988,7 +988,7 @@ to everyone - everywhere!</td>
   </tr>
 </table>
 
-### Interview Questions
+### Interview Preparation
 
 <table width="100%">
     <tr>
