@@ -251,7 +251,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 </table>
 
 ### Books
-? These are some books, you can checkout 
+> These are some books, you can checkout 
 <table width="100%">
     <tr>
         <th>Resource Name</th>
