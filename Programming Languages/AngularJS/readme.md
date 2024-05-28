@@ -319,3 +319,202 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
    <td>Guide on using Angular's built-in profiler tool to identify performance bottlenecks in AngularJS applications and optimize rendering and data binding processes.</td>
  </tr>
 </table>
+
+## Tools and Development Environment
+
+### IDEs for AngularJS
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.jetbrains.com/webstorm/download/">WebStorm</a></td>
+   <td>WebStorm is a powerful IDE for modern JavaScript development, including AngularJS. It offers intelligent code completion, navigation, and refactoring tools tailored for AngularJS projects.</td>
+ </tr>
+ <tr>
+   <td><a href="https://code.visualstudio.com/download">Visual Studio Code</a></td>
+   <td>Visual Studio Code (VS Code) is a popular open-source code editor with excellent support for AngularJS development. It provides built-in features such as IntelliSense, debugging, and Git integration.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.sublimetext.com/download">Sublime Text</a></td>
+   <td>Sublime Text is a lightweight yet powerful text editor that supports AngularJS development through various plugins and packages. It offers customizable syntax highlighting, code snippets, and project management features.</td>
+ </tr>
+ <tr>
+   <td><a href="https://atom-editor.cc/">Atom</a></td>
+   <td>Atom is a customizable and hackable text editor that can be extended with packages to support AngularJS development. It offers features such as smart autocompletion, file navigation, and project management.</td>
+ </tr>
+</table>
+
+### Online Editors for AngularJS
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://stackblitz.com/edit/angular?file=src%2Fmain.ts">StackBlitz</a></td>
+   <td>StackBlitz is a powerful online IDE for web applications, including AngularJS. It provides a fast and feature-rich development environment with real-time collaboration, built-in npm support, and seamless integration with GitHub.</td>
+ </tr>
+ <tr>
+   <td><a href="https://codepen.io/">CodePen</a></td>
+   <td>CodePen is an online community for front-end developers where you can create, share, and discover HTML, CSS, and JavaScript projects. It offers a dedicated environment for experimenting with AngularJS code snippets and projects.</td>
+ </tr>
+ <tr>
+   <td><a href="https://jsfiddle.net/">JSFiddle</a></td>
+   <td>JSFiddle is an online playground for web developers to create and share code snippets. It supports AngularJS development with live preview functionality, making it easy to test and debug AngularJS code in the browser.</td>
+ </tr>
+ <tr>
+   <td><a href="https://plnkr.co/edit/ojxDBOeUoUlj8ROcaksO?p=preview&preview">Plunker</a></td>
+   <td>Plunker is a web-based code editor and playground for creating and sharing AngularJS projects. It provides a collaborative environment with live preview, multiple files support, and integration with npm and GitHub.</td>
+ </tr>
+ <tr>
+   <td><a href="https://angular.dev/playground">Angular Playground</a></td>
+   <td>Angular Playground is an online tool for building and testing AngularJS components. It offers a simple yet powerful interface for creating AngularJS components and previewing them in real-time.</td>
+ </tr>
+</table>
+
+## AngularJS Packages and Libraries
+
+### Utility Libraries
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.geeksforgeeks.org/lodash/?ref=lbp">Lodash</a></td>
+   <td>An overview of Lodash, a popular utility library that provides functions for simplifying common programming tasks in JavaScript and Angular.js.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.geeksforgeeks.org/underscore-js-introduction/?ref=lbp">Underscore.js</a></td>
+   <td>Introduction to Underscore.js, a utility library that offers a wide range of functions for working with arrays, collections, and objects in JavaScript and Angular.js.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@jacobedawson/using-ramda-js-with-angular-2-angular-cli-9580f64c1794">Ramda</a></td>
+   <td>An overview of Ramda, a functional programming library for JavaScript and Angular.js that emphasizes immutability and pure functions.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@billys.moustakas/node-js-date-fns-good-date-handling-in-javascript-d78710c66fe0">date-fns</a></td>
+   <td>Introduction to date-fns, a lightweight utility library for manipulating dates and times in JavaScript and Angular.js.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.bacancytechnology.com/qanda/angular/angular-momentjs">Moment.js</a></td>
+   <td>An overview of Moment.js, a popular library for parsing, validating, manipulating, and formatting dates in JavaScript and Angular.js.</td>
+ </tr>
+</table>
+
+### Web Frameworks
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://material.angular.io/">Angular Material</a></td>
+   <td>Angular Material is an official component library for AngularJS that provides a set of UI components following the Material Design guidelines. It offers pre-built components for building modern and responsive web applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.freecodecamp.org/news/how-to-add-bootstrap-css-framework-to-an-angular-application/">Bootstrap</a></td>
+   <td>Bootstrap is a popular front-end framework for building responsive and mobile-first web applications. While not specifically designed for AngularJS, it can be easily integrated into AngularJS projects to create stylish and functional user interfaces.</td>
+ </tr>
+ <tr>
+   <td><a href="https://circlingthesun.github.io/angular-foundation-6/">Foundation</a></td>
+   <td>Foundation is another front-end framework similar to Bootstrap, offering a collection of responsive UI components and styles for building web applications. Like Bootstrap, it can be used alongside AngularJS to create modern and visually appealing interfaces.</td>
+ </tr>
+ <tr>
+   <td><a href="https://blog.nashtechglobal.com/integrate-semantic-ui-into-angular-web-application/">Semantic UI</a></td>
+   <td>Semantic UI is a user interface framework that provides a set of pre-designed components and styles for building web applications. It emphasizes clean and semantic HTML markup, making it easy to create intuitive and user-friendly interfaces with AngularJS.</td>
+ </tr>
+ <tr>
+   <td><a href="https://materializecss.com/getting-started.html">Materialize</a></td>
+   <td>Materialize is a modern responsive CSS framework based on Material Design principles. It offers a comprehensive set of UI components and styles for creating beautiful and interactive web applications with AngularJS.</td>
+ </tr>
+</table>
+
+### Database Libraries
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://firebase.google.com/docs/hosting/frameworks/angular">Firebase</a></td>
+   <td>Firebase is a comprehensive platform provided by Google for building mobile and web applications. It offers a real-time database, authentication, hosting, and other services, which can be seamlessly integrated with AngularJS applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://developer.okta.com/blog/2019/09/11/angular-mongodb">MongoDB</a></td>
+   <td>MongoDB is a popular NoSQL database known for its flexibility and scalability. With libraries such as Mongoose.js, MongoDB can be used as the backend database for AngularJS applications, enabling seamless data storage and retrieval.</td>
+ </tr>
+ <tr>
+   <td><a href="https://developer.okta.com/blog/2019/08/16/angular-mysql-express">MySQL</a></td>
+   <td>MySQL is one of the most widely used relational databases, offering robust features for data management and scalability. While not directly integrated with AngularJS, MySQL can be used as the backend database in conjunction with server-side technologies like Node.js or PHP.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.cdata.com/kb/tech/postgresql-odata-angularjs.rst">PostgreSQL</a></td>
+   <td>PostgreSQL is another popular open-source relational database known for its reliability and advanced features. Similar to MySQL, PostgreSQL can be used as the backend database in AngularJS applications with appropriate server-side integration.</td>
+ </tr>
+</table>
+
+### Testing Libraries
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4">Jasmine</a></td>
+   <td>Jasmine is a behavior-driven development framework for testing JavaScript code. It provides a clean syntax for writing test cases and comes with built-in assertion functions for making test assertions.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4">Karma</a></td>
+   <td>Karma is a test runner developed by the AngularJS team. It allows you to execute JavaScript code in multiple real browsers, providing a more realistic testing environment. Karma integrates seamlessly with Jasmine and other testing frameworks.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.testim.io/blog/protractor-testing/">Protractor</a></td>
+   <td>Protractor is an end-to-end testing framework specifically designed for AngularJS applications. It allows you to automate user interactions and test the functionality of your AngularJS applications as a real user would.</td>
+ </tr>
+ <tr>
+   <td><a href="https://danielk.tech/home/how-to-add-mocha-reporter-to-angular-project">Mocha</a></td>
+   <td>Mocha is a flexible JavaScript test framework that can be used for both frontend and backend testing. It provides support for various assertion libraries and allows you to choose your preferred testing style (e.g., BDD, TDD).</td>
+ </tr>
+ <tr>
+   <td><a href="https://angular-training-guide.rangle.io/testing/using-chai">Chai</a></td>
+   <td>Chai is an assertion library that works well with testing frameworks like Mocha and Jasmine. It provides a wide range of assertion styles and plugins, allowing you to write expressive and readable test cases.</td>
+ </tr>
+</table>
+
+### Security Libraries
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://snyk.io/blog/angularjs-security/">AngularJS Security Guide</a></td>
+   <td>A comprehensive guide provided by the AngularJS team on best practices for securing AngularJS applications. It covers topics such as cross-site scripting (XSS) prevention, content security policy (CSP), and secure authentication.</td>
+ </tr>
+ <tr>
+   <td><a href="https://docs.angularjs.org/api/ngSanitize/service/$sanitize">angular-sanitize</a></td>
+   <td>The angular-sanitize module provides functionality for sanitizing and validating HTML inputs in AngularJS applications. It helps prevent cross-site scripting (XSS) attacks by escaping potentially dangerous HTML content.</td>
+ </tr>
+ <tr>
+   <td><a href="https://thinkster.io/angularjs-jwt-auth.NodeJS+Basics+">angular-jwt</a></td>
+   <td>The angular-jwt module provides JSON Web Token (JWT) authentication and authorization support for AngularJS applications. It simplifies the process of handling JWTs, including token parsing, validation, and management.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.stackhawk.com/blog/angular-csrf-protection-guide-examples-and-how-to-enable-it/">angular-csrf</a></td>
+   <td>The angular-csrf module helps prevent cross-site request forgery (CSRF) attacks in AngularJS applications by automatically including CSRF tokens in HTTP requests. It integrates seamlessly with AngularJS's $http service.</td>
+ </tr>
+ <tr>
+   <td><a href="https://auth0.com/learn/angular-authentication">angular-auth</a></td>
+   <td>The angular-auth module provides a set of authentication-related directives and services for AngularJS applications. It offers features such as session management, user authentication, and role-based access control (RBAC).</td>
+ </tr>
+</table>
