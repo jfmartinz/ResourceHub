@@ -518,3 +518,476 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
    <td>The angular-auth module provides a set of authentication-related directives and services for AngularJS applications. It offers features such as session management, user authentication, and role-based access control (RBAC).</td>
  </tr>
 </table>
+
+## Advanced Topics
+
+### Microservices
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@umbertobarrosf/angular-in-a-microservices-architecture-8522e9cf03dd">Introduction to Microservices</a></td>
+   <td>Overview of the microservices architecture, its benefits, and how it compares to monolithic architectures.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@sudheer.sandu/designing-microservices-c1777e1fd973">Designing Microservices</a></td>
+   <td>Guidelines and best practices for designing microservices, including principles like single responsibility, autonomy, and scalability.</td>
+ </tr>
+</table>
+
+### Animations
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@krishsurya1249/angular-13-animations-f0d47ba8c1ba">Introduction to Animations</a></td>
+   <td>Overview of animations in AngularJS, including the benefits and use cases of using animations in web applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.tutlane.com/tutorial/angularjs/angularjs-animations-nganimate">ngAnimate Module</a></td>
+   <td>Introduction to the ngAnimate module, its setup, and how to integrate it into AngularJS projects for enhancing user interfaces.</td>
+ </tr>
+ <tr>
+   <td><a href="https://monsterlessons-academy.com/posts/angular-animations-examples-learn-browser-animations-module-in-angular">Basic Animations</a></td>
+   <td>Creating simple animations using CSS classes and the ngAnimate module, such as fade-in and fade-out effects.</td>
+ </tr>
+ <tr>
+   <td><a href="https://zerotomastery.io/blog/angular-animations-and-examples/">Animation Hooks</a></td>
+   <td>Using animation hooks to control animations during various stages of the AngularJS lifecycle, such as enter, leave, and move events.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.vskills.in/certification/tutorial/angular-keyframe-animations/">Keyframe Animations</a></td>
+   <td>Using CSS keyframes to create more advanced animations, such as transitions and transformations, within AngularJS applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://v17.angular.io/guide/complex-animation-sequences">Chaining Animations</a></td>
+   <td>Techniques for chaining multiple animations together to create smooth and coordinated animation sequences.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/filipows/angular-animations">Animation Libraries</a></td>
+   <td>Overview of popular animation libraries that can be used with AngularJS, such as GreenSock (GSAP) and Animate.css.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.freecodecamp.org/news/angular-animations-explained-with-examples/">Animation Examples and Case Studies</a></td>
+   <td>Real-world examples and case studies of animations implemented in AngularJS applications, demonstrating best practices and innovative uses.</td>
+ </tr>
+</table>
+
+
+### Modules and Lazy Loading
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.scaler.com/topics/angular/module-in-angular/">Introduction to Modules</a></td>
+   <td>Understanding the concept of modules in AngularJS, their purpose, and how they help in organizing the application structure.</td>
+ </tr>
+ <tr>
+   <td><a href="https://dev.to/this-is-angular/creating-custom-module-in-angular-4p66">Creating and Using Modules</a></td>
+   <td>A guide on how to create and use modules in AngularJS, including defining dependencies and encapsulating functionality.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.turing.com/kb/lazy-loading-in-angular-11">Lazy Loading Overview</a></td>
+   <td>Introduction to lazy loading in AngularJS, its benefits for improving application performance by loading modules only when needed.</td>
+ </tr>
+ <tr>
+   <td><a href="https://dev.to/mana95/how-to-implement-lazy-loading-in-your-angular-application-4gi1">Implementing Lazy Loading</a></td>
+   <td>Steps to implement lazy loading in AngularJS applications, including configuration and best practices.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.linkedin.com/pulse/angular-performance-optimization-from-lag-lightning-sindhura-peri-3b6jc/">Performance Optimization with Lazy Loading</a></td>
+   <td>Exploring how lazy loading can enhance the performance of AngularJS applications by reducing initial load time and resource usage.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/front-end-weekly/advanced-lazy-loading-techniques-in-angular-3492a1af2470">Advanced Lazy Loading Techniques</a></td>
+   <td>Diving into advanced lazy loading techniques, such as preloading strategies and conditional loading, to further optimize application performance.</td>
+ </tr>
+</table>
+
+### Internationalization
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@ayushgrwl365/a-guide-to-internationalization-i18n-in-angular-a6ca7a9bc027">Introduction to Internationalization</a></td>
+   <td>Overview of internationalization (i18n) concepts, its importance in making applications accessible to a global audience, and how it applies to AngularJS.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/angular/angular/issues/29536">AngularJS i18n Support</a></td>
+   <td>Detailed guide on the built-in internationalization support in AngularJS, including how to use AngularJS's i18n features.</td>
+ </tr>
+ <tr>
+   <td><a href="https://docs.angularjs.org/guide/i18n#:~:text=AngularJS%20supports%20i18n%2Fl10n%20for,interpolations%20via%20the%20ngMessageFormat%20module.">Setting Up AngularJS for i18n</a></td>
+   <td>Steps to configure an AngularJS application for internationalization, including setting up locale files and managing translations.</td>
+ </tr>
+ <tr>
+   <td><a href="https://angular-translate.github.io/">Using Angular-Translate</a></td>
+   <td>Introduction to Angular-Translate, a popular module for managing translations in AngularJS applications, and how to implement it.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/angular-in-depth/dynamic-translations-in-angular-made-possible-5eeed8466696">Dynamic Language Switching</a></td>
+   <td>Guide on implementing dynamic language switching in AngularJS applications, allowing users to change languages on the fly.</td>
+ </tr>
+ <tr>
+   <td><a href="https://supportcenter.devexpress.com/ticket/details/t489630/date-and-number-formatting-with-angularjs">Handling Dates and Numbers</a></td>
+   <td>Techniques for localizing dates, numbers, and currencies in AngularJS applications to match different locale conventions.</td>
+ </tr>
+ <tr>
+   <td><a href="https://discourse.gohugo.io/t/best-practices-for-i18n/1276">Best Practices for i18n</a></td>
+   <td>Best practices for implementing internationalization in AngularJS applications, including tips on managing translations and avoiding common pitfalls.</td>
+ </tr>
+</table>
+
+### Reflection
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+   <td><a href="https://medium.com/@johnnycopes/reflections-on-angularjs-3a5216618404">Reflection in AngularJS</a></td>
+   <td>Explanation of how reflection is implemented in AngularJS, including use cases and benefits for dynamic behavior in applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://stackoverflow.com/questions/59302237/how-to-use-ng-annotate-with-hybrid-app-based-on-angular-cli">Using ng-annotate</a></td>
+   <td>Introduction to ng-annotate, a tool for adding and removing AngularJS dependency injection annotations, and how it aids in reflection and minification.</td>
+ </tr>
+ <tr>
+   <td><a href="https://fahsl.medium.com/runtime-injection-of-settings-in-angular-e5873d192240">Runtime Injection</a></td>
+   <td>Guide on performing runtime dependency injection in AngularJS using reflection, enabling dynamic component loading and configuration.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.geeksforgeeks.org/what-are-the-differences-between-an-annotation-and-a-decorator-in-angular/">Decorators and Annotations</a></td>
+   <td>Explanation of how to use decorators and annotations in AngularJS for metadata reflection, enhancing code readability and maintainability.</td>
+ </tr>
+</table>
+
+### Interoperability
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://fastercapital.com/topics/interoperability:introduction-to-interoperability.html">Introduction to Interoperability</a></td>
+   <td>Overview of interoperability, its importance in software development, and how AngularJS facilitates interaction with other systems and frameworks.</td>
+ </tr>
+ <tr>
+   <td><a href="https://docs.telerik.com/kendo-ui/framework/angularjs/introduction">Interoperability with jQuery</a></td>
+   <td>Guide on integrating jQuery with AngularJS to leverage existing jQuery plugins and libraries within AngularJS applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://stackoverflow.com/questions/19537960/multiple-versions-of-angularjs-in-one-page">Using AngularJS with Other Angular Versions</a></td>
+   <td>Techniques for using AngularJS alongside newer versions of Angular (Angular 2+), including hybrid applications and migration strategies.</td>
+ </tr>
+ <tr>
+   <td><a href="https://developer.okta.com/blog/2021/10/22/angular-graphql">AngularJS and GraphQL</a></td>
+   <td>Using AngularJS with GraphQL to perform efficient data fetching and manipulation, and how to set up GraphQL clients in AngularJS.</td>
+ </tr>
+</table>
+
+## Specialized topics
+
+### State Management
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/olricdigital/introduction-to-state-management-in-angular-v2-ef6f5144bade">Introduction to State Management</a></td>
+   <td>Overview of state management concepts, their importance in AngularJS applications, and how to handle state effectively.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.w3schools.com/angular/angular_scopes.asp">AngularJS Scopes</a></td>
+   <td>Understanding AngularJS scopes, their role in managing application state, and how to use them effectively.</td>
+ </tr>
+ <tr>
+   <td><a href="https://dev.to/avatsaev/simple-state-management-in-angular-with-only-services-and-rxjs-41p8">Services and State Management</a></td>
+   <td>Using AngularJS services for state management, including creating and sharing state across different parts of the application.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/watch?v=FQ6fzkHvCEY">State Management Patterns (Video)</a></td>
+   <td>Exploring common state management patterns in AngularJS, such as the Redux pattern and how to implement them.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.syncfusion.com/blogs/post/angular-state-management-ngrx">ngrx for AngularJS</a></td>
+   <td>Integrating ngrx, a reactive state management library, with AngularJS applications to manage state more predictably.</td>
+ </tr>
+ <tr>
+   <td><a href="https://jczacharia.medium.com/easier-angular-component-state-management-34615849a637">Component State Management</a></td>
+   <td>Best practices for managing state within AngularJS components, including local state management and inter-component communication.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@tiagovalverde/how-to-save-your-app-state-in-localstorage-with-angular-ce3f49362e31">State Management with LocalStorage</a></td>
+   <td>Using LocalStorage to persist application state across sessions, ensuring a consistent user experience.</td>
+ </tr>
+ <tr>
+   <td><a href="https://pcsite.co.uk/implementing-effective-state-management-in-single-page-applications/">State Management in Single-Page Applications</a></td>
+   <td>Challenges and strategies for managing state in single-page applications built with AngularJS.</td>
+ </tr>
+</table>
+
+### Dynamic Component Loading
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://developer.okta.com/blog/2021/12/08/angular-dynamic-components">Introduction to Dynamic Component Loading</a></td>
+   <td>Overview of dynamic component loading in AngularJS, including its use cases and benefits for creating flexible and modular applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://stackoverflow.com/questions/41298168/how-to-dynamically-add-a-directive">Dynamic Directives</a></td>
+   <td>Using AngularJS directives to dynamically load and compile components at runtime.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.geeksforgeeks.org/angularjs-compile-service/">Compile Service</a></td>
+   <td>Leveraging the $compile service to compile HTML strings into AngularJS components dynamically.</td>
+ </tr>
+ <tr>
+   <td><a href="https://angular.dev/essentials/rendering-dynamic-templates">Dynamic Templates</a></td>
+   <td>Creating and loading templates dynamically based on runtime conditions or user interactions.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@shilinpm/what-is-component-factory-in-angular-19f0c74b36fc">Component Factories</a></td>
+   <td>Building and using component factories to instantiate components on demand in AngularJS applications.</td>
+ </tr>
+</table>
+
+### Angular Ivy
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.bacancytechnology.com/blog/introduction-to-angular-ivy-version-9">Introduction to Angular Ivy</a></td>
+   <td>Overview of Angular Ivy, the next-generation compilation and rendering engine for Angular applications, and its advantages over the previous View Engine.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.telerik.com/blogs/what-you-should-know-angular-ivy">Ivy Architecture</a></td>
+   <td>In-depth explanation of the architecture and inner workings of Angular Ivy, including the incremental DOM and locality principles.</td>
+ </tr>
+ <tr>
+   <td><a href="http://angular-awesome-components.com/2023/04/09/understanding-angulars-ivy-renderer-and-its-benefits/">Benefits of Ivy</a></td>
+   <td>Exploring the benefits of using Angular Ivy, such as smaller bundle sizes, faster compilation, improved debugging, and more efficient code generation.</td>
+ </tr>
+ <tr>
+   <td><a href="https://stackoverflow.com/questions/58522756/how-do-i-enable-ivy-for-angular-8-or-9">How to Enable Ivy</a></td>
+   <td>Step-by-step guide on how to enable Ivy in an existing Angular project and the necessary configuration changes.</td>
+ </tr>
+ <tr>
+   <td><a href="https://radheradhepawan.medium.com/what-is-aot-and-jit-ivy-and-v8-how-work-together-in-angular-f54f3efb8a5f">AOT Compilation in Ivy</a></td>
+   <td>Understanding Ahead-of-Time (AOT) compilation in Angular Ivy, its benefits, and how it differs from Just-in-Time (JIT) compilation.</td>
+ </tr>
+ <tr>
+   <td><a href="https://angularindepth.com/posts/1167/lazy-loading-angular-modules-with-ivy">Lazy Loading in Ivy</a></td>
+   <td>Implementing lazy loading in Angular Ivy to optimize application performance by loading modules and components only when needed.</td>
+ </tr>
+</table>
+
+## AngularJs Projects
+
+### Beginner Level Projects
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/maplemap/weather-app-angular">Weather App</a></td>
+   <td>A simple weather application built with Angular, demonstrating basic concepts like component interaction, API calls, and data binding.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/SrikrushnaP/angular-ecommerce">E-commerce App</a></td>
+   <td>An e-commerce application showcasing essential Angular features such as routing, services, and state management for building a functional online store.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/UrosVesic/angular-social-network">Social Network</a></td>
+   <td>A basic social networking application created with Angular, highlighting user authentication, CRUD operations, and real-time data updates.</td>
+ </tr>
+</table>
+
+### Intermediate Level Projects
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/nofaralfasi/Recipe-Book-App-Angular-Project">Recipe Book App</a></td>
+   <td>A recipe book application built with Angular, demonstrating the use of forms, routing, and state management for a feature-rich user experience.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/Gagandeep39/angular-fitness-tracker">Fitness Tracker</a></td>
+   <td>An Angular-based fitness tracker app, showcasing advanced features such as real-time data updates, authentication, and interaction with third-party APIs.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/AndrewJBateman/angular-movie-database">Movie Database</a></td>
+   <td>A movie database application demonstrating the use of Angular for handling complex data structures, API integration, and dynamic content loading.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/Prtkpwr/angular-music-player">Music Player</a></td>
+   <td>An Angular music player application, highlighting features such as audio streaming, playlist management, and user interface design.</td>
+ </tr>
+</table>
+
+### Advanced Level Projects
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/vinhphamuit/instant">Real-time Chat Application</a></td>
+   <td>A real-time chat application built with Angular, demonstrating advanced concepts such as WebSocket integration, real-time data handling, and state management.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/lucasmnunes/financial-management">Financial Management</a></td>
+   <td>A comprehensive financial management application showcasing features like data visualization, complex form handling, and integration with financial APIs.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/maurobonfietti/social">Social Media Platform</a></td>
+   <td>A fully-featured social media platform built with Angular, incorporating functionalities such as user authentication, real-time updates, and social interactions.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/OksanaHodysh/e-learning-platform">E-Learning Platform</a></td>
+   <td>An e-learning platform demonstrating advanced Angular techniques including dynamic content loading, user management, and interactive course modules.</td>
+ </tr>
+</table>
+
+## Version Control
+
+> Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://git-scm.com/doc">Official Git Documentation</a></td>
+    <td>Comprehensive official documentation for Git, covering installation, basic concepts, and advanced usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.atlassian.com/git/tutorials">Atlassian Git Tutorials</a></td>
+    <td>Detailed tutorials from Atlassian on Git basics, including commands and workflows.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories">GitHub Docs - About Repositories</a></td>
+    <td>An overview of GitHub repositories, including how to create and manage them.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository">Pro Git Book - Recording Changes</a></td>
+    <td>A chapter from the Pro Git book that covers making commits, viewing commit history, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.atlassian.com/git/tutorials/using-branches">Atlassian Git Tutorials - Using Branches</a></td>
+    <td>An in-depth tutorial on creating, using, and merging branches in Git.</td>
+  </tr>
+  <tr>
+    <td><a href="https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging">Pro Git Book - Branching and Merging</a></td>
+    <td>A chapter from the Pro Git book that covers the basics of branching and merging in Git.</td>
+  </tr>
+</table>
+
+
+## Youtube
+
+### YouTube Channels to Learn AngularJS
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/user/TechSithTube">TechSith</a></td>
+   <td>Offers comprehensive tutorials on AngularJS, covering a wide range of topics from basics to advanced concepts with practical examples.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/@Csharp-video-tutorialsBlogspot">kudvenkat</a></td>
+   <td>Provides detailed tutorials on AngularJS, focusing on both fundamental and advanced topics, along with project-based learning.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/@johnlindquist">John Lindquist</a></td>
+   <td>John Lindquist's channel features in-depth AngularJS tutorials, best practices, and real-world applications, suitable for developers at all levels.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/user/programmingwithmosh">Programming with Mosh</a></td>
+   <td>Offers high-quality tutorials on AngularJS and other web development technologies, ideal for beginners and intermediate learners.</td>
+ </tr>
+</table>
+
+### YouTube Playlists for learning AngularJS
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v">AngularJS Tutorial for Beginners</a></td>
+   <td>This playlist offers a beginner-friendly tutorial series on AngularJS, covering essential concepts and building practical applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ">AngularJS Full Course</a></td>
+   <td>This playlist provides a comprehensive course on AngularJS, covering everything from the basics to advanced topics in a structured manner.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz">AngularJS Crash Course</a></td>
+   <td>This playlist offers a quick crash course on AngularJS, focusing on key features, components, and practical usage.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl">AngularJS Essential Training</a></td>
+   <td>This playlist covers the essential training for AngularJS, including detailed explanations and examples of core concepts.</td>
+ </tr>
+</table>
+
+## Courses
+
+### Free Certification Courses
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-angularjs1">AngularJS Certification Course</a></td>
+   <td>This certification course offers comprehensive coverage of AngularJS concepts, including directives, controllers, services, and more.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.eduonix.com/courses/Web-Development/Learn-Angular.Js-by-Building-10-Projects">AngularJS Tutorial</a></td>
+   <td>A step-by-step tutorial series covering AngularJS fundamentals and best practices, culminating in a certification upon completion.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.learnvern.com/course/angular-js-tutorial">AngularJS Certification Path</a></td>
+   <td>A structured learning path designed to help you master AngularJS concepts and earn a certification upon successful completion of assessments and projects.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners">AngularJS Essentials</a></td>
+   <td>An essential course covering key AngularJS topics, suitable for beginners and intermediate learners seeking certification.</td>
+ </tr>
+</table>
