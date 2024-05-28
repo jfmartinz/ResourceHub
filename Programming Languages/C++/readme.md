@@ -23,7 +23,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
   - [Tools and IDEs for C++](#tools-and-ides-for-c)
   - [Online editors and Compilers for C++](#online-editors-and-compilers-for-c)
 - [Advance Topics](#advanced-topics)
-- [Networking and Socket Programming in C++](#Networking-and-Socket-Programming-in-C++)
+- [Networking and Socket Programming in C++](#networking-and-socket-programming-in-c++)
 - [STL (Standard Template Library)](#stl-standard-template-library)
 - [Design Patterns](#design-patterns)
 - [Modern C++ (C++11 and beyond)](#modern-c-c11-and-beyond)
