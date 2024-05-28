@@ -446,4 +446,8 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
     <td> <a href="https://github.com/jakevdp/PythonDataScienceHandbook?tab=readme-ov-file">Python Data Science Handbook</a></td>
     <td>The GitHub repository "PythonDataScienceHandbook" by jakevdp ,this one data science book is equivalent to a course, this repo includes Jupyter notebooks with detailed explanations and examples covering essential topics in data science using Python.</td>
   </tr>
+   <tr>
+    <td> <a href="https://github.com/chaconnewu/free-data-science-books">free-data-science-books</a></td>
+    <td>The GitHub repository "free-data-science-books" by chaconnewu , contains free learning resources for data science and big data related concepts, techniques, and applications.</td>
+  </tr>
 </table>

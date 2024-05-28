@@ -4,7 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README Content</title>
+    <title>README Renderer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+    <style>
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
+    </style>
+    <link rel="shortcut icon" href="/ResourceHub/website/assets/logo.png" type="image/x-icon">
+
     <link rel="stylesheet" href="mainstyle.css">
 </head>
 
@@ -92,7 +104,9 @@
     </nav>
     <div class="light-mode content-display">
         <h1 id="project-title">project title</h1>
-        <p id="project-description">Project description goes here...</p>
+        <div class="light-mode content-display markdown-body" id="readme-content">
+            <!-- README content will be injected here -->
+        </div>
         <h2>Installation</h2>
         <pre><code>git clone https://github.com/your-username/your-repo.git</code></pre>
         <h2>Usage</h2>
@@ -109,7 +123,7 @@
         <p>This project is licensed under the MIT License - see the <a
                 href="https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE">LICENSE.md</a> file for details</p>
     </div>
-
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         // Dark mode toggle script
         const toggleButton = document.getElementById('dark-mode-toggle');
@@ -130,7 +144,8 @@
         const filename = sessionStorage.getItem('filename');
         document.getElementById('project-title').innerHTML = filename;
         // Decode and render the README content in the div
-        document.getElementById('project-description').innerHTML = readmeContent;
+        document.getElementById('readme-content').innerHTML = marked.parse(readmeContent);
+        console.log(readmeContent);
 
 
 

@@ -14,6 +14,7 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [Books](#Books)<br>
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 - [GitHub Repositories](#github-repositories)
+- [Projects](#projects)
 
 ### Website to learn Web3
 
@@ -589,5 +590,28 @@ develop software that works with them</td>
       <tr>
         <td><a href="https://github.com/Envoy-VC/awesome-web3">Awesome Web3</a></td>
         <td>This GitHub repository "awesome-web3" by Envoy-VC serves as a curated collection of resources dedicated to Web3 technology, including decentralized protocols, blockchain technology, and peer-to-peer interactions and more.</td>
+      </tr>
+</table>
+
+### Projects
+
+> These resources are equal to more than 100+ projects, which help you to make your hands dirty on Web3
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://github.com/Shubham0850/awesome-web3-projects">Awesome Web3 projects</a></td>
+        <td>This repository is a curated collection of innovative projects leveraging Web3 technology to build decentralized applications (dApps), blockchain solutions, and other groundbreaking applications. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.theinsaneapp.com/2022/05/best-web3-projects.html">Web3 Projects</a></td>
+        <td>This blog post is a curated lists of innovative projects on Web3 technologies, such as decentralized applications (dApps), blockchain solutions, decentralized finance (DeFi) platforms, non-fungible token (NFT) marketplaces, and more.This blog post provides you with both tutorial and source code.</td>
+      </tr>
+      <tr>
+        <td><a href="https://web3.career/learn-web3/top-solidity-open-source-projects#safe-smart-account">Solidity projects</a></td>
+        <td>This link provides you a list of open-source projects written in Solidity, if you're interested in exploring the top Solidity open-source projects, this website is the go-to place for you.</td>
       </tr>
 </table>
