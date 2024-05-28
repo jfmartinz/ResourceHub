@@ -261,6 +261,39 @@ App development refers to crafting software for diverse devices, involving plann
       </tr>
   </table>
 
+  ### YouTube Playlists
+
+  <table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="htps://www.youtube.com/playlist?list=PLWPirh4EWFpEd96BkDvn9DVJASJrJs4GY">IOS App Development</a></td>
+        <td>This Youtube playlist'IOS App Development' by Tutorialspoint is the beginner friendly course, this gives the beginners a good start for learning the ios app development.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL6Q9UqV2Sf1gHCHOKYLDofElSvxtRRXOR">The Complete Android App Developer Course</a></td>
+        <td>The Complete Android App Developer Course by Master Coding" is a comprehensive playlist aimed at teaching aspiring developers the fundamentals and advanced techniques of Android app development.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB">Swift Basics (Beginner Level) by Swiftful Thinking</a></td>
+        <td>This "Swift Basics (Beginner Level) by Swiftful Thinking" is a curated playlist designed to introduce beginners to the fundamentals of Swift programming language. Led by Swiftful Thinking, this series covers essential concepts and syntax, offering a solid foundation for individuals interested in iOS app development or Swift programming.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX">Learn swift</a></td>
+        <td>This Playlist 'Learn Swift' is for absolute beginners. In this multi-part tutorial, learn the basics of Swift programming for making apps by watching live demos, following examples, doing exercises and reading the lesson notes and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ">Flutter Tutorial for Beginners</a></td>
+        <td>In this Flutter tutorial for Beginners series, they will show you how to use Flutter (and Dart) to create Android and iOS apps from scratch. We'll learn all about widgets, packages, assets, asynchronous and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT">Free Flutter Course (Full Flutter Course for Beginners)</a></td>
+        <td>The "Free Flutter Course (Full Flutter Course for Beginners)" is a comprehensive learning resource aimed at beginners who want to dive into Flutter development. This course covers the basics of Flutter framework, including widgets, layouts, state management, and more.</td>
+      </tr>
+</table>
+
   ### GitHub Repositories
 
   <table width="100%">
