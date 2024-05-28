@@ -46,8 +46,6 @@
 
 ### Courses
 
-> Discover a collection of web development tutorials and courses, including articles, videos, and more.
-
 <table width="100%">
   <tr>
     <h4>Front-End Development</h4>
