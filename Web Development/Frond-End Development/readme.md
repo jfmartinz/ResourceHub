@@ -905,6 +905,8 @@ to everyone - everywhere!</td>
 
 ### YouTube
 
+> These resources from YouTube helps you move forward in frontend development by not only offering courses but also keeping you up with the trendy frontend technologies and more.
+
 #### YouTube Channel
 
 <table width="100%">
@@ -1012,6 +1014,8 @@ to everyone - everywhere!</td>
 
 ### Books
 
+> These books helps you in becoming Frontend developer and also gives you the knowledge that courses cannot give you.
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -1047,6 +1051,8 @@ to everyone - everywhere!</td>
 </table>
 
 ### Projects
+
+> These projects helps you to make your hands dirty but building real time frontend projects and gaining experience.
 
 <table width="100%">
     <tr>
