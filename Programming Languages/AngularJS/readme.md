@@ -49,8 +49,8 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
    - [Advanced Level Projects](#advanced-level-projects)
 - [Version Control](#version-control)
 - [YouTube](#youtube)
-   - [YouTube Channels to Learn AngularJS](#youtube-channels-to-learn-angularjs)
-   - [YouTube Playlists for Learning AngularJS](#youtube-playlists-for-learning-angularjs)
+   - [YouTube Channels](#youtube-channels)
+   - [YouTube Playlists](#youtube-playlists)
 - [Courses](#courses)
    - [Free Certification Courses](#free-certification-courses)
    - [Paid Certification Courses](#paid-certification-courses)
@@ -923,7 +923,7 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
 ## Youtube
 > Discover a wealth of educational content on YouTube to supplement your learning journey in AngularJS development. From comprehensive tutorials to in-depth discussions, YouTube channels and playlists offer valuable resources for developers of all levels.
 
-### YouTube Channels to Learn AngularJS
+### YouTube Channels
 
 <table width="100%">
  <tr>
@@ -948,7 +948,7 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
  </tr>
 </table>
 
-### YouTube Playlists for learning AngularJS
+### YouTube Playlists
 
 <table width="100%">
  <tr>
