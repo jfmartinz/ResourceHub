@@ -168,7 +168,8 @@
         <th>Description</th>
     </tr>
     <tr>
-      <td ><a href="https://www.w3schools.com/whatis/whatis_frontenddev.asp#">The W3Schools page on frontend development explains that frontend development involves building the part of a website or web application that users interact with directly. It encompasses everything users see and interact with in their web browsers, including layout, design, and functionality</td>
+      <td ><a href="https://www.w3schools.com/whatis/whatis_frontenddev.asp#">What is frontend development?</a></td>
+       <td> The W3Schools page on frontend development explains that frontend development involves building the part of a website or web application that users interact with directly. It encompasses everything users see and interact with in their web browsers, including layout, design, and functionality</td>
     </tr>
     <tr>
         <td><a href="https://www.coursera.org/articles/front-end-developer">What a Frontend Web Developer Do?</a></td>
