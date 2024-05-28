@@ -51,6 +51,11 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
       <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization</a></td>
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
             <td>$32.63/month</td>
+    <tr>
+      <td><a href="https://www.thedesignerstoolbox.com/">The Designer's Toolbox</a></td>
+      <td>The Designer's Toolbox is a collection of tips, tricks, and best practices that can help you with UX designing. It has various resources, live events, and masterclasses to help you gain the skills required for UX design.</td>
+           <td>$8/month</td>
+      </tr>
   </tr>
   </table>
 
