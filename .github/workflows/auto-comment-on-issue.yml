@@ -16,7 +16,9 @@ jobs:
         run: |
           COMMENT=$(cat <<EOF
           {
-            "body": "Thank you for creating this issue! We'll look into it as soon as possible. Your contributions are highly appreciated! 😊"
+            "body": "Thank you for raising this issue! We'll look into it as soon as possible. Please  ensure that the [issue](https://github.com/jfmartinz/ResourceHub/issues) is not duplicate, and you read [CONTRIBUUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md#contributing-guidelines) carefully.
+            
+            Your contributions are highly appreciated! 😊"
           }
           EOF
           )
