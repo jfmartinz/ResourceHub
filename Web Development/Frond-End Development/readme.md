@@ -195,21 +195,6 @@
 
 ### Frameworks
 
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-      <td ><a href="https://www.geeksforgeeks.org/what-is-a-framework/">What is a Framework?</a></td>
-      <td>This provides a clear explanation of what a framework is in the context of software development. It covers the definition of a framework, its purpose, components, types, advantages, and provides examples of popular frameworks. </td>
-    </tr>
-   <tr>
-        <td><a href="https://web.dev/articles/js-libraries-vs-frameworks">Framework vs Library</a></td>
-        <td>The article provides a helpful comparison of JavaScript libraries and frameworks, helping developers understand the differences between these tools and choose the right one for their projects.</td>
-    </tr>
-</table>
-
 #### CSS Frameworks
 
 <table width="100%">
