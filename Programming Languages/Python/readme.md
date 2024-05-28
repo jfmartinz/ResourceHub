@@ -491,22 +491,27 @@ Python supports multiple programming paradigms, including procedural, object-ori
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
+         <th>Cost</th>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280">Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes</a></td>
         <td>Introduces Python through practical projects and exercises, ideal for beginners and those transitioning from other languages.</td>
+          <td>Paid</td>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008">Fluent Python: Clear, Concise, and Effective Programming by Luciano Ramalho</a></td>
         <td>Explores Python's advanced features and best practices for writing clear, idiomatic code.</td>
+           <td>Paid</td>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989">Effective Python: 90 Specific Ways to Write Better Python by Brett Slatkin</a></td>
         <td>Offers practical advice and tips to improve your Python code and programming skills.</td>
+           <td>Paid</td>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057">Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas</a></td>
         <td>Covers essential tools and techniques for data manipulation, visualization, and analysis using Python.</td>
+           <td>Paid</td>
       </tr>
   </table>
 
