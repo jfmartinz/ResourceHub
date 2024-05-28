@@ -854,6 +854,8 @@
 
 ### Communities
 
+> These communities helps you to connect with other experienced frontend developers, to ask doubts, involve in discussion, and staying in trend.
+
 #### Discord
 
 <table width="100%">
