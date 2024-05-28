@@ -21,6 +21,7 @@
 
 - [What is ResourceHub](#what-is-resourcehub)
 - [Categories](#categories)
+- [Technologies](#technologies)
 - [How to Contribute](#how-to-contribute)
   - [Forking and Submitting a Pull Request](#forking-and-submitting-a-pull-request)
   - [Using GitHub Desktop](#using-github-desktop)
@@ -47,6 +48,14 @@ Here is a list of the currently available categories of the project:<br>
 - [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
 - [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
 
+
+## Technologies
+ResourceHub is built using the following technologies:
+
+- **Frontend**: HTML, CSS, JS
+- **Deployment**: Vercel
+
+> Website URL: [ResourceHub](https://resourcehubwebsite.vercel.app/)
 
 ## How to contribute
 Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your fork of this repository before submitting any contributions.
