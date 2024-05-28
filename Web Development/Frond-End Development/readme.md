@@ -1016,7 +1016,7 @@ to everyone - everywhere!</td>
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Status</th>
+        <th>Cost</th>
       </tr>
       <tr>
         <td> <a href="https://wtf.tw/ref/duckett.pdf">HTML and CSS: Design and Build Websites, by Jon Duckett</a></td>
