@@ -195,7 +195,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 > These are some Youtube Playlist for reference and complete guidance
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -225,7 +225,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -251,31 +251,37 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 </table>
 
 ### Books
-? These are some books, you can checkout 
+> These are some books, you can checkout 
 <table width="100%">
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
+        <th>Cost</th>
     </tr>
     <tr>
        <td><a href="https://sre.google/books/">Site Reliability Engineering</a></td>
        <td>This book explains the whole life cycle of Google’s development, deployment, and monitoring, and how to manage the world’s biggest software systems (also known as SRE). Anyone who considers themselves to be more on the "Ops" end of the DevOps side or who wants to know how to strengthen the bonds between various Dev and Ops teams should read SRE.</td>
+        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://github.com/ahmedamsaleh/Free-DevOps-Books-1/blob/master/book/DevOps%20for%20Web%20Development.pdf">DevOps for Web Development</a></td>
        <td>This book explains the role of DevOps in the web development process is pivotal, orchestrating a fundamental shift in traditional development practices. DevOps methodologies and principles streamline the entire software development lifecycle, significantly influencing web development in numerous ways.</td>
+        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://github.com/ahmedamsaleh/Free-DevOps-Books-1/blob/master/book/Effective%20DevOps.pdf">Effective DevOps</a></td>
        <td>Effective Devops is most comprehensive book that is completely digestible and applicable for those within technology. Excellent reading for anyone interested in understanding DevOps and how to foster a DevOps culture</td>
+        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://www.dbooks.org/azure-devops-succinctly-1642002046/">Azure DevOps Succinctly</a></td>
        <td>The "Azure DevOps Succinctly" book by Sander Rossel provides a concise, practical guide to using Azure DevOps. This book covers essential topics such as setting up and managing repositories, pipelines, and automated testing.</td>
+        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://freecomputerbooks.com/Kubernetes-Up-and-Running-Dive-into-the-Future-of-Infrastructure.html">Kubernetes</a></td>
        <td>The book "Kubernetes by Brendan Burns" is a practical book which shows developers and Ops personnel how Kubernetes and container technology can help you achieve new levels of velocity, agility, reliability, and efficiency.</td>
+        <td>Free</td>
     </tr>
 </table>
 
@@ -285,7 +291,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -323,7 +329,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 
 <table width="100%">
     <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
     </tr>
     <tr>
