@@ -9,7 +9,8 @@ App development refers to crafting software for diverse devices, involving plann
 - [Technologies](#technologies)<br>
 - [Courses](#courses)<br>
 - [Books](#books)<br>
-- [Youtube Channels](#youtube-channels)<br>
+- [YouTube Channels](#youtube-channels)<br>
+- [YouTube Playlists](#youtube-playlists)
 - [GitHub Repositories](#github-repositories)
 
 ### Roadmap
