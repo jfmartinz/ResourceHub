@@ -1,7 +1,5 @@
 <Head>
 
-
-
 # Python Development 🐍🐍
 Python development refers to creating applications, scripts, and software solutions using the Python programming language. Known for its simplicity, readability, and extensive libraries, Python is widely used in web development, data science, machine learning, automation, and more. It emphasizes rapid development and clear, maintainable code, making it a popular choice for both beginners and experienced developers. 
 
@@ -748,6 +746,7 @@ These channels provide excellent resources for learning Python programming, cate
 
   
 =======
+
 > These YouTube Playlists helps you to learn python in a structured way:
 
 <table width="100%">
