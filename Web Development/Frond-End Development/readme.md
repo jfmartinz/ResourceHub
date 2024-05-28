@@ -202,10 +202,6 @@
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
-    <tr>
-      <td ><a href="https://www.geeksforgeeks.org/css-framework/">CSS Framework</a></td>
-      <td>This provides a clear explanation of what a framework is in the context of software development. It covers the definition of a framework, its purpose, components, types, advantages, and provides examples of popular frameworks. </td>
-    </tr>
    <tr>
         <td><a href="https://www.w3schools.com/bootstrap/">Bootstrap</a></td>
         <td>This tutorial section on W3Schools provides a beginner-friendly and structured approach to learning Bootstrap, covering essential concepts and providing hands-on examples to help you get started with building modern, responsive web applications.</td>
