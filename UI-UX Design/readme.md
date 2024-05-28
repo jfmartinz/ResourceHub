@@ -52,6 +52,10 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
             <td>$32.63/month</td>
   </tr>
+      <tr>
+      <td><a href="https://www.thedesignerstoolbox.com/">The Designer's Toolbox</a></td>
+    <td>A comprehensive resource offering courses, products, and free materials to aid UX/UI designers in enhancing their skills.<td>Varied</td>
+  </tr>
   </table>
 
 
