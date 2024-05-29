@@ -10,6 +10,7 @@ Open source development involves collaborative creation of software where the so
 - [Youtube Channels](#youtube-channels)
 
 ### Website to learn Open Source Development
+> These are some websites where you can learn Open Source Development.
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -31,6 +32,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Tutorial or Courses
+>These are some tutorials that you can use to learn Open Source Development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -59,6 +61,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Open Source Technologies
+> These are some open source Technologies you should know about
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -117,6 +120,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Community
+> These are some communities, you can seek help from for your journey with Open-source Development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -149,6 +153,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Events
+> These are some events where you can participate.
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -203,6 +208,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Youtube Channels
+> These are some Youtube channels, where you can learn about open source development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -220,3 +226,9 @@ Open source development involves collaborative creation of software where the so
   </tr>
 </table>
 
+### Conclusion
+
+Open source contributions are an amazing way to learn, share knowledge, and collaborate with other developers. By contributing to open-source projects, you get to work on real-world code, improve your skills, and gain valuable experience. It's a great opportunity to give back to the community, help improve software that others rely on, and build a portfolio of work that can impress potential employers. Plus, you'll have the chance to connect with other developers, get feedback on your code, and stay up-to-date with the latest technologies and best practices.
+ Whether you're fixing bugs, adding new features, or improving documentation, every contribution counts. So dive into coding challenges, join open-source projects, and start making a difference while growing as a developer!
+
+ Never stop learning !

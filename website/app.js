@@ -93,13 +93,13 @@
 document.addEventListener("DOMContentLoaded", async function () {
   const loading = document.getElementById("card-container");
   loading.innerHTML = `
-                    <p class="classic-4">Loading....</p>
-                
+  <p class="classic-4 text-white font-semibold text-center text-2xl ">Loading....</p>
+
                 `;
   const cardContainer = document.getElementById("card-container");
   // Function to fetch GitHub data
   const apiUrl =
-    "https://script.googleusercontent.com/macros/echo?user_content_key=SOnBnlAhhwAY2lLH5HfppGmJGT_2ps5V6IQnMqMGBXbQfQRkZzw_v_5iRGG0aocf2N5fb1QagfriAH_KtdGjmF5EZ-d2l64Mm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnC62rQSNc23BPEU_1j4s8hh_HP6kAPpX9xtypcE4mPgzpikbBkSG4MZLP8aImUTewbmUkdfzbTtyUarIvNXMDMKXAagsogLIsQ&lib=MghKih2WtI3ppVHa2nSvtXXt7vnFOnL-L";
+    "https://script.googleusercontent.com/macros/echo?user_content_key=zNbMh9qAQKR2wM3sl_1JSqCjsB2WbTo3VBuJqrOQC59Olh1O_WwE4PYwwJZdP9GBwEPg5zeXX4qjNoFK_T6KhxKqcQslXWwIm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnDvmf3ELyOtxtmXBv_oWbRsI8Wo8f6bUD8Cm__cnB-x36o40mmHJLKyUrh7eq3w7bg31shMIC1dI5-QsXEkR6DGZimDq1ZXxqtz9Jw9Md8uu&lib=MyKXjCfQbtx5OyXvXt3HHvbRoTJXMhXuF";
 
   async function getkey() {
     try {
@@ -115,6 +115,12 @@ document.addEventListener("DOMContentLoaded", async function () {
   }
   const token = await getkey();
   function fetchGitHubData(url) {
+    const loading = document.getElementById("card-container");
+    loading.innerHTML = `
+                    <p class="classic-4 text-white font-semibold text-center text-2xl ">Loading....</p>
+
+                `;
+
     // Replace with your actual token
     // const token = " Your API_KEY"; // Replace with your actual token
     // Call the function
@@ -170,26 +176,40 @@ document.addEventListener("DOMContentLoaded", async function () {
                 },
               }
             )
+              //DONT CHANGE THE CLASSNAMES FOR THE CARDS AND PARAGRAPH
               .then((readmeResponse) => readmeResponse.json())
               .then((readmeData) => {
                 const card = document.createElement("div");
-                card.className = "card";
+                card.className = "card-content hover:text-black ";
                 card.innerHTML = `
-                  <div class="card-content">
-                    <p>${file.name}</p>
-                  </div>
+                <div class="card hover:text-black glow-on-hover">
+                <p class="font-semibold z-10 text-center hover:text-black text-xs sm:text-xs md:text-xl lg:text-2xl xl:text-3xl 2xl:text-5xl text-neutral-300">${file.name}</p>
+
+                </div>
                 `;
                 // Modify the click event for each card
-                card.onclick = function () {
-                  // Save README content in sessionStorage
-                  sessionStorage.setItem(
-                    "readmeContent",
-                    atob(readmeData.content)
-                  );
-                  sessionStorage.setItem("filename", file.name);
-                  // Open the content-display.html page
-                  window.location.href = "content-display.html";
-                };
+                if (readmeData.message != "Not Found")
+                  card.onclick = function () {
+                    console.log(readmeData);
+
+                    // Save README content in sessionStorage
+                    sessionStorage.setItem(
+                      "readmeContent",
+                      atob(readmeData.content)
+                    );
+                    sessionStorage.setItem("filename", file.name);
+                    // Open the content-display.html page
+                    window.location.href = "content-display.html";
+                  };
+                else
+                  card.onclick = function () {
+                    console.log("Not Found");
+                    fetchGitHubData(
+                      `https://api.github.com/repos/jfmartinz/ResourceHub/contents/${file.path}/`
+                    );
+                    // window.location.reload();
+                  };
+
                 cardContainer.appendChild(card);
               })
               .catch((readmeError) =>
@@ -219,3 +239,27 @@ function filterCards() {
     }
   });
 }
+
+
+// LOTTIE ANIMATION
+
+
+// Load Lottie animation
+var animation = lottie.loadAnimation({
+  container: document.getElementById('lottie-animation'),
+  path: './assets/workflowlottie.json',
+  renderer: 'svg', // Render type
+  loop: true,
+  autoplay: true,
+  rendererSettings: {
+    preserveAspectRatio: 'xMidYMid slice'
+  }
+});
+
+
+window.addEventListener('resize', function () {
+  var container = document.getElementById('lottie-animation');
+  container.style.width = '100%';
+  container.style.height = '100%';
+});
+
