@@ -28,7 +28,7 @@ Go, commonly referred to as Golang, is an open-source programming language devel
 - [Youtube](#youtube)<br>
 - [Conclusion](#conclusion)
 
-### Roadmap
+## Roadmap
 
 > Go roadmap outlines the essential steps and skills needed to become skilled and efficient in Go programming.
 
@@ -299,7 +299,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-### Tools
+## Tools
 
 >Discover a wide variety of tools essential for Go Development. They are listed below:
 
@@ -358,7 +358,8 @@ Helps beginners understand fundamental concepts and advanced users explore new t
       </tr>
   </table>
 
-  ### Advanced Topics
+ ## Advanced Topics
+ Dive into advanced features of Go to enhance your programming skills. This section covers Refelction,Generics and Interfacing with C, which are crucial for developing complex and efficient Go applications.
 
 <table width="100%">
   <tr>
@@ -379,10 +380,10 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-### Go Projects
+## Go Projects
 > Here are some great ideas for projects in Go from beginner level to the advance level.
 
-#### Beginner Level Projects
+### Beginner Level Projects
 
    <table>
         <tr>
@@ -415,7 +416,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
         </tr>
     </table>
 
-  #### Intermediate Level Projects
+  ### Intermediate Level Projects
 
    <table>
         <tr>
@@ -440,7 +441,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
         </tr>
     </table>
 
-   #### Advance Level Projects
+   ### Advance Level Projects
 
    <table>
         <tr>
@@ -465,7 +466,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
         </tr>
     </table>
 
-### Courses
+## Courses
 > Here are some free and paid courses you may consider:
 
 ### Free Certification Courses
