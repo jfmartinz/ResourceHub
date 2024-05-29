@@ -38,7 +38,6 @@ These resources are designed to help you build a strong foundation in R programm
    - [Beginner Level Projects](#beginner-level-projects)
    - [Intermediate Level Projects](#intermediate-level-projects)
    - [Advanced Level Projects](#advanced-level-projects)
-   - [Additional Tips](#additional-tips)
 - [Version Control](#version-control)
 - [YouTube](#youtube)
    - [YouTube Channels to Learn R](#youtube-channels-to-learn-r)
@@ -71,7 +70,7 @@ These resources are designed to help you build a strong foundation in R programm
 ### Tutorials
 > Start your journey into R programming with these essential tutorials covering basic syntax and concepts.
 
-### Introduction
+#### Introduction
 
 <table width="100%">
   <tr>
@@ -98,7 +97,7 @@ These resources are designed to help you build a strong foundation in R programm
 </table>
 
 
-### Fundamentals
+#### Fundamentals
 
 <table width="100%">
 <tr>
@@ -140,7 +139,7 @@ These resources are designed to help you build a strong foundation in R programm
 <tr>
 </table>
 
-### Data Manipulation
+#### Data Manipulation
 
 <table width="100%">
 <tr>
@@ -165,7 +164,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Data Visualization
+#### Data Visualization
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -193,7 +192,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Statistical Analysis
+#### Statistical Analysis
 
 <table width="100%">
 <tr>
@@ -227,7 +226,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Machine Learning
+#### Machine Learning
 
 <table width="100%">
 <tr>
@@ -260,7 +259,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Deep Learning
+#### Deep Learning
 
 <table width="100%">
 <tr>
@@ -278,7 +277,7 @@ These resources are designed to help you build a strong foundation in R programm
 </table>
 
 
-### Reproducible Research
+#### Reproducible Research
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -297,10 +296,10 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-## Tools and Development Environment
+### Tools and Development Environment
 > Here are somme tools and development environments for R programming.
 
-## Rstudio
+#### Rstudio
 
 <table width="100%">
 <tr>
@@ -325,7 +324,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### IDEs for R
+#### IDEs for R
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -354,7 +353,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Online Editors for R
+#### Online Editors for R
 <table width="100%">
 <tr>
 
@@ -379,7 +378,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### RMarkdown
+#### RMarkdown
 
 <table width="100%">
 <tr>
@@ -412,11 +411,11 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-## R Packages and Libraries
+### R Packages and Libraries
 
 > Packages in R Programming language are a set of R functions, compiled code, and sample data. These are stored under a directory called “library” within the R environment
 
-### Data Manipulation Packages
+#### Data Manipulation Packages
 
 <table width="100%">
 <tr>
@@ -442,7 +441,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Data Visualization Packages 
+#### Data Visualization Packages 
 
 <table width="100%">
 <tr>
@@ -471,7 +470,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Statistical Analysis Packages
+#### Statistical Analysis Packages
 
 <table width="100%">
 <tr>
@@ -496,10 +495,10 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-## Advanced Topics
-> Here are some advance topics in R which you can consider to enhance your mastery in R programming.
+### Advanced Topics
+> Here are some advanced topics in R that you can consider to enhance your mastery in R programming.
 
-### R for Big Data
+#### R for Big Data
 
 <table width="100%">
 <tr>
@@ -527,7 +526,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Parallel Computing
+#### Parallel Computing
 
 
 <table width="100%">
@@ -549,7 +548,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Advanced Statistical Modeling
+#### Advanced Statistical Modeling
 
 
 <table width="100%">
@@ -579,10 +578,10 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-## Specialized Topics
+### Specialized Topics
 > Here are some specialized topics
 
-### Bioinformatics
+#### Bioinformatics
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -602,7 +601,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Time Series Analysis
+#### Time Series Analysis
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -621,7 +620,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Geospatial Analysis
+#### Geospatial Analysis
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -637,10 +636,10 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-## R Projects
+### R Projects
 > Here are some projrct ideas for R programming from beginner level to advance level.
 
-### Beginner Level Projects
+#### Beginner Level Projects
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -664,7 +663,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Intermediate Level Projects
+#### Intermediate Level Projects
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -688,7 +687,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Advanced Level Projects
+#### Advanced Level Projects
 
 <table width="100%">
 <tr>
@@ -752,10 +751,10 @@ These resources are designed to help you build a strong foundation in R programm
   </tr>
 </table>
 
-## Youtube
+### Youtube
 > Here are some youtube channels which you can refer.
 
-### YouTube Channels to Learn R
+#### YouTube Channels to Learn R
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -783,7 +782,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### YouTube Playlists for Learning R
+#### YouTube Playlists for Learning R
 
 <table width="100%">
 <tr>
@@ -809,10 +808,10 @@ These resources are designed to help you build a strong foundation in R programm
 </table>
 
 
-## Courses
+### Courses
 > Here are some courses.
 
-### Free Certification Courses
+#### Free Certification Courses
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -840,7 +839,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### Paid Certification Courses
+#### Paid Certification Courses
 
 <table width="100%">
 <tr>
@@ -869,10 +868,10 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-## Additional Resources
+### Additional Resources
 > Additional resources which may help you in your development journey.
 
-### R Communities
+#### R Communities
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -888,35 +887,41 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### R Books
+#### R Books
 <table width="100%">
 <tr>
 <th>Resource Name</th>
 <th>Description</th>
+   <th>Cost</th>
 </tr>
 <tr>
 <td><a href="https://www.amazon.com/R-Cookbook-OReilly-Cookbooks-Paul/dp/0596809158">R Cookbook</a></td>
 <td>R Cookbook By Paul Teetor</td>
+   <td>Paid</td>
 </tr>
 <tr>
 <td><a href="https://www.amazon.com/Art-R-Programming-Statistical-Software/dp/1593273843">The Art of R Programming</a></td>
 <td>The Art of R Programming By Norman Matloff</td>
+   <td>Paid</td>
 </tr>
 <tr>
 <td><a href="https://www.amazon.com/Using-Introductory-Statistics-Chapman-Hall/dp/1466590734/ref=sr_1_1?dib=eyJ2IjoiMSJ9.MMC8KySF3vodrO7L2zv7Yio8DBHC_g5s2wyesdWehPukRBAveLVCIyFOvOtPKsSiHD99ZOYcy9nP9alRyEAzMHd_88g8IIHX3caM4FHQqxj-h4cjuQkTu2DMfp-7hz0ECeZwfkWeWnkrnyt1ixI2a204gE0L08TjfPeKbOo1giNkZaFo-JRmGEj8RM0RyKC0sSuQHzczbVpCeTh_u_J8wrPRwyS50Fv_Kn9_mXM5LbI.ovYaXCXqfsjec20Q7Lw_jEoruAC9gUsBBNgd0xfcmN4&dib_tag=se&keywords=Introductory-Statistics-Using-R&qid=1716470344&sr=8-1">Introductory Statistics with R</a></td>
 <td>Introductory Statistics with R By John Verzani</td>
+   <td>Paid</td>
 </tr>
 <tr>
 <td><a href="https://www.amazon.com/Hands-Programming-Writing-Functions-Extending/dp/1449359019">Hands-On Programming with R</a></td>
 <td>Advanced R By Garrett Grolemund</td>
+   <td>Paid</td>
 </tr>
 <tr>
 <td><a href="https://www.amazon.com/Advanced-R-Hadley-Wickham/dp/1466586966">Advanced R</a></td>
 <td>By Hadley Wickham</td>
+   <td>Paid</td>
 </tr>
 </table>
 
-## Conclusion
+### Conclusion
 
 R programming is an indispensable tool for data analysis, statistics, and visualization. The extensive range of resources provided in this guide aims to facilitate your learning journey, from mastering the basics to exploring advanced techniques. With the right combination of tutorials, coding platforms, and tools, you can develop a strong proficiency in R and leverage its capabilities for your data-driven projects.
 
