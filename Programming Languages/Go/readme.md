@@ -359,7 +359,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </table>
 
  ## Advanced Topics
- Dive into advanced features of Go to enhance your programming skills. This section covers Refelction,Generics and Interfacing with C, which are crucial for developing complex and efficient Go applications.
+ >Dive into advanced features of Go to enhance your programming skills. This section covers Refelction,Generics and Interfacing with C, which are crucial for developing complex and efficient Go applications.
 
 <table width="100%">
   <tr>
@@ -383,7 +383,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 ## Go Projects
 > Here are some great ideas for projects in Go from beginner level to the advance level.
 
-### Beginner Level Projects
+#### Beginner Level Projects
 
    <table>
         <tr>
@@ -416,7 +416,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
         </tr>
     </table>
 
-  ### Intermediate Level Projects
+  #### Intermediate Level Projects
 
    <table>
         <tr>
@@ -441,7 +441,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
         </tr>
     </table>
 
-   ### Advance Level Projects
+   #### Advance Level Projects
 
    <table>
         <tr>
@@ -469,7 +469,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 ## Courses
 > Here are some free and paid courses you may consider:
 
-### Free Certification Courses
+#### Free Certification Courses
 
 <table>
   <tr>
@@ -490,7 +490,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-### Paid Certification Courses
+#### Paid Certification Courses
 
 <table>
   <tr>
