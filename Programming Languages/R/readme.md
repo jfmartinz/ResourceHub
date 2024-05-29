@@ -40,7 +40,7 @@ These resources are designed to help you build a strong foundation in R programm
    - [Advanced Level Projects](#advanced-level-projects)
 - [Version Control](#version-control)
 - [YouTube](#youtube)
-   - [YouTube Channels to Learn R](#youtube-channels-to-learn-r)
+   - [YouTube Channels](#youtube-channels)
    - [YouTube Playlists for Learning R](#youtube-playlists-for-learning-r)
 - [Courses](#courses)
    - [Free Certification Courses](#free-certification-courses)
