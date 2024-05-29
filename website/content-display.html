@@ -1,108 +1,167 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README Content</title>
+    <title>README Renderer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
     <style>
-        #project-title {
-    text-align: center;
-    font-size: 48px; /* Adjust size as needed */
-    margin-top: 20px;
-    font-family: 'Arial', sans-serif;
-}
-.dark-mode {
-            background-color: #333;
-            color: white;
-        }
-        .light-mode {
-            background-color: white;
-            color: black;
-        }
-        /* Toggle button style */
-        .toggle-button {
-            position: fixed;
-            top: 10px;
-            right: 10px;
-            background: #f6f8fa;
-            border: none;
-            padding: 10px 20px;
-            cursor: pointer;
-            border-radius: 5px;
-        }
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
-            max-width: 900px;
-            margin: auto;
-        }
-        h1, h2, h3 {
-            border-bottom: 1px solid #eaecef;
-            padding-bottom: 0.3em;
-        }
-        code {
-            background-color: #f6f8fa;
-            padding: 0.2em 0.4em;
-            margin: 0;
-            font-size: 85%;
-            border-radius: 3px;
-        }
-        pre {
-            background-color: #f6f8fa;
-            padding: 16px;
-            overflow: auto;
-            line-height: 1.45;
-            border-radius: 3px;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        a {
-            color: #0366d6;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
         }
     </style>
+    <link rel="shortcut icon" href="/ResourceHub/website/assets/logo.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="mainstyle.css">
 </head>
+
 <body class="light-mode">
-    <button class="toggle-button" id="dark-mode-toggle">Toggle Dark Mode</button>
-    <h1 id="project-title">project title</h1>
-    <p id="project-description">Project description goes here...</p>
-
-    <h2>Installation</h2>
-    <pre><code>git clone https://github.com/your-username/your-repo.git</code></pre>
-
-    <h2>Usage</h2>
-    <p>Instructions on how to use the project after installation.</p>
-
-    <h2>Contributing</h2>
-    <ul>
-        <li>Fork the repository</li>
-        <li>Create your feature branch: <code>git checkout -b my-new-feature</code></li>
-        <li>Commit your changes: <code>git commit -am 'Add some feature'</code></li>
-        <li>Push to the branch: <code>git push origin my-new-feature</code></li>
-        <li>Submit a pull request</li>
-    </ul>
-
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE">LICENSE.md</a> file for details</p>
-
+    <nav
+        class="content-display-nav dark-mode sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-black">
+        <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm">
+            <div class="flex justify-between mt-4 items-center">
+                <div class="flex items-center flex-shrink-0">
+                    <img class="h-10 w-10 mr-2" src="./assets/logo.png" alt="Logo" />
+                    <span class="text-xl tracking-tight cursor-pointer hover-effect ">ResourceHub</span>
+                </div>
+                <!-- Dark mode toggle icon -->
+                <button id="dark-mode-toggle" class="ml-4 hover-effect cursor-pointer toggle-button">
+                    <svg width="64px" height="64px" viewBox="-9.36 -9.36 42.72 42.72" xmlns="http://www.w3.org/2000/svg"
+                        aria-labelledby="nightModeIconTitle" stroke="#ffffff" stroke-width="1.128"
+                        stroke-linecap="square" stroke-linejoin="miter" fill="none" color="#000000">
+                        <g id="SVGRepo_bgCarrier" stroke-width="0">
+                            <rect x="-9.36" y="-9.36" width="42.72" height="42.72" rx="21.36" fill="#000000"
+                                strokewidth="0"></rect>
+                        </g>
+                        <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC"
+                            stroke-width="0.288"></g>
+                        <g id="SVGRepo_iconCarrier">
+                            <title id="nightModeIconTitle">Night Mode</title>
+                            <path d="M12 19a7 7 0 1 0 0-14 7 7 0 0 0 0 14z"></path>
+                            <path
+                                d="M15.899 12.899a4 4 0 0 1-4.797-4.797A4.002 4.002 0 0 0 12 16c1.9 0 3.49-1.325 3.899-3.101z">
+                            </path>
+                            <path d="M12 5V3M12 21v-2"></path>
+                            <path
+                                d="M5 12H2h3zM22 12h-3 3zM16.95 7.05L19.07 4.93 16.95 7.05zM4.929 19.071L7.05 16.95 4.93 19.07zM16.95 16.95l2.121 2.121-2.121-2.121zM4.929 4.929L7.05 7.05 4.93 4.93z">
+                            </path>
+                        </g>
+                    </svg>
+                </button>
+                <!-- End dark mode toggle icon -->
+                <ul class="hidden-mobile ml-14 space-x-12">
+                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+                        <a href="/">Home</a>
+                    </li>
+                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+                        <a href="about.html">About</a>
+                    </li>
+                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+                        <a href="/">Services</a>
+                    </li>
+                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+                        <a href="/">Contact</a>
+                    </li>
+                </ul>
+                <div class="hidden-desktop text-blue md:flex flex-col justify-end">
+                    <button id="toggle-navbar">
+                        <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
+                            viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                        <svg id="close-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="none"
+                            viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div id="mobile-drawer"
+                class="hidden text-white backdrop-blur opacity-85 fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
+                <ul>
+                    <li class="py-4 hover-effect">
+                        <a href="/">Home</a>
+                    </li>
+                    <li class="py-4 hover-effect">
+                        <a href="about.html">About</a>
+                    </li>
+                    <li class="py-4 hover-effect">
+                        <a href="/">Services</a>
+                    </li>
+                    <li class="py-4 hover-effect">
+                        <a href="/">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="light-mode content-display">
+        <h1 id="project-title">project title</h1>
+        <div class="light-mode content-display markdown-body" id="readme-content">
+            <!-- README content will be injected here -->
+        </div>
+        <h2>Installation</h2>
+        <pre><code>git clone https://github.com/your-username/your-repo.git</code></pre>
+        <h2>Usage</h2>
+        <p>Instructions on how to use the project after installation.</p>
+        <h2>Contributing</h2>
+        <ul>
+            <li>Fork the repository</li>
+            <li>Create your feature branch: <code>git checkout -b my-new-feature</code></li>
+            <li>Commit your changes: <code>git commit -am 'Add some feature'</code></li>
+            <li>Push to the branch: <code>git push origin my-new-feature</code></li>
+            <li>Submit a pull request</li>
+        </ul>
+        <h2>License</h2>
+        <p>This project is licensed under the MIT License - see the <a
+                href="https://github.com/jfmartinz/ResourceHub/blob/main/LICENSE">LICENSE.md</a> file for details</p>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
-          // Dark mode toggle script
+        // Dark mode toggle script
         const toggleButton = document.getElementById('dark-mode-toggle');
-        toggleButton.addEventListener('click', function() {
+
+        toggleButton.addEventListener('click', function () {
+            // Toggle dark mode class on body
             document.body.classList.toggle('dark-mode');
             document.body.classList.toggle('light-mode');
+
+
+            // Toggle dark mode class on content-display
+            const contentDisplay = document.querySelector('.content-display');
+            contentDisplay.classList.toggle('dark-mode');
+            contentDisplay.classList.toggle('light-mode');
         });
         // Retrieve README content from sessionStorage
         const readmeContent = sessionStorage.getItem('readmeContent');
         const filename = sessionStorage.getItem('filename');
         document.getElementById('project-title').innerHTML = filename;
         // Decode and render the README content in the div
-        document.getElementById('project-description').innerHTML = readmeContent;
+        document.getElementById('readme-content').innerHTML = marked.parse(readmeContent);
+        console.log(readmeContent);
+
+
+
+        // TOGGLE NAVBAR SCRIPT
+
+        const toggleNavbarButton = document.getElementById('toggle-navbar');
+        const mobileDrawer = document.getElementById('mobile-drawer');
+        const menuIcon = document.getElementById('menu-icon');
+        const closeIcon = document.getElementById('close-icon');
+
+        toggleNavbarButton.addEventListener('click', () => {
+            mobileDrawer.classList.toggle('hidden');
+            menuIcon.classList.toggle('hidden');
+            closeIcon.classList.toggle('hidden');
+        });
     </script>
 </body>
+
 </html>

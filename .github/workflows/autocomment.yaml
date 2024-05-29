@@ -10,11 +10,11 @@ permissions:
 
 jobs:
   comment:
-    runs-on: ubuntu-latest
     if: github.event.pull_request.merged == true
-
+    runs-on: ubuntu-latest
+    
     steps:
-    - name: Add Comment to Issue
+    - name: Add Comment to Merged PR
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |

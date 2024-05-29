@@ -46,69 +46,67 @@ This section serves as a curated collection of valuable resources for learning a
 ### Tutorials
 > Here are the tutorial guides which can help you to develop and enhance your coding skills
 
-#### Introduction
-
 <table width="100%">
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/getting-started">Programiz - Learn C Programming</a></td>
+    <td><a href="https://www.programiz.com/c-programming/getting-started">Getting Started with C</a></td>
     <td>A comprehensive tutorial series covering the basics of C programming, including syntax, data types, control structures, and functions.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/history-of-c-language/">Scaler - History of C Programming Language</a></td>
+    <td><a href="https://www.scaler.com/topics/c/history-of-c-language/">History of C Languages</a></td>
     <td>An article providing insights into the origins and evolution of the C programming language.</td>
   </tr>
   <tr>
-    <td><a href="https://www.geeksforgeeks.org/features-of-c-programming-language/?ref=lbp">GeeksforGeeks - Features of C Programming Language</a></td>
+    <td><a href="https://www.geeksforgeeks.org/features-of-c-programming-language/?ref=lbp">Features of C Programming Language</a></td>
     <td>An article highlighting the key features and characteristics of the C programming language.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/importance-of-c-language/"> - Importance of C Programming Language</a></td>
+    <td><a href="https://www.scaler.com/topics/c/importance-of-c-language/">Importance of C Programming Language</a></td>
     <td>An informative resource discussing the significance and applications of the C programming language in various domains.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_environment_setup.htm">Tutorialspoint- Setting up C Environment</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_environment_setup.htm"> Setting up C Environment</a></td>
     <td>A step-by-step guide on downloading and installing a C/GCC compiler for Windows to set up your development environment.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/first-program">Programiz - Your First C Program</a></td>
+    <td><a href="https://www.programiz.com/c-programming/first-program">Your First C Program</a></td>
     <td>A tutorial guiding you through writing and understanding your first C program, typically starting with the classic "Hello, World!" example.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/comments">Programiz - C Comments</a></td>
+    <td><a href="https://www.programiz.com/c-programming/comments">C Comments</a></td>
     <td>An overview of how to add comments to your C code for better readability and documentation purposes.</td>
   </tr>
   <tr>
-    <td><a href="https://www.geeksforgeeks.org/difference-between-compiler-and-interpreter/">GeeksforGeeks - Difference Between Compiler and Interpreter</a></td>
+    <td><a href="https://www.geeksforgeeks.org/difference-between-compiler-and-interpreter/">Difference Between Compiler and Interpreter</a></td>
     <td>An article explaining the distinction between compilers and interpreters and how they execute code differently.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_program_structure.htm">Tutorialspoint - C Program Structure</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_program_structure.htm"> C Program Structure</a></td>
     <td>An explanation of the structure of a C program, including the main function and other essential components.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_compilation_process.htm">Tutorialspoint - C Compilation Process</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_compilation_process.htm">C Compilation Process</a></td>
     <td>An overview of the compilation process in C programming, from source code to executable.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/tokens-in-c/">Scaler - Tokens in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/tokens-in-c/">Tokens in C</a></td>
     <td>An article explaining the concept of tokens in C programming, including identifiers, keywords, constants, and operators.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_keywords.htm">Tutorialspoint - C Keywords</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_keywords.htm">C Keywords</a></td>
     <td>A list of reserved keywords in the C programming language and their meanings.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/identifiers-in-c/">Scaler - Identifiers in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/identifiers-in-c/">Identifiers in C</a></td>
     <td>An explanation of identifiers in C programming and their rules for naming.</td>
   </tr>
 </table>
 </table>
 
-#### Fundamentals
+### Fundamentals
 
 <table>
   <tr>
@@ -116,95 +114,95 @@ This section serves as a curated collection of valuable resources for learning a
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm">Tutorialspoint - C Basic Syntax</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm"> C Basic Syntax</a></td>
     <td>An overview of the basic syntax of the C programming language, covering structure, comments, and statements.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-variables-constants">Programiz - C Variables, Constants, and Literals</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-variables-constants"> C Variables, Constants, and Literals</a></td>
     <td>A comprehensive guide to variables, constants, and literals in C programming, including their definitions, usage, and examples.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-input-output">Programiz - C Input Output (I/O)</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-input-output">C Input Output (I/O)</a></td>
     <td>An introduction to handling basic input and output operations in C programming, covering functions like printf and scanf.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/data-types-in-c/">Scaler - Data Types in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/data-types-in-c/">Data Types in C</a></td>
     <td>An explanation of various data types in C programming, including integer, float, character, and void.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-operators">Programiz - C Operators</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-operators">C Operators</a></td>
     <td>An overview of different operators in C programming, including arithmetic, relational, logical, bitwise, and assignment operators.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/implicit-type-conversion-in-c/">Scaler - Implicit Type Conversion in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/implicit-type-conversion-in-c/">Implicit Type Conversion in C</a></td>
     <td>An article explaining implicit type conversion in C programming and how it affects the evaluation of expressions.</td>
   </tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/if_statement_in_c.htm">Tutorialspoint - if statement in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/if_statement_in_c.htm"> if statement in C</a></td>
     <td>An introduction to the if statement in C programming, which allows executing a block of code based on a condition.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/if-else-statement-in-c/">Scaler - if...else statement in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/if-else-statement-in-c/">if...else statement in C</a></td>
     <td>An article explaining the if...else statement in C programming, used to execute different blocks of code based on different conditions.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/nested-if-else-statement-in-c/">Scaler - nested if statements in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/nested-if-else-statement-in-c/">nested if statements in C</a></td>
     <td>An explanation of nested if statements in C programming, allowing multiple levels of conditional execution.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/switch_statement_in_c.htm">Tutorialspoint - switch statement in C</a></td>
-    <td>An introduction to the switch statement in C programming, used for multi-way decision-making based on a value.</td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/switch_statement_in_c.htm">switch statement in C</a></td>
+    <td>An introduction to the switch statement in C programming, used for multi-way decision making based on a value.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/nested_switch_statements_in_c.htm">Tutorialspoint - nested switch statements in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/nested_switch_statements_in_c.htm">nested switch statements in C</a></td>
     <td>An explanation of nested switch statements in C programming, allowing multiple levels of switch statements within each other.</td>
   </tr>
   <tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_loops.htm">Tutorialspoint - Loops in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_loops.htm">Loops in C</a></td>
     <td>An overview of different types of loops in C programming, including while, for, and do...while loops.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_while_loop.htm">Tutorialspoint - While loop in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_while_loop.htm"> While loop in C</a></td>
     <td>An introduction to the while loop in C programming, used for repeated execution of a block of code while a condition is true.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-for-loop">Programiz - For loop in C</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-for-loop"> For loop in C</a></td>
     <td>A tutorial explaining the for loop in C programming, used for iterating over a sequence of statements a fixed number of times.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/do-while-loop-in-c/">Scaler - Do...while loop in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/do-while-loop-in-c/"> Do...while loop in C</a></td>
     <td>An article discussing the do...while loop in C programming, used for executing a block of code at least once, then repeating it as long as a condition is true.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_nested_loops.htm">Tutorialspoint - Nested loops in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_nested_loops.htm">Nested loops in C</a></td>
     <td>An explanation of nested loops in C programming, allowing multiple levels of loop execution.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_infinite_loop.htm">Tutorialspoint - Infinite loop in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_infinite_loop.htm"> Infinite loop in C</a></td>
     <td>A guide to creating an infinite loop in C programming, where the loop continues indefinitely.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-break-continue-statement">Programiz - Break and Continue in C</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-break-continue-statement">Break and Continue in C</a></td>
     <td>An overview of the break and continue statements in C programming, used for altering the flow of control within loops.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-goto-statement">Programiz - goto Statement in C</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-goto-statement">goto Statement in C</a></td>
     <td>An explanation of the goto statement in C programming, allowing transferring control to another part of the program.</td>
   </tr>
     <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-functions">Programiz - C Functions</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-functions">C Functions</a></td>
     <td>An introduction to functions in C programming, explaining their syntax, usage, and benefits for modular code.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-recursion">Programiz - C Recursion</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-recursion">C Recursion</a></td>
     <td>A guide to recursion in C programming, explaining how functions can call themselves and how to use recursion effectively.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_static_variables.htm">Tutorialspoint - Static Variables in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_static_variables.htm">Static Variables in C</a></td>
     <td>An explanation of static variables in C programming, detailing their scope, lifetime, and usage within functions.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_global_variables.htm">Tutorialspoint - Global Variables in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_global_variables.htm">Global Variables in C</a></td>
     <td>An overview of global variables in C programming, explaining their scope, lifetime, and how they can be accessed throughout the program.</td>
   </tr>
 </table>
@@ -218,32 +216,32 @@ This section serves as a curated collection of valuable resources for learning a
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-arrays">Programiz - C Arrays</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-arrays"> C Arrays</a></td>
     <td>An introduction to arrays in C programming, explaining their definition, declaration, initialization, and usage.</td>
   </tr>
   <tr>
-    <td><a href="https://www.geeksforgeeks.org/multidimensional-arrays-in-c/?ref=lbp">GeeksforGeeks - Multidimensional Arrays in C</a></td>
+    <td><a href="https://www.geeksforgeeks.org/multidimensional-arrays-in-c/?ref=lbp">Multidimensional Arrays in C</a></td>
     <td>A guide to using multidimensional arrays in C programming, covering their declaration, initialization, and access methods.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-arrays-functions">Programiz - Pass Arrays to a Function in C</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-arrays-functions">Pass Arrays to a Function in C</a></td>
     <td>An article explaining how to pass arrays as arguments to functions in C programming and how to manipulate them within the function.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_return_arrays_from_function.htm">Tutorialspoint - Return Array from Function in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_return_arrays_from_function.htm">Return Array from Function in C</a></td>
     <td>An explanation of how to return arrays from functions in C programming, including examples and best practices.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_variable_length_arrays.htm">Tutorialspoint - Variable Length Arrays in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_variable_length_arrays.htm">Variable Length Arrays in C</a></td>
     <td>A guide to variable length arrays in C programming, explaining their declaration, initialization, and use cases.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/dynamic-array-in-c/">Scaler - Dynamic Array in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/dynamic-array-in-c/">Dynamic Array in C</a></td>
     <td>An introduction to dynamic arrays in C programming, covering their allocation, reallocation, and deallocation using pointers.</td>
   </tr>
 </table>
 
-#### Strings in C
+### Strings in C
 
 <table>
   <tr>
@@ -251,28 +249,28 @@ This section serves as a curated collection of valuable resources for learning a
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-strings">Programiz - Strings in C</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-strings">Strings in C</a></td>
     <td>An introduction to strings in C programming, explaining their definition, initialization, and common operations.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_array_of_strings.htm">Tutorialspoint - Array of Strings in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_array_of_strings.htm"> Array of Strings in C</a></td>
     <td>A guide on how to create and manage arrays of strings in C programming, including examples and best practices.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/string-comparison-in-c/">Scaler - String Comparison in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/string-comparison-in-c/">String Comparison in C</a></td>
     <td>An article explaining how to compare strings in C programming using various methods and functions.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/string-functions-in-c/">Scaler - String Functions in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/string-functions-in-c/">String Functions in C</a></td>
     <td>An overview of the standard library functions available in C for string manipulation, such as `strlen`, `strcpy`, `strcat`, and more.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-string-examples">Programiz - String Examples in C</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-string-examples">String Examples in C</a></td>
     <td>A collection of practical examples demonstrating various string operations in C programming.</td>
   </tr>
 </table>
 
-#### Pointers in C
+### Pointers in C
 
 <table>
   <tr>
@@ -280,32 +278,32 @@ This section serves as a curated collection of valuable resources for learning a
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-pointers">Programiz - C Pointers</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-pointers">C Pointers</a></td>
     <td>An introduction to pointers in C, explaining their syntax, usage, and fundamental concepts.</td>
   </tr>
   <tr>
-    <td><a href="https://www.geeksforgeeks.org/function-pointer-in-c/?ref=lbp">GeeksforGeeks - Function Pointer in C</a></td>
+    <td><a href="https://www.geeksforgeeks.org/function-pointer-in-c/?ref=lbp">Function Pointer in C</a></td>
     <td>A detailed guide on function pointers in C, including their declaration, usage, and practical applications.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_pointers_and_arrays.htm">Tutorialspoint - Pointers and Arrays in C</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_pointers_and_arrays.htm">Pointers and Arrays in C</a></td>
     <td>An explanation of the relationship between pointers and arrays in C programming, with examples.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-pointer-functions">Programiz - C Pass Addresses and Pointers</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-pointer-functions">C Pass Addresses and Pointers</a></td>
     <td>A guide on passing addresses and pointers to functions in C, illustrating how to manipulate data efficiently.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-dynamic-memory-allocation">Programiz - Dynamic Memory Allocation in C</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-dynamic-memory-allocation"> Dynamic Memory Allocation in C</a></td>
     <td>An overview of dynamic memory allocation in C, covering functions like `malloc`, `calloc`, `realloc`, and `free`.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-pointer-examples">Programiz - C Array and Pointer Examples</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-pointer-examples">C Array and Pointer Examples</a></td>
     <td>A collection of examples demonstrating the use of pointers with arrays in C programming.</td>
   </tr>
 </table>
 
-#### C Structure and Union
+### C Structure and Union
 
 
 <table>
@@ -314,41 +312,40 @@ This section serves as a curated collection of valuable resources for learning a
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_structures.htm">Tutorialspoint - C Structures</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_structures.htm">C Structures</a></td>
     <td>An introduction to structures in C programming, covering how to define, declare, and use structures to manage complex data.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-structures-pointers">Programiz - C structs and Pointers</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-structures-pointers">C structs and Pointers</a></td>
     <td>A guide on how to use pointers with structures in C programming, including accessing and modifying structure members using pointers.</td>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-structure-function">Programiz - C Structure and Function</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-structure-function">C Structure and Function</a></td>
     <td>An explanation of how to pass structures to functions in C programming, including passing by value and by reference.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/c_unions.htm">Tutorialspoint - C Unions</a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/c_unions.htm">C Unions</a></td>
     <td>An overview of unions in C programming, explaining how to define, declare, and use unions to manage different data types in the same memory location.</td>
   </tr>
 </table>
 
 #### File Management
 
-
 <table>
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.programiz.com/c-programming/c-file-input-output">Programiz - File Handling in C</a></td>
+    <td><a href="https://www.programiz.com/c-programming/c-file-input-output">File Handling in C</a></td>
     <td>An introduction to file handling in C, covering file operations such as opening, reading, writing, and closing files.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/error-handling-in-c/">Scaler - Error Handling in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/error-handling-in-c/">Error Handling in C</a></td>
     <td>A guide on managing errors in C programming, including strategies for detecting and handling file-related errors.</td>
   </tr>
   <tr>
-    <td><a href="https://www.scaler.com/topics/c/random-access-file-in-c/">Scaler - Random Access File in C</a></td>
+    <td><a href="https://www.scaler.com/topics/c/random-access-file-in-c/">Random Access File in C</a></td>
     <td>An overview of random access files in C, explaining how to read and write data at specific locations within a file.</td>
   </tr>
 </table>
@@ -359,7 +356,7 @@ This section serves as a curated collection of valuable resources for learning a
 
 <table>
   <tr>
-    <th>Resource Name</th>
+    <th>Tool/IDE</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -389,7 +386,7 @@ This section serves as a curated collection of valuable resources for learning a
 
 <table>
   <tr>
-    <th>Resource Name</th>
+    <th>Editor/Compiler</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -413,32 +410,31 @@ This section serves as a curated collection of valuable resources for learning a
 ### C Projects
 > Here are some great ideas for projects in C from beginner level to the advance level.
 
-#### Beginner Level Projects
-
+### Beginner level projects
    <table>
         <tr>
             <th>Resource Name</th>
             <th>Description</th>
         </tr>
         <tr>
-          <td><a href="https://www.codewithc.com/rock-paper-scissors-game-in-c/" >Rock Paper Scissors in C</a></td>
-            <td>A simple game of chance that practices basic logic and user input.</td>   
+            <td><a href="https://www.codewithc.com/rock-paper-scissors-game-in-c/" >Rock Paper Scissors in C</a></td>
+            <td>A simple game of chance that practices basic logic and user input.</td>
         </tr>
         <tr>
-           <td><a href="https://www.youtube.com/watch?v=GpYp2-4mcCM" >Guessing Game in C - YouTube</a></td>
+            <td><a href="https://www.youtube.com/watch?v=GpYp2-4mcCM" >Guessing Game in C - YouTube</a></td>
             <td>The computer generates a random number and the user has to guess it within a certain number of tries. This helps with loops and conditional statements.</td>
         </tr>
         <tr>
-           <td><a href="https://www.geeksforgeeks.org/hangman-game-in-c/" >Hangman in C - GFG</a></td>
-            <td>The user tries to guess a word by suggesting letters, one at a time. Introduces string manipulation and arrays.</td>        
+            <td><a href="https://www.geeksforgeeks.org/hangman-game-in-c/" >Hangman in C - GFG</a></td>
+            <td>The user tries to guess a word by suggesting letters, one at a time. Introduces string manipulation and arrays.</td>
         </tr>
         <tr>
             <td><a href="https://www.youtube.com/watch?v=gQb3dE-y1S4" >Tic-Tac-Toe in C - YouTube</a></td>
-            <td>A two-player game where players take turns marking the spaces in a 3x3 grid. Practices working with 2D arrays and user interaction.</td> 
+            <td>A two-player game where players take turns marking the spaces in a 3x3 grid. Practices working with 2D arrays and user interaction.</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Ishtiak-Ahmed/Snakes-and-Ladders-Game-in-C" >Snakes and Ladders in C - GitHub</a></td>
-            <td>A classic board game with elements of luck and strategy. Involves using random number generation and control flow.</td>       
+            <td>A classic board game with elements of luck and strategy. Involves using random number generation and control flow.</td>
         </tr>
         <tr>
             <td><a href="https://www.programiz.com/c-programming/examples/calculator-switch-case" >Simple Calculator in C</a></td>
@@ -446,62 +442,67 @@ This section serves as a curated collection of valuable resources for learning a
         </tr>
         <tr>
             <td><a href="https://www.includehelp.com/c-programs/length-conversion-unit-conversion-in-c.aspx" >Unit Converter in C</a></td>
-            <td>Converts between different units of measurement (e.g., centimeters to inches, Celsius to Fahrenheit). Introduces functions and working with different data types.</td>      
+            <td>Converts between different units of measurement (e.g., centimeters to inches, Celsius to Fahrenheit). Introduces functions and working with different data types.</td>
         </tr>
         <tr>
             <td><a href="https://www.geeksforgeeks.org/c-program-count-number-words-characters-digits-spaces-special-characters/" >Text Analyzer in C - GFG</a></td>
-            <td>Reads a text file and counts the number of words, characters, or lines. Practices file handling and basic string manipulation.</td>   
+            <td>Reads a text file and counts the number of words, characters, or lines. Practices file handling and basic string manipulation.</td>
         </tr>
         <tr>
             <td><a href="https://www.youtube.com/watch?v=zm0oEZiH16A" >Currency Converter in C - YouTube</a></td>
             <td>Converts between different currencies based on exchange rates. Involves working with floats and user input.</td>
         </tr>
+        <tr>
+            <td>Calendar</td>
+            <td>Displays month by month calendar for a given year . Involves working with functions and control statements.</td>
+            <td><a href="https://www.geeksforgeeks.org/c-program-to-display-month-by-month-calendar-for-a-given-year/">Calendar in C - website</a></td>
+        </tr>
     </table>
 
 #### Intermediate Level Projects
     
-<table>
+<table width="100%">
         <tr>
-          <th>Resource Name</th>
-            <th>Description</th>    
+            <th>Project</th>
+            <th>Description</th>
         </tr>
         <tr>
-            <td><a href="https://www.youtube.com/watch?v=_7Q-zc1w_mQ">Snake Game - YouTube Tutorial (CS Dojo)</a><br><a href="https://github.com/topics/snake-game-in-c">GitHub Repository (Basic implementation)</a></td>
+            <td><a href="https://www.youtube.com/watch?v=_7Q-zc1w_mQ">Snake Game - YouTube Tutorial (CS Dojo)</a><a href="https://github.com/topics/snake-game-in-c">Snake Game - GitHub Repository (Basic implementation)</a></td>
             <td>A classic game where a snake moves around the screen eating food and avoiding obstacles.</td>
         </tr>
         <tr>
-            <td><a href="https://m.youtube.com/watch?v=j1mDa-6f-e8">Tetris - YouTube Tutorial (The Coding Train)</a><br><a href="https://codereview.stackexchange.com/questions/136406/tetris-in-c-in-200-lines">Website with C Code Example (Cuplikan)</a></td>
-            <td>A challenging puzzle game where players fit falling Tetriminos (geometric shapes) together.</td>   
+            <td><a href="https://m.youtube.com/watch?v=j1mDa-6f-e8">Tetris - YouTube Tutorial (The Coding Train)</a><a href="https://codereview.stackexchange.com/questions/136406/tetris-in-c-in-200-lines">Tetris - Website with C Code Example (Cuplikan)</a></td>
+            <td>A challenging puzzle game where players fit falling Tetriminos (geometric shapes) together.</td>
         </tr>
         <tr>
-            <td><a href="https://www.nesoacademy.org/pl/02-c-programming">Traffic Light Simulator - Blog with C Code Example (Neso Academy)</a><br><a href="https://www.geeksforgeeks.org/project-idea-traffic-signal-control-automatic/">Article with Explanation (GeeksforGeeks)</a></td>
+            <td><a href="https://www.nesoacademy.org/pl/02-c-programming">Traffic Light Simulator - Blog with C Code Example (Neso Academy)</a><a href="https://www.geeksforgeeks.org/project-idea-traffic-signal-control-automatic/">Traffic Light Simulator - Article with Explanation (GeeksforGeeks)</a></td>
             <td>Simulate the traffic flow at an intersection with different light timings.</td>
         </tr>
         <tr>
-            <td><a href="https://m.youtube.com/watch?v=ovooX4sVSfs">Library Management System - YouTube Tutorial (freeCodeCamp.org)</a><br><a href="https://github.com/arpit456jain">GitHub Repository (Basic example with file handling)</a></td>
+            <td><a href="https://m.youtube.com/watch?v=ovooX4sVSfs">Library Management System - YouTube Tutorial (freeCodeCamp.org)</a><a href="https://github.com/arpit456jain">Library Management System - GitHub Repository (Basic example with file handling)</a></td>
             <td>Create a system to track books in a library, including adding, borrowing, and returning books.</td>
         </tr>
         <tr>
-            <td><a href="https://www.programiz.com/cpp-programming/examples"> Student Database System - Website with C Code Example (Programiz)</a><br><a href="https://www.javatpoint.com/student-record-system-in-c">Article with Explanation (TutorialsPoint)</a></td>
+            <td><a href="https://www.programiz.com/cpp-programming/examples">Student Database System - Website with C Code Example (Programiz)</a><a href="https://www.javatpoint.com/student-record-system-in-c">Student Database System- Article with Explanation (TutorialsPoint)</a></td>
             <td>Develop a system to store and manage student information (grades, attendance, etc.).</td>
         </tr>
         <tr>
-            <td><a href="https://www.youtube.com/@TheCherno">Drawing Program - YouTube Tutorial (The Cherno)</a><br><a href="https://paroj.github.io/gltut/">Website with Code Example (Learn by Doing)</a></td>
+            <td><a href="https://www.youtube.com/@TheCherno">Drawing Program - YouTube Tutorial (The Cherno)</a><hr><a href="https://paroj.github.io/gltut/">Drawing Program- Website with Code Example (Learn by Doing)</a></td>
             <td>Build a drawing program progressively.</td>
         </tr>
         <tr>
-             <td><a href="https://medium.devleader.ca/generate-ascii-art-a-simple-how-to-in-c-1b3f53a972f0">ASCII Art Generator - Blog with C Code Example (Medium)</a><br><a href="https://github.com/topics/ascii-art-generator">GitHub Repository (More advanced example with image processing)</a></td>
+            <td><a href="https://medium.devleader.ca/generate-ascii-art-a-simple-how-to-in-c-1b3f53a972f0">ASCII Art Generator- Blog with C Code Example (Medium)</a><hr><a href="https://github.com/topics/ascii-art-generator">ASCII Art Generator- GitHub Repository (More advanced example with image processing)</a></td>
             <td>Generate ASCII Art from Images in C.</td>
         </tr>
         <tr>
-            <td><a href="https://www.youtube.com/watch?v=TrR-suFO4to">Simple Text Editor - YouTube Tutorial (freeCodeCamp.org)</a><br><a href="https://www.programiz.com/c-programming/online-compiler/">Website with C Code (Programiz)</a></td>
+            <td><a href="https://www.youtube.com/watch?v=TrR-suFO4to">Simple Text Editor - YouTube Tutorial (freeCodeCamp.org)</a><hr><a href="https://www.programiz.com/c-programming/online-compiler/">Simple Text Editor - Website with C Code (Programiz)</a></td>
             <td>Implement basic text editing functionalities.</td>
         </tr>
         <tr>
     </table>
     
 
-#### Advance Level Projects
+### Advance Level Projects
 
 <table>
         <tr>
@@ -509,31 +510,31 @@ This section serves as a curated collection of valuable resources for learning a
             <th>Description</th>
         </tr>
         <tr>
-          <td><a href="https://github.com/farbodahm/chrome-dinosaur">Dino Game - GitHub Repository</a></td>
+            <td><a href="https://github.com/farbodahm/chrome-dinosaur">Dino Game - GitHub Repository</a></td>
             <td>Dino Game is a simple 2D game where a dino player runs passing on all the hurdles.</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/rolandbernard/nopiano/">Virtual Piano - GitHub Repository</a></td>
+                    <td><a href="https://github.com/rolandbernard/nopiano/">Virtual Piano - GitHub Repository</a></td>
             <td>A virtual piano is a musical instrument that produces different sounds when keys are pressed.</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/sanifalimomin/C-Syntax-Checker">Syntax Checker - GitHub Repository</a></td>
+           <td><a href="https://github.com/sanifalimomin/C-Syntax-Checker">Syntax Checker - GitHub Repository</a></td>
             <td>A syntax checker application used to check the correctness of syntax in a given language.</td>
         </tr>
         <tr>
-           <td><a href="https://github.com/mevdschee/2048.c">2048 Game - GitHub Repository</a></td>
+            <td><a href="https://github.com/mevdschee/2048.c">2048 Game - GitHub Repository</a></td>
             <td>A game with the functionality of the 2048 game implemented using C programming language.</td>
         </tr>
         <tr>
-          <td><a href="https://stackoverflow.com/questions/59692635/how-can-i-do-a-rpn-calculation-in-a-stack">Simple Calculator with RPN (Reverse Polish Notation) - Stack Overflow</a></td>
-            <td>A simple calculator that uses Reverse Polish Notation for calculations.</td>  
+            <td><a href="https://stackoverflow.com/questions/59692635/how-can-i-do-a-rpn-calculation-in-a-stack">Simple Calculator with RPN (Reverse Polish Notation) - Stack Overflow</a></td>
+            <td>A simple calculator that uses Reverse Polish Notation for calculations.</td>
         </tr>
         <tr>
-          <td><a href="https://www.youtube.com/watch?v=67k3I2GxTH8">Sorting Algorithm Visualization - YouTube Video</a></td>
+            <td><a href="https://www.youtube.com/watch?v=67k3I2GxTH8">Sorting Algorithm Visualization - YouTube Video</a></td>
             <td>Visualizes different sorting algorithms to understand their working.</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/kaworu/JamesM">Web Server - GitHub Repository</a><hr /><a href="https://www.jamesmolloy.co.uk/tutorial_html/">Website with C Code</a></td>
+            <td><a href="https://github.com/kaworu/JamesM">Web Server - GitHub Repository</a><a href="https://www.jamesmolloy.co.uk/tutorial_html/">Web Server - Website with C Code</a></td>
             <td>Building a simple web server in C programming language.</td>
         </tr>
     </table>
@@ -590,43 +591,43 @@ This section serves as a curated collection of valuable resources for learning a
 
 <table>
   <tr>
-    <th>Resource Name</th>
+    <th>Course</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7">Introduction to Computer Science and Programming in C - edX</a></td>
+    <td><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7"> Edx - Introduction to Computer Science and Programming in C</a></td>
     <td>Offered by Massachusetts Institute of Technology (MIT)</td>
   </tr>
   <tr>
-    <td><a href="https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming">C Programming: Language Foundations - edX</a></td>
+    <td><a href="https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming"> Edx - C Programming: Language Foundations</a></td>
     <td>Offered by Dartmouth College</td>
   </tr>
   <tr>
-    <td><a href="https://www.coursera.org/learn/c-programming">C for Everyone: Structured Programming - Coursera</a></td>
+    <td><a href="https://www.coursera.org/learn/c-programming">Coursera - C for Everyone: Structured Programming</a></td>
     <td>Offered by University of California, Santa Cruz</td>
   </tr>
   <tr>
-    <td><a href="https://www.coursera.org/learn/c-programming">C Programming: Getting Started - Coursera</a></td>
+    <td><a href="https://www.coursera.org/learn/c-programming">Coursera - C Programming: Getting Started</a></td>
     <td>Offered by Duke University</td>
   </tr>
   <tr>
-    <td><a href="https://www.udemy.com/course/c-programming-for-beginners-">C Programming For Beginners - Udemy</a></td>
+    <td><a href="https://www.udemy.com/course/c-programming-for-beginners-">Udemy - C Programming For Beginners</a></td>
     <td>By Tim Buchalka's Learn Programming Academy</td>
   </tr>
   <tr>
-    <td><a href="https://www.udemy.com/course/c-programming-for-beginners-">C Programming For Beginners - Master the C Language - Udemy</a></td>
+    <td><a href="https://www.udemy.com/course/c-programming-for-beginners-">Udemy - C Programming For Beginners - Master the C Language</a></td>
     <td>By Tim Buchalka's Learn Programming Academy</td>
   </tr>
   <tr>
-    <td><a href="https://www.codecademy.com/learn/learn-c">Learn C - Codecademy</a></td>
+    <td><a href="https://www.codecademy.com/learn/learn-c">Learn C</a></td>
     <td>Offered by Codecademy</td>
   </tr>
   <tr>
-    <td><a href="https://www.pluralsight.com/courses/c-fundamentals-c99">C Fundamentals with C99 - Pluralsight</a></td>
+    <td><a href="https://www.pluralsight.com/courses/c-fundamentals-c99">Pluralsight - C Fundamentals with C99</a></td>
     <td>By David Chisnall</td>
   </tr>
   <tr>
-    <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm">Introduction to Computer Science and Programming in C - MIT OpenCourseWare</a></td>
+    <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm">MIT OpenCourseWare - Introduction to Computer Science and Programming in C</a></td>
     <td>Offered by Massachusetts Institute of Technology (MIT)</td>
   </tr>
 </table>
@@ -636,7 +637,7 @@ This section serves as a curated collection of valuable resources for learning a
 
 <table>
   <tr>
-    <th>Resource Name</th>
+    <th>Platform</th>
     <th>Description</th>
   </tr>
   <tr>
