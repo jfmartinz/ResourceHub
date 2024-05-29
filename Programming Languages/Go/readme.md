@@ -13,7 +13,7 @@ Go, commonly referred to as Golang, is an open-source programming language devel
    - [Concurrency](#concurrency)<br>
    - [Packages and Modules](#packages-and-modules)<br>
    - [Error Handling](#error-handling)<br>
-   - [File I/O and Networking](#file-i-o-and-networking)<br>
+   - [File I/O and Networking](#file-io-and-networking)<br>
    - [Testing](#testing)<br>
    - [Web Development](#web-development)<br>
 - [Tools](#tools)<br>
