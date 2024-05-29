@@ -782,7 +782,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-#### YouTube Playlists for Learning R
+#### YouTube Playlists
 
 <table width="100%">
 <tr>
