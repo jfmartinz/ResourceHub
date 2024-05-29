@@ -2303,7 +2303,6 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <th>Description</th>
       </tr>
       <tr>
-           
         <td><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Deployment">MDN Web Docs</a></td>
         <td>
         The build process · Open the package. · We'll add a build command that we can run to build our code. · You should now be able to run the website.
