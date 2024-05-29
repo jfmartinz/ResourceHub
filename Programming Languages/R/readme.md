@@ -754,7 +754,7 @@ These resources are designed to help you build a strong foundation in R programm
 ### Youtube
 > Here are some youtube channels which you can refer.
 
-#### YouTube Channels to Learn R
+#### YouTube Channels
 <table width="100%">
 <tr>
 <th>Resource Name</th>
