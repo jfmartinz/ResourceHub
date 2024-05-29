@@ -174,14 +174,7 @@
             darkModeToggle.classList.toggle('light-mode');
             body.classList.toggle('night');
         });
-        const toggle_btn = document.querySelector('#checkbox')
-        toggle_btn.addEventListener('change', () => {
-            if(toggle_btn.checked){
-                document.body.classList.add('dark-mode')
-            }else{
-                document.body.classList.remove('dark-mode')
-            }
-        })
+        
         toggleButton.addEventListener('click', function () {
             // Toggle dark mode class on body
             document.body.classList.toggle('dark-mode');
