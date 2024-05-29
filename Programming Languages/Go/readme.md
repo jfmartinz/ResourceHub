@@ -1,4 +1,4 @@
-# Go
+# Go 👨🏻‍💻
 Go, commonly referred to as Golang, is an open-source programming language developed by Google. It was created by Robert Griesemer, Rob Pike, and Ken Thompson and first released in 2009. Go was designed to address criticisms of other languages in use at Google, such as C++ and Java, focusing on simplicity, efficiency, and readability.
 
 ## Table of Contents
@@ -8,12 +8,12 @@ Go, commonly referred to as Golang, is an open-source programming language devel
    - [Introduction](#introduction)<br>
    - [Fundamentals](#fundamentals)<br>
    - [Functions](#functions)<br>
-   - [Arrays,Slices and Maps](#arrays-,-slices-and-maps)<br>
+   - [Arrays,Slices and Maps](#arrays-slices-and-maps)<br>
    - [Structs and Methods](#structs-and-methods)<br>
    - [Concurrency](#concurrency)<br>
    - [Packages and Modules](#packages-and-modules)<br>
    - [Error Handling](#error-handling)<br>
-   - [File I/O and Networking](#file-i-/-o-and-networking)<br>
+   - [File I/O and Networking](#file-i-o-and-networking)<br>
    - [Testing](#testing)<br>
    - [Web Development](#web-development)<br>
 - [Tools](#tools)<br>
