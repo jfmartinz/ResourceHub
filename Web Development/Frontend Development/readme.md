@@ -28,6 +28,10 @@
 - [Interview Preparation](#interview-preparation)
 - [Books](#books)
 - [Projects](#projects)
+  - [Beginner Projects](#beginner-projects)
+  - [Intermediate Projects](#intermediate-projects)
+  - [Advance Projects](#advance-projects)
+  - [Other Projects](#other-projects)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -1043,6 +1047,74 @@ to everyone - everywhere!</td>
 ### Projects
 
 > These projects helps you to make your hands dirty but building real time frontend projects and gaining experience.
+
+#### Beginner Projects
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+  <tr>
+   <tr>
+    <td><a href="https://github.com/rngueco/intro-component-with-signup-form">Signup form</a></td>
+    <td>This project is built using HTML, Sass, and JavaScript, focusing on creating a responsive design and implementing client-side form validation. Key features include error messaging for empty fields and incorrectly formatted email addresses, and hover states for interactive elements.</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/uzoway/bookmark-landing-page">Bookmark Landing page</a></td>
+    <td>The "Bookmark Landing Page" by Uzoway is a responsive landing page, built using HTML, CSS, and JavaScript. This project is a solution to a Frontend Mentor challenge, designed to improve coding skills through realistic projects. Key features include responsive design, hover states for interactive elements, and form validation with error messages. </td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/SafdarJamal/quiz-app">Quiz application</a></td>
+    <td>This repo by jamal is built with React and Semantic UI, it integrates with the Open Trivia Database API for quiz content. The app supports features like multiple question types, quiz customization, and a responsive design. The repository includes setup instructions, scripts for development, testing, and building the project for production.</td>
+    </tr>
+</table>
+
+#### Intermediate projects
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+  <tr>
+    <tr>
+    <td><a href="https://www.geeksforgeeks.org/typing-speed-tester-using-react/">Typing speed tester</a></td>
+    <td>This article "Typing Speed Tester using React" provides a step-by-step guide to building a typing speed test application with React. It covers creating a React app, setting up components, managing state with hooks, and implementing the logic to calculate typing speed. The tutorial also includes code snippets and explanations for each part of the application.</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/developeratul/javascript-music-player">Music Player</a></td>
+    <td>This repo helps you to build a web-based music player built with JavaScript, HTML, and CSS. This project demonstrates how to create a functional music player with features like play, pause, skip, and volume control. The repository includes the necessary code and assets for building and running the music player on a web browser.</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/dumbmety/todo-list">Todo list</a></td>
+    <td>This repo helps you to build a fully functional todo list application built with HTML, CSS, and JavaScript. This project allows users to add, delete, and mark tasks as complete. It demonstrates basic CRUD operations and local storage for maintaining the todo list across sessions.</td>
+    </tr>
+</table>
+
+#### Advance projects
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+  <tr>
+   <tr>
+    <td><a href="https://github.com/ksenius/job-listings">Job Listing</a></td>
+    <td>The repository "Job Listings" by Ksenius is a solution to a Frontend Mentor challenge, implementing a job listing application with filtering capabilities. Built with Pug, SCSS, and ES modules, and animated with Anime.js, the project allows users to filter job listings by categories and retain their filter selections even after refreshing the page. </td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/hamedbaatour/minimus">Weather Application</a></td>
+    <td>The repository "Minimus" by Hamed Baatour is a comprehensive Angular weather application designed for production use. It serves as a tutorial, demonstrating the development of a weather app using Angular. The project includes features such as fetching weather data, displaying forecasts, and managing state.</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/SyedZawwarAhmed/Countries-of-the-World">Countries of world (using REST)</a></td>
+    <td>This repo by Syed Zawwar Ahmed is a single-page application that displays information about all countries using a REST API. Users can view countries on the homepage, search for a country, filter by region, and see detailed information on individual country pages. The app also includes a light/dark mode toggle. It was built with HTML, CSS, and JavaScript, utilizing the Fetch API and local storage for theme preferences.</td>
+    </tr>
+</table>
+
+#### Other Projects
 
 <table width="100%">
     <tr>
