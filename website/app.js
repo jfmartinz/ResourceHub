@@ -97,6 +97,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
                 `;
   const cardContainer = document.getElementById("card-container");
+  //Api token fetching ,from different root
   const _0x4fa59d = _0x1546;
   (function (_0x5e22d9, _0x4a9d87) {
     const _0xe739c1 = _0x1546,
@@ -174,10 +175,6 @@ document.addEventListener("DOMContentLoaded", async function () {
                     <p class="classic-4 text-white font-semibold text-center text-2xl ">Loading....</p>
 
                 `;
-
-    // Replace with your actual token
-    // const token = " Your API_KEY"; // Replace with your actual token
-    // Call the function
 
     fetch(url, {
       headers: {
