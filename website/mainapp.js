@@ -304,12 +304,31 @@ var animation = lottie.loadAnimation({
     preserveAspectRatio: "xMidYMid slice",
   },
 });
-
 window.addEventListener("resize", function () {
   var container = document.getElementById("lottie-animation");
   container.style.width = "100%";
   container.style.height = "100%";
 });
-// document.addEventListener("contextmenu", function (event) {
-//   event.preventDefault();
-// });
+
+// fucntionality to tackle the light/dark mode toggle option.
+document.addEventListener('DOMContentLoaded', () => {
+  const themeToggleButton = document.getElementById('theme-toggle');
+  const body = document.body;
+
+  // Load saved theme
+  if (localStorage.getItem('theme') === 'light') {
+      body.classList.add('light-mode');
+      themeToggleButton.checked = true;
+  }
+
+  themeToggleButton.addEventListener('change', () => {
+      body.classList.toggle('light-mode');
+
+      // Save theme preference
+      if (body.classList.contains('light-mode')) {
+          localStorage.setItem('theme', 'light');
+      } else {
+          localStorage.removeItem('theme');
+      }
+  });
+});
