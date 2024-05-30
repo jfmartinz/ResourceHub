@@ -15,70 +15,68 @@
     <!-- NAVBAR  -->
 
 
-    <nav class="sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-white">
-        <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm">
-            <div class="flex justify-between mt-4 items-center">
-                <div class="flex items-center flex-shrink-0">
-                    <img class="h-10 w-10 mr-2" src="./assets/logo.png" alt="Logo" />
-                    <span class="text-xl tracking-tight hover-effect ">ResourceHub</span>
-                </div>
-                <ul class="hidden-mobile ml-14 space-x-12">
-                    <li class=" hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="/">Home</a>
-                    </li>
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="about.html">About</a>
-                    </li>
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="/">Services</a>
-                    </li>
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="/">Contact</a>
-                    </li>
-                </ul>
-                 <!-- added the dark/light mode toggle option -->
-                <div class="flex items-center">
-                    <!-- Add Toggle Button Here -->
-                    <label class="switch">
-                        <input type="checkbox" id="theme-toggle">
-                        <span class="slider"></span>
-                    </label>
-                </div>
-
-                <div class="hidden-desktop text-blue md:flex flex-col justify-end">
-                    <button id="toggle-navbar">
-                        <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
-                            viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M4 6h16M4 12h16M4 18h16" />
-                        </svg>
-                        <svg id="close-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="none"
-                            viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M6 18L18 6M6 6l12 12" />
-                        </svg>
-                    </button>
-                </div>
-            </div>
-            <div id="mobile-drawer"
-                class="hidden text-white backdrop-blur opacity-85 fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
-                <ul>
-                    <li class="py-4 hover-effect">
-                        <a href="/">Home</a>
-                    </li>
-                    <li class="py-4 hover-effect">
-                        <a href="about.html">About</a>
-                    </li>
-                    <li class="py-4 hover-effect">
-                        <a href="/">Services</a>
-                    </li>
-                    <li class="py-4 hover-effect">
-                        <a href="/">Contact</a>
-                    </li>
-                </ul>
-            </div>
+    <nav class="sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-white flex-row justify-between">
+    <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm flex justify-between items-center">
+        <div class="flex items-center">
+            <img class="h-10 w-10 mr-2" src="./assets/logo.png" alt="Logo" />
+            <span class="text-xl tracking-tight hover-effect">ResourceHub</span>
         </div>
-    </nav>
+        <ul class="hidden-mobile ml-14 space-x-12 gap-20">
+            <li class="hover-effect font-semibold hover:text-sm transition-all duration-300 ">
+                <a href="/">Home</a>
+            </li>
+            <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+                <a href="about.html">About</a>
+            </li>
+            <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+                <a href="/">Services</a>
+            </li>
+            <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+                <a href="/">Contact</a>
+            </li>
+        </ul>
+        <div class="hidden-desktop text-blue md:flex flex-row justify-end">
+        <!-- Dark/Light Mode Toggle Button -->
+        <div class="flex items-center">
+            <label class="switch">
+                <input type="checkbox" id="theme-toggle">
+                <span class="slider smaller"></span>
+            </label>
+        </div>
+        
+            <button id="toggle-navbar">
+                <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
+                    viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+                <svg id="close-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="none"
+                    viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M6 18L18 6M6 6l12 12" />
+                </svg>
+            </button>
+        </div>
+    </div>
+    <div id="mobile-drawer"
+        class="hidden text-white backdrop-blur opacity-85 fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
+        <ul>
+            <li class="py-4 hover-effect">
+                <a href="/">Home</a>
+            </li>
+            <li class="py-4 hover-effect">
+                <a href="about.html">About</a>
+            </li>
+            <li class="py-4 hover-effect">
+                <a href="/">Services</a>
+            </li>
+            <li class="py-4 hover-effect">
+                <a href="/">Contact</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
 
     <!-- HeroSection -->
     <div class="first mb-40 flex flex-col items-center mt-40 lg:mt-40 bg-black">
