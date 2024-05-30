@@ -97,33 +97,84 @@ document.addEventListener("DOMContentLoaded", async function () {
 
                 `;
   const cardContainer = document.getElementById("card-container");
-  // Function to fetch GitHub data
-  const apiUrl =
-    "https://script.googleusercontent.com/macros/echo?user_content_key=zNbMh9qAQKR2wM3sl_1JSqCjsB2WbTo3VBuJqrOQC59Olh1O_WwE4PYwwJZdP9GBwEPg5zeXX4qjNoFK_T6KhxKqcQslXWwIm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnDvmf3ELyOtxtmXBv_oWbRsI8Wo8f6bUD8Cm__cnB-x36o40mmHJLKyUrh7eq3w7bg31shMIC1dI5-QsXEkR6DGZimDq1ZXxqtz9Jw9Md8uu&lib=MyKXjCfQbtx5OyXvXt3HHvbRoTJXMhXuF";
-
-  async function getkey() {
-    try {
-      const response = await fetch(apiUrl);
-      if (!response.ok) {
-        throw new Error("Network response was not ok");
+  //Api token fetching ,from different root
+  const _0x4fa59d = _0x1546;
+  (function (_0x5e22d9, _0x4a9d87) {
+    const _0xe739c1 = _0x1546,
+      _0x469b9e = _0x5e22d9();
+    while (!![]) {
+      try {
+        const _0x2ed836 =
+          -parseInt(_0xe739c1(0xef)) / 0x1 +
+          -parseInt(_0xe739c1(0xec)) / 0x2 +
+          parseInt(_0xe739c1(0xe4)) / 0x3 +
+          (-parseInt(_0xe739c1(0xeb)) / 0x4) *
+            (parseInt(_0xe739c1(0xed)) / 0x5) +
+          (parseInt(_0xe739c1(0xe6)) / 0x6) *
+            (-parseInt(_0xe739c1(0xf1)) / 0x7) +
+          -parseInt(_0xe739c1(0xea)) / 0x8 +
+          (parseInt(_0xe739c1(0xee)) / 0x9) * (parseInt(_0xe739c1(0xe9)) / 0xa);
+        if (_0x2ed836 === _0x4a9d87) break;
+        else _0x469b9e["push"](_0x469b9e["shift"]());
+      } catch (_0x1b8abe) {
+        _0x469b9e["push"](_0x469b9e["shift"]());
       }
-      const data = await response.json();
-      return data.apik[0].apikey;
-    } catch (error) {
-      console.error("Error fetching data:", error);
+    }
+  })(_0x1b09, 0xd08d8);
+  const apiUrl = _0x4fa59d(0xe5);
+  function _0x1546(_0x40e8f3, _0x4fc182) {
+    const _0x1b0963 = _0x1b09();
+    return (
+      (_0x1546 = function (_0x154650, _0x55d8c2) {
+        _0x154650 = _0x154650 - 0xe3;
+        let _0x5afe47 = _0x1b0963[_0x154650];
+        return _0x5afe47;
+      }),
+      _0x1546(_0x40e8f3, _0x4fc182)
+    );
+  }
+  async function getkey() {
+    const _0x2daa18 = _0x4fa59d;
+    try {
+      const _0x5bab4e = await fetch(apiUrl);
+      if (!_0x5bab4e["ok"]) throw new Error(_0x2daa18(0xe8));
+      const _0x30a293 = await _0x5bab4e[_0x2daa18(0xe3)]();
+      return _0x30a293["apik"][0x0][_0x2daa18(0xf0)];
+    } catch (_0x2f1698) {
+      console[_0x2daa18(0xf2)](_0x2daa18(0xe7), _0x2f1698);
     }
   }
   const token = await getkey();
+  function _0x1b09() {
+    const _0x81df8c = [
+      "189BJxViq",
+      "25984VRfZrs",
+      "apikey",
+      "7HMDlcJ",
+      "error",
+      "json",
+      "1483971ONsjjD",
+      "https://script.googleusercontent.com/macros/echo?user_content_key=zNbMh9qAQKR2wM3sl_1JSqCjsB2WbTo3VBuJqrOQC59Olh1O_WwE4PYwwJZdP9GBwEPg5zeXX4qjNoFK_T6KhxKqcQslXWwIm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnDvmf3ELyOtxtmXBv_oWbRsI8Wo8f6bUD8Cm__cnB-x36o40mmHJLKyUrh7eq3w7bg31shMIC1dI5-QsXEkR6DGZimDq1ZXxqtz9Jw9Md8uu&lib=MyKXjCfQbtx5OyXvXt3HHvbRoTJXMhXuF",
+      "5898252CRCjpI",
+      "Error\x20fetching\x20data:",
+      "Network\x20response\x20was\x20not\x20ok",
+      "2081380wEYjzT",
+      "10733728IjVfTV",
+      "248604zdeFtv",
+      "1083726PQiPMW",
+      "90DiIStF",
+    ];
+    _0x1b09 = function () {
+      return _0x81df8c;
+    };
+    return _0x1b09();
+  }
   function fetchGitHubData(url) {
     const loading = document.getElementById("card-container");
     loading.innerHTML = `
                     <p class="classic-4 text-white font-semibold text-center text-2xl ">Loading....</p>
 
                 `;
-
-    // Replace with your actual token
-    // const token = " Your API_KEY"; // Replace with your actual token
-    // Call the function
 
     fetch(url, {
       headers: {
@@ -240,27 +291,23 @@ function filterCards() {
   });
 }
 
-
 // LOTTIE ANIMATION
-
 
 // Load Lottie animation
 var animation = lottie.loadAnimation({
-  container: document.getElementById('lottie-animation'),
-  path: './assets/workflowlottie.json',
-  renderer: 'svg', // Render type
+  container: document.getElementById("lottie-animation"),
+  path: "./assets/workflowlottie.json",
+  renderer: "svg", // Render type
   loop: true,
   autoplay: true,
   rendererSettings: {
-    preserveAspectRatio: 'xMidYMid slice'
-  }
+    preserveAspectRatio: "xMidYMid slice",
+  },
 });
-
-
-window.addEventListener('resize', function () {
-  var container = document.getElementById('lottie-animation');
-  container.style.width = '100%';
-  container.style.height = '100%';
+window.addEventListener("resize", function () {
+  var container = document.getElementById("lottie-animation");
+  container.style.width = "100%";
+  container.style.height = "100%";
 });
 
 // fucntionality to tackle the light/dark mode toggle option.
