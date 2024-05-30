@@ -541,6 +541,10 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
         <th>Description</th>
     </tr>
     <tr>
+        <td> <a href="https://thisissahaj-js-projects.vercel.app/QRcodeGen/index.html">QR Code Generator</a></td>
+        <td>A quick QR Code generator for your links or text freely accessible for lifetime</td>
+    </tr>
+    <tr>
         <td> <a href="https://www.cssportal.com/css-flexbox-generator/">CSS Portal</a></td>
         <td>CSS Portal is home to many examples of CSS / HTML and how it can be used in website design.</td>
     </tr>
@@ -1527,6 +1531,14 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://youtu.be/g1j9rR-H1lk?si=-P7HevBG2NAdLyS1">QR Code Generator</a></td>
+        <td>A quick QR Code generator for your links or text freely accessible for lifetime. <a href="https://thisissahaj-js-projects.vercel.app/QRcodeGen/index.html">View Demo</a></td>
+      </tr>
+      <tr>
+        <td> <a href="https://youtu.be/E_tZH9R_zi8?si=9sSTElTnNMM-aLW_">Typing Speed Test</a></td>
+        <td>Build a smooth typing speed tester game using Vanilla JavaScript. You will learn DOM manipulation, event handling, timers and intervals, string methods.</td>
       </tr>
       <tr>
         <td><a href="https://www.geeksforgeeks.org/how-to-create-a-landing-page-using-html-css-and-javascript/">Landing Page</a></td>
