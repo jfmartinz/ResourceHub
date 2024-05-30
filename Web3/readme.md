@@ -159,7 +159,7 @@ The course covers:
     <td>Solana offers the ability to create “scalable, user-friendly apps” with its platform, and also says it’s the fastest blockchain in the world, with 400 millisecond block times. It is also super-secure, low-cost ($0.01 per transaction) and resistant to censorship because the network is spread over thousands of independent nodes, the website indicates. Tutorials on the website offer guidance on how to build a decentralized app, run a validator node, and other blockchain functions. </td>
     </tr>
     <tr>
-    <td><a href="https://www.builtinsf.com/company/Polygon-labs">Polygon</a></td>
+    <td><a href="https://docs.polygon.technology/">Polygon</a></td>
     <td>he Polygon Network is a Web3 software platform focused on making interaction with the Ethereum (ETH) blockchain easier. Officially, Polygon is called a "layer-2 scaling solution" because all its Web3 tools are built on top of Ethereum's "layer-1" blockchain and support Ethereum's scalability initiatives. </td>
     </tr>
 </table>
