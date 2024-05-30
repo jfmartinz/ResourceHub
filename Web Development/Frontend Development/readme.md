@@ -31,7 +31,6 @@
   - [Beginner Projects](#beginner-projects)
   - [Intermediate Projects](#intermediate-projects)
   - [Advance Projects](#advance-projects)
-  - [Other Projects](#other-projects)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -1112,28 +1111,6 @@ to everyone - everywhere!</td>
     <td><a href="https://github.com/SyedZawwarAhmed/Countries-of-the-World">Countries of world (using REST)</a></td>
     <td>This repo by Syed Zawwar Ahmed is a single-page application that displays information about all countries using a REST API. Users can view countries on the homepage, search for a country, filter by region, and see detailed information on individual country pages. The app also includes a light/dark mode toggle. It was built with HTML, CSS, and JavaScript, utilizing the Fetch API and local storage for theme preferences.</td>
     </tr>
-</table>
-
-#### Other Projects
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-  <tr>
-   <tr>
-    <td><a href="https://www.geeksforgeeks.org/top-10-front-end-web-development-projects-for-beginners/">Frontend Projects for beginners</a></td>
-    <td>This section  curated selection of projects to enhance their skills. From building a simple to-do list application to creating a weather app or a basic calculator, these projects cater to beginners and offer hands-on experience in HTML, CSS, and JavaScript.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.knowledgehut.com/blog/web-development/front-end-web-development-projects">Frontend projects </a></td>
-      <td>This is a curated list featuring various projects suitable for beginners, intermediate, and advanced developers alike. From crafting a responsive portfolio website to building interactive games using HTML, CSS, and JavaScript, each project is meticulously selected to enhance your understanding of front-end development principles. </td>
-      </tr>
-      <tr>
-      <td><a href="https://www.wscubetech.com/blog/front-end-development-projects/">Frontend Development projects </a></td>
-      <td>The WsCube Tech's blog, explore an array of engaging "Front-end Development Projects" crafted to bolster your proficiency in web development. Navigate through a curated selection of projects tailored for beginners and seasoned developers alike</td>
-      </tr>
 </table>
 
 ### Conclusion
