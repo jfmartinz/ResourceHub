@@ -27,10 +27,12 @@ Python supports multiple programming paradigms, including procedural, object-ori
    - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
+
 - [Python Projects](#python-projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
+
 
 ## Roadmap
 
@@ -789,6 +791,18 @@ These channels provide excellent resources for learning Python programming, cate
         <td>This Python tutorial for absolute beginners in the Hindi series will focus on teaching you Python concepts from the ground up to an advanced level. This video series starts with Python basics and then moves toward advanced Python. Python concepts are taught in depth with exercises and handwritten notes.
          </td>
       </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLto9KpJAqHMQNY3XP0JqLs7NyeU_dnNj0">100 Days of Code - Learn Python</a></td>
+        <td>This 100 Days of Code - Learn Python playlist by Replit is an excellent resource for those who are interested in learning Python. In this course, you will build games, apps, and websites by mastering Python programming. 
+         </td>
+      </tr>
 </table>
+
+
+
+
+### Conclusion
+
+Python is an incredibly versatile and powerful language that's perfect for a wide range of applications, from web development and automation to data science and AI. Its simple and readable syntax makes it super beginner-friendly, while also keeping things easy to maintain. With a huge ecosystem of libraries and frameworks like Django and Flask for web development, NumPy and pandas for data analysis, and TensorFlow and PyTorch for machine learning, Python has got you covered no matter what you're working on. Plus, the large and active community means there are tons of tutorials, forums, and documentation to help you out at any level. Whether you're diving into web development, data analysis, or even AI, Python is the go-to tool. It opens up loads of career opportunities in tech, data science, and more. To really get good at Python, practice is key. Engage in coding challenges, contribute to open-source projects, and build your own projects
 
 
