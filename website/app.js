@@ -263,3 +263,25 @@ window.addEventListener('resize', function () {
   container.style.height = '100%';
 });
 
+// fucntionality to tackle the light/dark mode toggle option.
+document.addEventListener('DOMContentLoaded', () => {
+  const themeToggleButton = document.getElementById('theme-toggle');
+  const body = document.body;
+
+  // Load saved theme
+  if (localStorage.getItem('theme') === 'light') {
+      body.classList.add('light-mode');
+      themeToggleButton.checked = true;
+  }
+
+  themeToggleButton.addEventListener('change', () => {
+      body.classList.toggle('light-mode');
+
+      // Save theme preference
+      if (body.classList.contains('light-mode')) {
+          localStorage.setItem('theme', 'light');
+      } else {
+          localStorage.removeItem('theme');
+      }
+  });
+});
