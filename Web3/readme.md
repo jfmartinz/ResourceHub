@@ -11,7 +11,7 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [Community](#community)<br>
 - [YouTube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)
-- [Books](#Books)<br>
+- [Books](#books)<br>
 - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
 - [GitHub Repositories](#github-repositories)
 - [Projects](#projects)
@@ -250,7 +250,7 @@ Analytics.</td>
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -487,7 +487,7 @@ develop software that works with them</td>
   <tr>
     <th>Step</th>
     <th>Description</th>
-    <th>Resources</th>
+    <th>Resource Name</th>
   </tr>
   <tr>
     <td>Step 1</td>
@@ -569,7 +569,7 @@ develop software that works with them</td>
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -600,7 +600,7 @@ develop software that works with them</td>
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
