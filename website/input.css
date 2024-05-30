@@ -51,7 +51,7 @@ body{
 
 .glow-on-hover:before {
     content: '';
-    background: linear-gradient(45deg, #ff4545, #ff7300, #fffd6a, #48ff00, #00ffd5, hsl(230, 91%, 64%), #ffffff, #ff00c8, #ff5353);
+    background: linear-gradient(45deg, #0bf038, #ff7300, #fffd6a, #48ff00, #00ffd5, hsl(230, 91%, 64%), #ffffff, #ff00c8, #ff5353);
     position: absolute;
     top: -2px;
     left: -2px;
@@ -80,7 +80,7 @@ body{
     position: fixed;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-30%, -70%);
 }
 
 .custom-button {
@@ -92,7 +92,7 @@ body{
     font-family: sans-serif;
     text-decoration: none;
     color: #333;
-    border: 2px solid #333;
+    border: 4px solid #f90707;
     letter-spacing: 2px;
     text-align: center;
     position: relative;
