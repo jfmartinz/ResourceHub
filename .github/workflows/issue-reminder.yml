@@ -2,7 +2,7 @@ name: "Open-Issue-Reminder"
 
 on:
   schedule:
-    - cron: "* 12 */3 * *"
+    - cron: "0 12 */3 * *"
 
 jobs:
   welcome:
@@ -22,8 +22,8 @@ jobs:
               state: 'open'
             });
             for (const issue of issues) {
-              const issueComment = `Hi there! This issue is still open. We are for your response.
-              Contributor Assigned: ${issue.assignees.map(assignee => '@' + assignee.login).join(', ') || 'None'}`;
+              const issueComment = `Hi there! This issue is still open. We are waiting for your response.
+              Assignees: ${issue.assignees.map(assignee => '@' + assignee.login).join(', ') || 'None'}`;
               await github.issues.createComment({
                 issue_number: issue.number,
                 owner: context.repo.owner,
