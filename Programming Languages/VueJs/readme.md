@@ -500,3 +500,388 @@
    <td>A guide on Vue Router navigation guards, covering their usage and various types.</td>
  </tr>
 </table>
+
+### Vuex
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://betterprogramming.pub/vuejs-introduction-to-vuex-82bf35be5130">Introduction to Vuex</a></td>
+   <td>Overview of Vuex, its purpose, and how it integrates with Vue.js to manage state across the application.</td>
+ </tr>
+ <tr>
+   <td><a href="https://vuejs.org/guide/scaling-up/state-management.html">Vuex State Management</a></td>
+   <td>Detailed explanation of how to use Vuex for state management in a Vue.js application, including state, getters, mutations, and actions.</td>
+ </tr>
+ <tr>
+   <td><a href="https://blog.logrocket.com/managing-multiple-store-modules-vuex/">Using Modules with Vuex</a></td>
+   <td>Guide on structuring your Vuex store using modules for better organization and scalability in larger applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://dev.to/matheusgomes062/how-to-make-a-form-handling-with-vuex-6g0">Vuex and Forms</a></td>
+   <td>How to handle form data using Vuex for better state management in form-heavy applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://blog.logrocket.com/unit-testing-vuex-modules-jest/">Testing Vuex</a></td>
+   <td>Best practices for testing Vuex stores and ensuring the reliability of state management in your application.</td>
+ </tr>
+</table>
+
+### Server-Side Rendering
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.syncfusion.com/blogs/post/a-step-by-step-guide-to-server-side-rendering-with-vuejs">Introduction to SSR</a></td>
+   <td>Overview of Server-Side Rendering (SSR) in Vue.js, its benefits, and how it differs from client-side rendering.</td>
+ </tr>
+ <tr>
+   <td><a href="https://reintech.io/blog/setting-up-server-side-rendering-with-vuejs">Setting up SSR with Vue</a></td>
+   <td>Step-by-step guide on setting up a basic Vue.js application with server-side rendering.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.geeksforgeeks.org/nuxtjs/">Nuxt.js</a></td>
+   <td>Introduction to Nuxt.js, a framework built on top of Vue.js for creating universal applications with SSR capabilities.</td>
+ </tr>
+ <tr>
+   <td><a href="https://wpwebinfotech.com/blog/server-side-rendering-and-seo/#:~:text=Server%2Dside%20rendering%20(SSR)%20substantially%20influences%20the%20speed%20at,latency%20and%20enhancing%20user%20experience.">SSR Performance Optimization</a></td>
+   <td>Tips and techniques for optimizing the performance of server-side rendered Vue.js applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://docs.alokai.com/v2/performance/ssr-cache.html">SSR Caching Strategies</a></td>
+   <td>Exploring various caching strategies to improve the efficiency and speed of SSR in Vue.js applications.</td>
+ </tr>
+</table>
+
+### Animations
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.w3schools.com/vue/vue_animations.php">Introduction to Animations</a></td>
+   <td>Basic concepts of animations in Vue.js, including how to create and control animations using Vue's built-in directives.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.w3schools.com/vue/ref_transition.php">Transition Component</a></td>
+   <td>Detailed guide on using Vue's transition component to apply enter/leave animations to elements or components.</td>
+ </tr>
+ <tr>
+   <td><a href="https://vuejs.org/guide/built-ins/transition-group">Transition Group</a></td>
+   <td>Using the transition-group component for animating lists and multiple elements in Vue.js applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://eluminoustechnologies.com/blog/vue-animation-libraries/">Third-Party Animation Libraries</a></td>
+   <td>Integrating popular animation libraries like Animate.css and GreenSock (GSAP) with Vue.js for more complex animations.</td>
+ </tr>
+ <tr>
+   <td><a href="https://frontendmasters.com/courses/vue-3/animating-with-javascript-hooks/">JavaScript Hooks in Vue Animations</a></td>
+   <td>How to use JavaScript hooks to gain fine-grained control over the animation lifecycle in Vue.js.</td>
+ </tr>
+</table>
+
+### Composition API
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.w3schools.com/vue/vue_composition-api.php">Introduction to Composition API</a></td>
+   <td>Overview of Vue 3's Composition API, its purpose, and advantages over the Options API for building Vue.js components.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.telerik.com/blogs/should-use-ref-reactive-vue-3">Reactive and Ref</a></td>
+   <td>Understanding the reactive and ref functions in the Composition API for managing reactive state in Vue.js components.</td>
+ </tr>
+ <tr>
+   <td><a href="https://v3.ru.vuejs.org/guide/reactivity-computed-watchers.html">Computed and Watch</a></td>
+   <td>Using computed properties and watchers within the Composition API to handle complex state logic and side effects.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.w3schools.com/vue/vue_lifecycle-hooks.php">Lifecycle Hooks</a></td>
+   <td>How to use lifecycle hooks in the Composition API, providing a more flexible way to handle component lifecycle events.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.w3schools.com/vue/vue_provide-inject.php">Provide and Inject</a></td>
+   <td>Utilizing provide and inject to share data between components in a Composition API-based Vue.js application.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@ankurr.singhal/create-your-own-custom-vue-hooks-useelementsize-d20d6a73aef5">Custom Hooks</a></td>
+   <td>Creating reusable logic with custom hooks using the Composition API to promote code reuse and maintainability.</td>
+ </tr>
+ <tr>
+   <td><a href="https://dev.to/nicolasmontielf/migrate-option-api-to-composition-api-on-vue3-4o3p">Migration from Options API</a></td>
+   <td>Guidelines and examples for migrating existing Vue.js applications from the Options API to the Composition API.</td>
+ </tr>
+</table>
+
+### Plugins
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://vuejs.org/guide/reusability/plugins">What are Vue Plugins?</a></td>
+   <td>An introduction to Vue plugins, explaining what they are, how they work, and their role in extending Vue.js applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://learnvue.co/articles/simple-vue-plugin">Creating a Vue Plugin</a></td>
+   <td>A guide on how to create your own Vue plugin, including best practices and examples for plugin development.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.vlrtrain.com/2023/11/how-to-use-plugin-in-vuejs-explain-with.html">Using Plugins in Vue</a></td>
+   <td>Instructions on how to integrate and use plugins in a Vue.js project, with examples of popular Vue plugins.</td>
+ </tr>
+ <tr>
+   <td><a href="https://router.vuejs.org/">Vue Router Plugin</a></td>
+   <td>An overview of the Vue Router plugin, its features, and how to configure it for managing routes in a Vue.js application.</td>
+ </tr>
+ <tr>
+   <td><a href="https://kazupon.github.io/vue-i18n/introduction.html#sponsors">Vue I18n Plugin</a></td>
+   <td>Exploring the Vue I18n plugin for internationalization, with examples of how to set up and use it for multilingual support.</td>
+ </tr>
+ <tr>
+   <td><a href="https://vue-toastification.maronato.dev/">Vue Toastification Plugin</a></td>
+   <td>A guide to using the Vue Toastification plugin for adding toast notifications to your Vue.js application.</td>
+ </tr>
+ <tr>
+   <td><a href="https://hasura.io/learn/graphql/vue/apollo-client/">Vue Apollo Plugin</a></td>
+   <td>An introduction to the Vue Apollo plugin for integrating GraphQL with Vue.js, including setup and usage examples.</td>
+ </tr>
+</table>
+
+## Specialized Topics
+
+### State Management
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://vuejs.org/guide/scaling-up/state-management.html">Introduction to State Management</a></td>
+   <td>An overview of state management concepts in Vue.js and why it is important for managing application state effectively.</td>
+ </tr>
+ <tr>
+   <td><a href="https://vuex.vuejs.org/">Vuex</a></td>
+   <td>Detailed documentation and examples for using Vuex, the official state management library for Vue.js, including state, getters, mutations, and actions.</td>
+ </tr>
+ <tr>
+   <td><a href="https://vueschool.io/articles/vuejs-tutorials/state-management-with-composition-api/">Managing State with Composition API</a></td>
+   <td>Guide on using Vue's Composition API for state management, with examples on how to implement reactive state without Vuex.</td>
+ </tr>
+ <tr>
+   <td><a href="https://mustafacagri.medium.com/vue-3-provide-inject-amazing-prop-alternative-f78e332d06cd">Vue 3 Provide/Inject</a></td>
+   <td>Exploring the provide/inject feature in Vue 3 for managing state and dependencies between components.</td>
+ </tr>
+ <tr>
+   <td><a href="https://pinia.vuejs.org/getting-started.html">Pinia</a></td>
+   <td>An introduction to Pinia, a lightweight alternative to Vuex for state management in Vue.js applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://blog.logrocket.com/reactivity-vue-3-composition-api-ref-reactive/">Using reactive</a></td>
+   <td>Guide on using Vue's reactive function to create reactive state objects in the Composition API.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@arielb/mobx-the-vue-way-f10e552cace3">MobX Vue</a></td>
+   <td>An overview of integrating MobX, a popular state management library, with Vue.js.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.aryatechno.com/question/how-to-handle-global-state-in-vue-js-applications">Managing Global State</a></td>
+   <td>Strategies and best practices for managing global state in large-scale Vue.js applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://ej2.syncfusion.com/vue/documentation/state-persistence">State Persistence</a></td>
+   <td>Techniques for persisting state across sessions in Vue.js applications using local storage or other storage mechanisms.</td>
+ </tr>
+</table>
+
+### Dynamic Component Loading
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.telerik.com/blogs/dynamic-components-vue-component">Introduction to Dynamic Component Loading</a></td>
+   <td>An overview of dynamic component loading in Vue.js, including its use cases and benefits.</td>
+ </tr>
+ <tr>
+   <td><a href="https://blog.logrocket.com/making-components-dynamic-vue-3/">Using Dynamic Components</a></td>
+   <td>A guide on how to implement dynamic components in Vue.js using the <code>&lt;component&gt;</code> element and dynamic component registration.</td>
+ </tr>
+ <tr>
+   <td><a href="https://vuejs.org/guide/components/async">Async Components</a></td>
+   <td>Explanation and examples of how to use asynchronous components in Vue.js to improve application performance by lazy loading components only when needed.</td>
+ </tr>
+ <tr>
+   <td><a href="https://stackoverflow.com/questions/52566940/how-to-dynamically-load-components-in-routes">Vue Router and Dynamic Component Loading</a></td>
+   <td>How to use Vue Router with dynamic component loading to create routes that load components asynchronously.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.telerik.com/blogs/conditional-rendering-vue">Conditional Rendering and Dynamic Components</a></td>
+   <td>Techniques for conditionally rendering dynamic components based on application state or user interactions.</td>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/vue-by-example/learn-quickly-dynamic-components-with-props-events-slots-and-keep-alive-2a24d0f05f1c">Handling Dynamic Component Events</a></td>
+   <td>Best practices for managing events and communication between dynamically loaded components and their parent components.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.reddit.com/r/vuejs/comments/16l20he/composition_api_dynamic_components/">Using Dynamic Components with Vue Composition API</a></td>
+   <td>Guidance on integrating dynamic components with the Composition API in Vue.js for more flexible and modular code.</td>
+ </tr>
+</table>
+
+### Single File Components
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://vuejs.org/guide/scaling-up/sfc.html">Introduction to Single File Components</a></td>
+   <td>An overview of Single File Components (SFCs) in Vue.js, explaining their structure and benefits for Vue.js development.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.linode.com/docs/guides/how-to-create-and-use-single-file-components-vuejs/">Creating Single File Components</a></td>
+   <td>A step-by-step guide on how to create and organize Single File Components in a Vue.js project.</td>
+ </tr>
+ <tr>
+   <td><a href="https://vue-loader.vuejs.org/guide/scoped-css.html">Scoped CSS in Single File Components</a></td>
+   <td>Explanation of how to use scoped CSS in SFCs to apply styles only to the component they are defined in.</td>
+ </tr>
+ <tr>
+   <td><a href="https://laracasts.com/series/testing-vue/episodes/2">Testing Single File Components</a></td>
+   <td>Best practices and tools for testing Single File Components to ensure their functionality and reliability.</td>
+ </tr>
+ <tr>
+   <td><a href="https://laracasts.com/discuss/channels/vue/async-single-file-components-possible">Dynamic and Async Components in Single File Components</a></td>
+   <td>How to implement dynamic and asynchronous components within Single File Components to optimize performance and load times.</td>
+ </tr>
+</table>
+
+## Vue.js Projects
+
+### Beginner Level Projects
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/BurakGur/vue3-composition-api-todo-app">Vue 3 Composition API Todo App</a></td>
+   <td>A simple to-do app demonstrating the use of the Composition API in Vue 3.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/drehimself/todo-vue">Todo Vue</a></td>
+   <td>A basic to-do list application built with Vue.js to illustrate fundamental Vue concepts and state management.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/cornflourblue/vue-vuex-registration-login-example">Vue Vuex Registration and Login Example</a></td>
+   <td>An example project demonstrating user registration and login functionalities using Vue.js and Vuex for state management.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/vuejs/vue-hackernews">Vue HackerNews</a></td>
+   <td>A HackerNews clone built with Vue.js, showcasing best practices and advanced Vue features.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/jsardev/vuejs-example-stock-trader">Vue.js Example Stock Trader</a></td>
+   <td>An example stock trader application built with Vue.js, demonstrating the use of components, Vuex, and routing.</td>
+ </tr>
+</table>
+
+### Intermediate Level Projects
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/Coffcer/vue-chat">Vue Chat</a></td>
+   <td>A real-time chat application built with Vue.js, featuring WebSockets for real-time communication.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/josueayala27/gmail-clone">Gmail Clone</a></td>
+   <td>A clone of Gmail created using Vue.js, showcasing advanced UI components and state management.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/Swimburger/gkeep-vueifire">GKeep Vueifire</a></td>
+   <td>A Google Keep clone built with Vue.js and Firebase, demonstrating CRUD operations and real-time updates.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/odranoelBR/vue-quasar-admin-example">Vue Quasar Admin Example</a></td>
+   <td>An admin dashboard template built with Vue.js and Quasar Framework, highlighting responsive design and complex component usage.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/ricardovasconcelos/Vueflix">Vueflix</a></td>
+   <td>A Netflix-inspired application built with Vue.js, showcasing component architecture and state management with Vuex.</td>
+ </tr>
+</table>
+
+### Advanced Level Projects
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/maomao1996/Vue-mmPlayer">Vue-mmPlayer</a></td>
+   <td>A music player built with Vue.js, featuring advanced audio playback controls and custom UI components.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/techreagan/vue-nodejs-youtube-clone">Vue Node.js YouTube Clone</a></td>
+   <td>A YouTube clone created with Vue.js and Node.js, demonstrating video playback, search functionality, and user authentication.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/Datlyfe/jira_clone">Jira Clone</a></td>
+   <td>A clone of the Jira project management tool built with Vue.js, showcasing complex state management and project tracking features.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/gothinkster/vue-realworld-example-app">Vue RealWorld Example App</a></td>
+   <td>A real-world application example built with Vue.js, featuring CRUD operations, authentication, and integration with a backend API.</td>
+ </tr>
+</table>
+
+## Version Control
+
+> Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://git-scm.com/doc">Official Git Documentation</a></td>
+    <td>Comprehensive official documentation for Git, covering installation, basic concepts, and advanced usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.atlassian.com/git/tutorials">Atlassian Git Tutorials</a></td>
+    <td>Detailed tutorials from Atlassian on Git basics, including commands and workflows.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories">GitHub Docs - About Repositories</a></td>
+    <td>An overview of GitHub repositories, including how to create and manage them.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository">Pro Git Book - Recording Changes</a></td>
+    <td>A chapter from the Pro Git book that covers making commits, viewing commit history, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.atlassian.com/git/tutorials/using-branches">Atlassian Git Tutorials - Using Branches</a></td>
+    <td>An in-depth tutorial on creating, using, and merging branches in Git.</td>
+  </tr>
+  <tr>
+    <td><a href="https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging">Pro Git Book - Branching and Merging</a></td>
+    <td>A chapter from the Pro Git book that covers the basics of branching and merging in Git.</td>
+  </tr>
+</table>
+
+## Youtube
