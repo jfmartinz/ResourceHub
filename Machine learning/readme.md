@@ -5,22 +5,20 @@
 - [Roadmap](roadmaps)
   - [Machine Learning Roadmap](#machine-learning)
 - [Tutorials or Courses](#tutorials-or-courses)
-
     - [Fundamentals of Mathematics](#fundamentals-of-mathematics)
     - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
     - [Modules](#moduleslibraries)
     - [Introduction to Machine Learning](#introduction-to-machine-learning)
     - [Types of Machine learning](#types-of-machine-learning)
-    - [Machine Learning](#steps-involved-for-machine-learning)
+    - [Steps involved for Machine Learning](#steps-involved-for-machine-learning)
       - [Data Collection](#data-collection)
       - [Data Preparation](#data-preparation)
-      - [Model selection](#model-selection)
-      - [Model Training](#model-traning)
+      - [Model Selection](#model-selection)
+      - [Model Training](#model-training)
       - [Model Evaluation](#model-evaluation)
       - [Model optimizing](#model-optimization)
       - [Model deploying](#model-deployment)
     - [Machine learning algorithms](#machine-learning-algorithms)
-
 - [Books](#books)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
@@ -28,12 +26,13 @@
 - [Machine learning forums](#machine-learning-forums)
 - [courses](#courses)
 - [Projects](#projects)
-- [Interview](#Interview)
+- [Interview](#interview)
 - [Others](#others)
+- [Conclusion](#conclusion)
 
 
 ### Roadmap
-
+> This is a roadmap, we can refer to for starting with machine learning.
 #### Machine Learning
 
 <table width="100%">
@@ -128,7 +127,6 @@
 
 #### Modules/Libraries
 
-> Explore an amazing set of Python Modules for creating/using or working with Machine learning models.
 
 <table width="100%">
     <tr>
@@ -206,11 +204,8 @@
   </tr>
 </table>
 
-### Steps involved for machine learning
-
-> These are the steps involved in building a machine learning model.
-
-#### Data Collection
+#### Steps involved for machine learning:
+##### Data Collection
 
 <table width="100%">
     <tr>
@@ -231,7 +226,7 @@
     </tr>
 </table>
 
-#### Data Preparation
+##### Data Preparation
 
 <table width="100%">
     <tr>
@@ -252,7 +247,7 @@
     </tr>
 </table>
 
-#### Model Selection
+##### Model Selection
 
 <table width="100%">
     <tr>
@@ -273,7 +268,7 @@
     </tr>
 </table>
 
-#### Model Training
+##### Model Training
 
 <table width="100%">
     <tr>
@@ -294,7 +289,7 @@
     </tr>
 </table>
 
-#### Model Evaluation
+##### Model Evaluation
 
 <table width="100%">
     <tr>
@@ -315,7 +310,7 @@
     </tr>
 </table>
 
-#### Model Optimization
+##### Model Optimization
 
 <table width="100%">
     <tr>
@@ -336,7 +331,7 @@
     </tr>
 </table>
 
-#### Model Deployment
+##### Model Deployment
 
 <table width="100%">
     <tr>
@@ -358,6 +353,7 @@
 </table>
 
 ### Machine Learning Algorithms
+> These are some machine learning algorithm, you can learn.
 
 <table width="100%">
     <tr>
@@ -411,7 +407,7 @@
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Status</th>
+        <th>Cost</th>
       </tr>
       <tr>
         <td> <a href="https://www.bing.com/ck/a?!&&p=5f61daa5e0205b73JmltdHM9MTcxNTgxNzYwMCZpZ3VpZD0xYjhkMzU3Yy02YmU3LTZiOGEtMjNkNC0yMWZkNmE4NDZhYTEmaW5zaWQ9NTE4NQ&ptn=3&ver=2&hsh=3&fclid=1b8d357c-6be7-6b8a-23d4-21fd6a846aa1&psq=Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow+pdf&u=a1aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdGEtc2NpZW5jZS1wcm9qZWN0cy1hbmQtcmVzb3VyY2VzL0RhdGEtU2NpZW5jZS1FQm9va3MvbWFpbi9NYWNoaW5lJTIwTGVhcm5pbmcvSGFuZHMtb24tTWFjaGluZS1MZWFybmluZy5wZGY&ntb=1">Hands-On Machine Learning with Scikit-Learn and TensorFlow</a></td>
@@ -432,7 +428,7 @@
   </table>
 
 ### Datasets
-
+> These are some datasets that can help you practice machine learning
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -465,6 +461,7 @@
 </table>
 
 ### GitHub Repositories
+> These are some GitHub repositories you can refer to
 
 <table width="100%">
       <tr>
@@ -634,7 +631,7 @@
 </table>
 
 ### Others
-
+> These are some other resources you can refer to.
   <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -672,3 +669,8 @@
       </tr>    
 </table>
 
+### Conclusion
+
+Machine learning is an exciting and rapidly evolving field that offers endless opportunities for innovation and discovery. Its ability to analyze vast amounts of data and uncover patterns makes it indispensable for various applications, from predictive analytics and natural language processing to computer vision and autonomous systems. The wealth of libraries and frameworks available, such as TensorFlow, PyTorch, and scikit-learn, empowers developers and data scientists to build sophisticated models with relative ease. A strong community provides extensive resources, including tutorials, forums, and documentation, to support learners and professionals alike. To truly excel in machine learning, consistent practice is essential—engage in coding challenges, contribute to open-source projects, and apply your knowledge to real-world problems. This hands-on experience not only hones your skills but also opens doors to numerous career opportunities in tech, research, and beyond.
+
+Never stop learning !

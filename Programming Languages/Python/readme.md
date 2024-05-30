@@ -17,14 +17,16 @@ Python supports multiple programming paradigms, including procedural, object-ori
    - [Data Science and Machine Learning](#data-science-and-machine-learning)<br>
    - [Automation with Python](#automation-with-python)<br>
 - [Tools](#tools)<br>
-  - [Online Interpreters/Compilers](#online-interpreters)
- 
+   - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)<br>
+   - [Online Interpreters/Compilers](#online-interpreters)<br>
 - [Technologies](#technologies)<br>
-- [Free Courses](#free-courses)<br>
-- [Paid Courses](#paid-courses)<br>
+- [Courses](#courses)<br>
+   - [Free Courses](#free-courses)<br>
+   - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlist)
+- [Conclusion](#conclusion)
 
 ### Roadmap
 
@@ -309,7 +311,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 ### Tools
 
 >Discover a wide variety of tools essential for Python Development. They are listed below:
-
+#### Integrated Development Environment (IDE) 
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -371,11 +373,11 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 #### Online Interpreters
 
-> These online python Interpreters help you to run python code online in your browser:
+> These online Python interpreters help you to run python code online in your browser:
 
 <table width="100%">
       <tr>
-        <th>Channel Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -406,7 +408,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 <table width="100%">
       <tr>
-        <th>Technology</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -442,10 +444,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>Framework for web scraping that provides tools to extract data from websites, process them, and store them in the desired format.</td>
       </tr>
   </table>
-
-  ### Free Courses
-
-> You can consider these free courses for learning Python :
+  
+### Courses
+> You can consider these courses for learning Python :
+  #### Free Courses
 
 <table width="100%">
       <tr>
@@ -462,9 +464,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
      
   </table>
 
-  ### Paid Courses
-
-> You can consider these paid courses for learning App Development:
+  #### Paid Courses
 
 <table width="100%">
       <tr>
@@ -490,24 +490,29 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 <table width="100%">
       <tr>
-        <th>Book</th>
+        <th>Resource Name</th>
         <th>Description</th>
+         <th>Cost</th>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280">Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes</a></td>
         <td>Introduces Python through practical projects and exercises, ideal for beginners and those transitioning from other languages.</td>
+          <td>Paid</td>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008">Fluent Python: Clear, Concise, and Effective Programming by Luciano Ramalho</a></td>
         <td>Explores Python's advanced features and best practices for writing clear, idiomatic code.</td>
+           <td>Paid</td>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989">Effective Python: 90 Specific Ways to Write Better Python by Brett Slatkin</a></td>
         <td>Offers practical advice and tips to improve your Python code and programming skills.</td>
+           <td>Paid</td>
       </tr>
        <tr>
         <td><a href="https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057">Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas</a></td>
         <td>Covers essential tools and techniques for data manipulation, visualization, and analysis using Python.</td>
+           <td>Paid</td>
       </tr>
   </table>
 
@@ -572,5 +577,15 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>This Python tutorial for absolute beginners in the Hindi series will focus on teaching you Python concepts from the ground up to an advanced level. This video series starts with Python basics and then moves toward advanced Python. Python concepts are taught in depth with exercises and handwritten notes.
          </td>
       </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLto9KpJAqHMQNY3XP0JqLs7NyeU_dnNj0">100 Days of Code - Learn Python</a></td>
+        <td>This 100 Days of Code - Learn Python playlist by Replit is an excellent resource for those who are interested in learning Python. In this course, you will build games, apps, and websites by mastering Python programming. 
+         </td>
+      </tr>
 </table>
 
+### Conclusion
+
+Python is an incredibly versatile and powerful language that's perfect for a wide range of applications, from web development and automation to data science and AI. Its simple and readable syntax makes it super beginner-friendly, while also keeping things easy to maintain. With a huge ecosystem of libraries and frameworks like Django and Flask for web development, NumPy and pandas for data analysis, and TensorFlow and PyTorch for machine learning, Python has got you covered no matter what you're working on. Plus, the large and active community means there are tons of tutorials, forums, and documentation to help you out at any level. Whether you're diving into web development, data analysis, or even AI, Python is the go-to tool. It opens up loads of career opportunities in tech, data science, and more. To really get good at Python, practice is key. Engage in coding challenges, contribute to open-source projects, and build your own projects
+
+Never stop learning.

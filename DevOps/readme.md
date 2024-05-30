@@ -11,6 +11,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 - [Books](#books)
 - [Tools](#tools)
 - [GitHub Repositories](#github-repositories)
+- [Conclusion](#conclusion)
 
 ### Roadmap
 > You can refer to the roadmaps in the following table
@@ -195,7 +196,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 > These are some Youtube Playlist for reference and complete guidance
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -225,7 +226,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -251,31 +252,37 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 </table>
 
 ### Books
-? These are some books, you can checkout 
+> These are some books, you can checkout 
 <table width="100%">
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
+        <th>Cost</th>
     </tr>
     <tr>
        <td><a href="https://sre.google/books/">Site Reliability Engineering</a></td>
        <td>This book explains the whole life cycle of Google’s development, deployment, and monitoring, and how to manage the world’s biggest software systems (also known as SRE). Anyone who considers themselves to be more on the "Ops" end of the DevOps side or who wants to know how to strengthen the bonds between various Dev and Ops teams should read SRE.</td>
+        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://github.com/ahmedamsaleh/Free-DevOps-Books-1/blob/master/book/DevOps%20for%20Web%20Development.pdf">DevOps for Web Development</a></td>
        <td>This book explains the role of DevOps in the web development process is pivotal, orchestrating a fundamental shift in traditional development practices. DevOps methodologies and principles streamline the entire software development lifecycle, significantly influencing web development in numerous ways.</td>
+        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://github.com/ahmedamsaleh/Free-DevOps-Books-1/blob/master/book/Effective%20DevOps.pdf">Effective DevOps</a></td>
        <td>Effective Devops is most comprehensive book that is completely digestible and applicable for those within technology. Excellent reading for anyone interested in understanding DevOps and how to foster a DevOps culture</td>
+        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://www.dbooks.org/azure-devops-succinctly-1642002046/">Azure DevOps Succinctly</a></td>
        <td>The "Azure DevOps Succinctly" book by Sander Rossel provides a concise, practical guide to using Azure DevOps. This book covers essential topics such as setting up and managing repositories, pipelines, and automated testing.</td>
+        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://freecomputerbooks.com/Kubernetes-Up-and-Running-Dive-into-the-Future-of-Infrastructure.html">Kubernetes</a></td>
        <td>The book "Kubernetes by Brendan Burns" is a practical book which shows developers and Ops personnel how Kubernetes and container technology can help you achieve new levels of velocity, agility, reliability, and efficiency.</td>
+        <td>Free</td>
     </tr>
 </table>
 
@@ -285,7 +292,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -323,7 +330,7 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 
 <table width="100%">
     <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
     </tr>
     <tr>
@@ -363,3 +370,9 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
         <td>Offers resources for deploying documentation to GitHub Pages using MkDocs, tailored for advanced DevOps professionals focusing on automated documentation workflows.</td>
     </tr>
 </table>
+
+### Conclusion
+
+DevOps is an innovative and transformative approach that bridges the gap between development and operations, fostering a culture of collaboration and continuous improvement. By integrating practices such as continuous integration, continuous deployment, and infrastructure as code, DevOps enables teams to deliver software faster and more reliably. The plethora of tools available, including Docker, Kubernetes, Jenkins, and Ansible, empowers teams to automate processes, enhance scalability, and improve efficiency. The DevOps community is vibrant and supportive, offering a wealth of resources such as tutorials, forums, and documentation to help practitioners at all levels. To truly master DevOps, regular practice and hands-on experience are crucial—engage in coding challenges, contribute to open-source projects, and work on real-world scenarios. This practical approach not only sharpens your skills but also unlocks numerous career opportunities in the ever-evolving field of software development and IT operations.
+
+Never stop learning !

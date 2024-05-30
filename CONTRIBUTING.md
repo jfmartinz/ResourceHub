@@ -44,10 +44,12 @@ Example:
 There are many ways to contribute, and you don't need to be a coding wizard to get involved. Here are some beginner-friendly ways to contribute:
 
 ### Share Your Ideas
-> We value your input, whether it's proposing a new section to a category, suggesting additional categories, or sharing any ideas for the project's enhancement. Here's how you can contribute your ideas:
+> We value your input, whether it's proposing a new section to a category, suggesting additional categories, or sharing any ideas for the project's enhancement.
+
+Here's how you can contribute your ideas:
 
 1. **Raise an Issue:** Start a discussion by creating an issue. Describe your idea, and I'll review it if it aligns to the project's goal.
-2. **Direct Message:** Feel free to reach out to us personally. You can connect with me on [LinkedIn](https://www.linkedin.com/in/jfmartinz/) or reach out via [Twitter](https://twitter.com/jfmartinz).
+2. **Direct Message:** Feel free to reach out to me personally. You can connect with me on [LinkedIn](https://www.linkedin.com/in/jfmartinz/) or reach out via [Twitter](https://twitter.com/jfmartinz).
 
 ### Add Valuable Resources
 > If you come across a resource that you believe would benefit others, we encourage you to share it with us. Here's how you can contribute valuable resources:
@@ -59,7 +61,7 @@ There are many ways to contribute, and you don't need to be a coding wizard to g
 Please include the following details in your PR:
   - Resource URL
   - Description of the resource
-  - Section and category where you plan to add it
+  - Section and category where you plan to add it (For example, category could be [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development) and section is [Tools](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development#tools))
 
 ### Grammatical Errors
 > Help us maintain clean and error-free content by fixing typos or grammar issues. Your attention to detail ensures a seamless reading experience for everyone involved.

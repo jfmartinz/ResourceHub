@@ -21,6 +21,7 @@
 
 - [What is ResourceHub](#what-is-resourcehub)
 - [Categories](#categories)
+- [Technologies](#technologies)
 - [How to Contribute](#how-to-contribute)
   - [Forking and Submitting a Pull Request](#forking-and-submitting-a-pull-request)
   - [Using GitHub Desktop](#using-github-desktop)
@@ -37,6 +38,7 @@ You can contribute with helpful resources you've discovered on the internet and 
 
 Here is a list of the currently available categories of the project:<br>
 - [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development)
+  - [Frontend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Frontend%20Development)
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
@@ -48,6 +50,14 @@ Here is a list of the currently available categories of the project:<br>
 - [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
 - [Linux Development](https://github.com/jfmartinz/ResourceHub/tree/main/Linux%20Development)
 
+
+## Technologies
+ResourceHub is built using the following technologies:
+
+- **Frontend**: HTML, CSS, JS
+- **Deployment**: Vercel
+
+> Website URL: [ResourceHub](https://resourcehubwebsite.vercel.app/)
 
 ## How to contribute
 Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your fork of this repository before submitting any contributions.
