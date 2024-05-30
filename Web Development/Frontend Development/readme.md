@@ -35,6 +35,8 @@
 
 ### Roadmap
 
+> This roadmap helps you learn Frontend development in structured way and helps you cover all the topics that are required to become a Frontend developer.
+
 <table width="100%">
     <tr>
     <th>Resource Name</th>
@@ -42,11 +44,13 @@
   </tr>
 <tr>
    <td><a href="https://roadmap.sh/frontend"> Frontend </a></td>
-   <td>This is the roadmap for frontend development </td>
+   <td>The Frontend Developer Roadmap on roadmap.sh offers a detailed, step-by-step guide to becoming a modern frontend developer. It covers essential technologies like HTML, CSS, and JavaScript, and includes best practices, tools, and frameworks. The roadmap also provides guidance on building projects, gaining experience and more.</td>
 </tr>
 </table>
 
 ### Courses
+
+> These courses serves you as the valuable resources for learning frontend web development for free.
 
 <table width="100%">
   <tr>
@@ -158,24 +162,14 @@
 
 ### Tutorials
 
+> These tutorials help you to understand topics more clearly and easily and helps you to unstuck in your journey of learning frontend web development.
+
 #### Basics
 
 <table width="100%">
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
-    </tr>
-    <tr>
-      <td ><a href="https://www.w3schools.com/whatis/whatis_frontenddev.asp#">What is frontend development?</a></td>
-       <td> The W3Schools page on frontend development explains that frontend development involves building the part of a website or web application that users interact with directly. It encompasses everything users see and interact with in their web browsers, including layout, design, and functionality</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.coursera.org/articles/front-end-developer">What a Frontend Web Developer Do?</a></td>
-        <td>The article on Coursera provides insights into the role of a front-end developer, highlighting its importance in the tech industry and discussing the skills and knowledge required to succeed in this field.</td>
-    </tr>
-    <tr>
-        <td><a href="https://hackernoon.com/a-beginners-guide-to-html-css-and-javascript">A beginners guide to HTML, CSS and JS</a></td>
-        <td>The article on Hackernoon serves as a beginner-friendly introduction to three fundamental technologies used in web development: HTML, CSS, and JavaScript. It aims to provide newcomers with a basic understanding of each technology and how they work together to create web pages and web applications. </td>
     </tr>
     <tr>
       <td ><a href="https://www.w3schools.com/html/">HTML Tutorial</a></td>
@@ -192,6 +186,8 @@
 </table>
 
 ### Frameworks
+
+> Learning these frontend frameworks helps your frontend developer life easy and happy.
 
 #### CSS Frameworks
 
@@ -956,6 +952,8 @@ to everyone - everywhere!</td>
 
 ### GitHub Repositories
 
+> These GitHub repos serves you as the best resources other than courses.
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -984,6 +982,8 @@ to everyone - everywhere!</td>
 </table>
 
 ### Interview Preparation
+
+> These resources help you question yourself about the skills you have and make you interview ready.
 
 <table width="100%">
     <tr>
