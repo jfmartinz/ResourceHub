@@ -1,9 +1,23 @@
 /* styles.css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+body{
+    background: radial-gradient(circle,#5a585a,#090947);
+}
 #main-title {
     text-align: center;
     font-size: 48px; /* Adjust size as needed */
     margin-top: 20px;
     font-family: 'Arial', sans-serif;
+    background: linear-gradient(90deg,#00dbde,#fc00ff);
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .dark-mode {
     background-color: #333;
@@ -38,34 +52,98 @@ button{
     cursor: pointer;
     border-radius: 5px;
 }
+
+.search-container{
+    background: radial-gradient(circle,#5a585a,#090947);
+}
+
 #card-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    gap: 16px;
+    gap: 20px;
     padding: 16px;
+    
 }
 
+@keyframes slideFromTop{
+    0% { 
+        opacity:0;
+        transform: translateY(-100%);
+    }
+    100%{
+        opacity:1;
+        transform:translateX(0%);
+    }
+}
+
+
+
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: calc(50% - 22px); /* Adjust width for 3 cards per row, accounting for gap */
-    margin-bottom: 16px; /* Space between rows */
-    border-radius: 5px;
-    overflow: hidden;
-    text-align: center;
-    background-color: #f1f1f1;
-    cursor: pointer;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
-    font-size: large;
+    justify-content: space-between;
+    text-align: center;
+    height: 250px;
+    padding-bottom: 25px;
+    border-radius: 15px;
+    transition: transform 0.3s ease ,box-shadow 0.3s ease;
+    width: 300px;
+    max-width: 25rem;
+    transition: transform 0.3s ease-in-out 0.1s, box-shadow 0.3s ease-in-out 0.1s, border 0.3s ease-in-out 0.1s;
+    margin: 10px 10px;
+}
+
+.card:nth-child(1){
+    background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+}
+.card:nth-child(2){
+    background: radial-gradient(circle at 12.3% 19.3%, rgb(85, 88, 218) 0%, rgb(95, 209, 249) 100.2%);
+}
+.card:nth-child(3){
+    background: radial-gradient(circle at 0.8% 3.1%, rgb(255, 188, 224) 0%, rgb(170, 165, 255) 46%, rgb(165, 255, 205) 100.2%);
+}
+.card:nth-child(4){
+    background: linear-gradient(109.6deg, rgb(17, 151, 147) 11.2%, rgb(154, 214, 212) 55.4%, rgb(255, 233, 171) 100.2%);
+}
+.card:nth-child(5){
+    background: linear-gradient(135deg, rgba(57, 196, 255, 0.482) 10%, rgb(174, 81, 154) 100%);
+}
+.card:nth-child(6){
+    background: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+.card:nth-child(7){
+    background: radial-gradient(circle at 0.8% 3.1%, rgb(255, 188, 224) 0%, rgb(170, 165, 255) 46%, rgb(165, 255, 205) 100.2%);
+}
+.card:nth-child(8){
+    background: linear-gradient(109.6deg, rgb(17, 151, 147) 11.2%, rgb(154, 214, 212) 55.4%, rgb(255, 233, 171) 100.2%);
+}
+.card:nth-child(9){
+    background: linear-gradient(135deg, rgba(57, 196, 255, 0.482) 10%, rgb(174, 81, 154) 100%);
+}
+.card:nth-child(10){
+    background: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+    transform:scale(1.03);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+    border:1px solid black;
+    cursor: pointer;
 }
 
 .card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
     padding: 16px;
+}
+
+.card-content >p{
+    padding: 10px 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
 }
