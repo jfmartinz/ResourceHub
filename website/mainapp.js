@@ -289,6 +289,21 @@ function filterCards() {
       card.style.display = "none";
     }
   });
+
+  // To check if any cards are displayed
+  const displayedCards = document.querySelectorAll(".card");
+  let count = 0;
+  displayedCards.forEach((card) => {
+    if (card.style.display === "block") {
+      count++;
+    }
+  });
+  if (count === 0) {
+    document.getElementById("rate-limit-message").style.display = "block";
+    document.getElementById("rate-limit-message").innerHTML = "No results";
+  } else {
+    document.getElementById("rate-limit-message").style.display = "none";
+  }
 }
 
 // LOTTIE ANIMATION
