@@ -28,6 +28,7 @@ Below are some essential resources to help you get started and deepen your under
 - [Online Playground](#online-playground)
 - [TypeScript Runtime](#typescript-runtime)
 - [Typescript Libraries](#typescript-libraries)
+- [TypeScript Validation](#typescript-validation)
 - [Build Systems](#build-systems)
 - [Official TypeScript Resources](#official-typescript-resources)
 - [Books](#books)
@@ -884,8 +885,6 @@ Below are some essential resources to help you get started and deepen your under
     </tr>
   </tbody>
 </table>
-
-
 
 ### Build Systems
 > Build systems are essential for managing the compilation and organization of TypeScript code into executable formats or deployment artifacts.
