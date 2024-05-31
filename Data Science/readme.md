@@ -17,6 +17,10 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 - [Competitions](#competitions)<br>
 - [Communities](#communities)<br>
 - [GitHub Repositories](#github-repositories)
+- [Projects](#projects)
+  - [Beginner Projects](#beginners-projects)
+  - [Intermediate Projects](#intermediate-projects)
+  - [Advanced Projects](#advanced-projects)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -451,6 +455,82 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
     <td> <a href="https://github.com/chaconnewu/free-data-science-books">free-data-science-books</a></td>
     <td>The GitHub repository "free-data-science-books" by chaconnewu , contains free learning resources for data science and big data related concepts, techniques, and applications.</td>
   </tr>
+</table>
+
+### Projects
+
+> These projects helps you to gain some hands-on experience for Data science.
+
+#### Beginners projects
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.geeksforgeeks.org/zomato-data-analysis-using-python/">Zomato analysis</a></td>
+        <td>This provides a thorough guide on analyzing Zomato restaurant data using Python. It covers data cleaning, exploratory data analysis, and visualization techniques to uncover insights about restaurant trends, ratings, and more. The tutorial includes detailed code snippets and explanations, making it suitable for readers with basic knowledge of Python and data analysis.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/ipl-2023-data-analysis-using-pandas-ai/">IPL data analysis</a></td>
+        <td>This link navigates you to geeksforgeeks data science projects, Data Science Projects involve using data to solve real-world problems and find new solutions. They are great for beginners who want to add work to their resume or and expert to increase there skills.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/titanic-survival-prediction-using-tensorflow-in-python/">Titanic survival prediction</a></td>
+        <td>This offers a detailed guide on how to predict the survival of passengers on the Titanic using TensorFlow. It walks readers through data preprocessing, feature selection, and building a neural network model with TensorFlow. The tutorial includes comprehensive code examples and explanations, making it accessible to those with a foundational understanding of Python and machine learning.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.dataquest.io/blog/comical-data-visualization-in-python-using-matplotlib/">Comical data visualization</a></td>
+        <td>The article serves as a practical guide for those interested in injecting humor and creativity into their data visualization projects using Matplotlib in Python. By showcasing various examples and techniques, it offers actionable insights for making data analysis engaging and entertaining. With step-by-step instructions and illustrative visuals, readers can learn how to leverage Matplotlib's functionalities to create comical graphs and charts</td>
+      </tr>
+</table>
+
+#### Intermediate projects
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://thecleverprogrammer.com/2021/06/21/microsoft-stock-price-prediction-with-machine-learning/">Microsoft stock analysis</a></td>
+        <td>This offers a step-by-step tutorial on predicting Microsoft stock prices using machine learning techniques. It covers data collection, preprocessing, and the implementation of various machine learning models to make accurate stock price predictions. The guide includes detailed explanations and Python code examples, making it ideal for readers with a basic understanding of Python and machine learning concepts.</td>
+      </tr>
+      <tr>
+        <td><a href="https://thecleverprogrammer.com/2021/09/22/movie-rating-analysis-using-python/">Movie rating analysis</a></td>
+        <td>This provides a comprehensive tutorial on analyzing movie ratings data with Python. It covers data collection, cleaning, and exploratory data analysis to uncover patterns and insights in movie ratings. The tutorial includes practical examples and Python code snippets, making it accessible for readers with a basic understanding of Python and data analysis techniques.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/analyzing-selling-price-of-used-cars-using-python/">Analyzing price of selling cars</a></td>
+        <td>This provides a step-by-step guide to analyzing and predicting the selling prices of used cars using Python. It covers essential data preprocessing steps, exploratory data analysis, and the application of machine learning models to predict car prices. </td>
+      </tr>
+      <tr>
+        <td><a href="https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html">Dog and cat classification</a></td>
+        <td>The article explores how to build robust image classification models with minimal data using Keras, a high-level neural networks API. It demonstrates strategies for effectively training models on small datasets by leveraging techniques such as data augmentation and fine-tuning pre-trained networks. This resource is invaluable for those seeking to develop powerful image recognition systems even when limited by data availability.</td>
+      </tr>
+      
+</table>
+
+#### Advanced projects
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.geeksforgeeks.org/web-scraping-for-stock-prices-in-python/">Web Scraping for stock prizes</a></td>
+        <td>This provides a comprehensive guide on how to scrape stock price data from websites using Python. It covers the basics of web scraping, including how to use libraries like BeautifulSoup and requests to extract data from web pages. The tutorial includes practical examples and code snippets, making it accessible for readers with a understanding of Python and web scraping techniques.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/talking-healthcare-chatbot-using-deep-learning/">Talking health care chatbot</a></td>
+        <td>This offers a detailed guide on building a healthcare chatbot using deep learning techniques. It explains the process of creating a conversational AI model that can understand and respond to health-related queries. The tutorial covers data preprocessing, model training using deep learning frameworks, and implementation details with code examples.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/">Human activiry recognision</a></td>
+        <td>This provides a thorough tutorial on building a model to recognize human activities using deep learning. It covers data collection, preprocessing, and the implementation of a deep learning model to classify different human activities. The guide includes step-by-step instructions and Python code examples, making it accessible for readers with a understanding of Python and deep learning techniques..</td>
+      </tr>
 </table>
 
 ### Conclusion

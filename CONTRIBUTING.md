@@ -11,7 +11,8 @@ Please adhere to and review our [Code Of Conduct](https://github.com/jfmartinz/R
 To ensure a smooth experience, please follow these important rules:
 
 1. **Relevance:** Ensure that the resource you're adding aligns with the appropriate category. Web development resources belong in the web development category, UI/UX design resources in the UI/UX design category, and so forth. Additionally, ensure that your resource aligns with the specific section of the category. For example, if you have a resource named ["anime.js"](https://animejs.com/), it should be placed in the [web development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development) category under the [animation](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development#animations) section. This precision ensures that users can easily locate and benefit from the resources in their intended context.
-2. **Use the PR Template:** When you create a pull request (PR), please make sure to carefully follow and review the provided PR template. This ensures a structured and efficient collaboration process.
+2. **Use the PR and Issue Template:** When creating a PR or Issue, please follow the specified template, it will help me to review your Issue or PR more efficient.
+
 
 ### How to Add a Resource
 
@@ -54,14 +55,9 @@ Here's how you can contribute your ideas:
 ### Add Valuable Resources
 > If you come across a resource that you believe would benefit others, we encourage you to share it with us. Here's how you can contribute valuable resources:
 
-1. **Review the [Rules](https://github.com/jfmartinz/ResourceHub/edit/main/CONTRIBUTING.md#important-rules) for Adding Resources:** Carefully read and understand the guidelines on how to add a resource, including the specified format. Ensure that you follow the provided PR template, as it streamlines the review process for us.
+1. Review the **[Rules](https://github.com/jfmartinz/ResourceHub/edit/main/CONTRIBUTING.md#important-rules)** for Adding Resources: Carefully read and understand the guidelines on how to add a resource, the format used for adding new resource, and etc.
 
-2. **Raise a PR:** If you want to add a resource, you can create a Pull Request (PR) directly.
-
-Please include the following details in your PR:
-  - Resource URL
-  - Description of the resource
-  - Section and category where you plan to add it (For example, category could be [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development) and section is [Tools](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development#tools))
+**Ensure that you followed the specified issue template** 
 
 ### Grammatical Errors
 > Help us maintain clean and error-free content by fixing typos or grammar issues. Your attention to detail ensures a seamless reading experience for everyone involved.
