@@ -822,7 +822,7 @@ Below are some essential resources to help you get started and deepen your under
 <table>
   <thead>
     <tr>
-      <th>Library</th>
+      <th>Resource Name</th>
       <th>Description</th>
     </tr>
   </thead>
