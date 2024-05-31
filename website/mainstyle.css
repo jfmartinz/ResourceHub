@@ -672,7 +672,13 @@ video {
 }
 
 .mb-4 {
-	margin-bottom: 1rem;
+  margin-bottom: 1rem;
+  display: none;
+  color: red;
+  font-size: 45px;
+  font-weight: 500;
+  text-align: center;
+
 }
 
 .mb-40 {
