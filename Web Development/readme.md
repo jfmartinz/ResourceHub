@@ -43,13 +43,13 @@ This category is a curated collection of valuable web development resources cont
 - [Challenges](#challenges)<br>
 - [Best Practices](#best-practices)
 - [Projects](#projects)
+
   - [Beginner level](#beginner-level-projects)
   - [Intermediate level](#intermediate-level-projects)
   - [Advanced level](#advance-level-projects)
 
-- [Blogs](#blogs)
-
 - [Technology stacks](#technology-stacks)
+
   - [Building Web Applications with LAMP Stack](#building-web-applications-with-lamp-stack)
   - [Creating Web Apps with MEAN Stack](#creating-web-apps-with-mean-stack)
   - [Creating Web Applications with Ruby on Rails](#creating-web-applications-with-ruby-on-rails)
@@ -58,7 +58,7 @@ This category is a curated collection of valuable web development resources cont
   - [Developing Web Applications with ASP.NET](#developing-web-applications-with-aspnet)
   - [Developing Web Apps with MERN Stack](#developing-web-apps-with-mern-stack)
 
-
+- [Blogs](#blogs)
 
 ### Roadmaps
 
@@ -1786,8 +1786,6 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr>  
   </table>
 
-
-
 ### Technology Stacks
 
 > Typically, a full-stack developer often specializes in a specific stack,which is a combination of front-end,back-end,databases along with other related tools and frameworks.By specializing in a specific stack, developers can focus their learning efforts on mastering the technologies and frameworks within that stack. These examples of full-stack develpoment offers you a clear pathway.
@@ -1871,63 +1869,63 @@ This section contains hundreds of coding challenges that test your knowledge of 
       <tr>
         <td><a href="https://www.geeksforgeeks.org/mean-stack/">MEAN Stack Roadmap</a></td>
         <td>
-         Here is a roadmap for mastering MEAN Stack development involves progressing through various steps, acquiring skills in each component, and gaining hands-on experience. 
-        </td>   
-      </tr> 
+         Here is a roadmap for mastering MEAN Stack development involves progressing through various steps, acquiring skills in each component, and gaining hands-on experience.
+        </td>
+      </tr>
        <tr>
         <td><a href="https://www.w3schools.com/angular/">Angular,Front-end application framework</a></td>
         <td>
           This is a complete tutorial to start learning AngularJS,a JavaScript framework from basic to adavance level
         </td>
-      </tr>   
+      </tr>
       <tr>
         <td><a href="https://learn.mongodb.com/learning-paths/introduction-to-mongodb">A step to learn MongoDB</a></td>
         <td>
          This learning path includes connecting to a MongoDB database, how to conduct simple CRUD operations, and key topics such as aggregation, indexing, data modeling, and transactions.
         </td>
-      </tr> 
+      </tr>
       <tr>
         <td><a href="https://www.tutorialspoint.com/nodejs/index.htm">Node.js Overview</a></td>
         <td>
-           This is a Node.js Tutorial that guides you right from Installation of Node.js to Connecting MongoDB 
+           This is a Node.js Tutorial that guides you right from Installation of Node.js to Connecting MongoDB
         </td>
-      </tr> 
+      </tr>
       <tr>
         <td><a href="https://youtu.be/f2EqECiTBL8?si=W6GNhgm9OCG5urP4">Express.js--a Node.js framework</a></td>
         <td>
-          This video gives you complete knowledge from Node.js along the path to Express.js 
+          This video gives you complete knowledge from Node.js along the path to Express.js
         </td>
-      </tr>  
+      </tr>
        <tr>
         <td><a href="https://youtu.be/rCkTNAmWwCE?si=ERhGUWNz5Wsz-Tnf">Connect Angular with Express JS</a></td>
         <td>
          In this video tutorial, you'll learn how to integrate Angular with Express.js to build a full-stack web application. We'll guide you through the process of setting up a backend API using Express.js, which will serve as the backend for your Angular frontend.
         </td>
-      </tr>  
+      </tr>
        <tr>
         <td><a href="https://youtu.be/J8FkH5dPoZ0?si=MhQjs-uctSgmAaOF">Connect ExpressJS with MongoDB</a></td>
         <td>
          In this video, we'll make a connection to a MongoDB database using the mongodb module in Node.js.
         </td>
-      </tr>  
+      </tr>
       <tr>
         <td><a href="https://youtu.be/48SUuk8e55c?si=47ZU4UP5ld9g7TAZ">Complete course on MEAN Stack</a></td>
         <td>
-        This is a All-In-One Course on MEAN stack for the developer 
-        </td>   
-      </tr> 
+        This is a All-In-One Course on MEAN stack for the developer
+        </td>
+      </tr>
       <tr>
         <td><a href="https://www.geeksforgeeks.org/build-a-simple-web-app-with-express-angular/">A simple web app with Express and Angular</a></td>
         <td>
          This an article that helps you in buliding an application using Angular and Express.
-        </td>   
-      </tr> 
+        </td>
+      </tr>
       <tr>
         <td><a href="https://www.theknowledgeacademy.com/blog/mean-stack-projects/">Best MEAN Stack Projects Ideas</a></td>
         <td>
-         This blog guides you with 10 MEAN Stack project ideas range from e-commerce platforms and social media applications to educational websites and financial management tools. 
-        </td>   
-      </tr> 
+         This blog guides you with 10 MEAN Stack project ideas range from e-commerce platforms and social media applications to educational websites and financial management tools.
+        </td>
+      </tr>
       <tr>
         <td><a href="https://medium.com/@OffshoreITStaffing/apps-built-with-mean-stack-and-mern-stack-47a7c0aa1ab3">Applications built on MEAN stack</a></td>
         <td>
@@ -1938,10 +1936,10 @@ This section contains hundreds of coding challenges that test your knowledge of 
           -Tumblr
           -ShutterStock
           -PayTm
-        </td>   
-      </tr> 
-</table>
+        </td>
+      </tr>
 
+</table>
 
 #### Creating Web Applications with Ruby on Rails
 
@@ -2294,7 +2292,6 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr> 
 </table>
 
-
 ### Blogs
 
   <table width="100%">
@@ -2328,10 +2325,8 @@ This section contains hundreds of coding challenges that test your knowledge of 
       </tr> 
       </table>
 
-
 ### Conclusion
 
 Web development is an exciting and constantly evolving field that focuses on creating websites and web applications for the internet. With the ever-increasing reliance on digital platforms for everything from shopping and socializing to business and education, web development has become a critical skill. The iterative process of web development, from planning and designing to coding and testing, emphasizes the importance of usability, performance, and security. The web development community is vibrant and supportive, offering a wealth of resources like tutorials, forums, and online courses to assist both beginners and experienced developers. To excel in web development, hands-on experience and continuous learning are key—participate in coding challenges, contribute to open-source projects, and build your own websites to refine your skills and showcase your work. This practical approach not only enhances your technical proficiency but also opens up numerous career opportunities in the rapidly growing field of web development.
 
 Never stop learning !
-
