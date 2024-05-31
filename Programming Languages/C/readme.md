@@ -452,11 +452,10 @@ This section serves as a curated collection of valuable resources for learning a
             <td><a href="https://www.youtube.com/watch?v=zm0oEZiH16A" >Currency Converter in C - YouTube</a></td>
             <td>Converts between different currencies based on exchange rates. Involves working with floats and user input.</td>
         </tr>
-        <tr>
-            <td>Calendar</td>
+          <tr>
+            <td><a href="https://www.geeksforgeeks.org/c-program-to-display-month-by-month-calendar-for-a-given-year/" >Calendar in C - GFG</a></td>
             <td>Displays month by month calendar for a given year . Involves working with functions and control statements.</td>
-            <td><a href="https://www.geeksforgeeks.org/c-program-to-display-month-by-month-calendar-for-a-given-year/">Calendar in C - website</a></td>
-        </tr>
+        </tr>    
     </table>
 
 #### Intermediate Level Projects

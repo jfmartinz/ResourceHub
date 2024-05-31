@@ -74,6 +74,10 @@ body {
 2. Correct the inheritance of border color in Firefox. (https://bugzilla.mozilla.org/show_bug.cgi?id=190655)
 3. Ensure horizontal rules are visible by default.
 */
+.navcenter{
+  align-items: center;
+  margin-left: 0 !important;
+}
 
 hr {
 	height: 0;
@@ -93,6 +97,12 @@ abbr:where([title]) {
 	text-decoration: underline dotted;
 }
 
+.floatleft{
+  float:left;
+}
+.floatright{
+  float:right;
+}
 /*
 Remove the default font size and weight for headings.
 */
@@ -806,7 +816,9 @@ video {
 .flex-col {
 	flex-direction: column;
 }
-
+.flex-row{
+  flex-direction: row;
+}
 .flex-wrap {
 	flex-wrap: wrap;
 }
@@ -858,7 +870,9 @@ video {
 .rounded-md {
 	border-radius: 0.375rem;
 }
-
+.gap-20{
+  padding-right:45px;
+}
 .border {
 	border-width: 1px;
 }
@@ -1190,7 +1204,10 @@ body {
 }
 
 .hidden-mobile {
-	display: none;
+
+  display: none;
+  margin: 0;
+
 }
 
 @media (min-width: 1024px) {
@@ -1475,6 +1492,56 @@ pre {
 	color: #ffffff;
 }
 
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.content-display.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.markdown-body.dark-mode {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+}
+
+.markdown-body.dark-mode code {
+  background-color: #282828;
+  color: #ffffff;
+}
+
+.markdown-body.dark-mode pre {
+  background-color: #292828;
+}
+
+.markdown-body.dark-mode a {
+  color: #bb86fc;
+}
+
+.markdown-body.dark-mode table tr {
+  background-color: #242424;
+  color: #ffffff;
+}
+
+.content-display.dark-mode h1, .content-display.dark-mode h2, .content-display.dark-mode h3 {
+  color: #ffffff;
+}
+
+.content-display.dark-mode code {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.content-display.dark-mode pre {
+  background-color: #333333;
+}
+
+.content-display.dark-mode a {
+  color: #bb86fc;
+}
+
 @media (max-width: 768px) {
 	.toggle-button {
 		top: 30%;
@@ -1657,10 +1724,11 @@ body.bg-black {
 
 /* styling for the toggle switch */
 .switch {
-	position: relative;
-	display: inline-block;
-	width: 60px;
-	height: 34px;
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+  margin-right: 20px;
 }
 
 .switch input {
@@ -1699,6 +1767,10 @@ input:checked + .slider {
 
 input:checked + .slider:before {
 	transform: translateX(26px);
+}
+
+.smaller {
+ scale:0.7;
 }
 /* Light Mode Styles */
 body.light-mode {
