@@ -277,19 +277,45 @@ document.addEventListener("DOMContentLoaded", async function () {
     "https://api.github.com/repos/jfmartinz/ResourceHub/contents/"
   );
 });
+
+let originalCards = [];
+
 function filterCards() {
   const input = document.querySelector(".search-input");
   const val = input.value.toLowerCase();
-  const cards = document.querySelectorAll(".card");
-  cards.forEach((card) => {
+  const cardContainer = document.getElementById("card-container");
+
+  // Populate originalCards if empty
+  if (originalCards.length === 0) {
+    originalCards = Array.from(document.querySelectorAll(".card"));
+  }
+
+  // Filter and sort cards from the original set of cards
+  const filteredCards = originalCards.filter(card => {
     const title = card.querySelector("p").textContent.toLowerCase();
-    if (title.includes(val)) {
-      card.style.display = "block";
-    } else {
-      card.style.display = "none";
-    }
+    return title.includes(val);
+  }).sort((a, b) => {
+    const titleA = a.querySelector("p").textContent.toLowerCase();
+    const titleB = b.querySelector("p").textContent.toLowerCase();
+    return titleA.localeCompare(titleB);
+  });
+
+  // Clear the container
+  cardContainer.innerHTML = "";
+
+  // Append filtered and sorted cards with 10px left margin
+  filteredCards.forEach(card => {
+    card.style.marginLeft = "85px";
+    cardContainer.appendChild(card);
   });
 }
+
+// Ensure the filterCards function runs initially after DOM content is loaded
+document.addEventListener("DOMContentLoaded", filterCards);
+
+
+
+
 
 // LOTTIE ANIMATION
 
