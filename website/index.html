@@ -8,6 +8,31 @@
     <title>ResourceHub</title>
     <link rel="stylesheet" href="mainstyle.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.6/lottie.min.js"></script>
+    <style>
+        h1 {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin-top: 25px;
+  font-size: 45px;
+  color: var(--light);
+  text-align: center;
+  transition: color 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+h1:hover {
+  color: var(--primary);
+}
+
+#contributor {
+  margin: 0;
+  padding: 50px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+    </style>
 
 </head>
 
@@ -342,7 +367,10 @@
             </div>
         </div>
     </div>
-
+    <h1>Faces of Dedication: Our Contributing Heroes</h1>
+    <div id="loading1"></div>
+    <div id="contributor"></div>
+  
 
 
     <!-- Footer -->
@@ -398,6 +426,7 @@
         });
     </script>
     <script src="mainapp.js"></script>
+    <script src="contibuters.js"></script>
 
 
 </body>
