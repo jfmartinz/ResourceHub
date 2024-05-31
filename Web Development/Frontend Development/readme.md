@@ -1055,6 +1055,15 @@ to everyone - everywhere!</td>
         <th>Description</th>
       </tr>
   <tr>
+  
+   <tr>
+    <td> <a href="https://youtu.be/E_tZH9R_zi8?si=9sSTElTnNMM-aLW_">Typing Speed Test</a></td>
+    <td>Build a smooth typing speed tester game using Vanilla JavaScript. You will learn DOM manipulation, event handling, timers and intervals, string methods.</td>
+    </tr>
+   <tr>
+    <td> <a href="https://youtu.be/g1j9rR-H1lk?si=-P7HevBG2NAdLyS1">QR Code Generator</a></td>
+    <td>A quick QR Code generator for your links or text freely accessible for lifetime. You fill learn how to toggle css classes with JS, DOM manipulation, implement concepts of JS</td>
+    </tr>
    <tr>
     <td><a href="https://github.com/rngueco/intro-component-with-signup-form">Signup form</a></td>
     <td>This project is built using HTML, Sass, and JavaScript, focusing on creating a responsive design and implementing client-side form validation. Key features include error messaging for empty fields and incorrectly formatted email addresses, and hover states for interactive elements.</td>
