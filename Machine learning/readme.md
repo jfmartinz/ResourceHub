@@ -52,28 +52,7 @@
 
 ### Tutorials or Courses
 
-<table width="100%">
-  <tr>
-    <th>Course</th>
-    <th>Description</th>
-    <th>Platform</th>
-  </tr>
-  <tr>
-    <td><a href="https://www.coursera.org/specializations/machine-learning-introduction?adgroupid=&adposition=&campaignid=20926611296&creativeid=&device=c&devicemodel=&gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADrK5TrhOjJ47JLlaREf_878qbrBO-OpMFviywJ7hgkN7YKSH2AOmMcaAm4HEALw_wcB&hide_mobile_promo&keyword=&matchtype=&network=x&utm_campaign=b2c_india_machine-learning-introduction_stanford-deeplearning.ai_ftcof_specializations_arte_jan-24_dr_pmax_gads_lg-all&utm_medium=sem&utm_source=gg">Machine Learning Specialization</a></td>
-    <td>Break Into AI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng.</td>
-    <td>Coursera</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">Python for Data Science and Machine Learning Bootcamp</a></td>
-    <td>Learn how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Learning, Tensorflow, and more!</td>
-    <td>Udemy</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.coursera.org/learn/machine-learning-with-python">Machine Learning with Python</a></td>
-    <td>Explore decision trees, SVMs, KNN classifiers, and Logistic regression for binary classification. Discover libraries like Scikit-learn and evaluation metrics for model assessment.</td>
-    <td>Coursera</td>
-  </tr>
-</table>
+>Discover a collection of tutorials and courses for learning the Mathamatics,Fundamentals,Algorithms and more which are requied for Machine learning.
 
 #### Fundamentals of Mathematics
 
@@ -143,6 +122,14 @@
         <td>
         The Google Colab introductory notebook provides a comprehensive guide on how to use Google Colab for interactive Python programming. It covers the basics of creating and running code cells, integrating with Google Drive for storage, and using Colab's powerful computing resources. </td>
     </tr>
+    <tr>
+    <td><a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/">Python for Data Science and Machine Learning Bootcamp</a></td>
+    <td>Learn how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Learning, Tensorflow, and more!</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/learn/machine-learning-with-python">Machine Learning with Python</a></td>
+    <td>Explore decision trees, SVMs, KNN classifiers, and Logistic regression for binary classification. Discover libraries like Scikit-learn and evaluation metrics for model assessment.</td>
+  </tr>
 </table>
 
 
@@ -606,6 +593,10 @@
         <td> <a href="https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning">Machine learning with python by MIT</a></td>
         <td>This course provided directly to the edX platform's "Machine Learning with Python: from Linear Models to Deep Learning" course offered by the Massachusetts Institute of Technology (MIT). </td>
       </tr>    
+      <tr>
+    <td><a href="https://www.coursera.org/specializations/machine-learning-introduction?adgroupid=&adposition=&campaignid=20926611296&creativeid=&device=c&devicemodel=&gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADrK5TrhOjJ47JLlaREf_878qbrBO-OpMFviywJ7hgkN7YKSH2AOmMcaAm4HEALw_wcB&hide_mobile_promo&keyword=&matchtype=&network=x&utm_campaign=b2c_india_machine-learning-introduction_stanford-deeplearning.ai_ftcof_specializations_arte_jan-24_dr_pmax_gads_lg-all&utm_medium=sem&utm_source=gg">Machine Learning Specialization</a></td>
+    <td>Break Into AI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng.</td>
+  </tr>
   </table>
 
   ### Projects
