@@ -1314,6 +1314,24 @@ body{
   transition:all 0.5s linear;
 }
 
+.card-content p {
+  font-size: 0.75rem; /* Set a base font size for smaller screens */
+  line-height: 1.2;
+  /* Adjust font size for different screen sizes */
+  @media (min-width: 640px) {
+    font-size: 1rem; /* Increase font size for screens >= 640px (e.g., small tablets) */
+  }
+  @media (min-width: 768px) {
+    font-size: 1.25rem; /* Increase font size for screens >= 768px (e.g., tablets) */
+  }
+  @media (min-width: 1024px) {
+    font-size: 1.5rem; /* Increase font size for screens >= 1024px (e.g., laptops) */
+  }
+  @media (min-width: 1280px) {
+    font-size: 1.75rem; /* Increase font size for screens >= 1280px (e.g., large desktops) */
+  }
+}
+
 #card-container {
   gap: 2%;
 }
