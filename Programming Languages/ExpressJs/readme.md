@@ -401,7 +401,7 @@
 ### IDEs for Express.js
 <table width="100%">
  <tr>
-   <th>IDE</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -433,7 +433,7 @@
 ### Online Editors for Express.js
 <table width="100%">
  <tr>
-   <th>Editor</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -467,7 +467,7 @@
 ### Utility Libraries
 <table width="100%">
  <tr>
-   <th>Library</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -499,7 +499,7 @@
 ### Security Libraries
 <table width="100%">
  <tr>
-   <th>Library</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -531,7 +531,7 @@
 ### Testing Libraries
 <table width="100%">
  <tr>
-   <th>Library</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -561,7 +561,7 @@
 ### Performance Optimization
 <table width="100%">
  <tr>
-   <th>Topic</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -593,7 +593,7 @@
 ### Scaling and Deployment
 <table width="100%">
  <tr>
-   <th>Topic</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -621,7 +621,7 @@
 ### Microservices
 <table width="100%">
  <tr>
-   <th>Topic</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -641,7 +641,7 @@
 ### GraphQL
 <table width="100%">
  <tr>
-   <th>Topic</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -661,27 +661,184 @@
    <td>Introduction to Apollo Server, a GraphQL server implementation for Node.js and Express.js, including setup, configuration, and integration with Express.js applications.</td>
  </tr>
  <tr>
-   <td><a href="#graphql-client">GraphQL Client</a></td>
+   <td><a href="https://graphql.org/graphql-js/graphql-clients/">GraphQL Client</a></td>
    <td>Explanation of GraphQL client libraries for consuming GraphQL APIs in Express.js applications, including Apollo Client, Relay, and urql.</td>
  </tr>
  <tr>
-   <td><a href="#graphql-subscriptions">GraphQL Subscriptions</a></td>
+   <td><a href="https://blog.logrocket.com/graphql-subscriptions-nodejs-express/">GraphQL Subscriptions</a></td>
    <td>Guide on implementing real-time GraphQL subscriptions in Express.js applications using WebSocket connections to push data updates to clients.</td>
  </tr>
  <tr>
-   <td><a href="#graphql-security">GraphQL Security</a></td>
+   <td><a href="https://escape.tech/blog/how-to-secure-express-js-api/">GraphQL Security</a></td>
    <td>Best practices for securing GraphQL APIs in Express.js applications, including authentication, authorization, query complexity limiting, and input validation.</td>
  </tr>
  <tr>
-   <td><a href="#graphql-performance">GraphQL Performance</a></td>
-   <td>Techniques for optimizing GraphQL performance in Express.js applications, including data batching, caching, query optimization, and schema design considerations.</td>
- </tr>
- <tr>
-   <td><a href="#graphql-integration">GraphQL Integration</a></td>
+   <td><a href="https://medium.com/@utkarshprakash/setting-up-graphql-server-with-nodejs-express-and-mongodb-d72fba13216">GraphQL Integration</a></td>
    <td>Guide on integrating GraphQL with existing Express.js applications, including migrating from RESTful APIs, coexisting with REST, and integrating with microservices.</td>
  </tr>
  <tr>
-   <td><a href="#graphql-tools">GraphQL Tools</a></td>
+   <td><a href="https://www.npmjs.com/package/graphql-tools">GraphQL Tools</a></td>
    <td>Overview of GraphQL tooling for schema stitching, schema transformation, mocking, and schema generation in Express.js applications.</td>
+ </tr>
+</table>
+
+### WebSockets
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://medium.com/@yassimortensen/an-introduction-to-websockets-10b131182559">Introduction to WebSockets</a></td>
+   <td>An overview of WebSockets and their advantages over traditional HTTP connections for real-time communication in web applications, including bi-directional data transfer and low latency.</td>
+ </tr>
+ <tr>
+   <td><a href="https://datatracker.ietf.org/doc/html/rfc6455">WebSocket Protocol</a></td>
+   <td>Explanation of the WebSocket protocol and its handshake process for establishing and maintaining persistent connections between clients and servers in Express.js applications.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.tutorialspoint.com/websockets/websockets_implementation.htm">Implementing WebSockets</a></td>
+   <td>Guide on implementing WebSocket endpoints in Express.js applications using libraries like Socket.io or ws, including handling WebSocket events and broadcasting messages to connected clients.</td>
+ </tr>
+ <tr>
+   <td><a href="https://dev.to/blissfelix3/real-time-applications-with-nodejs-and-websockets-1fcc">Real-Time Applications</a></td>
+   <td>Examples and use cases of real-time applications powered by WebSockets in Express.js, including chat applications, live updates, notifications, and multiplayer games.</td>
+ </tr>
+</table>
+
+## Express.js Projects
+
+### Beginner Level Projects
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://iq.opengenus.org/image-recognition-web-app-using-express-js/">Image Recognition Web App using Express.js</a></td>
+   <td>A beginner-friendly project demonstrating how to build a web application for image recognition using Express.js.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/bradtraversy/chatcord">Chatcord</a></td>
+   <td>A simple chat application built with Express.js, Socket.io, and Vanilla JavaScript, suitable for beginners to learn real-time communication.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/expressjs/multer">Multer</a></td>
+   <td>A beginner-friendly project demonstrating how to handle file uploads in Express.js using the Multer middleware.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/lovell/sharp">Sharp</a></td>
+   <td>A beginner-friendly project showcasing how to perform image processing and manipulation in Express.js using the Sharp library.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/chatwoot/chatwoot">Chatwoot</a></td>
+   <td>A beginner-friendly project demonstrating how to set up and deploy a customer support chat application with Express.js.</td>
+ </tr>
+</table>
+
+### Intermediate Level Projects
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/mateuszwszola/twitter-clone">Twitter Clone</a></td>
+   <td>An intermediate-level project that mimics the functionality of Twitter, allowing users to post tweets, follow other users, and engage in discussions.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/IonicaBizau/scrape-it">Scrape-It</a></td>
+   <td>An intermediate-level project demonstrating web scraping techniques using Express.js and the Scrape-It library to extract data from websites.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/basir/amazona">Amazona</a></td>
+   <td>An intermediate-level e-commerce project built with Express.js, React, and Node.js, featuring functionalities like product listing, cart management, and checkout.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/innextinit/foodOrdering">Food Ordering</a></td>
+   <td>An intermediate-level project demonstrating how to build a food ordering and delivery application using Express.js, MongoDB, and React.</td>
+ </tr>
+</table>
+
+### Advanced Level Projects
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/gazpachu/hypatia">Hypatia</a></td>
+   <td>An advanced-level project showcasing the development of an e-learning platform with features such as course management, user authentication, and content delivery.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/techreagan/youtube-clone-nodejs-api">YouTube Clone Node.js API</a></td>
+   <td>An advanced-level project demonstrating how to build a backend API for a YouTube clone application using Express.js and MongoDB.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/sunnysetia93/Event-Management-NodeJS-ReactJS">Event Management NodeJS ReactJS</a></td>
+   <td>An advanced-level project showcasing the development of an event management application using Express.js for the backend and React.js for the frontend.</td>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/sebastianhaas/medical-appointment-scheduling">Medical Appointment Scheduling</a></td>
+   <td>An advanced-level project demonstrating how to build a medical appointment scheduling system with features such as appointment booking, user management, and notifications.</td>
+ </tr>
+</table>
+
+
+## Youtube
+
+### YouTube Channels
+<table width="100%">
+ <tr>
+   <th>Channel</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/@TraversyMedia">Traversy Media</a></td>
+   <td>A YouTube channel by Brad Traversy offering tutorials on web development topics including Express.js, Node.js, and related technologies.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/@NetNinja">The Net Ninja</a></td>
+   <td>A YouTube channel providing tutorials on web development, including Express.js, Node.js, MongoDB, and other related technologies, presented in a clear and concise format.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/@WebDevSimplified">WebDevSimplified</a></td>
+   <td>A YouTube channel WebDevSimplified offering tutorials on various web development topics, including Express.js, Node.js, and advanced JavaScript concepts.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/@ansonthedev">Anson the Developer</a></td>
+   <td>A YouTube channel providing tutorials on web development technologies, including Express.js, Node.js, React.js, and more, with a focus on practical examples and real-world projects.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/@freecodecamp">freeCodeCamp.org</a></td>
+   <td>A YouTube channel by freeCodeCamp.org offering tutorials on a wide range of programming topics, including Express.js, Node.js, MongoDB, and full-stack development.</td>
+ </tr>
+</table>
+
+### YouTube Playlists
+<table width="100%">
+ <tr>
+   <th>Playlist</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PLp50dWW_m40Vruw9uKGNqySCNFLXK5YiO">Express.js Tutorial for Beginners</a></td>
+   <td>A curated playlist covering Express.js basics for beginners, including routing, middleware, handling requests and responses, and more.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS">Express.js Crash Course</a></td>
+   <td>A comprehensive playlist offering a crash course on both Node.js and Express.js, covering fundamental concepts and practical examples.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PLbGui_ZYuhigerSlDF_v1t1mM2iGomXnq">Express.js Course</a></td>
+   <td>A series of tutorials guiding you through the process of building a RESTful API using Express.js, covering topics such as CRUD operations, authentication, and error handling.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PL_cUvD4qzbkwjmjy-KjbieZ8J9cGwxZpC">Express.js Advanced Tutorials</a></td>
+   <td>A collection of advanced tutorials on Express.js, covering topics such as authentication, authorization, security best practices, and performance optimization.</td>
+ </tr>
+ <tr>
+   <td><a href="#express-js-crash-course">Express.js Crash Course</a></td>
+   <td>A condensed crash course on Express.js covering essential concepts and features for building web applications, APIs, and more.</td>
  </tr>
 </table>
