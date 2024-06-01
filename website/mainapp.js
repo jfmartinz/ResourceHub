@@ -373,3 +373,28 @@ document.addEventListener('DOMContentLoaded', () => {
       }
   });
 });
+// Get the button
+const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+// Function to scroll to the top of the page
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+}
+
+// Show or hide the button based on the scroll position
+function handleScroll() {
+  if (window.pageYOffset > 300) {
+    scrollToTopBtn.classList.add('show');
+  } else {
+    scrollToTopBtn.classList.remove('show');
+  }
+}
+
+// Add scroll event listener
+window.addEventListener('scroll', handleScroll);
+
+// Add click event listener
+scrollToTopBtn.addEventListener('click', scrollToTop);
