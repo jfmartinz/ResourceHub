@@ -665,6 +665,104 @@ Rust has a rich ecosystem of resources to help you learn and master the language
   </tr>
 </table>
 
+### Rust Projects
+> Categorized lists of Rust projects suitable for beginners, intermediate, and advanced users, providing hands-on opportunities to apply Rust skills and knowledge.
+
+### Beginner level projects
+<table>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  <tr>
+    <td><a href="https://github.com/sioodmy/todo">Todo List</a></td>
+    <td>Develop a command-line to-do list application to simplify your task management. This project is ideal for beginners since it allows them to practice key skills by adding, updating, and removing tasks. This user-friendly program will help you stay organized and increase your efficiency.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/xxczaki/cashify-rs">Currency Converter</a></td>
+    <td>Create a command-line currency converter that converts between different currencies using exchange rates accessed from public APIs. This project will enhance your skills in Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/stijnh/rust-calculator">Simple Calculator</a></td>
+    <td>Develop a command-line calculator capable of handling basic arithmetic operations, including addition, subtraction, multiplication, and division. Make mathematical tasks for people easier with your application.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/visnkmr/filedime">File Explorer</a></td>
+    <td>Create a simple file explorer that allows users to navigate and view their system’s files and directories. A simple user interface that allows you to browse and manage your files.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SLMT/rust-snake">Snake game in Rust</a></td>
+    <td>Develop the classic Snake game in Rust. This project will help you understand game development concepts while practicing Rust programming skills.</td>
+  </tr>
+</table>
+
+### Intermediate level projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/juli1/twitter-bot-rs">Twitter bot in Rust</a></td>
+      <td>The project is to develop a bot to tweet, retweet, and like tweets on Twitter.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tinrab/rusty-chat">Real-time Chat Application</a></td>
+      <td>Create a real-time chat application that includes features like private messaging, online or last-seen time, and message history. Real-time chat applications allow users to speak with one another in real-time via text, voice, or video.</td>
+    </tr>
+    <tr>
+      <td><a href="https://notryanb.github.io/rust-blog-series-1.html">Blog App with Authentication</a></td>
+      <td>Build a basic blog project with user authentication, allowing users to register, log in, and manage their own blogs. Your blogging platform allows you to share your thoughts and ideas with the world.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/blurbyte/restful-rust">RESTful API Server</a></td>
+      <td>Develop a RESTful API server in Rust, using a web framework such as Actix or Warp. Implement CRUD operations for a resource like "todos" or "notes." This makes it easy to interact with and manage your data smoothly.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/IsotoxalDev/fig">Personal Finance Tracker</a></td>
+      <td>Create a web-based personal finance tracker where users may enter and categorize their spending and revenues.</td>
+    </tr>
+  </tbody>
+</table>
+
+### Advance level projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thepowersgang/rust_os">Operating System Kernel</a></td>
+      <td>If you are looking to take on a challenging project to test and hone your Rust skills then developing an operating systems kernel can be a great choice. This will require a thorough understanding of system programming.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ajeetdsouza/zoxide/">Rust implementation of cd command</a></td>
+      <td>The cd command is used to change present working directory (pwd) to a specified directory path. It is implemented in C on Linux systems. The project is to replace it with a Rust alternative.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rust-bio/rust-bio">Rust for Bioinformatics</a></td>
+      <td>Scientists are moving to Rust for analyzing large amounts of scientific data for various reasons such as speed. Preparing or analyzing a scientific problem using the Rust Programming Language will be a good project.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rust-lang/rustc-dev-guide/blob/master/src/building/how-to-build-and-run.md">Compiler</a></td>
+      <td>Build a compiler for a programming language of your choice using Rust. This project will require you to understand the phases of compiler design and can be a bit challenging however you will get to understand the complex workings of compilers.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/erikgrinaker/toydb">Database in Rust</a></td>
+      <td>Creating a database in Rust is a good project as a database needs to be secure and performant.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## Conclusion
 
