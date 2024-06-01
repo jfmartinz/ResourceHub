@@ -91,11 +91,8 @@
 
 // script.js
 document.addEventListener("DOMContentLoaded", async function () {
-  const loading = document.getElementById("card-container");
-  loading.innerHTML = `
-  <p class="classic-4 text-white font-semibold text-center text-2xl ">Loading....</p>
-
-                `;
+  const loading = document.getElementById("loading");
+  loading.innerHTML = `<h1 class="loading">Loading</h1>`;
   const cardContainer = document.getElementById("card-container");
   //Api token fetching ,from different root
   const _0x4fa59d = _0x1546;
@@ -170,11 +167,8 @@ document.addEventListener("DOMContentLoaded", async function () {
     return _0x1b09();
   }
   function fetchGitHubData(url) {
-    const loading = document.getElementById("card-container");
-    loading.innerHTML = `
-                    <p class="classic-4 text-white font-semibold text-center text-2xl ">Loading....</p>
-
-                `;
+    const loading1 = document.getElementById("loading1");
+    loading.innerHTML = `<h1 class="loading">Loading</h1>`;
 
     fetch(url, {
       headers: {
@@ -200,8 +194,10 @@ document.addEventListener("DOMContentLoaded", async function () {
             <p style="font-size: x-large;">Error while fetching...  <button onclick="window.location.reload()">Retry</button> </p>`;
           throw new Error(`HTTP error! status: ${response.status}`);
         } else {
-          const loading = document.getElementById("card-container");
-          loading.innerHTML = " ";
+          const loading2 = document.getElementById("card-container");
+          loading2.innerHTML = " ";
+          loading1.innerHTML = ``;
+          loading.innerHTML = ``;
           return response.json();
         }
       })
@@ -291,46 +287,31 @@ function filterCards() {
   }
 
   // Filter and sort cards from the original set of cards
-  const filteredCards = originalCards.filter(card => {
-    const title = card.querySelector("p").textContent.toLowerCase();
-    return title.includes(val);
-  }).sort((a, b) => {
-    const titleA = a.querySelector("p").textContent.toLowerCase();
-    const titleB = b.querySelector("p").textContent.toLowerCase();
-    return titleA.localeCompare(titleB);
-  });
+  const filteredCards = originalCards
+    .filter((card) => {
+      const title = card.querySelector("p").textContent.toLowerCase();
+      return title.includes(val);
+    })
+    .sort((a, b) => {
+      const titleA = a.querySelector("p").textContent.toLowerCase();
+      const titleB = b.querySelector("p").textContent.toLowerCase();
+      return titleA.localeCompare(titleB);
+    });
 
   // Clear the container
   cardContainer.innerHTML = "";
 
   // Append filtered and sorted cards with 10px left margin
-  filteredCards.forEach(card => {
+  filteredCards.forEach((card) => {
     card.style.marginLeft = "85px";
     cardContainer.appendChild(card);
   });
 
   // To check if any cards are displayed
-  const displayedCards = document.querySelectorAll(".card");
-  let count = 0;
-  displayedCards.forEach((card) => {
-    if (card.style.display === "block") {
-      count++;
-    }
-  });
-  if (count === 0) {
-    document.getElementById("rate-limit-message").style.display = "block";
-    document.getElementById("rate-limit-message").innerHTML = "No results";
-  } else {
-    document.getElementById("rate-limit-message").style.display = "none";
-  }
 }
 
 // Ensure the filterCards function runs initially after DOM content is loaded
 document.addEventListener("DOMContentLoaded", filterCards);
-
-
-
-
 
 // LOTTIE ANIMATION
 
@@ -352,24 +333,24 @@ window.addEventListener("resize", function () {
 });
 
 // fucntionality to tackle the light/dark mode toggle option.
-document.addEventListener('DOMContentLoaded', () => {
-  const themeToggleButton = document.getElementById('theme-toggle');
+document.addEventListener("DOMContentLoaded", () => {
+  const themeToggleButton = document.getElementById("theme-toggle");
   const body = document.body;
 
   // Load saved theme
-  if (localStorage.getItem('theme') === 'light') {
-      body.classList.add('light-mode');
-      themeToggleButton.checked = true;
+  if (localStorage.getItem("theme") === "light") {
+    body.classList.add("light-mode");
+    themeToggleButton.checked = true;
   }
 
-  themeToggleButton.addEventListener('change', () => {
-      body.classList.toggle('light-mode');
+  themeToggleButton.addEventListener("change", () => {
+    body.classList.toggle("light-mode");
 
-      // Save theme preference
-      if (body.classList.contains('light-mode')) {
-          localStorage.setItem('theme', 'light');
-      } else {
-          localStorage.removeItem('theme');
-      }
+    // Save theme preference
+    if (body.classList.contains("light-mode")) {
+      localStorage.setItem("theme", "light");
+    } else {
+      localStorage.removeItem("theme");
+    }
   });
 });
