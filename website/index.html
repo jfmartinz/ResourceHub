@@ -135,13 +135,20 @@ h1:hover {
                 placeholder="Search..." oninput="filterCards()">
         </div>
         <div id="rate-limit-message" class="mb-4" ></div>
+        <div class="h2-container">
+            <h2 style="color: rgb(248, 250, 251); padding-bottom: 20px; ">Explore<span class="auto-type"></span></h2>
+        </div>
+        <br>
+        <br>
         <center>
             <div id="card-container"
                 class="bg-black hover:text-black cards grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-2 ">
 
             </div>
         </center>
+        
     </div>
+   
 
 
 
@@ -427,7 +434,15 @@ h1:hover {
     </script>
     <script src="mainapp.js"></script>
     <script src="contibuters.js"></script>
-
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    <script>
+        var typed = new Typed(".auto-type",{
+            strings: ["  Domains"],
+            typeSpeed: 150,
+            backSpeed: 150,
+            loop: true
+        })
+    </script>
 
 </body>
 
