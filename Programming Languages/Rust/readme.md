@@ -493,6 +493,178 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 </table>
 
 
+### Data Visualization
+> Data visualization in Rust, enabling users to create visual representations of data effectively.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/blitzarx1/egui_graphs">blitzarx1/egui_graphs</a> - <a href="https://crates.io/crates/egui_graphs">egui_graphs</a></td>
+    <td>Interactive graph visualization widget powered by egui and petgraph. </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/djduque/pgfplots">djduque/pgfplots</a> - <a href="https://crates.io/crates/pgfplots">pgfplots</a></td>
+    <td>Library to generate publication-quality figures. <a href="https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mazznoer/colorgrad-rs">mazznoer/colorgrad-rs</a> - <a href="https://crates.io/crates/colorgrad">colorgrad</a></td>
+    <td>Color scales library for data visualization, charts, games, maps, generative art, and others.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/milliams/plotlib">milliams/plotlib</a></td>
+    <td>A simple plotting library for Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/plotly/plotly.rs">plotly</a></td>
+    <td>Plotly for Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cpmech/plotpy">plotpy</a> - <a href="https://crates.io/crates/plotpy">plotpy</a></td>
+    <td>Rust plotting library using Python (Matplotlib).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/plotters-rs/plotters">plotters</a></td>
+    <td>A drawing library for data plotting for both WASM and native applications. <a href="https://github.com/plotters-rs/plotters/actions"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rerun-io/rerun">rerun</a> - <a href="https://crates.io/crates/rerun">rerun</a></td>
+    <td>An SDK for logging computer vision and robotics data (tensors, point clouds, etc.) paired with a visualizer for exploring that data over time.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/saresend/Gust">saresend/gust</a></td>
+    <td>A simple and fast data visualization library for Rust.</td>
+  </tr>
+</table>
+
+
+### Youtube
+> Compilation of Rust-related YouTube channels and videos, offering users supplementary learning resources and insights into Rust development from experts and enthusiasts.
+
+### YouTube Channels
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@JeremyChone">Jeremy Chone</a></td>
+    <td>Channel focused on various programming topics including Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@letsgetrusty">Lets Get Rusty</a></td>
+    <td>Educational content about Rust programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@jonhoo">Jon Gjengset</a></td>
+    <td>In-depth Rust programming tutorials and live coding sessions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@therustybits">The Rusty Bits</a></td>
+    <td>Content focused on Rust programming and related technologies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@codetothemoon">Code to the Moon</a></td>
+    <td>Various programming tutorials including Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@BrooksBuilds">Brooks Builds</a></td>
+    <td>Projects and tutorials on Rust and other programming languages.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@NoBoilerplate">No Boilerplate</a></td>
+    <td>Channel dedicated to efficient and clean coding practices, including Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@_noisecode">Logan Smith</a></td>
+    <td>Programming tutorials and tips, including Rust content.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/@chrisbiscardi">Chris Biscardi</a></td>
+    <td>Rust programming tutorials and live streams.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@timClicks">Tim Clicks</a></td>
+    <td>Content on Rust programming and open source contributions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/@dario.lencina">Dario</a></td>
+    <td>Programming tutorials, including Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/@sphaerophoria">sphaerophoria</a></td>
+    <td>Videos on Rust programming and software development.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@francescociulla">Francesco Ciulla</a></td>
+    <td>Educational content on various programming languages including Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/@derekbanas">Derek Banas</a></td>
+    <td>Comprehensive tutorials on various programming languages including Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/@harkirat1">Harkirat Singh</a></td>
+    <td>Programming tutorials with a focus on Rust.</td>
+  </tr>
+</table>
+
+### YouTube Videos
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8">Let's Get Rusty</a></td>
+    <td>Video series that go through the Rust lang book chapter by chapter.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLW2L8KbM0O7aRi_Bt4YE1JuW9EdMs0ztR">Idiomatic Rust in Simple Steps (IRISS)</a></td>
+    <td>Step-by-step guide to learning Rust with no programming knowledge required.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=BpPEoZW5IiY">Learn Rust Programming - Complete Course 🦀</a></td>
+    <td>Complete Rust programming course by FreeCodeCamp.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs">Rust Crash Course Tutorial</a></td>
+    <td>This playlist is designed to guide you from the very basics of Rust to its most advanced features.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=lzKeecy4OmQ">Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises</a></td>
+    <td>Learn Rust from scratch and practice your new skills with 19 exercises.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=XZtlD_m59sM">Rust Axum Full Course</a></td>
+    <td>Full course for Axum, a web framework for Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/vAjle3c9Xqc?si=uN1sM48VDOtBglNQ">Build A Full Stack Chatbot in Rust (feat. Leptos & Rustformers)</a></td>
+    <td>Walkthrough of building a ChatGPT clone using Rust on the frontend and backend.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=gboGyccRVXI&t=1038s">Solving Distributed Systems Challenges in Rust</a></td>
+    <td>Stream working through the fly.io distributed systems challenges in Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://pwy.io/posts/learning-to-fly-update-2024/">Learning to Fly Series</a></td>
+    <td>A beginner-friendly Rust tutorial combining evolution, neural network, and genetic algorithm.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLqbS7AVVErFhAhQ5s9SWcvxHh4GwsIk_d">impl Rust Playlist</a></td>
+    <td>Project-based tutorials by Jon Gjengset, including creating Git, BitTorrent client, and Wordle solver in Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLqbS7AVVErFirH9armw8yXlE6dacF-A6z">Decrusted Series by Jon Gjengset</a></td>
+    <td>A series focused on improving and optimizing Rust code.</td>
+  </tr>
+</table>
+
 
 ## Conclusion
 
