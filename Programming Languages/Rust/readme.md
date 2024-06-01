@@ -763,6 +763,117 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 </table>
 
 
+### Books
+> Recommended books and resources for learning Rust programming, catering to users preferring in-depth and structured learning materials.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://doc.rust-lang.org/book/">The Rust Programming Language</a></td>
+    <td>The official Rust book, providing a comprehensive guide to the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ralfj.de/projects/rust-101/main.html">Welcome to Rust-101</a></td>
+    <td>An introductory course to Rust, suitable for beginners.</td>
+  </tr>
+  <tr>
+    <td><a href="https://doc.rust-lang.org/rust-by-example/">Rust by Example</a></td>
+    <td>A collection of examples that cover various Rust concepts and standard libraries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dhghomon.github.io/easy_rust/">Easy Rust</a></td>
+    <td>A step-by-step guide to learning Rust, aimed at beginners.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/why-rust/9781492048589/">Why Rust?</a></td>
+    <td>An O'Reilly book explaining why Rust is a great choice for system programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/learning-rust/9781785884306">Learning Rust</a></td>
+    <td>A Packt book offering a detailed introduction to Rust programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/beginning-rust-from/9781484234686/">Beginning Rust - From Novice to Professional</a></td>
+    <td>A book that takes you from Rust novice to professional.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/rust-cookbook/9781785880254">Rust Cookbook</a></td>
+    <td>A collection of recipes to solve common problems in Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/rust-standard-library-cookbook/9781788623926">Rust Standard Library Cookbook</a></td>
+    <td>Solutions and examples for using the Rust standard library.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/network-programming-with/9781788624893/">Network Programming with Rust</a></td>
+    <td>A guide to network programming using Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/rust-programming-by-example/9781788390637">Rust Programming by Example</a></td>
+    <td>A book that teaches Rust through a series of practical examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Rust-Quick-Start-Guide-programming/dp/1789616700">Rust Quick Start Guide</a></td>
+    <td>A quick start guide to Rust programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/rust-in-action">Rust in Action</a></td>
+    <td>A comprehensive guide to Rust, focusing on real-world applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://stevedonovan.github.io/rust-gentle-intro/">A Gentle Introduction to Rust</a></td>
+    <td>An accessible introduction to Rust for beginners.</td>
+  </tr>
+  <tr>
+    <td><a href="https://indosaram.github.io/rust-python-book/">Introduction to Rust for Python programmers (Korean, 한국어)</a></td>
+    <td>A guide to Rust for Python programmers, available in Korean.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/rust-web-development">Rust Web Development</a></td>
+    <td>A book focused on building web applications with Rust.</td>
+  </tr>
+</table>
+
+### Rust Communities
+> Various Rust communities and forums where developers gather to discuss, collaborate, and share knowledge about Rust programming language.
+
+<table>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  <tr>
+    <td><a href="https://www.rust-lang.org/">Official Rust Community</a></td>
+    <td>This is the official community hub for Rust. It includes forums for general discussions, announcements, help with Rust programming, and contributions to the Rust project itself.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.reddit.com/r/rust/">Rust Reddit</a></td>
+    <td>The Rust subreddit is a popular platform for discussions, sharing Rust-related news, projects, tutorials, and seeking help from the community.</td>
+  </tr>
+  <tr>
+    <td><a href="https://discord.gg/rust-lang">Rust Discord</a></td>
+    <td>Discord is a chat platform, and the Rust community maintains an official Discord server where developers can chat in real-time, seek help, and engage with others.</td>
+  </tr>
+  <tr>
+    <td><a href="https://users.rust-lang.org/">Rust Users Forum</a></td>
+    <td>This is the official forum for Rust users, where you can ask questions, share your projects, and participate in discussions related to Rust programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.rust-lang.org/community/user-groups">Rust Users Groups (RUGs)</a></td>
+    <td>Rust Users Groups are local communities of Rust developers who meet regularly to discuss Rust, share knowledge, and collaborate on projects. You can find a group near you or start one if there isn't any in your area.</td>
+  </tr>
+  <tr>
+    <td><a href="https://discord.com/">Rust Discord Communities</a></td>
+    <td>There are several Discord communities dedicated to Rust programming, including Rustaceans, Rustlang, and others. You can search for Rust-related Discord servers and join ones that suit your interests.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.rust-lang.org/community/events">Rust Meetups and Conferences</a></td>
+    <td>Rust meetups and conferences are excellent opportunities to meet other Rust developers in person, attend talks, workshops, and hackathons, and learn more about Rust. Keep an eye out for local meetups and global conferences like RustConf.</td>
+  </tr>
+</table>
 
 ## Conclusion
 
