@@ -278,6 +278,221 @@ Rust has a rich ecosystem of resources to help you learn and master the language
   </tr>
 </table>
 
+### IDEs
+> Resources highlighting various Integrated Development Environments (IDEs) for Rust programming, aiding users in selecting the right tools for their development workflow.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.eclipse.org/">Eclipse</a></td>
+    <td>A well-known open-source IDE that supports various programming languages.</td>
+  </tr>
+  <tr>
+    <td><a href="https://code.visualstudio.com/">Visual Studio Code</a></td>
+    <td>A popular code editor with extensive support for Rust through extensions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PistonDevelopers/VisualRust">PistonDevelopers/VisualRust</a></td>
+    <td>A Visual Studio extension for Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://vim.sourceforge.io/">Vim</a></td>
+    <td>The ubiquitous text editor, known for its efficiency and extensibility.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sublimetext.com/">Sublime Text</a></td>
+    <td>A sophisticated text editor for code, markup, and prose.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.jetbrains.com/idea/">IntelliJ</a></td>
+    <td>A powerful IDE for various programming languages, including Rust with plugins.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/madeso/ride">Ride</a></td>
+    <td>An IDE designed specifically for Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://gitpod.io">gitpod.io</a></td>
+    <td>Online IDE with full Rust support based on Rust Language Server.</td>
+  </tr>
+</table>
+
+### Text Editors
+> Text editors compatible with Rust programming, providing users with alternatives to full-fledged IDEs for coding in Rust.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://amp.rs">amp</a></td>
+    <td>Inspired by Vi/Vim.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/emacs-ng/emacs-ng">emacs-ng</a></td>
+    <td>Complementing the C codebase with Rust code to introduce new features.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gchp/iota">gchp/iota</a></td>
+    <td>A simple text editor.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/helix-editor/helix">helix</a></td>
+    <td>A post-modern modal text editor inspired by Neovim/Kakoune.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ilai-deutel/kibi">ilai-deutel/kibi</a></td>
+    <td>A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lapce/lapce">Lapce</a></td>
+    <td>A modern editor with a backend. Taking inspiration from the discontinued xi-editor.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mathall/rim">mathall/rim</a></td>
+    <td>Vim-like text editor.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/curlpipe/ox">ox</a></td>
+    <td>An independent Rust text editor that runs in your terminal!</td>
+  </tr>
+  <tr>
+    <td><a href="https://git.sr.ht/~lessa/pepper">vamolessa/pepper</a> (<a href="https://crates.io/crates/pepper">pepper</a>)</td>
+    <td>An opinionated modal editor to simplify code editing from the terminal.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zed-industries/zed">zed</a></td>
+    <td>A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</td>
+  </tr>
+</table>
+
+### Development Tools
+> Resources introducing essential development tools and utilities for Rust programming, enhancing users' productivity and efficiency in coding tasks.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Julien-cpsn/ATAC">ATAC</a></td>
+    <td>A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Canop/bacon">bacon</a></td>
+    <td>Background rust code checker, similar to cargo-watch.</td>
+  </tr>
+  <tr>
+    <td><a href="https://crates.io/crates/clippy">clippy</a></td>
+    <td>Rust lints.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/clog-tool/clog-cli">clog-tool/clog-cli</a></td>
+    <td>Generates a changelog from git metadata (conventional changelog).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/comtrya/comtrya">comtrya</a></td>
+    <td>A configuration management tool for localhost / dotfiles</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Wulf/create-rust-app">create-rust-app</a></td>
+    <td>Set up a modern rust+react web app by running one command.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dan-t/rusty-tags">dan-t/rusty-tags</a></td>
+    <td>Create ctags/etags for a cargo project and all of its dependencies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/datanymizer/datanymizer">datanymizer/datanymizer</a></td>
+    <td>Powerful database anonymizer with flexible rules</td>
+  </tr>
+  <tr>
+    <td><a href="https://crates.io/crates/git-delta">delta</a></td>
+    <td>A syntax-highlighter for git and diff output</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dotenv-linter/dotenv-linter">dotenv-linter</a></td>
+    <td>Linter for `.env` files</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/envio-cli/envio">envio-cli/envio</a></td>
+    <td>A modern and secure CLI tool for managing environment variables.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/FrolicOrg/Frolic">frolic</a></td>
+    <td>An API layer to build customer-facing dashboards 10x faster.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/brocode/fw">fw</a></td>
+    <td>Workspace productivity booster</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kyu08/fzf-make">fzf-make</a> (<a href="https://crates.io/crates/fzf-make">fzf-make</a>)</td>
+    <td>A command line tool that executes make target using fuzzy finder with preview window.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/geiger-rs/cargo-geiger">geiger</a></td>
+    <td>A program that lists statistics related to usage of unsafe code in a crate and all its dependencies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/orhun/git-cliff">git-cliff</a></td>
+    <td>A highly customizable Changelog Generator that follows Conventional Commit specifications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/saschagrunert/git-journal/">git-journal</a></td>
+    <td>The Git Commit Message and Changelog Generation Framework.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rksm/hot-lib-reloader-rs">hot-lib-reloader</a></td>
+    <td>Hot reload Rust code</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lasantosr/intelli-shell">intelli-shell</a></td>
+    <td>Bookmark commands with placeholders and search or autocomplete at any time.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/casey/just">just</a></td>
+    <td>A handy command runner for project-specific tasks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jacobdeichert/mask">mask</a></td>
+    <td>A CLI task runner defined by a simple markdown file</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fiatjaf/module-linker">Module Linker</a></td>
+    <td>Extension that adds` links to references in `mod`, `use` and `extern crate` statements at GitHub.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dalance/ptags">ptags</a></td>
+    <td>A parallel universal-ctags wrapper for git repository.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/racer-rust/racer">Racer</a></td>
+    <td>Code completion for Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/huhu/rust-search-extension">Rust Search Extension</a></td>
+    <td>A handy browser extension to search crates and docs in address bar (omnibox).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rust-lang/rustup">Rustup</a></td>
+    <td>The Rust toolchain installer</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/igor-petruk/scriptisto">scriptisto</a></td>
+    <td>A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/crate-ci/typos">typos</a> (<a href="https://crates.io/crates/typos-cli">typos-cli</a>)</td>
+    <td>Source code spell checker.</td>
+  </tr>
+</table>
+
+
 
 ## Conclusion
 
