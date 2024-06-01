@@ -1,5 +1,9 @@
 
 ## Data Structures and Algorithms (DSA)
+
+The fundamental building blocks of computer science and programming are Data Structures and Algorithms (DSA), which provide effective problem-solving and optimization. Acquiring knowledge of DSA is essential since it improves one's capacity to produce efficient and optimized code, which is necessary for solving intricate computational issues. Algorithms give systematic methods for carrying out operations and resolving issues, while data structures offer methods for organizing and storing data for quick access and change. Any aspirant software engineer or developer must possess a strong foundation in DSA in order to construct scalable applications, boost performance, and ace technical interviews.
+
+
 ## Table of Contents
 - [Why Learn Algorithms and Data Structures (DSA)?](#why-learn-algorithms-and-data-structures-dsa)
 - [Websites to Learn DSA](#websites-to-learn-dsa)
@@ -14,14 +18,14 @@
   - [Videos and Tutorials](#videos-and-tutorials)
   - [Blogs and Articles](#blogs-and-articles)
 
-## Why Learn Algorithms and Data Structures (DSA)?
 
-The fundamental building blocks of computer science and programming are Data Structures and Algorithms (DSA), which provide effective problem-solving and optimization. Acquiring knowledge of DSA is essential since it improves one's capacity to produce efficient and optimized code, which is necessary for solving intricate computational issues. Algorithms give systematic methods for carrying out operations and resolving issues, while data structures offer methods for organizing and storing data for quick access and change. Any aspirant software engineer or developer must possess a strong foundation in DSA in order to construct scalable applications, boost performance, and ace technical interviews.
 
 
 ### Websites to Learn DSA
+> A selection of websites where you can learn and practice Data Structures and Algorithms (DSA).
 
-<table width="100%">
+
+< width="100%">
  <tr>
    <th>Resource</th>
    <th>Description</th>
@@ -46,11 +50,32 @@ The fundamental building blocks of computer science and programming are Data Str
    <td><a href="https://www.freecodecamp.org/learn/">freeCodeCamp</a></td>
    <td>freeCodeCamp provides a free, self-paced curriculum that covers JavaScript algorithms and data structures, along with interactive coding exercises to reinforce learning.</td>
  </tr>
+ 
+ <tr>
+   <th>Resource</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-javascript">HackerRank</a></td>
+   <td>Practice problems and tutorials to enhance your DSA skills.</td>
+ </tr>
+ <tr>
+   <td><a href="https://codesignal.com/">CodeSignal</a></td>
+   <td>A platform offering coding challenges and practice problems.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.codewars.com/">Codewars</a></td>
+   <td>Challenge your coding skills with various problems on Codewars.</td>
+ </tr>
+
+
 </table>
 
 ## DSA Language
 
 ### DSA in JavaScript
+> Resources categorized by programming languages to learn Data Structures and Algorithms.
+
 <table width="100%">
  <tr>
    <th>Resource</th>
@@ -111,6 +136,9 @@ The fundamental building blocks of computer science and programming are Data Str
 </table>
 
 ## DSA Patterns
+
+> Common coding patterns to recognize and use during technical interviews.
+
 <table width="100%">
  <tr>
    <th>Resource</th>
@@ -130,29 +158,14 @@ The fundamental building blocks of computer science and programming are Data Str
  </tr>
 </table>
 
-## Other Helpful Sections
 
-### Practice Problems
-<table width="100%">
- <tr>
-   <th>Resource</th>
-   <th>Description</th>
- </tr>
- <tr>
-   <td><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-javascript">HackerRank</a></td>
-   <td>Practice problems and tutorials to enhance your DSA skills.</td>
- </tr>
- <tr>
-   <td><a href="https://codesignal.com/">CodeSignal</a></td>
-   <td>A platform offering coding challenges and practice problems.</td>
- </tr>
- <tr>
-   <td><a href="https://www.codewars.com/">Codewars</a></td>
-   <td>Challenge your coding skills with various problems on Codewars.</td>
- </tr>
-</table>
+
+
 
 ### Books
+>Essential books to deepen your understanding of Data Structures and Algorithms.
+
+
 <table width="100%">
  <tr>
    <th>Book</th>
@@ -173,6 +186,8 @@ The fundamental building blocks of computer science and programming are Data Str
 </table>
 
 ### Videos and Tutorials
+>Video resources and tutorials to visually learn and understand Data Structures and Algorithms.
+
 <table width="100%">
  <tr>
    <th>Resource</th>
@@ -193,6 +208,9 @@ The fundamental building blocks of computer science and programming are Data Str
 </table>
 
 ### Blogs and Articles
+>Informative blogs and articles on Data Structures and Algorithms.
+
+
 <table width="100%">
  <tr>
    <th>Resource</th>
