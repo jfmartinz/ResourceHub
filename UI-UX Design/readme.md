@@ -16,6 +16,7 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
 - [UI/UX Design Challenges](#challenges)<br>
 - [Figma Resources](#figma-resources)<br>
 - [GitHub Repositories](#github-repositories)
+- [Conclusion](#conclusion)
 
 ### Tutorials or Courses
 
@@ -51,7 +52,7 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
       <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization</a></td>
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
             <td>$32.63/month</td>
-  </tr>
+       </tr>
   </table>
 
 
@@ -361,6 +362,10 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <td> <a href="https://www.linkedin.com/groups/1854192/">UX / HCI Researchers</a></td>
         <td>This is a group for UXers to expand our network of people and ideas.
 Most members work in the field of UX Design or UX Research as UX Designer, Usability Expert, UX Researcher, Human Factors Engineer - HFE, Product Designer, Interaction Designer, Information Architect or UX Architect, Student, Lecturer, Consultant, Freelance.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.thedesignerstoolbox.com/">The Designer's Toolbox</a></td>
+      <td>The Designer's Toolbox is a collection of tips, tricks, and best practices that can help you with UX designing. It has various resources, live events, and masterclasses to help you gain the skills required for UX design. It contains both free and paid resources.</td>
       </tr>
   </table>
 
@@ -681,3 +686,9 @@ exercises.</td>
       <td>The GitHub repository "UI-UX" by gregjw is a curated list of resources for UI/UX designers. It includes categories such as user research tools, standards and guidelines, prototyping tools, browser extensions, design tools,various frameworks and more.</td>
       </tr>
 </table>   
+
+### Conclusion
+
+UI/UX design is a dynamic and essential aspect of modern digital experiences, focusing on creating intuitive and visually appealing interfaces that enhance user satisfaction and engagement. With the proliferation of digital products across various platforms, from websites and mobile apps to wearable devices and smart appliances, UI/UX design has become increasingly crucial in ensuring a seamless and delightful user experience. The diverse set of tools and resources available, such as Adobe XD, Sketch, Figma, and InVision, empowers designers to prototype, iterate, and collaborate efficiently throughout the design process. The iterative nature of UI/UX design, from user research and wireframing to prototyping and usability testing, underscores the importance of empathy and user-centric design principles. The UI/UX design community is vibrant and supportive, offering a wealth of resources like design tutorials, forums, and online communities to assist designers at all levels. To excel in UI/UX design, hands-on experience and continuous learning are key—participate in design challenges, contribute to open-source projects, and stay updated with the latest design trends and tools. This practical approach not only enhances your design skills but also equips you with the knowledge and expertise to create exceptional user experiences that leave a lasting impact.
+
+Never stop learning !

@@ -19,7 +19,79 @@
   border-color: #e5e7eb;
   /* 2 */
 }
+.contributor-card:nth-child(4n+1),
+.contributor-card:nth-child(4n+3) {
+    margin-top: -4px;
+}
 
+.contributor-card {
+    width: 95px;
+    height: 95px;
+    clip-path: circle(40%);
+    margin: 5px;
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.contributor-card:hover {
+    box-shadow: 0 0 10px rgba(253, 251, 251, 0.5);
+    /* Adjust the color and size of the glow as needed */
+}
+
+.contributor-card:active {
+    transform: scale(1.1);
+    opacity: 0.8;
+    box-shadow: 0 0 20px rgb(188, 240, 210);
+    /* Adjust the color and size of the glow as needed */
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin-top: 25px;
+  font-size: 45px;
+  color: var(--light);
+  text-align: center;
+  transition: color 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+h1:hover {
+  color: var(--primary);
+}
+
+#contributor {
+  margin: 0;
+  padding: 50px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.loading{
+  font-size: xx-large;
+}
+.loading:after {
+overflow: hidden;
+display: inline-block;
+vertical-align: bottom;
+-webkit-animation: ellipsis steps(4, end) 900ms infinite;
+animation: ellipsis steps(4, end) 900ms infinite;
+content: "\2026";
+/* ascii code for the ellipsis character */
+width: 0px;
+}
+
+@keyframes ellipsis {
+to {
+width: 40px;
+}
+}
+
+@-webkit-keyframes ellipsis {
+to {
+width: 40px;
+}
+}
 ::before,
 ::after {
   --tw-content: '';
@@ -73,6 +145,10 @@ body {
 2. Correct the inheritance of border color in Firefox. (https://bugzilla.mozilla.org/show_bug.cgi?id=190655)
 3. Ensure horizontal rules are visible by default.
 */
+.navcenter{
+  align-items: center;
+  margin-left: 0 !important;
+}
 
 hr {
   height: 0;
@@ -92,6 +168,12 @@ abbr:where([title]) {
           text-decoration: underline dotted;
 }
 
+.floatleft{
+  float:left;
+}
+.floatright{
+  float:right;
+}
 /*
 Remove the default font size and weight for headings.
 */
@@ -658,6 +740,11 @@ video {
 
 .mb-4 {
   margin-bottom: 1rem;
+  display: none;
+  color: red;
+  font-size: 45px;
+  font-weight: 500;
+  text-align: center;
 }
 
 .mb-40 {
@@ -799,7 +886,9 @@ video {
 .flex-col {
   flex-direction: column;
 }
-
+.flex-row{
+  flex-direction: row;
+}
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -851,7 +940,9 @@ video {
 .rounded-md {
   border-radius: 0.375rem;
 }
-
+.gap-20{
+  padding-right:45px;
+}
 .border {
   border-width: 1px;
 }
@@ -1165,6 +1256,7 @@ body{
 
 .hidden-mobile {
   display: none;
+  margin: 0;
 }
 
 @media (min-width: 1024px) {
@@ -1598,6 +1690,56 @@ pre {
   color: #ffffff;
 }
 
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.content-display.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.markdown-body.dark-mode {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+}
+
+.markdown-body.dark-mode code {
+  background-color: #282828;
+  color: #ffffff;
+}
+
+.markdown-body.dark-mode pre {
+  background-color: #292828;
+}
+
+.markdown-body.dark-mode a {
+  color: #bb86fc;
+}
+
+.markdown-body.dark-mode table tr {
+  background-color: #242424;
+  color: #ffffff;
+}
+
+.content-display.dark-mode h1, .content-display.dark-mode h2, .content-display.dark-mode h3 {
+  color: #ffffff;
+}
+
+.content-display.dark-mode code {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.content-display.dark-mode pre {
+  background-color: #333333;
+}
+
+.content-display.dark-mode a {
+  color: #bb86fc;
+}
+
 @media (max-width: 768px) {
   .toggle-button {
     top: 30%;
@@ -1758,3 +1900,93 @@ pre {
   }
 }
 
+
+
+
+
+/* Default Dark Mode Styles */
+body.bg-black {
+  background-color: #000;
+  color: #fff;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.text-neutral-300 {
+  color: #d1d5db;
+}
+
+
+/* styling for the toggle switch */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+  margin-right: 20px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: 0.4s;
+  border-radius: 34px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+.smaller {
+ scale:0.7;
+}
+/* Light Mode Styles */
+body.light-mode {
+  background-color: #fff;
+  color: #000;
+}
+
+.light-mode .bg-black {
+  background-color: #fff;
+}
+
+.light-mode .text-white {
+  color: #000;
+}
+
+.light-mode .text-neutral-300 {
+  color: #4b5563;
+}
