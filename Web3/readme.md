@@ -364,6 +364,10 @@ develop software that works with them</td>
     <th>Description</th>
   </tr>
   <tr>
+    <td><a href="https://www.rainbowkit.com/">RainbowKit</a></td>
+    <td>RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.</td>
+  </tr>
+  <tr>
     <td><a href="https://web3py.readthedocs.io/en/stable/">Web3.py</a></td>
     <td>Web3.py is a Python library for interacting with the Ethereum blockchain. It provides a convenient interface for querying blockchain data, sending transactions, and deploying contracts using Python.</td>
   </tr>
