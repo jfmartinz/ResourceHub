@@ -58,6 +58,21 @@ h1 {
 h1:hover {
   color: var(--primary);
 }
+.h2-container{
+  background: #060606;
+  border-radius: 2px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.h2-container h2{
+  font-size: 80px;
+  font-weight: 600;
+}
+span{
+  color: #1e40af;
+}
 
 #contributor {
   margin: 0;
