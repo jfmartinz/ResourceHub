@@ -278,6 +278,60 @@ document.addEventListener("DOMContentLoaded", async function () {
   );
 });
 
+// let originalCards = [];
+
+// function filterCards() {
+//   const input = document.querySelector(".search-input");
+//   const val = input.value.toLowerCase();
+//   const cardContainer = document.getElementById("card-container");
+
+//   // Populate originalCards if empty
+//   if (originalCards.length === 0) {
+//     originalCards = Array.from(document.querySelectorAll(".card"));
+//   }
+
+//   // Filter and sort cards from the original set of cards
+//   const filteredCards = originalCards.filter(card => {
+//     const title = card.querySelector("p").textContent.toLowerCase();
+//     return title.includes(val);
+//   }).sort((a, b) => {
+//     const titleA = a.querySelector("p").textContent.toLowerCase();
+//     const titleB = b.querySelector("p").textContent.toLowerCase();
+//     return titleA.localeCompare(titleB);
+//   });
+
+//   // Clear the container
+//   cardContainer.innerHTML = "";
+
+//   // Append filtered and sorted cards with 10px left margin
+//   filteredCards.forEach(card => {
+//     card.style.marginLeft = "85px";
+//     cardContainer.appendChild(card);
+//   });
+
+//   // To check if any cards are displayed
+//   const displayedCards = document.querySelectorAll(".card");
+//   let count = 0;
+//   displayedCards.forEach((card) => {
+//     if (card.style.display === "block") {
+//       count++;
+//     }
+//   });
+
+//   if (count === 0)
+//  {
+//     document.getElementById("rate-limit-message").style.display = "block";
+//     document.getElementById("rate-limit-message").innerText = "No results";
+//   } else {
+//     document.getElementById("rate-limit-message").style.display = "none";
+//   }
+
+// }
+
+// // Ensure the filterCards function runs initially after DOM content is loaded
+// document.addEventListener("DOMContentLoaded", filterCards);
+
+
 let originalCards = [];
 
 function filterCards() {
@@ -285,8 +339,16 @@ function filterCards() {
   const val = input.value.toLowerCase();
   const cardContainer = document.getElementById("card-container");
 
+  const displayedCards = document.querySelectorAll(".card");
+  let count = 0;
+  displayedCards.forEach((card) => {
+    if (card.style.display === "block") {
+      count++;
+    }
+  });
+
   // Populate originalCards if empty
-  if (originalCards.length === 0) {
+  if (originalCards.length === 0 && count===0) {
     originalCards = Array.from(document.querySelectorAll(".card"));
   }
 
@@ -303,23 +365,16 @@ function filterCards() {
   // Clear the container
   cardContainer.innerHTML = "";
 
-  // Append filtered and sorted cards with 10px left margin
+  // Append filtered and sorted cards with 85px left margin
   filteredCards.forEach(card => {
     card.style.marginLeft = "85px";
     cardContainer.appendChild(card);
   });
 
-  // To check if any cards are displayed
-  const displayedCards = document.querySelectorAll(".card");
-  let count = 0;
-  displayedCards.forEach((card) => {
-    if (card.style.display === "block") {
-      count++;
-    }
-  });
-  if (count === 0) {
+  // Check if there are any filtered cards to display
+  if (filteredCards.length === 0) {
     document.getElementById("rate-limit-message").style.display = "block";
-    document.getElementById("rate-limit-message").innerHTML = "No results";
+    document.getElementById("rate-limit-message").innerText = "No results";
   } else {
     document.getElementById("rate-limit-message").style.display = "none";
   }
@@ -328,6 +383,8 @@ function filterCards() {
 // Ensure the filterCards function runs initially after DOM content is loaded
 document.addEventListener("DOMContentLoaded", filterCards);
 
+// Run filterCards whenever the input value changes
+document.querySelector(".search-input").addEventListener("input", filterCards);
 
 
 
