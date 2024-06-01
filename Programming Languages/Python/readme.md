@@ -577,6 +577,11 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>This Python tutorial for absolute beginners in the Hindi series will focus on teaching you Python concepts from the ground up to an advanced level. This video series starts with Python basics and then moves toward advanced Python. Python concepts are taught in depth with exercises and handwritten notes.
          </td>
       </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLto9KpJAqHMQNY3XP0JqLs7NyeU_dnNj0">100 Days of Code - Learn Python</a></td>
+        <td>This 100 Days of Code - Learn Python playlist by Replit is an excellent resource for those who are interested in learning Python. In this course, you will build games, apps, and websites by mastering Python programming. 
+         </td>
+      </tr>
 </table>
 
 ### Conclusion

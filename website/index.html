@@ -4,15 +4,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="assets/logo.png">
     <title>ResourceHub</title>
     <link rel="stylesheet" href="mainstyle.css">
-    <link rel="shortcut icon" href="/ResourceHub/website/assets/logo.png" type="image/x-icon">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.6/lottie.min.js"></script>
+    <style>
+        h1 {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin-top: 25px;
+  font-size: 45px;
+  color: var(--light);
+  text-align: center;
+  transition: color 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+h1:hover {
+  color: var(--primary);
+}
+
+#contributor {
+  margin: 0;
+  padding: 50px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+    </style>
 
 </head>
 
 <body class="bg-black">
     <!-- NAVBAR  -->
+
 
 
     <nav class="sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-white">
@@ -68,8 +94,8 @@
                     </li>
                 </ul>
             </div>
-        </div>
-    </nav>
+
+
 
     <!-- HeroSection -->
     <div class="first mb-40 flex flex-col items-center mt-40 lg:mt-40 bg-black">
@@ -100,9 +126,9 @@
     <div class="max-w-6xl h-[90vh] mb-40 mx-auto p-4 bg-black rounded-md" id="resources">
         <div class="search-container mb-20">
             <input type="text" class="search-input w-full p-2 rounded-full bg-transparent text-white"
-                placeholder="Search..." onkeyup="filterCards()">
+                placeholder="Search..." oninput="filterCards()">
         </div>
-        <div id="rate-limit-message" class="mb-4" style="display: none; color: red;"></div>
+        <div id="rate-limit-message" class="mb-4" ></div>
         <center>
             <div id="card-container"
                 class="bg-black hover:text-black cards grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-2 ">
@@ -335,63 +361,52 @@
             </div>
         </div>
     </div>
-
+    <h1>Faces of Dedication: Our Contributing Heroes</h1>
+    <div id="loading1"></div>
+    <div id="contributor"></div>
+  
 
 
     <!-- Footer -->
     <footer class="mt-20 border-t py-10 border-neutral-700 bg-gray-900 footerclass">
         <center>
-
-
-            <div class="grid grid-cols-2 lg:grid-cols-3 gap-4">
-                <div>
-                    <h3 class="text-md font-semibold text-white mb-4">Resources</h3>
-                    <ul class="space-y-2">
-                        <!-- Resource links -->
-                        <li><a href="https://developer.mozilla.org/" class="text-neutral-300 hover:text-white">MDN Web
-                                Docs</a></li>
-                        <li><a href="https://www.w3schools.com/" class="text-neutral-300 hover:text-white">W3Schools</a>
-                        </li>
-                        <li><a href="https://stackoverflow.com/" class="text-neutral-300 hover:text-white">Stack
-                                Overflow</a></li>
-                        <li><a href="https://css-tricks.com/" class="text-neutral-300 hover:text-white">CSS Tricks</a>
-                        </li>
-                        <!-- Add more resource links as needed -->
-                    </ul>
-                </div>
-                <div>
-                    <h3 class="text-md font-semibold mb-4 text-white">Platforms</h3>
-                    <ul class="space-y-2">
-                        <!-- Platform links -->
-                        <li><a href="https://github.com/" class="text-neutral-300 hover:text-white">GitHub</a></li>
-                        <li><a href="https://gitlab.com/" class="text-neutral-300 hover:text-white">GitLab</a></li>
-                        <li><a href="https://bitbucket.org/" class="text-neutral-300 hover:text-white">Bitbucket</a>
-                        </li>
-                        <li><a href="https://vercel.com/" class="text-neutral-300 hover:text-white">Vercel</a>
-                        </li>
-                        <!-- Add more platform links as needed -->
-                    </ul>
-                </div>
-                <div>
-                    <h3 class="text-md font-semibold mb-4 text-white">Course Platforms</h3>
-                    <ul class="space-y-2">
-                        <!-- Course platform links -->
-                        <li><a href="https://www.udemy.com/" class="text-neutral-300 hover:text-white">Udemy</a></li>
-                        <li><a href="https://www.coursera.org/" class="text-neutral-300 hover:text-white">Coursera</a>
-                        </li>
-                        <li><a href="https://www.udacity.com/" class="text-neutral-300 hover:text-white">Udacity</a>
-                        </li>
-                        <li><a href="https://www.mygreatlearning.com/" class="text-neutral-300 hover:text-white">Great
-                                Learning</a>
-                        </li>
-                        <!-- Add more platform links as needed -->
-                    </ul>
-                </div>
+      
+          <div class="grid grid-cols-2 lg:grid-cols-3 gap-4">
+            <div>
+              <h3 class="text-md font-semibold text-white mb-4">Resources</h3>
+              <ul class="space-y-2">
+                <li><a href="https://developer.mozilla.org/" class="text-neutral-300 hover:text-white">MDN Web Docs</a></li>
+                <li><a href="https://www.w3schools.com/" class="text-neutral-300 hover:text-white">W3Schools</a></li>
+                <li><a href="https://stackoverflow.com/" class="text-neutral-300 hover:text-white">Stack Overflow</a></li>
+                <li><a href="https://css-tricks.com/" class="text-neutral-300 hover:text-white">CSS Tricks</a></li>
+                </ul>
             </div>
+            <div>
+              <h3 class="text-md font-semibold mb-4 text-white">Platforms</h3>
+              <ul class="space-y-2">
+                <li><a href="https://github.com/" class="text-neutral-300 hover:text-white">GitHub</a></li>
+                <li><a href="https://gitlab.com/" class="text-neutral-300 hover:text-white">GitLab</a></li>
+                <li><a href="https://bitbucket.org/" class="text-neutral-300 hover:text-white">Bitbucket</a></li>
+                <li><a href="https://vercel.com/" class="text-neutral-300 hover:text-white">Vercel</a></li>
+                </ul>
+            </div>
+            <div>
+              <h3 class="text-md font-semibold mb-4 text-white">Course Platforms</h3>
+              <ul class="space-y-2">
+                <li><a href="https://www.udemy.com/" class="text-neutral-300 hover:text-white">Udemy</a></li>
+                <li><a href="https://www.coursera.org/" class="text-neutral-300 hover:text-white">Coursera</a></li>
+                <li><a href="https://www.udacity.com/" class="text-neutral-300 hover:text-white">Udacity</a></li>
+                <li><a href="https://www.mygreatlearning.com/" class="text-neutral-300 hover:text-white">Great Learning</a></li>
+                </ul>
+            </div>
+          </div>
+          <div class="flex justify-center mt-auto">  <div class="footer-text text-center" style="color: rgb(241, 241, 245);">
+            © Copyright <b>ResourceHub</b> | All Rights Reserved | Website by <span style="color: rgb(241, 241, 245);"><b><a href="index.html">ResourceHub</a></b></span>
+          </div>
+        </div>
         </center>
-    </footer>
-
-
+      </footer>
+      
     <script>
         const toggleNavbarButton = document.getElementById('toggle-navbar');
         const mobileDrawer = document.getElementById('mobile-drawer');
@@ -404,7 +419,8 @@
             closeIcon.classList.toggle('hidden');
         });
     </script>
-    <script src="app.js"></script>
+    <script src="mainapp.js"></script>
+    <script src="contibuters.js"></script>
 
 
 </body>
