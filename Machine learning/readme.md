@@ -5,22 +5,20 @@
 - [Roadmap](roadmaps)
   - [Machine Learning Roadmap](#machine-learning)
 - [Tutorials or Courses](#tutorials-or-courses)
-
     - [Fundamentals of Mathematics](#fundamentals-of-mathematics)
     - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
     - [Modules](#moduleslibraries)
     - [Introduction to Machine Learning](#introduction-to-machine-learning)
     - [Types of Machine learning](#types-of-machine-learning)
-    - [Machine Learning](#steps-involved-for-machine-learning)
+    - [Steps involved for Machine Learning](#steps-involved-for-machine-learning)
       - [Data Collection](#data-collection)
       - [Data Preparation](#data-preparation)
-      - [Model selection](#model-selection)
-      - [Model Training](#model-traning)
+      - [Model Selection](#model-selection)
+      - [Model Training](#model-training)
       - [Model Evaluation](#model-evaluation)
       - [Model optimizing](#model-optimization)
       - [Model deploying](#model-deployment)
     - [Machine learning algorithms](#machine-learning-algorithms)
-
 - [Books](#books)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
@@ -28,11 +26,13 @@
 - [Machine learning forums](#machine-learning-forums)
 - [courses](#courses)
 - [Projects](#projects)
+- [Interview](#interview)
 - [Others](#others)
+- [Conclusion](#conclusion)
 
 
 ### Roadmap
-
+> This is a roadmap, we can refer to for starting with machine learning.
 #### Machine Learning
 
 <table width="100%">
@@ -43,6 +43,10 @@
 <tr>
    <td><a href="https://www.scaler.com/blog/machine-learning-roadmap/"> Machine Learning Roadmap </a></td>
    <td>This roadmap provided by scaler gives you clear cut roadmap for studying/learning Machine learning</td>
+</tr>
+<tr>
+   <td><a href="https://drive.google.com/file/d/11KvoK4FMs6gJbo-u-0H5Kj-EY5jPz7g5/view?usp=sharing"> ML Engineer Roadmap </a></td>
+   <td>This roadmap  gives you clear cut roadmap for becoming ready for the  ML Engineer Job Profile</td>
 </tr>
 </table>
 
@@ -123,7 +127,6 @@
 
 #### Modules/Libraries
 
-> Explore an amazing set of Python Modules for creating/using or working with Machine learning models.
 
 <table width="100%">
     <tr>
@@ -161,6 +164,10 @@
       <td ><a href="https://scikit-learn.org/stable/tutorial/index.html">Scikit-learn</a></td>
       <td>This documentation is the best for learning Scikit-learn. Scikit-learn is another fantastic library, primarily used for machine learning tasks such as classification, regression, clustering, and more. Its simple and efficient tools make it accessible to both beginners and experts in the field. </td>
     </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/introduction-to-seaborn-python/">Seaborn</a></td>
+    <td>Seaborn is an amazing visualization library for statistical graphics plotting in Python. It provides beautiful default styles and color palettes to make statistical plots more attractive.</td>
+  </tr>
 </table>
 
 #### Introduction to Machine Learning
@@ -197,11 +204,8 @@
   </tr>
 </table>
 
-### Steps involved for machine learning
-
-> These are the steps involved in building a machine learning model.
-
-#### Data Collection
+#### Steps involved for machine learning:
+##### Data Collection
 
 <table width="100%">
     <tr>
@@ -222,7 +226,7 @@
     </tr>
 </table>
 
-#### Data Preparation
+##### Data Preparation
 
 <table width="100%">
     <tr>
@@ -243,7 +247,7 @@
     </tr>
 </table>
 
-#### Model Selection
+##### Model Selection
 
 <table width="100%">
     <tr>
@@ -264,7 +268,7 @@
     </tr>
 </table>
 
-#### Model Training
+##### Model Training
 
 <table width="100%">
     <tr>
@@ -285,7 +289,7 @@
     </tr>
 </table>
 
-#### Model Evaluation
+##### Model Evaluation
 
 <table width="100%">
     <tr>
@@ -306,7 +310,7 @@
     </tr>
 </table>
 
-#### Model Optimization
+##### Model Optimization
 
 <table width="100%">
     <tr>
@@ -327,7 +331,7 @@
     </tr>
 </table>
 
-#### Model Deployment
+##### Model Deployment
 
 <table width="100%">
     <tr>
@@ -349,6 +353,7 @@
 </table>
 
 ### Machine Learning Algorithms
+> These are some machine learning algorithm, you can learn.
 
 <table width="100%">
     <tr>
@@ -391,6 +396,10 @@
       <td ><a href="https://www.youtube.com/watch?v=EItlUEPCIzM">KMeans Clustering</a></td>
       <td>This video gives you a comprehensive knowledge about K Means clustering algorithm which is a unsupervised machine learning technique used to cluster data points, and this video also helps you to solve a  clustering problem using sklearn, kmeans and python.</td>
     </tr>
+    <tr>
+      <td ><a href="https://www.youtube.com/watch?v=ob1yS9g-Zcs&t=4728s">Neural Network</a></td>
+      <td>This video provides a comprehensive introduction to neural networks, covering fundamental concepts, training processes, and practical applications. It explains forward and backward propagation, deep learning techniques, and the use of convolutional neural networks (CNNs) for image processing. Additionally, it demonstrates implementing neural networks using Python, TensorFlow, and other libraries, including examples such as stock price prediction and image classification.</td>
+    </tr>
 </table>
 
 
@@ -402,7 +411,7 @@
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Status</th>
+        <th>Cost</th>
       </tr>
       <tr>
         <td> <a href="https://www.bing.com/ck/a?!&&p=5f61daa5e0205b73JmltdHM9MTcxNTgxNzYwMCZpZ3VpZD0xYjhkMzU3Yy02YmU3LTZiOGEtMjNkNC0yMWZkNmE4NDZhYTEmaW5zaWQ9NTE4NQ&ptn=3&ver=2&hsh=3&fclid=1b8d357c-6be7-6b8a-23d4-21fd6a846aa1&psq=Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow+pdf&u=a1aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdGEtc2NpZW5jZS1wcm9qZWN0cy1hbmQtcmVzb3VyY2VzL0RhdGEtU2NpZW5jZS1FQm9va3MvbWFpbi9NYWNoaW5lJTIwTGVhcm5pbmcvSGFuZHMtb24tTWFjaGluZS1MZWFybmluZy5wZGY&ntb=1">Hands-On Machine Learning with Scikit-Learn and TensorFlow</a></td>
@@ -423,7 +432,7 @@
   </table>
 
 ### Datasets
-
+> These are some datasets that can help you practice machine learning
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -453,9 +462,14 @@
         <td><a href="https://archive.ics.uci.edu/datasets">UCI Datasets</a></td>
         <td>The UCI Machine Learning Repository, hosted at the URL you provided, is a collection of datasets for machine learning research and experimentation. It's maintained by the Center for Machine Learning and Intelligent Systems at the University of California, Irvine (UCI). </td>
       </tr>
+      <tr>
+        <td><a href="https://data.gov/">Data.gov</a></td>
+        <td>Data.gov, a US government website, is invaluable for machine learning enthusiasts with its vast collection of nearly 300,000 datasets. It provides high-quality, reliable training data from various sectors, enabling innovative applications in public health, economics, and environmental science. The open data is freely available, eliminating licensing costs and allowing unrestricted use. Its authoritative sources ensure improved accuracy and reliability in machine learning models.</td>
+      </tr>
 </table>
 
 ### GitHub Repositories
+> These are some GitHub repositories you can refer to
 
 <table width="100%">
       <tr>
@@ -477,12 +491,7 @@
       <tr>
         <td> <a href="https://github.com/dair-ai/ML-YouTube-Courses">ML YouTube Courses</a></td>
         <td>This GitHub repository is a collection of resources related to machine learning (ML) courses available on YouTube, and  provides links to the YouTube videos or playlists for each course, making it easy for learners to access the course content directly from YouTube. </td>
-      </tr>
-      <tr>
-        <td> <a href="https://github.com/dlsucomet/MLResourceshttps://github.com/dlsucomet/MLResources">Books for Learning Machine Learning</a></td>
-        <td>This GitHub repo is a house of books,tutorials,articles,tools and more to learn Machine learning.</td>
-      </tr>
-      
+      </tr>  
 </table>
 
 ### YouTube Channels
@@ -607,8 +616,30 @@
       </tr>  
 </table>
 
-### Others
+###  Interview 
 
+> These are some interview preparation resources.
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/machine-learning-interview-questions/">Machine Learning  Interview questions by geeksforgeeks</a></td>
+        <td>This link which navigates to geekforgeeks article focuses on machine learning Interview questions 
+        for both freshers and experienced individuals, ensuring thorough preparation for  ML interview. This ML questions is also beneficial for individuals who are looking for a quick revision of their machine-learning concepts.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://medium.com/@reachpriyaa/how-to-crack-machine-learning-interviews-at-faang-78a2882a05c5">How to crack Machine Learning Interviews at FAANG! - Medium</a></td>
+        <td>This article by Bharathi Priya shared her Machine Learning experiences provided the questions which were asked in her interview and provided tips and tricks to crack any machine leaning interview.
+        </td>
+      </tr>  
+</table>
+
+### Others
+> These are some other resources you can refer to.
   <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -639,5 +670,15 @@
         <td>The "Talking Machines" offers a valuable platform for individuals interested in staying informed, inspired, and engaged in the dynamic field of machine learning, this podcast provides informative and engaging content on ML.
         </td>
       </tr>    
+      <tr>
+        <td><a href="https://machinehack.com/">Machine Hack</a></td>
+        <td>MachineHack is an online platform that offers data science and machine learning competitions. It provides a collaborative environment for data scientists, machine learning practitioners, and enthusiasts to solve real-world business problems through predictive modeling and data analysis. 
+        </td>
+      </tr>    
 </table>
 
+### Conclusion
+
+Machine learning is an exciting and rapidly evolving field that offers endless opportunities for innovation and discovery. Its ability to analyze vast amounts of data and uncover patterns makes it indispensable for various applications, from predictive analytics and natural language processing to computer vision and autonomous systems. The wealth of libraries and frameworks available, such as TensorFlow, PyTorch, and scikit-learn, empowers developers and data scientists to build sophisticated models with relative ease. A strong community provides extensive resources, including tutorials, forums, and documentation, to support learners and professionals alike. To truly excel in machine learning, consistent practice is essential—engage in coding challenges, contribute to open-source projects, and apply your knowledge to real-world problems. This hands-on experience not only hones your skills but also opens doors to numerous career opportunities in tech, research, and beyond.
+
+Never stop learning !

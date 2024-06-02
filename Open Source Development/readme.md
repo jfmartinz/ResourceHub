@@ -10,6 +10,7 @@ Open source development involves collaborative creation of software where the so
 - [Youtube Channels](#youtube-channels)
 
 ### Website to learn Open Source Development
+> These are some websites where you can learn Open Source Development.
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -23,10 +24,7 @@ Open source development involves collaborative creation of software where the so
     <td><a href="https://www.edx.org/">edX</a></td>
     <td>edX hosts courses from universities and institutions worldwide, including courses on open source software development.</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/">GitHub</a></td>
-    <td>An essential platform for hosting and collaborating on open source projects, GitHub also offers extensive guides and resources for learning Git and contributing to projects.</td>
-  </tr>
+  
   <tr>
     <td><a href="https://opensource.org/">Open Source Initiative(OSI)</a></td>
     <td>The OSI website provides information on the principles of open source software and licenses, helping developers understand the legal and ethical aspects of open source development.</td>
@@ -34,6 +32,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Tutorial or Courses
+>These are some tutorials that you can use to learn Open Source Development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -62,6 +61,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Open Source Technologies
+> These are some open source Technologies you should know about
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -109,9 +109,18 @@ Open source development involves collaborative creation of software where the so
     <td><a href="https://code.visualstudio.com/">Vs Code</a></td>
     <td>An open source code editor developed by Microsoft, known for its versatility, extensibility, and support for various programming languages and technologies.</td>
     </tr>
+  <tr>
+    <td><a href="https://github.com/">GitHub</a></td>
+    <td>An essential platform for hosting and collaborating on open source projects, GitHub also offers extensive guides and resources for learning Git and contributing to projects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://bitbucket.org/">Bitbucket</a></td>
+    <td>What is BitBucket and How it works? An Overview and Its Use ...Bitbucket is a cloud-based Git-based service that allows developers to store, manage, and track code changes. It's designed for professional teams, providing a central place to collaborate on source code, plan projects, and test and deploy code.</td>
+  </tr>
 </table>
 
 ### Community
+> These are some communities, you can seek help from for your journey with Open-source Development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -144,6 +153,7 @@ Open source development involves collaborative creation of software where the so
 </table>
 
 ### Events
+> These are some events where you can participate.
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -185,9 +195,20 @@ Open source development involves collaborative creation of software where the so
     <td><a href="https://fellowship.mlh.io/">MLH Fellowship</a></td>
     <td>The MLH Fellowship is a remote internship program that pairs talented student developers with open source projects and mentors for 12 weeks during the summer. Participants work on real-world projects and receive mentorship and support from industry professionals.</td>
   </tr>
+
+   <tr>
+    <td><a href="https://www.outreachy.org/">Outreachy</a></td>
+    <td>Outreachy is a paid, remote internship program. Outreachy's goal is to support people from groups underrepresented in tech. It provides an opportunity for an online collaborative environment for learning, and remote mentoring with experienced</td>
+  </tr>
+
+   <tr>
+    <td><a href="https://lfx.linuxfoundation.org/tools/mentorship/">LFX Foundation Mentorship</a></td>
+    <td>The Linux Foundation Mentorship Program, commonly known as LFX Mentorship, stands as a testament to the organization's commitment to fostering talent and innovation within the open source community.It is a three months open-source paid internship</td>
+  </tr>
 </table>
 
 ### Youtube Channels
+> These are some Youtube channels, where you can learn about open source development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -205,3 +226,9 @@ Open source development involves collaborative creation of software where the so
   </tr>
 </table>
 
+### Conclusion
+
+Open source contributions are an amazing way to learn, share knowledge, and collaborate with other developers. By contributing to open-source projects, you get to work on real-world code, improve your skills, and gain valuable experience. It's a great opportunity to give back to the community, help improve software that others rely on, and build a portfolio of work that can impress potential employers. Plus, you'll have the chance to connect with other developers, get feedback on your code, and stay up-to-date with the latest technologies and best practices.
+ Whether you're fixing bugs, adding new features, or improving documentation, every contribution counts. So dive into coding challenges, join open-source projects, and start making a difference while growing as a developer!
+
+ Never stop learning !

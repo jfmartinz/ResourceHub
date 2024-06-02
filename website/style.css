@@ -9,6 +9,20 @@
     background-color: #333;
     color: white;
 }
+button{
+    cursor: pointer;
+    height: 30px;
+    background-color: green;
+    color: #f1f1f1;
+}
+.classic-4 {
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 30px;
+    clip-path: inset(0 3ch 0 0);
+    animation:c4 1s steps(4) infinite;
+  }
+  @keyframes c4 {to{clip-path: inset(0 -1ch 0 0)}}
 .light-mode {
     background-color: white;
     color: black;
@@ -31,6 +45,7 @@
     gap: 16px;
     padding: 16px;
 }
+
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);

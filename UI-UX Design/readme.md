@@ -10,10 +10,13 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
 - [Books](#books)<br>
 - [Communities](#communities)<br>
 - [Youtube Channels](#youtube-channels)<br>
+- [YouTube Playlist](#youtube-playlists)
 - [Interview](#interview)<br>
 - [Newsletter](#newsletter)<br>
 - [UI/UX Design Challenges](#challenges)<br>
 - [Figma Resources](#figma-resources)<br>
+- [GitHub Repositories](#github-repositories)
+- [Conclusion](#conclusion)
 
 ### Tutorials or Courses
 
@@ -28,11 +31,6 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
       <tr>
         <td> <a href="https://www.youtube.com/watch?v=B-ytMSuwbf8">Web Design for Beginners</a></td>
         <td>This beginner web design course covers all you need to know in 5 hours.</td>
-            <td>FREE</td>
-      </tr>
-      <tr>
-         <td><a href="https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI"> Web Design 101: Free Full Course</a></td>   
-         <td>Flux is offering free web design classes for those using quarantine to learn something new or facing financial constraints.</td>  
             <td>FREE</td>
       </tr>
        <tr>
@@ -51,10 +49,10 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
             <td>$9.32/month</td>
       </tr>
       <tr>
-      <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization]</a></td>
+      <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization</a></td>
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
             <td>$32.63/month</td>
-  </tr>
+       </tr>
   </table>
 
 
@@ -211,12 +209,20 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
         <th>Description</th>
       </tr>
       <tr>
+      <td><a href="http://appshots.design">Appshots</a></td>
+      <td>AppShot is a sleek and user-friendly platform dedicated to helping designers and developers create stunning app screenshots for the App Store and Google Play.</td>
+      </tr>
+      <tr>
       <td><a href="https://www.behance.net/">Behance</a></td>
       <td>Behance is the world's largest creative network for showcasing and discovering creative work.</td>
       </tr>
       <tr>
       <td><a href="https://dribbble.com/">Dribbble</a></td>
       <td>Find Top Designers & Creative Professionals on Dribbble. We are where designers gain inspiration, feedback, community, and jobs.</td>
+      </tr>
+      <tr>
+      <td><a href="http://godly.website">Godly</a></td>
+      <td>Godly is a website dedicated to providing top-tier web design inspiration. It features a curated collection of exemplary web designs from various categories such as AI, Web3, portfolios, startups, e-commerce, and more.</td>
       </tr>
       <tr>
       <td><a href="https://www.awwwards.com/">Awwwards</a></td>
@@ -337,8 +343,8 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <th>Description</th>
       </tr>
       <tr>
-        <td> <a href="https://designerhangout.co/">Designer Hangout</a></td>
-        <td>Designer Hangout is a dedicated, invite-only network of UX designers and researchers who discuss trends, give advice, share stories, uncover insights, surface opportunities, and connect in-person. As a UX practitioner, Designer Hangout is your "secret weapon" to progressing your career and accomplishing your life goals. Together, we’re creating the World's most reliable brain trust for UX designers in a fast-paced age.</td>
+        <td> <a href="https://www.linkedin.com/groups/717/">UXPA</a></td>
+        <td>UXPA : User Experience Professionals Association International, for people who research, design, and evaluate the user experience (UX) of products and services, promotes UX concepts and techniques through their annual international conference</td>
       </tr>
       <tr>
         <td> <a href="https://www.linkedin.com/groups/4496205/">User Experience (UX)</a></td>
@@ -364,6 +370,10 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <td> <a href="https://www.linkedin.com/groups/1854192/">UX / HCI Researchers</a></td>
         <td>This is a group for UXers to expand our network of people and ideas.
 Most members work in the field of UX Design or UX Research as UX Designer, Usability Expert, UX Researcher, Human Factors Engineer - HFE, Product Designer, Interaction Designer, Information Architect or UX Architect, Student, Lecturer, Consultant, Freelance.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.thedesignerstoolbox.com/">The Designer's Toolbox</a></td>
+      <td>The Designer's Toolbox is a collection of tips, tricks, and best practices that can help you with UX designing. It has various resources, live events, and masterclasses to help you gain the skills required for UX design. It contains both free and paid resources.</td>
       </tr>
   </table>
 
@@ -404,6 +414,48 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
         <td><a href="https://www.youtube.com/@abnux">ABNUX</a></td>
         <td>Founder of 10kdesigners – learn UI/UX design. This channel is dedicated to helping you become a better designer • Previously Head of Design at Unacademy, Founder @LisnApp.</td>
       </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/@DesignCourse/featured">DesignCourse</a></td>
+        <td>DesignCourse is a YouTube channel that provides tutorials and courses on web design, and UI/UX design for all skill levels. Ideal for enhancing design knowledge with modern tools and techniques. Perfect for both beginners and advanced learners.</td>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/@DesignSense/featured">DesignSense</a></td>
+        <td>DesignSense is a YouTube channel dedicated to design tutorials, covering UX, UI, and web design. They offer content for beginners and professionals, including basics and advanced techniques.</td>
+      </tr>   
+</table>
+
+### YouTube Playlists
+
+> These Youtube Playlist Help you learn UI/UX Design more efficiently.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+         <td><a href="https://www.youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI"> Web Design 101: Free Full Course</a></td>   
+         <td>Flux is offering free web design classes for those using quarantine to learn something new or facing financial constraints.</td>  
+      </tr>
+      <tr>
+        <td> <a href="https://youtube.com/playlist?list=PLjiHFwhbHYlHSpAflJwjsKAyMaMhASm0F&si=E1Q_pT0zb4pRFo0I">UI/UX Design</a></td>
+        <td>This YoutTube Playlist by DesignwithArash is a perfect collection of videos which includes about Figma, Design techs, Tools and more.
+        </td>
+      </tr>
+      <tr>
+        <td> <a href="https://youtube.com/playlist?list=PLvDSYqFjjGrjIDkeaXwQPwBVKR3D4vsAH&si=ul51wp_IcrVmR_P1">UI UX Design Full Course with Figma & more</a></td>
+        <td>This YouTube Playlist by Drnchrj Academy is a collection of videos about web UI/UX Design, Mobile UI/UX Design ,Figma and more tools. </td>
+      </tr>
+      <tr>
+        <td> <a href="https://youtube.com/playlist?list=PLttcEXjN1UcHu4tCUSNhhuQ4riGARGeap&si=MTORbVNiIb7__Yaz">Figma UI/UX Essential</a></td>
+        <td>This YouTube Playlist by "Bring Your Own Laptop" is a collection of videos which covers topics like fonts in Figma, tips and tricks in Figma, prefernces in Figma and more.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://youtube.com/playlist?list=PLxk9zj3EDi0WG8jU6-RI4GnL4l7Oz0Jhg&si=tYb3ZkV8Ei69LH9t">UX Design - How To Get Started!</a></td>
+        <td>This playlist by J&Smart hosts some of the best UX resources on the training, tools, resources and best practices that you'll need to learn or charge your user experience design career!</td>
+      </tr>
+      <tr>
 </table>
 
 ### Interview
@@ -591,7 +643,7 @@ exercises.</td>
         <th>Description</th>
       </tr>
       <tr>
-        <td width="150px"><a href="https://freebiesui.com/figma-freebies/">FreesbieUI</a></td>
+        <td width="150px"><a href="https://freebiesui.com/figma-freebies/">Freebies</a></td>
         <td>This website provides a vibrant collection of free Figma resources to jumpstart your projects. Dive into web designs, templates, mockups and more, all designed to streamline your Figma workflow and boost your design efficiency.</td>
       </tr>
       <tr>
@@ -607,12 +659,44 @@ exercises.</td>
         <th>Description</th>
       </tr>
       <tr>
-        <td width="150px"><a href="https://www.uxcrush.com/">UX Crush</a></td>
-        <td>UXCrush dives deep into the world of open-source design resources for Figma. Explore a vast library of freely available icons to elevate your Figma projects.</td>
+        <td width="150px"><a href="https://www.uxcrush.com/">uxcrush</a></td>
+        <td>uxcrush dives deep into the world of open-source design resources for Figma. Explore a vast library of freely available icons to elevate your Figma projects.</td>
       </tr>
       <tr>
         <td width="150px"><a href="https://figmaresource.com/">figma resources</a></td>
         <td>Dive into the open-source design world for Figma with Figma Resource! Explore a vast library of freely available icons to enhance your projects.  Remember, Figma Resource is independent of Figma Inc.</td>
       </tr>
-      
   </table>
+
+### GitHub Repositories
+
+>These GitHub repositories help you Learn UI/UX Designs efficiently.
+
+<table width="100%">
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td width="150px"><a href="https://github.com/Pediomo/UI-UX-resources">UI-UX Resources</a></td>
+      <td>The GitHub repository UI-UX-resources Created and managed by Pediomo offers a comprehensive list of resources related to UI/UX design. It includes articles, books, videos, tools, podcasts, courses, and more.</td>
+    </tr>
+    <tr>
+      <td width="150px"><a href="https://github.com/hendurhance/ui-ux">UI-UX</a></td>
+      <td>The GitHub repository UI-UX is created and managed by  hendurhance is a collection of resources which includes various tools, frameworks, and guidelines to enhance the design process and create better user experiences.</td>
+    </tr>
+    <tr>
+      <td width="150px"><a href="https://github.com/togiberlin/ui-ux-designer-roadmap?tab=readme-ov-file">UI-UX Designer roadmap</a></td>
+      <td>The "UI/UX Designer Roadmap" GitHub repository by togiberlin provides a solid understanding of UI-UX designer's roadmap and it also includes clear learning path, detailing essential skills and tools necessary for becoming proficient in UI/UX design.</td>
+      </tr>
+    <tr>
+      <td width="150px"><a href="https://github.com/gregjw/ui-ux">UI-UX</a></td>
+      <td>The GitHub repository "UI-UX" by gregjw is a curated list of resources for UI/UX designers. It includes categories such as user research tools, standards and guidelines, prototyping tools, browser extensions, design tools,various frameworks and more.</td>
+      </tr>
+</table>   
+
+### Conclusion
+
+UI/UX design is a dynamic and essential aspect of modern digital experiences, focusing on creating intuitive and visually appealing interfaces that enhance user satisfaction and engagement. With the proliferation of digital products across various platforms, from websites and mobile apps to wearable devices and smart appliances, UI/UX design has become increasingly crucial in ensuring a seamless and delightful user experience. The diverse set of tools and resources available, such as Adobe XD, Sketch, Figma, and InVision, empowers designers to prototype, iterate, and collaborate efficiently throughout the design process. The iterative nature of UI/UX design, from user research and wireframing to prototyping and usability testing, underscores the importance of empathy and user-centric design principles. The UI/UX design community is vibrant and supportive, offering a wealth of resources like design tutorials, forums, and online communities to assist designers at all levels. To excel in UI/UX design, hands-on experience and continuous learning are key—participate in design challenges, contribute to open-source projects, and stay updated with the latest design trends and tools. This practical approach not only enhances your design skills but also equips you with the knowledge and expertise to create exceptional user experiences that leave a lasting impact.
+
+Never stop learning !
