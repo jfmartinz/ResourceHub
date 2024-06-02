@@ -493,6 +493,49 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 </table>
 
 
+### Build Systems
+> transform the source code written by engineers into executable binaries that can be read by machines
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://crates.io/">Cargo</a></td>
+    <td>The Rust package manager</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Devolutions/CMakeRust">Devolutions/CMakeRust</a></td>
+    <td>Useful for integrating a Rust library into a CMake project</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SiegeLord/RustCMake">SiegeLord/RustCMake</a></td>
+    <td>An example project showing usage of CMake with Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dimensionhq/fleet">Fleet</a></td>
+    <td>The blazing fast build tool for Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://crates.io/crates/fleet-rs">fleet-rs</a></td>
+    <td>The Cargo package for Fleet</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/icepuma/rust-action">icepuma/rust-action</a></td>
+    <td>GitHub Action for Rust projects</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/peaceiris/actions-mdbook">peaceiris/actions-mdbook</a></td>
+    <td>GitHub Actions for mdBook</td>
+  </tr>
+  <tr>
+    <td><a href="https://nixos.org/">Nix</a></td>
+    <td>The purely functional package manager</td>
+  </tr>
+</table>
+
+
 ### Data Visualization
 > Data visualization in Rust, enabling users to create visual representations of data effectively.
 
@@ -540,6 +583,7 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 </table>
 
 ### Linux Development
+> Rust for Linux is a series of patches to the Linux kernel that adds Rust as a second programming language to C for writing kernel components.
 
 <table>
   <tr>
@@ -559,6 +603,82 @@ Rust has a rich ecosystem of resources to help you learn and master the language
     <td>Video tutorial on accessing webcam data on Linux using v4l2 and Rust.</td>
   </tr>
 </table>
+
+### Testing and Debugging
+>Testing is a process that confirms a program or system meets all its specifications. Debugging is finding and fixing errors in a program or system.
+
+### Testing
+
+
+
+### Debugging
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cs01/gdbgui">gdbgui</a></td>
+    <td>Browser based frontend for gdb to debug C, C++, Rust, and Go</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb">CodeLLDB</a></td>
+    <td>A LLDB extension for <a href="https://code.visualstudio.com/">Visual Studio Code</a></td>
+  </tr>
+</table>
+
+
+### Deployment
+> Deployment is the mechanism through which applications, modules, updates, and patches are delivered from developers to users.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/emk/rust-musl-builder">emk/rust-musl-builder</a></td>
+    <td>Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kpcyrd/mini-docker-rust">kpcyrd/mini-docker-rust</a></td>
+    <td>An example project for very small Rust Docker images</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/liuchong/docker-rustup">liuchong/docker-rustup</a></td>
+    <td>A multiple version (with musl tools) Rust Docker image</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/LukeMathWalker/cargo-chef">LukeMathWalker/cargo-chef</a></td>
+    <td>A tool and pre-built images for caching compiling remote dependencies between Docker builds</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rust-cross/rust-musl-cross">rust-cross/rust-musl-cross</a></td>
+    <td>Docker images for compiling static Rust binaries using musl-cross</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rust-lang/docker-rust">rust-lang-nursery/docker-rust</a></td>
+    <td>The official Rust Docker image</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Stavrospanakakis/is_ready">Stavrospanakakis/is_ready</a></td>
+    <td>Wait for multiple services to become available</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/emk/heroku-buildpack-rust">emk/heroku-buildpack-rust</a></td>
+    <td>A buildpack for Rust applications on Heroku</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MarcoIeni/release-plz">MarcoIeni/release-plz</a></td>
+    <td>Release crates from CI, with changelog generation and semver check</td>
+  </tr>
+  <tr>
+    <td><a href="https://crates.io/crates/release-plz">release-plz</a></td>
+    <td>Release crates from CI, with changelog generation and semver check</td>
+  </tr>
+</table>
+
 
 
 ### Youtube
@@ -857,6 +977,33 @@ Rust has a rich ecosystem of resources to help you learn and master the language
     <td>A book focused on building web applications with Rust.</td>
   </tr>
 </table>
+
+### Exercises
+> Here are some exercises for rust.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rust-lang/rustlings">Rustlings</a></td>
+    <td>Small exercises to get you used to reading and writing Rust code!</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mainmatter/100-exercises-to-learn-rust">100 Exercises to Learn Rust</a></td>
+    <td>A self-paced course to learn Rust, one exercise at a time.</td>
+  </tr>
+  <tr>
+    <td><a href="https://eleftheriabatsou.hashnode.dev/5-rust-project-ideas-for-absolutely-beginners-devs">5 Rust Project Ideas For Absolutely Beginner Devs</a></td>
+    <td>5 simple yet practical projects that will help you later in bigger projects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://fasterthanli.me/series/advent-of-code-2022">Solve Advent of Code 2022 with Rust</a></td>
+    <td>A series of programming challenges of increasing difficulty.</td>
+  </tr>
+</table>
+
 
 ### Rust Communities
 > Various Rust communities and forums where developers gather to discuss, collaborate, and share knowledge about Rust programming language.
