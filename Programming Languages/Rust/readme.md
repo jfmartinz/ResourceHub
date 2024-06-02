@@ -539,6 +539,27 @@ Rust has a rich ecosystem of resources to help you learn and master the language
   </tr>
 </table>
 
+### Linux Development
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://tomcat0x42.me/linux/rust/2023/04/01/linux-kernel-rust-dev-environment.html">Linux Kernel Rust Development Environment</a></td>
+    <td>Guide to setting up a development environment for Rust in the Linux kernel.</td>
+  </tr>
+  <tr>
+    <td><a href="https://tomcat0x42.me/linux/rust/2023/04/07/linux-kernel-rust-modules.html">Linux Kernel Rust Modules</a></td>
+    <td>Instructions on creating Linux kernel modules using Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/3t7Z34kHPjU?si=GEvfM40hTHy1OEZP">Reading from my Webcam on Linux with v4l2 and Rust</a></td>
+    <td>Video tutorial on accessing webcam data on Linux using v4l2 and Rust.</td>
+  </tr>
+</table>
+
 
 ### Youtube
 > Compilation of Rust-related YouTube channels and videos, offering users supplementary learning resources and insights into Rust development from experts and enthusiasts.
