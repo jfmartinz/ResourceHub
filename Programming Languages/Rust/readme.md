@@ -1055,7 +1055,7 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 
 <table>
   <tr>
-    <th>Resource Name (Link)</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
