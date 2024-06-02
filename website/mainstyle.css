@@ -995,7 +995,7 @@ video {
 
 .bg-neutral-900 {
   --tw-bg-opacity: 1;
-  background-color: rgb(23 23 23 / var(--tw-bg-opacity));
+  background-color: rgb(121 117 117 / var(--tw-bg-opacity));
 }
 
 .bg-transparent {
@@ -1836,9 +1836,10 @@ body.light-mode {
 }
 
 .light-mode .text-white {
-  color: #000;
+  color: #211d1d;
 }
 
 .light-mode .text-neutral-300 {
-  color: #4b5563;
+  color: #929191;
 }
+

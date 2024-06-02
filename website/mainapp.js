@@ -230,7 +230,7 @@ document.addEventListener("DOMContentLoaded", async function () {
                 card.className = "card-content hover:text-black ";
                 card.innerHTML = `
                 <div class="card hover:text-black glow-on-hover">
-                <p class="font-semibold z-10 text-center hover:text-black text-xs sm:text-xs md:text-xl lg:text-2xl xl:text-3xl 2xl:text-5xl text-neutral-300">${file.name}</p>
+                <p class="font-semibold z-10 text-center hover:text-black text-xs sm:text-xs md:text-xl lg:text-2xl xl:text-3xl 2xl:text-3xl text-neutral-300">${file.name}</p>
 
                 </div>
                 `;
