@@ -209,12 +209,20 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
         <th>Description</th>
       </tr>
       <tr>
+      <td><a href="http://appshots.design">Appshots</a></td>
+      <td>AppShot is a sleek and user-friendly platform dedicated to helping designers and developers create stunning app screenshots for the App Store and Google Play.</td>
+      </tr>
+      <tr>
       <td><a href="https://www.behance.net/">Behance</a></td>
       <td>Behance is the world's largest creative network for showcasing and discovering creative work.</td>
       </tr>
       <tr>
       <td><a href="https://dribbble.com/">Dribbble</a></td>
       <td>Find Top Designers & Creative Professionals on Dribbble. We are where designers gain inspiration, feedback, community, and jobs.</td>
+      </tr>
+      <tr>
+      <td><a href="http://godly.website">Godly</a></td>
+      <td>Godly is a website dedicated to providing top-tier web design inspiration. It features a curated collection of exemplary web designs from various categories such as AI, Web3, portfolios, startups, e-commerce, and more.</td>
       </tr>
       <tr>
       <td><a href="https://www.awwwards.com/">Awwwards</a></td>
