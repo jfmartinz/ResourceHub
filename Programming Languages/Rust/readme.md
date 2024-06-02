@@ -18,6 +18,7 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 - [IDEs](#ides)
 - [Text Editors](#text-editors)
 - [Development Tools](#development-tools)
+- [Build Systems](#build-systems)
 - [Data Visulization](#data-visualization)
 - [Linux Development](#linux-development)
 - [Testing and Debugging](#testing-and-debugging)
