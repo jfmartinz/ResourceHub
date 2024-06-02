@@ -198,6 +198,10 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td> <a href="https://www.linkedin.com/learning/paths/become-a-data-scientist">LinkedIn Learning - Become a Data Scientist Learning Path </a></td>
         <td>A curated collection of courses covering Python, machine learning, data analysis, and more, with certificates of completion. </td>
       </tr>
+      <tr>
+            <td><a href="https://www.udemy.com/topic/data-science/">Data Science Courses</a></td>
+            <td>Udemy - Learn top Data Science Courses.</td>
+      </tr>
   </table>
 
 ### Books
