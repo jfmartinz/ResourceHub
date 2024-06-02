@@ -19,6 +19,11 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 - [Text Editors](#text-editors)
 - [Development Tools](#development-tools)
 - [Data Visulization](#data-visualization)
+- [Linux Development](#linux-development)
+- [Testing and Debugging](#testing-and-debugging)
+  - [Testing](#testing)
+  - [Debugging](#debugging)
+- [Deployment](#deployment)
 - [YouTube](#youtube)
   - [Youtube Channels](#youtube-channels)
   - [Youtube Videos](#youtube-videos)
@@ -27,6 +32,8 @@ Rust has a rich ecosystem of resources to help you learn and master the language
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
 - [Books](#books)
+- [Exercises](#exercises)
+- [Rust CheatSheets](#rust-cheatsheets)
 - [Rust Communities](#rust-communities)
 - [Conclusion](#conclusion)
 
@@ -609,6 +616,32 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 
 ### Testing
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://doc.rust-lang.org/book/ch11-00-testing.html">The Rust Programming Language - Chapter 11: Testing</a></td>
+    <td>The official Rust book's chapter on testing</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/assert-rs/assert_cmd">assert_cmd</a></td>
+    <td>A crate for testing command line applications by simulating user input and verifying output</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.rs/mockall/0.11.0/mockall/">mockall</a></td>
+    <td>A Rust library for creating mock objects in tests</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/otaviopace/sidefuzz">sidefuzz</a></td>
+    <td>A library for testing Rust functions with fuzzing</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/steveklabnik/annotate-snippets-rs">annotate-snippets</a></td>
+    <td>A crate for generating pretty-printed snippets of Rust code for testing</td>
+  </tr>
+</table>
 
 
 ### Debugging
@@ -976,6 +1009,7 @@ Rust has a rich ecosystem of resources to help you learn and master the language
     <td><a href="https://www.manning.com/books/rust-web-development">Rust Web Development</a></td>
     <td>A book focused on building web applications with Rust.</td>
   </tr>
+  
 </table>
 
 ### Exercises
@@ -1004,6 +1038,59 @@ Rust has a rich ecosystem of resources to help you learn and master the language
   </tr>
 </table>
 
+### Rust CheatSheets
+> The Rust quick reference cheat sheet that aims at providing help on writing basic syntax and methods.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://doc.rust-lang.org/book/syntax-index.html">Syntax Index</a></td>
+    <td>A comprehensive index of Rust syntax</td>
+  </tr>
+  <tr>
+    <td><a href="https://danielkeep.github.io/itercheat_baked.html">Rust Iterator Cheat Sheet</a></td>
+    <td>A cheat sheet for Rust iterators by Daniel Keep</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/spreadsheets/d/19vSPL6z2d50JlyzwxariaYD6EU2QQUQqIDOGbiGQC7Y/pubhtml?gid=0&single=true">Rust String Conversions Cheat Sheet</a></td>
+    <td>A cheat sheet for Rust string conversions by GavinB</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries">Rustic Symmetries</a></td>
+    <td>A collection of Rust idioms and best practices by kmc</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit?usp=sharing">Rust Container Cheat Sheet</a></td>
+    <td>A cheat sheet for Rust container types by Raph Levien</td>
+  </tr>
+  <tr>
+    <td><a href="https://rufflewind.com/img/rust-move-copy-borrow.png">Graphical depiction of ownership and borrowing in Rust</a></td>
+    <td>A graphical guide to Rust's ownership and borrowing concepts by Phil Ruffwind</td>
+  </tr>
+  <tr>
+    <td><a href="https://charlesetc.inclouds.space/lifetime-reference/">Lifetime Reference</a></td>
+    <td>A reference guide for Rust lifetimes by Charles</td>
+  </tr>
+  <tr>
+    <td><a href="http://phaiax.github.io/rust-cheatsheet/">Phaiax's Rust Cheatsheet</a></td>
+    <td>A general Rust cheat sheet by Phaiax</td>
+  </tr>
+  <tr>
+    <td><a href="https://cheats.rs/">Rust Language Cheat Sheet</a></td>
+    <td>A comprehensive cheat sheet for Rust by Ralf Biedert</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.breakdown-notes.com/make/load/rust_cs_canvas/true">Rust cheat sheet (beginner-oriented)</a></td>
+    <td>A beginner-oriented Rust cheat sheet</td>
+  </tr>
+  <tr>
+    <td><a href="https://upsuper.github.io/rust-cheatsheet/">A type-based Rust cheatsheet</a></td>
+    <td>A type-based Rust cheat sheet by Xidorn Quan</td>
+  </tr>
+</table>
 
 ### Rust Communities
 > Various Rust communities and forums where developers gather to discuss, collaborate, and share knowledge about Rust programming language.
