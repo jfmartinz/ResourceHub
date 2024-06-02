@@ -396,6 +396,10 @@
       <td ><a href="https://www.youtube.com/watch?v=EItlUEPCIzM">KMeans Clustering</a></td>
       <td>This video gives you a comprehensive knowledge about K Means clustering algorithm which is a unsupervised machine learning technique used to cluster data points, and this video also helps you to solve a  clustering problem using sklearn, kmeans and python.</td>
     </tr>
+    <tr>
+      <td ><a href="https://www.youtube.com/watch?v=ob1yS9g-Zcs&t=4728s">Neural Network</a></td>
+      <td>This video provides a comprehensive introduction to neural networks, covering fundamental concepts, training processes, and practical applications. It explains forward and backward propagation, deep learning techniques, and the use of convolutional neural networks (CNNs) for image processing. Additionally, it demonstrates implementing neural networks using Python, TensorFlow, and other libraries, including examples such as stock price prediction and image classification.</td>
+    </tr>
 </table>
 
 
@@ -457,6 +461,10 @@
       <tr>
         <td><a href="https://archive.ics.uci.edu/datasets">UCI Datasets</a></td>
         <td>The UCI Machine Learning Repository, hosted at the URL you provided, is a collection of datasets for machine learning research and experimentation. It's maintained by the Center for Machine Learning and Intelligent Systems at the University of California, Irvine (UCI). </td>
+      </tr>
+      <tr>
+        <td><a href="https://data.gov/">Data.gov</a></td>
+        <td>Data.gov, a US government website, is invaluable for machine learning enthusiasts with its vast collection of nearly 300,000 datasets. It provides high-quality, reliable training data from various sectors, enabling innovative applications in public health, economics, and environmental science. The open data is freely available, eliminating licensing costs and allowing unrestricted use. Its authoritative sources ensure improved accuracy and reliability in machine learning models.</td>
       </tr>
 </table>
 
