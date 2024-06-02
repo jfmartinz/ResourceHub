@@ -7,6 +7,15 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [Website to learn web3](#website-to-learn-web3)<br>
 - [Tutorial or Courses](#tutorial-or-courses)<br>
 - [Blockchain Technologies](#blockchain-technologies)<br>
+  - [Roadmap](#Roadmap)<br>
+  - [Tools](#tools)<br>
+  - [Technologies](#technologies)<br>
+  - [Courses](#courses)<br>
+  - [Books](#books)<br>
+  - [YouTube Channels](#youtube-channels)<br>
+  - [YouTube Playlists](#youtube-playlists)<br>
+  - [GitHub Repositories](#github-repositories)<br>
+  - [Conclusion](#conclusion)<br>
 - [News](#news)<br>
 - [Community](#community)<br>
 - [YouTube Channels](#youtube-channels)<br>
@@ -164,6 +173,348 @@ The course covers:
     <td>he Polygon Network is a Web3 software platform focused on making interaction with the Ethereum (ETH) blockchain easier. Officially, Polygon is called a "layer-2 scaling solution" because all its Web3 tools are built on top of Ethereum's "layer-1" blockchain and support Ethereum's scalability initiatives. </td>
     </tr>
 </table>
+
+### Roadmap
+
+> To become a Blockchain Developer, there are a lot of skills that one requires. Let’s look into each field and learn how to proceed to be a successful blockchain developer.
+
+<table width="100%" id="Roadmap">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <th ><a href="https://roadmap.sh/blockchain">Blockchain Development Roadmap</a></th>
+        <th>A comprehensive roadmap for becoming a proficient blockchain developer.</th>
+      <tr>
+      <th ><a href="https://github.com/OffcierCia/DeFi-Developer-Road-Map">DeFi Developer Roadmap</a></th>
+        <th>A detailed roadmap for becoming a Decentralized Finance (DeFi) developer.</th>
+      </tr>
+        <tr>
+        <th><a href="https://www.blockchain-council.org/blockchain/blockchain-career-roadmap/">Blockchain Career Roadmap</a></th>
+        <th>A guide to navigating the career path in blockchain development.</th>
+      </tr>
+      <tr>
+      <th><a href="https://www.codecademy.com/learn/paths/build-blockchain">Build a Blockchain</a></th>
+      <th>Interactive path to learn the basics of building a blockchain and a cryptocurrency.</th>
+      </tr>
+  </table>
+
+### Tools
+
+> Discover a wide variety of tools essential for Blockchain Development. They are listed below:
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td> <a href="https://geth.ethereum.org/">Geth</a></td>
+        <td>Go-Ethereum client for running Ethereum nodes and interacting with the Ethereum blockchain.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://remix.ethereum.org/">Remix IDE</a></td>
+        <td>Web-based IDE for writing, testing, and deploying smart contracts on Ethereum.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://trufflesuite.com/">Truffle Suite</a></td>
+        <td>Development framework for Ethereum, offering tools for compiling, testing, and deploying smart contracts.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://metamask.io/">MetaMask</a></td>
+        <td>Browser extension and mobile app for managing Ethereum wallets and interacting with dApps.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://infura.io/">Infura</a></td>
+        <td>Scalable API access to Ethereum and IPFS networks, simplifying dApp development.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://hardhat.org/">Hardhat</a></td>
+        <td>Ethereum development environment for compiling, testing, and deploying smart contracts.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://ganache.ethereum.org/">Ganache</a></td>
+        <td>Personal Ethereum blockchain for testing and development, part of the Truffle Suite.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://soliditylang.org/">Solidity</a></td>
+        <td>Programming language for writing smart contracts on Ethereum and other blockchain platforms.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://chain.link/">Chainlink</a></td>
+        <td>Decentralized oracle network providing reliable, tamper-proof data for smart contracts.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.alchemy.com/">Alchemy</a></td>
+        <td>Blockchain developer platform offering tools for building and scaling dApps.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://web3js.readthedocs.io/">Web3.js</a></td>
+        <td>JavaScript library for interacting with the Ethereum blockchain and smart contracts.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.parity.io/substrate/">Substrate</a></td>
+        <td>Framework for building custom blockchains, developed by Parity Technologies.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.hyperledger.org/projects/fabric">Hyperledger Fabric</a></td>
+        <td>Permissioned blockchain framework for enterprise use, part of the Hyperledger project.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://openzeppelin.com/contracts/">OpenZeppelin Contracts</a></td>
+        <td>Library of secure and community-vetted smart contracts for Ethereum development.</td>
+      </tr>
+  </table>
+
+### Technologies
+
+> These are the technologies you can master to be a successful Blockchain Developer. They are listed below:
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td> <a href="https://soliditylang.org/">Solidity</a></td>
+        <td>Programming language for writing smart contracts on Ethereum and other blockchain platforms.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://docs.rust-lang.org/">Rust</a></td>
+        <td>Systems programming language known for its performance and safety, used in blockchain development.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.golang.org/">Go</a></td>
+        <td>Programming language known for its simplicity and efficiency, used in blockchain projects like Hyperledger Fabric.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://chain.link/">Chainlink</a></td>
+        <td>Decentralized oracle network providing reliable, tamper-proof data for smart contracts.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.hyperledger.org/">Hyperledger</a></td>
+        <td>Open-source collaborative effort to advance cross-industry blockchain technologies.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://substrate.dev/">Substrate</a></td>
+        <td>Framework for building custom blockchains, developed by Parity Technologies.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://ethereum.org/">Ethereum</a></td>
+        <td>Decentralized platform that runs smart contracts, eliminating the need for intermediaries.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://polkadot.network/">Polkadot</a></td>
+        <td>Blockchain platform enabling multiple blockchains to transfer messages and value in a trust-free fashion.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.cardano.org/">Cardano</a></td>
+        <td>Proof-of-stake blockchain platform focused on providing a more secure and scalable platform for smart contracts.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://tezos.com/">Tezos</a></td>
+        <td>Blockchain platform that supports smart contracts and allows for formal verification.</td>
+      </tr>
+  </table>
+
+### Courses
+
+> You can consider these courses for learning Blockchain Development:
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+        <th>Cost</th>
+      </tr>
+       <tr>
+        <td> <a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">Udacity Blockchain Developer Nanodegree</a></td>
+        <td>Comprehensive program covering blockchain fundamentals, smart contracts, dApp development, and blockchain architecture.</td>
+        <td>Paid</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.coursera.org/specializations/blockchain">Coursera Blockchain Specialization</a></td>
+        <td>Specialization covering blockchain basics, smart contract development, decentralized applications, and blockchain platforms.</td>
+        <td>Paid</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.edx.org/professional-certificate/berkeleyx-blockchain-fundamentals">edX Blockchain Fundamentals</a></td>
+        <td>Professional certificate program by Berkeley covering the basics of blockchain technology and
+
+ its applications.</td>
+        <td>Paid</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.pluralsight.com/paths/blockchain">Pluralsight Blockchain Path</a></td>
+        <td>Pathway covering blockchain basics, Ethereum development, smart contract security, and more.</td>
+        <td>Paid</td>
+      </tr>
+      <tr>
+        <td> <a href="https://blockgeeks.com/courses/">Blockgeeks Courses</a></td>
+        <td>Various courses on blockchain development, Ethereum, smart contracts, and dApps.</td>
+        <td>Paid</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.linkedin.com/learning/topics/blockchain">LinkedIn Learning Blockchain Courses</a></td>
+        <td>Various courses covering blockchain basics, smart contracts, Ethereum, and more.</td>
+        <td>Paid</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.udemy.com/topic/blockchain/">Udemy Blockchain Courses</a></td>
+        <td>Wide range of courses on blockchain development, including Ethereum, Hyperledger, and smart contracts.</td>
+        <td>Paid/Free</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.academind.com/learn/blockchain">Academind Blockchain Course</a></td>
+        <td>Comprehensive course on blockchain technology and development.</td>
+        <td>Paid</td>
+      </tr>
+      <tr>
+        <td> <a href="https://cryptozombies.io/">CryptoZombies</a></td>
+        <td>Interactive tutorial that teaches you to build games on Ethereum.</td>
+        <td>Free</td>
+      </tr>
+  </table>
+
+### Books
+
+> Here are some recommended books for learning Blockchain Development:
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td> <a href="https://www.oreilly.com/library/view/mastering-bitcoin-2nd/9781491954379/">Mastering Bitcoin by Andreas M. Antonopoulos</a></td>
+        <td>Comprehensive guide to Bitcoin and blockchain technology, suitable for developers and enthusiasts.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/">Mastering Ethereum by Andreas M. Antonopoulos and Gavin Wood</a></td>
+        <td>Detailed guide to Ethereum and smart contract development, written by industry experts.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.oreilly.com/library/view/bitcoin-and-cryptocurrency/9781492031482/">Bitcoin and Cryptocurrency Technologies by Arvind Narayanan et al.</a></td>
+        <td>Comprehensive textbook on the technical aspects of Bitcoin and cryptocurrencies.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction/dp/1484226038">Blockchain Basics by Daniel Drescher</a></td>
+        <td>Non-technical introduction to blockchain technology, suitable for beginners.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.oreilly.com/library/view/blockchain-applications/9781492045212/">Blockchain Applications by Arshdeep Bahga and Vijay Madisetti</a></td>
+        <td>Guide to building decentralized applications on various blockchain platforms.</td>
+      </tr>
+  </table>
+
+### YouTube Channels
+
+> Follow these YouTube channels to stay updated and learn Blockchain Development:
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/user/aantonop">Andreas M. Antonopoulos</a></td>
+        <td>Channel offering deep insights into Bitcoin, blockchain technology, and cryptocurrency trends.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/channel/UCQMn3DZ_JdzQQsC1aOGC-Vw">Dapp University</a></td>
+        <td>Channel focused on Ethereum development, smart contracts, and decentralized applications.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/c/SimplyExplained">Simply Explained</a></td>
+        <td>Channel offering simple explanations of complex topics, including blockchain and cryptocurrency.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/c/TheModernInvestor">The Modern Investor</a></td>
+        <td>Channel covering the latest news and updates in the cryptocurrency and blockchain space.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/c/CryptoZombie">Crypto Zombie</a></td>
+        <td>Channel providing daily updates and analysis on cryptocurrency markets and blockchain technology.</td>
+      </tr>
+  </table>
+
+### YouTube Playlists
+
+> Here are some YouTube playlists to learn Blockchain Development:
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLNfnP1NY2kxS4kY-6U92frMTrt8Ys0zB3">Build a Blockchain & Cryptocurrency | Full-Stack Edition</a></td>
+        <td>Playlist covering the basics of building a blockchain and a cryptocurrency from scratch.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLV1JDFUtrXpV89meZ6UsF6kyQlVAyY5T9">Ethereum Development Walkthrough</a></td>
+        <td>Comprehensive guide to Ethereum development, smart contracts, and dApps.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLKjVg6zE10lu-B8nKCzNmyiVQhVp8g8P_">Blockchain Developer Tutorials | Cryptography, DLT, Smart Contracts</a></td>
+        <td>Series of tutorials covering various aspects of blockchain development.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLgP60dbzQj7VJrsRKHwlchDu69Tj10WFw">Build a Blockchain & Cryptocurrency | Javascript Edition</a></td>
+        <td>Step-by-step guide to building a blockchain and a cryptocurrency using JavaScript.</td>
+      </tr>
+  </table>
+
+### GitHub Repositories
+
+> Explore these GitHub repositories for Blockchain Development resources:
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://github.com/ethereum/go-ethereum">Go Ethereum (Geth)</a></td>
+        <td>Official Go implementation of the Ethereum protocol, including the Go-Ethereum client.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://github.com/ethereum/solidity">Solidity</a></td>
+        <td>Repository for the Solidity programming language, used for writing smart contracts on Ethereum.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://github.com/trufflesuite/truffle">Truffle</a></td>
+        <td>Development framework for Ethereum, offering tools for compiling, testing, and deploying smart contracts.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://github.com/ChainSafe/web3.js">Web3.js</a></td>
+        <td>JavaScript library for interacting with the Ethereum blockchain and smart contracts.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://github.com/paritytech/substrate">Substrate</a></td>
+        <td>Framework for building custom blockchains, developed by Parity Technologies.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://github.com/bitcoin/bitcoin">Bitcoin</a></td>
+        <td>Official repository for the Bitcoin source code, including the Bitcoin Core software.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://github.com/hyperledger/fabric">Hyperledger Fabric</a></td>
+        <td>Permissioned blockchain framework for enterprise use, part of the Hyperledger project.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://github.com/solana-labs/solana">Solana</a></td>
+        <td>High-performance blockchain platform supporting decentralized applications and crypto-currencies.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin Contracts</a></td>
+       
+
+ <td>Library of secure smart contract templates for Ethereum, developed by OpenZeppelin.</td>
+      </tr>
+  </table>
+</div>
+
 
 ### News
 
