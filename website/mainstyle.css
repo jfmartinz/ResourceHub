@@ -1538,6 +1538,14 @@ pre {
   text-decoration: underline;
 }
 
+#logo{
+  filter: invert(0%); 
+}
+
+.light-mode #logo{
+    filter: invert(100%);
+}
+
 .h1-dark-mode {
   color: #ffffff;
 }
