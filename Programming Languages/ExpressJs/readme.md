@@ -35,7 +35,7 @@ you need to know to become proficient in Express.js, from the basics to advanced
   - [Microservices](#microservices)
   - [GraphQL](#graphql)
   - [WebSockets](#websockets)
-- [Express.js Projects](#expressjs-projects)
+- [Projects](#projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advanced Level Projects](#advanced-level-projects)
@@ -733,7 +733,7 @@ you need to know to become proficient in Express.js, from the basics to advanced
  </tr>
 </table>
 
-## Express.js Projects
+## Projects
 > Work on beginner, intermediate, and advanced level projects to apply your knowledge in real-world scenarios.
 
 ### Beginner Level Projects
