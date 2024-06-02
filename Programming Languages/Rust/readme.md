@@ -940,6 +940,7 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 ### Books
 > Recommended books and resources for learning Rust programming, catering to users preferring in-depth and structured learning materials.
 
+### Beginner Books
 <table>
   <tr>
     <th>Resource Name</th>
@@ -1009,8 +1010,45 @@ Rust has a rich ecosystem of resources to help you learn and master the language
     <td><a href="https://www.manning.com/books/rust-web-development">Rust Web Development</a></td>
     <td>A book focused on building web applications with Rust.</td>
   </tr>
-  
+  <tr>
+    <td><a href="https://www.manning.com/books/refactoring-to-rust">Refactoring to Rust</a></td>
+    <td>A book focusing on refactoring techniques in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/learn-rust-in-a-month-of-lunches">Learn Rust in a Month of Lunches</a></td>
+    <td>A book providing a structured approach to learning Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://datacrayon.com/shop/product/data-analysis-with-rust-notebooks/">Data Analysis with Rust Notebooks</a></td>
+    <td>A resource for utilizing Rust in data analysis with Jupyter Notebooks</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/rust-web-programming/">Rust Web Programming</a></td>
+    <td>A guide for web development using Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://learning.oreilly.com/library/view/command-line-rust/9781098109424/">Command-Line Rust: A Project-Based Primer for Writing Rust CLIs</a></td>
+    <td>A project-based approach to learning Rust for command-line application development</td>
+  </tr>
+  <tr>
+    <td><a href="https://hands-on-rust.com/">Hands-on Rust</a></td>
+    <td>A hands-on resource for learning Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.zero2prod.com">Zero To Production In Rust</a></td>
+    <td>A practical guide for building production-ready applications in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/rust-design-patterns">Rust Design Patterns</a></td>
+    <td>A book exploring design patterns in Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/write-powerful-rust-macros">Write Powerful Rust Macros</a></td>
+    <td>A resource for mastering macro programming in Rust</td>
+  </tr>
 </table>
+
+### Advanced Books
 
 ### Exercises
 > Here are some exercises for rust.
