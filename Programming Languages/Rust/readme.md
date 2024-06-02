@@ -32,6 +32,8 @@ Rust has a rich ecosystem of resources to help you learn and master the language
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
 - [Books](#books)
+  - [Beginner Books](#beginner-books)
+  - [Advanced Books](#advanced-books)
 - [Exercises](#exercises)
 - [Rust CheatSheets](#rust-cheatsheets)
 - [Rust Communities](#rust-communities)
@@ -1049,6 +1051,98 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 </table>
 
 ### Advanced Books
+
+<table>
+  <tr>
+    <th>Resource Name (Link)</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://doc.rust-lang.org/nightly/nomicon/">The Rustonomicon</a></td>
+    <td>A collection of dark arts of Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://rust-unofficial.github.io/patterns/">Rust Patterns</a></td>
+    <td>A collection of Rust programming patterns</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.lurklurk.org/effective-rust/">Effective Rust</a></td>
+    <td>A guide to writing efficient and idiomatic Rust code</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/">Programming Rust 2nd Edition</a></td>
+    <td>A comprehensive guide to Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://marabos.nl/atomics/foreword.html">Rust Atomics and Locks</a></td>
+    <td>A guide to Rust's atomic types and locking mechanisms</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Mastering-Rust-memory-concurrency-features/dp/1789346576">Mastering Rust 2nd Edition</a></td>
+    <td>A book focusing on mastering memory management and concurrency features in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Rust-Essentials-Ivo-Balbaert/dp/1785285769">Rust Essentials - Second Edition</a></td>
+    <td>An essential guide for learning Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Hands-Concurrency-Rust-Confidently-memory-safe/dp/1788399978">Hands-On Concurrency with Rust</a></td>
+    <td>A practical guide to concurrent programming in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Hands-Functional-Programming-Rust-applications-ebook/dp/B07C5S4729">Hands-On Functional Programming in Rust</a></td>
+    <td>A hands-on guide to functional programming in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Rust-High-Performance-performance-applications/dp/178839948X">Rust High Performance</a></td>
+    <td>A book focusing on building high-performance applications in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://pragprog.com/titles/khrust/programming-webassembly-with-rust/">Programming WebAssembly with Rust</a></td>
+    <td>A guide to programming WebAssembly using Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.armstrong-publications.com/product/step-ahead-with-rust-super-combo/">Step Ahead with Rust: Systems Programming in Rust</a></td>
+    <td>A comprehensive resource for systems programming in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/hands-on-microservices-with-rust/9781789342758">Hands-On Microservices with Rust 2018</a></td>
+    <td>A practical guide to building scalable and reliable RESTful microservices in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://danielkeep.github.io/tlborm/book/index.html">The Little Book of Rust Macros</a></td>
+    <td>A concise guide to Rust macros</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528">Hands-On Data Structures and Algorithms with Rust</a></td>
+    <td>A practical guide to implementing data structures and algorithms in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109">The Complete Rust Programming Reference Guide</a></td>
+    <td>A comprehensive reference guide for Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/creative-projects-for-rust-programmers/9781789346220">Creative Projects for Rust Programmers</a></td>
+    <td>A collection of creative projects for Rust programmers</td>
+  </tr>
+  <tr>
+    <td><a href="https://kerkour.com/black-hat-rust">Black Hat Rust</a></td>
+    <td>A guide to unethical hacking using Rust programming language</td>
+  </tr>
+  <tr>
+    <td><a href="https://nostarch.com/rust-rustaceans">Rust for Rustaceans</a></td>
+    <td>A resource for intermediate to advanced Rust programmers</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Rust-Crash-Course-High-Performance-Next-Generation/dp/9355510950">Rust Crash Course</a></td>
+    <td>A crash course for learning Rust programming quickly</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/code-like-a-pro-in-rust">Code Like a Pro in Rust</a></td>
+    <td>A guide to writing professional-grade Rust code</td>
+  </tr>
+</table>
+
 
 ### Exercises
 > Here are some exercises for rust.
