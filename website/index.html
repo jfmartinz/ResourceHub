@@ -367,6 +367,58 @@ h1:hover {
             </div>
         </div>
     </div>
+
+
+    <!-- FAQ Section -->
+    <section class="max-w-4xl mx-auto p-4 p-8 transition duration-500">
+        <h2 class="text-3xl sm:text-5xl lg:text-7xl text-center my-10 bg-gradient-to-r from-blue-100 to-blue-600 font-semibold text-transparent bg-clip-text h-auto leading-tight sm:leading-none">
+            Frequently Asked Questions
+        </h2>
+        
+        <div class="flex flex-col gap-4">
+            <!-- FAQ 1 -->
+            <div class="border rounded-lg p-4">
+                <button class="w-full flex justify-between items-center text-lg font-medium focus:outline-none" onclick="toggleAnswer('faq1', 'arrow1')">
+                    <span>What is ResourceHub?</span>
+                    <svg id="arrow1" class="h-6 v-6 arrow-icon transform transition-transform" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <path d="M10 12a1 1 0 0 1-.707-.293l-4-4a1 1 0 1 1 1.414-1.414L10 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414l-4 4A1 1 0 0 1 10 12z"/>
+                    </svg>
+                </button>
+                <div id="faq1" class="hidden mt-2 text-gray-700">
+                    ResourceHub is an Open-Source project that serves as a collection of valuable resources for Web Development, UI & UX Design, Web3, Database, Open Source Development, App Development, Data Science and DevOps carefully curated by the amazing contributors in the community.
+                </div>
+            </div>
+
+            <!-- FAQ 2 -->
+            <div class="border rounded-lg p-4">
+                <button class="w-full flex justify-between items-center text-lg font-medium focus:outline-none" onclick="toggleAnswer('faq2', 'arrow2')">
+                    <span>How can I contribute?</span>
+                    <svg id="arrow2" class="h-6 v-6 arrow-icon transform transition-transform" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <path d="M10 12a1 1 0 0 1-.707-.293l-4-4a1 1 0 1 1 1.414-1.414L10 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414l-4 4A1 1 0 0 1 10 12z"/>
+                    </svg>
+                </button>
+                <div id="faq2" class="hidden mt-2 text-gray-700">
+                    You can contribute with helpful resources you've discovered on the internet and share them with us!
+                </div>
+            </div>
+
+            <!-- FAQ 3 -->
+            <div class="border rounded-lg p-4">
+                <button class="w-full flex justify-between items-center text-lg font-medium focus:outline-none" onclick="toggleAnswer('faq3', 'arrow3')">
+                    <span>What categories are available?</span>
+                    <svg id="arrow3" class="h-6 v-6 arrow-icon transform transition-transform" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <path d="M10 12a1 1 0 0 1-.707-.293l-4-4a1 1 0 1 1 1.414-1.414L10 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414l-4 4A1 1 0 0 1 10 12z"/>
+                    </svg>
+                </button>
+                <div id="faq3" class="hidden mt-2 text-gray-700">
+                    Categories currently available are: Web Development, Frontend Development, UI & UX Design, Web3, Database, Open Source Development, DevOps, App Development, Programming Languages, Data Science, Machine Learning.
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
     <h1>Faces of Dedication: Our Contributing Heroes</h1>
     <div id="loading1"></div>
     <div id="contributor"></div>
@@ -424,6 +476,21 @@ h1:hover {
             menuIcon.classList.toggle('hidden');
             closeIcon.classList.toggle('hidden');
         });
+
+
+        // FAQ toggle function
+        function toggleAnswer(faqId, arrowId) {
+            const answer = document.getElementById(faqId);
+            const arrow = document.getElementById(arrowId);
+
+            answer.classList.toggle('hidden');
+            if (answer.classList.contains('hidden')) {
+                arrow.style.transform = 'rotate(0deg)';
+            } else {
+                arrow.style.transform = 'rotate(180deg)';
+            }
+        }
+
     </script>
     <script src="mainapp.js"></script>
     <script src="contibuters.js"></script>
