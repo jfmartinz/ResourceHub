@@ -656,6 +656,9 @@ video {
   .container {
     max-width: 1024px;
   }
+  .hidden-desktop{
+    display: none !important;
+  }
 }
 
 @media (min-width: 1280px) {
@@ -1899,12 +1902,18 @@ body.dark-mode {
     font-size: 1.875rem;
     line-height: 2.25rem;
   }
+  .hidden-desktop{
+    display: none !important;
+  }
 }
 
 @media (min-width: 1536px) {
   .\32xl\:text-5xl {
     font-size: 3rem;
     line-height: 1;
+  }
+  .hidden-desktop{
+    display: none !important;
   }
 }
 
