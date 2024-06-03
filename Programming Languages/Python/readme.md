@@ -24,7 +24,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
    - [Free Courses](#free-courses)<br>
    - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
-- [Java Projects](#java-projects)
+- [Python Projects](#java-projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
@@ -520,7 +520,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
       </tr>
 </table>
 
-### Java Projects
+### Python Projects
 > Java Projects which can help you to enhance your development skills and build your resumes.
 
 ### Beginner Level Projects
