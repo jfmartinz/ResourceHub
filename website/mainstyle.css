@@ -138,6 +138,7 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
+  
 }
 
 /*
@@ -1399,12 +1400,12 @@ body{
 /* CARDS STYLES */
 
 .card {
-  width: 15vw;
+  width: auto;
+  max-width: 35vw;
   height: 15vh;
   cursor: pointer;
   text-align: center;
-  margin-top:20px;
-  margin-bottom: 20px;
+  margin:20px;
   border-radius: 10px;
   background-color: rgb(18, 18, 18);
   overflow-wrap: break-word;
@@ -1424,6 +1425,9 @@ body{
 @media (max-width: 768px) {
   #testimonials-section.card-container {
       grid-template-columns: 1fr; /* Display 1 card per row on smaller screens */
+  }
+  .flip-card{
+    width: 400px;
   }
 }
 
@@ -1831,8 +1835,8 @@ body.dark-mode {
     max-width: 42rem;
   }
 
-  .md\:grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
   .md\:text-xl {
@@ -1842,6 +1846,13 @@ body.dark-mode {
 }
 
 @media (min-width: 1024px) {
+  .lg\:gap-2 {
+    gap: 0.5rem;
+  }
+  
+  .lg\:gap-4 {
+    gap: 1rem;
+  }
   .lg\:my-20 {
     margin-top: 5rem;
     margin-bottom: 5rem;
