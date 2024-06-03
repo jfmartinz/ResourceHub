@@ -58,6 +58,9 @@ ResourceHub is built using the following technologies:
 
 > Website URL: [ResourceHub](https://resourcehubwebsite.vercel.app/)
 
+## GSSoC'24
+![gssoc](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fqJaH_oISOR96gLgpJBwWQ.png)
+
 ## How to contribute
 Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your fork of this repository before submitting any contributions.
 Expand the following section for a quick guide on how to create a fork:
