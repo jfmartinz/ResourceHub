@@ -25,6 +25,7 @@ This section serves as a curated collection of valuable resources for learning a
 - [Coding Platforms](#coding-platforms)
 - [C Programming Courses](#c-programming-courses)
 - [Books](#books)
+- [Interview Preparations](#interview-preparation)
 - [Websites](#websites)
 - [Conclusion](#conclusion)
 
@@ -629,6 +630,10 @@ This section serves as a curated collection of valuable resources for learning a
     <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm">MIT OpenCourseWare - Introduction to Computer Science and Programming in C</a></td>
     <td>Offered by Massachusetts Institute of Technology (MIT)</td>
   </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PL78RhpUUKSwcgBrlBtstLjBMEtQmCRbHp&si=vpNyMxpggLL4nqIb">C Programming Certification YouTube course</a></td>
+    <td>A free course on YouTube designed for complete beginners to learn C programming.</td>
+  </tr>
 </table>
 
 ### Coding Platforms
@@ -714,6 +719,29 @@ This section serves as a curated collection of valuable resources for learning a
             <td>A beginner-friendly book that focuses on the fundamentals of C programming.</td>
         </tr>
     </table>
+
+### Interview Preparation
+> Here are some resources which can help you to prepare for C interview rounds
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/Wa9NuZ90UbI?si=7HrN_lNxN4GYEPP3">Top 40 C Programming Interview Questions & Answers</a></td>
+    <td>Simplilearn provides a comprehensive video covering the top 40 C programming interview questions along with detailed explanations and solutions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PL-gW8Fj5TGrrw5sU8E-ML0Ehpz377eFrR&si=FVXlgYDKlGuItXxM">Sanjay Gupta Tech School</a></td>
+    <td>This video by Sanjay Gupta presents common C programming interview questions along with explanations and code examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/MJ2N2CjHb4U?si=pgjRC7HsA9esLae0">C Programming Interview Questions and Answers</a></td>
+    <td>edureka! offers a video discussing essential C programming interview questions, suitable for both beginners and experienced developers.</td>
+  </tr>
+</table>
+
 
 
 ### Websites 
