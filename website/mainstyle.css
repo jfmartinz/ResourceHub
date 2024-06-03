@@ -2038,10 +2038,6 @@ body.light-mode {
   color: #000;
 }
 
-.light-mode li a {
-  color: #fff !important;
-}
-
 .light-mode .text-neutral-300 {
   color: #4b5563;
 }
