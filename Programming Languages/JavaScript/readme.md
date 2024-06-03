@@ -1492,7 +1492,10 @@ Here's the revised table:
   <tr>
     <td><a href="https://codecombat.com/play">CodeCombat</a></td>
     <td>Learn to Code</td>
-
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/cpoXLj24BDY?si=sdtFPx2rygSChw_D">JavaScript Certification Youtube Course</a></td>
+    <td>A free course on YouTube designed for complete beginners to learn JavaScript programming.</td>
   </tr>
 </table>
 

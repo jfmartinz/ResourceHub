@@ -23,6 +23,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
   - [Tools and IDEs for C++](#tools-and-ides-for-c)
   - [Online editors and Compilers for C++](#online-editors-and-compilers-for-c)
 - [Advance Topics](#advanced-topics)
+- [Networking and Socket Programming in C++](#networking-and-socket-programming-in-c++)
 - [STL (Standard Template Library)](#stl-standard-template-library)
 - [Design Patterns](#design-patterns)
 - [Modern C++ (C++11 and beyond)](#modern-c-c11-and-beyond)
@@ -44,6 +45,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
 - [Courses](#courses)
   - [Free Certification Cources](#free-certification-courses)
   - [Paid Certification Cources](#paid-certification-courses)
+- [Interview Preparations](#interview-preparation)
 - [Coding platforms](#coding-platforms-for-c)
 - [C++ Communities](#c-communities)
 - [C++ CheatSheets](#c-cheatsheet)
@@ -554,6 +556,30 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td>An introduction to multithreading concepts in C++.</td>
   </tr>
 </table>
+
+### Networking and Socket Programming in C++
+<table width="100%">
+<tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+   <tr>
+    <td><a href="https://youtube.com/playlist?list=PLIXt8mu2KcUJOwdLMp-Z-cDIZA1aZfVTN&si=kG8iUq3KK4vDl24K">Beginner to Advanced Networking in C++</a></td>
+    <td>A beginner's guide to master the principles of Networking in C++</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PL3qrsXRWx8op6ChikMaFoBOmH5M8Nlo9C&si=DYc8je4VOR5xsXu2">  Socket Programming in C++</a></td>
+    <td>An introduction to Socket Programming in C++.</td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/bozkurthan/Simple-TCP-Server-Client-CPP-Example">  Simple TCP/UDP Client/Server Example in C++</a></td>
+    <td>A working example of a TCP/UDP Client-Server with source code available for free.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.naukri.com/code360/library/learning-socket-programming-in-c"> Learn Socket Programming in C++</a></td>
+    <td>An article which covers the very basics as well as advanced topics for Socket Programming in C++</td>
+  </tr>
+  </table>
 
 ### STL (Standard Template Library)
 <table width="100%">
@@ -1202,6 +1228,27 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
+### Interview Preparation
+> Here are some resources which can help you to prepare for C++ interview rounds
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/6HuptuHyJZg?si=1u68F8xnWk2d6SkN">Top C++ Programming Interview Questions & Answers</a></td>
+    <td>Simplilearn provides a comprehensive video covering the top C++ programming interview questions along with detailed explanations and solutions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/KzxHNsd3uO8?si=AT3lOwSSVgHRCPND">C++ Interview Question and Answers</a></td>
+    <td>This video by Interview Guruji presents common C++ programming interview questions along with explanations and code examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/I5Gr555bZEs?si=PF8Lu0csFV3Pqrem">C++ Programming Interview Questions and Answers</a></td>
+    <td>edureka! offers a video discussing essential C++ programming interview questions, suitable for both beginners and experienced developers.</td>
+  </tr>
+</table>
 
 ### Coding Platforms for C++
 
