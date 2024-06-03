@@ -61,7 +61,6 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
 
 ## Roadmap
 > Navigate your AngularJS learning journey with a structured roadmap designed to guide you from beginner to advanced levels of proficiency.
-
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -72,6 +71,7 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
 <td>A structured learning path provided by the official AngularJs website, guiding learners from the basics to advanced topics.</td>
 </tr>
 </table>
+
 
 ## Tutorials
 > Explore a range of tutorials tailored to different skill levels and learning objectives in AngularJS development. From introductory guides to advanced techniques, these tutorials cover essential concepts and practical examples to help you master AngularJS.
