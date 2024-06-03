@@ -138,7 +138,7 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
-  
+
 }
 
 /*
@@ -1604,7 +1604,6 @@ body::-webkit-scrollbar-thumb:hover {
 
 body {
   min-height: 100vh;
-  display: flex;
   flex-direction: column;
 }
 
