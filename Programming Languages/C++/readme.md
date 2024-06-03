@@ -45,6 +45,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
 - [Courses](#courses)
   - [Free Certification Cources](#free-certification-courses)
   - [Paid Certification Cources](#paid-certification-courses)
+- [Interview Preparations](#interview-preparation)
 - [Coding platforms](#coding-platforms-for-c)
 - [C++ Communities](#c-communities)
 - [C++ CheatSheets](#c-cheatsheet)
@@ -1227,6 +1228,27 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
+### Interview Preparation
+> Here are some resources which can help you to prepare for C++ interview rounds
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/6HuptuHyJZg?si=1u68F8xnWk2d6SkN">Top C++ Programming Interview Questions & Answers</a></td>
+    <td>Simplilearn provides a comprehensive video covering the top C++ programming interview questions along with detailed explanations and solutions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/KzxHNsd3uO8?si=AT3lOwSSVgHRCPND">C++ Interview Question and Answers</a></td>
+    <td>This video by Interview Guruji presents common C++ programming interview questions along with explanations and code examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/I5Gr555bZEs?si=PF8Lu0csFV3Pqrem">C++ Programming Interview Questions and Answers</a></td>
+    <td>edureka! offers a video discussing essential C++ programming interview questions, suitable for both beginners and experienced developers.</td>
+  </tr>
+</table>
 
 ### Coding Platforms for C++
 
