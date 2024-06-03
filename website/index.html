@@ -4,35 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/x-icon" href="assets/logo.png">
     <title>ResourceHub</title>
     <link rel="stylesheet" href="mainstyle.css">
+    <link rel="shortcut icon" href="/ResourceHub/website/assets/logo.png" type="image/x-icon">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.6/lottie.min.js"></script>
-    <style>
-        h1 {
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-  margin-top: 25px;
-  font-size: 45px;
-  color: var(--light);
-  text-align: center;
-  transition: color 0.3s ease-in-out;
-  cursor: pointer;
-}
-
-h1:hover {
-  color: var(--primary);
-}
-
-#contributor {
-  margin: 0;
-  padding: 50px 0;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-}
-    </style>
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> -->
 
 </head>
 
@@ -40,81 +16,64 @@ h1:hover {
     <!-- NAVBAR  -->
 
 
-    <nav class="sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-white flex-row justify-between">
-    <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm flex justify-between items-center">
-        <div class="flex items-center">
-            <img class="h-10 w-10 mr-2" src="./assets/logo.png"  id="logo" alt="Logo" />
-            <span class="text-xl tracking-tight hover-effect">ResourceHub</span>
-            <div id="google_element"></div>
-                        <script src="http://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
-                        <script>
-                            function loadGoogleTranslate() {
-                                new google.translate.TranslateElement({
-                                    pageLanguage: 'en'
-                                }, 'google_element');
-                            }
-                        </script>
+    <nav class="sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-white">
+        <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm">
+            <div class="flex justify-between mt-4 items-center">
+                <div class="flex items-center flex-shrink-0">
+                    <img class="h-10 w-10 mr-2" src="./assets/logo.png" alt="Logo" />
+                    <span class="text-xl tracking-tight hover-effect ">ResourceHub</span>
+                </div>
+                <ul class="hidden-mobile ml-14 space-x-12">
+                    <li class=" hover-effect font-semibold hover:text-sm transition-all duration-300">
+                        <a href="/">Home</a>
+                    </li>
+                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+                        <a href="about.html">About</a>
+                    </li>
+                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+                        <a href="/">Services</a>
+                    </li>
+                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+                        <a href="/">Contact</a>
+                    </li>
+                </ul>
+                <div class="hidden-desktop text-blue md:flex flex-col justify-end">
+                    <button id="toggle-navbar">
+                        <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
+                            viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                        <svg id="close-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="none"
+                            viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div id="mobile-drawer"
+                class="hidden text-white backdrop-blur opacity-85 fixed right-0 z-20 bg-neutral-900 w-full p-12 flex-col justify-center items-center lg:hidden">
+                <ul>
+                    <li class="py-4 hover-effect">
+                        <a href="/">Home</a>
+                    </li>
+                    <li class="py-4 hover-effect">
+                        <a href="about.html">About</a>
+                    </li>
+                    <li class="py-4 hover-effect">
+                        <a href="/">Services</a>
+                    </li>
+                    <li class="py-4 hover-effect">
+                        <a href="/">Contact</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-        <ul class="hidden-mobile ml-14 space-x-12 gap-20">
-            <li class="hover-effect font-semibold hover:text-sm transition-all duration-300 ">
-                <a href="/">Home</a>
-            </li>
-            <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                <a href="about.html">About</a>
-            </li>
-            <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                <a href="/">Services</a>
-            </li>
-            <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                <a href="/">Contact</a>
-            </li>
-        </ul>
-        <div class="hidden-desktop text-blue md:flex flex-row justify-end">
-        <!-- Dark/Light Mode Toggle Button -->
-        <div class="flex items-center">
-            <label class="switch">
-                <input type="checkbox" id="theme-toggle">
-                <span class="slider smaller"></span>
-            </label>
-        </div>
-        
-            <button id="toggle-navbar">
-                <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
-                    viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                        d="M4 6h16M4 12h16M4 18h16" />
-                </svg>
-                <svg id="close-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="none"
-                    viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                        d="M6 18L18 6M6 6l12 12" />
-                </svg>
-            </button>
-        </div>
-    </div>
-    <div id="mobile-drawer"
-        class="hidden text-white backdrop-blur opacity-85 fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
-        <ul>
-            <li class="py-4 hover-effect">
-                <a href="/">Home</a>
-            </li>
-            <li class="py-4 hover-effect">
-                <a href="about.html">About</a>
-            </li>
-            <li class="py-4 hover-effect">
-                <a href="/">Services</a>
-            </li>
-            <li class="py-4 hover-effect">
-                <a href="/">Contact</a>
-            </li>
-        </ul>
-    </div>
-</nav>
+    </nav>
 
-
-    <div class="content-wrapper">
     <!-- HeroSection -->
-    <div class="first mb-40 flex flex-col items-center mt-40 lg:mt-40 bg-black">
+    <div class="first mb-30 flex flex-col items-center mt-40 lg:mt-40 bg-black">
         <h1 class="text-white text-4xl sm:text-6xl lg:text-7xl mb-30 text-center tracking-wide">
             <span
                 class="focus-in-contract-bck bg-gradient-to-r from-blue-100 to-blue-600 mt-30 font-semibold text-transparent bg-clip-text hover-effect-2">
@@ -140,21 +99,60 @@ h1:hover {
     </div>
 
     <div class="max-w-6xl h-[90vh] mb-40 mx-auto p-4 bg-black rounded-md" id="resources">
-        <div class="search-container mb-20">
-            <input type="text" class="search-input w-full p-2 rounded-full bg-transparent text-white"
-                placeholder="Search..." oninput="filterCards()">
+        
+                             <!-- Search Bar -->
+        <div id="search">
+            <svg viewBox="0 0 420 60" xmlns="http://www.w3.org/2000/svg">
+                <rect class="bar" />
+    
+                <g class="magnifier">
+                    <circle class="glass" />
+                    <line class="handle" x1="32" y1="32" x2="44" y2="44"></line>
+                </g>
+    
+                <g class="sparks">
+                    <circle class="spark" />
+                    <circle class="spark" />
+                    <circle class="spark" />
+                </g>
+    
+                <g class="burst pattern-one">
+                    <circle class="particle circle" />
+                    <path class="particle triangle" />
+                    <circle class="particle circle" />
+                    <path class="particle plus" />
+                    <rect class="particle rect" />
+                    <path class="particle triangle" />
+                </g>
+                <g class="burst pattern-two">
+                    <path class="particle plus" />
+                    <circle class="particle circle" />
+                    <path class="particle triangle" />
+                    <rect class="particle rect" />
+                    <circle class="particle circle" />
+                    <path class="particle plus" />
+                </g>
+                <g class="burst pattern-three">
+                    <circle class="particle circle" />
+                    <rect class="particle rect" />
+                    <path class="particle plus" />
+                    <path class="particle triangle" />
+                    <rect class="particle rect" />
+                    <path class="particle plus" />
+                </g>
+            </svg>
+            <input type=search name=q aria-label="Search for inspiration" />
         </div>
-        <div id="loading"></div>
+    
+        <div id="results">
+    
+        </div>
+
+        <div id="rate-limit-message" class="mb-4" style="display: none; color: red;"></div>
         <center>
             <div id="card-container"
                 class="bg-black hover:text-black cards grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-2 ">
-                <div class="card-content hover:text-black">
-                    <div class="card hover:text-black glow-on-hover">
-                      :: before
-                       <p class="font-semibold z-10 text-center hover:text-black text-xs sm:text-xs md:text-xl lg:text-2xl xl:text-3xl 2xl:text-5xl text-neutral-300"> Programming Languages</p>    
-                       :: after
-                    </div>            
-                </div> 
+
             </div>
         </center>
     </div>
@@ -163,119 +161,114 @@ h1:hover {
 
     <!-- Testimonials -->
     <div id="testimonials" class="mt-96 mb-40 tracking-wide">
-        <h2 class="text-3xl sm:text-5xl lg:text-7xl text-center my-10 lg:my-20 bg-gradient-to-r from-blue-100 to-blue-600 font-semibold text-transparent bg-clip-text mb-40 h-auto leading-tight sm:leading-none">
+        <h2
+            class="text-3xl sm:text-5xl lg:text-7xl text-center my-10 lg:my-20 bg-gradient-to-r from-blue-100 to-blue-600 font-semibold text-transparent bg-clip-text mb-40 h-auto leading-tight sm:leading-none">
             Testimonials
         </h2>
         <div class="mt-40 flex flex-wrap justify-center">
             <!-- Testimonial item -->
-            <div id="testimonials-section" class="card-container">
-                <div class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="flip-card-front bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin flex items-center">
-                            <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300" src="./assets/profile-pictures/user4.jpg" alt="User Image" />
-                            <div class="person-info">
-                              <h6 class="text-blue-500 font-semibold">John White</h6>
-                              <span class="text-sm font-normal italic text-neutral-400">Web3 Developer, Blockchain Innovations</span>
-                            </div>
+            <div class="w-full sm:w-1/2 lg:w-1/3 px-4 py-2">
+                <div class="bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
+                    <p class="text-white">"As a Web3 developer, finding reliable resources can be challenging.
+                        ResourceHub provides a centralized platform with high-quality, curated content that has
+                        significantly boosted my productivity and knowledge. It's an indispensable tool for everyone."
+                    </p>
+                    <div class="flex mt-8 items-start">
+                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300"
+                            src="./assets/profile-pictures/user4.jpg" alt="User Image" />
+                        <div>
+                            <h6 class="text-blue-500 font-semibold">John White</h6>
+                            <span class="text-sm font-normal italic text-neutral-400">Web3 Developer, Blockchain
+                                Innovations</span>
                         </div>
-                        <div class="flip-card-back bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
-                          <p class="text-white">"As a Web3 developer, finding reliable resources can be challenging.
-                            ResourceHub provides a centralized platform with high-quality, curated content that has
-                            significantly boosted my productivity and knowledge. It's an indispensable tool for everyone."</p>
-                        </div>
-                    </div>
-                </div>
-            
-            <div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin flex items-center">
-                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300" src="./assets/profile-pictures/user6.jpg" alt="User Image" />
-                        <div class="person-info">
-                            <h6 class="text-blue-500 font-semibold">Emily Brown</h6>
-                            <span class="text-sm font-normal italic text-neutral-400">Devops Engineer, Cloudworks</span>
-                        </div>
-                    </div>
-                    <div class="flip-card-back bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
-                        <p class="text-white">"ResourceHub is a game-changer for anyone in the DevOps field. 
-                            The open-source resources are comprehensive and up-to-date, making it my go-to site for learning and development. 
-                            Whether you're a beginner or an experienced professional, ResourceHub has something valuable for everyone."</p>
                     </div>
                 </div>
             </div>
-
-            <div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin flex items-center">
-                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300" src="./assets/profile-pictures/user1.jpg" alt="User Image" />
-                        <div class="person-info">
+            <div class="w-full sm:w-1/2 lg:w-1/3 px-4 py-2">
+                <div class="bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
+                    <p class="text-white">"ResourceHub is a game-changer for anyone in the DevOps field. The open-source
+                        resources are comprehensive and up-to-date, making it my go-to site for learning and
+                        development. Whether you're a beginner or an experienced professional, ResourceHub has something
+                        valuable for everyone."</p>
+                    <div class="flex mt-8 items-start">
+                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300"
+                            src="./assets/profile-pictures/user6.jpg" alt="User Image" />
+                        <div>
+                            <h6 class="text-blue-500 font-semibold">Emily Brown</h6>
+                            <span class="text-sm font-normal italic text-neutral-400">Devops Engineer,
+                                Cloudworks</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="w-full sm:w-1/2 lg:w-1/3 px-4 py-2">
+                <div class="bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
+                    <p class="text-white">"ResourceHub offers an impressive collection of resources across various
+                        programming languages. The depth and breadth of the material available here have helped me
+                        master new languages quickly and efficiently. It's an excellent resource for continuous learning
+                        and development."</p>
+                    <div class="flex mt-8 items-start">
+                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300"
+                            src="./assets/profile-pictures/user1.jpg" alt="User Image" />
+                        <div>
                             <h6 class="text-blue-500 font-semibold">Dan Moore</h6>
                             <span class="text-sm font-normal italic text-neutral-400">Software Engineer, ML Works</span>
                         </div>
                     </div>
-                    <div class="flip-card-back bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
-                        <p class="text-white">"ResourceHub offers an impressive collection of resources across various
-                            programming languages. The depth and breadth of the material available here have helped me
-                            master new languages quickly and efficiently. It's an excellent resource for continuous learning
-                            and development."</p>
-                    </div>
                 </div>
             </div>
-
-
-            <div class="flip-card">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin flex items-center">
-                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300" src="./assets/profile-pictures/user5.jpg" alt="User Image" />
-                        <div class="person-info">
+            <div class="w-full sm:w-1/2 lg:w-1/3 px-4 py-2">
+                <div class="bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
+                    <p class="text-white">"ResourceHub has transformed the way I approach UI/UX design. The wealth of
+                        open-source resources available is phenomenal, covering everything from the basics to advanced
+                        design principles. It's an invaluable resource for designers looking to enhance their skills and
+                        stay updated with industry trends."</p>
+                    <div class="flex mt-8 items-start">
+                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300"
+                            src="./assets/profile-pictures/user5.jpg" alt="User Image" />
+                        <div>
                             <h6 class="text-blue-500 font-semibold">Michael Lynn</h6>
                             <span class="text-sm font-normal italic text-neutral-400">UI/UX Specialist, Creative
                                 Minds</span>
                         </div>
                     </div>
-                    <div class="flip-card-back bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
-                        <p class="text-white">"ResourceHub has transformed the way I approach UI/UX design. The wealth of
-                            open-source resources available is phenomenal, covering everything from the basics to advanced
-                            design principles. It's an invaluable resource for designers looking to enhance their skills and
-                            stay updated with industry trends."</p>
-                    </div>
                 </div>
             </div>
-
-            <div class="flip-card ">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin flex items-center">
-                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300" src="./assets/profile-pictures/user3.jpg" alt="User Image" />
-                        <div class="person-info">
+            <div class="w-full sm:w-1/2 lg:w-1/3 px-4 py-2">
+                <div class="bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
+                    <p class="text-white">"ResourceHub is a treasure trove for app developers. The diverse range of
+                        open-source resources available has been instrumental in helping me develop and refine my
+                        skills. From mobile app frameworks to best coding practices, ResourceHub has everything I need
+                        to excel in app development"</p>
+                    <div class="flex mt-8 items-start">
+                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300"
+                            src="./assets/profile-pictures/user3.jpg" alt="User Image" />
+                        <div>
                             <h6 class="text-blue-500 font-semibold">David Layne</h6>
                             <span class="text-sm font-normal italic text-neutral-400">App Developer, Tech
                                 Innovators</span>
                         </div>
                     </div>
-                    <div class="flip-card-back bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
-                        <p class="text-white">"ResourceHub is a treasure trove for app developers. The diverse range of
-                            open-source resources available has been instrumental in helping me develop and refine my
-                            skills. From mobile app frameworks to best coding practices, ResourceHub has everything I need
-                            to excel in app development"</p>
-                    </div>
                 </div>
             </div>
-
-
-            <div class="flip-card w-full  px-4 py-2">
-                <div class="flip-card-inner">
-                    <div class="flip-card-front bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin flex items-center">
-                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300" src="./assets/profile-pictures/user2.jpg" alt="User Image" />
-                        <div class="person-info">
+            <div class="w-full sm:w-1/2 lg:w-1/3 px-4 py-2">
+                <div class="bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
+                    <p class="text-white">"The machine learning resources on ResourceHub are top-notch. I've found
+                        everything I need to stay current in this fast-evolving field, from foundational concepts to
+                        cutting-edge research. ResourceHub is an essential resource for anyone serious about machine
+                        learning and data science"</p>
+                    <div class="flex mt-8 items-start">
+                        <img class="w-12 h-12 mr-6 rounded-full border border-neutral-300"
+                            src="./assets/profile-pictures/user2.jpg" alt="User Image" />
+                        <div>
                             <h6 class="text-blue-500 font-semibold">Sarah Kruss</h6>
-                            <span class="text-sm font-normal italic text-neutral-400">Machine Learning Engineer, Data Dynamics</span>
+                            <span class="text-sm font-normal italic text-neutral-400">Machine Learning Engineer, Data
+                                Dynamics</span>
                         </div>
                     </div>
-                    <div class="flip-card-back bg-neutral-900 rounded-md p-6 text-md border border-neutral-800 font-thin">
-                        <p class="text-white">"The machine learning resources on ResourceHub are top-notch. I've found everything I need to stay current in this fast-evolving field, from foundational concepts to cutting-edge research. ResourceHub is an essential resource for anyone serious about machine learning and data science"</p>
-                    </div>
                 </div>
             </div>
-            
+
 
         </div>
     </div>
@@ -387,71 +380,64 @@ h1:hover {
                 <!-- Add more checklist items as needed -->
             </div>
         </div>
-      </div>
-   </div>
-====
-    <h1>Faces of Dedication: Our Contributing Heroes</h1>
-    <div id="loading1"></div>
-    <div id="contributor"></div>
+    </div>
+
 
 
     <!-- Footer -->
     <footer class="mt-20 border-t py-10 border-neutral-700 bg-gray-900 footerclass">
         <center>
-      
-          <div class="grid grid-cols-2 lg:grid-cols-3 gap-4">
-            <div>
-              <h3 class="text-md font-semibold text-white mb-4">Resources</h3>
-              <ul class="space-y-2">
-                <li><a href="https://developer.mozilla.org/" class="text-neutral-300 hover:text-white">MDN Web Docs</a></li>
-                <li><a href="https://www.w3schools.com/" class="text-neutral-300 hover:text-white">W3Schools</a></li>
-                <li><a href="https://stackoverflow.com/" class="text-neutral-300 hover:text-white">Stack Overflow</a></li>
-                <li><a href="https://css-tricks.com/" class="text-neutral-300 hover:text-white">CSS Tricks</a></li>
-                </ul>
 
-            </div>
-            <div>
-              <h3 class="text-md font-semibold mb-4 text-white">Platforms</h3>
-              <ul class="space-y-2">
-                <li><a href="https://github.com/" class="text-neutral-300 hover:text-white">GitHub</a></li>
-                <li><a href="https://gitlab.com/" class="text-neutral-300 hover:text-white">GitLab</a></li>
-                <li><a href="https://bitbucket.org/" class="text-neutral-300 hover:text-white">Bitbucket</a></li>
-                <li><a href="https://vercel.com/" class="text-neutral-300 hover:text-white">Vercel</a></li>
-                </ul>
-            </div>
-            <div>
-=======
-            </div>
-            <div>
-              <h3 class="text-md font-semibold mb-4 text-white">Platforms</h3>
-              <ul class="space-y-2">
-                <li><a href="https://github.com/" class="text-neutral-300 hover:text-white">GitHub</a></li>
-                <li><a href="https://gitlab.com/" class="text-neutral-300 hover:text-white">GitLab</a></li>
-                <li><a href="https://bitbucket.org/" class="text-neutral-300 hover:text-white">Bitbucket</a></li>
-                <li><a href="https://vercel.com/" class="text-neutral-300 hover:text-white">Vercel</a></li>
-                </ul>
-            </div>
-            <div>
 
-              <h3 class="text-md font-semibold mb-4 text-white">Course Platforms</h3>
-              <ul class="space-y-2">
-                <li><a href="https://www.udemy.com/" class="text-neutral-300 hover:text-white">Udemy</a></li>
-                <li><a href="https://www.coursera.org/" class="text-neutral-300 hover:text-white">Coursera</a></li>
-                <li><a href="https://www.udacity.com/" class="text-neutral-300 hover:text-white">Udacity</a></li>
-                <li><a href="https://www.mygreatlearning.com/" class="text-neutral-300 hover:text-white">Great Learning</a></li>
-                </ul>
+            <div class="grid grid-cols-2 lg:grid-cols-3 gap-4">
+                <div>
+                    <h3 class="text-md font-semibold text-white mb-4">Resources</h3>
+                    <ul class="space-y-2">
+                        <!-- Resource links -->
+                        <li><a href="https://developer.mozilla.org/" class="text-neutral-300 hover:text-white">MDN Web
+                                Docs</a></li>
+                        <li><a href="https://www.w3schools.com/" class="text-neutral-300 hover:text-white">W3Schools</a>
+                        </li>
+                        <li><a href="https://stackoverflow.com/" class="text-neutral-300 hover:text-white">Stack
+                                Overflow</a></li>
+                        <li><a href="https://css-tricks.com/" class="text-neutral-300 hover:text-white">CSS Tricks</a>
+                        </li>
+                        <!-- Add more resource links as needed -->
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-md font-semibold mb-4 text-white">Platforms</h3>
+                    <ul class="space-y-2">
+                        <!-- Platform links -->
+                        <li><a href="https://github.com/" class="text-neutral-300 hover:text-white">GitHub</a></li>
+                        <li><a href="https://gitlab.com/" class="text-neutral-300 hover:text-white">GitLab</a></li>
+                        <li><a href="https://bitbucket.org/" class="text-neutral-300 hover:text-white">Bitbucket</a>
+                        </li>
+                        <li><a href="https://vercel.com/" class="text-neutral-300 hover:text-white">Vercel</a>
+                        </li>
+                        <!-- Add more platform links as needed -->
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-md font-semibold mb-4 text-white">Course Platforms</h3>
+                    <ul class="space-y-2">
+                        <!-- Course platform links -->
+                        <li><a href="https://www.udemy.com/" class="text-neutral-300 hover:text-white">Udemy</a></li>
+                        <li><a href="https://www.coursera.org/" class="text-neutral-300 hover:text-white">Coursera</a>
+                        </li>
+                        <li><a href="https://www.udacity.com/" class="text-neutral-300 hover:text-white">Udacity</a>
+                        </li>
+                        <li><a href="https://www.mygreatlearning.com/" class="text-neutral-300 hover:text-white">Great
+                                Learning</a>
+                        </li>
+                        <!-- Add more platform links as needed -->
+                    </ul>
+                </div>
             </div>
-          </div>
-          <div class="flex justify-center mt-auto">  <div class="footer-text text-center" style="color: rgb(241, 241, 245);">
-            © Copyright <b>ResourceHub</b> | All Rights Reserved | Website by <span style="color: rgb(241, 241, 245);"><b><a href="index.html">ResourceHub</a></b></span>
-          </div>
-        </div>
         </center>
-      </footer>
+    </footer>
 
 
-
-=======
     <script>
         const toggleNavbarButton = document.getElementById('toggle-navbar');
         const mobileDrawer = document.getElementById('mobile-drawer');
@@ -464,8 +450,7 @@ h1:hover {
             closeIcon.classList.toggle('hidden');
         });
     </script>
-    <script src="mainapp.js"></script>
-    <script src="contibuters.js"></script>
+    <script src="app.js"></script>
 
 
 </body>
