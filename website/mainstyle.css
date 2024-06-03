@@ -1892,10 +1892,12 @@ body.dark-mode {
 		grid-template-columns: repeat(2, minmax(0, 1fr));
 	}
 
-	.md\:text-xl {
-		font-size: 1.25rem;
-		line-height: 1.75rem;
-	}
+
+  .md\:text-xl {
+    font-size: 1rem;
+    line-height: 1.75rem;
+  }
+
 }
 
 @media (min-width: 1024px) {
@@ -1928,10 +1930,12 @@ body.dark-mode {
 		grid-template-columns: repeat(3, minmax(0, 1fr));
 	}
 
-	.lg\:text-2xl {
-		font-size: 1.5rem;
-		line-height: 2rem;
-	}
+
+  .lg\:text-2xl {
+    font-size: 1rem;
+    line-height: 2rem;
+  }
+
 
 	.lg\:text-6xl {
 		font-size: 3.75rem;
@@ -1957,8 +1961,8 @@ body.dark-mode {
 @media (min-width: 1280px) {
 
   .xl\:text-3xl {
-    font-size: 1.875rem;
-    line-height: 2.25rem;
+    font-size: 1.5rem;
+    line-height: 2.2rem;
   }
   .hidden-desktop{
     display: none !important;
@@ -1966,15 +1970,10 @@ body.dark-mode {
 }
 
 @media (min-width: 1536px) {
-  .\32xl\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
-  }
   .hidden-desktop{
     display: none !important;
   }
 
-}
 
 /* Default Dark Mode Styles */
 body.bg-black {
@@ -2087,4 +2086,28 @@ body.light-mode {
 
 .hide-scroll::-webkit-scrollbar-thumb {
 	display: none;
+}
+.scrollToTopBtn {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  width: 50px;
+  height: 50px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 50px;
+  font-size: 24px;
+  cursor: pointer;
+  transition: opacity 0.3s ease-in-out;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+
+.scrollToTopBtn.show {
+  opacity: 1;
+  visibility: visible;
 }
