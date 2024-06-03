@@ -46,6 +46,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
 - [Books](#books)
   - [Free](#free-books)
   - [Paid](#paid-books)
+- [Official Documentation](#official-documentation)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -768,6 +769,41 @@ Whether you're a beginner looking to get started with React.js or an experienced
         <td><a href="https://www.amazon.com/React-Cookbook-Recipes-Mastering-Framework/dp/1492085847/ref=sr_1_7?crid=3E7P6C0V0SUL9&dib=eyJ2IjoiMSJ9.nMagvJ_MV7YIoYQX2eQk1ZgI-ccJ_wIR58ncYQF78-IFO2Xs5bjtpu6ZZ_ygQ9F15kbM2N8IhG58G7MYVFQVJnchR1SVIAq_9Csq41ilsrSZmBV6iacoEq6zirHZzeCG_L60NrWZZc0XgGXMZlH1_qjAVq5hbzSNKramyyT0CD25eNtyY8Zd0iY-TLSiWfTw2R6DoFcLAUBpUuY90bBX07vCpxBzpTXAEXT7ZopFZ-U.esRaWpXRoO8rbuiHiivu9-FysE8mwn5367WdTkcdvKo&dib_tag=se&keywords=react+js&qid=1716895246&s=books&sprefix=react+%2Cstripbooks-intl-ship%2C402&sr=1-7">React cookbook</a></td>
         <td>This book, "React Cookbook: Recipes for Mastering the React Framework" is a practical guide that offers a collection of ready-to-use recipes for mastering React, a popular JavaScript library for building user interfaces. Each recipe provides a detailed explanation along with code examples to help developers understand and implement React features effectively.</td>
       </tr>
+</table>
+
+### Official Documentation
+
+> These Official Documentation teaches you all the topics in depth without going to any third party tutorials.
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://react.dev/">React</a></td>
+        <td>The official React documentation provides comprehensive resources for learning React, a JavaScript library for building user interfaces. It covers essential concepts and offers practical examples to help you get started with building modern web applications, emphasizing component-based architecture and declarative programming.</td>
+    </tr>
+    <tr>
+        <td><a href="https://reactrouter.com/docs/en/v6">React Router</a></td>
+        <td>The React Router documentation offers an extensive guide for learning React Router, a library for routing in React applications. It covers essential concepts and provides hands-on examples to help you manage navigation in your React applications, focusing on dynamic routing and nested routes.</td>
+    </tr>
+    <tr>
+        <td><a href="https://redux.js.org/">Redux</a></td>
+        <td>The Redux documentation provides a thorough guide for learning Redux, a predictable state container for JavaScript applications. It covers essential concepts and offers practical examples to help you manage application state in React, focusing on immutability, unidirectional data flow, and middleware integration.</td>
+    </tr>
+    <tr>
+        <td><a href="https://nextjs.org/docs">Next.js</a></td>
+        <td>The Next.js documentation offers detailed resources for learning Next.js, a React framework for building server-side rendered and statically generated applications. It covers essential concepts and provides practical examples to help you create optimized and scalable web applications, focusing on performance and developer experience.</td>
+    </tr>
+    <tr>
+        <td><a href="https://gatsbyjs.com/docs/">Gatsby</a></td>
+        <td>The Gatsby documentation provides comprehensive resources for learning Gatsby, a React-based framework for building fast and modern static websites. It covers essential concepts and offers practical examples to help you create optimized and scalable web applications, focusing on performance, SEO, and content management.</td>
+    </tr>
+    <tr>
+        <td><a href="https://mui.com/material-ui/getting-started/overview/">Material-UI</a></td>
+        <td>The Material-UI documentation offers extensive resources for learning Material-UI, a popular React UI framework implementing Google’s Material Design. It covers essential concepts and provides practical examples to help you build beautiful and responsive user interfaces, focusing on customizability and accessibility.</td>
+    </tr>
 </table>
 
 ## Conclusion
