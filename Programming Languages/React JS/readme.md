@@ -24,15 +24,6 @@ Whether you're a beginner looking to get started with React.js or an experienced
 - [IDEs for React.js](#ides-for-reactjs)
 - [Online Editors for React.js](#online-editors-for-reactjs)
 - [Documentation](#documentation)
-- [YouTube](#youtube)
-  - [YouTube Channels](#youtube-channels)
-  - [YouTube Playlist](#youtube-playlist)
-- [Courses](#courses)
-  - [Free](#free-courses)
-  - [Paid](#paid-courses)
-- [Books](#books)
-  - [Free](#free-books)
-  - [Paid](#paid-books)
 - [Web Frameworks](#web-frameworks)
 - [Libraries](#libraries)
   - [Testing Libraries](#testing-libraries)
@@ -41,6 +32,20 @@ Whether you're a beginner looking to get started with React.js or an experienced
   - [HTTP client libraries](#http-client-libraries)
 - [Content API](#content-api)
 - [Projects](#projects)
+- [Communities](#communities)
+  - [Discord](#discord)
+  - [Reddit](#reddit)
+  - [Other](#other)
+- [Version Control](#version-control)
+- [Courses](#courses)
+  - [Free](#free-courses)
+  - [Paid](#paid-courses)
+- [YouTube](#youtube)
+  - [YouTube Channels](#youtube-channels)
+  - [YouTube Playlist](#youtube-playlist)
+- [Books](#books)
+  - [Free](#free-books)
+  - [Paid](#paid-books)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -355,185 +360,6 @@ Whether you're a beginner looking to get started with React.js or an experienced
       
 </table>
 
-### YouTube
-
-> These Resources by youtube help you understand React JS even more clearly.
-
-#### YouTube Channels
-
-<table width="100%">
-      <tr>
-        <th>Resource</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://www.youtube.com/@GreatStackDev/videos">GreatStack</a></td>
-        <td>This GreatStackDev's YouTube channel serves as a valuable resource for individuals passionate about web development and software engineering, offering educational content, practical guidance, and opportunities for community engagement. </td>
-      </tr>
-       <tr>
-        <td><a href="https://www.youtube.com/@IsraTech1/videos">IsraTech</a></td>
-        <td>This IsraTech's YouTube channel serves as a valuable resource for individuals interested in technology, programming, and software development, offering educational content, practical advice, and opportunities for community engagement. </td>
-      </tr>
-      <tr>
-        <td><a href="https://www.youtube.com/@ZAINKEEPSCODE/videos">ZAINKEEPSCODE</a></td>
-        <td>The YouTube channel "ZAINKEEPSCODE" offers a range of content focused on programming tutorials, coding challenges, and software development. From JavaScript and React.js tutorials to project walkthroughs and coding tips, ZAINKEEPSCODE provides valuable resources for beginner and intermediate developers looking to enhance their coding skills and knowledge. </td>
-      </tr>
-       <tr>
-        <td><a href="https://www.youtube.com/@LamaDev/videos">LamaDev</a></td>
-        <td>This YouTube channel "LamaDev" offers a variety of content focused on web development, programming tutorials, and technology-related topics,it provides the valuable resources for anyone interested in learning web development, improving their coding skills, and staying up-to-date with the latest trends and technologies in the field.</td>
-      </tr>
-</table>
-
-### Youtube Playlist
-
-<table width="100%">
-      <tr>
-        <th>Resource</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3">ReactJS Tutorial for Beginners</a></td>
-        <td>This YouTube playlist by Codevolution features a collection of tutorials focusing on React.js development. Covering a variety of topics ranging from React basics to more advanced concepts like state management, routing, and integrating with external APIs, these tutorials provide a comprehensive learning experience for individuals interested in mastering React.js</td>
-      </tr>
-       <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d">Full Modern React Tutorial</a></td>
-        <td>This Youtube playlist by Net Ninja provides a full React tutorial series,it will take you from novice to ninja. This playlist covers all the basics - what React is, setting up, components & routing - before diving into state management, async code, built-in hooks & custom hooks too. </td>
-      </tr>
-      <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza">React JS Tutorial For Beginners 2024</a></td>
-        <td>This Youtube playlist by Code Stoic is collection of videos for learning react js, this playlist covers a wide range of topics starting rrom Introduction to react, installation, creating a react app, how a react app works and more. </td>
-      </tr>
-       <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR">Master React JS by Building Real Projects</a></td>
-        <td>This Youtube playlist by JavaScript Mastery is Series of real-world projects that you can learn React with. This playlist covers topics such as React hooks, React API data fetching, React Hooks, proper React project structure and much more.</td>
-      </tr>
-</table>
-
-
-### Courses
-
-> These courses help you learn React in a structure way and help you improve your skills.
-
-#### Free Courses
-
-<table width="100%">
-      <tr>
-        <th>Resource</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/">Learn React JS </a></td>
-        <td>This free course on FreeCodeCamp offers a comprehensive introduction to React.js, a popular JavaScript library for building user interfaces. Spanning over seven hours, this course is designed for beginners looking to dive into React development</td>
-      </tr>
-       <tr>
-        <td><a href="https://www.freecodecamp.org/news/learn-react-course/">Learn React - Full Course for Beginners</a></td>
-        <td>The "Learn React" course on FreeCodeCamp is a comprehensive resource designed to help individuals master React.js, a powerful JavaScript library for building user interfaces. This course covers fundamental concepts such as component-based architecture, state management, props and data flow, event handling, routing, lifecycle methods and hooks, styling in React, and building real-world projects. </td>
-      </tr>
-      <tr>
-        <td><a href="https://www.upgrad.com/blog/react-js-free-online-course/">ReactJS free online course</a></td>
-        <td>The React.js free online course offered by upGrad provides a structured learning path covering core concepts, hands-on exercises, advanced topics, project building, best practices, and community support. Designed for learners of all skill levels, it offers flexibility for self-paced study and aims to enhance skills in front-end web development using React.js.</td>
-      </tr>
-
-</table>
-
-#### Paid Course
-
-<table width="100%">
-      <tr>
-        <th>Resource</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://www.udemy.com/course/complete-react-developer-zero-to-mastery/?couponCode=IND21PM">Complete React Developer</a></td>
-        <td>The "Complete React Developer (w/ Redux, Hooks, GraphQL)" course on Udemy is a comprehensive resource designed to take students from beginner to advanced level in React development. Through expert instruction, hands-on projects, and self-paced learning, students gain practical skills and industry-relevant knowledge. </td>
-      </tr>
-       <tr>
-        <td><a href="https://www.coursera.org/learn/react-basics">React Basics</a></td>
-        <td>The "React Basics" course on Coursera provides a comprehensive introduction to React.js, covering fundamental concepts like components, JSX syntax, state management, props, and event handling. Through hands-on learning, guided projects, and expert instruction, students gain practical skills and knowledge essential for building web applications with React.js.  </td>
-      </tr>
-      <tr>
-        <td><a href="https://www.simplilearn.com/react-js-certification-training-course">ReactJS Certification training course</a></td>
-        <td>This React.js Certification Training Course offered by Simplilearn is a comprehensive program designed to equip learners with the skills and knowledge needed to become proficient React.js developers. </td>
-      </tr>
-</table>
-
-### Communities
-
-> These communities help you solve personal doubts, get new ideas and also to keep updated time to time on React trends.
-
-<table width="100%">
-      <tr>
-        <th>Resource</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://dev.to/t/react">React DEV Community</a></td>
-        <td>The React tag on DEV Community features articles and discussions about various aspects of React development, including live feedback implementation, resolving rendering and animation issues, data fetching with TanStack Query, deploying React apps, state management techniques and more. </td>
-      </tr>
-       <tr>
-        <td><a href="https://hashnode.com/n/reactjs">React Hashnode</a></td>
-        <td>The React.js page on Hashnode features a wide range of articles and discussions about React development. Topics include building multi-container applications with Docker Compose, routing and navigation in React, using props and the useContext Hook, essential JavaScript fundamentals for React, and integrating YouTube videos into React applications. </td>
-      </tr>
-      <tr>
-        <td><a href="https://discord.com/invite/reactiflux">ReactJS Reactifulx</a></td>
-        <td>The Reactiflux Discord community is a large and active forum for React developers to discuss topics related to React and JavaScript. It provides a space for developers to seek help, share knowledge, and connect with others in the community. </td>
-      </tr>
-      <tr>
-        <td><a href="https://www.reddit.com/r/reactjs/?">r/reactjs</a></td>
-        <td>The ReactJS subreddit is a community for discussing and sharing information about React, a JavaScript library for building user interfaces. Users can post questions, share resources, and discuss best practices, updates, and tools related to React development. The community is active and provides support for both beginners and experienced developers. </td>
-      </tr>
-</table>
-
-### Books
-
-> These books introduces you to the knowleadge that courses cannot teach.
-
-#### Free Books
-
-<table width="100%">
-      <tr>
-        <th>Resource</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://www.dbooks.org/react-succinctly-1493/">React succinctly</a></td>
-        <td>"React Succinctly" is a free ebook designed to help developers quickly learn the essentials of React. It covers core concepts such as component-based architecture, state management, props, lifecycle methods, and hooks. </td>
-      </tr>
-       <tr>
-        <td><a href="https://www.bing.com/ck/a?!&&p=59ec633c752e30e2JmltdHM9MTcxNjg1NDQwMCZpZ3VpZD0xMTJjOTFlNy03OGVmLTY5NDItMWNiZS04NTZhNzlhMzY4MTcmaW5zaWQ9NTE4OA&ptn=3&ver=2&hsh=3&fclid=112c91e7-78ef-6942-1cbe-856a79a36817&psq=React+JS+Notes+for+Professionals+pdf&u=a1aHR0cHM6Ly93d3cuZ29hbGtpY2tlci5jb20vUmVhY3RKU0Jvb2svUmVhY3RKU05vdGVzRm9yUHJvZmVzc2lvbmFscy5wZGY&ntb=1">React JS Notes for professtionals</a></td>
-        <td>The "React.js Notes for Professionals" is a compiled from Stack Overflow documentation, covering a wide range of topics on React.js. It includes detailed notes on components, state management, hooks, routing, and advanced techniques. </td>
-      </tr>
-      <tr>
-        <td><a href="https://www.onlineprogrammingbooks.com/ui-with-react/">U&I with react</a></td>
-        <td>The U&I with React is ideal for developers who are familiar with React and are looking for a comprehensive guide for building modular, extendable and scalable user interfaces.This includes What is U&I?, Getting Started, Building App, Using U&I Concepts, Exploring CSS Preprocessors, Exploring CSS Modules and more. </td>
-      </tr>
-      <tr>
-        <td><a href="https://www.onlineprogrammingbooks.com/react-js-for-the-visual-learner/">React js for visual learner</a></td>
-        <td>The "React.js for Visual Learners" is a book designed to help learners understand React.js through diagrams, illustrations, and visual aids. It focuses on explaining core concepts like components, state, props, and hooks in a visually engaging way, making it easier for readers to grasp the complexities of React.js. </td>
-      </tr>
-</table>
-
-#### Paid Books
-
-<table width="100%">
-      <tr>
-        <th>Resource</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://www.amazon.com/Learning-React-Functional-Development-Redux/dp/1491954620?crid=16ZQWKPSWHZVS&keywords=Learning+React&qid=1645484372&sprefix=learning+react,aps,134&sr=8-3&linkCode=sl1&tag=alvarotrigobl-20&linkId=e668fdbe9d7f188e142ca02bc04a476e&language=en_US&ref_=as_li_ss_tl">Learning React</a></td>
-        <td>The "Learning React" by Alex Banks and Eve Porcello, published by O'Reilly Media, is a detailed guide for developers looking to master React.js. The book covers fundamental concepts such as components, state, and props, as well as advanced topics like hooks, the context API, and performance optimization.</td>
-      </tr>
-       <tr>
-        <td><a href="https://www.amazon.com/Beginning-React-Greg-Lim/dp/1979785775?&linkCode=sl1&tag=alvarotrigobl-20&linkId=bb7c6ebb389d6756418c369f3040ab9b&language=en_US&ref_=as_li_ss_tl">Beginning react</a></td>
-        <td>The "Beginning React" is a comprehensive guide for beginners looking to delve into web development using React, covering fundamental concepts, advanced topics, and practical projects to equip readers with the skills needed to become proficient React developers. </td>
-      </tr>
-      <tr>
-        <td><a href="https://www.amazon.com/React-Cookbook-Recipes-Mastering-Framework/dp/1492085847/ref=sr_1_7?crid=3E7P6C0V0SUL9&dib=eyJ2IjoiMSJ9.nMagvJ_MV7YIoYQX2eQk1ZgI-ccJ_wIR58ncYQF78-IFO2Xs5bjtpu6ZZ_ygQ9F15kbM2N8IhG58G7MYVFQVJnchR1SVIAq_9Csq41ilsrSZmBV6iacoEq6zirHZzeCG_L60NrWZZc0XgGXMZlH1_qjAVq5hbzSNKramyyT0CD25eNtyY8Zd0iY-TLSiWfTw2R6DoFcLAUBpUuY90bBX07vCpxBzpTXAEXT7ZopFZ-U.esRaWpXRoO8rbuiHiivu9-FysE8mwn5367WdTkcdvKo&dib_tag=se&keywords=react+js&qid=1716895246&s=books&sprefix=react+%2Cstripbooks-intl-ship%2C402&sr=1-7">React cookbook</a></td>
-        <td>This book, "React Cookbook: Recipes for Mastering the React Framework" is a practical guide that offers a collection of ready-to-use recipes for mastering React, a popular JavaScript library for building user interfaces. Each recipe provides a detailed explanation along with code examples to help developers understand and implement React features effectively.</td>
-      </tr>
-</table>
-
 ### Web Frameworks
 
 <table width="100%">
@@ -701,6 +527,247 @@ Whether you're a beginner looking to get started with React.js or an experienced
       <td><a href="https://dev.to/nadim_ch0wdhury/how-to-build-a-chat-messaging-app-in-reactjs-4aie">React Chat Application</a></td>
       <td>This project is a real-time chat application developed with React.js. Users can create accounts, join chat rooms, and exchange messages in real-time with other users. The application utilizes Firebase's real-time database and authentication features, demonstrating how to integrate Firebase with a React front end to build interactive web applications.</td>
   </tr>
+</table>
+
+### Communities
+
+> These communities help you solve personal doubts, get new ideas and also to keep updated time to time on React trends.
+
+#### Discord
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://discord.gg/reactiflux">Reactiflux</a></td>
+        <td>A large and active community for React developers, offering channels for help, discussion, and resources on React and related technologies.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://discord.gg/frontend">Frontend Developers</a></td>
+        <td>This discrod channel Focused on frontend development, this community has discussions on various frontend frameworks including React.</td>
+      </tr>
+      <tr>
+        <td><a href="https://discord.com/invite/reactiflux">ReactJS Reactifulx</a></td>
+        <td>The Reactiflux Discord community is a large and active forum for React developers to discuss topics related to React and JavaScript. It provides a space for developers to seek help, share knowledge, and connect with others in the community. </td>
+      </tr>
+</table>
+
+#### Reddit
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://www.reddit.com/r/reactjs/">r/reactjs</a></td>
+        <td>The /r/reactjs is a subreddit dedicated to discussions, questions, and news about React and its ecosystem.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.reddit.com/r/javascript/">r/javascript</a></td>
+        <td>This subreddit for JavaScript developers, with discussions often focusing on popular frameworks and libraries including React.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.reddit.com/r/frontend/">r/frontend</a></td>
+        <td>This is a subreddit focused on frontend development, where React is a frequent topic of discussion.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/reactjs/?">r/reactjs</a></td>
+        <td>The ReactJS subreddit is a community for discussing and sharing information about React, a JavaScript library for building user interfaces. Users can post questions, share resources, and discuss best practices, updates, and tools related to React development. The community is active and provides support for both beginners and experienced developers. </td>
+      </tr>
+</table>
+
+#### Other
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://dev.to/t/react">React DEV Community</a></td>
+        <td>The React tag on DEV Community features articles and discussions about various aspects of React development, including live feedback implementation, resolving rendering and animation issues, data fetching with TanStack Query, deploying React apps, state management techniques and more. </td>
+      </tr>
+       <tr>
+        <td><a href="https://hashnode.com/n/reactjs">React Hashnode</a></td>
+        <td>The React.js page on Hashnode features a wide range of articles and discussions about React development. Topics include building multi-container applications with Docker Compose, routing and navigation in React, using props and the useContext Hook, essential JavaScript fundamentals for React, and integrating YouTube videos into React applications. </td>
+      </tr>
+      
+</table>
+
+### Version Control
+
+> These version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code. 
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://git-scm.com/doc">Official Git Documentation</a></td>
+    <td>This official documentation for Git, helps you to improves your skill and knowledge on version control by covering topics like installation, basic concepts, advanced usage and many more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.atlassian.com/git/tutorials">Atlassian Git Tutorials</a></td>
+    <td>These tutorials from Atlassian gives you the clear understanding on Git basics, including commands and workflows.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories">GitHub Docs - About Repositories</a></td>
+    <td>This GitHub Docs gives you an overview of GitHub repositories, including how to create and manage them.</td>
+  </tr>
+</table>
+
+### Courses
+
+> These courses help you learn React in a structure way and help you improve your skills.
+
+#### Free Courses
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/">Learn React JS </a></td>
+        <td>This free course on FreeCodeCamp offers a comprehensive introduction to React.js, a popular JavaScript library for building user interfaces. Spanning over seven hours, this course is designed for beginners looking to dive into React development</td>
+      </tr>
+       <tr>
+        <td><a href="https://www.freecodecamp.org/news/learn-react-course/">Learn React - Full Course for Beginners</a></td>
+        <td>The "Learn React" course on FreeCodeCamp is a comprehensive resource designed to help individuals master React.js, a powerful JavaScript library for building user interfaces. This course covers fundamental concepts such as component-based architecture, state management, props and data flow, event handling, routing, lifecycle methods and hooks, styling in React, and building real-world projects. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.upgrad.com/blog/react-js-free-online-course/">ReactJS free online course</a></td>
+        <td>The React.js free online course offered by upGrad provides a structured learning path covering core concepts, hands-on exercises, advanced topics, project building, best practices, and community support. Designed for learners of all skill levels, it offers flexibility for self-paced study and aims to enhance skills in front-end web development using React.js.</td>
+      </tr>
+
+</table>
+
+#### Paid Course
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.udemy.com/course/complete-react-developer-zero-to-mastery/?couponCode=IND21PM">Complete React Developer</a></td>
+        <td>The "Complete React Developer (w/ Redux, Hooks, GraphQL)" course on Udemy is a comprehensive resource designed to take students from beginner to advanced level in React development. Through expert instruction, hands-on projects, and self-paced learning, students gain practical skills and industry-relevant knowledge. </td>
+      </tr>
+       <tr>
+        <td><a href="https://www.coursera.org/learn/react-basics">React Basics</a></td>
+        <td>The "React Basics" course on Coursera provides a comprehensive introduction to React.js, covering fundamental concepts like components, JSX syntax, state management, props, and event handling. Through hands-on learning, guided projects, and expert instruction, students gain practical skills and knowledge essential for building web applications with React.js.  </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.simplilearn.com/react-js-certification-training-course">ReactJS Certification training course</a></td>
+        <td>This React.js Certification Training Course offered by Simplilearn is a comprehensive program designed to equip learners with the skills and knowledge needed to become proficient React.js developers. </td>
+      </tr>
+</table>
+
+### YouTube
+
+> These Resources by youtube help you understand React JS even more clearly.
+
+#### YouTube Channels
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/@GreatStackDev/videos">GreatStack</a></td>
+        <td>This GreatStackDev's YouTube channel serves as a valuable resource for individuals passionate about web development and software engineering, offering educational content, practical guidance, and opportunities for community engagement. </td>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/@IsraTech1/videos">IsraTech</a></td>
+        <td>This IsraTech's YouTube channel serves as a valuable resource for individuals interested in technology, programming, and software development, offering educational content, practical advice, and opportunities for community engagement. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/@ZAINKEEPSCODE/videos">ZAINKEEPSCODE</a></td>
+        <td>The YouTube channel "ZAINKEEPSCODE" offers a range of content focused on programming tutorials, coding challenges, and software development. From JavaScript and React.js tutorials to project walkthroughs and coding tips, ZAINKEEPSCODE provides valuable resources for beginner and intermediate developers looking to enhance their coding skills and knowledge. </td>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/@LamaDev/videos">LamaDev</a></td>
+        <td>This YouTube channel "LamaDev" offers a variety of content focused on web development, programming tutorials, and technology-related topics,it provides the valuable resources for anyone interested in learning web development, improving their coding skills, and staying up-to-date with the latest trends and technologies in the field.</td>
+      </tr>
+</table>
+
+### Youtube Playlist
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3">ReactJS Tutorial for Beginners</a></td>
+        <td>This YouTube playlist by Codevolution features a collection of tutorials focusing on React.js development. Covering a variety of topics ranging from React basics to more advanced concepts like state management, routing, and integrating with external APIs, these tutorials provide a comprehensive learning experience for individuals interested in mastering React.js</td>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d">Full Modern React Tutorial</a></td>
+        <td>This Youtube playlist by Net Ninja provides a full React tutorial series,it will take you from novice to ninja. This playlist covers all the basics - what React is, setting up, components & routing - before diving into state management, async code, built-in hooks & custom hooks too. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza">React JS Tutorial For Beginners 2024</a></td>
+        <td>This Youtube playlist by Code Stoic is collection of videos for learning react js, this playlist covers a wide range of topics starting rrom Introduction to react, installation, creating a react app, how a react app works and more. </td>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR">Master React JS by Building Real Projects</a></td>
+        <td>This Youtube playlist by JavaScript Mastery is Series of real-world projects that you can learn React with. This playlist covers topics such as React hooks, React API data fetching, React Hooks, proper React project structure and much more.</td>
+      </tr>
+</table>
+
+### Books
+
+> These books introduces you to the knowleadge that courses cannot teach.
+
+#### Free Books
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.dbooks.org/react-succinctly-1493/">React succinctly</a></td>
+        <td>"React Succinctly" is a free ebook designed to help developers quickly learn the essentials of React. It covers core concepts such as component-based architecture, state management, props, lifecycle methods, and hooks. </td>
+      </tr>
+       <tr>
+        <td><a href="https://www.bing.com/ck/a?!&&p=59ec633c752e30e2JmltdHM9MTcxNjg1NDQwMCZpZ3VpZD0xMTJjOTFlNy03OGVmLTY5NDItMWNiZS04NTZhNzlhMzY4MTcmaW5zaWQ9NTE4OA&ptn=3&ver=2&hsh=3&fclid=112c91e7-78ef-6942-1cbe-856a79a36817&psq=React+JS+Notes+for+Professionals+pdf&u=a1aHR0cHM6Ly93d3cuZ29hbGtpY2tlci5jb20vUmVhY3RKU0Jvb2svUmVhY3RKU05vdGVzRm9yUHJvZmVzc2lvbmFscy5wZGY&ntb=1">React JS Notes for professtionals</a></td>
+        <td>The "React.js Notes for Professionals" is a compiled from Stack Overflow documentation, covering a wide range of topics on React.js. It includes detailed notes on components, state management, hooks, routing, and advanced techniques. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.onlineprogrammingbooks.com/ui-with-react/">U&I with react</a></td>
+        <td>The U&I with React is ideal for developers who are familiar with React and are looking for a comprehensive guide for building modular, extendable and scalable user interfaces.This includes What is U&I?, Getting Started, Building App, Using U&I Concepts, Exploring CSS Preprocessors, Exploring CSS Modules and more. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.onlineprogrammingbooks.com/react-js-for-the-visual-learner/">React js for visual learner</a></td>
+        <td>The "React.js for Visual Learners" is a book designed to help learners understand React.js through diagrams, illustrations, and visual aids. It focuses on explaining core concepts like components, state, props, and hooks in a visually engaging way, making it easier for readers to grasp the complexities of React.js. </td>
+      </tr>
+</table>
+
+#### Paid Books
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.amazon.com/Learning-React-Functional-Development-Redux/dp/1491954620?crid=16ZQWKPSWHZVS&keywords=Learning+React&qid=1645484372&sprefix=learning+react,aps,134&sr=8-3&linkCode=sl1&tag=alvarotrigobl-20&linkId=e668fdbe9d7f188e142ca02bc04a476e&language=en_US&ref_=as_li_ss_tl">Learning React</a></td>
+        <td>The "Learning React" by Alex Banks and Eve Porcello, published by O'Reilly Media, is a detailed guide for developers looking to master React.js. The book covers fundamental concepts such as components, state, and props, as well as advanced topics like hooks, the context API, and performance optimization.</td>
+      </tr>
+       <tr>
+        <td><a href="https://www.amazon.com/Beginning-React-Greg-Lim/dp/1979785775?&linkCode=sl1&tag=alvarotrigobl-20&linkId=bb7c6ebb389d6756418c369f3040ab9b&language=en_US&ref_=as_li_ss_tl">Beginning react</a></td>
+        <td>The "Beginning React" is a comprehensive guide for beginners looking to delve into web development using React, covering fundamental concepts, advanced topics, and practical projects to equip readers with the skills needed to become proficient React developers. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.amazon.com/React-Cookbook-Recipes-Mastering-Framework/dp/1492085847/ref=sr_1_7?crid=3E7P6C0V0SUL9&dib=eyJ2IjoiMSJ9.nMagvJ_MV7YIoYQX2eQk1ZgI-ccJ_wIR58ncYQF78-IFO2Xs5bjtpu6ZZ_ygQ9F15kbM2N8IhG58G7MYVFQVJnchR1SVIAq_9Csq41ilsrSZmBV6iacoEq6zirHZzeCG_L60NrWZZc0XgGXMZlH1_qjAVq5hbzSNKramyyT0CD25eNtyY8Zd0iY-TLSiWfTw2R6DoFcLAUBpUuY90bBX07vCpxBzpTXAEXT7ZopFZ-U.esRaWpXRoO8rbuiHiivu9-FysE8mwn5367WdTkcdvKo&dib_tag=se&keywords=react+js&qid=1716895246&s=books&sprefix=react+%2Cstripbooks-intl-ship%2C402&sr=1-7">React cookbook</a></td>
+        <td>This book, "React Cookbook: Recipes for Mastering the React Framework" is a practical guide that offers a collection of ready-to-use recipes for mastering React, a popular JavaScript library for building user interfaces. Each recipe provides a detailed explanation along with code examples to help developers understand and implement React features effectively.</td>
+      </tr>
 </table>
 
 ## Conclusion
