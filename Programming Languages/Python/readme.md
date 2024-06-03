@@ -24,7 +24,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
    - [Free Courses](#free-courses)<br>
    - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
-- [Python Projects](#java-projects)
+- [Python Projects](#python-projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
@@ -568,6 +568,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td><a href="https://www.geeksforgeeks.org/hotel-management-system/">Hotel Management System</a></td>
     <td>Create a system for managing hotel operations such as room booking, guest check-in/out, and billing.</td>
   </tr>
+</table>
   
 ### Advance Level Projects
 <table>
@@ -587,7 +588,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td><a href="https://www.geeksforgeeks.org/create-a-screen-recorder-using-python/">Screen Recorder</a></td>
     <td>Create a screen-recorder using module provided by Python (pyautogui).</td>
   </tr>
-
+</table>
 
 ### Interview Preparation
 > Here are some resources which can help you to prepare for Python interview rounds
