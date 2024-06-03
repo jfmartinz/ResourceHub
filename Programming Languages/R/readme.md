@@ -8,7 +8,7 @@ These resources are designed to help you build a strong foundation in R programm
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [R](#r)
    - [Introduction](#introduction)
    - [Fundamentals](#fundamentals)
    - [Data Manipulation](#data-manipulation)
@@ -41,10 +41,10 @@ These resources are designed to help you build a strong foundation in R programm
 - [Version Control](#version-control)
 - [YouTube](#youtube)
    - [YouTube Channels](#youtube-channels)
-   - [YouTube Playlists for Learning R](#youtube-playlists-for-learning-r)
+   - [YouTube Playlists](#youtube-playlists)
 - [Courses](#courses)
-   - [Free Certification Courses](#free-certification-courses)
-   - [Paid Certification Courses](#paid-certification-courses)
+   - [Free Courses](#free-courses)
+   - [Paid Courses](#paid-courses)
 - [Additional Resources](#additional-resources)
    - [R Communities](#r-communities)
    - [R Books](#r-books)
@@ -67,7 +67,7 @@ These resources are designed to help you build a strong foundation in R programm
 </table>
 
 
-### Tutorials
+### R
 > Start your journey into R programming with these essential tutorials covering basic syntax and concepts.
 
 #### Introduction
@@ -811,7 +811,7 @@ These resources are designed to help you build a strong foundation in R programm
 ### Courses
 > Here are some courses.
 
-#### Free Certification Courses
+#### Free Courses
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -839,7 +839,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-#### Paid Certification Courses
+#### Paid Courses
 
 <table width="100%">
 <tr>
