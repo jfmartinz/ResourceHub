@@ -521,7 +521,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 </table>
 
 ### Python Projects
-> Java Projects which can help you to enhance your development skills and build your resumes.
+> Python Projects which can help you to enhance your development skills and build your resumes.
 
 ### Beginner Level Projects
 
@@ -542,6 +542,8 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td><a href="https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/">Countdown Timer</a></td>
     <td>The code will take input from the user regarding the length of the countdown in seconds. After that, a countdown will begin on the screen of the format ‘minutes: seconds’. </td>
   </tr>
+
+</table>
 
 ### Intermediate Level Projects
 
