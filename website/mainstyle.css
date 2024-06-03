@@ -19,29 +19,30 @@
   border-color: #e5e7eb;
   /* 2 */
 }
+
 .contributor-card:nth-child(4n+1),
 .contributor-card:nth-child(4n+3) {
-    margin-top: -4px;
+  margin-top: -4px;
 }
 
 .contributor-card {
-    width: 95px;
-    height: 95px;
-    clip-path: circle(40%);
-    margin: 5px;
-    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  width: 95px;
+  height: 95px;
+  clip-path: circle(40%);
+  margin: 5px;
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
 
 .contributor-card:hover {
-    box-shadow: 0 0 10px rgba(253, 251, 251, 0.5);
-    /* Adjust the color and size of the glow as needed */
+  box-shadow: 0 0 10px rgba(253, 251, 251, 0.5);
+  /* Adjust the color and size of the glow as needed */
 }
 
 .contributor-card:active {
-    transform: scale(1.1);
-    opacity: 0.8;
-    box-shadow: 0 0 20px rgb(188, 240, 210);
-    /* Adjust the color and size of the glow as needed */
+  transform: scale(1.1);
+  opacity: 0.8;
+  box-shadow: 0 0 20px rgb(188, 240, 210);
+  /* Adjust the color and size of the glow as needed */
 }
 
 h1 {
@@ -67,31 +68,34 @@ h1:hover {
   justify-content: center;
   align-items: center;
 }
-.loading{
+
+.loading {
   font-size: xx-large;
 }
+
 .loading:after {
-overflow: hidden;
-display: inline-block;
-vertical-align: bottom;
--webkit-animation: ellipsis steps(4, end) 900ms infinite;
-animation: ellipsis steps(4, end) 900ms infinite;
-content: "\2026";
-/* ascii code for the ellipsis character */
-width: 0px;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: bottom;
+  -webkit-animation: ellipsis steps(4, end) 900ms infinite;
+  animation: ellipsis steps(4, end) 900ms infinite;
+  content: "\2026";
+  /* ascii code for the ellipsis character */
+  width: 0px;
 }
 
 @keyframes ellipsis {
-to {
-width: 40px;
-}
+  to {
+    width: 40px;
+  }
 }
 
 @-webkit-keyframes ellipsis {
-to {
-width: 40px;
+  to {
+    width: 40px;
+  }
 }
-}
+
 ::before,
 ::after {
   --tw-content: '';
@@ -116,7 +120,7 @@ html,
   -moz-tab-size: 4;
   /* 3 */
   -o-tab-size: 4;
-     tab-size: 4;
+  tab-size: 4;
   /* 3 */
   font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   /* 4 */
@@ -145,7 +149,7 @@ body {
 2. Correct the inheritance of border color in Firefox. (https://bugzilla.mozilla.org/show_bug.cgi?id=190655)
 3. Ensure horizontal rules are visible by default.
 */
-.navcenter{
+.navcenter {
   align-items: center;
   margin-left: 0 !important;
 }
@@ -165,15 +169,17 @@ Add the correct text decoration in Chrome, Edge, and Safari.
 
 abbr:where([title]) {
   -webkit-text-decoration: underline dotted;
-          text-decoration: underline dotted;
+  text-decoration: underline dotted;
 }
 
-.floatleft{
-  float:left;
+.floatleft {
+  float: left;
 }
-.floatright{
-  float:right;
+
+.floatright {
+  float: right;
 }
+
 /*
 Remove the default font size and weight for headings.
 */
@@ -460,7 +466,8 @@ textarea {
 2. Set the default placeholder color to the user's configured gray 400 color.
 */
 
-input::-moz-placeholder, textarea::-moz-placeholder {
+input::-moz-placeholder,
+textarea::-moz-placeholder {
   opacity: 1;
   /* 1 */
   color: #9ca3af;
@@ -528,7 +535,9 @@ video {
   display: none;
 }
 
-*, ::before, ::after {
+*,
+::before,
+::after {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -538,19 +547,19 @@ video {
   --tw-skew-y: 0;
   --tw-scale-x: 1;
   --tw-scale-y: 1;
-  --tw-pan-x:  ;
-  --tw-pan-y:  ;
-  --tw-pinch-zoom:  ;
+  --tw-pan-x: ;
+  --tw-pan-y: ;
+  --tw-pinch-zoom: ;
   --tw-scroll-snap-strictness: proximity;
-  --tw-gradient-from-position:  ;
-  --tw-gradient-via-position:  ;
-  --tw-gradient-to-position:  ;
-  --tw-ordinal:  ;
-  --tw-slashed-zero:  ;
-  --tw-numeric-figure:  ;
-  --tw-numeric-spacing:  ;
-  --tw-numeric-fraction:  ;
-  --tw-ring-inset:  ;
+  --tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;
+  --tw-gradient-to-position: ;
+  --tw-ordinal: ;
+  --tw-slashed-zero: ;
+  --tw-numeric-figure: ;
+  --tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;
+  --tw-ring-inset: ;
   --tw-ring-offset-width: 0px;
   --tw-ring-offset-color: #fff;
   --tw-ring-color: rgb(59 130 246 / 0.5);
@@ -558,28 +567,28 @@ video {
   --tw-ring-shadow: 0 0 #0000;
   --tw-shadow: 0 0 #0000;
   --tw-shadow-colored: 0 0 #0000;
-  --tw-blur:  ;
-  --tw-brightness:  ;
-  --tw-contrast:  ;
-  --tw-grayscale:  ;
-  --tw-hue-rotate:  ;
-  --tw-invert:  ;
-  --tw-saturate:  ;
-  --tw-sepia:  ;
-  --tw-drop-shadow:  ;
-  --tw-backdrop-blur:  ;
-  --tw-backdrop-brightness:  ;
-  --tw-backdrop-contrast:  ;
-  --tw-backdrop-grayscale:  ;
-  --tw-backdrop-hue-rotate:  ;
-  --tw-backdrop-invert:  ;
-  --tw-backdrop-opacity:  ;
-  --tw-backdrop-saturate:  ;
-  --tw-backdrop-sepia:  ;
-  --tw-contain-size:  ;
-  --tw-contain-layout:  ;
-  --tw-contain-paint:  ;
-  --tw-contain-style:  ;
+  --tw-blur: ;
+  --tw-brightness: ;
+  --tw-contrast: ;
+  --tw-grayscale: ;
+  --tw-hue-rotate: ;
+  --tw-invert: ;
+  --tw-saturate: ;
+  --tw-sepia: ;
+  --tw-drop-shadow: ;
+  --tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;
+  --tw-backdrop-contrast: ;
+  --tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;
+  --tw-backdrop-invert: ;
+  --tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;
+  --tw-backdrop-sepia: ;
+  --tw-contain-size: ;
+  --tw-contain-layout: ;
+  --tw-contain-paint: ;
+  --tw-contain-style: ;
 }
 
 ::backdrop {
@@ -592,19 +601,19 @@ video {
   --tw-skew-y: 0;
   --tw-scale-x: 1;
   --tw-scale-y: 1;
-  --tw-pan-x:  ;
-  --tw-pan-y:  ;
-  --tw-pinch-zoom:  ;
+  --tw-pan-x: ;
+  --tw-pan-y: ;
+  --tw-pinch-zoom: ;
   --tw-scroll-snap-strictness: proximity;
-  --tw-gradient-from-position:  ;
-  --tw-gradient-via-position:  ;
-  --tw-gradient-to-position:  ;
-  --tw-ordinal:  ;
-  --tw-slashed-zero:  ;
-  --tw-numeric-figure:  ;
-  --tw-numeric-spacing:  ;
-  --tw-numeric-fraction:  ;
-  --tw-ring-inset:  ;
+  --tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;
+  --tw-gradient-to-position: ;
+  --tw-ordinal: ;
+  --tw-slashed-zero: ;
+  --tw-numeric-figure: ;
+  --tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;
+  --tw-ring-inset: ;
   --tw-ring-offset-width: 0px;
   --tw-ring-offset-color: #fff;
   --tw-ring-color: rgb(59 130 246 / 0.5);
@@ -612,28 +621,28 @@ video {
   --tw-ring-shadow: 0 0 #0000;
   --tw-shadow: 0 0 #0000;
   --tw-shadow-colored: 0 0 #0000;
-  --tw-blur:  ;
-  --tw-brightness:  ;
-  --tw-contrast:  ;
-  --tw-grayscale:  ;
-  --tw-hue-rotate:  ;
-  --tw-invert:  ;
-  --tw-saturate:  ;
-  --tw-sepia:  ;
-  --tw-drop-shadow:  ;
-  --tw-backdrop-blur:  ;
-  --tw-backdrop-brightness:  ;
-  --tw-backdrop-contrast:  ;
-  --tw-backdrop-grayscale:  ;
-  --tw-backdrop-hue-rotate:  ;
-  --tw-backdrop-invert:  ;
-  --tw-backdrop-opacity:  ;
-  --tw-backdrop-saturate:  ;
-  --tw-backdrop-sepia:  ;
-  --tw-contain-size:  ;
-  --tw-contain-layout:  ;
-  --tw-contain-paint:  ;
-  --tw-contain-style:  ;
+  --tw-blur: ;
+  --tw-brightness: ;
+  --tw-contrast: ;
+  --tw-grayscale: ;
+  --tw-hue-rotate: ;
+  --tw-invert: ;
+  --tw-saturate: ;
+  --tw-sepia: ;
+  --tw-drop-shadow: ;
+  --tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;
+  --tw-backdrop-contrast: ;
+  --tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;
+  --tw-backdrop-invert: ;
+  --tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;
+  --tw-backdrop-sepia: ;
+  --tw-contain-size: ;
+  --tw-contain-layout: ;
+  --tw-contain-paint: ;
+  --tw-contain-style: ;
 }
 
 .container {
@@ -656,7 +665,8 @@ video {
   .container {
     max-width: 1024px;
   }
-  .hidden-desktop{
+
+  .hidden-desktop {
     display: none !important;
   }
 }
@@ -768,6 +778,10 @@ video {
 
 .mr-6 {
   margin-right: 1.5rem;
+}
+
+.mr-8 {
+  margin-right: 2rem;
 }
 
 .mt-1 {
@@ -889,9 +903,11 @@ video {
 .flex-col {
   flex-direction: column;
 }
-.flex-row{
+
+.flex-row {
   flex-direction: row;
 }
+
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -924,13 +940,13 @@ video {
   gap: 1rem;
 }
 
-.space-x-12 > :not([hidden]) ~ :not([hidden]) {
+.space-x-12> :not([hidden])~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(3rem * var(--tw-space-x-reverse));
   margin-left: calc(3rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
-.space-y-2 > :not([hidden]) ~ :not([hidden]) {
+.space-y-2> :not([hidden])~ :not([hidden]) {
   --tw-space-y-reverse: 0;
   margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));
@@ -943,9 +959,11 @@ video {
 .rounded-md {
   border-radius: 0.375rem;
 }
-.gap-20{
-  padding-right:45px;
+
+.gap-20 {
+  padding-right: 45px;
 }
+
 .border {
   border-width: 1px;
 }
@@ -1031,7 +1049,7 @@ video {
 
 .bg-clip-text {
   -webkit-background-clip: text;
-          background-clip: text;
+  background-clip: text;
 }
 
 .p-12 {
@@ -1215,13 +1233,13 @@ video {
 .backdrop-blur {
   --tw-backdrop-blur: blur(8px);
   -webkit-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
-          backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
+  backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
 }
 
 .backdrop-blur-lg {
   --tw-backdrop-blur: blur(16px);
   -webkit-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
-          backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
+  backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
 }
 
 .transition {
@@ -1248,12 +1266,12 @@ video {
   transition-duration: 300ms;
 }
 
-*{
+* {
   scroll-behavior: smooth;
-  -webkit-scrollbar-color : blue;
+  -webkit-scrollbar-color: blue;
 }
 
-body{
+body {
   overflow-x: hidden;
 }
 
@@ -1368,7 +1386,7 @@ body{
 }
 
 .custom-button:hover {
-  color:  #00b7ff;
+  color: #00b7ff;
 }
 
 .custom-button:hover::after {
@@ -1403,7 +1421,7 @@ body{
   height: 15vh;
   cursor: pointer;
   text-align: center;
-  margin-top:20px;
+  margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 10px;
   background-color: rgb(18, 18, 18);
@@ -1411,19 +1429,23 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  transition:all 0.5s linear;
+  transition: all 0.5s linear;
 }
 
 #testimonials-section.card-container {
   display: grid;
-  grid-template-columns: repeat(3, minmax(300px, 1fr)); /* Adjust the minimum width as needed */
-  gap: 1rem; /* Adjust the gap between cards */
-  justify-items: center; /* Center the cards horizontally */
+  grid-template-columns: repeat(3, minmax(300px, 1fr));
+  /* Adjust the minimum width as needed */
+  gap: 1rem;
+  /* Adjust the gap between cards */
+  justify-items: center;
+  /* Center the cards horizontally */
 }
 
 @media (max-width: 768px) {
   #testimonials-section.card-container {
-      grid-template-columns: 1fr; /* Display 1 card per row on smaller screens */
+    grid-template-columns: 1fr;
+    /* Display 1 card per row on smaller screens */
   }
 }
 
@@ -1449,21 +1471,21 @@ body::-webkit-scrollbar-thumb:hover {
 
 /* CARDS AND SEARCH BAR STYLES */
 
-.card:hover{
+.card:hover {
   background-color: rgba(255, 255, 255, 0.672);
-  color:black;
+  color: black;
 }
 
-.search-input{
+.search-input {
   border: 2px solid rgba(0, 179, 255, 0.6);
-  color:white;
+  color: white;
   transition: all 0.4s ease;
 }
 
-.search-input:hover{
+.search-input:hover {
   box-shadow: 3px 1px 1px 1px rgb(0, 132, 255);
   border: 2px solid rgba(0, 179, 255, 0.988);
-  cursor:pointer;
+  cursor: pointer;
 }
 
 /* flip card styles */
@@ -1477,8 +1499,8 @@ body::-webkit-scrollbar-thumb:hover {
 
 @media (min-width: 640px) {
   .flip-card {
-      width: 500px;
-      height: 250px;
+    width: 500px;
+    height: 250px;
   }
 }
 
@@ -1499,14 +1521,14 @@ body::-webkit-scrollbar-thumb:hover {
 
 @media (min-width: 1024px) {
   .flip-card {
-      width: 95%;
-      height: 290px;
-      max-width: 500px;
+    width: 95%;
+    height: 290px;
+    max-width: 500px;
   }
 
   #testimonials-section.card-container {
     display: grid;
-    grid-template-columns: repeat(2, minmax(500px, 1fr)); 
+    grid-template-columns: repeat(2, minmax(500px, 1fr));
     gap: 1rem;
     justify-items: center;
   }
@@ -1514,9 +1536,9 @@ body::-webkit-scrollbar-thumb:hover {
 
 @media (min-width: 1280px) {
   .flip-card {
-      width: 95%;
-      height: 320px;
-      max-width: 500px;
+    width: 95%;
+    height: 320px;
+    max-width: 500px;
   }
 
   #testimonials-section.card-container {
@@ -1540,7 +1562,8 @@ body::-webkit-scrollbar-thumb:hover {
   transform: rotateY(180deg);
 }
 
-.flip-card-front, .flip-card-back {
+.flip-card-front,
+.flip-card-back {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -1549,11 +1572,13 @@ body::-webkit-scrollbar-thumb:hover {
 
 .flip-card-front img {
   position: relative;
-    border-radius: 50%;
-    padding: 3px; /* Adjust this value to control the spacing between the image and the ring */
-    background-color: #211c1cc5; 
-    border: 4px solid #4d9aff; /* Adjust this value to control the thickness of the ring */
-    box-sizing: border-box;
+  border-radius: 50%;
+  padding: 3px;
+  /* Adjust this value to control the spacing between the image and the ring */
+  background-color: #211c1cc5;
+  border: 4px solid #4d9aff;
+  /* Adjust this value to control the thickness of the ring */
+  box-sizing: border-box;
 }
 
 .flip-card-front {
@@ -1572,9 +1597,11 @@ body::-webkit-scrollbar-thumb:hover {
   justify-content: center;
   align-items: center;
   width: 100%;
-  padding: 8px; /* Add padding for the ring */
-  outline: 4px solid #4d9aff; 
-  outline-offset: -2px; /* Adjust the spacing between the ring and the content */
+  padding: 8px;
+  /* Add padding for the ring */
+  outline: 4px solid #4d9aff;
+  outline-offset: -2px;
+  /* Adjust the spacing between the ring and the content */
 }
 
 
@@ -1586,15 +1613,16 @@ body::-webkit-scrollbar-thumb:hover {
   margin-left: 1rem;
   text-align: left
 }
+
 /* FOOTER STYLES */
 
-.footerclass a{
-  transition:all 0.3s linear;
+.footerclass a {
+  transition: all 0.3s linear;
 }
 
-.footerclass a:hover{
-  color:#00aaff;
-  font:bolder;
+.footerclass a:hover {
+  color: #00aaff;
+  font: bolder;
   text-decoration: underline;
 }
 
@@ -1626,8 +1654,7 @@ footer {
   color: white;
 }
 
-.light-mode
-{
+.light-mode {
   background-color: white;
   color: black;
 }
@@ -1635,9 +1662,9 @@ footer {
 /* Toggle button style */
 
 .toggle-button {
-  position: absolute;
-  /* Change to absolute positioning */
-  left:80%;
+  position: fixed;
+  /* left: 80%; */
+  right: 10px;
   top: 50%;
   transform: translateY(-50%);
   border: none;
@@ -1655,7 +1682,9 @@ footer {
   margin: auto;
 }
 
-.content-display h1,h2,h3 {
+.content-display h1,
+h2,
+h3 {
   padding-bottom: 0.3em;
 }
 
@@ -1689,12 +1718,12 @@ pre {
   text-decoration: underline;
 }
 
-#logo{
-  filter: invert(0%); 
+#logo {
+  filter: invert(0%);
 }
 
-.light-mode #logo{
-    filter: invert(100%);
+.light-mode #logo {
+  filter: invert(100%);
 }
 
 .h1-dark-mode {
@@ -1734,7 +1763,9 @@ body.dark-mode {
   color: #ffffff;
 }
 
-.content-display.dark-mode h1, .content-display.dark-mode h2, .content-display.dark-mode h3 {
+.content-display.dark-mode h1,
+.content-display.dark-mode h2,
+.content-display.dark-mode h3 {
   color: #ffffff;
 }
 
@@ -1754,7 +1785,7 @@ body.dark-mode {
 @media (max-width: 768px) {
   .toggle-button {
     top: 30%;
-    left:50%;
+    left: 50%;
   }
 }
 
@@ -1836,7 +1867,7 @@ body.dark-mode {
   }
 
   .md\:text-xl {
-    font-size: 1rem;
+    font-size: 1.25rem;
     line-height: 1.75rem;
   }
 }
@@ -1872,7 +1903,7 @@ body.dark-mode {
   }
 
   .lg\:text-2xl {
-    font-size: 1rem;
+    font-size: 1.5rem;
     line-height: 2rem;
   }
 
@@ -1899,19 +1930,26 @@ body.dark-mode {
 
 @media (min-width: 1280px) {
   .xl\:text-3xl {
-    font-size: 1.5rem;
-    line-height: 2.2rem;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
   }
-  .hidden-desktop{
+
+  .hidden-desktop {
     display: none !important;
   }
 }
 
 @media (min-width: 1536px) {
-  .hidden-desktop{
+  .\32xl\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
+  }
+
+  .hidden-desktop {
     display: none !important;
   }
 }
+
 
 
 
@@ -1974,17 +2012,18 @@ body.bg-black {
   border-radius: 50%;
 }
 
-input:checked + .slider {
+input:checked+.slider {
   background-color: #2196F3;
 }
 
-input:checked + .slider:before {
+input:checked+.slider:before {
   transform: translateX(26px);
 }
 
 .smaller {
- scale:0.7;
+  scale: 0.7;
 }
+
 /* Light Mode Styles */
 body.light-mode {
   background-color: #fff;
@@ -1998,13 +2037,15 @@ body.light-mode {
 .light-mode .text-white {
   color: #000;
 }
-.light-mode  li a {
+
+.light-mode li a {
   color: #fff !important;
 }
 
 .light-mode .text-neutral-300 {
   color: #4b5563;
 }
+
 .scrollToTopBtn {
   position: fixed;
   bottom: 40px;
