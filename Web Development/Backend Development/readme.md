@@ -175,10 +175,6 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
         <td>The official python documentation is a comprehensive tutorial for learning Python, covering basics to advanced topics with interactive examples.</td>
       </tr>
       <tr>
-        <td><a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a></td>
-        <td>The mozilla developer documentation about javascript is a extensive resource for learning JavaScript, from the fundamentals to more advanced concepts and techniques.</td>
-      </tr>
-      <tr>
         <td><a href="https://www.php.net/docs.php">PHP</a></td>
         <td>The official documentation for PHP is a free interactive tutorial to learn PHP, covering a wide range of topics from basic syntax to advanced features.</td>
       </tr>
@@ -186,43 +182,17 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
         <td><a href="https://ruby-doc.org/">Ruby</a></td>
         <td>The ruby documentation is an interactive course on Codecademy that teaches the fundamentals of Ruby programming.</td>
       </tr>
-      <tr>
-        <td><a href="https://api.jquery.com/">Jquery</a></td>
-        <td>This tutorial is a interactive collection of tutorial for learning jquery and applying it in real time programs.</td>
-      </tr>
-</table>
-
-### Frameworks
-
-#### Javascript Frameworks
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
     <tr>
         <td><a href="https://expressjs.com/en/starter/installing.html">Express.js</a></td>
         <td>This tutorial is very helpful for learning Express.js. Express js is a unopinionated, and minimalist web framework for Node.js, providing a robust set of features to develop web and mobile applications. It simplifies the development of server-side applications with its powerful middleware and routing capabilities.</td>
     </tr>
     <tr>
-        <td><a href="https://koajs.com/#introduction">Koa.js</a></td>
-        <td>Koa.js is a next-generation web framework for Node.js designed by the team behind Express.js. It aims to be a smaller, more expressive, and more robust foundation for web applications and APIs, utilizing async functions for cleaner, more readable code.
-        This tutorial is the best resource for learning koa js.</td>
-    </tr>
-    <tr>
-        <td><a href="https://sailsjs.com/documentation/tutorials">Sails.js</a></td>
-        <td>This link helps you learn Sails.js, which is a framework that makes it easy to build custom, enterprise-grade Node.js applications. It is designed to mimic the MVC pattern of frameworks like Ruby on Rails, but with support for modern app requirements like data-driven APIs with a scalable, service-oriented architecture.</td>
-    </tr>
-    <tr>
-        <td><a href="https://nestjs.com/">NestJS</a></td>
-        <td>The NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications. It uses TypeScript by default and combines elements of OOP, FP, and FRP.This official website is the best resouce to learn next js.</td>
-    </tr>
-    <tr>
-        <td><a href="https://docs.adonisjs.com/guides/preface/introduction">AdonisJS</a></td>
-        <td>This official documentation is best for learning AdonisJS, which is a fully-featured web framework for Node.js. It provides a stable ecosystem with a mature set of tools for building server-side applications. Its main objective is to ease the process of writing and maintaining web applications and APIs.</td>
+    <td><a href="https://nodejs.org/en/docs/">Node.js</a></td>
+    <td>This documentation is very helpful for learning Node.js. Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to easily build scalable network applications using JavaScript on the server-side.</td>
     </tr>
 </table>
+
+### Frameworks
 
 #### Python Frameworks
 
