@@ -1999,7 +1999,7 @@ body.light-mode {
   color: #000;
 }
 .light-mode  li a {
-  color: #fff !important;
+  color: #000000 !important;
 }
 
 .light-mode .text-neutral-300 {
