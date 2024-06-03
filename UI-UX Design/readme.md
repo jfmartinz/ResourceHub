@@ -52,7 +52,7 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
       <td><a href="https://www.coursera.org/specializations/web-design?skipBrowseRedirect=true">Web Design for Everybody: Basics of Web Development & Coding Specialization</a></td>
     <td>A complete beginner's guide to Web Development. This Coursera course is the perfect guide for people interested to begin their front-end development journey.</td>
             <td>$32.63/month</td>
-  </tr>
+       </tr>
   </table>
 
 
@@ -209,12 +209,20 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
         <th>Description</th>
       </tr>
       <tr>
+      <td><a href="http://appshots.design">Appshots</a></td>
+      <td>AppShot is a sleek and user-friendly platform dedicated to helping designers and developers create stunning app screenshots for the App Store and Google Play.</td>
+      </tr>
+      <tr>
       <td><a href="https://www.behance.net/">Behance</a></td>
       <td>Behance is the world's largest creative network for showcasing and discovering creative work.</td>
       </tr>
       <tr>
       <td><a href="https://dribbble.com/">Dribbble</a></td>
       <td>Find Top Designers & Creative Professionals on Dribbble. We are where designers gain inspiration, feedback, community, and jobs.</td>
+      </tr>
+      <tr>
+      <td><a href="http://godly.website">Godly</a></td>
+      <td>Godly is a website dedicated to providing top-tier web design inspiration. It features a curated collection of exemplary web designs from various categories such as AI, Web3, portfolios, startups, e-commerce, and more.</td>
       </tr>
       <tr>
       <td><a href="https://www.awwwards.com/">Awwwards</a></td>
@@ -362,6 +370,10 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
         <td> <a href="https://www.linkedin.com/groups/1854192/">UX / HCI Researchers</a></td>
         <td>This is a group for UXers to expand our network of people and ideas.
 Most members work in the field of UX Design or UX Research as UX Designer, Usability Expert, UX Researcher, Human Factors Engineer - HFE, Product Designer, Interaction Designer, Information Architect or UX Architect, Student, Lecturer, Consultant, Freelance.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.thedesignerstoolbox.com/">The Designer's Toolbox</a></td>
+      <td>The Designer's Toolbox is a collection of tips, tricks, and best practices that can help you with UX designing. It has various resources, live events, and masterclasses to help you gain the skills required for UX design. It contains both free and paid resources.</td>
       </tr>
   </table>
 

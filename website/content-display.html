@@ -125,6 +125,9 @@
     </div>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
+//         document.addEventListener("contextmenu", function (event) {
+//   event.preventDefault();
+// });
         // Dark mode toggle script
         const toggleButton = document.getElementById('dark-mode-toggle');
 
@@ -138,6 +141,11 @@
             const contentDisplay = document.querySelector('.content-display');
             contentDisplay.classList.toggle('dark-mode');
             contentDisplay.classList.toggle('light-mode');
+
+            // Toggle dark mode class on markdown-body
+            const markdownBody = document.getElementById('readme-content');
+            markdownBody.classList.toggle('dark-mode');
+            markdownBody.classList.toggle('light-mode');
         });
         // Retrieve README content from sessionStorage
         const readmeContent = sessionStorage.getItem('readmeContent');
