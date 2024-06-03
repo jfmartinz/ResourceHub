@@ -11,16 +11,24 @@
 </head>
 
 <body class="bg-black">
-    <nav class="sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-white">
-        <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm">
-            <div class="flex justify-between mt-4 items-center">
-                <div class="flex items-center flex-shrink-0">
-                    <img class="h-10 w-10 mr-2" src="./assets/logo.png" alt="Logo" />
-                    <span class="text-xl tracking-tight hover-effect ">ResourceHub</span>
-                </div>
+    <nav class="sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-white flex-row justify-between">
+        <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm flex justify-between items-center">
+            <div class="flex items-center">
+                <img class="h-10 w-10 mr-2" src="./assets/logo.png"  id="logo" alt="Logo" />
+                <span class="text-xl tracking-tight hover-effect">ResourceHub</span>
+                <div id="google_element" style="margin-left: 25px;"></div>
+                            <script src="http://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
+                            <script>
+                                function loadGoogleTranslate() {
+                                    new google.translate.TranslateElement({
+                                        pageLanguage: 'en'
+                                    }, 'google_element');
+                                }
+                            </script>
+            </div>
                 <ul class="hidden-mobile ml-14 space-x-12">
                     <li class=" hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="/">Home</a>
+                        <a href="index.html ">Home</a>
                     </li>
                     <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
                         <a href="about.html">About</a>
