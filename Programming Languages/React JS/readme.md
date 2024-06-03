@@ -601,6 +601,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
 ### Version Control
 
 > These version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code. 
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
