@@ -19,6 +19,9 @@
   transition: color 0.3s ease-in-out;
   cursor: pointer;
 }
+.menuu:hover{
+    border-bottom: 2px solid rgb(73, 75, 186);
+}
 
 h1:hover {
   color: var(--primary);
@@ -44,7 +47,7 @@ h1:hover {
     <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm flex justify-between items-center">
         <div class="flex items-center">
             <img class="h-10 w-10 mr-2" src="./assets/logo.png"  id="logo" alt="Logo" />
-            <span class="text-xl tracking-tight hover-effect">ResourceHub</span>
+            <span class="text-xl tracking-tight hover-effect" style="color:rgb(73, 75, 186); font-weight: bolder;">ResourceHub</span>
             <div id="google_element"></div>
                         <script src="http://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
                         <script>
@@ -57,16 +60,16 @@ h1:hover {
         </div>
         <ul class="hidden-mobile ml-14 space-x-12 gap-20">
             <li class="hover-effect font-semibold hover:text-sm transition-all duration-300 ">
-                <a href="/">Home</a>
+                <a href="/" class="menuu">Home</a>
             </li>
             <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                <a href="about.html">About</a>
+                <a href="about.html" class="menuu">About</a>
             </li>
             <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                <a href="/">Services</a>
+                <a href="/" class="menuu">Services</a>
             </li>
             <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                <a href="/">Contact</a>
+                <a href="/" class="menuu">Contact</a>
             </li>
         </ul>
         <div class="hidden-desktop text-blue md:flex flex-row justify-end">
@@ -96,7 +99,7 @@ h1:hover {
         class="hidden text-white backdrop-blur opacity-85 fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
         <ul>
             <li class="py-4 hover-effect">
-                <a href="/">Home</a>
+                <a href="/" >Home</a>
             </li>
             <li class="py-4 hover-effect">
                 <a href="about.html">About</a>
@@ -117,11 +120,12 @@ h1:hover {
     <div class="first mb-40 flex flex-col items-center mt-40 lg:mt-40 bg-black">
         <h1 class="text-white text-4xl sm:text-6xl lg:text-7xl mb-30 text-center tracking-wide">
             <span
-                class="focus-in-contract-bck bg-gradient-to-r from-blue-100 to-blue-600 mt-30 font-semibold text-transparent bg-clip-text hover-effect-2">
+                class="focus-in-contract-bck bg-gradient-to-r from-blue-100 to-blue-600 mt-15 mb-10 font-semibold text-transparent bg-clip-text hover-effect-2">
                 ResourceHub
             </span>
         </h1>
-        <p class="mt-20 text-center text-neutral-300 max-w-xl lg:max-w-4xl text-xs lg:text-xl">
+        <span id="element"></span>
+        <p class="mt-15 text-center text-neutral-300 max-w-xl lg:max-w-4xl text-xs lg:text-xl">
             An Open-Source project that serves as a collection of valuable resources for Web Development, DBMS, Web3 and
             many more carefully curated by the amazing contributors in the community.
         </p>
@@ -166,7 +170,7 @@ h1:hover {
         <h2 class="text-3xl sm:text-5xl lg:text-7xl text-center my-10 lg:my-20 bg-gradient-to-r from-blue-100 to-blue-600 font-semibold text-transparent bg-clip-text mb-40 h-auto leading-tight sm:leading-none">
             Testimonials
         </h2>
-        <div class="mt-40 flex flex-wrap justify-center">
+        <div class="mt-20 flex flex-wrap justify-center">
             <!-- Testimonial item -->
             <div id="testimonials-section" class="card-container">
                 <div class="flip-card">
@@ -390,7 +394,7 @@ h1:hover {
       </div>
    </div>
 ====
-    <h1>Faces of Dedication: Our Contributing Heroes</h1>
+    <h1 style="text-shadow: 2px 2px  rgb(73, 75, 186);">Faces of Dedication: Our Contributing Heroes</h1>
     <div id="loading1"></div>
     <div id="contributor"></div>
 
@@ -442,8 +446,8 @@ h1:hover {
                 </ul>
             </div>
           </div>
-          <div class="flex justify-center mt-auto">  <div class="footer-text text-center" style="color: rgb(241, 241, 245);">
-            © Copyright <b>ResourceHub</b> | All Rights Reserved | Website by <span style="color: rgb(241, 241, 245);"><b><a href="index.html">ResourceHub</a></b></span>
+          <div class="flex justify-center mt-25" style="text-shadow: 2px 2px  rgb(73, 75, 186);">  <div class="footer-text text-center" style="color: rgb(241, 241, 245);">
+            © Copyright <b >ResourceHub</b> | All Rights Reserved | Website by <span style="color: rgb(241, 241, 245);"><b><a href="index.html">ResourceHub</a></b></span>
           </div>
         </div>
         </center>
@@ -466,6 +470,13 @@ h1:hover {
     </script>
     <script src="mainapp.js"></script>
     <script src="contibuters.js"></script>
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    <script>
+        var typed = new Typed('#element', {
+          strings: ['Community-driven resources for web, DBMS, Web3.', 'An open-source project offering a curated collection of valuable resources'],
+          typeSpeed: 50,
+        });
+      </script>
 
 
 </body>
