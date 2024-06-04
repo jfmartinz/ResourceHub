@@ -1,4 +1,4 @@
-# PHP Programming Language 🌐
+# PHP Programming Language 
 
 PHP development refers to creating web applications, dynamic websites, and server-side solutions using the PHP programming language. 
 Known for its efficiency in web development, server-side scripting, and integration with various databases, PHP is widely used in building content management systems, 

@@ -1,4 +1,4 @@
-# Web3 🚀
+# Web3 
 
 Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
 

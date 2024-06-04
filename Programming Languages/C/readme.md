@@ -1,4 +1,4 @@
-# C Programming Resources 🖥️
+# C Programming Resources 
 
 C is a powerful and widely-used procedural programming language. Known for its efficiency and versatility, C is commonly used in system programming, embedded systems, and low-level programming.
 

@@ -1,4 +1,4 @@
-# TypeScript 📝
+# TypeScript
 
 TypeScript is a strongly typed superset of JavaScript that compiles to plain JavaScript. It was developed and is maintained by Microsoft, and it adds optional static typing to the language. This can help developers catch errors early in the development process, provide better tooling, and improve overall code quality.
 

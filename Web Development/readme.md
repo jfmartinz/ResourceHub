@@ -1,4 +1,4 @@
-# Web Development 🌐
+# Web Development 
 This category is a curated collection of valuable web development resources contributed by amazing contributors. Here, you will find a wide range of materials and information about web development.
 
 ## Table of Contents
