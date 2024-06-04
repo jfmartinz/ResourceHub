@@ -767,8 +767,10 @@ Here's the updated table:
     <td><a href="https://youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf&si=DjlYdXAeaw1-nlIs">Java Certification YouTube Course</a></td>
     <td>A free course on YouTube designed for complete beginners to learn Java programming.</td>
   </tr>
- 
-
+ <tr>
+ <td><a href="https://techdevguide.withgoogle.com/paths/foundational/?programming_languages=java#sequence-2">Foundations of Programming in Java by Google Tech Dev Guide<a><td>
+ <td>Learn about basic programming concepts like functions, operators, variables, control flow, strings, and arrays — some of the building blocks of programming by Google Tech Dev Guide.</td>
+</tr>
 </table>
 
 
@@ -999,6 +1001,10 @@ Here's the updated table:
   <tr>
     <td><a href="https://www.glassdoor.com/Interview/java-developer-interview-questions-SRCH_KO0,14.htm">Glassdoor - Java Developer Interview Questions</a></td>
     <td>Real interview experiences and questions shared by candidates who interviewed for Java developer positions.</td>
+  </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/interview/?programming_languages=java">Interview Prep by Google Tech Dev Guide</a></td>
+  <td>Familiarize yourself with the ins and outs of software engineering interviews. These resources will help students and professionals prepare and practice.</td>
   </tr>
 </table>
 
