@@ -242,6 +242,18 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
     <td><a href="https://www.youtube.com/watch?v=6dsLLp1_Ww8&list=PLChiukrA-RMOEB1PRQqB1NITIRsDz9pIN&index=6">Social Media App Tutorial (React.js, Supabase, Tailwind, Next.js)</td>
     <td>In this video we are going to build a full stack social media app with react.js, tailwind and supabase. </td>
   </tr>
+  <tr>
+  <td><a href="https://www.apnacollege.in/course/delta-feb-24"></a></td>
+  <td>This is paid course in hindi + English language.in this course you'll get:-
+  .Complete Frontend Development (ReactJS, HTML, CSS, Javascript & frameworks like Bootstrap & Tailwind)
+.Complete Backend Development (Node.js, Express.js)
+.Complete Database - SQL & MongoDB
+.Complete MERN Stack (MongoDB, Express, Node)
+.Real Life and Industry Grade Projects
+.TA Doubt Assistance
+.LIVE sessions on how to get a job, resume, open source & more
+.500+ recorded videos topics (alternate day chapters for 4.5 months)</td>
+  </tr>
   
 </table>
 

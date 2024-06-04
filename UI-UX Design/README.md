@@ -392,6 +392,10 @@ Most members work in the field of UX Design or UX Research as UX Designer, Usabi
         <td><a href="https://www.youtube.com/@abnux">ABNUX</a></td>
         <td>Founder of 10kdesigners – learn UI/UX design. This channel is dedicated to helping you become a better designer • Previously Head of Design at Unacademy, Founder @LisnApp.</td>
       </tr>
+      <tr>
+        <td><a href="https://youtube.com/@apnacollegeofficial?si=XxUMtT_9E6IJfwUJ">Apna College</a></td>
+        <td>Apna College is hindi language channel. 5.6 M+ subscribers on Youtube Channel, where they delivered high quality of content on web development. They focus on practical solutions rather than theory solutions. </td>
+      </tr>
 </table>
 
 ### Interview
