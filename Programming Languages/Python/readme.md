@@ -24,6 +24,11 @@ Python supports multiple programming paradigms, including procedural, object-ori
    - [Free Courses](#free-courses)<br>
    - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
+- [Python Projects](#python-projects)
+  - [Beginner Level Projects](#beginner-level-projects)
+  - [Intermediate Level Projects](#intermediate-level-projects)
+  - [Advance Level Projects](#advance-level-projects)
+- [Interview Preparations](#interview-preparation)
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlist)
 - [Conclusion](#conclusion)
@@ -485,7 +490,6 @@ Python supports multiple programming paradigms, including procedural, object-ori
   </table>
 
 ### Books
-
 > You can refer these books on Python Development. They are listed below:
 
 <table width="100%">
@@ -514,7 +518,99 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>Covers essential tools and techniques for data manipulation, visualization, and analysis using Python.</td>
            <td>Paid</td>
       </tr>
-  </table>
+</table>
+
+### Python Projects
+> Python Projects which can help you to enhance your development skills and build your resumes.
+
+### Beginner Level Projects
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/python-program-implement-rock-paper-scissor-game/">Rock Paper Scissor Game</a></td>
+    <td>In this game, the user gets the first chance to pick the option between Rock, paper, and scissors. After the computer select from the remaining two choices(randomly), the winner is decided as per the rules.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/get-live-weather-desktop-notifications-using-python/">Live Weather Updates App</a></td>
+    <td>A simple Python script to show the live update for Weather information.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/">Countdown Timer</a></td>
+    <td>The code will take input from the user regarding the length of the countdown in seconds. After that, a countdown will begin on the screen of the format ‘minutes: seconds’. </td>
+  </tr>
+
+</table>
+
+### Intermediate Level Projects
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/">Twitter Bot</a></td>
+    <td>Python can be used to develop an automatic Twitter bot that can do many tasks by its own such as retweets,likes, follow and DMs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/file-sharing-app-using-python/">File Sharing App</a></td>
+    <td>A simple file-sharing app using Python using its in-built packages.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/corona-helpbot/">Corona HelpBot</a></td>
+    <td>This is a chatbot that will give answers to most of your corona-related questions/FAQ. The chatbot will give you answers from the data given by WHO(https://www.who.int/).</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/hotel-management-system/">Hotel Management System</a></td>
+    <td>Create a system for managing hotel operations such as room booking, guest check-in/out, and billing.</td>
+  </tr>
+</table>
+  
+### Advance Level Projects
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/automate-instagram-messages-using-python/">Automatic Instagram Messages</a></td>
+    <td>Send a single message to any number of people where a list of users is provided.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/automatic-birthday-mail-sending-with-python/">Automatic Birthday Mails</a></td>
+    <td>Wish Happy Birthday to your friends at exactly 12 a.m. automatically.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/create-a-screen-recorder-using-python/">Screen Recorder</a></td>
+    <td>Create a screen-recorder using module provided by Python (pyautogui).</td>
+  </tr>
+</table>
+
+### Interview Preparation
+> Here are some resources which can help you to prepare for Python interview rounds
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/live/dVg0zFhSDhU?si=JJthjTVGfl8V0w3B">Top 15 Python Programming Interview Questions & Answers</a></td>
+    <td>Intellipaat provides a comprehensive video covering the top Python programming interview questions along with detailed explanations and solutions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/IT9A6ZtR_9s?si=jd3TudBHESvFuza_">Python Interview Question and Answers</a></td>
+    <td>This video by Analytics Vidhya presents common Python programming interview questions along with explanations and code examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/B_17_RORoiI?si=DJyq6cHe1Ac6jq80">Python Programming Interview Questions and Answers</a></td>
+    <td>edureka! offers a video discussing essential Python programming interview questions, suitable for both beginners and experienced developers.</td>
+  </tr>
+</table>
 
 ### YouTube Channels
 

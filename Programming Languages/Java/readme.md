@@ -33,7 +33,7 @@ This section is a curated collection of valuable Java and Java development resou
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
-- [interview Preparations](#interview-preparation)
+- [Interview Preparations](#interview-preparation)
 - [Additional Resources](#additional-resources)
    - [Java Games](#java-games)
    - [Java Communities](#java-communities)
@@ -763,6 +763,10 @@ Here's the updated table:
     <td><a href="https://www.udemy.com/course/java-tutorial/">Java Tutorial for Complete Beginners</a></td>
     <td>A free course on Udemy designed for complete beginners to learn Java programming.</td>
   </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf&si=DjlYdXAeaw1-nlIs">Java Certification YouTube Course</a></td>
+    <td>A free course on YouTube designed for complete beginners to learn Java programming.</td>
+  </tr>
  
 
 </table>
@@ -861,6 +865,11 @@ Here's the updated table:
   <tr>
     <td><a href="https://www.javatpoint.com/java-program-to-convert-temperature-celsius-to-fahrenheit">Temperature Converter</a></td>
     <td>Build a program that converts temperatures between Celsius and Fahrenheit scales based on user input.</td>
+  </tr>
+  <tr>
+    <td>Tic Tac Toe Game</td>
+    <td>Build a tic-tac-toe game provided its implementation,code and rules to play the game </td>
+    <td><a href="https://www.geeksforgeeks.org/tic-tac-toe-game-in-java/">Tic Tac Toe Game in Java </a></td>
   </tr>
 </table>
 
