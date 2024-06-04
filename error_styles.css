@@ -161,8 +161,10 @@ body {
     }
     85% {
         clip: rect(131px, 9999px, 143px, 0);
+    }
     90% {
         clip: rect(127px, 9999px, 133px, 0);
+    }
     95% {
         clip: rect(24px, 9999px, 125px, 0);
     }
