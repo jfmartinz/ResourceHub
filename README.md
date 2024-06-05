@@ -30,7 +30,7 @@
 
 ## What is ResourceHub
 
-_ResourceHub_ is an Open-Source project that serves as a collection of valuable resources for Web Development, UI & UX Design, Web3, Database, Open Source Development, App Development, Data Science and DevOps carefully curated by the amazing contributors in the community.
+_ResourceHub_ is an open-source project that serves as a one-stop repository of valuable resources curated by the amazing contributors in the community
 
 You can contribute with helpful resources you've discovered on the internet and share them with us!
 
