@@ -183,6 +183,10 @@
         <td><a href="https://www.w3schools.com/js/default.asp">JS Tutorial</a></td>
         <td>The JavaScript tutorial section on W3Schools provides a comprehensive resource for learning JavaScript, the programming language used to add interactivity and dynamic behavior to web pages. It covers various aspects of JavaScript, including basic syntax, variables, data types, operators and more.</td>
     </tr>
+    <tr>
+        <td><a href="https://youtube.com/playlist?list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&si=0Bm3tHKvVqyKE7D4">Chrome Extensions Tutorial</a></td>
+        <td>The Chrome Extension tutorial provides a comprehensive resource for learning how to build and deploy Chrome Extensions using JavaScript.</td>
+    </tr>
 </table>
 
 ### Frameworks
