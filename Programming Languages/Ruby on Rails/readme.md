@@ -140,15 +140,15 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#http-requests">Handling HTTP Requests</a></td>
+   <td><a href="https://thoughtbot.com/blog/back-to-basics-http-requests">Handling HTTP Requests</a></td>
    <td>Guide on processing incoming HTTP requests, accessing request parameters, and managing different types of requests.</td>
  </tr>
  <tr>
-   <td><a href="#sessions-cookies">Sessions and Cookies</a></td>
+   <td><a href="https://www.theodinproject.com/lessons/ruby-on-rails-sessions-cookies-and-authentication">Sessions and Cookies</a></td>
    <td>Explanation of how to use sessions and cookies in Rails to store data across requests and manage user sessions.</td>
  </tr>
  <tr>
-   <td><a href="#rendering-responses">Rendering Responses</a></td>
+   <td><a href="https://guides.rubyonrails.org/layouts_and_rendering.html">Rendering Responses</a></td>
    <td>Details on rendering responses in Rails, including rendering templates, partials, JSON, and XML.</td>
  </tr>
 </table>
@@ -160,15 +160,15 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#erb-templates">ERB Templates</a></td>
+   <td><a href="https://docs.ruby-lang.org/en/2.3.0/ERB.html">ERB Templates</a></td>
    <td>Guide to using Embedded Ruby (ERB) for creating dynamic templates in Rails views.</td>
  </tr>
  <tr>
-   <td><a href="#partials">Using Partials</a></td>
+   <td><a href="https://staceymck.medium.com/an-intro-to-partials-and-helpers-in-ruby-on-rails-10d62d85da24">Using Partials</a></td>
    <td>Explanation of how to use partials to modularize and reuse view components in Rails applications.</td>
  </tr>
  <tr>
-   <td><a href="#layouts">Layouts</a></td>
+   <td><a href="https://www.tutorialspoint.com/ruby-on-rails/rails-layouts.htm">Layouts</a></td>
    <td>Overview of using layouts in Rails to define common structure and appearance for multiple views.</td>
  </tr>
 </table>
@@ -180,15 +180,15 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#active-record">Active Record</a></td>
+   <td><a href="https://www.tutorialspoint.com/ruby-on-rails/rails-layouts.htm">Active Record</a></td>
    <td>Introduction to Active Record, Rails' Object-Relational Mapping (ORM) system for interacting with databases.</td>
  </tr>
  <tr>
-   <td><a href="#migrations">Database Migrations</a></td>
+   <td><a href="https://stackify.com/rails-migration-a-complete-guide/">Database Migrations</a></td>
    <td>Guide on creating and managing database migrations to evolve database schema over time.</td>
  </tr>
  <tr>
-   <td><a href="#queries">Performing Queries</a></td>
+   <td><a href="https://medium.com/swlh/activerecord-queries-and-you-how-to-find-the-right-method-for-the-job-60d251f23df7">Performing Queries</a></td>
    <td>Explanation of how to perform database queries using Active Record, including basic CRUD operations and complex queries.</td>
  </tr>
 </table>
@@ -200,15 +200,15 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#custom-error-pages">Custom Error Pages</a></td>
+   <td><a href="https://dev.to/ayushn21/custom-error-pages-in-rails-4i43">Custom Error Pages</a></td>
    <td>Guide to creating custom error pages in Rails for different HTTP status codes like 404, 500, etc.</td>
  </tr>
  <tr>
-   <td><a href="#exception-handling">Exception Handling</a></td>
+   <td><a href="https://rollbar.com/guides/ruby/how-to-handle-exceptions-in-ruby/">Exception Handling</a></td>
    <td>Overview of handling exceptions in Rails controllers and models, and how to use the `rescue_from` method.</td>
  </tr>
  <tr>
-   <td><a href="#logging-errors">Logging Errors</a></td>
+   <td><a href="https://stackify.com/rails-logger-and-rails-logging-best-practices/">Logging Errors</a></td>
    <td>Best practices for logging errors in Rails applications to aid debugging and monitoring.</td>
  </tr>
 </table>
@@ -220,15 +220,15 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#devise-authentication">Devise Authentication</a></td>
+   <td><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-user-authentication-with-devise-in-a-rails-7-application">Devise Authentication</a></td>
    <td>Guide to using Devise, a flexible authentication solution for Rails, to manage user authentication and sessions.</td>
  </tr>
  <tr>
-   <td><a href="#oauth">OAuth Integration</a></td>
+   <td><a href="https://fusionauth.io/blog/how-to-securely-implement-oauth-rails">OAuth Integration</a></td>
    <td>Introduction to integrating OAuth for authentication in Rails applications, allowing users to log in with third-party services.</td>
  </tr>
  <tr>
-   <td><a href="#custom-authentication">Custom Authentication</a></td>
+   <td><a href="https://dev.to/abeidahmed/custom-authentication-in-ruby-on-rails-5cbc">Custom Authentication</a></td>
    <td>Explanation of how to implement custom authentication logic in Rails applications without relying on external libraries.</td>
  </tr>
 </table>
@@ -240,19 +240,21 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#sql-injection">Preventing SQL Injection</a></td>
+   <td><a href="https://medium.com/@sonalibhavsar977/ruby-on-rails-sql-injection-attack-and-prevention-9eb065f2ab67">Preventing SQL Injection</a></td>
    <td>Best practices for securing Rails applications against SQL injection attacks.</td>
  </tr>
  <tr>
-   <td><a href="#xss">Preventing XSS</a></td>
+   <td><a href="https://www.stackhawk.com/blog/rails-xss-examples-and-prevention/">Preventing XSS</a></td>
    <td>Strategies for preventing Cross-Site Scripting (XSS) attacks in Rails applications.</td>
  </tr>
  <tr>
-   <td><a href="#csrf">CSRF Protection</a></td>
+   <td><a href="https://www.stackhawk.com/blog/rails-csrf-protection-guide/">CSRF Protection</a></td>
    <td>Overview of Cross-Site Request Forgery (CSRF) protection in Rails and how to ensure your application is secure.</td>
  </tr>
  <tr>
-   <td><a href="#security-best-practices">Security Best Practices</a></td>
+   <td><a href="https://www.solutelabs.com/blog/ruby-on-rails-security">Security Best Practices</a></td>
    <td>General best practices for maintaining the security of Rails applications, including configuration tips and coding guidelines.</td>
  </tr>
 </table>
+
+## Tools and Development Environment
