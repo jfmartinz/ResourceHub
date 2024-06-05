@@ -827,12 +827,10 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Cost</th>
     </tr>
     <tr>
         <td><a href="https://freecomputerbooks.com/How-To-Code-in-Node.js.html">How to code in Node.js</a></td>
         <td>This book provides a comprehensive overview of the architecture of data-intensive applications, including topics like data models, storage engines, distributed systems, and consistency models. It’s highly recommended for anyone looking to understand the complexities of building reliable and scalable backend systems.</td>
-        <td>Free</td>
     </tr>
     <tr>
         <td><a href="https://freecomputerbooks.com/Effective-Django.html">Effective Django</a></td>
@@ -842,12 +840,10 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
     <tr>
         <td><a href="https://freecomputerbooks.com/Python-Web-Frameworks.html">Python web frameworks</a></td>
         <td>Sam Newman's book offers a deep dive into the microservices architecture, discussing design principles, best practices, and real-world examples. It’s essential for developers and architects aiming to implement microservices in their backend systems.</td>
-        <td>Paid</td>
     </tr>
     <tr>
         <td><a href="https://freecomputerbooks.com/Express.js-Guide.html">Express js Guide</a></td>
         <td>Clean Code focuses on writing readable, maintainable, and efficient code. It’s a must-read for backend developers who want to improve their coding standards and practices. The book covers various coding principles, refactoring techniques, and best practices.</td>
-        <td>Paid</td>
     </tr>
 </table>
 
@@ -857,27 +853,22 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Cost</th>
     </tr>
     <tr>
         <td><a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/">Designing Data-Intensive Applications by Martin Kleppmann</a></td>
         <td>This book provides a comprehensive overview of the architecture of data-intensive applications, including topics like data models, storage engines, distributed systems, and consistency models. It’s highly recommended for anyone looking to understand the complexities of building reliable and scalable backend systems.</td>
-        <td>Paid</td>
     </tr>
     <tr>
         <td><a href="https://www.amazon.in/Web-Development-Django-applications-Python-based/dp/1839212500/ref=sr_1_10?crid=1K0TLYIEEEL13&dib=eyJ2IjoiMSJ9.8rwevLObnMNVhznl-hDgSecWBJZOyKsz3kp5G7IhfUoB8pop7A3eK7tGyHm1ybnR8AeITXqijUhktKN4WhSBE0EI_-qdIoxwGz57bzVymIeHsCDiwriV7EoljkgbIV7f3qPLLp-lHXjm7bM5Ni8WqRbuUQqpTVKjD6sv2F-rp1_Y20GeCT6DLqmVHz-XjXubc1t63X3DTlx4SvX-EkBRU3ZXH_5pzIePvTFB-zB6aY0.boPL4Z2dgL7qegaEEcF50eATf3bjsm-Z_PC-gyzp0y4&dib_tag=se&keywords=backend+development+books&qid=1717303795&sprefix=backend+deve%2Caps%2C233&sr=8-10">Web development with Django</a></td>
         <td>This book explores the patterns and best practices for designing and deploying microservices, including strategies for decomposition, data management, and inter-service communication. It’s an excellent resource for backend developers focusing on microservices architecture.</td>
-        <td>Paid</td>
     </tr>
     <tr>
         <td><a href="https://www.oreilly.com/library/view/building-microservices/9781491950340/">Building Microservices by Sam Newman</a></td>
         <td>Sam Newman's book offers a deep dive into the microservices architecture, discussing design principles, best practices, and real-world examples. It’s essential for developers and architects aiming to implement microservices in their backend systems.</td>
-        <td>Paid</td>
     </tr>
     <tr>
         <td><a href="https://www.oreilly.com/library/view/clean-code-a/9780136083238/">Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin</a></td>
         <td>Clean Code focuses on writing readable, maintainable, and efficient code. It’s a must-read for backend developers who want to improve their coding standards and practices. The book covers various coding principles, refactoring techniques, and best practices.</td>
-        <td>Paid</td>
     </tr>
 </table>
 
