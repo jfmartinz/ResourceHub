@@ -14,6 +14,9 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 - [Interfacing with other languages](#interfacing-with-other-languages)
 - [Data Visulization](#data-visulization)
 - [Model Reduction](#model-reduction)
+- [Image Processing and Computer Vision](#image-processing-and-computer-vision)
+- [MATLAB for Data Analysis](#matlab-for-data-analysis)
+- [MATLAB for Hardware Integration](#matlab-for-hardware-integration)
 - [Online Courses](#online-courses)
 - [Communities](#communities)
 - [Books](#books)
@@ -377,6 +380,114 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
     </tr>
   </tbody>
 </table>
+
+### Image Processing and Computer Vision
+>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://uk.mathworks.com/products/computer-vision/">Computer Vision System Toolbox</a></td>
+      <td>The official computer vision toolbox from MathWorks.</td>
+    </tr>
+    <tr>
+      <td><a href="http://uk.mathworks.com/products/image/">Image Processing Toolbox</a></td>
+      <td>The official Image Processing Toolbox from MathWorks.</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.vlfeat.org/matconvnet/">MatConvNet</a></td>
+      <td>MatConvNet is a free MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/pdollar/toolbox">Piotr's Image and Video Toolbox</a></td>
+      <td>This free toolbox facilitates the manipulation of images and video in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.vlfeat.org/">VLFeat</a></td>
+      <td>The VLFeat free and open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kyamagu/mexopencv">MexOpenCV</a></td>
+      <td>MATLAB MEX interface for OpenCV, i.e., one of the leading libraries for computer vision.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sfikas/zah">Zoning Aggregated Hypercolumns for Keyword Spotting</a></td>
+      <td>An image descriptor, suitable for keyword spotting, that is computed as a function of Convolutional Neural Network intermediate layer responses.</td>
+    </tr>
+  </tbody>
+</table>
+
+### MATLAB for Data Analysis
+>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://in.mathworks.com/products/matlab/data-analysis.html">MATLAB - Data Analysis</a></td>
+      <td>Official page for MATLAB's data analysis capabilities.</td>
+    </tr>
+    <tr>
+      <td><a href="https://in.mathworks.com/help/matlab/ref/importdata.html">Importing Data</a></td>
+      <td>Documentation on importing data into MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://in.mathworks.com/help/icomm/data-manipulation-and-display.html">Data Manipulation</a></td>
+      <td>Documentation on manipulating data and its display in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://in.mathworks.com/learn/training/statistical-methods-in-matlab.html">Statistical Analysis</a></td>
+      <td>Training resources for statistical methods in MATLAB.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### MATLAB for Hardware Integration
+>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware">Arduino Support package</a></td>
+      <td>MATLAB Support Package for Arduino Hardware.</td>
+    </tr>
+    <tr>
+      <td><a href="https://de.mathworks.com/matlabcentral/fileexchange/33155-cpu-info">CPU Info</a></td>
+      <td>Read various bits of information about the CPU and operating system.</td>
+    </tr>
+    <tr>
+      <td><a href="http://uk.mathworks.com/products/matlab-mobile/">MATLAB Mobile</a></td>
+      <td>MATLAB on Android and iOS mobile phones and tablets.</td>
+    </tr>
+    <tr>
+      <td><a href="http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html">Raspberry Pi Support from MATLAB</a></td>
+      <td>Acquire sensor and image data from your connected Raspberry Pi.</td>
+    </tr>
+    <tr>
+      <td><a href="http://github.com/octave-de/octave-rpi-gpio">Raspberry Pi IO Support for Octave</a></td>
+      <td>Control Raspberry Pi GPIO Port from Octave.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Online Courses
 > Learn MATLAB through structured online courses.
