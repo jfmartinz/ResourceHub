@@ -571,6 +571,40 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>Covers essential tools and techniques for data manipulation, visualization, and analysis using Python.</td>
            <td>Paid</td>
       </tr>
+         <tr>
+      <td><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook</a></td>
+      <td>Authored by Jake VanderPlas and published by O'Reilly in 2016, this book spans 541 pages and serves as a comprehensive guide to data science with Python.</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="http://shop.oreilly.com/product/0636920050896.do">Python for Data Analysis</a></td>
+      <td>Written by William McKinney and published by O'Reilly in 2017 (second edition), this 544-page book focuses on using Python for data analysis purposes.</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec">Learning IPython for Interactive Computing and Data Analysis</a></td>
+      <td>Cyrille Rossant's book, published by Packt Publishing in 2015 (second edition), offers a comprehensive guide to using IPython for interactive computing and data visualization, spanning 200 pages.</td><td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/big-data-and-business-intelligence/ipython-interactive-computing-and-visualization-cookbook-second-e">IPython Interactive Computing and Visualization Cookbook</a></td>
+      <td>Cyrille Rossant's cookbook, published by Packt Publishing in 2018 (second edition), provides a collection of recipes for interactive computing and visualization with IPython, covering 548 pages.</td><td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.springer.com/gp/book/9783642549595">A Primer on Scientific Programming with Python</a></td>
+      <td>Authored by Hans Petter Langtangen and published by Springer in 2014, this 872-page book serves as a primer on scientific programming with Python.</td><td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.manning.com/books/exploring-data-with-python">Exploring Data with Python</a></td>
+      <td>Naomi Ceder's book, published by Manning in 2018, offers a concise exploration of data using Python, covering 110 pages.</td><td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.manning.com/books/deep-learning-with-python">Deep Learning with Python</a></td>
+      <td>François Chollet's book, published by Manning in 2017, delves into deep learning techniques using Python, spanning 384 pages.</td><td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition">Python Machine Learning</a></td>
+      <td>Sebastian Raschka and Vahid Mirjalili's book, published by Packt Publishing in 2017 (second edition), provides insights into machine learning using Python across 622 pages.</td><td>Free</td>
+    </tr>
 </table>
 
 ### Python Projects
