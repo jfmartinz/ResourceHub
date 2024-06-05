@@ -12,6 +12,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
    - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)<br>
    - [Core Python Libraries](#core-python-libraries)<br>
    - [Frameworks and Libraries](#frameworks-and-libraries)<br>
+   - [Data Visulization Libraries](#data-visualization-libraries)
+   - [3D visualization](#3d-visualization)
+   - [Image Processing](#image-processing)
+   - [Neural Networks](#neural-networks)
    - [Web Development with Flask](#web-development-with-flask)<br>
    - [Web Development with Django](#web-development-with-django)<br>
    - [Data Science and Machine Learning](#data-science-and-machine-learning)<br>
@@ -247,8 +251,88 @@ Python supports multiple programming paradigms, including procedural, object-ori
   </tbody>
 </table>
 
+#### 3D visualization
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://ipyvolume.readthedocs.io/en/latest/">ipyvolume</a></td>
+      <td>ipyvolume is a Python library for creating 3D visualizations in Jupyter notebooks. It enables interactive exploration of volumetric and 3D scatter plots.</td>
+    </tr>
+    <tr>
+      <td><a href="http://vispy.org/">VisPy</a></td>
+      <td>VisPy is a Python library for interactive, GPU-accelerated visualization. It allows for the creation of high-performance visualizations, particularly suited for large datasets.</td>
+    </tr>
+    <tr>
+      <td><a href="http://glumpy.github.io/">Glumpy</a></td>
+      <td>Glumpy is a Python library for scientific visualization using modern OpenGL. It provides a simple interface for creating high-performance visualizations, particularly for real-time data.</td>
+    </tr>
+    <tr>
+      <td><a href="https://vedo.embl.es/">vedo</a></td>
+      <td>vedo is a Python library for scientific analysis and visualization based on the Visualization Toolkit (VTK). It offers a wide range of visualization capabilities for exploring complex scientific datasets.</td>
+    </tr>
+  </tbody>
+</table>
 
 
+#### Image Processing
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://scikit-image.org/">scikit-image</a></td>
+      <td>scikit-image is a Python library for image processing tasks. It provides a collection of algorithms for image manipulation, filtering, segmentation, and feature extraction.</td>
+    </tr>
+    <tr>
+      <td><a href="https://pillow.readthedocs.io/en/latest/">Pillow</a></td>
+      <td>Pillow is a Python Imaging Library (PIL) fork, providing image processing capabilities for Python. It supports various image formats and provides tools for image manipulation and enhancement.</td>
+    </tr>
+    <tr>
+      <td><a href="https://opencv.org/">OpenCV</a></td>
+      <td>OpenCV is a widely-used computer vision library with extensive image processing capabilities. It offers a comprehensive set of tools for tasks such as image filtering, feature detection, object recognition, and more.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Neural Networks
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://pytorch.org/">PyTorch</a></td>
+      <td>PyTorch is a deep learning framework that provides tensor computation with GPU acceleration and automatic differentiation. It is widely used for building neural networks and conducting deep learning research.</td>
+    </tr>
+    <tr>
+      <td><a href="https://keras.io/">Keras</a></td>
+      <td>Keras is a high-level neural networks API, written in Python, capable of running on top of TensorFlow, Theano, or CNTK. It allows for easy and fast prototyping of neural network architectures.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tensorflow.org/">TensorFlow</a></td>
+      <td>TensorFlow is an open-source machine learning framework developed by Google. It provides tools for building and training neural networks, including deep learning models, with a focus on scalability and flexibility.</td>
+    </tr>
+    <tr>
+      <td><a href="http://caffe.berkeleyvision.org/">Caffe</a></td>
+      <td>Caffe is a deep learning framework developed by the Berkeley Vision and Learning Center. It is widely used for image classification, segmentation, and other computer vision tasks.</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Web Development with Flask
 
