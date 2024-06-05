@@ -25,7 +25,7 @@
   - [Microservices](#microservices)
   - [GraphQL](#graphql)
   - [WebSockets](#websockets)
-- [Ruby on Rails Projects](#ruby-on-rails-projects)
+- [Projects](#projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advanced Level Projects](#advanced-level-projects)
@@ -324,23 +324,23 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#active-support">Active Support</a></td>
+   <td><a href="https://medium.com/@john.osborne.odom/rails-active-support-b60ec04797ab">Active Support</a></td>
    <td>A collection of utility classes and standard library extensions that are used in the Rails framework and can be used independently in Ruby projects.</td>
  </tr>
  <tr>
-   <td><a href="#faker">Faker</a></td>
+   <td><a href="https://medium.com/@isaacfalkenstine/using-faker-in-a-rails-application-9f6667255b38">Faker</a></td>
    <td>A library for generating fake data such as names, addresses, and phone numbers, useful for testing and seeding databases.</td>
  </tr>
  <tr>
-   <td><a href="#nokogiri">Nokogiri</a></td>
+   <td><a href="https://rubygems.org/gems/nokogiri/versions/1.15.4?locale=en">Nokogiri</a></td>
    <td>An HTML, XML, SAX, and Reader parser with XPath and CSS selector support, useful for web scraping and data extraction tasks.</td>
  </tr>
  <tr>
-   <td><a href="#pundit">Pundit</a></td>
+   <td><a href="https://medium.com/@sustiono19/how-to-manage-authorization-using-pundit-gem-on-ruby-on-rails-69e119ebb256">Pundit</a></td>
    <td>A library providing a simple, robust, and scalable way to handle authorization in Rails applications using plain Ruby objects.</td>
  </tr>
  <tr>
-   <td><a href="#httparty">HTTParty</a></td>
+   <td><a href="https://rubygems.org/gems/httparty/versions/0.13.7?locale=en">HTTParty</a></td>
    <td>A simple and straightforward library for making HTTP requests in Ruby, making it easy to interact with APIs and web services.</td>
  </tr>
 </table>
@@ -352,23 +352,23 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#devise">Devise</a></td>
+   <td><a href="https://blog.appsignal.com/2023/07/12/an-introduction-to-devise-for-ruby-on-rails.html">Devise</a></td>
    <td>A flexible authentication solution for Rails based on Warden, providing ready-to-use authentication features and easy customization.</td>
  </tr>
  <tr>
-   <td><a href="#brakeman">Brakeman</a></td>
+   <td><a href="https://brakemanscanner.org/docs/introduction/">Brakeman</a></td>
    <td>A static analysis tool that checks Ruby on Rails applications for security vulnerabilities, helping to identify issues before deployment.</td>
  </tr>
  <tr>
-   <td><a href="#rack-attack">Rack Attack</a></td>
+   <td><a href="https://www.reddit.com/r/rails/comments/11uicu4/rackattack/">Rack Attack</a></td>
    <td>A middleware for Rack applications that allows you to block and throttle abusive requests, protecting against denial-of-service attacks and other malicious activities.</td>
  </tr>
  <tr>
-   <td><a href="#cancancan">CanCanCan</a></td>
+   <td><a href="https://medium.com/@learnwithalfred/rails-7-authorization-with-cancancan-gem-f3a29c01b3bd">CanCanCan</a></td>
    <td>An authorization library for Ruby on Rails that allows you to restrict what resources a given user is allowed to access.</td>
  </tr>
  <tr>
-   <td><a href="#omniauth">OmniAuth</a></td>
+   <td><a href="https://dev.to/connorholland54/setting-up-omniauth-2-0-in-rails-4oib">OmniAuth</a></td>
    <td>A library that standardizes multi-provider authentication for web applications, supporting a wide range of external authentication providers.</td>
  </tr>
 </table>
@@ -380,23 +380,23 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#rspec">RSpec</a></td>
+   <td><a href="https://semaphoreci.com/community/tutorials/getting-started-with-rspec">RSpec</a></td>
    <td>A testing framework for Ruby, designed for behavior-driven development (BDD), making it easy to write and execute tests for your Rails applications.</td>
  </tr>
  <tr>
-   <td><a href="#capybara">Capybara</a></td>
+   <td><a href="https://teamcapybara.github.io/capybara/">Capybara</a></td>
    <td>A library that helps you test web applications by simulating how a real user would interact with your app, often used with RSpec for integration testing.</td>
  </tr>
  <tr>
-   <td><a href="#factory-bot">Factory Bot</a></td>
+   <td><a href="https://medium.com/@mariacristina.simoes/my-introduction-to-factory-bot-88949467a7e9">Factory Bot</a></td>
    <td>A library for setting up Ruby objects as test data, making it easier to create and manage the data needed for testing.</td>
  </tr>
  <tr>
-   <td><a href="#minitest">Minitest</a></td>
+   <td><a href="https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-minitest">Minitest</a></td>
    <td>A complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking, included in the standard Ruby library.</td>
  </tr>
  <tr>
-   <td><a href="#simplecov">SimpleCov</a></td>
+   <td><a href="https://gklsan.medium.com/simplecov-gem-with-ruby-on-rails-9eb07b39bb77">SimpleCov</a></td>
    <td>A code coverage analysis tool for Ruby, providing a detailed report of which parts of your code are being tested and which are not.</td>
  </tr>
 </table>
@@ -410,19 +410,19 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#caching-strategies">Caching Strategies</a></td>
+   <td><a href="https://devcenter.heroku.com/articles/caching-strategies">Caching Strategies</a></td>
    <td>An overview of caching strategies in Rails, including fragment caching, Russian doll caching, and low-level caching, to improve application performance.</td>
  </tr>
  <tr>
-   <td><a href="#database-optimization">Database Optimization</a></td>
+   <td><a href="https://blog.heroku.com/rails-database-optimization">Database Optimization</a></td>
    <td>Techniques for optimizing database queries in Rails, such as using indexes, eager loading, and query optimization tips.</td>
  </tr>
  <tr>
-   <td><a href="#profiling-tools">Profiling Tools</a></td>
+   <td><a href="https://scoutapm.com/blog/which-rails-mini-profiler-is-right-for-you">Profiling Tools</a></td>
    <td>Introduction to various profiling tools available for Rails, such as rack-mini-profiler, bullet, and derailed_benchmarks, to identify and resolve performance bottlenecks.</td>
  </tr>
  <tr>
-   <td><a href="#background-jobs">Background Jobs</a></td>
+   <td><a href="https://medium.com/@hasnatraza.dev/rails-background-jobs-reconstruct-your-application-ccaef2860552">Background Jobs</a></td>
    <td>Guide to using background job frameworks like Sidekiq, Resque, and Delayed Job to offload long-running tasks from web requests and improve responsiveness.</td>
  </tr>
 </table>
@@ -434,23 +434,23 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#capistrano">Capistrano</a></td>
+   <td><a href="https://capistranorb.com/">Capistrano</a></td>
    <td>A remote server automation and deployment tool written in Ruby, used to automate the deployment of Rails applications.</td>
  </tr>
  <tr>
-   <td><a href="#docker">Docker</a></td>
+   <td><a href="https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application">Docker</a></td>
    <td>An introduction to containerizing Rails applications using Docker, enabling consistent and isolated environments for development, testing, and deployment.</td>
  </tr>
  <tr>
-   <td><a href="#kubernetes">Kubernetes</a></td>
+   <td><a href="https://kubernetes-rails.com/">Kubernetes</a></td>
    <td>A guide to deploying and managing Rails applications using Kubernetes, a powerful container orchestration platform.</td>
  </tr>
  <tr>
-   <td><a href="#heroku">Heroku</a></td>
+   <td><a href="https://devcenter.heroku.com/articles/getting-started-with-rails7">Heroku</a></td>
    <td>An overview of deploying Rails applications on Heroku, a cloud platform that simplifies app deployment and scaling.</td>
  </tr>
  <tr>
-   <td><a href="#aws">AWS for Rails</a></td>
+   <td><a href="https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ruby-rails-tutorial.html">AWS for Rails</a></td>
    <td>Guide to deploying Rails applications on Amazon Web Services (AWS), including using services like EC2, RDS, and S3.</td>
  </tr>
 </table>
@@ -462,19 +462,19 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#microservices-architecture">Microservices Architecture</a></td>
+   <td><a href="https://www.toptal.com/ruby/how-to-set-up-a-microservices-architecture">Microservices Architecture</a></td>
    <td>An introduction to microservices architecture, its benefits, and how it contrasts with monolithic architecture in the context of Rails applications.</td>
  </tr>
  <tr>
-   <td><a href="#service-oriented-rails">Service-Oriented Rails</a></td>
+   <td><a href="https://medium.com/@thilorusche/service-objects-for-rails-9c5973dc8bc2">Service-Oriented Rails</a></td>
    <td>Guide to structuring Rails applications using a service-oriented architecture, including best practices and common patterns.</td>
  </tr>
  <tr>
-   <td><a href="#communication-between-services">Communication Between Services</a></td>
+   <td><a href="https://medium.com/matic-insurance/communication-layer-design-for-ruby-microservices-98b388174aef">Communication Between Services</a></td>
    <td>Explanation of different methods for communication between microservices, such as REST, gRPC, and message queues.</td>
  </tr>
  <tr>
-   <td><a href="#testing-microservices">Testing Microservices</a></td>
+   <td><a href="https://www.parasoft.com/blog/what-are-different-types-of-tests-for-microservices/">Testing Microservices</a></td>
    <td>Best practices for testing microservices, including integration testing, contract testing, and end-to-end testing strategies.</td>
  </tr>
 </table>
@@ -486,19 +486,19 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#graphql-introduction">Introduction to GraphQL</a></td>
+   <td><a href="https://www.tutorialspoint.com/graphql/graphql_introduction.htm">Introduction to GraphQL</a></td>
    <td>An overview of GraphQL, its benefits, and how it compares to traditional REST APIs.</td>
  </tr>
  <tr>
-   <td><a href="#graphql-ruby">GraphQL Ruby</a></td>
+   <td><a href="https://graphql-ruby.org/">GraphQL Ruby</a></td>
    <td>Guide to setting up and using the graphql-ruby gem to build GraphQL APIs in Rails applications.</td>
  </tr>
  <tr>
-   <td><a href="#graphql-queries">GraphQL Queries and Mutations</a></td>
+   <td><a href="https://medium.com/@jerridan/implementing-graphql-subscriptions-in-rails-and-react-9e05ca8d6b20">GraphQL Queries and Mutations</a></td>
    <td>Explanation of how to define and use queries and mutations in GraphQL to interact with your Rails application's data.</td>
  </tr>
  <tr>
-   <td><a href="#graphql-subscriptions">GraphQL Subscriptions</a></td>
+   <td><a href="https://www.keypup.io/blog/graphql-the-rails-way-part-3-subscriptions-with-websockets-via-pusher">GraphQL Subscriptions</a></td>
    <td>Guide to implementing real-time features using GraphQL subscriptions in a Rails application.</td>
  </tr>
 </table>
@@ -510,19 +510,19 @@ Let's expand the Introduction section with more detailed resources. Here is the 
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#action-cable">Action Cable</a></td>
+   <td><a href="https://dev.to/lucaskuhn/a-simple-guide-to-action-cable-2dk2">Action Cable</a></td>
    <td>An introduction to Action Cable, the WebSocket framework included with Rails, for creating real-time features in your application.</td>
  </tr>
  <tr>
-   <td><a href="#setup-websockets">Setting Up WebSockets</a></td>
+   <td><a href="https://blog.heroku.com/real_time_rails_implementing_websockets_in_rails_5_with_action_cable">Setting Up WebSockets</a></td>
    <td>Guide to setting up WebSocket support in a Rails application, including configuration and deployment tips.</td>
  </tr>
  <tr>
-   <td><a href="#real-time-features">Building Real-Time Features</a></td>
+   <td><a href="https://www.squash.io/harnessing-websockets-for-real-time-features-in-rails/">Building Real-Time Features</a></td>
    <td>Examples and best practices for building real-time features in Rails applications using WebSockets and Action Cable.</td>
  </tr>
  <tr>
-   <td><a href="#scaling-websockets">Scaling WebSockets</a></td>
+   <td><a href="https://dev.to/sw360cab/scaling-websockets-in-the-cloud-part-1-from-socket-io-and-redis-to-a-distributed-architecture-with-docker-and-kubernetes-17n3">Scaling WebSockets</a></td>
    <td>Strategies for scaling WebSocket connections in a Rails application, including tips on using Redis and other backend systems.</td>
  </tr>
 </table>
