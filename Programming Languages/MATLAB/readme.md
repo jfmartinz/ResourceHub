@@ -11,8 +11,9 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Advanced MATLAB](#advanced-matlab)
-- [Data Visulization](#data-visulization)
 - [Interfacing with other languages](#interfacing-with-other-languages)
+- [Data Visulization](#data-visulization)
+- [Model Reduction](#model-reduction)
 - [Online Courses](#online-courses)
 - [Communities](#communities)
 - [Books](#books)
@@ -144,47 +145,6 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
   </tbody>
 </table>
 
-### Interfacing with other languages
->
-
-<table>
-  <thead>
-    <tr>
-      <th>Resource Name</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="http://uk.mathworks.com/help/matlab/write-cc-mex-files.html">C/C++ mex routines</a></td>
-      <td>C/C++ MEX files allow you to call C/C++ functions from within MATLAB.</td>
-    </tr>
-    <tr>
-      <td><a href="http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html">Fortran mex routines</a></td>
-      <td>Fortran MEX routines allow you to call Fortran code from within MATLAB.</td>
-    </tr>
-    <tr>
-      <td><a href="http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html">MATLAB Engine for Python</a></td>
-      <td>The MATLAB Engine for Python provides a Python package named <code>matlab</code> that enables you to call MATLAB functions from within Python.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/calysto/matlab_kernel">matlab kernel</a></td>
-      <td>To run MATLAB code inside IPython / Jupyter notebooks.</td>
-    </tr>
-    <tr>
-      <td><a href="http://matlink.org/">MATLink</a></td>
-      <td>To run MATLAB code inside Mathematica / Wolfram Language notebooks.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/zeybek/node-matlab">node-matlab</a></td>
-      <td>To run MATLAB code inside NodeJS.</td>
-    </tr>
-    <tr>
-      <td><a href="http://uk.mathworks.com/help/matlab/call-python-libraries.html">Python</a></td>
-      <td>How to call Python functions from within MATLAB.</td>
-    </tr>
-  </tbody>
-</table>
 
 ### Advanced MATLAB 
 
@@ -239,6 +199,48 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
   </tbody>
 </table>
 
+### Interfacing with other languages
+>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://uk.mathworks.com/help/matlab/write-cc-mex-files.html">C/C++ mex routines</a></td>
+      <td>C/C++ MEX files allow you to call C/C++ functions from within MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html">Fortran mex routines</a></td>
+      <td>Fortran MEX routines allow you to call Fortran code from within MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html">MATLAB Engine for Python</a></td>
+      <td>The MATLAB Engine for Python provides a Python package named <code>matlab</code> that enables you to call MATLAB functions from within Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/calysto/matlab_kernel">matlab kernel</a></td>
+      <td>To run MATLAB code inside IPython / Jupyter notebooks.</td>
+    </tr>
+    <tr>
+      <td><a href="http://matlink.org/">MATLink</a></td>
+      <td>To run MATLAB code inside Mathematica / Wolfram Language notebooks.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/zeybek/node-matlab">node-matlab</a></td>
+      <td>To run MATLAB code inside NodeJS.</td>
+    </tr>
+    <tr>
+      <td><a href="http://uk.mathworks.com/help/matlab/call-python-libraries.html">Python</a></td>
+      <td>How to call Python functions from within MATLAB.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Data Visulization
 >
@@ -278,6 +280,103 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
   </tbody>
 </table>
 
+### Model Reduction
+>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://lvdmaaten.github.io/drtoolbox/">drtoolbox</a></td>
+      <td>Matlab Toolbox for Dimensionality Reduction.</td>
+    </tr>
+    <tr>
+      <td><a href="http://dmdbook.com/CODE.zip">DMD Book</a></td>
+      <td>Dynamic Mode Decomposition Book Companion Code.</td>
+    </tr>
+    <tr>
+      <td><a href="http://gramian.de">emgr</a></td>
+      <td>EMpirical GRamian framework for model reduction of input-output systems.</td>
+    </tr>
+    <tr>
+      <td><a href="http://git.io/hapod">hapod</a></td>
+      <td>Hierarchical Approximate Proper Orthogonal Decomposition.</td>
+    </tr>
+    <tr>
+      <td><a href="https://mordigitalsystems.fr/en/">MOR Toolbox</a></td>
+      <td>Model Reduction Toolbox for MATLAB (formerly: MORE - a MOdel REduction Toolbox).</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.ians.uni-stuttgart.de/MoRePaS/software/kermor/">KerMor</a></td>
+      <td>Model order reduction for nonlinear dynamical systems and nonlinear approximation.</td>
+    </tr>
+    <tr>
+      <td><a href="https://git.io/morgen">morgen</a></td>
+      <td>Model Order Reduction for Gas and Energy Networks.</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.mpi-magdeburg.mpg.de/1657682/morlab">MORLAB</a></td>
+      <td>Model Order Reduction Laboratory.</td>
+    </tr>
+    <tr>
+      <td><a href="http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_maschinenwesen/ifkm/dmt/forschung/forschungsthemen/morpack">MORPACK</a></td>
+      <td>Model Order Reduction PACKage.</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.mpi-magdeburg.mpg.de/projects/mess">MESS</a></td>
+      <td>The Matrix Equations Sparse Solvers library, is the successor to the Lyapack Toolbox.</td>
+    </tr>
+    <tr>
+      <td><a href="https://web.archive.org/web/20080727002739/http://scowl.ge.uiuc.edu/~ssivakum/research.html">MRedTool</a></td>
+      <td>A MATLAB toolbox for model reduction of multi-dimensional systems.</td>
+    </tr>
+    <tr>
+      <td><a href="http://homepages.rpi.edu/~hahnj/Model_Reduction">Nonlinear Model Reduction Routines for MATLAB</a></td>
+      <td>Empirical balanced truncation toolbox.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.mathworks.com/matlabcentral/fileexchange/64392-psssmor-toolbox">psssMOR</a></td>
+      <td>A parametric sparse state-space and Model Order Reduction toolbox.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.morepas.org/software/rbmatlab/">RBmatlab</a></td>
+      <td>A MATLAB library for model order reduction with Reduced Basis Methods.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/redbKIT/redbKIT">redBKIT</a></td>
+      <td>A MATLAB library for reduced-order modeling of parametrized PDEs.</td>
+    </tr>
+    <tr>
+      <td><a href="http://simplifytoolbox.tumblr.com/">SiMpLIfy</a></td>
+      <td>Structured ModeL reduction.</td>
+    </tr>
+    <tr>
+      <td><a href="http://slicot.org/matlab-toolboxes/model-reduction">SLICOT</a></td>
+      <td>SLICOT Model and Controller Reduction Toolbox.</td>
+    </tr>
+    <tr>
+      <td><a href="https://web.archive.org/web/20151115030532/http://bnbond.com/software/smores/">SMORES</a></td>
+      <td>A Matlab tool for Simulation and Model Order Reduction of Electrical Systems.</td>
+    </tr>
+    <tr>
+      <td><a href="http://doi.org/10.5281/zenodo.3332706">SOMDDPA</a></td>
+      <td>Second-Order Modally-Damped Dominant Pole Algorithm.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MORLab/sssMOR">sssMOR</a></td>
+      <td>Sparse state space and Model Order Reduction toolbox.</td>
+    </tr>
+    <tr>
+      <td><a href="http://sumo.intec.ugent.be/SUMO">SUMO</a></td>
+      <td>SUrrogate MOdelling lab.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Online Courses
 > Learn MATLAB through structured online courses.
