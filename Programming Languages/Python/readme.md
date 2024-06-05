@@ -203,6 +203,53 @@ Python supports multiple programming paradigms, including procedural, object-ori
   </tr>
 </table>
 
+#### Data visualization Libraries
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://bokeh.pydata.org/en/latest/">Bokeh</a></td>
+      <td>Bokeh provides interactive visualization tools for web browsers, enabling elegant and concise construction of versatile graphics.</td>
+    </tr>
+    <tr>
+      <td><a href="https://altair-viz.github.io/">Altair</a></td>
+      <td>Altair offers a declarative statistical visualization library in Python, allowing users to build elegant visualizations with minimal effort.</td>
+    </tr>
+    <tr>
+      <td><a href="https://seaborn.pydata.org/">seaborn</a></td>
+      <td>seaborn is a Python library for statistical data visualization based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bloomberg/bqplot">bqplot</a></td>
+      <td>bqplot is a 2D interactive data visualization library in Jupyter, providing a high-level plotting system for complex, interactive visualizations.</td>
+    </tr>
+    <tr>
+      <td><a href="https://plotnine.readthedocs.io/">plotnine</a></td>
+      <td>plotnine is a Python implementation of the Grammar of Graphics, based on the ggplot2 library in R. It allows users to create complex plots with a concise syntax.</td>
+    </tr>
+    <tr>
+      <td><a href="https://plot.ly/python/">plotly</a></td>
+      <td>plotly is a Python library for creating interactive, publication-quality graphs and figures, ideal for visualizing data on the web.</td>
+    </tr>
+    <tr>
+      <td><a href="http://holoviews.org/">HoloViews</a></td>
+      <td>HoloViews is a Python library for building complex visualizations easily. It provides a high-level approach for constructing interactive visualizations from data.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/napari/napari">Napari</a></td>
+      <td>Napari is a multi-dimensional image viewer for Python, offering an intuitive interface for visualizing and analyzing multi-dimensional data.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 #### Web Development with Flask
 
 <table width="100%">
