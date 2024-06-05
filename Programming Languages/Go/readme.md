@@ -4,11 +4,11 @@ Go, commonly referred to as Golang, is an open-source programming language devel
 ## Table of Contents
 
 - [Roadmap](#roadmap)<br>
-- [Tutorials](#tutorials)<br>
+- [Go](#go)<br>
    - [Introduction](#introduction)<br>
    - [Fundamentals](#fundamentals)<br>
    - [Functions](#functions)<br>
-   - [Arrays,Slices and Maps](#arrays-slices-and-maps)<br>
+   - [Arrays, Slices and Maps](#arrays-slices-and-maps)<br>
    - [Structs and Methods](#structs-and-methods)<br>
    - [Concurrency](#concurrency)<br>
    - [Packages and Modules](#packages-and-modules)<br>
@@ -18,13 +18,13 @@ Go, commonly referred to as Golang, is an open-source programming language devel
    - [Web Development](#web-development)<br>
 - [Tools](#tools)<br>
 - [Advanced Topics](#advanced-topics)<br>
-- [Go Projects](#Go-projects)
+- [Projects](#projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
 - [Courses](#courses)
-   - [Free Certification Courses](#free-certification-courses)
-   - [Paid Certification Courses](#paid-certification-courses)
+   - [Free Courses](#free-courses)
+   - [Paid Courses](#paid-courses)
 - [Youtube](#youtube)<br>
 - [Conclusion](#conclusion)
 
@@ -43,7 +43,7 @@ Go, commonly referred to as Golang, is an open-source programming language devel
       </tr>
   </table>
 
-## Tutorials
+## Go
 
 > Offers step-by-step guides and tutorials covering various aspects of Go programming.
 Helps beginners understand fundamental concepts and advanced users explore new techniques.
@@ -143,7 +143,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-### Arrays,Slices and Maps
+### Arrays, Slices and Maps
 
 <table width="100%">
   <tr>
@@ -380,10 +380,10 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Go Projects
+## Projects
 > Here are some great ideas for projects in Go from beginner level to the advance level.
 
-#### Beginner Level Projects
+### Beginner Level Projects
 
    <table>
         <tr>
@@ -416,7 +416,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
         </tr>
     </table>
 
-  #### Intermediate Level Projects
+  ### Intermediate Level Projects
 
    <table>
         <tr>
@@ -441,7 +441,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
         </tr>
     </table>
 
-   #### Advance Level Projects
+   ### Advance Level Projects
 
    <table>
         <tr>
@@ -469,7 +469,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 ## Courses
 > Here are some free and paid courses you may consider:
 
-#### Free Certification Courses
+### Free Courses
 
 <table>
   <tr>
@@ -490,7 +490,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-#### Paid Certification Courses
+### Paid Courses
 
 <table>
   <tr>
