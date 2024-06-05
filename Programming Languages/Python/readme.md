@@ -678,6 +678,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>This 100 Days of Code - Learn Python playlist by Replit is an excellent resource for those who are interested in learning Python. In this course, you will build games, apps, and websites by mastering Python programming. 
          </td>
       </tr>
+      
 </table>
 
 ### Conclusion
