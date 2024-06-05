@@ -1861,7 +1861,11 @@ This section contains hundreds of coding challenges that test your knowledge of 
 #### Creating Web Apps with MEAN Stack
 
 <table width="100%">
-
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
         <td><a href="https://www.mongodb.com/resources/languages/mean-stack"> Introduction to MEAN stack</a></td>
         <td>
          This link helps you to discover what the MEAN stack is, how it can be used and works, the pros and cons of the MEAN stack.
