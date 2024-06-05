@@ -9,7 +9,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
 - [Roadmap](#roadmap)
   - [C++ Developer Roadmap I](#roadmap)
   - [C++ Developer Roadmap II](#roadmap)
-- [Tutorials](#tutorial)
+- [C++](#c)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Arrays and Strings in C++](#arrays-and-strings-in-c)
@@ -23,7 +23,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
   - [Tools and IDEs for C++](#tools-and-ides-for-c)
   - [Online editors and Compilers for C++](#online-editors-and-compilers-for-c)
 - [Advance Topics](#advanced-topics)
-- [Networking and Socket Programming in C++](#networking-and-socket-programming-in-c++)
+- [Networking and Socket Programming in C++](#networking-and-socket-programming-in-c)
 - [STL (Standard Template Library)](#stl-standard-template-library)
 - [Design Patterns](#design-patterns)
 - [Modern C++ (C++11 and beyond)](#modern-c-c11-and-beyond)
@@ -43,12 +43,12 @@ This section is a curated collection of valuable C++ resources for absolute begi
 - [Youtube Channels](#youtube-channels)
 - [Youtube Playlists](#youtube-playlists)
 - [Courses](#courses)
-  - [Free Certification Cources](#free-certification-courses)
-  - [Paid Certification Cources](#paid-certification-courses)
+  - [Free Cources](#free-courses)
+  - [Paid Cources](#paid-courses)
 - [Interview Preparations](#interview-preparation)
-- [Coding platforms](#coding-platforms-for-c)
-- [C++ Communities](#c-communities)
-- [C++ CheatSheets](#c-cheatsheet)
+- [Coding platforms](#coding-platforms)
+- [Communities](#communities)
+- [CheatSheets](#cheatsheet)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -69,7 +69,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
   </tr>
 </table>
 
-### Tutorials
+### C++
 > Start your journey into C++ programming with these essential resources.
 
 ### Introduction
@@ -1154,7 +1154,7 @@ Writing to Files File Streams input and output operations in C++.</td>
 ### Courses
 > Here are some Certification Courses 
 
-### Free Certification Courses
+### Free Courses
 
 <table width="100%">
   <tr>
@@ -1187,7 +1187,7 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
-### Paid Certification Courses
+### Paid Courses
 
 <table width="100%">
   <tr>
@@ -1250,7 +1250,7 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
-### Coding Platforms for C++
+### Coding Platforms 
 
 <table width="100%">
   <tr>
@@ -1299,7 +1299,7 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
-### C++ Communities
+### Communities
 
 <table width="100%">
   <tr>
@@ -1320,7 +1320,7 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
-### C++ CheatSheet
+### CheatSheet
 > This is a C++ programming cheat sheet. It is useful for beginners and intermediates looking to learn or revise the concepts of C++ programming. While learning a new language, it feels annoying to switch pages and find different websites for different concepts that are easily understandable.
 
 <table width="100%">

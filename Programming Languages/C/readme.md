@@ -765,7 +765,7 @@ This section serves as a curated collection of valuable resources for learning a
     <td>A beginner-friendly tutorial on C programming, providing step-by-step explanations of concepts with examples.</td>
   </tr>
   <tr>
-    <td><a href="https://www.freecodecamp.org/news/learn-c-c-from-scratch/">freeCodeCamp - Learn C and C++ from Scratch</a></td>
+    <td><a href="https://www.freecodecamp.org/news/the-c-beginners-handbook/">freeCodeCamp - The C Beginner's Handbook</a></td>
     <td>A beginner's guide to learning C programming, starting from the basics and progressing to advanced topics.</td>
   </tr>
 </table>
