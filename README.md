@@ -58,7 +58,7 @@ ResourceHub is built using the following technologies:
 
 > Website URL: [ResourceHub](https://resourcehubwebsite.vercel.app/)
 
-## GSSoC'24
+## Organization
 ![gssoc](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fqJaH_oISOR96gLgpJBwWQ.png)
 ResourceHub is participating in GirlScript Summer of Code (GSSoC), an annual open-source program by the GirlScript Foundation. GSSoC promotes gender diversity and inclusion in tech by enabling participants to contribute to various projects under expert mentorship. We are excited to collaborate with talented individuals and advance our project through this initiative.
 ## How to contribute
