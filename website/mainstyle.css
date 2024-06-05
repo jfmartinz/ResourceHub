@@ -2054,27 +2054,28 @@ body.light-mode {
 
 /* Scroll Bar Styling */
 
-::-webkit-scrollbar {
+body::-webkit-scrollbar {
 	width: 0.5rem;
 	scroll-behavior: smooth;
 }
 
-::-webkit-scrollbar-track {
+body::-webkit-scrollbar-track {
 	background: transparent;
 }
 
-::-webkit-scrollbar-thumb {
+body::-webkit-scrollbar-thumb {
 	background: linear-gradient(45deg, #dbeafe, #2563eb);
 	border-radius: 25px;
 }
 
-::-webkit-scrollbar-thumb:hover {
+body::-webkit-scrollbar-thumb:hover {
 	border: 1px solid #2563eb;
 }
 
 .hide-scroll::-webkit-scrollbar-thumb {
 	display: none;
 }
+
 .scrollToTopBtn {
 	position: fixed;
 	bottom: 40px;
