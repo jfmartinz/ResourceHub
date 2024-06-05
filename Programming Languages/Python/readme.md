@@ -459,6 +459,59 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+      <table>
+    <tr>
+      <td><a href="https://berkeley-stat159-f17.github.io/stat159-f17/index.html">Stat 159/259, Reproducible and Collaborative Data Science</a></td>
+      <td>Fernando Perez, Berkeley University, 2017.</td>
+    </tr>
+    <tr>
+      <td><a href="https://web.stanford.edu/~schmit/cme193/">CME 193, Introduction to Scientific Python</a></td>
+      <td>Stanford University, Sven Schmit, 2015.</td>
+    </tr>
+    <tr>
+      <td><a href="https://online-learning.harvard.edu/course/using-python-research">Using Python for Research</a></td>
+      <td>Jukka-Pekka Onnela, Harvard University Online Learning.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.city.ac.uk/courses/short-courses/introduction-to-data-analysis-and-machine-learning-with-python">Introduction to Data Analytics and Machine Learning with Python</a></td>
+      <td>University of London.</td>
+    </tr>
+    <tr>
+      <td><a href="http://bender.astro.sunysb.edu/classes/python-science/">PHY 546: Python for Scientific Computing</a></td>
+      <td>Stony Brook University, Michael Zingale, 2018.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cuttlefishh/python-for-data-analysis">Python for Data Analysis</a></td>
+      <td>Luke Thompson, NOAA.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.coursera.org/specializations/data-science-python">Coursera Data Science with Python</a></td>
+      <td>University of Michigan.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.edx.org/course/python-for-data-science">edX Python for Data Science</a></td>
+      <td>UC San Diego, Ilkay Altintas, Leo Porter.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x">edX Foundations of Data Science: Computational Thinking with Python</a></td>
+      <td>UC Berkeley, Ani Adhikari, John DeNero, David Wagner.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.python-course.eu/index.php">Python Course</a></td>
+      <td>Bernd Klein.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">Intro to Python for Data Science</a></td>
+      <td>DataCamp, Filip Schouwenaars.</td>
+    </tr>
+    <tr>
+      <td><a href="https://wiki.python.org/moin/SchoolsUsingPython">Schools using Python</a></td>
+      <td>on python.org.</td>
+    </tr>
+    <tr>
+      <td><a href="https://programiz.pro/course/python-numpy-for-data-science">Python NumPy for Data Science</a></td>
+      <td>by Programiz PRO.</td>
+    </tr>
        <tr>
         <td> <a href = "https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/"> Freecodecamp</a> </td>
         <td> Learn Python from scratch to advanced proficiency with hands-on exercises and real-world projects in this comprehensive course.</td>
