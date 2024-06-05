@@ -916,7 +916,17 @@ Here's the updated table:
     <td><a href="https://www.javatpoint.com/inventory-management-system">Inventory Management System</a></td>
     <td>Build a system for tracking inventory levels, orders, sales, and deliveries for a business.</td>
   </tr>
-  
+   <tr>
+    <td><a href="https://github.com/shahbazakon/Resume_Builder">Resume Builder</a></td>
+    <td> The Resume Builder project is a practical  Java application designed to assist users in creating professional resumes 
+         efficiently. This project offers programmers an opportunity to apply their Java skills while developing a useful tool for 
+         individuals seeking to showcase their qualifications and experiences effectively.</td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/MalakaMadushan/Vehicle-Rental-Management-System">Vehicle Rental Management System</a></td>
+    <td> The Vehicle Rental Management System is a comprehensive  Java application designed to streamline the process of managing 
+         vehicle rentals for rental agencies or businesses</td>
+  </tr>
 </table>
 
 ### Advance Level Projects
@@ -961,6 +971,12 @@ Here's the updated table:
     <td><a href="https://github.com/pixee/java-security-toolkit">Network Security Toolkit</a></td>
     <td>Develop a toolkit for network security analysis and penetration testing, implementing various algorithms and techniques for network scanning, vulnerability assessment, and intrusion detection.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/HouariZegai/QRCodeFX">QRCodeFX</a></td>
+    <td>QRCodeFX is an exciting  Java project that allows programmers to generate QR codes dynamically. This project leverages JavaFX, 
+         a powerful library for building graphical user interfaces, to create an interactive application for generating and displaying 
+         QR codes.</td>
+  </tr>
 </table>
 
 ### Interview Preparation
@@ -999,6 +1015,10 @@ Here's the updated table:
   <tr>
     <td><a href="https://www.glassdoor.com/Interview/java-developer-interview-questions-SRCH_KO0,14.htm">Glassdoor - Java Developer Interview Questions</a></td>
     <td>Real interview experiences and questions shared by candidates who interviewed for Java developer positions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/corejava-interview-questions"> Javapoint - 300 Core Java Interview Questions</a></td>
+    <td> Frequently asked questions by the interviewer for Java developer position.</td>
   </tr>
 </table>
 
