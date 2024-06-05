@@ -212,6 +212,10 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td><a href="https://www.proelevate.in/dsa-practice/arsh-dsa-sheet">Arsh DSA Sheet </a></td>
 <td> This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh DSA sheet covers almost every concept of DSA which will help in understanding DSA concepts in depth. It will also help you to clear the interview rounds of DSA as these questions have been asked in most recent interviews of big tech companies. </td>
 </tr>
+<tr>
+<td><a href="https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0">Apna college DSA Sheet</a></td>
+<td>This DSA sheet consists of nearly 415 dsa questions which are partioned topic-wise . This sheet was proposed by Shradha Didi from Apna College(A youtube channel)</td>
+</tr>
 </table>
 
 ###  Conclusion
