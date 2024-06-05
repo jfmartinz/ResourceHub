@@ -13,7 +13,7 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [AngularJS](#angularjs)
    - [Introduction](#introduction)
    - [Fundamentals](#fundamentals)
    - [Asynchronous Programming](#asynchronous-programming)
@@ -52,16 +52,15 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
    - [YouTube Channels](#youtube-channels)
    - [YouTube Playlists](#youtube-playlists)
 - [Courses](#courses)
-   - [Free Certification Courses](#free-certification-courses)
-   - [Paid Certification Courses](#paid-certification-courses)
+   - [Free Courses](#free-courses)
+   - [Paid Courses](#paid-courses)
 - [Additional Resources](#additional-resources)
-   - [AngularJS Communities](#angularjs-communities)
-   - [AngularJS Books](#angularjs-books)
+   - [Communities](#communities)
+   - [Books](#books)
 - [Conclusion](#conclusion)
 
 ## Roadmap
 > Navigate your AngularJS learning journey with a structured roadmap designed to guide you from beginner to advanced levels of proficiency.
-
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -73,7 +72,8 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
 </tr>
 </table>
 
-## Tutorials
+
+## AngularJS
 > Explore a range of tutorials tailored to different skill levels and learning objectives in AngularJS development. From introductory guides to advanced techniques, these tutorials cover essential concepts and practical examples to help you master AngularJS.
 
 ### Introduction
@@ -976,7 +976,7 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
 ## Courses
 > Explore a variety of courses tailored to different learning preferences and skill levels in AngularJS development. Whether you're looking for free certification courses or paid options, there's something for everyone to enhance their expertise.
 
-### Free Certification Courses
+### Free Courses
 
 <table width="100%">
  <tr>
@@ -1001,7 +1001,7 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
  </tr>
 </table>
 
-### Paid Certification Courses
+### Paid Courses
 
 <table width="100%">
  <tr>
@@ -1029,7 +1029,7 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
 ## Additional Resources
 >In this section, you'll find supplementary materials to enrich your understanding and expertise in AngularJS. Explore various online communities and forums dedicated to AngularJS, providing platforms for developers to engage, seek assistance, and exchange insights. Additionally, discover a curated list of recommended books and resources tailored to different skill levels, offering comprehensive coverage of AngularJS concepts, techniques, and best practices.
 
-### AngularJS Communities
+### Communities
 
 <table width="100%">
  <tr>
@@ -1050,7 +1050,7 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
  </tr>
 </table>
 
-### AngularJS Books
+### Books
 
 <table width="100%">
  <tr>

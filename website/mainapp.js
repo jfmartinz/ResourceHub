@@ -170,27 +170,27 @@ document.addEventListener("DOMContentLoaded", async function () {
     const loading1 = document.getElementById("loading1");
     loading.innerHTML = `<h1 class="loading">Loading</h1>`;
 
-    fetch(url, {
-      headers: {
-        Authorization: `Bearer ${token}`,
-      },
-    })
-      .then((response) => {
-        if (response.status === 403) {
-          // If rate limit exceeded, parse the Retry-After header to calculate wait time
-          const retryAfter = parseInt(response.headers.get("Retry-After"));
-          if (retryAfter) {
-            console.log(
-              `Rate limit exceeded. Retrying after ${retryAfter} seconds.`
-            );
-            setTimeout(() => fetchGitHubData(url), retryAfter * 1000);
-          } else {
-            console.error(
-              "Rate limit exceeded. No Retry-After header present."
-            );
-          }
-        } else if (!response.ok) {
-          loading.innerHTML = `
+		fetch(url, {
+			headers: {
+				Authorization: `Bearer ${token}`,
+			},
+		})
+			.then((response) => {
+				if (response.status === 403) {
+					// If rate limit exceeded, parse the Retry-After header to calculate wait time
+					const retryAfter = parseInt(response.headers.get("Retry-After"));
+					if (retryAfter) {
+						console.log(
+							`Rate limit exceeded. Retrying after ${retryAfter} seconds.`
+						);
+						setTimeout(() => fetchGitHubData(url), retryAfter * 1000);
+					} else {
+						console.error(
+							"Rate limit exceeded. No Retry-After header present."
+						);
+					}
+				} else if (!response.ok) {
+					loading.innerHTML = `
             <p style="font-size: x-large;">Error while fetching...  <button onclick="window.location.reload()">Retry</button> </p>`;
           throw new Error(`HTTP error! status: ${response.status}`);
         } else {
@@ -229,49 +229,50 @@ document.addEventListener("DOMContentLoaded", async function () {
                 const card = document.createElement("div");
                 card.className = "card-content hover:text-black ";
                 card.innerHTML = `
+
                 <div class="card hover:text-black glow-on-hover">
                 <p class="font-semibold z-10 text-center hover:text-black text-xs sm:text-xs md:text-xl lg:text-2xl xl:text-3xl 2xl:text-5xl text-neutral-300">${file.name}</p>
 
                 </div>
                 `;
-                // Modify the click event for each card
-                if (readmeData.message != "Not Found")
-                  card.onclick = function () {
-                    console.log(readmeData);
+								// Modify the click event for each card
+								if (readmeData.message != "Not Found")
+									card.onclick = function () {
+										console.log(readmeData);
 
-                    // Save README content in sessionStorage
-                    sessionStorage.setItem(
-                      "readmeContent",
-                      atob(readmeData.content)
-                    );
-                    sessionStorage.setItem("filename", file.name);
-                    // Open the content-display.html page
-                    window.location.href = "content-display.html";
-                  };
-                else
-                  card.onclick = function () {
-                    console.log("Not Found");
-                    fetchGitHubData(
-                      `https://api.github.com/repos/jfmartinz/ResourceHub/contents/${file.path}/`
-                    );
-                    // window.location.reload();
-                  };
+										// Save README content in sessionStorage
+										sessionStorage.setItem(
+											"readmeContent",
+											atob(readmeData.content)
+										);
+										sessionStorage.setItem("filename", file.name);
+										// Open the content-display.html page
+										window.location.href = "content-display.html";
+									};
+								else
+									card.onclick = function () {
+										console.log("Not Found");
+										fetchGitHubData(
+											`https://api.github.com/repos/jfmartinz/ResourceHub/contents/${file.path}/`
+										);
+										// window.location.reload();
+									};
 
-                cardContainer.appendChild(card);
-              })
-              .catch((readmeError) =>
-                console.error("Error fetching README: ", readmeError)
-              );
-          });
-        }
-      })
-      .catch((error) => console.error("Error fetching data: ", error));
-  }
+								cardContainer.appendChild(card);
+							})
+							.catch((readmeError) =>
+								console.error("Error fetching README: ", readmeError)
+							);
+					});
+				}
+			})
+			.catch((error) => console.error("Error fetching data: ", error));
+	}
 
-  // Initial fetch call
-  fetchGitHubData(
-    "https://api.github.com/repos/jfmartinz/ResourceHub/contents/"
-  );
+	// Initial fetch call
+	fetchGitHubData(
+		"https://api.github.com/repos/jfmartinz/ResourceHub/contents/"
+	);
 });
 
 let originalCards = [];
@@ -308,7 +309,6 @@ function filterCards() {
   });
 
   // To check if any cards are displayed
-}
 
 // Ensure the filterCards function runs initially after DOM content is loaded
 document.addEventListener("DOMContentLoaded", filterCards);
@@ -317,23 +317,24 @@ document.addEventListener("DOMContentLoaded", filterCards);
 
 // Load Lottie animation
 var animation = lottie.loadAnimation({
-  container: document.getElementById("lottie-animation"),
-  path: "./assets/workflowlottie.json",
-  renderer: "svg", // Render type
-  loop: true,
-  autoplay: true,
-  rendererSettings: {
-    preserveAspectRatio: "xMidYMid slice",
-  },
+	container: document.getElementById("lottie-animation"),
+	path: "./assets/workflowlottie.json",
+	renderer: "svg", // Render type
+	loop: true,
+	autoplay: true,
+	rendererSettings: {
+		preserveAspectRatio: "xMidYMid slice",
+	},
 });
 window.addEventListener("resize", function () {
-  var container = document.getElementById("lottie-animation");
-  container.style.width = "100%";
-  container.style.height = "100%";
+	var container = document.getElementById("lottie-animation");
+	container.style.width = "100%";
+	container.style.height = "100%";
 });
 
 // fucntionality to tackle the light/dark mode toggle option.
 document.addEventListener("DOMContentLoaded", () => {
+
   const themeToggleButton = document.getElementById("theme-toggle");
   const body = document.body;
 
@@ -353,4 +354,71 @@ document.addEventListener("DOMContentLoaded", () => {
       localStorage.removeItem("theme");
     }
   });
+
 });
+
+
+// ----------Toggle Scroll Bar ------------
+
+window.addEventListener("scroll", () => {
+	showScroll();
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+	hideScroll();
+});
+
+const onScrollStop = (showScroll) => {
+	let scrolling;
+	window.addEventListener(
+		"scroll",
+		() => {
+			clearTimeout(scrolling);
+			scrolling = setTimeout(() => {
+				showScroll();
+			}, 500);
+		},
+		false
+	);
+};
+
+onScrollStop(() => {
+	hideScroll();
+});
+
+function showScroll() {
+	let web = document.querySelector("body");
+	web.classList.remove("hide-scroll");
+}
+
+function hideScroll() {
+	let web = document.querySelector("body");
+	web.classList.add("hide-scroll");
+}
+
+// Get the button
+const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+// Function to scroll to the top of the page
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+}
+
+// Show or hide the button based on the scroll position
+function handleScroll() {
+  if (window.pageYOffset > 300) {
+    scrollToTopBtn.classList.add('show');
+  } else {
+    scrollToTopBtn.classList.remove('show');
+  }
+}
+
+// Add scroll event listener
+window.addEventListener('scroll', handleScroll);
+
+// Add click event listener
+scrollToTopBtn.addEventListener('click', scrollToTop);
+
