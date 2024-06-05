@@ -25,7 +25,7 @@ Swift is a powerful and intuitive programming language developed by Apple for iO
 
 ## Roadmap
 
-> Go roadmap outlines the essential steps and skills needed to become skilled and efficient in Go programming.
+> Swift roadmap outlines the essential steps and skills needed to become skilled and efficient in Swift programming.
 
 <table width="100%" id="Roadmap">
       <tr>
