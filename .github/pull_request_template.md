@@ -1,28 +1,26 @@
-**IMPORTANT:** When creating your Pull Request, please use the following format for the title: `Category - Resource Name & Section`  <!--Change the PR Title not this -->
+# Pull Request
 
-PR Title samples:
+## Description
+Please include a summary of the changes and the related issue.  
 
-- `Web development - CSS Portal & Tools`
-- `Web development - Leetcode & Challenges`
+Closes # 
+
+## Type of change
+- [ ] Adding a new Resource
+- [ ] Adding a new Category
+- [ ] Documentation enhancement or fixes
+- [ ] Website enhancement or fixes
+
+## Checklist:
+- [ ] I read carefully [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md)
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation
 
 
-Closes #10
+## Screenshots (if appropriate):
+
+Please add screenshots to help explain your changes.
 
 
-### Description: 
-> Provide a brief description of the pull request
-
-
-### Resource URL: 
-> Insert the URL of the resource you're proposing
-- 
--
--
-
-### Checklist:
-Before submitting your pull request, ensure that you have completed the following tasks: 
-
-- [ ] I have carefully reviewed and adhered to the [contributing guidelines](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) before creating this pull request.
-- [ ] I followed the prescribed PR title template. _(Check this if you're adding a resource)_
-
-> fill the bracket with x. Something like this [x]
+## Additional 
