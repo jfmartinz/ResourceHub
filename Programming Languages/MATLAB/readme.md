@@ -10,10 +10,13 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 - [Tutorial](#tutorial)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
-
+  - [Advanced MATLAB](#advanced-matlab)
+- [Data Visulization](#data-visulization)
+- [Interfacing with other languages](#interfacing-with-other-languages)
 - [Online Courses](#online-courses)
 - [Communities](#communities)
 - [Books](#books)
+- [Websites](#websites)
 - [YouTube](#youtube)
   - [YouTube Channels](#youtube-channels)
   - [YouTube Videos](#youtube-videos)
@@ -141,6 +144,139 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
   </tbody>
 </table>
 
+### Interfacing with other languages
+>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://uk.mathworks.com/help/matlab/write-cc-mex-files.html">C/C++ mex routines</a></td>
+      <td>C/C++ MEX files allow you to call C/C++ functions from within MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html">Fortran mex routines</a></td>
+      <td>Fortran MEX routines allow you to call Fortran code from within MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html">MATLAB Engine for Python</a></td>
+      <td>The MATLAB Engine for Python provides a Python package named <code>matlab</code> that enables you to call MATLAB functions from within Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/calysto/matlab_kernel">matlab kernel</a></td>
+      <td>To run MATLAB code inside IPython / Jupyter notebooks.</td>
+    </tr>
+    <tr>
+      <td><a href="http://matlink.org/">MATLink</a></td>
+      <td>To run MATLAB code inside Mathematica / Wolfram Language notebooks.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/zeybek/node-matlab">node-matlab</a></td>
+      <td>To run MATLAB code inside NodeJS.</td>
+    </tr>
+    <tr>
+      <td><a href="http://uk.mathworks.com/help/matlab/call-python-libraries.html">Python</a></td>
+      <td>How to call Python functions from within MATLAB.</td>
+    </tr>
+  </tbody>
+</table>
+
+### Advanced MATLAB 
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_plotting.htm">MATLAB - Plotting</a></td>
+      <td>Advanced tutorials on plotting in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_graphics.htm">MATLAB - Graphics</a></td>
+      <td>Advanced topics on graphics in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_algebra.htm">MATLAB - Algebra</a></td>
+      <td>Advanced topics on algebra in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_calculus.htm">MATLAB - Calculus</a></td>
+      <td>Advanced topics on calculus in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_differential.htm">MATLAB - Differential</a></td>
+      <td>Advanced topics on differential equations in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_integration.htm">MATLAB - Integration</a></td>
+      <td>Advanced topics on integration in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_polynomials.htm">MATLAB - Polynomials</a></td>
+      <td>Advanced topics on polynomials in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_transforms.htm">MATLAB - Transforms</a></td>
+      <td>Advanced topics on transforms in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_gnu_octave.htm">MATLAB - GNU Octave</a></td>
+      <td>Comparison between MATLAB and GNU Octave.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_simulink.htm">MATLAB - Simulink</a></td>
+      <td>Introduction to Simulink, a graphical programming environment for modeling, simulating, and analyzing multidomain dynamical systems.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Data Visulization
+>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://in.mathworks.com/discovery/data-visualization.html">Data Visualization With MATLAB</a></td>
+      <td>An overview of data visualization capabilities in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tutorialspoint.com/matlab/matlab_plotting.htm">MATLAB - Plotting</a></td>
+      <td>Introduction to plotting in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://in.mathworks.com/help/matlab/ref/plot.html">2D Plotting</a></td>
+      <td>Documentation for creating 2D plots in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://in.mathworks.com/help/matlab/ref/plot3.html">3D Plotting</a></td>
+      <td>Documentation for creating 3D plots in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://in.mathworks.com/help/curvefit/exploring-and-customizing-plots.html">Customize Plots</a></td>
+      <td>Guide on how to customize plots in MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://in.mathworks.com/help/thingspeak/matlab-visualizations-app.html">MATLAB Visualizations App</a></td>
+      <td>Information about the MATLAB Visualizations App for ThingSpeak.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Online Courses
@@ -268,6 +404,49 @@ Recommended books to deepen your knowledge of MATLAB.
     </tr>
   </tbody>
 </table>
+
+### Websites
+>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://uk.mathworks.com/matlabcentral/fileexchange/">MATLAB File Exchange</a></td>
+      <td>File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos.</td>
+    </tr>
+    <tr>
+      <td><a href="http://uk.mathworks.com/matlabcentral/cody/">Cody</a></td>
+      <td>A website with programming challenges that consist of writing MATLAB® code. A fun way to improve your skills.</td>
+    </tr>
+    <tr>
+      <td><a href="https://thingspeak.com">ThingSpeak</a></td>
+      <td>An internet of things (IoT) platform that allows you to collect, analyze, and act upon various data sources. You can enter your own MATLAB® code to process and plot your data.</td>
+    </tr>
+    <tr>
+      <td><a href="http://octave-online.net/">Octave-Online</a></td>
+      <td>An online Octave interpreter.</td>
+    </tr>
+    <tr>
+      <td><a href="http://matlab.wikia.com/wiki/FAQ">Matlab FAQ on Wikia</a></td>
+      <td>Answers to frequently asked questions about MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="https://hackr.io/tutorials/learn-matlab">Programming Community Curated Resources For Learning Matlab</a></td>
+      <td>Curated list of resources for learning MATLAB from the programming community.</td>
+    </tr>
+    <tr>
+      <td><a href="http://people.duke.edu/~hpgavin/m-files/">Assorted .m-files by H.P. Gavin</a></td>
+      <td>A collection of MATLAB .m-files by H.P. Gavin.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## YouTube
 ### YouTube Channels
