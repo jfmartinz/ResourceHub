@@ -448,6 +448,58 @@ Recommended books to deepen your knowledge of MATLAB.
 </table>
 
 
+### Blogs
+>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://blogs.mathworks.com/cleve/">Cleve's Corner: Cleve Moler on Mathematics and Computing</a></td>
+      <td>Cleve Moler is the author of the first MATLAB, one of the founders of MathWorks, and is currently Chief Mathematician at the company.</td>
+    </tr>
+    <tr>
+      <td><a href="https://blogs.mathworks.com/matlab/">The MATLAB Blog</a></td>
+      <td>Mike Croucher, a Customer Success Engineer at MathWorks, writes about MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="http://blogs.mathworks.com/developer/">Developer Zone</a></td>
+      <td>Developing, testing, and integrating production-grade software using MATLAB.</td>
+    </tr>
+    <tr>
+      <td><a href="http://blogs.mathworks.com/seth/">Guy and Seth on Simulink</a></td>
+      <td>Guy Rouleau and Seth Popinchalk are Application Engineers for MathWorks.</td>
+    </tr>
+    <tr>
+      <td><a href="http://blogs.mathworks.com/steve/">Steve on Image Processing</a></td>
+      <td>Steve Eddins has developed MATLAB and image processing capabilities for MathWorks since 1993.</td>
+    </tr>
+    <tr>
+      <td><a href="http://undocumentedmatlab.com">Undocumented MATLAB</a></td>
+      <td>Yair Altman blogs about the hidden underbelly of MATLAB®. This is the place to be for discovering new and awesome features.</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.walkingrandomly.com/?cat=11">WalkingRandomly</a></td>
+      <td>The MATLAB tag of WalkingRandomly.</td>
+    </tr>
+    <tr>
+      <td><a href="http://xcorr.net/?s=matlab">xcorr: comp neuro</a></td>
+      <td>MATLAB relevant post of XCORR.</td>
+    </tr>
+    <tr>
+      <td><a href="http://matlabgeeks.com/">Matlab Geeks</a></td>
+      <td>Matlab Blog, Tutorials, and Expertise.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ## YouTube
 ### YouTube Channels
 Subscribe to YouTube channels for MATLAB tutorials and updates.
