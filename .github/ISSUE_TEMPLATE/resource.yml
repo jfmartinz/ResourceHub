@@ -1,0 +1,56 @@
+name: "➕ Add a Resource"
+description: Want to add a new Resource?
+title: "➕ [RESOURCE] - <title>"
+labels: ["resource"]
+body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Idea Contribution
+      description: Before you open an issue, please check if a similar issue already exists or has been closed before.
+      options:
+        - label: I have read all the resource request issues.
+          required: true
+        - label: I'm interested in working on this issue
+          required: true
+        - label: I'm part of GSSOC organization
+          required: true
+  - type: textarea
+    id: category_and_section
+    attributes:
+      label: Where do you want to add the resource? Specify the category and section.
+      description: Where do you want to add the resource? Specify the category and section.
+      placeholder: Provide a clear and concise description of your resource.
+    validations:
+      required: false
+  - type: textarea
+    id: resource_urls
+    attributes:
+      label: Provide the URLs of the resources you are adding
+      description: Provide the URLs of the resources you are adding.
+      placeholder: Give a clear and concise description of the desired outcome.
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Any alternative approaches/features
+      description: Have you considered any alternative approaches or features?
+      placeholder: Provide a clear and concise description of any other solutions or functionalities you've contemplated.
+    validations:
+      required: false
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Include any extra information or visuals that may be relevant to the feature request.
+    validations:
+      required: false
+  - type: checkboxes
+    id: code_of_conduct
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [CODE OF CONDUCT](https://github.com/jfmartinz/ResourceHub/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I follow the [CONTRIBUTING GUIDELINE](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) of this project.
+          required: true
