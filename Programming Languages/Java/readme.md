@@ -768,7 +768,7 @@ Here's the updated table:
     <td>A free course on YouTube designed for complete beginners to learn Java programming.</td>
   </tr>
  <tr>
- <td><a href="https://techdevguide.withgoogle.com/paths/foundational/?programming_languages=java#sequence-2">Foundations of Programming in Java by Google Tech Dev Guide<a><td>
+ <td><a href="https://techdevguide.withgoogle.com/paths/foundational/?programming_languages=java#sequence-2">Foundations of Programming in Java by Google Tech Dev Guide<a></td>
  <td>Learn about basic programming concepts like functions, operators, variables, control flow, strings, and arrays — some of the building blocks of programming by Google Tech Dev Guide.</td>
 </tr>
 </table>
