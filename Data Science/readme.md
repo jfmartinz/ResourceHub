@@ -184,3 +184,23 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td>This channel offers tutorials on Python programming, data analysis, machine learning, and deep learning, aimed at beginners. </td>
       </tr>
   </table>
+
+
+  ### Projects
+<table width="100%">
+ <tr>
+   <th>Weather Data Analysis</th>
+   <th>In this Project i have created a beginner level project on weather Data Analysis.</th>
+ </tr>
+ <tr>
+   <td><a href="https://github.com/Abhay182005dat/ResourceHub/blob/main/Weather_Data_Analysis.ipynb">Weather Data Analysis</a></td>
+   <td>## Analyze Your City's Weather! (Beginner Project)
+
+**Explore:** Find free weather data and see how hot, cold, rainy, etc. your city gets.
+
+**Uncover:**  Make charts and see weather patterns.  
+
+**Bonus:** Compare your city to another!
+</td>
+ </tr>
+</table>
