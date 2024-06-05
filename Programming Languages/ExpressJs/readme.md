@@ -12,7 +12,7 @@ you need to know to become proficient in Express.js, from the basics to advanced
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [ExpressJS](#expressjs)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Routing](#routing)
@@ -44,11 +44,11 @@ you need to know to become proficient in Express.js, from the basics to advanced
   - [YouTube Channels](#youtube-channels)
   - [YouTube Playlists](#youtube-playlists)
 - [Courses](#courses)
-  - [Free Certification Courses](#free-certification-courses)
-  - [Paid Certification Courses](#paid-certification-courses)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
 - [Additional Resources](#additional-resources)
-  - [Express.js Communities](#expressjs-communities)
-  - [Express.js Books](#expressjs-books)
+  - [Communities](#communities)
+  - [Books](#books)
 - [Conclusion](#conclusion)
 
 
@@ -65,7 +65,7 @@ you need to know to become proficient in Express.js, from the basics to advanced
 </tr>
 </table>
 
-## Tutorials
+## ExpressJS
 > Follow step-by-step tutorials covering various aspects of Express.js development, from middleware and templating engines to database integration and error handling.
 
 ### Introduction
@@ -905,7 +905,7 @@ you need to know to become proficient in Express.js, from the basics to advanced
 ## Courses
 > Explore both free and paid certification courses to further your learning and gain recognized credentials.
 
-### Free Certification Courses
+### Free Courses
 <table width="100%">
  <tr>
    <th>Resource Name</th>
@@ -929,7 +929,7 @@ you need to know to become proficient in Express.js, from the basics to advanced
  </tr>
 </table>
 
-### Paid Certification Courses
+### Paid Courses
 <table width="100%">
  <tr>
    <th>Resource Name</th>
@@ -956,7 +956,7 @@ you need to know to become proficient in Express.js, from the basics to advanced
 ## Additional Resources
 > Join Express.js communities, read recommended books, and tap into a wealth of knowledge shared by the developer community.
 
-### Express.js Communities
+### Communities
 <table width="100%">
  <tr>
    <th>Resource Name</th>
@@ -984,7 +984,7 @@ you need to know to become proficient in Express.js, from the basics to advanced
  </tr>
 </table>
 
-### Express.js Books
+### Books
 <table width="100%">
  <tr>
    <th>Resource Name</th>

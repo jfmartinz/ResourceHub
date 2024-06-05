@@ -1,4 +1,11 @@
 /* styles.css */
+body{
+    -webkit-user-select: none;  
+    -moz-user-select: none;     
+    -ms-user-select: none;      
+    user-select: none; 
+}
+
 #main-title {
     text-align: center;
     font-size: 48px; /* Adjust size as needed */
