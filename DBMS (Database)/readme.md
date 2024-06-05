@@ -281,6 +281,10 @@ Database design and modeling are critical steps in the creation and management o
         <td><a href="https://www.codecademy.com/resources/blog/top-sql-interview-questions-to-practice/">Codecademy</a></td>
         <td>Codecademy offers a variety of courses and interview prep materials focused on SQL and other data-related skills. They provide free-response questions and AI-generated feedback to help you prepare for technical interviews. Their courses cover essential topics like data analysis, SQL querying, and data visualization​.</td>
     </tr>
+    <tr>
+      <td><a href="https://www.geeksforgeeks.org/sql-interview-questions/">Geeks for Geeks </a></td>
+      <td>This platform covers 70+ SQL Interview Questions with answers asked in SQL developer interviews at MAANG and other high-paying companies.This article helps not only an experienced professional , but also a fresher to ace their interview</td>
+    </tr>
 </table>
 
 # GitHub Repositories
