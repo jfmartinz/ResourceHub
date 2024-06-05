@@ -190,7 +190,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 <table width="100%">
  <tr>
    <th>Weather Data Analysis</th>
-   <th>In this Project i have created a beginner level project on weather Data Analysis.</th>
+   <th>Description</th>
  </tr>
  <tr>
    <td><a href="https://github.com/Abhay182005dat/ResourceHub/blob/main/Weather_Data_Analysis.ipynb">Weather Data Analysis</a></td>
