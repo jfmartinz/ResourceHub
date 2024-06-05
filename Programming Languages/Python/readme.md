@@ -731,7 +731,38 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>This 100 Days of Code - Learn Python playlist by Replit is an excellent resource for those who are interested in learning Python. In this course, you will build games, apps, and websites by mastering Python programming. 
          </td>
       </tr>
-      
+          <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GesARqNMImG3NnX3_bWq-lT">SciPy 2021: Scientific Computing with Python Conference</a></td>
+      <td>A collection of 61 YouTube videos covering various topics in scientific computing with Python, presented at the SciPy 2021 conference.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC">SciPy 2019: Scientific Computing with Python Conference</a></td>
+      <td>Comprising 102 YouTube videos, this playlist includes talks and tutorials from the SciPy 2019 conference, addressing a wide range of topics related to scientific computing and data analysis using Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gd-tNhm79CNMe_qvi35PgUR">SciPy 2018: Scientific Computing with Python Conference</a></td>
+      <td>Featuring 97 YouTube videos, this playlist contains presentations and discussions from the SciPy 2018 conference, covering various aspects of scientific computing, data visualization, and machine learning with Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf">SciPy 2017: Scientific Computing with Python Conference</a></td>
+      <td>This playlist includes 91 YouTube videos from the SciPy 2017 conference, offering insights into scientific computing, numerical algorithms, and data analysis techniques using Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6">SciPy 2016: Scientific Computing with Python Conference</a></td>
+      <td>Consisting of 92 YouTube videos, this playlist features sessions from the SciPy 2016 conference, covering topics such as data manipulation, statistical analysis, and machine learning in Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu">SciPy 2015: Scientific Computing with Python Conference</a></td>
+      <td>With 116 YouTube videos, this playlist includes presentations and tutorials from the SciPy 2015 conference, addressing various aspects of scientific computing, data visualization, and machine learning using Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog">SciPy 2014: Scientific Computing with Python Conference</a></td>
+      <td>Containing 121 YouTube videos, this playlist features talks and workshops from the SciPy 2014 conference, covering topics such as numerical computing, data analysis, and optimization techniques with Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y">SciPy 2013: Scientific Computing with Python Conference</a></td>
+      <td>This playlist comprises 33 YouTube videos from the SciPy 2013 conference, providing insights into scientific computing, data analysis, and visualization using Python.</td>
+    </tr>
 </table>
 
 ### Conclusion
