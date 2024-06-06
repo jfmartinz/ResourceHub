@@ -10,9 +10,12 @@ Here are the collection of valuable resources to help you learn and master Prolo
 - [Tutorial](#tutorial)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
+  - [Advanced Data Handling](#advanced-data-handling)
+  - [Built in Predicates](#built-in-predicates)
 - [IDE](#ide)
 - [Compilers](#compilers)
 - [Text Editor Extensions](#text-editor-extensions)
+- [Books](#books)
 - [Community](#community)
 
 
@@ -143,6 +146,58 @@ Here are the collection of valuable resources to help you learn and master Prolo
   </tr>
 </table>
 
+
+### Advanced Data Handling
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.researchgate.net/publication/365191902_Brief_Report_on_the_Advanced_Use_of_Prolog_for_Data_Warehouses/fulltext/636c1611431b1f5300844193/Brief-Report-on-the-Advanced-Use-of-Prolog-for-Data-Warehouses.pdf">Advanced Data Handling</a></td>
+    <td>An advanced guide on using Prolog for data warehouses, detailing sophisticated data handling techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/unification-in-prolog">Unification</a></td>
+    <td>An explanation of the unification process in Prolog, which is essential for pattern matching and logic inference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://homepage.cs.uri.edu/faculty/hamel/courses/2010/spring2010/csc481/lecture-notes/ln009.pdf">Pattern Matching</a></td>
+    <td>A lecture note on pattern matching in Prolog, explaining how Prolog matches patterns in data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dobrev.com/help/tut/The_anonymous_variable.html">Anonymous Variables</a></td>
+    <td>A tutorial on the use of anonymous variables in Prolog, which are used to indicate that a value is irrelevant.</td>
+  </tr>
+  </table>
+
+  ### Built in Predicates
+
+  <table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/prolog/prolog_built_in_predicates.htm">Built-in Predicates</a></td>
+    <td>An overview of the built-in predicates available in Prolog, which provide essential functionality.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/arithmetic-in-prolog">Arithmetic Operations</a></td>
+    <td>A guide on performing arithmetic operations in Prolog, including syntax and examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/prolog/prolog_inputs_and_outputs.htm">Input/Output</a></td>
+    <td>An introduction to handling input and output in Prolog programs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cs.bham.ac.uk/~pjh/modules/current/25433/lectures/lecture7/lecture7_slides.pdf">List Processing</a></td>
+    <td>Lecture slides on list processing in Prolog, covering common operations and techniques.</td>
+  </tr>
+</table>
+
+
 ### IDE
 
 > Integrated Development Environments (IDEs) for Prolog, providing tools and interfaces to facilitate Prolog programming.
@@ -232,6 +287,50 @@ Here are the collection of valuable resources to help you learn and master Prolo
   </tr>
 </table>
 
+### Books
+
+> A curated list of books covering various aspects of Prolog programming.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://www.amzi.com/AdventureInProlog/apreface.php">Adventure in Prolog</a></td>
+    <td>A pragmatic approach to learning Prolog, designed to teach Prolog through a series of adventures.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.covingtoninnovations.com/books.html#ppid">Prolog Programming in Depth</a></td>
+    <td>A comprehensive guide to Prolog programming, covering its syntax, semantics, and advanced features.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.j-paine.org/prolog/mathnotes/files/pms/node1.html">Logic, Programming and Prolog</a></td>
+    <td>Explores the foundations of logic programming and programming techniques in Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.covingtoninnovations.com/books.html#nlp">Natural Language Processing for Prolog Programmers</a></td>
+    <td>A guide for Prolog programmers interested in applying their skills to natural language processing tasks.</td>
+  </tr>
+  <tr>
+    <td><a href="http://faculty.nps.edu/ncrowe/book/book.html">Artificial Intelligence through Prolog</a></td>
+    <td>Provides in-depth coverage of key concepts in artificial intelligence using Prolog as the implementation language.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.amzi.com/ExpertSystemsInProlog/index.htm">Building Expert Systems in Prolog</a></td>
+    <td>A practical guide to building prototype expert systems and their underlying inference engines using Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="https://arxiv.org/abs/0911.2899">Coding Guidelines for Prolog</a></td>
+    <td>Offers coding standards and best practices for writing clear, maintainable Prolog code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://mitpress.mit.edu/books/art-prolog-second-edition">The Art of Prolog</a></td>
+    <td>An advanced guide to programming in Prolog, focusing on advanced programming techniques and applications.</td>
+  </tr>
+</table>
+
+
 
 ### Community
 
@@ -271,3 +370,6 @@ Here are the collection of valuable resources to help you learn and master Prolo
     <td>A subreddit dedicated to Logic Programming and Prolog, where users share resources, ask questions, and discuss topics related to Prolog.</td>
   </tr>
 </table>
+
+
+### Additional Prolog Resources
