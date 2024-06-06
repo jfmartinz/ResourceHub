@@ -28,6 +28,7 @@ Rust has a rich ecosystem of resources to help you learn and master the language
   - [Advance Level Projects](#advance-level-projects)
 - [Books](#books)
 - [Rust Communities](#rust-communities)
+- [Rust Cheatsheets](#rust-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -874,6 +875,9 @@ Rust has a rich ecosystem of resources to help you learn and master the language
     <td>Rust meetups and conferences are excellent opportunities to meet other Rust developers in person, attend talks, workshops, and hackathons, and learn more about Rust. Keep an eye out for local meetups and global conferences like RustConf.</td>
   </tr>
 </table>
+
+### Rust Cheatsheets
+
 
 ## Conclusion
 
