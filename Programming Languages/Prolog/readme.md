@@ -15,8 +15,15 @@ Here are the collection of valuable resources to help you learn and master Prolo
 - [IDE](#ide)
 - [Compilers](#compilers)
 - [Text Editor Extensions](#text-editor-extensions)
+- [Machine Learning](#machine-learning)
+- [Tools and libraries for mathematical operations](#tools-and-libraries-for-mathematical-operations)
+- [Testing and Debugging](#testing-and-debugging)
+- [Miscellaneous](#miscellaneous)
+- [Youtube Videos](#youtube-videos)
 - [Books](#books)
 - [Community](#community)
+- [Additional Prolog Resources](#additional-prolog-resources)
+- [Conclusion](#conclusion)
 
 
 ### Roadmap
@@ -287,6 +294,140 @@ Here are the collection of valuable resources to help you learn and master Prolo
   </tr>
 </table>
 
+### Machine Learning
+
+>Resources for machine learning with Prolog.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://stoics.org.uk/~nicos/sware/mlu">mlu</a></td>
+    <td>A library for probabilistic logic programs, useful for machine learning tasks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/friguzzi/cplint">cplint</a></td>
+    <td>A reasoning suite for probabilistic logic programs, providing tools for machine learning and inference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/friguzzi/cplint_datasets">cplint_datasets</a></td>
+    <td>Datasets specifically curated for machine learning tasks in Prolog, compatible with cplint.</td>
+  </tr>
+</table>
+
+
+### Tools and libraries for mathematical operations 
+
+> Tools and libraries for mathematical operations in Prolog.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/friguzzi/matrix">matrix</a></td>
+    <td>A library for performing matrix operations in Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jp-diegidio/Nan.Numerics.Prime-Prolog">nan_numerics_prime</a></td>
+    <td>A library for generating and working with prime numbers in Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/samer--/pljulia">pljulia</a></td>
+    <td>A library for numerical and technical computing in Prolog, providing integration with Julia.</td>
+  </tr>
+</table>
+
+### Testing and debugging
+
+> Tools and resources for testing and debugging Prolog programs.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mndrix/tap">tap</a></td>
+    <td>Automated TAP testing for Prolog programs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mndrix/quickcheck">quickcheck</a></td>
+    <td>QuickCheck randomized testing framework for Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.swi-prolog.org/pldoc/package/plunit.html">PlUnit</a></td>
+    <td>Prolog unit testing framework for writing and running unit tests.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.swi-prolog.org/pldoc/man?section=debugger">Debugging</a></td>
+    <td>Documentation on the built-in debugger in SWI-Prolog for debugging Prolog programs.</td>
+  </tr>
+</table>
+
+### Miscellaneous
+
+> Various miscellaneous resources related to Prolog.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/execute_prolog_online.php">Online compiler</a></td>
+    <td>An online compiler where you can execute Prolog code directly in your browser.</td>
+  </tr>
+  <tr>
+    <td><a href="https://bitbucket.org/ttmrichter/turing/src">turing</a></td>
+    <td>A Turing Machine simulator implemented in Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/eazar001/yesbot">yesbot</a></td>
+    <td>An IRC Bot implemented in Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.swi-prolog.org/pack/list?p=webconsole">webconsole</a></td>
+    <td>A Prolog pack that provides a browser-based HTML console for interactive Prolog sessions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/TeamSPoon/prologmud_samples">prologmud</a></td>
+    <td>Online text adventure game samples implemented in Prolog.</td>
+  </tr>
+</table>
+
+### Youtube Videos
+
+> Video tutorials and introductions to Prolog available on YouTube.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=SykxWpFwMGs">Prolog Tutorial</a></td>
+    <td>A general hour-long video tutorial covering various aspects of Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=GHLfeGN5OMk">Introduction to Prolog</a></td>
+    <td>An hour-long introduction to Prolog, providing an overview of its syntax and usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/gJOZZvYijqk">Programming In Prolog</a></td>
+    <td>A four-part video series offering an introduction to programming in Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=dKn-BbS_zQQ">A Brief Introduction to Prolog</a></td>
+    <td>A brief introduction to Prolog available on YouTube.</td>
+  </tr>
+</table>
+
+
+
 ### Books
 
 > A curated list of books covering various aspects of Prolog programming.
@@ -373,3 +514,61 @@ Here are the collection of valuable resources to help you learn and master Prolo
 
 
 ### Additional Prolog Resources
+
+> A collection of additional resources to further explore Prolog programming.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://learnprolognow.org/lpnpage.php?pageid=online">Learn Prolog Now!</a></td>
+    <td>A comprehensive online course providing a thorough introduction to programming in Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="https://sites.google.com/site/prologsite/prolog-problems">P-99: Ninety-Nine Prolog Problems</a></td>
+    <td>A collection of practice problems in Prolog and Logic programming, suitable for learners and enthusiasts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.metalevel.at/prolog">The Power of Prolog</a></td>
+    <td>An introduction to modern Prolog, exploring its capabilities and applications.</td>
+  </tr>
+  <tr>
+    <td><a href="http://book.simply-logical.space">Simply Logical</a></td>
+    <td>A resource for learning intelligent reasoning in Prolog through practical examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://en.wikibooks.org/wiki/Prolog">Prolog Wikibook</a></td>
+    <td>A thorough overview of Prolog, covering its syntax, semantics, and practical usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cs.auckland.ac.nz/~j-hamer/07.363/prolog-for-se.html">Prolog for Software Engineering</a></td>
+    <td>Learn software engineering fundamentals using Prolog as the programming language.</td>
+  </tr>
+  <tr>
+    <td><a href="http://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/tutorials/swiplmodtut.html">Prolog Modules</a></td>
+    <td>Explore the fundamentals of SWI-Prolog Modules, including their usage and benefits.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.pathwayslms.com/swipltuts/html">Web Applications in SWI-Prolog</a></td>
+    <td>A guide to building web applications with SWI-Prolog, covering development and deployment aspects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/triska/clpz">Constraint Logic Programming over Finite Domains</a></td>
+    <td>Learn the fundamentals of Constraint Logic Programming over Finite Domains using Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.pathwayslms.com/swipltuts/message/index.html">Printing Messages in SWI-Prolog</a></td>
+    <td>A tutorial on handling input/output and printing messages in libraries using SWI-Prolog.</td>
+  </tr>
+</table>
+
+
+## Conclusion
+
+Mastering Prolog involves a systematic approach, starting with the basics and gradually moving towards more complex topics and applications. This roadmap provides a structured path to guide you through the learning process, ensuring you build a solid foundation and advance to higher-level skills. 
+
+By following these resources, you'll be well-equipped to leverage Prolog's powerful capabilities for a wide range of applications, from artificial intelligence and natural language processing to complex problem solving and beyond. 
+
+Happy coding!!
