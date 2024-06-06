@@ -26,6 +26,7 @@ Go, commonly referred to as Golang, is an open-source programming language devel
    - [Free Courses](#free-courses)
    - [Paid Courses](#paid-courses)
 - [Youtube](#youtube)<br>
+- [Go Cheatsheet](#go-cheatsheet)
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -535,6 +536,41 @@ Helps beginners understand fundamental concepts and advanced users explore new t
    <td><a href="https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa">Hitesh Choudhary</a></td>
    <td>This playlist offers detailed information about Go programming.</td>
  </tr>
+</table>
+
+## Go Cheatsheet
+
+> Cheat sheets for Go programming (Golang), providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://devhints.io/go">Go cheatsheet</a></td>
+    <td>A comprehensive Go cheat sheet provided by Devhints, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/go.html">Go Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for Go programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/golang-cheat-sheet/">Go Programming (Golang) Cheat Sheet</a></td>
+    <td>A detailed cheat sheet for Go programming provided by Zero to Mastery, covering a wide range of topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-go/modules/learn-go-introduction/cheatsheet">Learn Go: Introduction Cheatsheet</a></td>
+    <td>A beginner-friendly Go cheat sheet provided by Codecademy, ideal for those new to the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cheat-sheets.org/saved-copy/go-lang-cheat-sheet-master.20181212/golang_refcard.pdf">Golang Cheat Sheet</a></td>
+    <td>A comprehensive Golang cheat sheet available as a PDF, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://gist.github.com/michaellihs/4e35ed9546f379a3ef0583644d760bce">Go Cheat Sheet</a></td>
+    <td>A concise Go cheat sheet provided by GitHub user michaellihs, ideal for quick reference.</td>
+  </tr>
 </table>
 
 
