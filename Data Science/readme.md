@@ -11,6 +11,8 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
    - [Free Cources](#free-courses)<br>
    - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
+  - [Free books](#free-books)
+  - [Paid Books](#paid-books)
 - [YouTube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlists)<br>
 - [Resources for Finding Datasets](#resources-for-finding-datasets)<br>
@@ -208,13 +210,39 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 
 > You can refer to these books on Data Science. They are listed below:
 
+#### Free books
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
-        <td> <a href="https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/">Python for Data Analysis" by Wes McKinney </a></td>
+        <td> <a href="https://www.dbooks.org/python-for-everybody-1530051126/">Python for Data Everyone</a></td>
+        <td> This books is a comprehensive guide to learning Python and basics of its libraries like Pandas, NumPy, Matplotlib and more.</td>
+      </tr>
+      <td> <a href="https://www.bing.com/ck/a?!&&p=5f61daa5e0205b73JmltdHM9MTcxNTgxNzYwMCZpZ3VpZD0xYjhkMzU3Yy02YmU3LTZiOGEtMjNkNC0yMWZkNmE4NDZhYTEmaW5zaWQ9NTE4NQ&ptn=3&ver=2&hsh=3&fclid=1b8d357c-6be7-6b8a-23d4-21fd6a846aa1&psq=Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow+pdf&u=a1aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdGEtc2NpZW5jZS1wcm9qZWN0cy1hbmQtcmVzb3VyY2VzL0RhdGEtU2NpZW5jZS1FQm9va3MvbWFpbi9NYWNoaW5lJTIwTGVhcm5pbmcvSGFuZHMtb24tTWFjaGluZS1MZWFybmluZy5wZGY&ntb=1">Hands-On Machine Learning with Scikit-Learn and TensorFlow</a></td>
+        <td>The Hands-On Machine Learning with Scikit-Learn and TensorFlow is a popular book by Aurélien Géron that covers various machine learning concepts and practical implementations using Scikit-Learn and TensorFlow.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python data science handbook</a></td>
+        <td>"Python Data Science Handbook" by Jake VanderPlas. It's a comprehensive resource covering various aspects of data science using Python programming language and its associated libraries like NumPy, pandas, Matplotlib, and scikit-learn.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.dbooks.org/r-for-data-science-1491910399/">R for Data science</a></td>
+        <td>"R for Data Science" is a book authored by Hadley Wickham and Garrett Grolemund. It's a comprehensive guide that introduces readers to data science using the R programming language. The book covers various aspects of the data science workflow, including data manipulation, visualization, modeling, communication and more.</td>
+      </tr>
+  </table>
+
+#### Paid books
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td> <a href="https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/">Python for Data Analysis by Wes McKinney </a></td>
         <td> A comprehensive guide to data analysis using Python and its libraries like Pandas, NumPy, and Matplotlib.</td>
       </tr>
       <tr>
@@ -222,15 +250,15 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td>Covers practical machine-learning techniques using popular Python libraries like Scikit-Learn, Keras, and TensorFlow. </td>
       </tr>
       <tr>
-        <td> <a href="https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/">Data Science for Business" by Foster Provost and Tom Fawcett</a></td>
+        <td> <a href="https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/">Data Science for Business by Foster Provost and Tom Fawcett</a></td>
         <td>Provides insights into the practical applications of data science in business contexts, focusing on data-driven decision-making. </td>
       </tr>
       <tr>
-        <td> <a href="https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/0">An Introduction to Statistical Learning" by Gareth James et al</a></td>
+        <td> <a href="https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/0">An Introduction to Statistical Learning by Gareth James et al</a></td>
         <td>A beginner-friendly introduction to machine learning concepts and techniques, with practical examples in R. </td>
       </tr>
       <tr>
-        <td> <a href="https://www.amazon.com/Deep-Learning-Ian-Goodfellow/dp/0262035618/">Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville</a></td>
+        <td> <a href="https://www.amazon.com/Deep-Learning-Ian-Goodfellow/dp/0262035618/">Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville</a></td>
         <td>  A comprehensive textbook covering deep learning concepts and methods, suitable for both beginners and advanced practitioners.</td>
       </tr>
   </table>
