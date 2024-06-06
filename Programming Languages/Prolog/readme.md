@@ -27,7 +27,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 
 
 ### Roadmap
->
+> A guide outlining the path to mastering Prolog programming, including suggested learning resources and milestones
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 </table>
 
 ### Tutorial
->
+> Basic overview and introduction to Prolog programming language, Essential concepts and syntax of Prolog, covering predicates, clauses, and basic logic programming principles.
 
 ### Introduction
 
@@ -296,7 +296,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 
 ### Machine Learning
 
->Resources for machine learning with Prolog.
+> Resources and libraries for implementing machine learning algorithms and tasks using Prolog.
 
 <table>
   <tr>
@@ -320,7 +320,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 
 ### Tools and libraries for mathematical operations 
 
-> Tools and libraries for mathematical operations in Prolog.
+> Libraries and tools for performing mathematical operations and computations in Prolog.
 
 <table>
   <tr>
@@ -343,7 +343,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 
 ### Testing and debugging
 
-> Tools and resources for testing and debugging Prolog programs.
+> Tools and techniques for testing and debugging Prolog code, ensuring code quality and reliability.
 
 <table>
   <tr>
@@ -370,7 +370,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 
 ### Miscellaneous
 
-> Various miscellaneous resources related to Prolog.
+> Various resources not fitting into other categories, including online compilers, simulators, and utilities.
 
 <table>
   <tr>
@@ -401,7 +401,8 @@ Here are the collection of valuable resources to help you learn and master Prolo
 
 ### Youtube Videos
 
-> Video tutorials and introductions to Prolog available on YouTube.
+> Video tutorials and lectures available on YouTube covering various aspects of Prolog programming.
+
 
 <table>
   <tr>
