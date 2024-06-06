@@ -159,3 +159,42 @@ Here are the collection of valuable resources to help you learn and master Prolo
   </tr>
 </table>
 
+
+### Community
+
+> Resources and forums where Prolog enthusiasts and professionals gather to discuss, share knowledge, and seek help.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.metalevel.at/prolog/faq">Prolog FAQ</a></td>
+    <td>A comprehensive list of frequently asked questions from the SWI-Prolog newsgroup, providing answers and insights into common Prolog topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://swi-prolog.discourse.group/">SWI-Prolog Discourse</a></td>
+    <td>The official Discourse board for SWI-Prolog, a place for announcements, discussions, and community support.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.swi-prolog.org/Mailinglist.html">SWI-Prolog Mailing List</a></td>
+    <td>A mailing list for SWI-Prolog users, used for sharing announcements, asking questions, and discussing various Prolog topics.</td>
+  </tr>
+  <tr>
+    <td><a href="http://webchat.freenode.net/?channels=##prolog">SWI-Prolog Freenode</a></td>
+    <td>The IRC channel for the SWI-Prolog community on Freenode, providing real-time chat for help and discussions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://groups.google.com/forum/#!forum/swi-prolog">SWI-Prolog Google Group</a></td>
+    <td>A formerly active user discussion forum for SWI-Prolog on Google Groups, now deprecated.</td>
+  </tr>
+  <tr>
+    <td><a href="https://stackoverflow.com/questions/tagged/prolog">Stack Overflow Prolog</a></td>
+    <td>A collection of user questions and answers under the Prolog tag on Stack Overflow, useful for troubleshooting and learning.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.reddit.com/r/prolog">Reddit Prolog</a></td>
+    <td>A subreddit dedicated to Logic Programming and Prolog, where users share resources, ask questions, and discuss topics related to Prolog.</td>
+  </tr>
+</table>
