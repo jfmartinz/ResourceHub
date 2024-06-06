@@ -5,35 +5,36 @@
 - [Roadmap](roadmaps)
   - [Machine Learning Roadmap](#machine-learning)
 - [Tutorials or Courses](#tutorials-or-courses)
-
     - [Fundamentals of Mathematics](#fundamentals-of-mathematics)
     - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
     - [Modules](#moduleslibraries)
     - [Introduction to Machine Learning](#introduction-to-machine-learning)
     - [Types of Machine learning](#types-of-machine-learning)
-    - [Machine Learning](#steps-involved-for-machine-learning)
+    - [Steps involved for Machine Learning](#steps-involved-for-machine-learning)
       - [Data Collection](#data-collection)
       - [Data Preparation](#data-preparation)
-      - [Model selection](#model-selection)
-      - [Model Training](#model-traning)
+      - [Model Selection](#model-selection)
+      - [Model Training](#model-training)
       - [Model Evaluation](#model-evaluation)
       - [Model optimizing](#model-optimization)
       - [Model deploying](#model-deployment)
     - [Machine learning algorithms](#machine-learning-algorithms)
-
 - [Books](#books)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
-- [Youtube Channels](#youtube-channels)
+- [YouTube](#youtube)
+  - [Youtube Channels](#youtube-channels)
+  - [YouTube Playlists](#youtube-playlists)
 - [Machine learning forums](#machine-learning-forums)
 - [courses](#courses)
 - [Projects](#projects)
-- [Interview](#Interview)
+- [Interview](#interview)
 - [Others](#others)
+- [Conclusion](#conclusion)
 
 
 ### Roadmap
-
+> This is a roadmap, we can refer to for starting with machine learning.
 #### Machine Learning
 
 <table width="100%">
@@ -128,7 +129,6 @@
 
 #### Modules/Libraries
 
-> Explore an amazing set of Python Modules for creating/using or working with Machine learning models.
 
 <table width="100%">
     <tr>
@@ -206,11 +206,8 @@
   </tr>
 </table>
 
-### Steps involved for machine learning
-
-> These are the steps involved in building a machine learning model.
-
-#### Data Collection
+#### Steps involved for machine learning:
+##### Data Collection
 
 <table width="100%">
     <tr>
@@ -231,7 +228,7 @@
     </tr>
 </table>
 
-#### Data Preparation
+##### Data Preparation
 
 <table width="100%">
     <tr>
@@ -252,7 +249,7 @@
     </tr>
 </table>
 
-#### Model Selection
+##### Model Selection
 
 <table width="100%">
     <tr>
@@ -273,7 +270,7 @@
     </tr>
 </table>
 
-#### Model Training
+##### Model Training
 
 <table width="100%">
     <tr>
@@ -294,7 +291,7 @@
     </tr>
 </table>
 
-#### Model Evaluation
+##### Model Evaluation
 
 <table width="100%">
     <tr>
@@ -315,7 +312,7 @@
     </tr>
 </table>
 
-#### Model Optimization
+##### Model Optimization
 
 <table width="100%">
     <tr>
@@ -336,7 +333,7 @@
     </tr>
 </table>
 
-#### Model Deployment
+##### Model Deployment
 
 <table width="100%">
     <tr>
@@ -358,6 +355,7 @@
 </table>
 
 ### Machine Learning Algorithms
+> These are some machine learning algorithm, you can learn.
 
 <table width="100%">
     <tr>
@@ -400,6 +398,10 @@
       <td ><a href="https://www.youtube.com/watch?v=EItlUEPCIzM">KMeans Clustering</a></td>
       <td>This video gives you a comprehensive knowledge about K Means clustering algorithm which is a unsupervised machine learning technique used to cluster data points, and this video also helps you to solve a  clustering problem using sklearn, kmeans and python.</td>
     </tr>
+    <tr>
+      <td ><a href="https://www.youtube.com/watch?v=ob1yS9g-Zcs&t=4728s">Neural Network</a></td>
+      <td>This video provides a comprehensive introduction to neural networks, covering fundamental concepts, training processes, and practical applications. It explains forward and backward propagation, deep learning techniques, and the use of convolutional neural networks (CNNs) for image processing. Additionally, it demonstrates implementing neural networks using Python, TensorFlow, and other libraries, including examples such as stock price prediction and image classification.</td>
+    </tr>
 </table>
 
 
@@ -411,7 +413,7 @@
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Status</th>
+        <th>Cost</th>
       </tr>
       <tr>
         <td> <a href="https://www.bing.com/ck/a?!&&p=5f61daa5e0205b73JmltdHM9MTcxNTgxNzYwMCZpZ3VpZD0xYjhkMzU3Yy02YmU3LTZiOGEtMjNkNC0yMWZkNmE4NDZhYTEmaW5zaWQ9NTE4NQ&ptn=3&ver=2&hsh=3&fclid=1b8d357c-6be7-6b8a-23d4-21fd6a846aa1&psq=Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow+pdf&u=a1aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdGEtc2NpZW5jZS1wcm9qZWN0cy1hbmQtcmVzb3VyY2VzL0RhdGEtU2NpZW5jZS1FQm9va3MvbWFpbi9NYWNoaW5lJTIwTGVhcm5pbmcvSGFuZHMtb24tTWFjaGluZS1MZWFybmluZy5wZGY&ntb=1">Hands-On Machine Learning with Scikit-Learn and TensorFlow</a></td>
@@ -432,7 +434,7 @@
   </table>
 
 ### Datasets
-
+> These are some datasets that can help you practice machine learning
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -462,9 +464,14 @@
         <td><a href="https://archive.ics.uci.edu/datasets">UCI Datasets</a></td>
         <td>The UCI Machine Learning Repository, hosted at the URL you provided, is a collection of datasets for machine learning research and experimentation. It's maintained by the Center for Machine Learning and Intelligent Systems at the University of California, Irvine (UCI). </td>
       </tr>
+      <tr>
+        <td><a href="https://data.gov/">Data.gov</a></td>
+        <td>Data.gov, a US government website, is invaluable for machine learning enthusiasts with its vast collection of nearly 300,000 datasets. It provides high-quality, reliable training data from various sectors, enabling innovative applications in public health, economics, and environmental science. The open data is freely available, eliminating licensing costs and allowing unrestricted use. Its authoritative sources ensure improved accuracy and reliability in machine learning models.</td>
+      </tr>
 </table>
 
 ### GitHub Repositories
+> These are some GitHub repositories you can refer to
 
 <table width="100%">
       <tr>
@@ -489,9 +496,11 @@
       </tr>  
 </table>
 
-### YouTube Channels
+### YouTube
 
 > Explore amazing YouTubers specializing in web development.
+
+#### YouTube Channels
 
 <table width="100%">
       <tr>
@@ -524,6 +533,33 @@
       <tr>
         <td> <a href="https://www.youtube.com/@codebasics">codebasics</a></td>
         <td>The YouTube channel "codebasics," hosted by codebasics, offers a variety of tutorials and resources focused on programming, data science, machine learning, and artificial intelligence. </td>
+      </tr>
+  </table>
+
+#### YouTube Playlists
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH">100 Days of Machine Learning</a></td>
+        <td>The YouTube playlist titled "100 Days of Machine Learning" features a series of videos designed to guide viewers through a comprehensive journey in machine learning over 100 days. The playlist covers a variety of topics and concepts essential to understanding and implementing machine learning, aimed at both beginners and those looking to deepen their knowledge. </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy">Machine Learning tutorial for Beginners</a></td>
+        <td>The YouTube playlist titled "Machine Learning | Machine Learning Tutorial For Beginners | Machine Learning Projects" by Simplilearn is designed to introduce beginners to machine learning concepts and projects. The playlist includes comprehensive tutorials, covering topics such as supervised and unsupervised learning, algorithms, data preprocessing, and hands-on projects.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLfFghEzKVmjtZb9G6jvO9PLKvwUvK5avI">Mathematics for machine learning</a></td>
+        <td>The YouTube playlist "Module 5: Mathematics for Machine Learning" is part of a course that focuses on the mathematical foundations necessary for understanding and applying machine learning techniques. It covers key mathematical concepts such as linear algebra, calculus, probability, and statistics, which are essential for machine learning. </td>
+      </tr>
+      </tr>
+        <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3">Mathematics for machine learing (linear algebra)</a></td>
+        <td>The YouTube playlist is by 'Digital Learning Hub - Imperial College London', this playlist is an online specialisation in Mathematics for Machine Learning (m4ml) hosted by Coursera, This course offers an introduction to the linear algebra required for common machine learning techniques. We start at the very beginning with thinking about vectors and what vectors are, and the basic mathematical operations we can do with vectors, like how to add vectors and more.
+        </td>
       </tr>
   </table>
 
@@ -634,7 +670,7 @@
 </table>
 
 ### Others
-
+> These are some other resources you can refer to.
   <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -672,3 +708,8 @@
       </tr>    
 </table>
 
+### Conclusion
+
+Machine learning is an exciting and rapidly evolving field that offers endless opportunities for innovation and discovery. Its ability to analyze vast amounts of data and uncover patterns makes it indispensable for various applications, from predictive analytics and natural language processing to computer vision and autonomous systems. The wealth of libraries and frameworks available, such as TensorFlow, PyTorch, and scikit-learn, empowers developers and data scientists to build sophisticated models with relative ease. A strong community provides extensive resources, including tutorials, forums, and documentation, to support learners and professionals alike. To truly excel in machine learning, consistent practice is essential—engage in coding challenges, contribute to open-source projects, and apply your knowledge to real-world problems. This hands-on experience not only hones your skills but also opens doors to numerous career opportunities in tech, research, and beyond.
+
+Never stop learning !

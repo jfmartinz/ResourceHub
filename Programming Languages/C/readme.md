@@ -7,7 +7,7 @@ This section serves as a curated collection of valuable resources for learning a
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [C](#c)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Array in C](#arrays-in-c)
@@ -17,14 +17,17 @@ This section serves as a curated collection of valuable resources for learning a
   - [File Management](#file-management)
 - [Tools and IDEs](#tools-and-ides)
 - [Online Editors and Compilers](#online-editors-and-compilers)
-- [C Projects](#c-projects)
+- [Projects](#projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
 - [Youtube Channels](#youtube-channels)
 - [Coding Platforms](#coding-platforms)
-- [C Programming Courses](#c-programming-courses)
+- [Courses](#courses)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
 - [Books](#books)
+- [Interview Preparations](#interview-preparation)
 - [Websites](#websites)
 - [Conclusion](#conclusion)
 
@@ -43,9 +46,9 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### Tutorials
+### C
 > Here are the tutorial guides which can help you to develop and enhance your coding skills
-
+#### Introduction
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -106,7 +109,7 @@ This section serves as a curated collection of valuable resources for learning a
 </table>
 </table>
 
-### Fundamentals
+#### Fundamentals
 
 <table>
   <tr>
@@ -241,7 +244,7 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### Strings in C
+#### Strings in C
 
 <table>
   <tr>
@@ -270,7 +273,7 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### Pointers in C
+#### Pointers in C
 
 <table>
   <tr>
@@ -303,7 +306,7 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### C Structure and Union
+#### C Structure and Union
 
 
 <table>
@@ -407,10 +410,10 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### C Projects
+### Projects
 > Here are some great ideas for projects in C from beginner level to the advance level.
 
-### Beginner level projects
+#### Beginner level projects
    <table>
         <tr>
             <th>Resource Name</th>
@@ -452,6 +455,10 @@ This section serves as a curated collection of valuable resources for learning a
             <td><a href="https://www.youtube.com/watch?v=zm0oEZiH16A" >Currency Converter in C - YouTube</a></td>
             <td>Converts between different currencies based on exchange rates. Involves working with floats and user input.</td>
         </tr>
+          <tr>
+            <td><a href="https://www.geeksforgeeks.org/c-program-to-display-month-by-month-calendar-for-a-given-year/" >Calendar in C - GFG</a></td>
+            <td>Displays month by month calendar for a given year . Involves working with functions and control statements.</td>
+        </tr>    
     </table>
 
 #### Intermediate Level Projects
@@ -497,7 +504,7 @@ This section serves as a curated collection of valuable resources for learning a
     </table>
     
 
-### Advance Level Projects
+#### Advance Level Projects
 
 <table>
         <tr>
@@ -581,9 +588,27 @@ This section serves as a curated collection of valuable resources for learning a
 
 
 
-### C Programming Courses
+### Courses
 > Unfortunately, there aren't many widely recognized free certification courses specifically for C programming. However, there are several platforms where you can find free courses, tutorials, and resources to learn C programming
+#### Free Courses
+<table>
+  <tr>
+  <th>Course</th>
+    <th>Description</th>
+      </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-c">Learn C</a></td>
+    <td>Offered by Codecademy</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PL78RhpUUKSwcgBrlBtstLjBMEtQmCRbHp&si=vpNyMxpggLL4nqIb">C Programming Certification YouTube course</a></td>
+    <td>A free course on YouTube designed for complete beginners to learn C programming.</td>
+  </tr>
+    
 
+</table>
+
+#### Paid Courses
 <table>
   <tr>
     <th>Course</th>
@@ -613,10 +638,7 @@ This section serves as a curated collection of valuable resources for learning a
     <td><a href="https://www.udemy.com/course/c-programming-for-beginners-">Udemy - C Programming For Beginners - Master the C Language</a></td>
     <td>By Tim Buchalka's Learn Programming Academy</td>
   </tr>
-  <tr>
-    <td><a href="https://www.codecademy.com/learn/learn-c">Learn C</a></td>
-    <td>Offered by Codecademy</td>
-  </tr>
+  
   <tr>
     <td><a href="https://www.pluralsight.com/courses/c-fundamentals-c99">Pluralsight - C Fundamentals with C99</a></td>
     <td>By David Chisnall</td>
@@ -625,6 +647,7 @@ This section serves as a curated collection of valuable resources for learning a
     <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm">MIT OpenCourseWare - Introduction to Computer Science and Programming in C</a></td>
     <td>Offered by Massachusetts Institute of Technology (MIT)</td>
   </tr>
+  
 </table>
 
 ### Coding Platforms
@@ -711,6 +734,29 @@ This section serves as a curated collection of valuable resources for learning a
         </tr>
     </table>
 
+### Interview Preparation
+> Here are some resources which can help you to prepare for C interview rounds
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/Wa9NuZ90UbI?si=7HrN_lNxN4GYEPP3">Top 40 C Programming Interview Questions & Answers</a></td>
+    <td>Simplilearn provides a comprehensive video covering the top 40 C programming interview questions along with detailed explanations and solutions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PL-gW8Fj5TGrrw5sU8E-ML0Ehpz377eFrR&si=FVXlgYDKlGuItXxM">Sanjay Gupta Tech School</a></td>
+    <td>This video by Sanjay Gupta presents common C programming interview questions along with explanations and code examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/MJ2N2CjHb4U?si=pgjRC7HsA9esLae0">C Programming Interview Questions and Answers</a></td>
+    <td>edureka! offers a video discussing essential C programming interview questions, suitable for both beginners and experienced developers.</td>
+  </tr>
+</table>
+
+
 
 ### Websites 
 > Popular Websites to Learn C Programming 
@@ -733,7 +779,7 @@ This section serves as a curated collection of valuable resources for learning a
     <td>A beginner-friendly tutorial on C programming, providing step-by-step explanations of concepts with examples.</td>
   </tr>
   <tr>
-    <td><a href="https://www.freecodecamp.org/news/learn-c-c-from-scratch/">freeCodeCamp - Learn C and C++ from Scratch</a></td>
+    <td><a href="https://www.freecodecamp.org/news/the-c-beginners-handbook/">freeCodeCamp - The C Beginner's Handbook</a></td>
     <td>A beginner's guide to learning C programming, starting from the basics and progressing to advanced topics.</td>
   </tr>
 </table>

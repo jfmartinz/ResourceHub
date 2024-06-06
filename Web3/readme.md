@@ -11,9 +11,13 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [Community](#community)<br>
 - [YouTube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)
-- [Books](#Books)<br>
-- [Decentralized Finance (DeFi)](#decentralized-finance-defi)
-- [GitHub Repositories](#github-repositories)
+- [Books](#books)<br>
+- [Decentralized Finance (DeFi)](#decentralized-finance-defi)<br>
+- [Roadmap](#roadmap)<br>
+- [GitHub Repositories](#github-repositories)<br>
+- [Projects](#projects)<br>
+- [Interview](#interview)<br>
+- [Conclusion](#conclusion)<br>
 
 ### Website to learn Web3
 
@@ -156,6 +160,10 @@ The course covers:
     <td><a href="https://www.builtinsf.com/company/solana-labs">Solana</a></td>
     <td>Solana offers the ability to create “scalable, user-friendly apps” with its platform, and also says it’s the fastest blockchain in the world, with 400 millisecond block times. It is also super-secure, low-cost ($0.01 per transaction) and resistant to censorship because the network is spread over thousands of independent nodes, the website indicates. Tutorials on the website offer guidance on how to build a decentralized app, run a validator node, and other blockchain functions. </td>
     </tr>
+    <tr>
+    <td><a href="https://docs.polygon.technology/">Polygon</a></td>
+    <td>he Polygon Network is a Web3 software platform focused on making interaction with the Ethereum (ETH) blockchain easier. Officially, Polygon is called a "layer-2 scaling solution" because all its Web3 tools are built on top of Ethereum's "layer-1" blockchain and support Ethereum's scalability initiatives. </td>
+    </tr>
 </table>
 
 ### News
@@ -248,7 +256,7 @@ Analytics.</td>
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -285,7 +293,7 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Status</th>
+        <th>Cost</th>
       </tr>
       <tr>
         <td> <a href="https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf">Mastering Bitcoin by Andreas M.</a></td>
@@ -356,6 +364,14 @@ develop software that works with them</td>
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.rainbowkit.com/">RainbowKit</a></td>
+    <td>RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.</td>
+  </tr>
+  <tr>
+    <td><a href="https://wagmi.sh/">Wagmi</a></td>
+    <td>Wagmi is a React Hooks library for Ethereum  Wagmi has a CLI to manage ABIs as well as a robust ecosystem of third-party libraries, RainbowKit, and many more, so you can get started quickly without needing to build everything from scratch.</td>
   </tr>
   <tr>
     <td><a href="https://web3py.readthedocs.io/en/stable/">Web3.py</a></td>
@@ -483,59 +499,49 @@ develop software that works with them</td>
 ### Roadmap
 <table width="100%">
   <tr>
-    <th>Step</th>
-    <th>Description</th>
-    <th>Resources</th>
+    <th>Resource Name</th>
+    <th>Description</th>   
   </tr>
   <tr>
-    <td>Step 1</td>
+    <td><a href="https://www.youtube.com/watch?v=2uYuWiICCM0&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-">Step 1- YouTube : Blockchain tutorial for beginnners</a></td>
     <td>Learn Blockchain Basics: Understand the fundamental concepts of blockchain technology, including decentralization, consensus mechanisms, and cryptographic principles.</td>
-    <td><a href="https://www.youtube.com/watch?v=2uYuWiICCM0&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-"> YouTube : Blockchain tutorial for beginnners</a></td>
-  </tr>
+      </tr>
   <tr>
-    <td>Step 2</td>
+    <td><a href="https://ethereum.org/en/what-is-ethereum/">Step 2 - Ethereum - What is Ethereum?</a>, <a href="https://www.youtube.com/watch?v=UihMqcj-cqc">YouTube : Ethereum in 30 minutes</a></td>
     <td>Study Ethereum: Explore the Ethereum blockchain platform, including its architecture, smart contracts, and Ethereum Virtual Machine (EVM).</td>
-    <td><a href="https://ethereum.org/en/what-is-ethereum/">Ethereum - What is Ethereum?</a>, <a href="https://www.youtube.com/watch?v=UihMqcj-cqc">YouTube : Ethereum in 30 minutes</a></td>
   </tr>
   <tr>
-    <td>Step 3</td>
+      <td><a href="https://www.youtube.com/watch?v=EhPeHeoKF88">Step 3 - YouTube: Learn Solidity - The COMPLETE Beginner’s Guide</a></td>
     <td>Learn Solidity: Master the Solidity programming language used for writing smart contracts on the Ethereum blockchain.</td>
-    <td><a href="https://www.youtube.com/watch?v=EhPeHeoKF88">YouTube: Learn Solidity - The COMPLETE Beginner’s Guide</a></td>
-  </tr>
+    </tr>
   <tr>
-    <td>Step 4</td>
+     <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">YouTube: Solidity, Smart Contract, and Blockchain Development Full Course </a></td>
     <td>Explore Decentralized Applications (DApps): Understand the architecture and development of DApps, including frontend and backend components.</td>
-    <td><a href="https://www.youtube.com/watch?v=jYEqoIeAoBg">YouTube: Solidity, Smart Contract, and Blockchain Development Full Course </a></td>
-  </tr>
+     </tr>
   <tr>
-    <td>Step 5</td>
+      <td><a href="https://www.youtube.com/watch?v=J1pX4NLNN1M&list=PLgPmWS2dQHW9_Mo_5OC7Eyqi1FwKOJlb9">Step 5 - YouTube: DeFi Series</a></td>
     <td>Dive into Decentralized Finance (DeFi): Explore the concepts and protocols of DeFi, including lending, borrowing, and decentralized exchanges.</td>
-    <td><a href="https://www.youtube.com/watch?v=J1pX4NLNN1M&list=PLgPmWS2dQHW9_Mo_5OC7Eyqi1FwKOJlb9">YouTube: DeFi Series</a></td>
+    </tr>
+  <tr>
+     <td><a href="https://www.youtube.com/watch?v=29Ty-VTDnh4&list=PLOyWqupZ-WGsnACsCmWH7PO-0paz9zlQ8">Step 6 - YouTube : Polkadot for beginners</a>, <a href="https://www.youtube.com/watch?v=2csG9sR5j7w&list=PLrbMFdXZnzoAwfxIVo-SQ_qEBCqbwuU6o">YouTube : Cardano 101 course</a>, <a href="https://www.youtube.com/watch?v=iJDoc0kvXLc">YouTube : Binance Smart Chain (BSC) explained</a></td>
+    <td>Understand Web3 Technologies: Learn about other blockchain platforms and technologies beyond Ethereum, such as Polkadot, Cardano, and Binance Smart Chain.</td> 
   </tr>
   <tr>
-    <td>Step 6</td>
-    <td>Understand Web3 Technologies: Learn about other blockchain platforms and technologies beyond Ethereum, such as Polkadot, Cardano, and Binance Smart Chain.</td>
-    <td><a href="https://www.youtube.com/watch?v=29Ty-VTDnh4&list=PLOyWqupZ-WGsnACsCmWH7PO-0paz9zlQ8"> YouTube : Polkadot for beginners</a>, <a href="https://www.youtube.com/watch?v=2csG9sR5j7w&list=PLrbMFdXZnzoAwfxIVo-SQ_qEBCqbwuU6o">YouTube : Cardano 101 course</a>, <a href="https://www.youtube.com/watch?v=iJDoc0kvXLc">YouTube : Binance Smart Chain (BSC) explained</a></td>
-  </tr>
-  <tr>
-    <td>Step 7</td>
+     <td><a href="https://github.com/ethereum/solidity">Step 7 - Solidity Documentation</a>, <a href="https://consensys.net/academy/">Consensys Academy</a></td>
     <td>Master Advanced Smart Contract Development: Dive deeper into advanced Solidity topics, security considerations, and best practices for smart contract development.</td>
-    <td><a href="https://github.com/ethereum/solidity">Solidity Documentation</a>, <a href="https://consensys.net/academy/">Consensys Academy</a></td>
   </tr>
   <tr>
-    <td>Step 8</td>
+     <td><a href="https://www.cosmos.network/">Step 8 - Cosmos</a>, <a href="https://www.wanchain.org/">Wanchain</a>, <a href="https://www.polkadot.network/">Polkadot</a>
     <td>Explore Blockchain Interoperability: Learn about interoperability protocols and bridges that enable communication between different blockchain networks.</td>
-    <td><a href="https://www.cosmos.network/">Cosmos</a>, <a href="https://www.wanchain.org/">Wanchain</a>, <a href="https://www.polkadot.network/">Polkadot</a></td>
+   </td>
   </tr>
   <tr>
-    <td>Step 9</td>
+    <td><a href="https://www.reddit.com/r/ethereum/">Step 9 - r/ethereum on Reddit</a>, <a href="https://discord.gg/web3">WEB3 🌐 Discord Community</a></td>
     <td>Stay Updated and Engage with the Community: Keep up with the latest trends, news, and developments in the Web3 ecosystem by joining forums, attending meetups, and following industry experts.</td>
-    <td><a href="https://www.reddit.com/r/ethereum/">r/ethereum on Reddit</a>, <a href="https://discord.gg/web3">WEB3 🌐 Discord Community</a></td>
-  </tr>
+      </tr>
   <tr>
-    <td>Step 10</td>
+      <td>Step 10 - Refer to Hackathons section</td>
     <td>Gain Practical Experience: Participate in hackathons, build projects, and contribute to open-source blockchain initiatives to apply your knowledge in real-world scenarios.</td>
-    <td>Refer to Hackathons section</td>
   </tr>
 </table>
 
@@ -567,7 +573,7 @@ develop software that works with them</td>
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -591,3 +597,58 @@ develop software that works with them</td>
         <td>This GitHub repository "awesome-web3" by Envoy-VC serves as a curated collection of resources dedicated to Web3 technology, including decentralized protocols, blockchain technology, and peer-to-peer interactions and more.</td>
       </tr>
 </table>
+
+### Projects
+
+> These resources are equal to more than 100+ projects, which help you to make your hands dirty on Web3
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://github.com/Shubham0850/awesome-web3-projects">Awesome Web3 projects</a></td>
+        <td>This repository is a curated collection of innovative projects leveraging Web3 technology to build decentralized applications (dApps), blockchain solutions, and other groundbreaking applications. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.theinsaneapp.com/2022/05/best-web3-projects.html">Web3 Projects</a></td>
+        <td>This blog post is a curated lists of innovative projects on Web3 technologies, such as decentralized applications (dApps), blockchain solutions, decentralized finance (DeFi) platforms, non-fungible token (NFT) marketplaces, and more.This blog post provides you with both tutorial and source code.</td>
+      </tr>
+      <tr>
+        <td><a href="https://web3.career/learn-web3/top-solidity-open-source-projects#safe-smart-account">Solidity projects</a></td>
+        <td>This link provides you a list of open-source projects written in Solidity, if you're interested in exploring the top Solidity open-source projects, this website is the go-to place for you.</td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/3D4Z9NZRcLI?si=ISIU1LZIkDwWvC15">Supply Chain Marketplace On Ethereum</a></td>
+        <td>
+Blockchain Supply chain management plays a critical role in ensuring efficient operations and maintaining consumer trust. This project focuses on developing and deploying a decentralized application (DApp) powered by blockchain technology to streamline supply chain management processes. </td>
+      </tr>
+</table>
+
+### Interview
+
+> These are some Interview preparation resources of Web3.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://101blockchains.com/web3-interview-questions/">Top 20 Interview Questions</a></td>
+        <td>This website contains frequently asked top 20 web3 interview questions and provided with solutions.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/01231/web3-interview-preparation">Web3 Interview Preparation Guide</a></td>
+        <td>This repository contains the Web3 interview preparation guide ,tips and tricks to crack web3 interview.It even contains the basic question which were asked in many interviews. </td>
+      </tr>
+    
+   
+</table>
+
+### Conclusion
+
+Web3 represents a transformative shift in the way we interact with the internet, emphasizing decentralization, privacy, and user empowerment. Unlike traditional web architectures, which rely on centralized servers and intermediaries, Web3 leverages blockchain technology and decentralized protocols to create a more open and transparent web ecosystem. This enables users to have greater control over their data and digital identities, as well as facilitating peer-to-peer transactions and interactions without the need for intermediaries. The wide array of technologies and standards associated with Web3, such as blockchain platforms like Ethereum, decentralized storage systems like IPFS, and decentralized identity protocols like DID, offer developers the tools and infrastructure to build decentralized applications (dApps) and services. The iterative nature of Web3 development, from smart contract development and decentralized application design to community governance and consensus mechanisms, underscores the importance of collaboration and experimentation. The Web3 community is vibrant and inclusive, with a wealth of resources like developer documentation, forums, and decentralized communities to support developers and enthusiasts. To excel in Web3 development, hands-on experience and a willingness to explore new paradigms are essential—participate in blockchain hackathons, contribute to open-source projects, and engage with the broader Web3 ecosystem to stay at the forefront of this groundbreaking technology. This practical approach not only enhances your technical skills but also empowers you to contribute to the evolution of the decentralized web and shape the future of digital interactions.
+
+Never stop learning !

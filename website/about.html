@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<main lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About ResourceHub</title>
+  <link rel="stylesheet" href="about.css">
+  <link rel="shortcut icon" href="/ResourceHub/website/assets/logo.png" type="image/x-icon">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.6/lottie.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body class="bg-black">
+  <!-- NAVBAR  -->
+  <nav class="sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-white">
+    <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm">
+      <div class="flex justify-between mt-4 items-center">
+        <div class="flex items-center flex-shrink-0">
+          <img class="h-10 w-10 mr-2" src="./assets/logo.png" alt="Logo" />
+          <span class="text-xl tracking-tight hover-effect">ResourceHub</span>
+        </div>
+        <ul class="hidden-mobile ml-14 space-x-12">
+          <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+            <a href="./index.html">Home</a>
+          </li>
+          <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+            <a href="./about.html">About</a>
+          </li>
+          <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+            <a href="./index.html">Services</a>
+          </li>
+          <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
+            <a href="./index.html">Contact</a>
+          </li>
+        </ul>
+        <div class="hidden-desktop text-blue md:flex flex-col justify-end">
+          <button id="toggle-navbar">
+            <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+              stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+            <svg id="close-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="none" viewBox="0 0 24 24"
+              stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div id="mobile-drawer"
+        class="hidden text-white backdrop-blur opacity-85 fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
+        <ul>
+          <li class="py-4 hover-effect">
+            <a href="./index.html">Home</a>
+          </li>
+          <li class="py-4 hover-effect">
+            <a href="about.html">About</a>
+          </li>
+          <li class="py-4 hover-effect">
+            <a href="./index.html">Services</a>
+          </li>
+          <li class="py-4 hover-effect">
+            <a href="./index.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+  <main>
+    <div class="card-container">
+      <div class="card">
+        <h2>Our Purpose</h2>
+        <p>ResourceHub is an Open-Source project dedicated to curating valuable resources across various fields to empower and support the tech community in their learning and development journey.</p>
+      </div>
+      <div class="card">
+        <h2>Categories</h2>
+        <ul class="categories">
+          <li>Web Development</li>
+          <li>UI & UX Design</li>
+          <li>Web3</li>
+          <li>Database</li>
+          <li>Open Source Development</li>
+          <li>DevOps</li>
+          <li>App Development</li>
+          <li>Programming Languages</li>
+          <li>Data Science</li>
+          <li>Machine Learning</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>Technologies Used</h2>
+        <p>ResourceHub is built using modern web technologies such as HTML, CSS, JavaScript, and deployed on Vercel to provide a seamless and responsive user experience.</p>
+      </div>
+      <div class="card">
+        <h2>Get Involved</h2>
+        <p>ResourceHub thrives on community contributions. Share valuable resources you've discovered to enrich the platform and help others in the tech community. Together, let's make ResourceHub the ultimate destination for tech enthusiasts!</p>
+      </div>
+    </div>
+  </main>
+  <!-- Footer -->
+  <footer class="mt-20 border-t py-10 border-neutral-700 bg-gray-900 footerclass">
+    <center>
+      <div class="grid grid-cols-2 lg:grid-cols-3 gap-4">
+        <div>
+          <h3 class="text-md font-semibold text-white mb-4">Resources</h3>
+          <ul class="space-y-2">
+            <!-- Resource links -->
+            <li><a href="https://developer.mozilla.org/" class="text-neutral-300 hover:text-white">MDN Web Docs</a></li>
+            <li><a href="https://www.w3schools.com/" class="text-neutral-300 hover:text-white">W3Schools</a></li>
+            <li><a href="https://stackoverflow.com/" class="text-neutral-300 hover:text-white">Stack Overflow</a></li>
+            <li><a href="https://css-tricks.com/" class="text-neutral-300 hover:text-white">CSS Tricks</a></li>
+            <!-- Add more resource links as needed -->
+          </ul>
+        </div>
+        <div>
+          <h3 class="text-md font-semibold text-white mb-4">Community</h3>
+          <ul class="space-y-2">
+            <!-- Community links -->
+            <li><a href="https://github.com/" class="text-neutral-300 hover:text-white">GitHub</a></li>
+            <li><a href="https://stackoverflow.com/" class="text-neutral-300 hover:text-white">Stack Overflow</a></li>
+            <li><a href="https://www.reddit.com/" class="text-neutral-300 hover:text-white">Reddit</a></li>
+            <li><a href="https://dev.to/" class="text-neutral-300 hover:text-white">Dev.to</a></li>
+            <!-- Add more community links as needed -->
+          </ul>
+        </div>
+        <div>
+          <h3 class="text-md font-semibold text-white mb-4">Courses</h3>
+          <ul class="space-y-2">
+            <!-- Course platform links -->
+            <li><a href="https://www.udemy.com/" class="text-neutral-300 hover:text-white">Udemy</a></li>
+            <li><a href="https://www.coursera.org/" class="text-neutral-300 hover:text-white">Coursera</a></li>
+            <li><a href="https://www.edx.org/" class="text-neutral-300 hover:text-white">edX</a></li>
+            <!-- Add more course platform links as needed -->
+          </ul>
+        </div>
+      </div>
+    </center>
+    <div class="text-center text-white mt-10">
+      &copy; 2024 ResourceHub. All rights reserved.
+    </div>
+  </footer>
+  <script src="scripts.js"></script>
+</body>
+</main>
+</html>

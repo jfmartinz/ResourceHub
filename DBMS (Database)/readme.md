@@ -15,6 +15,8 @@ A database is an organized collection of structured information, or data, typica
 - [Books](#books)
 - [Interview](#interview)
 - [GitHub Repositories](#github-repositories)
+- [projects](#projects)
+- [Conclusion](#conclusion)
 
 
 ### Database Category
@@ -279,6 +281,10 @@ Database design and modeling are critical steps in the creation and management o
         <td><a href="https://www.codecademy.com/resources/blog/top-sql-interview-questions-to-practice/">Codecademy</a></td>
         <td>Codecademy offers a variety of courses and interview prep materials focused on SQL and other data-related skills. They provide free-response questions and AI-generated feedback to help you prepare for technical interviews. Their courses cover essential topics like data analysis, SQL querying, and data visualization​.</td>
     </tr>
+    <tr>
+      <td><a href="https://www.geeksforgeeks.org/sql-interview-questions/">Geeks for Geeks </a></td>
+      <td>This platform covers 70+ SQL Interview Questions with answers asked in SQL developer interviews at MAANG and other high-paying companies.This article helps not only an experienced professional , but also a fresher to ace their interview</td>
+    </tr>
 </table>
 
 # GitHub Repositories
@@ -310,5 +316,33 @@ Database design and modeling are critical steps in the creation and management o
     </tr>
 </table>
 
+# Projects
+<table width="100%">
+    <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/watch?v=jtfuwnN2NoA&t=1122s">Library Database Management System</a></td>
+        <td>This tutorial explains how to set up database for libraries as libraries store vast amounts of data related to books, members, loans, authors, and categories. A DBMS helps in efficiently managing this data, ensuring data integrity, supporting concurrent access, and providing mechanisms for data recovery and security.
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/watch?v=-1CHie8day4&list=PLqr8f5JwnhhOoqR6MOoi1K6cZkLzBXuvc">Hospital Information Management System</a></td>
+        <td>This tutorial explains  how to setup database in hospitals .Hospital Information Management System (HIMS) is a comprehensive, integrated information system designed to manage the administrative, clinical aspects of a hospital.
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/watch?v=z1mR2rxpo6s&t=7606s">Student Database Management System</a></td>
+        <td>This tutorial explains how to  set up student database management system to manage various administrative and academic process within educational institutions.
+        </td>
+    </tr>
+   
+</table>
 
+### Conclusion
+
+Database Management Systems (DBMS) play a fundamental role in organizing and managing data efficiently, ensuring its integrity, security, and accessibility. With the rise of big data and the increasing complexity of data-driven applications, DBMS has become indispensable across various industries. The diverse range of DBMS options, including relational databases like MySQL, PostgreSQL, and SQL Server, as well as NoSQL databases like MongoDB and Cassandra, cater to different use cases and scalability needs. The extensive toolsets and features offered by DBMS, such as data indexing, transaction management, and query optimization, empower developers and administrators to handle data effectively. The DBMS community is active and supportive, providing ample resources such as tutorials, forums, and documentation to assist both beginners and experts. To excel in DBMS, practical experience is key—participate in coding challenges, contribute to open-source projects, and work on real-world database designs and optimizations. This hands-on approach not only deepens your understanding of database concepts but also opens up exciting career opportunities in database administration, data engineering, and beyond.
+
+Never stop learning !
     

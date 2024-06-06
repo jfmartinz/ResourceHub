@@ -11,12 +11,19 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
    - [Free Cources](#free-courses)<br>
    - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
+  - [Free books](#free-books)
+  - [Paid Books](#paid-books)
 - [YouTube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlists)<br>
 - [Resources for Finding Datasets](#resources-for-finding-datasets)<br>
 - [Competitions](#competitions)<br>
 - [Communities](#communities)<br>
 - [GitHub Repositories](#github-repositories)
+- [Projects](#projects)
+  - [Beginner Projects](#beginners-projects)
+  - [Intermediate Projects](#intermediate-projects)
+  - [Advanced Projects](#advanced-projects)
+- [Conclusion](#conclusion)
 
 ### Roadmap
 
@@ -193,11 +200,17 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td> <a href="https://www.linkedin.com/learning/paths/become-a-data-scientist">LinkedIn Learning - Become a Data Scientist Learning Path </a></td>
         <td>A curated collection of courses covering Python, machine learning, data analysis, and more, with certificates of completion. </td>
       </tr>
+      <tr>
+            <td><a href="https://www.udemy.com/topic/data-science/">Data Science Courses</a></td>
+            <td>Udemy - Learn top Data Science Courses.</td>
+      </tr>
   </table>
 
 ### Books
 
 > You can refer to these books on Data Science. They are listed below:
+
+#### Free books
 
 <table width="100%">
       <tr>
@@ -205,7 +218,31 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <th>Description</th>
       </tr>
        <tr>
-        <td> <a href="https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/">Python for Data Analysis" by Wes McKinney </a></td>
+        <td> <a href="https://www.dbooks.org/python-for-everybody-1530051126/">Python for Data Everyone</a></td>
+        <td> This books is a comprehensive guide to learning Python and basics of its libraries like Pandas, NumPy, Matplotlib and more.</td>
+      </tr>
+      <td> <a href="https://www.bing.com/ck/a?!&&p=5f61daa5e0205b73JmltdHM9MTcxNTgxNzYwMCZpZ3VpZD0xYjhkMzU3Yy02YmU3LTZiOGEtMjNkNC0yMWZkNmE4NDZhYTEmaW5zaWQ9NTE4NQ&ptn=3&ver=2&hsh=3&fclid=1b8d357c-6be7-6b8a-23d4-21fd6a846aa1&psq=Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow+pdf&u=a1aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdGEtc2NpZW5jZS1wcm9qZWN0cy1hbmQtcmVzb3VyY2VzL0RhdGEtU2NpZW5jZS1FQm9va3MvbWFpbi9NYWNoaW5lJTIwTGVhcm5pbmcvSGFuZHMtb24tTWFjaGluZS1MZWFybmluZy5wZGY&ntb=1">Hands-On Machine Learning with Scikit-Learn and TensorFlow</a></td>
+        <td>The Hands-On Machine Learning with Scikit-Learn and TensorFlow is a popular book by Aurélien Géron that covers various machine learning concepts and practical implementations using Scikit-Learn and TensorFlow.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python data science handbook</a></td>
+        <td>"Python Data Science Handbook" by Jake VanderPlas. It's a comprehensive resource covering various aspects of data science using Python programming language and its associated libraries like NumPy, pandas, Matplotlib, and scikit-learn.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.dbooks.org/r-for-data-science-1491910399/">R for Data science</a></td>
+        <td>"R for Data Science" is a book authored by Hadley Wickham and Garrett Grolemund. It's a comprehensive guide that introduces readers to data science using the R programming language. The book covers various aspects of the data science workflow, including data manipulation, visualization, modeling, communication and more.</td>
+      </tr>
+  </table>
+
+#### Paid books
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td> <a href="https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/">Python for Data Analysis by Wes McKinney </a></td>
         <td> A comprehensive guide to data analysis using Python and its libraries like Pandas, NumPy, and Matplotlib.</td>
       </tr>
       <tr>
@@ -213,15 +250,15 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td>Covers practical machine-learning techniques using popular Python libraries like Scikit-Learn, Keras, and TensorFlow. </td>
       </tr>
       <tr>
-        <td> <a href="https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/">Data Science for Business" by Foster Provost and Tom Fawcett</a></td>
+        <td> <a href="https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/">Data Science for Business by Foster Provost and Tom Fawcett</a></td>
         <td>Provides insights into the practical applications of data science in business contexts, focusing on data-driven decision-making. </td>
       </tr>
       <tr>
-        <td> <a href="https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/0">An Introduction to Statistical Learning" by Gareth James et al</a></td>
+        <td> <a href="https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/0">An Introduction to Statistical Learning by Gareth James et al</a></td>
         <td>A beginner-friendly introduction to machine learning concepts and techniques, with practical examples in R. </td>
       </tr>
       <tr>
-        <td> <a href="https://www.amazon.com/Deep-Learning-Ian-Goodfellow/dp/0262035618/">Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville</a></td>
+        <td> <a href="https://www.amazon.com/Deep-Learning-Ian-Goodfellow/dp/0262035618/">Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville</a></td>
         <td>  A comprehensive textbook covering deep learning concepts and methods, suitable for both beginners and advanced practitioners.</td>
       </tr>
   </table>
@@ -446,4 +483,90 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
     <td> <a href="https://github.com/jakevdp/PythonDataScienceHandbook?tab=readme-ov-file">Python Data Science Handbook</a></td>
     <td>The GitHub repository "PythonDataScienceHandbook" by jakevdp ,this one data science book is equivalent to a course, this repo includes Jupyter notebooks with detailed explanations and examples covering essential topics in data science using Python.</td>
   </tr>
+   <tr>
+    <td> <a href="https://github.com/chaconnewu/free-data-science-books">free-data-science-books</a></td>
+    <td>The GitHub repository "free-data-science-books" by chaconnewu , contains free learning resources for data science and big data related concepts, techniques, and applications.</td>
+  </tr>
 </table>
+
+### Projects
+
+> These projects helps you to gain some hands-on experience for Data science.
+
+#### Beginners projects
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.geeksforgeeks.org/zomato-data-analysis-using-python/">Zomato analysis</a></td>
+        <td>This provides a thorough guide on analyzing Zomato restaurant data using Python. It covers data cleaning, exploratory data analysis, and visualization techniques to uncover insights about restaurant trends, ratings, and more. The tutorial includes detailed code snippets and explanations, making it suitable for readers with basic knowledge of Python and data analysis.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/ipl-2023-data-analysis-using-pandas-ai/">IPL data analysis</a></td>
+        <td>This link navigates you to geeksforgeeks data science projects, Data Science Projects involve using data to solve real-world problems and find new solutions. They are great for beginners who want to add work to their resume or and expert to increase there skills.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/titanic-survival-prediction-using-tensorflow-in-python/">Titanic survival prediction</a></td>
+        <td>This offers a detailed guide on how to predict the survival of passengers on the Titanic using TensorFlow. It walks readers through data preprocessing, feature selection, and building a neural network model with TensorFlow. The tutorial includes comprehensive code examples and explanations, making it accessible to those with a foundational understanding of Python and machine learning.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.dataquest.io/blog/comical-data-visualization-in-python-using-matplotlib/">Comical data visualization</a></td>
+        <td>The article serves as a practical guide for those interested in injecting humor and creativity into their data visualization projects using Matplotlib in Python. By showcasing various examples and techniques, it offers actionable insights for making data analysis engaging and entertaining. With step-by-step instructions and illustrative visuals, readers can learn how to leverage Matplotlib's functionalities to create comical graphs and charts</td>
+      </tr>
+</table>
+
+#### Intermediate projects
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://thecleverprogrammer.com/2021/06/21/microsoft-stock-price-prediction-with-machine-learning/">Microsoft stock analysis</a></td>
+        <td>This offers a step-by-step tutorial on predicting Microsoft stock prices using machine learning techniques. It covers data collection, preprocessing, and the implementation of various machine learning models to make accurate stock price predictions. The guide includes detailed explanations and Python code examples, making it ideal for readers with a basic understanding of Python and machine learning concepts.</td>
+      </tr>
+      <tr>
+        <td><a href="https://thecleverprogrammer.com/2021/09/22/movie-rating-analysis-using-python/">Movie rating analysis</a></td>
+        <td>This provides a comprehensive tutorial on analyzing movie ratings data with Python. It covers data collection, cleaning, and exploratory data analysis to uncover patterns and insights in movie ratings. The tutorial includes practical examples and Python code snippets, making it accessible for readers with a basic understanding of Python and data analysis techniques.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/analyzing-selling-price-of-used-cars-using-python/">Analyzing price of selling cars</a></td>
+        <td>This provides a step-by-step guide to analyzing and predicting the selling prices of used cars using Python. It covers essential data preprocessing steps, exploratory data analysis, and the application of machine learning models to predict car prices. </td>
+      </tr>
+      <tr>
+        <td><a href="https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html">Dog and cat classification</a></td>
+        <td>The article explores how to build robust image classification models with minimal data using Keras, a high-level neural networks API. It demonstrates strategies for effectively training models on small datasets by leveraging techniques such as data augmentation and fine-tuning pre-trained networks. This resource is invaluable for those seeking to develop powerful image recognition systems even when limited by data availability.</td>
+      </tr>
+      
+</table>
+
+#### Advanced projects
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.geeksforgeeks.org/web-scraping-for-stock-prices-in-python/">Web Scraping for stock prizes</a></td>
+        <td>This provides a comprehensive guide on how to scrape stock price data from websites using Python. It covers the basics of web scraping, including how to use libraries like BeautifulSoup and requests to extract data from web pages. The tutorial includes practical examples and code snippets, making it accessible for readers with a understanding of Python and web scraping techniques.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/talking-healthcare-chatbot-using-deep-learning/">Talking health care chatbot</a></td>
+        <td>This offers a detailed guide on building a healthcare chatbot using deep learning techniques. It explains the process of creating a conversational AI model that can understand and respond to health-related queries. The tutorial covers data preprocessing, model training using deep learning frameworks, and implementation details with code examples.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/">Human activiry recognision</a></td>
+        <td>This provides a thorough tutorial on building a model to recognize human activities using deep learning. It covers data collection, preprocessing, and the implementation of a deep learning model to classify different human activities. The guide includes step-by-step instructions and Python code examples, making it accessible for readers with a understanding of Python and deep learning techniques..</td>
+      </tr>
+</table>
+
+### Conclusion
+
+Data science is a dynamic and interdisciplinary field that combines statistical analysis, machine learning, and domain expertise to extract insights and knowledge from data. It plays a pivotal role in driving informed decision-making and solving complex problems across various domains, including finance, healthcare, marketing, and more. The expansive toolkit of data science, comprising programming languages like Python and R, alongside libraries and frameworks such as pandas, scikit-learn, and TensorFlow, empowers practitioners to explore, analyze, and model data effectively. The iterative process of data science, from data collection and preprocessing to model building and evaluation, emphasizes the importance of domain knowledge and critical thinking. The data science community is vibrant and collaborative, offering a wealth of resources like online courses, blogs, and forums to support learners and professionals alike. To excel in data science, hands-on experience is paramount—engage in coding challenges, contribute to open-source projects, and tackle real-world data problems. This practical approach not only enhances your technical skills but also cultivates a deeper understanding of data-driven decision-making, positioning you for success in this rapidly evolving field.
+
+Never stop learning !
