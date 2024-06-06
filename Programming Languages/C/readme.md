@@ -29,6 +29,7 @@ This section serves as a curated collection of valuable resources for learning a
 - [Books](#books)
 - [Interview Preparations](#interview-preparation)
 - [Websites](#websites)
+- [C CheatSheets](#c-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -781,6 +782,41 @@ This section serves as a curated collection of valuable resources for learning a
   <tr>
     <td><a href="https://www.freecodecamp.org/news/the-c-beginners-handbook/">freeCodeCamp - The C Beginner's Handbook</a></td>
     <td>A beginner's guide to learning C programming, starting from the basics and progressing to advanced topics.</td>
+  </tr>
+</table>
+
+### C CheatSheets
+
+> Cheat sheets for C programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/c.html">C Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for C programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/c-cheat-sheet/">Scaler - C Cheatsheet</a></td>
+    <td>Comprehensive cheat sheet for C programming, provided by Scaler.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewithharry.com/blogpost/c-cheatsheet/">C Language CheatSheet</a></td>
+    <td>A practical C programming cheat sheet by Code with Harry, ideal for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/c-cheatsheet/">C Programming Language Cheat Sheet</a></td>
+    <td>A detailed C cheat sheet from GeeksforGeeks, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/resources/cheatsheets/language/c">C Cheatsheets</a></td>
+    <td>A collection of C cheat sheets from Codecademy, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/">C Reference Cheat Sheet by Ashlyn Black</a></td>
+    <td>A comprehensive C reference cheat sheet created by Ashlyn Black, available on Cheatography.</td>
   </tr>
 </table>
 
