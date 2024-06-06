@@ -39,6 +39,7 @@ You can contribute with helpful resources you've discovered on the internet and 
 Here is a list of the currently available categories of the project:<br>
 - [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development)
   - [Frontend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Frontend%20Development)
+  - [Backend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Backend%20Development)
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
@@ -59,6 +60,9 @@ ResourceHub is built using the following technologies:
 
 > Website URL: [ResourceHub](https://resourcehubwebsite.vercel.app/)
 
+## Organization
+![Organization](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fqJaH_oISOR96gLgpJBwWQ.png)
+ResourceHub is participating in GirlScript Summer of Code (GSSoC), an annual open-source program by the GirlScript Foundation. GSSoC promotes gender diversity and inclusion in tech by enabling participants to contribute to various projects under expert mentorship. We are excited to collaborate with talented individuals and advance our project through this initiative.
 ## How to contribute
 Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your fork of this repository before submitting any contributions.
 Expand the following section for a quick guide on how to create a fork:

@@ -98,7 +98,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
   <tr>
     <td><a href="https://www.w3schools.com/go/go_variables.php">Variables</a></td>
-    <td>An article explaining how to declare and use variables in JavaScript using the var, let, and const keywords.</td>
+    <td>An article explaining how to declare and use variables in Go using the var, let, and const keywords.</td>
   </tr>
   <tr>
     <td><a href="https://www.developer.com/languages/control-structures-golang/">Control Stuctures</a></td>
@@ -152,7 +152,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/arrays-in-go/">Arrays</a></td>
-    <td>This article will look into the usage of arrays in Golang or Go programming language.</td>
+    <td>This article will look into the usage of arrays in Go programming language.</td>
   </tr>
   <tr>
     <td><a href="https://go.dev/blog/slices-intro">Slices</a></td>

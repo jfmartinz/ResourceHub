@@ -12,6 +12,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
    - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)<br>
    - [Core Python Libraries](#core-python-libraries)<br>
    - [Frameworks and Libraries](#frameworks-and-libraries)<br>
+   - [Data Visulization Libraries](#data-visualization-libraries)
+   - [3D visualization](#3d-visualization)
+   - [Image Processing](#image-processing)
+   - [Neural Networks](#neural-networks)
    - [Web Development with Flask](#web-development-with-flask)<br>
    - [Web Development with Django](#web-development-with-django)<br>
    - [Data Science and Machine Learning](#data-science-and-machine-learning)<br>
@@ -201,6 +205,133 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td><a href="https://seaborn.pydata.org/">Seaborn</a></td>
     <td>Official documentation for Seaborn, a Python visualization library based on Matplotlib that provides a high-level interface for drawing attractive statistical graphics.</td>
   </tr>
+</table>
+
+#### Data visualization Libraries
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://bokeh.pydata.org/en/latest/">Bokeh</a></td>
+      <td>Bokeh provides interactive visualization tools for web browsers, enabling elegant and concise construction of versatile graphics.</td>
+    </tr>
+    <tr>
+      <td><a href="https://altair-viz.github.io/">Altair</a></td>
+      <td>Altair offers a declarative statistical visualization library in Python, allowing users to build elegant visualizations with minimal effort.</td>
+    </tr>
+    <tr>
+      <td><a href="https://seaborn.pydata.org/">seaborn</a></td>
+      <td>seaborn is a Python library for statistical data visualization based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bloomberg/bqplot">bqplot</a></td>
+      <td>bqplot is a 2D interactive data visualization library in Jupyter, providing a high-level plotting system for complex, interactive visualizations.</td>
+    </tr>
+    <tr>
+      <td><a href="https://plotnine.readthedocs.io/">plotnine</a></td>
+      <td>plotnine is a Python implementation of the Grammar of Graphics, based on the ggplot2 library in R. It allows users to create complex plots with a concise syntax.</td>
+    </tr>
+    <tr>
+      <td><a href="https://plot.ly/python/">plotly</a></td>
+      <td>plotly is a Python library for creating interactive, publication-quality graphs and figures, ideal for visualizing data on the web.</td>
+    </tr>
+    <tr>
+      <td><a href="http://holoviews.org/">HoloViews</a></td>
+      <td>HoloViews is a Python library for building complex visualizations easily. It provides a high-level approach for constructing interactive visualizations from data.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/napari/napari">Napari</a></td>
+      <td>Napari is a multi-dimensional image viewer for Python, offering an intuitive interface for visualizing and analyzing multi-dimensional data.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 3D visualization
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://ipyvolume.readthedocs.io/en/latest/">ipyvolume</a></td>
+      <td>ipyvolume is a Python library for creating 3D visualizations in Jupyter notebooks. It enables interactive exploration of volumetric and 3D scatter plots.</td>
+    </tr>
+    <tr>
+      <td><a href="http://vispy.org/">VisPy</a></td>
+      <td>VisPy is a Python library for interactive, GPU-accelerated visualization. It allows for the creation of high-performance visualizations, particularly suited for large datasets.</td>
+    </tr>
+    <tr>
+      <td><a href="http://glumpy.github.io/">Glumpy</a></td>
+      <td>Glumpy is a Python library for scientific visualization using modern OpenGL. It provides a simple interface for creating high-performance visualizations, particularly for real-time data.</td>
+    </tr>
+    <tr>
+      <td><a href="https://vedo.embl.es/">vedo</a></td>
+      <td>vedo is a Python library for scientific analysis and visualization based on the Visualization Toolkit (VTK). It offers a wide range of visualization capabilities for exploring complex scientific datasets.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### Image Processing
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://scikit-image.org/">scikit-image</a></td>
+      <td>scikit-image is a Python library for image processing tasks. It provides a collection of algorithms for image manipulation, filtering, segmentation, and feature extraction.</td>
+    </tr>
+    <tr>
+      <td><a href="https://pillow.readthedocs.io/en/latest/">Pillow</a></td>
+      <td>Pillow is a Python Imaging Library (PIL) fork, providing image processing capabilities for Python. It supports various image formats and provides tools for image manipulation and enhancement.</td>
+    </tr>
+    <tr>
+      <td><a href="https://opencv.org/">OpenCV</a></td>
+      <td>OpenCV is a widely-used computer vision library with extensive image processing capabilities. It offers a comprehensive set of tools for tasks such as image filtering, feature detection, object recognition, and more.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Neural Networks
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://pytorch.org/">PyTorch</a></td>
+      <td>PyTorch is a deep learning framework that provides tensor computation with GPU acceleration and automatic differentiation. It is widely used for building neural networks and conducting deep learning research.</td>
+    </tr>
+    <tr>
+      <td><a href="https://keras.io/">Keras</a></td>
+      <td>Keras is a high-level neural networks API, written in Python, capable of running on top of TensorFlow, Theano, or CNTK. It allows for easy and fast prototyping of neural network architectures.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.tensorflow.org/">TensorFlow</a></td>
+      <td>TensorFlow is an open-source machine learning framework developed by Google. It provides tools for building and training neural networks, including deep learning models, with a focus on scalability and flexibility.</td>
+    </tr>
+    <tr>
+      <td><a href="http://caffe.berkeleyvision.org/">Caffe</a></td>
+      <td>Caffe is a deep learning framework developed by the Berkeley Vision and Learning Center. It is widely used for image classification, segmentation, and other computer vision tasks.</td>
+    </tr>
+  </tbody>
 </table>
 
 #### Web Development with Flask
@@ -459,6 +590,59 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+      <table>
+    <tr>
+      <td><a href="https://berkeley-stat159-f17.github.io/stat159-f17/index.html">Stat 159/259, Reproducible and Collaborative Data Science</a></td>
+      <td>Fernando Perez, Berkeley University, 2017.</td>
+    </tr>
+    <tr>
+      <td><a href="https://web.stanford.edu/~schmit/cme193/">CME 193, Introduction to Scientific Python</a></td>
+      <td>Stanford University, Sven Schmit, 2015.</td>
+    </tr>
+    <tr>
+      <td><a href="https://online-learning.harvard.edu/course/using-python-research">Using Python for Research</a></td>
+      <td>Jukka-Pekka Onnela, Harvard University Online Learning.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.city.ac.uk/courses/short-courses/introduction-to-data-analysis-and-machine-learning-with-python">Introduction to Data Analytics and Machine Learning with Python</a></td>
+      <td>University of London.</td>
+    </tr>
+    <tr>
+      <td><a href="http://bender.astro.sunysb.edu/classes/python-science/">PHY 546: Python for Scientific Computing</a></td>
+      <td>Stony Brook University, Michael Zingale, 2018.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cuttlefishh/python-for-data-analysis">Python for Data Analysis</a></td>
+      <td>Luke Thompson, NOAA.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.coursera.org/specializations/data-science-python">Coursera Data Science with Python</a></td>
+      <td>University of Michigan.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.edx.org/course/python-for-data-science">edX Python for Data Science</a></td>
+      <td>UC San Diego, Ilkay Altintas, Leo Porter.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x">edX Foundations of Data Science: Computational Thinking with Python</a></td>
+      <td>UC Berkeley, Ani Adhikari, John DeNero, David Wagner.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.python-course.eu/index.php">Python Course</a></td>
+      <td>Bernd Klein.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">Intro to Python for Data Science</a></td>
+      <td>DataCamp, Filip Schouwenaars.</td>
+    </tr>
+    <tr>
+      <td><a href="https://wiki.python.org/moin/SchoolsUsingPython">Schools using Python</a></td>
+      <td>on python.org.</td>
+    </tr>
+    <tr>
+      <td><a href="https://programiz.pro/course/python-numpy-for-data-science">Python NumPy for Data Science</a></td>
+      <td>by Programiz PRO.</td>
+    </tr>
        <tr>
         <td> <a href = "https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/"> Freecodecamp</a> </td>
         <td> Learn Python from scratch to advanced proficiency with hands-on exercises and real-world projects in this comprehensive course.</td>
@@ -518,6 +702,40 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>Covers essential tools and techniques for data manipulation, visualization, and analysis using Python.</td>
            <td>Paid</td>
       </tr>
+         <tr>
+      <td><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook</a></td>
+      <td>Authored by Jake VanderPlas and published by O'Reilly in 2016, this book spans 541 pages and serves as a comprehensive guide to data science with Python.</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="http://shop.oreilly.com/product/0636920050896.do">Python for Data Analysis</a></td>
+      <td>Written by William McKinney and published by O'Reilly in 2017 (second edition), this 544-page book focuses on using Python for data analysis purposes.</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec">Learning IPython for Interactive Computing and Data Analysis</a></td>
+      <td>Cyrille Rossant's book, published by Packt Publishing in 2015 (second edition), offers a comprehensive guide to using IPython for interactive computing and data visualization, spanning 200 pages.</td><td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/big-data-and-business-intelligence/ipython-interactive-computing-and-visualization-cookbook-second-e">IPython Interactive Computing and Visualization Cookbook</a></td>
+      <td>Cyrille Rossant's cookbook, published by Packt Publishing in 2018 (second edition), provides a collection of recipes for interactive computing and visualization with IPython, covering 548 pages.</td><td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.springer.com/gp/book/9783642549595">A Primer on Scientific Programming with Python</a></td>
+      <td>Authored by Hans Petter Langtangen and published by Springer in 2014, this 872-page book serves as a primer on scientific programming with Python.</td><td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.manning.com/books/exploring-data-with-python">Exploring Data with Python</a></td>
+      <td>Naomi Ceder's book, published by Manning in 2018, offers a concise exploration of data using Python, covering 110 pages.</td><td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.manning.com/books/deep-learning-with-python">Deep Learning with Python</a></td>
+      <td>François Chollet's book, published by Manning in 2017, delves into deep learning techniques using Python, spanning 384 pages.</td><td>Free</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition">Python Machine Learning</a></td>
+      <td>Sebastian Raschka and Vahid Mirjalili's book, published by Packt Publishing in 2017 (second edition), provides insights into machine learning using Python across 622 pages.</td><td>Free</td>
+    </tr>
 </table>
 
 ### Python Projects
@@ -678,6 +896,38 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>This 100 Days of Code - Learn Python playlist by Replit is an excellent resource for those who are interested in learning Python. In this course, you will build games, apps, and websites by mastering Python programming. 
          </td>
       </tr>
+          <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GesARqNMImG3NnX3_bWq-lT">SciPy 2021: Scientific Computing with Python Conference</a></td>
+      <td>A collection of 61 YouTube videos covering various topics in scientific computing with Python, presented at the SciPy 2021 conference.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC">SciPy 2019: Scientific Computing with Python Conference</a></td>
+      <td>Comprising 102 YouTube videos, this playlist includes talks and tutorials from the SciPy 2019 conference, addressing a wide range of topics related to scientific computing and data analysis using Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gd-tNhm79CNMe_qvi35PgUR">SciPy 2018: Scientific Computing with Python Conference</a></td>
+      <td>Featuring 97 YouTube videos, this playlist contains presentations and discussions from the SciPy 2018 conference, covering various aspects of scientific computing, data visualization, and machine learning with Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf">SciPy 2017: Scientific Computing with Python Conference</a></td>
+      <td>This playlist includes 91 YouTube videos from the SciPy 2017 conference, offering insights into scientific computing, numerical algorithms, and data analysis techniques using Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6">SciPy 2016: Scientific Computing with Python Conference</a></td>
+      <td>Consisting of 92 YouTube videos, this playlist features sessions from the SciPy 2016 conference, covering topics such as data manipulation, statistical analysis, and machine learning in Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu">SciPy 2015: Scientific Computing with Python Conference</a></td>
+      <td>With 116 YouTube videos, this playlist includes presentations and tutorials from the SciPy 2015 conference, addressing various aspects of scientific computing, data visualization, and machine learning using Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog">SciPy 2014: Scientific Computing with Python Conference</a></td>
+      <td>Containing 121 YouTube videos, this playlist features talks and workshops from the SciPy 2014 conference, covering topics such as numerical computing, data analysis, and optimization techniques with Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y">SciPy 2013: Scientific Computing with Python Conference</a></td>
+      <td>This playlist comprises 33 YouTube videos from the SciPy 2013 conference, providing insights into scientific computing, data analysis, and visualization using Python.</td>
+    </tr>
 </table>
 
 ### Conclusion

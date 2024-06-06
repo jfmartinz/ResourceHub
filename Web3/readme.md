@@ -16,6 +16,7 @@ Web3 is the next-generation internet characterized by decentralization, blockcha
 - [Roadmap](#roadmap)<br>
 - [GitHub Repositories](#github-repositories)<br>
 - [Projects](#projects)<br>
+- [Interview](#interview)<br>
 - [Conclusion](#conclusion)<br>
 
 ### Website to learn Web3
@@ -618,6 +619,32 @@ develop software that works with them</td>
         <td><a href="https://web3.career/learn-web3/top-solidity-open-source-projects#safe-smart-account">Solidity projects</a></td>
         <td>This link provides you a list of open-source projects written in Solidity, if you're interested in exploring the top Solidity open-source projects, this website is the go-to place for you.</td>
       </tr>
+      <tr>
+        <td><a href="https://youtu.be/3D4Z9NZRcLI?si=ISIU1LZIkDwWvC15">Supply Chain Marketplace On Ethereum</a></td>
+        <td>
+Blockchain Supply chain management plays a critical role in ensuring efficient operations and maintaining consumer trust. This project focuses on developing and deploying a decentralized application (DApp) powered by blockchain technology to streamline supply chain management processes. </td>
+      </tr>
+</table>
+
+### Interview
+
+> These are some Interview preparation resources of Web3.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://101blockchains.com/web3-interview-questions/">Top 20 Interview Questions</a></td>
+        <td>This website contains frequently asked top 20 web3 interview questions and provided with solutions.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/01231/web3-interview-preparation">Web3 Interview Preparation Guide</a></td>
+        <td>This repository contains the Web3 interview preparation guide ,tips and tricks to crack web3 interview.It even contains the basic question which were asked in many interviews. </td>
+      </tr>
+    
+   
 </table>
 
 ### Conclusion

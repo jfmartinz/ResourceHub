@@ -60,7 +60,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
       </tr>
        <tr>
         <td><a href="https://roadmap.sh/react">Roadmap for React</a></td>
-        <td>This Youtube playlist by Edureka is not only a playlist but a collection courses for learning improtant data science concepts like statistics, Data analysis, Data visualization, and more.If you are a beginner, this course will take you to from beginners level to advance level. </td>
+        <td>This roadmap gives you a clear learning path for react from basic to advance level.</td>
       </tr>
 </table>
 

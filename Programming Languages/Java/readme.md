@@ -8,7 +8,7 @@ This section is a curated collection of valuable Java and Java development resou
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [Java](#java)
   - [Fundamentals](#fundamentals)
   - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
   - [Core Java Libraries](#core-java-libraries)
@@ -17,9 +17,9 @@ This section is a curated collection of valuable Java and Java development resou
   - [Java EE (Enterprise Edition)](#java-ee-enterprise-edition)
   - [Java Database Connectivity (JDBC)](#java-database-connectivity-jdbc)
 - [Tools and IDEs](#tools-and-ides)
-- [Java Web Development](#java-web-development)
-- [Java Android Development](#java-android-development)
-- [Java Networking](#java-networking)
+- [Web Development](#web-development)
+- [Android Development](#android-development)
+- [Networking](#networking)
 - [Books](#books)
 - [Documentation](#documentation)
 - [YouTube](#youtube)
@@ -27,16 +27,16 @@ This section is a curated collection of valuable Java and Java development resou
   - [YouTube Playlists](#youtube-playlists)
 - [Coding Platforms](#coding-platforms)
 - [Courses](#courses)
-  - [Free Certification Courses](#free-certification-courses)
-  - [Paid Certification Courses](#paid-certification-courses)
-- [Java Projects](#java-projects)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
+- [Projects](#projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
 - [Interview Preparations](#interview-preparation)
 - [Additional Resources](#additional-resources)
-   - [Java Games](#java-games)
-   - [Java Communities](#java-communities)
+   - [Games](#games)
+   - [Communities](#communities)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -59,10 +59,10 @@ This section is a curated collection of valuable Java and Java development resou
   
 </table>
 
-### Tutorials
+### Java
 > Start your journey into Java programming with these essential tutorials covering basic syntax and all concepts.
 
-### Fundamentals
+#### Fundamentals
 
 <table width="100%">
   <tr>
@@ -114,7 +114,7 @@ This section is a curated collection of valuable Java and Java development resou
 
 
 
-### Object-Oriented Programming (OOP)
+#### Object-Oriented Programming (OOP)
 
 <table width="100%">
   <tr>
@@ -149,7 +149,7 @@ This section is a curated collection of valuable Java and Java development resou
 </table>
 
 
-### Core Java Libraries
+#### Core Java Libraries
 
 <table width="100%">
   <tr>
@@ -183,7 +183,7 @@ This section is a curated collection of valuable Java and Java development resou
   </tr>
 </table>
 
-## Frameworks and Libraries
+#### Frameworks and Libraries
 
 <table width="100%">
   <tr>
@@ -226,7 +226,7 @@ This section is a curated collection of valuable Java and Java development resou
   </tr>
 </table>
 
-### Microservices
+#### Microservices
 
 <table width="100%">
   <tr>
@@ -256,7 +256,7 @@ This section is a curated collection of valuable Java and Java development resou
 </table>
 
 
-### Java EE (Enterprise Edition)
+#### Java EE (Enterprise Edition)
 
 <table width="100%">
   <tr>
@@ -289,7 +289,7 @@ This section is a curated collection of valuable Java and Java development resou
   </tr>
 </table>
 
-## Java Database Connectivity (JDBC)
+#### Java Database Connectivity (JDBC)
 
 <table width="100%">
   <tr>
@@ -312,7 +312,7 @@ This section is a curated collection of valuable Java and Java development resou
 </table>
 
 
-## Tools and IDEs
+### Tools and IDEs
 
 > Java Tools and IDEs to enhance your development experience with these recommended resources.
 Here's the updated table:
@@ -352,7 +352,7 @@ Here's the updated table:
   </tr>
 </table>
 
-### Java Web Development
+### Web Development
 
 > Java web development, including Servlets and JSP, web frameworks, RESTful services, and more, with these recommended resources.
 
@@ -401,7 +401,7 @@ Here's the updated table:
 
 
 
-### Java Android Development
+### Android Development
 
 > Android app development using Java for building mobile applications. Learn about Android UI development, handling user input, working with databases, and integrating with web services.
 
@@ -447,7 +447,7 @@ Here's the updated table:
 </table>
 
 
-## Java Networking
+### Networking
 
 > Java's networking capabilities for building client-server applications, socket programming, and working with protocols like TCP/IP and UDP. Learn about URL handling, HTTP connections, and web services development in Java.
 
@@ -574,7 +574,7 @@ Here's the updated table:
 
 ### YouTube
 > YouTube channels and Playlists for comprehensive and up-to-date tutorials on Java programming, ranging from beginner to advanced topics.
-### YouTube Channels
+#### YouTube Channels
 
 <table width="100%">
   <tr>
@@ -619,7 +619,7 @@ Here's the updated table:
   </tr>
 </table>
 
-### YouTube Playlists
+#### YouTube Playlists
 
 <table width="100%">
   <tr>
@@ -732,7 +732,7 @@ Here's the updated table:
 ### Courses
 > Explore these certification courses to enhance your Java skills:
 
-### Free Certification Courses
+#### Free Courses
 
 
 <table width="100%">
@@ -772,7 +772,7 @@ Here's the updated table:
 </table>
 
 
-### Paid Certification Courses
+#### Paid Courses
 
 
 <table width="100%">
@@ -812,10 +812,10 @@ Here's the updated table:
 </table>
 
 
-### Java Projects
+### Projects
 > Java Projects which can help you to enhance your development skills and build your resumes.
 
-### Beginner Level Projects
+#### Beginner Level Projects
 
 <table>
   <tr>
@@ -873,7 +873,7 @@ Here's the updated table:
   </tr>
 </table>
 
-### Intermediate Level Projects
+#### Intermediate Level Projects
 
 <table>
   <tr>
@@ -929,7 +929,7 @@ Here's the updated table:
   </tr>
 </table>
 
-### Advance Level Projects
+#### Advance Level Projects
 <table>
   <tr>
     <th>Resource Name</th>
@@ -1027,7 +1027,7 @@ Here's the updated table:
 ### Additional Resources
 > Here are some additional resources which you may consider to expand your java skills
 
-### Java Games
+#### Games
 
 <table width="100%">
   <tr>
@@ -1060,7 +1060,7 @@ Here's the updated table:
   </tr>
 </table>
 
-### Java Communities
+#### Communities
 
 <table width="100%">
   <tr>
