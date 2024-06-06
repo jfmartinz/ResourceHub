@@ -965,7 +965,11 @@ Here's the updated table:
   </tr>
   <tr>
     <td><a href="https://medium.com/automation-generation/build-an-automated-stock-trading-system-in-java-bfb5b739eb6f">Cointrader</a></td>
-    <td>Coin Trader is a Java-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
+
+  <td>Coin Trader is a Java-based backend for algorithmically trading cryptocurrencies. It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading..</td>
+
+
+
   </tr>
   <tr>
     <td><a href="https://github.com/pixee/java-security-toolkit">Network Security Toolkit</a></td>
