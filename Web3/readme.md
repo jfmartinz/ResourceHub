@@ -619,6 +619,11 @@ develop software that works with them</td>
         <td><a href="https://web3.career/learn-web3/top-solidity-open-source-projects#safe-smart-account">Solidity projects</a></td>
         <td>This link provides you a list of open-source projects written in Solidity, if you're interested in exploring the top Solidity open-source projects, this website is the go-to place for you.</td>
       </tr>
+      <tr>
+        <td><a href="https://youtu.be/3D4Z9NZRcLI?si=ISIU1LZIkDwWvC15">Supply Chain Marketplace On Ethereum</a></td>
+        <td>
+Blockchain Supply chain management plays a critical role in ensuring efficient operations and maintaining consumer trust. This project focuses on developing and deploying a decentralized application (DApp) powered by blockchain technology to streamline supply chain management processes. </td>
+      </tr>
 </table>
 
 ### Interview
