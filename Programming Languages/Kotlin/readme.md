@@ -30,6 +30,7 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
 - [Official Documentations](#official-documentations)
 - [Books](#books)
 - [Community and Support](#community-and-support)
+- [Kotlin cheatsheet](#kotlin-cheatsheet)
 - [Conclusion](#conclusion)
 
 
@@ -798,6 +799,45 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
     </tr>
 </table>
 
+
+### Kotlin cheatsheet
+
+> Cheat sheets for Kotlin programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://devhints.io/kotlin">Devhints - Kotlin cheatsheet</a></td>
+    <td>A comprehensive Kotlin cheat sheet provided by Devhints, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/kotlin.html">Kotlin Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for Kotlin programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a">Kotlin Cheat Sheet - Kt. Academy</a></td>
+    <td>A detailed cheat sheet for Kotlin programming provided by Kt. Academy, covering a wide range of topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/alidehkhodaei/kotlin-cheat-sheet">A cheat sheet for Kotlin programming language</a></td>
+    <td>A comprehensive Kotlin cheat sheet available on GitHub, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet">Learn Kotlin: Introduction to Kotlin Cheatsheet</a></td>
+    <td>A beginner-friendly Kotlin cheat sheet provided by Codecademy, ideal for those new to the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://devm.io/programming/kotlin-cheat-sheet-tips-tricks-136716-001">Kotlin cheat sheet: Tips & tricks</a></td>
+    <td>A Kotlin cheat sheet focusing on tips and tricks provided by devm.io.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javacodegeeks.com/starting-with-kotlin-cheatsheet">Starting with Kotlin Cheatsheet</a></td>
+    <td>A Kotlin cheat sheet provided by Java Code Geeks, ideal for beginners starting with Kotlin programming.</td>
+  </tr>
+</table>
 
 ## Conclusion
 
