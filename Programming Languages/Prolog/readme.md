@@ -13,6 +13,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 - [IDE](#ide)
 - [Compilers](#compilers)
 - [Text Editor Extensions](#text-editor-extensions)
+- [Community](#community)
 
 
 ### Roadmap
@@ -43,7 +44,26 @@ Here are the collection of valuable resources to help you learn and master Prolo
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
-
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/prolog-an-introduction/">What is Prolog?</a></td>
+    <td>An introductory article from GeeksforGeeks explaining the fundamentals of Prolog, its applications, and basic concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.doc.ic.ac.uk/~cclw05/topics1/history.html">History of Prolog</a></td>
+    <td>A detailed overview of the development and evolution of Prolog, including its origins and key milestones.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.swi-prolog.org/pldoc/man?section=quickstart">Getting Started with Prolog</a></td>
+    <td>A quickstart guide for SWI-Prolog, helping beginners set up their environment and start writing Prolog code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/prolog/prolog_environment_setup.htm">Environment Setup</a></td>
+    <td>A tutorial from TutorialsPoint on how to set up a Prolog development environment, including installation and configuration steps.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/prolog/prolog_hello_world.htm">Prolog - Hello World</a></td>
+    <td>A basic guide to writing and running the classic "Hello World" program in Prolog, aimed at absolute beginners.</td>
+  </tr>
 </table>
 
 ### Fundamentals
