@@ -35,6 +35,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 - [Interview Preparations](#interview-preparation)
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlist)
+- [Python Cheatsheets](#python-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -929,6 +930,46 @@ Python supports multiple programming paradigms, including procedural, object-ori
       <td>This playlist comprises 33 YouTube videos from the SciPy 2013 conference, providing insights into scientific computing, data analysis, and visualization using Python.</td>
     </tr>
 </table>
+
+### Python Cheatsheets
+
+> Cheat sheets for Python programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.interviewbit.com/python-cheat-sheet/">InterviewBit - Python Cheat Sheet (2024)</a></td>
+    <td>A comprehensive Python cheat sheet by InterviewBit, covering basics to advanced topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.pythoncheatsheet.org/">Python Cheatsheet</a></td>
+    <td>A detailed cheat sheet for Python programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/python.html">Python Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for Python programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewithharry.com/blogpost/python-cheatsheet/">Code With Harry - Python Cheatsheet</a></td>
+    <td>A practical Python programming cheat sheet by Code With Harry, ideal for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf">Python 3 Cheat Sheet</a></td>
+    <td>A comprehensive Python 3 cheat sheet, available as a PDF, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gto76/python-cheatsheet">Comprehensive Python Cheatsheet</a></td>
+    <td>A comprehensive Python cheat sheet available on GitHub, covering a wide range of topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet">Python Cheat Sheet for Beginners</a></td>
+    <td>A beginner-friendly Python cheat sheet provided by DataCamp, ideal for those new to the language.</td>
+  </tr>
+</table>
+
 
 ### Conclusion
 
