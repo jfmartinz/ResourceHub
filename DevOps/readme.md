@@ -100,6 +100,58 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
       <td><a href="https://youtu.be/aljzrNEqNDw?si=TFVcnnCeN98WZ9Xk">Monitoring and Logging</a></td>
       <td>Once the software is released you need to continuosly monitor it to track performance and discover problems</td>
   </tr>
+     <tr>
+  <td><a href="https://www.udemy.com/course/devops-tools-gitmavenjenkinsdocker/">Devops Tools Training: Learn Git,Jenkins,Docker, kubernetes | Udemy</a></td>
+  <td>Devops Tutorials: CI/CD with devops tools Git, Maven, Jenkins, Docker, Docker machine, Docker Swarm, Kubernetes on AWS with EKS.</td>
+</tr>
+<tr>
+  <td><a href="https://www.coursera.org/courses?query=devops">Best DevOps Courses & Certifications | Coursera Online ...</a></td>
+  <td>Take the next step in your professional journey and enroll in a DevOps course today! Learn DevOps or improve your skills online with a wide range of DevOps courses offered by top universities and industry leaders.</td>
+</tr>
+<tr>
+  <td><a href="https://www.udemy.com/topic/devops/">Top DevOps Courses Online - Updated [October 2023]</a></td>
+  <td>Learn the principles and tools of integrated software development with a DevOps course on Udemy. Top rated experts can prepare you for your certification.</td>
+</tr>
+<tr>
+  <td><a href="https://www.pluralsight.com/cloud-guru/courses/lpi-devops-tools-engineer-certification">LPI DevOps Tools Engineer Certification</a></td>
+  <td>Prepare for the LPIC DevOps Tools Engineer Certification exam by learning about the philosophy of DevOps and commonly-used DevOps tools.</td>
+</tr>
+<tr>
+  <td><a href="https://www.udemy.com/course/devops-tools-and-aws-for-java-microservice-developers/">Devops Tools and AWS for Java Microservice Developers | Udemy</a></td>
+  <td>Master Docker, Kubernetes, Maven, Jenkins, Git, AWS EC2, Elastic Beanstalk, ELB, Auto Scaling, and more in easy steps.</td>
+</tr>
+<tr>
+  <td><a href="https://www.udemy.com/course/devops-tools-for-beginners-starting-with-python-scripts/">DevOps Tools for Beginners: Starting with Python Scripts | Udemy</a></td>
+  <td>Start automating with Python. This course helps you learn and get started with Python to do your job more efficiently and automate tasks.</td>
+</tr>
+<tr>
+  <td><a href="https://www.edx.org/learn/devops">Learn DevOps with Online Courses and Programs | edX</a></td>
+  <td>DevOps training can be valuable for individuals seeking jobs across multiple sectors. Explore online DevOps courses powered by edX to build your skills or advance your software engineering career.</td>
+</tr>
+<tr>
+  <td><a href="https://www.edx.org/learn/computer-programming/universidades-anahuac-devops-foundations-and-tools">DevOps: Foundations and tools | edX</a></td>
+  <td>Learn essential Linux & Unix to efficiently manage applications from the command line. Meet the basics of source code management with Git and Github. Also, go over the pillars of DevOps like Continuous Integration/Continuous Deployment, the paradigm shift in systems management with Infrastructure as Code, and the creation of containers to assure the CI/CD pipeline.</td>
+</tr>
+<tr>
+  <td><a href="https://www.udemy.com/course/vagrant-for-beginners-tools-to-start-your-devops-career/">DevOps Tools for Beginners: Vagrant in 1 hour | Udemy</a></td>
+  <td>Vagrant is one of the Tools for DevOps and infrastructure automation. Deploy and virtualize testing environments easily. This course is aimed at IT professionals.</td>
+</tr>
+<tr>
+  <td><a href="https://www.udemy.com/course/optimizing-the-software-development-lifecycle/">DevOps Tools: Optimizing The Software Development Lifecycle</a></td>
+  <td>Learn about Git, GitHub, Continuous Integration, and more essential tools for streamlining the software development lifecycle.</td>
+</tr>
+<tr>
+  <td><a href="https://www.coursera.org/professional-certificates/devops-and-software-engineering">IBM DevOps and Software Engineering Professional Certificate</a></td>
+  <td>Master DevOps, Agile, Scrum, CI/CD, and Cloud Native with hands-on training from IBM to advance your career in DevOps and Software Engineering.</td>
+</tr>
+<tr>
+  <td><a href="https://www.edx.org/professional-certificate/linuxfoundationx-introduction-to-devops-practices-and-tools">Introduction to DevOps: Practices and Tools Professional Certificate</a></td>
+  <td>Get started with DevOps principles, practices, and tools to transform your organization's software development process.</td>
+</tr>
+<tr>
+  <td><a href="https://www.udemy.com/course/cicd-devops-tools-for-automation-testers-selenium/">CICD (DevOPs Tools) for Automation Testers (Selenium) | Udemy</a></td>
+  <td>Learn various DevOps tools necessary for Automation Testers to implement Continuous Integration effectively.</td>
+</tr>
   
 </table>
 
