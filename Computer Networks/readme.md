@@ -8,6 +8,12 @@ A computer network is a collection of interconnected devices that can communicat
 - [Tutorials or Courses](#tutorials-or-courses)<br>
    - [Free Cources](#free-courses)<br>
    - [Paid Courses](#paid-courses)<br>
+- [Network Implementation](#network-implementation)
+   - [Routing](#routing)
+   - [VPN](#vpn)
+   - [Network Services](#network-services)
+   - [SD-WAN and Swutching](#sd-wan-and-switching)
+   - [Network Simulators and Traffic Generators](#network-simulators-and-traffic-generators)
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)<br>
@@ -70,6 +76,146 @@ A computer network is a collection of interconnected devices that can communicat
             <td>CCNP All-in-1 Video Boot Camp With Chris Bryant</td>
       </tr>
   </table>
+
+## Network Implementation
+
+### Routing 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://frrouting.org/">Free Range Routing</a></td>
+    <td>IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.</td>
+  </tr>
+  <tr>
+    <td><a href="https://vyos.io/">VyOS</a></td>
+    <td>Open source network operating system that can be installed on physical hardware or a virtual machine on your own server, or a cloud platform.</td>
+  </tr>
+</table>
+
+### VPN
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/firezone/firezone">Firezone</a></td>
+    <td>Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.pivpn.io/">PiVPN</a></td>
+    <td>Simplest OpenVPN setup and configuration, designed for Raspberry Pi.</td>
+  </tr>
+</table>
+
+### Network Services
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://pi-hole.net/">Pi-Hole</a></td>
+    <td>Network-wide ad blocking via your own Linux hardware.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.portnox.com/pricing/">PortNox</a></td>
+    <td>Network Access Control as a Service (Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://bunny.net/">Bunny.net</a></td>
+    <td>Global Content Delivery Platform.</td>
+  </tr>
+</table>
+
+### SD-WAN and Switching
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.silver-peak.com/">Silver Peak</a></td>
+    <td>SD-WAN Solution(Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/snabbco/snabb">snabb</a></td>
+    <td>Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.</td>
+  </tr>
+</table>
+
+
+### Network Simulators and Traffic Generators
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.gns3.com/">GNS3</a></td>
+    <td>Network software emulator that allows the combination of virtual and real devices, used to simulate complex networks.</td>
+  </tr>
+  <tr>
+    <td><a href="http://mininet.org/">Mininet</a></td>
+    <td>Instant Virtual Network on your Laptop.</td>
+  </tr>
+  <tr>
+    <td><a href="http://wanem.sourceforge.net/">WANem</a></td>
+    <td>Wide Area Network Emulator.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ostinato.org/">Ostinato</a></td>
+    <td>Packet crafter, network traffic generator and analyzer with a friendly GUI.</td>
+  </tr>
+  <tr>
+    <td><a href="http://sipp.sourceforge.net/index.html">SIPp</a></td>
+    <td>Free Open Source test tool / traffic generator for the SIP protocol.</td>
+  </tr>
+  <tr>
+    <td><a href="https://startrinity.com/VoIP/SipTester/SipTester.aspx">StarTrinity SIP Tester™</a></td>
+    <td>VoIP monitoring and testing tool, VoIP recorder.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/USNavalResearchLaboratory/mgen">Multi-Generator</a></td>
+    <td>Open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/marty90/Network-Conditions-Emulator">Network-Conditions-Emulator</a></td>
+    <td>Artificially limit uplink and downlink bandwidth, delay and loss rate on selected interfaces.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/snabbco/snabb">snabb</a></td>
+    <td>Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/juniper/vqfx10k-vagrant">vqfx10k-vagrant</a></td>
+    <td>Vagrant files to bring up Juniper virtual QFX instances.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/michoo/pci">Packet Communication Investigator</a></td>
+    <td>Import network traffic into a graphtool to analyse packet interactions between machines and network.</td>
+  </tr>
+  <tr>
+    <td><a href="https://omnipacket.com/safepcap">SafePcap</a></td>
+    <td>GDPR and NISTIR 8053 Compliance for your Pcap files.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/arkime/arkime">Arkime</a></td>
+    <td>Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.</td>
+  </tr>
+  <tr>
+    <td><a href="https://pyntm.readthedocs.io/en/latest/index.html">pyNTM</a></td>
+    <td>A network traffic modeler written in Python 3.</td>
+  </tr>
+</table>
+
 
 ## Books
 
