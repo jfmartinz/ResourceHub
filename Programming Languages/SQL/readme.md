@@ -48,7 +48,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
 - [Conclusion](#conclusion)
 
 ### Roadmap
->
+> An overview of the structured learning path for mastering SQL
 
 <table width="100%" id="Roadmap">
   <tr>
@@ -66,7 +66,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
 </table>
 
 ### Tutorials
->
+> A section containing tutorials covering various SQL concepts and techniques.
 
 ### Introduction
 <table>
@@ -351,7 +351,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
 
 
 ### Advance SQL 
->
+> Advanced SQL concepts like Subqueries and Nested Queries, Joins, and  Set Operations.
 
 ### Subqueries and Nested Queries
 
@@ -441,7 +441,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
 </table>
 
 ###  Advanced Data Management
->
+> Understanding the concept of indexes for optimizing query performance, Exploring views as virtual tables based on the result set of a SELECT query and Understanding transactions and their role in maintaining data consistency.
 
 ### Indexes
 
@@ -543,7 +543,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
 </table>
 
 ### Different SQL Databases
->
+> Overview of various SQL databases, their features, and syntax.
 
 ### MySQL
 
@@ -671,7 +671,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
 </table>
 
 ### SQL Projects
->
+>  Beginner, intermediate, and advanced-level projects to apply SQL skills in real-world scenarios.
 
 ### Beginner level projects 
 <table>
@@ -791,7 +791,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
 </table>
 
 ### Courses
->
+> Free and paid courses available for learning SQL.
 
 ### Free Courses
 <table>
@@ -867,7 +867,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
 
 
 ### Books
->
+>  Recommended books for further reading on SQL concepts and techniques.
 
 <table>
   <tr>
@@ -977,7 +977,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
 </table>
 
 ### YouTube
->
+> Curated playlists and channels offering tutorials and lectures on SQL.
 
 <table>
   <tr>
@@ -1027,7 +1027,10 @@ This section is a curated collection of valuable SQL resources for absolute begi
 </table>
 
 
-
-
 ## Conclusion
 
+Mastering SQL involves understanding its syntax, concepts, and best practices. These resources provides a structured approach to guide you through the learning process, starting from the basics and progressing to advanced topics.
+
+ By following these resources you will develop a solid foundation in SQL, enabling you to efficiently manage and analyze data in relational databases. 
+ 
+ Happy learning!!
