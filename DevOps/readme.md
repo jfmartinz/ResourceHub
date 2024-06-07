@@ -20,8 +20,6 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
     - [YouTube Playlist](#youtube-playlist)
 - [Communities](#communities)
 - [Books](#books)
-    - [Free Books](#free-books)
-    - [Paid Books](#paid-books)
 - [GitHub Repositories](#github-repositories)
 - [Conclusion](#conclusion)
 
@@ -622,13 +620,64 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 
 > These are some books, you can checkout for learning DevOps.
 
-#### Free Books
 
 <table width="100%">
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
+      <tr>
+    <td><a href="https://aws.amazon.com/devops/">DevOps - Amazon Web Services (AWS)</a></td>
+    <td>AWS automation tools for faster and more efficient development and deployment processes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/devops-tools-for/9781492084013/">DevOps Tools for Java Developers [Book]</a></td>
+    <td>A book that explores how Java developers can adapt to DevOps practices using low-cost cloud computing and container technologies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/PRACTICAL-DEVOPS-TOOLS-Preparing-Certification-ebook/dp/B0B5PK5P9V">Preparing for LPI DevOps Tools Engineer Certification eBook</a></td>
+    <td>Covers machine deployment, source code management, and application deployment, preparing readers for LPI DevOps Tools Engineer Certification.</td>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/devops/what-is-devops/">What is DevOps? - DevOps Models Explained - Amazon Web Services</a></td>
+    <td>Explanation of DevOps as the combination of cultural philosophies, practices, and tools to enhance application delivery capabilities.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/DevOps-Tools-Java-Developers-Production/dp/1492084026">DevOps Tools for Java Developers: Best Practices from Source Code to Production Containers</a></td>
+    <td>Best practices guide for Java developers, focusing on source code management and production container deployment.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Practical-DevOps-Joakim-Verona/dp/1785882872">Practical DevOps: Harness the power of DevOps to boost your skill set and make your IT organization perform better</a></td>
+    <td>Explores DevOps as a field that delivers business value efficiently and covers all flows from code to deployment.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Docker-Developers-application-containers-continuous/dp/1789536057">Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery</a></td>
+    <td>Guide for developers on using Docker containers and DevOps tools for continuous delivery.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/devops-books/s?k=devops+books">The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations</a></td>
+    <td>Comprehensive book covering the creation of world-class agility, reliability, and security in technology organizations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Modern-DevOps-Practices-cutting-edge-techniques/dp/1800562381">Modern DevOps Practices: Implement and secure DevOps in the public cloud with cutting-edge tools, tips, tricks, and techniques</a></td>
+    <td>Guide to implementing and securing DevOps practices in the public cloud using modern tools and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002">The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations</a></td>
+    <td>Guidance on creating a culture of collaboration, improving flow, and accelerating feedback loops for more efficient and reliable software development and delivery.</td>
+  </tr>
+  <tr>
+    <td><a href="https://link.springer.com/book/10.1007/978-1-4842-9303-4">A Complete Guide to DevOps with AWS: Deploy, Build, and Scale Services with AWS Tools and Techniques</a></td>
+    <td>Learn how to use AWS DevOps to launch and scale services within an organization using the powerful tools provided by AWS.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/devops-continuous-delivery/9781789132991/">Continuous Delivery, Integration, and Deployment with DevOps</a></td>
+    <td>Explore core DevOps strategies and learn how to use popular DevOps tools like Ansible, Jenkins, and Chef to streamline software delivery processes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X">Python for DevOps: Learn Ruthlessly Effective Automation</a></td>
+    <td>Discover how to automate tasks and interact with Linux using Python, an essential skill for DevOps professionals.</td>
+  </tr>
     <tr>
        <td><a href="https://sre.google/books/">Site Reliability Engineering</a></td>
        <td>This book explains the whole life cycle of Google’s development, deployment, and monitoring, and how to manage the world’s biggest software systems (also known as SRE). Anyone who considers themselves to be more on the "Ops" end of the DevOps side or who wants to know how to strengthen the bonds between various Dev and Ops teams should read SRE.</td>
@@ -648,15 +697,6 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
     <tr>
        <td><a href="https://freecomputerbooks.com/Kubernetes-Up-and-Running-Dive-into-the-Future-of-Infrastructure.html">Kubernetes</a></td>
        <td>The book "Kubernetes by Brendan Burns" is a practical book which shows developers and Ops personnel how Kubernetes and container technology can help you achieve new levels of velocity, agility, reliability, and efficiency.</td>
-    </tr>
-</table>
-
-#### Paid Books
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
     </tr>
     <tr>
        <td><a href="https://www.amazon.in/Devops-Handbook-World-class-Reliability-Organizations/dp/1950508404/">The DevOps Handbook</a></td>
@@ -678,6 +718,18 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
        <td><a href="https://www.amazon.in/Hands-Azure-DevOps-Implementation-Applications/dp/9389845343/">Hands-on Azure DevOps</a></td>
        <td>This books helps the learner to learn how to set up Azure DevOps projects, manage source code repositories, automate builds and deployments, and implement continuous integration and continuous delivery (CI/CD) pipelines. The book covers various aspects of Azure DevOps, including version control, work item tracking, test management, and collaboration tools.</td>
     </tr>
+    <tr>
+  <td><a href="https://www.amazon.com/DevOps-VMware-Administrators-Press-Technology/dp/0133846474">DevOps for VMware Administrators</a></td>
+  <td>Learn how to apply DevOps practices and tools specifically in VMware environments, ensuring efficient deployment and management of virtualized infrastructure.</td>
+</tr>
+<tr>
+  <td><a href="https://www.amazon.com/Azure-DevOps-Explained-started-practices/dp/1800563515">Azure DevOps Explained: Get started with Azure DevOps and develop your DevOps practices</a></td>
+  <td>Get started with Azure DevOps and learn how to implement DevOps practices using real-world examples and scenarios.</td>
+</tr>
+<tr>
+  <td><a href="https://link.springer.com/book/10.1007/978-1-4842-3643-7">DevOps for Azure Applications: Deploy Web Applications on Azure</a></td>
+  <td>Gain insights into deploying web applications on Azure and learn DevOps practices specific to Microsoft Azure.</td>
+</tr>
 </table>
 
 ### GitHub Repositories
