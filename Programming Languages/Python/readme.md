@@ -650,7 +650,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td> <a href = "https://www.codecademy.com/learn/learn-python-3"> Codecademy</a></td>
         <td>Learn Python 3 fundamentals and syntax through interactive lessons and projects on Codecademy's platform.</td>
       </tr>
-     
+      <tr>
+      <td><a href="https://techdevguide.withgoogle.com/paths/foundational/?programming_languages=python#sequence-2">Foundations of Programming in Python by Google Tech Dev Guide</a></td>
+      <td>Learn about basic programming concepts like functions, operators, variables, control flow, strings, and arrays — some of the building blocks of programming in Python. </td>
+      </tr>
   </table>
 
   #### Paid Courses
@@ -828,6 +831,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td><a href="https://youtu.be/B_17_RORoiI?si=DJyq6cHe1Ac6jq80">Python Programming Interview Questions and Answers</a></td>
     <td>edureka! offers a video discussing essential Python programming interview questions, suitable for both beginners and experienced developers.</td>
   </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/interview/?programming_languages=python">Interview Prep by Google Tech Dev Guide</a></td>
+  <td>Familiarize yourself with the ins and outs of software engineering interviews. These resources will help students and professionals prepare and practice.</td>
+  </tr>
 </table>
 
 ### YouTube Channels
@@ -895,6 +902,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td><a href="https://www.youtube.com/playlist?list=PLto9KpJAqHMQNY3XP0JqLs7NyeU_dnNj0">100 Days of Code - Learn Python</a></td>
         <td>This 100 Days of Code - Learn Python playlist by Replit is an excellent resource for those who are interested in learning Python. In this course, you will build games, apps, and websites by mastering Python programming. 
          </td>
+      </tr>
+      <tr>
+      <td><a href="https://youtube.com/playlist?list=PLdo5W4Nhv31bZSiqiOL5ta39vSnBxpOPT&si=g_GcvVYYHYNr3wDe">Python-Basic to Advance Course by Jenny Lectures</a></td>
+      <td>This playlist contains all the concepts of Python along with project building in English. The idea is to teach in a way such that even an absolute beginner too would learn programming easily</td>
       </tr>
           <tr>
       <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GesARqNMImG3NnX3_bWq-lT">SciPy 2021: Scientific Computing with Python Conference</a></td>

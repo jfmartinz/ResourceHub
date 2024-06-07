@@ -584,6 +584,10 @@ This section serves as a curated collection of valuable resources for learning a
             <td><a href="https://www.youtube.com/c/sentdex">sentdex</a> </td>
             <td>Has a series on building a C compiler, which delves into advanced concepts.</td>
         </tr>
+        <tr>
+        <td><a href="https://youtube.com/@jennyslecturescsit?si=gYzT-PcJzonQO9ut">Jenny's Lectures CS IT</a></td>
+        <td>This Channel focusses on creating tutorials for  engineers, software developers, programmers, Coders, undergraduates, graduates.Covers topics for all different skill levels, so whether you are a beginner or have some years of experience, this channel will have something for you.</td>
+        </tr>
     </table>
 
 
