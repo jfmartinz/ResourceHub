@@ -14,8 +14,10 @@ This section is a curated collection of valuable SQL resources for absolute begi
 - [Tutorials](#tutorials)
    - [Introduction](#introduction)
    - [Data Definition Language (DDL)](#data-definition-language-ddl)
+   - [Data Query Language (DQL)](#data-query-language-dql)
    - [Data Manipulation Language (DML)](#data-manipulation-language-dml)
    - [Tables in SQL](#tables-in-sql)
+   - 
 
 ### Roadmap
 >
@@ -105,6 +107,47 @@ This section is a curated collection of valuable SQL resources for absolute begi
   <tr>
     <td><a href="https://www.geeksforgeeks.org/sql-drop/">SQL | DROP</a></td>
     <td>Explanation of the DROP command in SQL.</td>
+  </tr>
+</table>
+
+### Data Query Language (DQL)
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/select">SQL SELECT</a></td>
+    <td>Explanation and examples of the SQL SELECT statement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/and-or-not">SQL AND, OR, and NOT Operators</a></td>
+    <td>Guide on using the AND, OR, and NOT operators in SQL queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/select-distinct">SQL SELECT DISTINCT</a></td>
+    <td>Explanation and examples of the SQL SELECT DISTINCT statement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/select-as-alias">SQL SELECT AS Alias</a></td>
+    <td>Guide on using aliases with the SQL SELECT statement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/limit-top-fetch-first">SQL SELECT LIMIT, TOP, FETCH FIRST</a></td>
+    <td>Explanation and examples of limiting results in SQL queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/in-operator">SQL IN and NOT IN Operators</a></td>
+    <td>Guide on using the IN and NOT IN operators in SQL queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/between-operator">SQL BETWEEN Operator</a></td>
+    <td>Explanation and examples of the SQL BETWEEN operator.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/is-null-not-null">SQL IS NULL and IS NOT NULL</a></td>
+    <td>Guide on using the IS NULL and IS NOT NULL operators in SQL queries.</td>
   </tr>
 </table>
 
