@@ -21,24 +21,27 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 - [Communities](#communities)
 - [Books](#books)
 - [GitHub Repositories](#github-repositories)
+- [GitHub Projects](#github-projects)
 - [Conclusion](#conclusion)
 
 ### Roadmap
 > You can refer to the roadmaps in the following table
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
     <tr>
-       <td><a href="https://roadmap.sh/devops">DevOps</a></td>
-       <td>This is the roadmap for Devops</td>
+       <td><a href="https://roadmap.sh/devops">DevOps Roadmap</a></td>
+       <td>A Step by step guide for DevOps, SRE or any other Operations Role in 2024</td>
     </tr>
 </table>
 
 
 ### Tutorials or Courses
-> These are some tutorials and courses that you can refer to
+> These are some tutorials and courses that you can refer to 
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -905,8 +908,100 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
     </tr>
 </table>
 
-### Conclusion
+### GitHub Projects
+> Here are some GitHub Projects that you nay refer.
 
-DevOps is an innovative and transformative approach that bridges the gap between development and operations, fostering a culture of collaboration and continuous improvement. By integrating practices such as continuous integration, continuous deployment, and infrastructure as code, DevOps enables teams to deliver software faster and more reliably. The plethora of tools available, including Docker, Kubernetes, Jenkins, and Ansible, empowers teams to automate processes, enhance scalability, and improve efficiency. The DevOps community is vibrant and supportive, offering a wealth of resources such as tutorials, forums, and documentation to help practitioners at all levels. To truly master DevOps, regular practice and hands-on experience are crucial—engage in coding challenges, contribute to open-source projects, and work on real-world scenarios. This practical approach not only sharpens your skills but also unlocks numerous career opportunities in the ever-evolving field of software development and IT operations.
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/moby/moby">The Moby Project</a></td>
+    <td> The Moby Project is a collaborative project for the container ecosystem to assemble container-based systems.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansible/ansible">Ansible</a></td>
+    <td> Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/grafana/grafana">Grafana</a></td>
+    <td> Grafana is an open and composable observability and data visualization platform. It allows you to visualize metrics, logs, and traces from multiple sources like Prometheus, Elasticsearch, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/prometheus/prometheus">Prometheus</a></td>
+    <td> Prometheus is a monitoring system and time series database used to collect and store metrics. It provides powerful querying and alerting capabilities.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hashicorp/terraform">Terraform</a></td>
+    <td>Terraform enables you to create, change, and improve infrastructure in a safe and predictable way. It uses declarative configuration files to codify APIs and can be easily shared.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/getsentry/sentry">Sentry</a></td>
+    <td> Sentry is a developer-first error tracking and performance monitoring tool. It helps you monitor and fix issues in your applications to ensure better stability and performance.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hashicorp/vagrant">Vagrant</a></td>
+    <td> Vagrant is a tool for building and distributing development environments. It simplifies the process of setting up reproducible development environments across different platforms.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/statsd/statsd">StatsD</a></td>
+    <td>StatsD is a daemon for easy but powerful stats aggregation. It allows you to collect and aggregate stats from various sources and send them to backends like Graphite or Prometheus.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gradle/gradle">Gradle</a></td>
+    <td> Gradle is a flexible and fast automation tool that can be used for building, testing, and deploying software. It offers high performance and customizable build processes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fabric/fabric">Fabric</a></td>
+    <td>Fabric is a simple and Pythonic remote execution and deployment tool. It allows you to automate tasks, execute commands, and deploy applications to remote servers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/elastic/logstash">Logstash</a></td>
+    <td>Transport and process your logs, events, or other data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/saltstack/salt">Salt</a></td>
+    <td> Software to automate the management and configuration of any infrastructure or application at scale.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/capistrano/capistrano">Capistrano</a></td>
+    <td>A deployment automation tool built on Ruby, Rake, and SSH.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/openshift/origin">OpenShift</a></td>
+    <td>Conformance test suite for OpenShift.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/chef/chef">Chef</a></td>
+    <td>:fork_and_knife: - Chef Infra, a powerful automation platform that transforms infrastructure into code, automating how infrastructure is configured, deployed, and managed across any environment.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/puppetlabs/puppet">Puppet</a></td>
+    <td>Server automation framework and application.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/graphite-project/graphite-web">Graphite</a></td>
+    <td>A highly scalable real-time graphing system.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/StackStorm/st2">StackStorm</a></td>
+    <td>StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/openstack/openstack">OpenStack</a></td>
+    <td>Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/apache/maven">Apache Maven</a></td>
+    <td>Apache Maven core.</td>
+  </tr>
+</table>
+
+## Conclusion
+
+DevOps is an innovative and transformative approach that bridges the gap between development and operations, fostering a culture of collaboration and continuous improvement. By integrating practices such as continuous integration, continuous deployment, and infrastructure as code, DevOps enables teams to deliver software faster and more reliably. The plethora of tools available, including Docker, Kubernetes, Jenkins, and Ansible, empowers teams to automate processes, enhance scalability, and improve efficiency. The DevOps community is vibrant and supportive, offering a wealth of resources such as tutorials, forums, and documentation to help practitioners at all levels. 
+
+To truly master DevOps, regular practice and hands-on experience are crucial—engage in coding challenges, contribute to open-source projects, and work on real-world scenarios. This practical approach not only sharpens your skills but also unlocks numerous career opportunities in the ever-evolving field of software development and IT operations.
 
 Never stop learning !
