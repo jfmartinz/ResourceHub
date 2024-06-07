@@ -18,7 +18,13 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 - [IDEs](#ides)
 - [Text Editors](#text-editors)
 - [Development Tools](#development-tools)
+- [Build Systems](#build-systems)
 - [Data Visulization](#data-visualization)
+- [Linux Development](#linux-development)
+- [Testing and Debugging](#testing-and-debugging)
+  - [Testing](#testing)
+  - [Debugging](#debugging)
+- [Deployment](#deployment)
 - [YouTube](#youtube)
   - [Youtube Channels](#youtube-channels)
   - [Youtube Videos](#youtube-videos)
@@ -27,7 +33,12 @@ Rust has a rich ecosystem of resources to help you learn and master the language
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
 - [Books](#books)
+  - [Beginner Books](#beginner-books)
+  - [Advanced Books](#advanced-books)
+- [Exercises](#exercises)
+- [Rust CheatSheets](#rust-cheatsheets)
 - [Rust Communities](#rust-communities)
+- [Rust Cheatsheets](#rust-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -493,6 +504,49 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 </table>
 
 
+### Build Systems
+> transform the source code written by engineers into executable binaries that can be read by machines
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://crates.io/">Cargo</a></td>
+    <td>The Rust package manager</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Devolutions/CMakeRust">Devolutions/CMakeRust</a></td>
+    <td>Useful for integrating a Rust library into a CMake project</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SiegeLord/RustCMake">SiegeLord/RustCMake</a></td>
+    <td>An example project showing usage of CMake with Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dimensionhq/fleet">Fleet</a></td>
+    <td>The blazing fast build tool for Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://crates.io/crates/fleet-rs">fleet-rs</a></td>
+    <td>The Cargo package for Fleet</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/icepuma/rust-action">icepuma/rust-action</a></td>
+    <td>GitHub Action for Rust projects</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/peaceiris/actions-mdbook">peaceiris/actions-mdbook</a></td>
+    <td>GitHub Actions for mdBook</td>
+  </tr>
+  <tr>
+    <td><a href="https://nixos.org/">Nix</a></td>
+    <td>The purely functional package manager</td>
+  </tr>
+</table>
+
+
 ### Data Visualization
 > Data visualization in Rust, enabling users to create visual representations of data effectively.
 
@@ -538,6 +592,130 @@ Rust has a rich ecosystem of resources to help you learn and master the language
     <td>A simple and fast data visualization library for Rust.</td>
   </tr>
 </table>
+
+### Linux Development
+> Rust for Linux is a series of patches to the Linux kernel that adds Rust as a second programming language to C for writing kernel components.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://tomcat0x42.me/linux/rust/2023/04/01/linux-kernel-rust-dev-environment.html">Linux Kernel Rust Development Environment</a></td>
+    <td>Guide to setting up a development environment for Rust in the Linux kernel.</td>
+  </tr>
+  <tr>
+    <td><a href="https://tomcat0x42.me/linux/rust/2023/04/07/linux-kernel-rust-modules.html">Linux Kernel Rust Modules</a></td>
+    <td>Instructions on creating Linux kernel modules using Rust.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/3t7Z34kHPjU?si=GEvfM40hTHy1OEZP">Reading from my Webcam on Linux with v4l2 and Rust</a></td>
+    <td>Video tutorial on accessing webcam data on Linux using v4l2 and Rust.</td>
+  </tr>
+</table>
+
+### Testing and Debugging
+>Testing is a process that confirms a program or system meets all its specifications. Debugging is finding and fixing errors in a program or system.
+
+### Testing
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://doc.rust-lang.org/book/ch11-00-testing.html">The Rust Programming Language - Chapter 11: Testing</a></td>
+    <td>The official Rust book's chapter on testing</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/assert-rs/assert_cmd">assert_cmd</a></td>
+    <td>A crate for testing command line applications by simulating user input and verifying output</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.rs/mockall/0.11.0/mockall/">mockall</a></td>
+    <td>A Rust library for creating mock objects in tests</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/otaviopace/sidefuzz">sidefuzz</a></td>
+    <td>A library for testing Rust functions with fuzzing</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/steveklabnik/annotate-snippets-rs">annotate-snippets</a></td>
+    <td>A crate for generating pretty-printed snippets of Rust code for testing</td>
+  </tr>
+</table>
+
+
+### Debugging
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cs01/gdbgui">gdbgui</a></td>
+    <td>Browser based frontend for gdb to debug C, C++, Rust, and Go</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb">CodeLLDB</a></td>
+    <td>A LLDB extension for <a href="https://code.visualstudio.com/">Visual Studio Code</a></td>
+  </tr>
+</table>
+
+
+### Deployment
+> Deployment is the mechanism through which applications, modules, updates, and patches are delivered from developers to users.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/emk/rust-musl-builder">emk/rust-musl-builder</a></td>
+    <td>Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kpcyrd/mini-docker-rust">kpcyrd/mini-docker-rust</a></td>
+    <td>An example project for very small Rust Docker images</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/liuchong/docker-rustup">liuchong/docker-rustup</a></td>
+    <td>A multiple version (with musl tools) Rust Docker image</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/LukeMathWalker/cargo-chef">LukeMathWalker/cargo-chef</a></td>
+    <td>A tool and pre-built images for caching compiling remote dependencies between Docker builds</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rust-cross/rust-musl-cross">rust-cross/rust-musl-cross</a></td>
+    <td>Docker images for compiling static Rust binaries using musl-cross</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rust-lang/docker-rust">rust-lang-nursery/docker-rust</a></td>
+    <td>The official Rust Docker image</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Stavrospanakakis/is_ready">Stavrospanakakis/is_ready</a></td>
+    <td>Wait for multiple services to become available</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/emk/heroku-buildpack-rust">emk/heroku-buildpack-rust</a></td>
+    <td>A buildpack for Rust applications on Heroku</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MarcoIeni/release-plz">MarcoIeni/release-plz</a></td>
+    <td>Release crates from CI, with changelog generation and semver check</td>
+  </tr>
+  <tr>
+    <td><a href="https://crates.io/crates/release-plz">release-plz</a></td>
+    <td>Release crates from CI, with changelog generation and semver check</td>
+  </tr>
+</table>
+
 
 
 ### Youtube
@@ -766,6 +944,7 @@ Rust has a rich ecosystem of resources to help you learn and master the language
 ### Books
 > Recommended books and resources for learning Rust programming, catering to users preferring in-depth and structured learning materials.
 
+### Beginner Books
 <table>
   <tr>
     <th>Resource Name</th>
@@ -835,6 +1014,216 @@ Rust has a rich ecosystem of resources to help you learn and master the language
     <td><a href="https://www.manning.com/books/rust-web-development">Rust Web Development</a></td>
     <td>A book focused on building web applications with Rust.</td>
   </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/refactoring-to-rust">Refactoring to Rust</a></td>
+    <td>A book focusing on refactoring techniques in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/learn-rust-in-a-month-of-lunches">Learn Rust in a Month of Lunches</a></td>
+    <td>A book providing a structured approach to learning Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://datacrayon.com/shop/product/data-analysis-with-rust-notebooks/">Data Analysis with Rust Notebooks</a></td>
+    <td>A resource for utilizing Rust in data analysis with Jupyter Notebooks</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/rust-web-programming/">Rust Web Programming</a></td>
+    <td>A guide for web development using Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://learning.oreilly.com/library/view/command-line-rust/9781098109424/">Command-Line Rust: A Project-Based Primer for Writing Rust CLIs</a></td>
+    <td>A project-based approach to learning Rust for command-line application development</td>
+  </tr>
+  <tr>
+    <td><a href="https://hands-on-rust.com/">Hands-on Rust</a></td>
+    <td>A hands-on resource for learning Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.zero2prod.com">Zero To Production In Rust</a></td>
+    <td>A practical guide for building production-ready applications in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/rust-design-patterns">Rust Design Patterns</a></td>
+    <td>A book exploring design patterns in Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/write-powerful-rust-macros">Write Powerful Rust Macros</a></td>
+    <td>A resource for mastering macro programming in Rust</td>
+  </tr>
+</table>
+
+### Advanced Books
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://doc.rust-lang.org/nightly/nomicon/">The Rustonomicon</a></td>
+    <td>A collection of dark arts of Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://rust-unofficial.github.io/patterns/">Rust Patterns</a></td>
+    <td>A collection of Rust programming patterns</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.lurklurk.org/effective-rust/">Effective Rust</a></td>
+    <td>A guide to writing efficient and idiomatic Rust code</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/">Programming Rust 2nd Edition</a></td>
+    <td>A comprehensive guide to Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://marabos.nl/atomics/foreword.html">Rust Atomics and Locks</a></td>
+    <td>A guide to Rust's atomic types and locking mechanisms</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Mastering-Rust-memory-concurrency-features/dp/1789346576">Mastering Rust 2nd Edition</a></td>
+    <td>A book focusing on mastering memory management and concurrency features in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Rust-Essentials-Ivo-Balbaert/dp/1785285769">Rust Essentials - Second Edition</a></td>
+    <td>An essential guide for learning Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Hands-Concurrency-Rust-Confidently-memory-safe/dp/1788399978">Hands-On Concurrency with Rust</a></td>
+    <td>A practical guide to concurrent programming in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Hands-Functional-Programming-Rust-applications-ebook/dp/B07C5S4729">Hands-On Functional Programming in Rust</a></td>
+    <td>A hands-on guide to functional programming in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Rust-High-Performance-performance-applications/dp/178839948X">Rust High Performance</a></td>
+    <td>A book focusing on building high-performance applications in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://pragprog.com/titles/khrust/programming-webassembly-with-rust/">Programming WebAssembly with Rust</a></td>
+    <td>A guide to programming WebAssembly using Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.armstrong-publications.com/product/step-ahead-with-rust-super-combo/">Step Ahead with Rust: Systems Programming in Rust</a></td>
+    <td>A comprehensive resource for systems programming in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/hands-on-microservices-with-rust/9781789342758">Hands-On Microservices with Rust 2018</a></td>
+    <td>A practical guide to building scalable and reliable RESTful microservices in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://danielkeep.github.io/tlborm/book/index.html">The Little Book of Rust Macros</a></td>
+    <td>A concise guide to Rust macros</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528">Hands-On Data Structures and Algorithms with Rust</a></td>
+    <td>A practical guide to implementing data structures and algorithms in Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109">The Complete Rust Programming Reference Guide</a></td>
+    <td>A comprehensive reference guide for Rust programming</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/product/creative-projects-for-rust-programmers/9781789346220">Creative Projects for Rust Programmers</a></td>
+    <td>A collection of creative projects for Rust programmers</td>
+  </tr>
+  <tr>
+    <td><a href="https://kerkour.com/black-hat-rust">Black Hat Rust</a></td>
+    <td>A guide to unethical hacking using Rust programming language</td>
+  </tr>
+  <tr>
+    <td><a href="https://nostarch.com/rust-rustaceans">Rust for Rustaceans</a></td>
+    <td>A resource for intermediate to advanced Rust programmers</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Rust-Crash-Course-High-Performance-Next-Generation/dp/9355510950">Rust Crash Course</a></td>
+    <td>A crash course for learning Rust programming quickly</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/code-like-a-pro-in-rust">Code Like a Pro in Rust</a></td>
+    <td>A guide to writing professional-grade Rust code</td>
+  </tr>
+</table>
+
+
+### Exercises
+> Here are some exercises for rust.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rust-lang/rustlings">Rustlings</a></td>
+    <td>Small exercises to get you used to reading and writing Rust code!</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mainmatter/100-exercises-to-learn-rust">100 Exercises to Learn Rust</a></td>
+    <td>A self-paced course to learn Rust, one exercise at a time.</td>
+  </tr>
+  <tr>
+    <td><a href="https://eleftheriabatsou.hashnode.dev/5-rust-project-ideas-for-absolutely-beginners-devs">5 Rust Project Ideas For Absolutely Beginner Devs</a></td>
+    <td>5 simple yet practical projects that will help you later in bigger projects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://fasterthanli.me/series/advent-of-code-2022">Solve Advent of Code 2022 with Rust</a></td>
+    <td>A series of programming challenges of increasing difficulty.</td>
+  </tr>
+</table>
+
+### Rust CheatSheets
+> The Rust quick reference cheat sheet that aims at providing help on writing basic syntax and methods.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://doc.rust-lang.org/book/syntax-index.html">Syntax Index</a></td>
+    <td>A comprehensive index of Rust syntax</td>
+  </tr>
+  <tr>
+    <td><a href="https://danielkeep.github.io/itercheat_baked.html">Rust Iterator Cheat Sheet</a></td>
+    <td>A cheat sheet for Rust iterators by Daniel Keep</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/spreadsheets/d/19vSPL6z2d50JlyzwxariaYD6EU2QQUQqIDOGbiGQC7Y/pubhtml?gid=0&single=true">Rust String Conversions Cheat Sheet</a></td>
+    <td>A cheat sheet for Rust string conversions by GavinB</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries">Rustic Symmetries</a></td>
+    <td>A collection of Rust idioms and best practices by kmc</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit?usp=sharing">Rust Container Cheat Sheet</a></td>
+    <td>A cheat sheet for Rust container types by Raph Levien</td>
+  </tr>
+  <tr>
+    <td><a href="https://rufflewind.com/img/rust-move-copy-borrow.png">Graphical depiction of ownership and borrowing in Rust</a></td>
+    <td>A graphical guide to Rust's ownership and borrowing concepts by Phil Ruffwind</td>
+  </tr>
+  <tr>
+    <td><a href="https://charlesetc.inclouds.space/lifetime-reference/">Lifetime Reference</a></td>
+    <td>A reference guide for Rust lifetimes by Charles</td>
+  </tr>
+  <tr>
+    <td><a href="http://phaiax.github.io/rust-cheatsheet/">Phaiax's Rust Cheatsheet</a></td>
+    <td>A general Rust cheat sheet by Phaiax</td>
+  </tr>
+  <tr>
+    <td><a href="https://cheats.rs/">Rust Language Cheat Sheet</a></td>
+    <td>A comprehensive cheat sheet for Rust by Ralf Biedert</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.breakdown-notes.com/make/load/rust_cs_canvas/true">Rust cheat sheet (beginner-oriented)</a></td>
+    <td>A beginner-oriented Rust cheat sheet</td>
+  </tr>
+  <tr>
+    <td><a href="https://upsuper.github.io/rust-cheatsheet/">A type-based Rust cheatsheet</a></td>
+    <td>A type-based Rust cheat sheet by Xidorn Quan</td>
+  </tr>
 </table>
 
 ### Rust Communities
@@ -874,6 +1263,46 @@ Rust has a rich ecosystem of resources to help you learn and master the language
     <td>Rust meetups and conferences are excellent opportunities to meet other Rust developers in person, attend talks, workshops, and hackathons, and learn more about Rust. Keep an eye out for local meetups and global conferences like RustConf.</td>
   </tr>
 </table>
+
+### Rust Cheatsheets
+
+> Cheat sheets for Rust programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://cheats.rs/">Rust Language Cheat Sheet</a></td>
+    <td>A comprehensive collection of Rust cheat sheets covering various Rust language features and concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/rust.html">Rust Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for Rust programming, providing essential syntax and concepts at a glance.</td>
+  </tr>
+  <tr>
+    <td><a href="https://opensource.com/sites/default/files/gated-content/osdc_cheatsheet-rust-2021.11.11.pdf">Rust Programming Cheat Sheet</a></td>
+    <td>A Rust programming cheat sheet with a downloadable PDF version, covering essential Rust concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/moekatib/the-completesh-rust-cheat-sheet-4fnn">The Complete(sh) Rust Cheat Sheet</a></td>
+    <td>A comprehensive Rust cheat sheet providing an overview of core Rust concepts and features.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/rust-cheat-sheet/">Rust Cheat Sheet + PDF</a></td>
+    <td>A Rust cheat sheet with a downloadable PDF version, providing quick reference for Rust developers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.infinyon.com/resources/files/rust_cheat_sheet.pdf">Rust Language Cheat Sheet</a></td>
+    <td>A Rust language cheat sheet covering essential Rust syntax and concepts, available in PDF format.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@cicerohellmann/the-rust-cheat-sheet-core-concepts-for-quick-reference-d23de3ce3be9">The Rust Cheat Sheet: Core Concepts for Quick Reference</a></td>
+    <td>A Rust cheat sheet focusing on core concepts for quick reference, providing an overview of Rust programming.</td>
+  </tr>
+</table>
+
 
 ## Conclusion
 

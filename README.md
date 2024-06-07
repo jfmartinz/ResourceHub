@@ -30,7 +30,7 @@
 
 ## What is ResourceHub
 
-_ResourceHub_ is an Open-Source project that serves as a collection of valuable resources for Web Development, UI & UX Design, Web3, Database, Open Source Development, App Development, Data Science and DevOps carefully curated by the amazing contributors in the community.
+_ResourceHub_ is an open-source project that serves as a one-stop repository of valuable resources curated by the amazing contributors in the community
 
 You can contribute with helpful resources you've discovered on the internet and share them with us!
 
@@ -39,6 +39,7 @@ You can contribute with helpful resources you've discovered on the internet and 
 Here is a list of the currently available categories of the project:<br>
 - [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development)
   - [Frontend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Frontend%20Development)
+  - [Backend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Backend%20Development)
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
@@ -46,8 +47,27 @@ Here is a list of the currently available categories of the project:<br>
 - [DevOps](https://github.com/jfmartinz/ResourceHub/tree/main/DevOps)
 - [App Development](https://github.com/jfmartinz/ResourceHub/tree/main/App%20Development)
 - [Programming Languages](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages)
+   - [Angular-JS](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/AngularJS)
+    - [C#](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/C(sharp))
+    - [C++](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/C%2B%2B)
+    - [C](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/C)
+    - [ExpressJs](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/ExpressJs)
+    - [Go](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Go)
+    - [Java](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Java)
+    - [JavaScript](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/JavaScript)
+    - [Kotlin](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Kotlin)
+    - [NodeJs](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/NodeJs)
+    - [PHP](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/PHP)
+    - [Python](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Python)
+    - [R](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/R)
+    - [React-JS](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/React%20JS)
+    - [Rust](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/Rust)
+    - [TypeScript](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/TypeScript)
+    - [VueJs](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/VueJS)
 - [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
 - [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
+- [Data Structures and Algorithms](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Structures%20and%20Algorithm%20(DSA))
+- [Linux Development](https://github.com/jfmartinz/ResourceHub/tree/main/Linux%20Development)
 
 
 ## Technologies
@@ -58,6 +78,9 @@ ResourceHub is built using the following technologies:
 
 > Website URL: [ResourceHub](https://resourcehubwebsite.vercel.app/)
 
+## Organization
+![Organization](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fqJaH_oISOR96gLgpJBwWQ.png)
+ResourceHub is participating in GirlScript Summer of Code (GSSoC), an annual open-source program by the GirlScript Foundation. GSSoC promotes gender diversity and inclusion in tech by enabling participants to contribute to various projects under expert mentorship. We are excited to collaborate with talented individuals and advance our project through this initiative.
 ## How to contribute
 Read [CONTRIBUTING.md](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) and create your fork of this repository before submitting any contributions.
 Expand the following section for a quick guide on how to create a fork:

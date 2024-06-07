@@ -8,7 +8,7 @@ These resources are designed to help you build a strong foundation in R programm
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [R](#r)
    - [Introduction](#introduction)
    - [Fundamentals](#fundamentals)
    - [Data Manipulation](#data-manipulation)
@@ -34,20 +34,21 @@ These resources are designed to help you build a strong foundation in R programm
    - [Bioinformatics](#bioinformatics)
    - [Time Series Analysis](#time-series-analysis)
    - [Geospatial Analysis](#geospatial-analysis)
-- [R Projects](#r-projects)
+- [Projects](#projects)
    - [Beginner Level Projects](#beginner-level-projects)
    - [Intermediate Level Projects](#intermediate-level-projects)
    - [Advanced Level Projects](#advanced-level-projects)
 - [Version Control](#version-control)
 - [YouTube](#youtube)
    - [YouTube Channels](#youtube-channels)
-   - [YouTube Playlists for Learning R](#youtube-playlists-for-learning-r)
+   - [YouTube Playlists](#youtube-playlists)
 - [Courses](#courses)
-   - [Free Certification Courses](#free-certification-courses)
-   - [Paid Certification Courses](#paid-certification-courses)
+   - [Free Courses](#free-courses)
+   - [Paid Courses](#paid-courses)
 - [Additional Resources](#additional-resources)
    - [R Communities](#r-communities)
    - [R Books](#r-books)
+   - [R Cheatsheets](#r-cheatsheets)
 - [Conclusion](#conclusion)
 
 
@@ -67,7 +68,7 @@ These resources are designed to help you build a strong foundation in R programm
 </table>
 
 
-### Tutorials
+### R
 > Start your journey into R programming with these essential tutorials covering basic syntax and concepts.
 
 #### Introduction
@@ -297,7 +298,7 @@ These resources are designed to help you build a strong foundation in R programm
 </table>
 
 ### Tools and Development Environment
-> Here are somme tools and development environments for R programming.
+> Here are some tools and development environments for R programming.
 
 #### Rstudio
 
@@ -348,7 +349,7 @@ These resources are designed to help you build a strong foundation in R programm
 <td>A guide on using the R plugin in PyCharm, a popular IDE for Python that also supports R, offering features like intelligent code completion, debugging, and visualization.</td>
 </tr>
 <tr>
-<td><a href="https://projects.eclipse.org/projects/tools.statet">StatET for Eclipse</a></td>
+<td><a href="https://.eclipse.org//tools.statet">StatET for Eclipse</a></td>
 <td>An article on StatET, a plugin for the Eclipse IDE that provides support for R, including an interactive console, syntax highlighting, and integration with R packages.</td>
 </tr>
 </table>
@@ -362,7 +363,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 <tr>
 <td><a href="https://www.appsilon.com/post/r-studio-cloud">RStudio Cloud</a></td>
-<td>A guide to RStudio Cloud, an online version of RStudio that allows you to run R scripts and projects in a web browser, with no installation required.</td>
+<td>A guide to RStudio Cloud, an online version of RStudio that allows you to run R scripts and  in a web browser, with no installation required.</td>
 </tr>
 <tr>
 <td><a href="https://www.geeksforgeeks.org/how-to-use-r-with-google-colaboratory/">Using R in Google Colab</a></td>
@@ -636,7 +637,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-### R Projects
+### Projects
 > Here are some projrct ideas for R programming from beginner level to advance level.
 
 #### Beginner Level Projects
@@ -811,7 +812,7 @@ These resources are designed to help you build a strong foundation in R programm
 ### Courses
 > Here are some courses.
 
-#### Free Certification Courses
+#### Free Courses
 <table width="100%">
 <tr>
 <th>Resource Name</th>
@@ -839,7 +840,7 @@ These resources are designed to help you build a strong foundation in R programm
 </tr>
 </table>
 
-#### Paid Certification Courses
+#### Paid Courses
 
 <table width="100%">
 <tr>
@@ -919,6 +920,39 @@ These resources are designed to help you build a strong foundation in R programm
 <td>By Hadley Wickham</td>
    <td>Paid</td>
 </tr>
+</table>
+
+#### R Cheatsheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.datacamp.com/cheat-sheet/getting-started-r">R Basics Cheat Sheet</a></td>
+    <td>A cheat sheet for getting started with R programming, covering basic concepts and commands.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.rstudio.com/wp-content/uploads/2016/02/advancedR.pdf">Advanced R Cheat Sheet</a></td>
+    <td>An advanced R cheat sheet provided by RStudio, covering more complex topics and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.usu.edu/math/amlc/files/r-studio-reference-sheets-compilation.pdf">R and R Studio Reference Guides and "Cheat Sheet"</a></td>
+    <td>A compilation of reference guides and cheat sheets for R and RStudio, covering various aspects of the language and environment.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet">Learn R: Introduction Cheatsheet</a></td>
+    <td>A beginner-friendly R cheat sheet provided by Codecademy, ideal for those new to the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/wurli/r-best-practice">A cheatsheet for basic best practice in R programming</a></td>
+    <td>A cheat sheet focusing on basic best practices in R programming, available on GitHub.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.simplilearn.com/r-cheat-sheet-article">R Cheat Sheet: A Guide of R Glossary</a></td>
+    <td>A comprehensive R cheat sheet providing a guide to R glossary and terminology.</td>
+  </tr>
 </table>
 
 ### Conclusion

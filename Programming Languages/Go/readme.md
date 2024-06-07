@@ -4,11 +4,11 @@ Go, commonly referred to as Golang, is an open-source programming language devel
 ## Table of Contents
 
 - [Roadmap](#roadmap)<br>
-- [Tutorials](#tutorials)<br>
+- [Go](#go)<br>
    - [Introduction](#introduction)<br>
    - [Fundamentals](#fundamentals)<br>
    - [Functions](#functions)<br>
-   - [Arrays,Slices and Maps](#arrays-slices-and-maps)<br>
+   - [Arrays, Slices and Maps](#arrays-slices-and-maps)<br>
    - [Structs and Methods](#structs-and-methods)<br>
    - [Concurrency](#concurrency)<br>
    - [Packages and Modules](#packages-and-modules)<br>
@@ -18,14 +18,15 @@ Go, commonly referred to as Golang, is an open-source programming language devel
    - [Web Development](#web-development)<br>
 - [Tools](#tools)<br>
 - [Advanced Topics](#advanced-topics)<br>
-- [Go Projects](#Go-projects)
+- [Projects](#projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
 - [Courses](#courses)
-   - [Free Certification Courses](#free-certification-courses)
-   - [Paid Certification Courses](#paid-certification-courses)
+   - [Free Courses](#free-courses)
+   - [Paid Courses](#paid-courses)
 - [Youtube](#youtube)<br>
+- [Go Cheatsheet](#go-cheatsheet)
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -43,7 +44,7 @@ Go, commonly referred to as Golang, is an open-source programming language devel
       </tr>
   </table>
 
-## Tutorials
+## Go
 
 > Offers step-by-step guides and tutorials covering various aspects of Go programming.
 Helps beginners understand fundamental concepts and advanced users explore new techniques.
@@ -98,7 +99,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
   <tr>
     <td><a href="https://www.w3schools.com/go/go_variables.php">Variables</a></td>
-    <td>An article explaining how to declare and use variables in JavaScript using the var, let, and const keywords.</td>
+    <td>An article explaining how to declare and use variables in Go using the var, let, and const keywords.</td>
   </tr>
   <tr>
     <td><a href="https://www.developer.com/languages/control-structures-golang/">Control Stuctures</a></td>
@@ -143,7 +144,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-### Arrays,Slices and Maps
+### Arrays, Slices and Maps
 
 <table width="100%">
   <tr>
@@ -152,7 +153,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/arrays-in-go/">Arrays</a></td>
-    <td>This article will look into the usage of arrays in Golang or Go programming language.</td>
+    <td>This article will look into the usage of arrays in Go programming language.</td>
   </tr>
   <tr>
     <td><a href="https://go.dev/blog/slices-intro">Slices</a></td>
@@ -380,10 +381,10 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Go Projects
+## Projects
 > Here are some great ideas for projects in Go from beginner level to the advance level.
 
-#### Beginner Level Projects
+### Beginner Level Projects
 
    <table>
         <tr>
@@ -416,7 +417,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
         </tr>
     </table>
 
-  #### Intermediate Level Projects
+  ### Intermediate Level Projects
 
    <table>
         <tr>
@@ -441,7 +442,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
         </tr>
     </table>
 
-   #### Advance Level Projects
+   ### Advance Level Projects
 
    <table>
         <tr>
@@ -469,7 +470,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 ## Courses
 > Here are some free and paid courses you may consider:
 
-#### Free Certification Courses
+### Free Courses
 
 <table>
   <tr>
@@ -490,7 +491,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-#### Paid Certification Courses
+### Paid Courses
 
 <table>
   <tr>
@@ -535,6 +536,41 @@ Helps beginners understand fundamental concepts and advanced users explore new t
    <td><a href="https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa">Hitesh Choudhary</a></td>
    <td>This playlist offers detailed information about Go programming.</td>
  </tr>
+</table>
+
+## Go Cheatsheet
+
+> Cheat sheets for Go programming (Golang), providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://devhints.io/go">Go cheatsheet</a></td>
+    <td>A comprehensive Go cheat sheet provided by Devhints, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/go.html">Go Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for Go programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/golang-cheat-sheet/">Go Programming (Golang) Cheat Sheet</a></td>
+    <td>A detailed cheat sheet for Go programming provided by Zero to Mastery, covering a wide range of topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-go/modules/learn-go-introduction/cheatsheet">Learn Go: Introduction Cheatsheet</a></td>
+    <td>A beginner-friendly Go cheat sheet provided by Codecademy, ideal for those new to the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cheat-sheets.org/saved-copy/go-lang-cheat-sheet-master.20181212/golang_refcard.pdf">Golang Cheat Sheet</a></td>
+    <td>A comprehensive Golang cheat sheet available as a PDF, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://gist.github.com/michaellihs/4e35ed9546f379a3ef0583644d760bce">Go Cheat Sheet</a></td>
+    <td>A concise Go cheat sheet provided by GitHub user michaellihs, ideal for quick reference.</td>
+  </tr>
 </table>
 
 

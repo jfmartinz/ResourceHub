@@ -22,7 +22,9 @@
 - [Books](#books)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
-- [Youtube Channels](#youtube-channels)
+- [YouTube](#youtube)
+  - [Youtube Channels](#youtube-channels)
+  - [YouTube Playlists](#youtube-playlists)
 - [Machine learning forums](#machine-learning-forums)
 - [courses](#courses)
 - [Projects](#projects)
@@ -494,9 +496,11 @@
       </tr>  
 </table>
 
-### YouTube Channels
+### YouTube
 
 > Explore amazing YouTubers specializing in web development.
+
+#### YouTube Channels
 
 <table width="100%">
       <tr>
@@ -529,6 +533,33 @@
       <tr>
         <td> <a href="https://www.youtube.com/@codebasics">codebasics</a></td>
         <td>The YouTube channel "codebasics," hosted by codebasics, offers a variety of tutorials and resources focused on programming, data science, machine learning, and artificial intelligence. </td>
+      </tr>
+  </table>
+
+#### YouTube Playlists
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH">100 Days of Machine Learning</a></td>
+        <td>The YouTube playlist titled "100 Days of Machine Learning" features a series of videos designed to guide viewers through a comprehensive journey in machine learning over 100 days. The playlist covers a variety of topics and concepts essential to understanding and implementing machine learning, aimed at both beginners and those looking to deepen their knowledge. </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy">Machine Learning tutorial for Beginners</a></td>
+        <td>The YouTube playlist titled "Machine Learning | Machine Learning Tutorial For Beginners | Machine Learning Projects" by Simplilearn is designed to introduce beginners to machine learning concepts and projects. The playlist includes comprehensive tutorials, covering topics such as supervised and unsupervised learning, algorithms, data preprocessing, and hands-on projects.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLfFghEzKVmjtZb9G6jvO9PLKvwUvK5avI">Mathematics for machine learning</a></td>
+        <td>The YouTube playlist "Module 5: Mathematics for Machine Learning" is part of a course that focuses on the mathematical foundations necessary for understanding and applying machine learning techniques. It covers key mathematical concepts such as linear algebra, calculus, probability, and statistics, which are essential for machine learning. </td>
+      </tr>
+      </tr>
+        <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3">Mathematics for machine learing (linear algebra)</a></td>
+        <td>The YouTube playlist is by 'Digital Learning Hub - Imperial College London', this playlist is an online specialisation in Mathematics for Machine Learning (m4ml) hosted by Coursera, This course offers an introduction to the linear algebra required for common machine learning techniques. We start at the very beginning with thinking about vectors and what vectors are, and the basic mathematical operations we can do with vectors, like how to add vectors and more.
+        </td>
       </tr>
   </table>
 

@@ -64,6 +64,7 @@ This section is dedicated to providing valuable resources for learning and maste
    - [JavaScript Communities](#javascript-communities)
    - [JavaScript Documentations](#javascript-documentations)
    - [JavaScript Books](#javascript-books)
+   - [JavaScript CheatSheets](#javascript-cheatsheets)
 - [Conclusion](#conclusion)
 
 
@@ -1497,6 +1498,10 @@ Here's the revised table:
     <td><a href="https://youtu.be/cpoXLj24BDY?si=sdtFPx2rygSChw_D">JavaScript Certification Youtube Course</a></td>
     <td>A free course on YouTube designed for complete beginners to learn JavaScript programming.</td>
   </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/foundational/?programming_languages=javascript#sequence-2">Foundations of Programming in JavaScript by Google Tech Dev Guide</a></td>
+  <td>Learn about basic programming concepts like functions, operators, variables, control flow, strings, and arrays — some of the building blocks of programming by Google Tech Dev Guide </td>
+  </tr>
 </table>
 
 
@@ -1691,6 +1696,47 @@ Here's the revised table:
   </tr>
 </table>
 
+
+### JavaScript CheatSheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.interviewbit.com/javascript-cheat-sheet/">InterviewBit - JavaScript Cheat Sheet: Basics to Advanced (2024)</a></td>
+    <td>A comprehensive cheat sheet covering JavaScript from basics to advanced concepts, updated for 2024.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewithharry.com/blogpost/javascript-cheatsheet/">Code with Harry - JavaScript Cheatsheet</a></td>
+    <td>A practical JavaScript cheat sheet by Code with Harry, ideal for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://htmlcheatsheet.com/js/">JavaScript (JS) Cheat Sheet Online</a></td>
+    <td>An online cheat sheet providing a quick reference for JavaScript syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/javascript.html">JavaScript Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for JavaScript, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l">The Ultimate JavaScript Cheatsheet Collection</a></td>
+    <td>A collection of various JavaScript cheat sheets compiled for easy access.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript/">GFG - JavaScript Cheat Sheet - A Basic Guide to JavaScript</a></td>
+    <td>A basic guide to JavaScript, suitable for beginners, provided by GeeksforGeeks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/">Zero Mastery - Advanced JavaScript Cheat Sheet</a></td>
+    <td>An advanced cheat sheet for JavaScript, covering more complex concepts and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://overapi.com/javascript">OverAPI - JavaScript Cheat Sheet</a></td>
+    <td>A comprehensive JavaScript cheat sheet provided by OverAPI.</td>
+  </tr>
+</table>
 
 
 ## Conclusion
