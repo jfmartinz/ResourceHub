@@ -20,6 +20,11 @@ This section is a curated collection of valuable SQL resources for absolute begi
    - [SQL Constraints](#sql-constraints)
    - [SQL Clauses](#sql-clauses)
    - [Aggregate Functions](#aggregate-functions)
+- [Advanced SQL]()
+   - [Subqueries and Nested Queries](#subqueries-and-nested-queries)
+   - [Joins](#joins)
+   - [Set Operations](#set-operations)
+- 
 
 ### Roadmap
 >
@@ -305,5 +310,96 @@ This section is a curated collection of valuable SQL resources for absolute begi
   <tr>
     <td><a href="https://www.programiz.com/sql/min-and-max">MIN() and MAX()</a></td>
     <td>Explanation and examples of using the MIN() and MAX() functions to find the minimum and maximum values in a column, respectively.</td>
+  </tr>
+</table>
+
+
+### Advance SQL 
+>
+
+### Subqueries and Nested Queries
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/sql/subqueries-in-sql/">Subqueries in SQL</a></td>
+    <td>Overview of subqueries in SQL, explaining their syntax and usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/sql/types-of-subqueries-in-sql/">Types of Subqueries in SQL</a></td>
+    <td>Explanation of different types of subqueries in SQL, including scalar, column, row, and table subqueries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/sql/correlated-subquery/">Correlated Subquery</a></td>
+    <td>Guide on correlated subqueries in SQL, discussing how they are different from regular subqueries and providing examples.</td>
+  </tr>
+</table>
+
+### Joins
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/join">SQL JOINS</a></td>
+    <td>Overview of SQL joins, explaining their purpose and usage in database queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/inner-join">INNER JOIN</a></td>
+    <td>Explanation of the INNER JOIN operation in SQL, which returns only the rows that have matching values in both tables.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/left-join">LEFT JOIN</a></td>
+    <td>Guide on the LEFT JOIN operation in SQL, which returns all rows from the left table and matching rows from the right table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/right-join">RIGHT JOIN</a></td>
+    <td>Explanation of the RIGHT JOIN operation in SQL, which returns all rows from the right table and matching rows from the left table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/full-outer-join">FULL JOIN</a></td>
+    <td>Overview of the FULL JOIN operation in SQL, which returns all rows from both tables, with NULLs in places where there is no match.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/cross-join">CROSS JOIN</a></td>
+    <td>Guide on the CROSS JOIN operation in SQL, which returns the Cartesian product of the two tables involved.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/self-join">Self Join</a></td>
+    <td>Explanation of the Self Join operation in SQL, which joins a table with itself to perform comparisons within the same table.</td>
+  </tr>
+</table>
+
+### Set Operations
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/sql/set-operators-in-sql/">Set Operations in SQL</a></td>
+    <td>An overview of set operations in SQL, explaining their purpose and usage in database queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-union-operator/?ref=lbp">UNION</a></td>
+    <td>Explanation of the UNION operator in SQL, which combines the results of two or more SELECT statements without duplicates.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-union-all/?ref=lbp">UNION ALL</a></td>
+    <td>Guide on the UNION ALL operator in SQL, which combines the results of two or more SELECT statements including duplicates.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-intersect-clause/?ref=lbp">INTERSECT</a></td>
+    <td>Explanation of the INTERSECT clause in SQL, which returns the intersection of the results of two or more SELECT statements.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-except-clause/?ref=lbp">EXCEPT</a></td>
+    <td>Guide on the EXCEPT clause in SQL, which returns the difference between the results of two SELECT statements.</td>
   </tr>
 </table>
