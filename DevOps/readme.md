@@ -502,6 +502,36 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
   </tr>
 </table>
 
+### API Tools
+> Following are the api tools for your devops toolchain.
+
+<table>
+  <tr>
+    <th>API Tool</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.postman.com/">Postman</a></td>
+    <td>A collaboration platform for API development. (Free & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://hoppscotch.io/">Hoppscotch</a></td>
+    <td>Open-source API development Ecosystem. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.soapui.org/">SoapUI</a></td>
+    <td>The world's leading automated testing tool for SOAP and REST APIs. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://swagger.io/">Swagger</a></td>
+    <td>A framework for API specification that includes a suite of tools for auto-generating documentation, code generation, and API testing. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/httpie/cli">HTTPie</a></td>
+    <td>HTTPie (pronounced aitch-tee-tee-pie) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible (Open Source)</td>
+  </tr>
+</table>
+
 
 ### GitHub Repositories
 
