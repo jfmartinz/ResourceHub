@@ -15,7 +15,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
    - [Introduction](#introduction)
    - [Data Definition Language (DDL)](#data-definition-language-ddl)
    - [Data Manipulation Language (DML)](#data-manipulation-language-dml)
-
+   - [Tables in SQL](#tables-in-sql)
 
 ### Roadmap
 >
@@ -130,5 +130,35 @@ This section is a curated collection of valuable SQL resources for absolute begi
   <tr>
     <td><a href="https://www.programiz.com/sql/delete-truncate-rows">SQL | DELETE and TRUNCATE Statement</a></td>
     <td>Tutorial on using the DELETE and TRUNCATE statements in SQL.</td>
+  </tr>
+</table>
+
+
+### Tables in SQL
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-create-table/?ref=lbp">SQL CREATE TABLE</a></td>
+    <td>Guide on how to create tables in SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-drop-table-statement/?ref=lbp">SQL DROP TABLE</a></td>
+    <td>Explanation of the SQL statement to drop tables.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-query-to-copy-duplicate-or-backup-table/?ref=lbp">SQL Query to Copy, Duplicate or Backup Table</a></td>
+    <td>Tutorial on copying, duplicating, or backing up tables in SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/what-is-temporary-table-in-sql/?ref=lbp">What is Temporary Table in SQL?</a></td>
+    <td>Explanation of temporary tables in SQL and their usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-alter-add-drop-modify/?ref=lbp">SQL ALTER TABLE</a></td>
+    <td>Guide on how to alter tables in SQL, including adding, dropping, and modifying columns.</td>
   </tr>
 </table>
