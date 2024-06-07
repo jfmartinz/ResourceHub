@@ -11,6 +11,7 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 - [Source Code Management](#source-code-management)
 - [Visulization Tools](#visulization-tools)
 - [Monitoring & Observability Tools](#monitoring--observability-tools)
+- [Continuous Integration Tools](#continuous-integration-tools)
 - [Build Tools](#build-tools)
 - [API Tools](#api-tools)
 - [Documentation](#documentation)<br>
@@ -253,7 +254,7 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 
 <table>
   <tr>
-    <th>Visualization Tool</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -275,7 +276,7 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 
 <table>
   <tr>
-    <th>Monitoring & Observability Tool</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -340,12 +341,62 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
   </tr>
 </table>
 
+### Continuous Integration Tools
+> Continuous Integration provides continuous feedback on code integrations, helping solve issues faster and decreasing time in software release cycles.
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.jenkins.io/">Jenkins</a></td>
+    <td>An open-source automation server, helps to automate parts of the build, test, and deployment process. Java-based, with Groovy-based pipeline definition. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/features/actions">Github Actions</a></td>
+    <td>A CI/CD solution that integrates with GitHub repositories to run a series of commands automatically. (Free & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.gitlab.com/ee/ci/">Gitlab CI</a></td>
+    <td>A continuous integration service included with GitLab that builds and tests the software whenever the developer pushes code to the application. YAML-based pipelines. Can be self-hosted or use the cloud offering. (Free & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://circleci.com/">CircleCI</a></td>
+    <td>YAML-based CI/CD hosted in the cloud. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.drone.io/">Drone</a></td>
+    <td>YAML-based CI/CD that is container-first. Can self-host or use the cloud version. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.jetbrains.com/teamcity/">TeamCity</a></td>
+    <td>A build management and continuous integration server from JetBrains. (Free & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://travis-ci.org/">Travis CI</a></td>
+    <td>A cloud-based continuous integration service that automatically builds and tests code changes in GitHub repositories. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.atlassian.com/software/bamboo">Bamboo</a></td>
+    <td>A continuous integration and deployment tool that ties automated builds, tests, and releases together in a single workflow. (Free & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://razorops.com/">RazorOps CICD</a></td>
+    <td>YAML-based CI/CD that is container-first SaaS cloud version and On-Prems with large Enterprise. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://buildkite.com/">Buildkite</a></td>
+    <td>YAML-based CI/CD. (Free & Paid)</td>
+  </tr>
+</table>
+
+
 ### Build Tools
 >Build tools are essential for automating package creation or deployable artifacts.
 
 <table>
   <tr>
-    <th>Build Tool</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -379,7 +430,7 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 
 <table>
   <tr>
-    <th>API Tool</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
