@@ -820,6 +820,10 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td><a href="https://en.wikipedia.org/wiki/KISS_principle">KISS (Keep It Simple, Stupid)</a></td>
     <td>Embrace the KISS principle, advocating for simplicity in design and implementation to improve readability, maintainability, and understanding of code.</td>
   </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/principles/?no-filter=true#sequence-3">Software Engineering Principles by Google Tech Dev Guide</a></td>
+  <td>Practice important skills you'll need to be a successful software developer — testing, debugging, design, documentation, and open source.</td>
+  </tr>
 </table>
 
 ### Books
@@ -1148,6 +1152,10 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td><a href="https://www.youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd">Coding Wallah - C++ and DSA Foundation Course</a></td>
     <td>This Coding Wallah playlist specifically focuses on building a foundation in C++ programming alongside Data Structures and Algorithms (DSA). It can be a great resource for those who want to learn both simultaneously and prepare for coding challenges.</td>
   </tr>
+  <tr>
+  <td><a href="https://youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee&si=Ij7XnDcHqF7skzyI">C++ Complete Course by Jenny Lectures</a></td>
+  <td>This Channel focuses on creating tutorials for engineers, software developers, programmers, Coders, undergraduates, graduates. Covers topics for all different skill levels, so whether you are a beginner or have some years of experience, this channel will have something for you.</td>
+  </tr>
 </table>
 
 
@@ -1184,6 +1192,10 @@ Writing to Files File Streams input and output operations in C++.</td>
   <tr>
     <td><a href="https://web.stanford.edu/class/cs106l/">Programming Fundamentals with C++</a></td>
     <td>Stanford's CS106L Programming Fundamentals with C++ course offers video lectures, assignments, and online resources. While there's no certificate, this provides an in-depth learning experience.</td>
+  </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/foundational/?programming_languages=c-plus-plus#sequence-2">Foundations of Programming- Google Tech Dev Guide</a></td>
+  <td> Learn about basic programming concepts like functions, operators, variables, control flow, strings, and arrays — some of the building blocks of programming. This course is provided by Google under its Google Tech Dev Guide </td>
   </tr>
 </table>
 
@@ -1247,6 +1259,10 @@ Writing to Files File Streams input and output operations in C++.</td>
   <tr>
     <td><a href="https://youtu.be/I5Gr555bZEs?si=PF8Lu0csFV3Pqrem">C++ Programming Interview Questions and Answers</a></td>
     <td>edureka! offers a video discussing essential C++ programming interview questions, suitable for both beginners and experienced developers.</td>
+  </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/interview/?programming_languages=c-plus-plus>">Interview Prep by Google Tech Dev Guide</a></td>
+  <td> Interview Preparation course provided by Google under its Tech Dev Guide. It's absolutely free and available in multiple programming languages.</td>
   </tr>
 </table>
 
@@ -1340,6 +1356,18 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td><a href="https://quickref.me/cpp.html">C++ CheatSheet - QuickRef.ME</a></td>
     <td>A concise C++ CheatSheet covering essential syntax, data types, control structures, functions, OOP concepts, and standard libraries for quick access and review. 
     </td>  
+  </tr>
+    <tr>
+    <td><a href="https://programiz.pro/resources/cpp-cheat-sheet/">Programiz - C++ Cheatsheets</a></td>
+    <td>A comprehensive cheat sheet for C++ programming provided by Programiz.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/resources/cheatsheets/language/c-plus-plus">Code Academy - C++ Cheatsheets</a></td>
+    <td>A collection of C++ cheat sheets from Codecademy, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/cpp-stl-cheat-sheet/">C++ STL Cheat Sheet</a></td>
+    <td>A detailed cheat sheet for the C++ Standard Template Library (STL) provided by GeeksforGeeks.</td>
   </tr>
 </table>
 

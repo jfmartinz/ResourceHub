@@ -40,6 +40,7 @@ Sure! Below is an expanded and detailed README structure for the "Enrich Perl Do
 - [Additional Resources](#additional-resources)
   - [Communities](#communities)
   - [Books](#books)
+  - [Perl Cheatsheets](#perl-cheatsheets)
 - [Conclusion](#conclusion)
 ### Roadmap
 
@@ -716,6 +717,35 @@ Sure! Below is an expanded and detailed README structure for the "Enrich Perl Do
    <td><a href="https://www.amazon.com/Intermediate-Perl-Andrew-L-Johnson/dp/1491976846">Intermediate Perl</a></td>
    <td>Check out "Intermediate Perl" to deepen your knowledge of Perl and explore more advanced programming concepts.</td>
  </tr>
+</table>
+
+### Perl Cheatsheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://opensource.com/sites/default/files/gated-content/osdc_cheatsheet-perl-2022.01.28.pdf">Perl Cheat Sheet</a></td>
+    <td>A comprehensive Perl cheat sheet in PDF format, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/perl-regex-cheat-sheet/">Perl | Regex Cheat Sheet</a></td>
+    <td>A Perl regex cheat sheet provided by GeeksforGeeks, covering regular expressions in Perl.</td>
+  </tr>
+  <tr>
+    <td><a href="https://perldoc.perl.org/perlcheat">perlcheat - Perl 5 Cheat Sheet - Perldoc Browser</a></td>
+    <td>A Perl 5 cheat sheet available in Perldoc Browser, covering various Perl features and functionalities.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.datadisk.co.uk/html_docs/perl/perl_cs.htm">Perl Cheat Sheet</a></td>
+    <td>A Perl cheat sheet provided by DataDisk, covering syntax and common tasks in Perl.</td>
+  </tr>
+  <tr>
+    <td><a href="https://onecompiler.com/cheatsheets/perl">One Compiler - Perl - Cheat Sheets</a></td>
+    <td>A collection of Perl cheat sheets provided by One Compiler, covering different aspects of Perl programming.</td>
+  </tr>
 </table>
 
 ### Conclusion
