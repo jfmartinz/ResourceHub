@@ -1,9 +1,17 @@
 # DevOps ♾️
-DevOps is a combination of software development (Dev) and operations (Ops). It is defined as a software engineering methodology which aims to integrate the work of development teams and operations teams by facilitating a culture of collaboration and shared responsibility. The DevOps methodology aims to shorten the systems development lifecycle and provide continuous delivery with high software quality. It emphasizes collaboration, automation, integration and rapid feedback cycles. These characteristics help ensure a culture of building, testing, and releasing software that is more reliable and at a high velocity.
+DevOps is a combination of software development (Dev) and operations (Ops). It is defined as a software engineering methodology which aims to integrate the work of development teams and operations teams by facilitating a culture of collaboration and shared responsibility. The DevOps methodology aims to shorten the systems development lifecycle and provide continuous delivery with high software quality. 
+
+It emphasizes collaboration, automation, integration and rapid feedback cycles. These characteristics help ensure a culture of building, testing, and releasing software that is more reliable and at a high velocity.
 
 ## Table of Contents
 - [Roadmap](#roadmap)<br>
 - [Tutorial or Courses](#tutorials-or-courses)<br>
+- [Tools](#tools)
+- [Development Environment Tools](#development-environment-tools)
+- [Source Code Management](#source-code-management)
+- [Visulization Tools](#visulization-tools)
+- [Build Tools](#build-tools)
+- [API Tools](#api-tools)
 - [Documentation](#documentation)<br>
 - [YouTube](#youtube)
     - [YouTube Channels](#youtube-channels)<br>
@@ -12,11 +20,6 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 - [Books](#books)
     - [Free Books](#free-books)
     - [Paid Books](#paid-books)
-- [Tools](#tools)
-- [Development Environment Tools](#development-environment-tools)
-- [Source Code Management](#source-code-management)
-- [Build Tools](#build-tools)
-- [API Tools](#api-tools)
 - [GitHub Repositories](#github-repositories)
 - [Conclusion](#conclusion)
 
@@ -99,6 +102,237 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
   </tr>
   
 </table>
+
+### Tools
+
+> These tools helps you to levelup your DevOps career.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.jenkins.io/">Jenkins </a></td>
+        <td>Jenkins is an open-source automation server used for building, testing, and deploying software. It enables continuous integration and continuous delivery (CI/CD) pipelines, automating the software development process.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.docker.com/">Docker</a></td>
+        <td>Docker is a containerization platform that allows developers to package applications and their dependencies into containers. These containers can be easily deployed across different environments, providing consistency and efficiency in software delivery.</td>
+      </tr>
+      <tr>
+        <td><a href="https://kubernetes.io/">Kubernetes</a></td>
+        <td>Kubernetes is an open-source container orchestration platform used for automating the deployment, scaling, and management of containerized applications. It provides features for deploying, scaling, and managing containerized applications in a flexible and efficient manner.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.terraform.io/">Terraform</a></td>
+        <td>Terraform is a tool used for building, changing, and versioning infrastructure safely and efficiently. It allows infrastructure to be defined using declarative configuration files, enabling infrastructure to be managed programmatically.</td>
+      </tr>
+      <tr>
+        <td><a href="https://prometheus.io/">Prometheus</a></td>
+        <td>Prometheus is a alerting toolkit used for collecting and querying metrics from various systems. It provides a flexible query language and powerful alerting capabilities for monitoring the health and performance of applications and infrastructure.</td>
+      </tr>
+      <tr>
+        <td><a href="https://grafana.com/">Grafana</a></td>
+        <td>Grafana is a analytics and monitoring platform used for visualizing and analyzing metrics collected by monitoring systems like Prometheus. It provides a rich set of visualization options and dashboards for gaining insights into the performance and behavior of systems.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.puppet.com/">Puppet</a></td>
+        <td>Puppet is a configuration management tool used for automating infrastructure deployment and configuration. It provides a model-driven approach for managing infrastructure, ensuring consistency and compliance across environment</td>
+      </tr>
+      
+</table>
+
+### Development Environment Tools
+> Development environment tools are essential for maintaining consistency in software configurations and versions. They ensure reproducibility in minutes in case of a crash, increasing developer productivity.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.virtualbox.org/">Virtual Box</a></td>
+    <td>A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.qemu.org/">Qemu</a></td>
+    <td>A generic and open source machine emulator and virtualizer. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.vagrantup.com/">Vagrant</a></td>
+    <td>A tool for building and managing virtual machine environments in a single workflow. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.docker.com/products/docker-desktop">Docker Desktop</a></td>
+    <td>An application for MacOS and Windows machines for the building and sharing of containerized applications. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://minikube.sigs.k8s.io/">Minikube</a></td>
+    <td>A tool that makes it easy to run Kubernetes locally. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.okd.io/minishift/">Minishift</a></td>
+    <td>A tool that helps you run OpenShift locally by running a single-node OpenShift cluster inside a VM. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://podman.io/">Podman Desktop</a></td>
+    <td>A daemonless container engine for developing, managing, and running OCI Containers on your Linux System. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://rancherdesktop.io/">Rancher Desktop</a></td>
+    <td>A tool that enables developers to manage and deploy Kubernetes clusters effortlessly on their local machines. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kind.sigs.k8s.io/">kind</a></td>
+    <td>A tool that uses Docker containers as nodes to facilitate the creation of local Kubernetes cluster primarily used for local development and testing. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://k3d.io/">k3d</a></td>
+    <td>A lightweight wrapper to run k3s in Docker and makes it easy to create single and multi-node k3s clusters. (Open Source)</td>
+  </tr>
+</table>
+
+### Source Code Management
+>In the DevOps world, everything is treated as code (e.g., code, shell script, configurations, etc.). Robust source code management tools are a must.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/">Github</a></td>
+    <td>A web-based hosting service for version control using Git. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://bitbucket.org/">Bitbucket</a></td>
+    <td>A web-based version control repository hosting service owned by Atlassian, for source code and development projects that use either Mercurial or Git revision control systems. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://about.gitlab.com/">Gitlab</a></td>
+    <td>A web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking, and CI/CD pipeline features, using an open-source license. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/codecommit/">AWS CodeCommit</a></td>
+    <td>A fully-managed source control service that makes it easy for companies hosting their own repositories to collaborate on code in a secure and highly scalable ecosystem. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://cloud.google.com/source-repositories">Google Cloud Source Repositories</a></td>
+    <td>Fully-featured, scalable, private Git repositories hosted on Google Cloud. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://azure.microsoft.com/en-us/services/devops/repos/">Azure Repos</a></td>
+    <td>Provides Git repositories or Team Foundation Version Control (TFVC) for source control of your code. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeberg.org/">Codeberg</a></td>
+    <td>Cloud-based instance of Forgejo. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://forgejo.org/">Forgejo</a></td>
+    <td>Open-source fork of Gitea. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://fossil-scm.org/home/doc/trunk/www/index.wiki">Fossil</a></td>
+    <td>Open-source distributed SCM that includes a wiki, issue management, and other features. Not compatible with Git. (Free)</td>
+  </tr>
+  <tr>
+    <td><a href="https://about.gitea.com/">Gitea</a></td>
+    <td>Open-source fork of Gogs. (Open Source, Free, Paid Support Available)</td>
+  </tr>
+  <tr>
+    <td><a href="https://gogs.io/">Gogs</a></td>
+    <td>Open-source git-based SCM, loosely based on GitHub's UI. (Open Source)</td>
+  </tr>
+</table>
+
+### Visulization Tools
+> Following are the visulization tools for your devops toolchain.
+
+<table>
+  <tr>
+    <th>Visualization Tool</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://grafana.com/">Grafana</a></td>
+    <td>A leading open-source platform for monitoring and observability, allowing you to query, visualize, alert on, and understand your metrics. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.elastic.co/kibana">Kibana</a></td>
+    <td>A free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tableau.com/">Tableau</a></td>
+    <td>A leading data visualization and business intelligence platform that helps people see and understand their data. (Enterprise)</td>
+  </tr>
+</table>
+
+### Build Tools
+>Build tools are essential for automating package creation or deployable artifacts.
+
+<table>
+  <tr>
+    <th>Build Tool</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://maven.apache.org/">Maven</a></td>
+    <td>A software project management and comprehension tool, primarily used for Java projects. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://gradle.org/">Gradle</a></td>
+    <td>An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven. Supports Java, Kotlin, Groovy, Scala, Python, C++. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.npmjs.com/">npm</a></td>
+    <td>A package manager for JavaScript, used to install, share, and distribute code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ruby.github.io/rake/">Rake</a></td>
+    <td>A software task management and build automation tool for Ruby. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dotnet/msbuild">MSBuild</a></td>
+    <td>The build platform for .NET and Visual Studio. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://pybuilder.io/">Pybuilder</a></td>
+    <td>A software build tool written in pure Python mainly for Python applications. (Open Source)</td>
+  </tr>
+</table>
+
+### API Tools
+> Following are the api tools for your devops toolchain.
+
+<table>
+  <tr>
+    <th>API Tool</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.postman.com/">Postman</a></td>
+    <td>A collaboration platform for API development. (Free & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://hoppscotch.io/">Hoppscotch</a></td>
+    <td>Open-source API development Ecosystem. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.soapui.org/">SoapUI</a></td>
+    <td>The world's leading automated testing tool for SOAP and REST APIs. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://swagger.io/">Swagger</a></td>
+    <td>A framework for API specification that includes a suite of tools for auto-generating documentation, code generation, and API testing. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/httpie/cli">HTTPie</a></td>
+    <td>HTTPie (pronounced aitch-tee-tee-pie) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible (Open Source)</td>
+  </tr>
+</table>
+
 
 ### Documentation
 > These are some documentation that can help understand DevOps better.
@@ -323,215 +557,6 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
        <td>This books helps the learner to learn how to set up Azure DevOps projects, manage source code repositories, automate builds and deployments, and implement continuous integration and continuous delivery (CI/CD) pipelines. The book covers various aspects of Azure DevOps, including version control, work item tracking, test management, and collaboration tools.</td>
     </tr>
 </table>
-
-### Tools
-
-> These tools helps you to levelup your DevOps career.
-
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-       <tr>
-        <td><a href="https://www.jenkins.io/">Jenkins </a></td>
-        <td>Jenkins is an open-source automation server used for building, testing, and deploying software. It enables continuous integration and continuous delivery (CI/CD) pipelines, automating the software development process.</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.docker.com/">Docker</a></td>
-        <td>Docker is a containerization platform that allows developers to package applications and their dependencies into containers. These containers can be easily deployed across different environments, providing consistency and efficiency in software delivery.</td>
-      </tr>
-      <tr>
-        <td><a href="https://kubernetes.io/">Kubernetes</a></td>
-        <td>Kubernetes is an open-source container orchestration platform used for automating the deployment, scaling, and management of containerized applications. It provides features for deploying, scaling, and managing containerized applications in a flexible and efficient manner.</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.terraform.io/">Terraform</a></td>
-        <td>Terraform is a tool used for building, changing, and versioning infrastructure safely and efficiently. It allows infrastructure to be defined using declarative configuration files, enabling infrastructure to be managed programmatically.</td>
-      </tr>
-      <tr>
-        <td><a href="https://prometheus.io/">Prometheus</a></td>
-        <td>Prometheus is a alerting toolkit used for collecting and querying metrics from various systems. It provides a flexible query language and powerful alerting capabilities for monitoring the health and performance of applications and infrastructure.</td>
-      </tr>
-      <tr>
-        <td><a href="https://grafana.com/">Grafana</a></td>
-        <td>Grafana is a analytics and monitoring platform used for visualizing and analyzing metrics collected by monitoring systems like Prometheus. It provides a rich set of visualization options and dashboards for gaining insights into the performance and behavior of systems.</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.puppet.com/">Puppet</a></td>
-        <td>Puppet is a configuration management tool used for automating infrastructure deployment and configuration. It provides a model-driven approach for managing infrastructure, ensuring consistency and compliance across environment</td>
-      </tr>
-      
-</table>
-
-### Development Environment Tools
-> Development environment tools are essential for maintaining consistency in software configurations and versions. They ensure reproducibility in minutes in case of a crash, increasing developer productivity.
-
-<table>
-  <tr>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://www.virtualbox.org/">Virtual Box</a></td>
-    <td>A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.qemu.org/">Qemu</a></td>
-    <td>A generic and open source machine emulator and virtualizer. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.vagrantup.com/">Vagrant</a></td>
-    <td>A tool for building and managing virtual machine environments in a single workflow. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.docker.com/products/docker-desktop">Docker Desktop</a></td>
-    <td>An application for MacOS and Windows machines for the building and sharing of containerized applications. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://minikube.sigs.k8s.io/">Minikube</a></td>
-    <td>A tool that makes it easy to run Kubernetes locally. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.okd.io/minishift/">Minishift</a></td>
-    <td>A tool that helps you run OpenShift locally by running a single-node OpenShift cluster inside a VM. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://podman.io/">Podman Desktop</a></td>
-    <td>A daemonless container engine for developing, managing, and running OCI Containers on your Linux System. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://rancherdesktop.io/">Rancher Desktop</a></td>
-    <td>A tool that enables developers to manage and deploy Kubernetes clusters effortlessly on their local machines. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://kind.sigs.k8s.io/">kind</a></td>
-    <td>A tool that uses Docker containers as nodes to facilitate the creation of local Kubernetes cluster primarily used for local development and testing. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://k3d.io/">k3d</a></td>
-    <td>A lightweight wrapper to run k3s in Docker and makes it easy to create single and multi-node k3s clusters. (Open Source)</td>
-  </tr>
-</table>
-
-### Source Code Management
->In the DevOps world, everything is treated as code (e.g., code, shell script, configurations, etc.). Robust source code management tools are a must.
-
-<table>
-  <tr>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/">Github</a></td>
-    <td>A web-based hosting service for version control using Git. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. (Free & Paid)</td>
-  </tr>
-  <tr>
-    <td><a href="https://bitbucket.org/">Bitbucket</a></td>
-    <td>A web-based version control repository hosting service owned by Atlassian, for source code and development projects that use either Mercurial or Git revision control systems. (Free & Paid)</td>
-  </tr>
-  <tr>
-    <td><a href="https://about.gitlab.com/">Gitlab</a></td>
-    <td>A web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking, and CI/CD pipeline features, using an open-source license. (Free & Paid)</td>
-  </tr>
-  <tr>
-    <td><a href="https://aws.amazon.com/codecommit/">AWS CodeCommit</a></td>
-    <td>A fully-managed source control service that makes it easy for companies hosting their own repositories to collaborate on code in a secure and highly scalable ecosystem. (Free & Paid)</td>
-  </tr>
-  <tr>
-    <td><a href="https://cloud.google.com/source-repositories">Google Cloud Source Repositories</a></td>
-    <td>Fully-featured, scalable, private Git repositories hosted on Google Cloud. (Free & Paid)</td>
-  </tr>
-  <tr>
-    <td><a href="https://azure.microsoft.com/en-us/services/devops/repos/">Azure Repos</a></td>
-    <td>Provides Git repositories or Team Foundation Version Control (TFVC) for source control of your code. (Free & Paid)</td>
-  </tr>
-  <tr>
-    <td><a href="https://codeberg.org/">Codeberg</a></td>
-    <td>Cloud-based instance of Forgejo. (Free & Paid)</td>
-  </tr>
-  <tr>
-    <td><a href="https://forgejo.org/">Forgejo</a></td>
-    <td>Open-source fork of Gitea. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://fossil-scm.org/home/doc/trunk/www/index.wiki">Fossil</a></td>
-    <td>Open-source distributed SCM that includes a wiki, issue management, and other features. Not compatible with Git. (Free)</td>
-  </tr>
-  <tr>
-    <td><a href="https://about.gitea.com/">Gitea</a></td>
-    <td>Open-source fork of Gogs. (Open Source, Free, Paid Support Available)</td>
-  </tr>
-  <tr>
-    <td><a href="https://gogs.io/">Gogs</a></td>
-    <td>Open-source git-based SCM, loosely based on GitHub's UI. (Open Source)</td>
-  </tr>
-</table>
-
-### Build Tools
->Build tools are essential for automating package creation or deployable artifacts.
-
-<table>
-  <tr>
-    <th>Build Tool</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://maven.apache.org/">Maven</a></td>
-    <td>A software project management and comprehension tool, primarily used for Java projects. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://gradle.org/">Gradle</a></td>
-    <td>An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven. Supports Java, Kotlin, Groovy, Scala, Python, C++. (Free & Paid)</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.npmjs.com/">npm</a></td>
-    <td>A package manager for JavaScript, used to install, share, and distribute code.</td>
-  </tr>
-  <tr>
-    <td><a href="https://ruby.github.io/rake/">Rake</a></td>
-    <td>A software task management and build automation tool for Ruby. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/dotnet/msbuild">MSBuild</a></td>
-    <td>The build platform for .NET and Visual Studio. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://pybuilder.io/">Pybuilder</a></td>
-    <td>A software build tool written in pure Python mainly for Python applications. (Open Source)</td>
-  </tr>
-</table>
-
-### API Tools
-> Following are the api tools for your devops toolchain.
-
-<table>
-  <tr>
-    <th>API Tool</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://www.postman.com/">Postman</a></td>
-    <td>A collaboration platform for API development. (Free & Enterprise)</td>
-  </tr>
-  <tr>
-    <td><a href="https://hoppscotch.io/">Hoppscotch</a></td>
-    <td>Open-source API development Ecosystem. (Open Source)</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.soapui.org/">SoapUI</a></td>
-    <td>The world's leading automated testing tool for SOAP and REST APIs. (Open Source & Enterprise)</td>
-  </tr>
-  <tr>
-    <td><a href="https://swagger.io/">Swagger</a></td>
-    <td>A framework for API specification that includes a suite of tools for auto-generating documentation, code generation, and API testing. (Open Source & Enterprise)</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/httpie/cli">HTTPie</a></td>
-    <td>HTTPie (pronounced aitch-tee-tee-pie) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible (Open Source)</td>
-  </tr>
-</table>
-
 
 ### GitHub Repositories
 
