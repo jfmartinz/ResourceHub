@@ -10,10 +10,11 @@ A computer network is a collection of interconnected devices that can communicat
    - [Paid Courses](#paid-courses)<br>
 - [Network Implementation](#network-implementation)
    - [Routing](#routing)
+   - [SD-WAN and Swutching](#sd-wan-and-switching)
    - [VPN](#vpn)
    - [Network Services](#network-services)
-   - [SD-WAN and Swutching](#sd-wan-and-switching)
    - [Network Simulators and Traffic Generators](#network-simulators-and-traffic-generators)
+   - [Network Connectivity](#network-connectivity)
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)<br>
@@ -78,6 +79,7 @@ A computer network is a collection of interconnected devices that can communicat
   </table>
 
 ## Network Implementation
+>  The implementation plan is a detailed roadmap that outlines every step of deploying the network. It includes routing, switching, VPN, Network Services, Network Connectivity, etc.
 
 ### Routing 
 <table>
@@ -92,6 +94,24 @@ A computer network is a collection of interconnected devices that can communicat
   <tr>
     <td><a href="https://vyos.io/">VyOS</a></td>
     <td>Open source network operating system that can be installed on physical hardware or a virtual machine on your own server, or a cloud platform.</td>
+  </tr>
+</table>
+
+
+### SD-WAN and Switching
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.silver-peak.com/">Silver Peak</a></td>
+    <td>SD-WAN Solution(Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/snabbco/snabb">snabb</a></td>
+    <td>Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.</td>
   </tr>
 </table>
 
@@ -130,23 +150,6 @@ A computer network is a collection of interconnected devices that can communicat
   <tr>
     <td><a href="https://bunny.net/">Bunny.net</a></td>
     <td>Global Content Delivery Platform.</td>
-  </tr>
-</table>
-
-### SD-WAN and Switching
-
-<table>
-  <tr>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://www.silver-peak.com/">Silver Peak</a></td>
-    <td>SD-WAN Solution(Commercial).</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/snabbco/snabb">snabb</a></td>
-    <td>Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.</td>
   </tr>
 </table>
 
@@ -215,6 +218,32 @@ A computer network is a collection of interconnected devices that can communicat
     <td>A network traffic modeler written in Python 3.</td>
   </tr>
 </table>
+
+### Network Connectivity
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://packetfabric.com/">Packetfabric</a></td>
+    <td>Network as a service provider (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://prosimo.io/">Prosimo</a></td>
+    <td>Autonomous Multi-Cloud Network (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://subtelforum.com/online-map/">Subtelforum Online Map</a></td>
+    <td>Submarine cables map.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.megaport.com/">Megaport</a></td>
+    <td>Network as a Service (NaaS) platform (commercial).</td>
+  </tr>
+</table>
+
 
 
 ## Books
