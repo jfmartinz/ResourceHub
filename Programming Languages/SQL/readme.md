@@ -24,7 +24,10 @@ This section is a curated collection of valuable SQL resources for absolute begi
    - [Subqueries and Nested Queries](#subqueries-and-nested-queries)
    - [Joins](#joins)
    - [Set Operations](#set-operations)
-- 
+- [Courses](#courses)
+   - [Free Courses](#free-courses)
+   - [Paid Courses](#paid-courses)
+-
 
 ### Roadmap
 >
@@ -401,5 +404,82 @@ This section is a curated collection of valuable SQL resources for absolute begi
   <tr>
     <td><a href="https://www.geeksforgeeks.org/sql-except-clause/?ref=lbp">EXCEPT</a></td>
     <td>Guide on the EXCEPT clause in SQL, which returns the difference between the results of two SELECT statements.</td>
+  </tr>
+</table>
+
+
+
+### Courses
+>
+
+### Free Courses
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.datacamp.com/courses/intro-to-sql-for-data-science">SQL for Beginners</a></td>
+    <td>A beginner-friendly SQL course offered by DataCamp.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/sql/">SQL Tutorial for Beginners</a></td>
+    <td>A comprehensive SQL tutorial for beginners provided by W3Schools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-sql">Learn SQL</a></td>
+    <td>An interactive SQL course for beginners offered by Codecademy.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.khanacademy.org/computing/computer-programming/sql">Introduction to Databases and SQL Querying</a></td>
+    <td>An introductory course to databases and SQL querying provided by Khan Academy.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/learn/sql-for-data-science">SQL for Data Science</a></td>
+    <td>A free course by IBM on Coursera covering SQL fundamentals for data science.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/learning/sql-essential-training-3">SQL Essential Training</a></td>
+    <td>A comprehensive SQL essential training provided by LinkedIn Learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://mva.microsoft.com/en-US/training-courses/sql-server-fundamentals-16944">SQL Server Fundamentals</a></td>
+    <td>A beginner-level course on SQL Server fundamentals offered by Microsoft Virtual Academy.</td>
+  </tr>
+</table>
+
+### Paid Courses
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/learn/sql-for-data-science">SQL for Data Science</a></td>
+    <td>This course by University of California, Davis on Coursera covers SQL fundamentals for data science.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/the-complete-sql-bootcamp/">The Complete SQL Bootcamp 2021: Go from Zero to Hero</a></td>
+    <td>This Udemy course provides a comprehensive guide to SQL, suitable for beginners to advanced learners.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/">SQL – MySQL for Data Analytics and Business Intelligence</a></td>
+    <td>Learn SQL with a focus on MySQL for data analytics and business intelligence.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/sql-bootcamp-from-udemy/">SQL - The Comprehensive Bootcamp</a></td>
+    <td>A thorough bootcamp-style course covering SQL concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/sql-for-beginners-course/">SQL for Beginners: Learn SQL using MySQL and Database Design</a></td>
+    <td>An introductory course to SQL using MySQL with a focus on database design.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/learn/advanced-sql">Advanced SQL for Data Scientists</a></td>
+    <td>This course by University of California, Davis on Coursera covers advanced SQL concepts for data scientists.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/sql-and-database-design-a-z/">SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL</a></td>
+    <td>A comprehensive course covering SQL and database design using MS SQL Server and PostgreSQL.</td>
   </tr>
 </table>
