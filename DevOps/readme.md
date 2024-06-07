@@ -10,6 +10,7 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 - [Development Environment Tools](#development-environment-tools)
 - [Source Code Management](#source-code-management)
 - [Visulization Tools](#visulization-tools)
+- [Monitoring & Observability Tools](#monitoring--observability-tools)
 - [Build Tools](#build-tools)
 - [API Tools](#api-tools)
 - [Documentation](#documentation)<br>
@@ -266,6 +267,76 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
   <tr>
     <td><a href="https://www.tableau.com/">Tableau</a></td>
     <td>A leading data visualization and business intelligence platform that helps people see and understand their data. (Enterprise)</td>
+  </tr>
+</table>
+
+### Monitoring & Observability Tools
+> Monitoring & Observability Tools provide insights into the performance, availability, and overall health of applications, infrastructure, and business processes. They enable proactive monitoring, alerting, and troubleshooting, ensuring optimal performance and reliability.
+
+<table>
+  <tr>
+    <th>Monitoring & Observability Tool</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://prometheus.io/">Prometheus</a></td>
+    <td>An open-source monitoring and alerting toolkit designed for reliability and scalability. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://thanos.io/">Thanos</a></td>
+    <td>A set of components that can be composed into a highly available metric system with unlimited storage capacity. (Highly Available Prometheus Open Source Tool)</td>
+  </tr>
+  <tr>
+    <td><a href="https://cilium.io/">Cilium</a></td>
+    <td>eBPF-based Networking, Security, and Observability. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://falco.org/">Falco</a></td>
+    <td>Cloud Native Runtime Security. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.projectcalico.org/">Calico</a></td>
+    <td>Pluggable eBPF-based networking and security for containers and Kubernetes. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://sensu.io/">Sensu</a></td>
+    <td>A comprehensive monitoring solution for your entire infrastructure and application stack. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="http://riemann.io/">Riemann</a></td>
+    <td>A powerful stream processing language that helps you compose, test, and distribute data streams. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.nagios.org/">Nagios</a></td>
+    <td>A powerful monitoring system that enables organizations to identify and resolve IT infrastructure problems. (Free & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.zabbix.com/">Zabbix</a></td>
+    <td>An enterprise-class open-source distributed monitoring solution. (Open Source & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://middleware.io/">Middleware</a></td>
+    <td>A full-stack observability platform that offers a free developer account with all features and a paid plan for higher limits/usage. (Free & Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.datadoghq.com/">Data Dog</a></td>
+    <td>A monitoring and analytics platform for large-scale applications. (Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://newrelic.com/">New Relic</a></td>
+    <td>A cloud-based platform that gives developers, engineers, operations, and management a clear view of what’s happening in today’s complex software environments. (Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.appdynamics.com/">App Dynamics</a></td>
+    <td>An application performance management solution that uses machine learning and artificial intelligence to provide real-time visibility and insight into IT environments. (Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sumologic.com/">Sumologic</a></td>
+    <td>A cloud-native, machine data analytics platform that delivers real-time, continuous intelligence. (Enterprise)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.dynatrace.com/">Dynatrace</a></td>
+    <td>An AI-powered, full-stack, automated performance management solution. (Enterprise)</td>
   </tr>
 </table>
 
