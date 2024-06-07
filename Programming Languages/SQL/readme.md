@@ -11,6 +11,8 @@ This section is a curated collection of valuable SQL resources for absolute begi
 ## Table of Contents
 
 - [Roadmap](#roadmap)
+   - [SQL Roadmap I](#roadmap)
+   - [SQL Developer Roadmap II](#roadmap)
 - [Tutorials](#tutorials)
    - [Introduction](#introduction)
    - [Data Definition Language (DDL)](#data-definition-language-ddl)
@@ -24,6 +26,10 @@ This section is a curated collection of valuable SQL resources for absolute begi
    - [Subqueries and Nested Queries](#subqueries-and-nested-queries)
    - [Joins](#joins)
    - [Set Operations](#set-operations)
+- [Advanced Data Management](#advanced-data-management)
+   - [Indexes]()
+   - [Views]()
+   - [Transactions]()
 - [Courses](#courses)
    - [Free Courses](#free-courses)
    - [Paid Courses](#paid-courses)
@@ -32,6 +38,21 @@ This section is a curated collection of valuable SQL resources for absolute begi
 
 ### Roadmap
 >
+
+<table width="100%" id="Roadmap">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://roadmap.sh/sql">SQL Roadmap I</a></td>
+    <td>A detailed step by step comprehensive guide to become a SQL developer.</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.propeers.in/roadmaps/661e09ae4ae65ebe4b97b1dc">SQL Developer Roadmap II</a></td>
+    <td>It covers fundamental MySQL concepts, progressing through advanced topics, featuring SQL query challenges and interview prep materials, ensuring a comprehensive learning journey for all levels of expertise..</td>
+  </tr>
+</table>
 
 ### Tutorials
 >
