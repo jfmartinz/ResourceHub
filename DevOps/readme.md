@@ -468,6 +468,40 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
   </tr>
 </table>
 
+### Build Tools
+>Build tools are essential for automating package creation or deployable artifacts.
+
+<table>
+  <tr>
+    <th>Build Tool</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://maven.apache.org/">Maven</a></td>
+    <td>A software project management and comprehension tool, primarily used for Java projects. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://gradle.org/">Gradle</a></td>
+    <td>An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven. Supports Java, Kotlin, Groovy, Scala, Python, C++. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.npmjs.com/">npm</a></td>
+    <td>A package manager for JavaScript, used to install, share, and distribute code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ruby.github.io/rake/">Rake</a></td>
+    <td>A software task management and build automation tool for Ruby. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dotnet/msbuild">MSBuild</a></td>
+    <td>The build platform for .NET and Visual Studio. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://pybuilder.io/">Pybuilder</a></td>
+    <td>A software build tool written in pure Python mainly for Python applications. (Open Source)</td>
+  </tr>
+</table>
+
 
 ### GitHub Repositories
 
