@@ -6,6 +6,9 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 ## Table of Contents
 - [Roadmap](#roadmap)<br>
 - [Tutorial or Courses](#tutorials-or-courses)<br>
+- [Cloud Platforms](#cloud-platforms)
+- [Operating Systems](#operating-systems)
+- [Application Platforms](#application-platforms)
 - [Tools](#tools)
 - [Development Environment Tools](#development-environment-tools)
 - [Source Code Management](#source-code-management)
@@ -14,6 +17,8 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 - [Continuous Integration Tools](#continuous-integration-tools)
 - [Build Tools](#build-tools)
 - [API Tools](#api-tools)
+- [Web Servers](#web-servers)
+- [Databases](#databases)
 - [Documentation](#documentation)<br>
 - [YouTube](#youtube)
     - [YouTube Channels](#youtube-channels)<br>
@@ -155,7 +160,185 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
   <td><a href="https://www.udemy.com/course/cicd-devops-tools-for-automation-testers-selenium/">CICD (DevOPs Tools) for Automation Testers (Selenium) | Udemy</a></td>
   <td>Learn various DevOps tools necessary for Automation Testers to implement Continuous Integration effectively.</td>
 </tr>
-  
+</table>
+
+
+### Cloud Platforms
+> Here are some Public and Private Cloud Platforms.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/">Amazon Web Services (AWS)</a></td>
+    <td>Cloud Computing Services provided by Amazon.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cloud.google.com/">Google Cloud Platform (GCP)</a></td>
+    <td>Cloud Computing Services provided by Google.</td>
+  </tr>
+  <tr>
+    <td><a href="https://azure.microsoft.com/">Azure</a></td>
+    <td>Cloud Computing Platform & Services provided by Microsoft.</td>
+  </tr>
+  <tr>
+    <td><a href="https://us.alibabacloud.com/">Alibaba Cloud</a></td>
+    <td>Integrated suite of cloud products and services.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oracle.com/cloud/">Oracle Cloud</a></td>
+    <td>Comprehensive and fully integrated stack of cloud applications and platform services.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.digitalocean.com/">DigitalOcean</a></td>
+    <td>Helping developers easily build, test, manage, and scale applications of any size.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaleway.com/">Scaleway</a></td>
+    <td>Single way to create, deploy and scale your infrastructure in the cloud.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.vultr.com/">Vultr</a></td>
+    <td>Easily deploy cloud servers, bare metal, and storage worldwide.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cloud.vmware.com/">VMware Cloud</a></td>
+    <td>Run, manage, connect and protect all of your apps on any cloud.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ibm.com/cloud">IBM Cloud</a></td>
+    <td>Tools, data & APIs to make AI real now.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.stackpath.com/">Stackpath</a></td>
+    <td>Platform of computing infrastructure and services built at the edge of the cloud.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linode.com/">Linode</a></td>
+    <td>Accelerate innovation in the cloud, virtual computing must be more accessible, affordable, and simple.</td>
+  </tr>
+  <tr>
+    <td><a href="https://kinsta.com/application-hosting/">Kinsta</a></td>
+    <td>Create and deploy web applications and databases in minutes.</td>
+  </tr>
+</table>
+
+### Operating Systems
+> Here are some Operating Systems - Server Platform.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://ubuntu.com/">Ubuntu</a></td>
+    <td>Enterprise Open Source and Linux.</td>
+  </tr>
+  <tr>
+    <td><a href="https://rockylinux.org/">Rocky Linux</a></td>
+    <td>Open-source enterprise operating system designed to be 100% bug-for-bug compatible with Red Hat Enterprise Linux.</td>
+  </tr>
+  <tr>
+    <td><a href="http://coreos.com/">CoreOS</a></td>
+    <td>The pioneering lightweight container host.</td>
+  </tr>
+  <tr>
+    <td><a href="http://osv.io/">OSv</a></td>
+    <td>Versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.projectatomic.io/">Atomic</a></td>
+    <td>Use immutable infrastructure to deploy and scale your containerized applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/vmware/photon">Photon</a></td>
+    <td>Linux container host optimized for cloud-native applications, cloud platforms, and VMware infrastructure.</td>
+  </tr>
+</table>
+
+### Application Platforms
+> Applications management platforms, Containers platform and Containers management.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.openshift.com/">Openshift</a></td>
+    <td>The Kubernetes platform for big ideas.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cycle.io/">Cycle.io</a></td>
+    <td>DevOps platform for building platforms. Handle container orchestration, load-balancing, monitoring, and more from a single control plane.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dokku.com/">Dokku</a></td>
+    <td>Helps you build and manage the lifecycle of applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://flynn.io/">Flynn</a></td>
+    <td>Open source platform (PaaS) for running applications in production.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cloud66.com/">Cloud 66</a></td>
+    <td>DevOps as a service that helps to build, deploy and manage any application on any cloud or server.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.docker.com/">Docker</a></td>
+    <td>Create, deploy, and run applications by using containers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/docker/compose">Docker Compose</a></td>
+    <td>Define and run multi-container applications with Docker.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/docker/swarm">Docker Swarm</a></td>
+    <td>Docker-native clustering system.</td>
+  </tr>
+  <tr>
+    <td><a href="https://kubernetes.io/">Kubernetes</a></td>
+    <td>Automating deployment, scaling, and management of containerized applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://linuxcontainers.org/">LXC</a></td>
+    <td>Lets Linux users easily create and manage system or application containers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://rancher.com/">Rancher</a></td>
+    <td>Lets you deliver Kubernetes-as-a-Service.</td>
+  </tr>
+  <tr>
+    <td><a href="https://openvz.org/">OpenVz</a></td>
+    <td>Container-based virtualization for Linux.</td>
+  </tr>
+  <tr>
+    <td><a href="https://sylabs.io/singularity/">Singularity</a></td>
+    <td>Run the application from the local environment to the cloud.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppScale/appscale">AppScale</a></td>
+    <td>Easy-to-manage serverless platform for building and running scalable web and mobile applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://katacontainers.io/">Kata Containers</a></td>
+    <td>Building lightweight virtual machines that seamlessly plug into the containers ecosystem.</td>
+  </tr>
+  <tr>
+    <td><a href="https://k3s.io/">K3S</a></td>
+    <td>The certified Kubernetes distribution built for IoT and Edge computing.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/containers/podman">Podman</a></td>
+    <td>A tool for managing OCI containers and pods.</td>
+  </tr>
+  <tr>
+    <td><a href="https://linx.software">Linx</a></td>
+    <td>General-purpose low-code platform for building and hosting backend solutions.</td>
+  </tr>
 </table>
 
 ### Tools
@@ -507,6 +690,44 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
     <td>HTTPie (pronounced aitch-tee-tee-pie) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible (Open Source)</td>
   </tr>
 </table>
+
+### Web Servers
+> Web servers and reverse proxy.
+
+<table>
+  <tr>
+    <th>Web Server</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://nginx.org/">Nginx</a></td>
+    <td>High performance load balancer, web server and reverse proxy.</td>
+  </tr>
+  <tr>
+    <td><a href="http://httpd.apache.org/">Apache</a></td>
+    <td>Web server and reverse proxy.</td>
+  </tr>
+  <tr>
+    <td><a href="https://caddyserver.com/">Caddy</a></td>
+    <td>Web server with automatic HTTPS.</td>
+  </tr>
+  <tr>
+    <td><a href="http://cherokee-project.com/">Cherokee</a></td>
+    <td>Highly concurrent secured web applications.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.lighttpd.net/">Lighttpd</a></td>
+    <td>Optimized for speed-critical environments while remaining standards-compliant, secure and flexible.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/unbit/uwsgi/">Uwsgi</a></td>
+    <td>Application server container.</td>
+  </tr>
+</table>
+
+### Databases
+> Relational (SQL) and non-relational (NoSQL) databases.
+
 
 
 ### Documentation
