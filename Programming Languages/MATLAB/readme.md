@@ -7,7 +7,7 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorial](#tutorial)
+- [MATLAB](#matlab)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Advanced MATLAB](#advanced-matlab)
@@ -45,10 +45,10 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 </table>
 
 
-### Tutorial
+### MATLAB
 > Resources to help you grasp the introductions fundamental concepts of MATLAB.
 
-### Introduction
+#### Introduction
 
 <table>
   <thead>
@@ -81,7 +81,7 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
   </tbody>
 </table>
 
-### Fundamentals
+#### Fundamentals
 
 <table>
   <thead>
@@ -147,7 +147,7 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 </table>
 
 
-### Advanced MATLAB 
+#### Advanced MATLAB 
 
 <table>
   <thead>
