@@ -17,6 +17,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
    - [Data Query Language (DQL)](#data-query-language-dql)
    - [Data Manipulation Language (DML)](#data-manipulation-language-dml)
    - [Tables in SQL](#tables-in-sql)
+   - [SQL Constraints](#sql-constraints)
    - 
 
 ### Roadmap
@@ -203,5 +204,46 @@ This section is a curated collection of valuable SQL resources for absolute begi
   <tr>
     <td><a href="https://www.geeksforgeeks.org/sql-alter-add-drop-modify/?ref=lbp">SQL ALTER TABLE</a></td>
     <td>Guide on how to alter tables in SQL, including adding, dropping, and modifying columns.</td>
+  </tr>
+</table>
+
+### SQL Constraints
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-not-null-constraint/?ref=lbp">SQL NOT NULL Constraint</a></td>
+    <td>Explanation and examples of the SQL NOT NULL constraint.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-unique-constraint/?ref=lbp">SQL UNIQUE Constraint</a></td>
+    <td>Guide on using the SQL UNIQUE constraint to enforce uniqueness in columns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/primary-key-constraint-in-sql/?ref=lbp">SQL PRIMARY KEY Constraint</a></td>
+    <td>Explanation and examples of the SQL PRIMARY KEY constraint.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/foreign-key-constraint-in-sql/?ref=lbp">SQL Foreign Key Constraint</a></td>
+    <td>Guide on using the SQL FOREIGN KEY constraint to enforce referential integrity.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/composite-key-in-sql/?ref=lbp">Composite Key in SQL</a></td>
+    <td>Explanation and examples of composite keys in SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-alternate-key/?ref=lbp">SQL ALTERNATE KEY</a></td>
+    <td>Guide on using the SQL ALTERNATE KEY constraint.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-check-constraint/?ref=lbp">SQL CHECK Constraint</a></td>
+    <td>Explanation and examples of the SQL CHECK constraint.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-default-constraint/?ref=lbp">SQL DEFAULT Constraint</a></td>
+    <td>Guide on using the SQL DEFAULT constraint.</td>
   </tr>
 </table>
