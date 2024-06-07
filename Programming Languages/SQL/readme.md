@@ -27,7 +27,8 @@ This section is a curated collection of valuable SQL resources for absolute begi
 - [Courses](#courses)
    - [Free Courses](#free-courses)
    - [Paid Courses](#paid-courses)
--
+- [Books](#books)
+- []
 
 ### Roadmap
 >
@@ -481,5 +482,116 @@ This section is a curated collection of valuable SQL resources for absolute begi
   <tr>
     <td><a href="https://www.udemy.com/course/sql-and-database-design-a-z/">SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL</a></td>
     <td>A comprehensive course covering SQL and database design using MS SQL Server and PostgreSQL.</td>
+  </tr>
+</table>
+
+
+### Books
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073">SQL in 10 Minutes, Sams Teach Yourself</a></td>
+    <td>A quick guide to learn SQL in a short amount of time.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Learning-SQL-Alan-Beaulieu/dp/0596520832">Learning SQL</a></td>
+    <td>Comprehensive introduction to SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Dummies-Allen-G-Taylor/dp/1119527074">SQL For Dummies</a></td>
+    <td>A beginner-friendly guide to understanding SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Head-First-SQL-Brain-Learners/dp/0596526849">Head First SQL: Your Brain on SQL -- A Learner's Guide</a></td>
+    <td>A visually rich and interactive way to learn SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Cookbook-Anthony-Molinaro/dp/0596009763">SQL Cookbook: Query Solutions and Techniques for Database Developers</a></td>
+    <td>A collection of SQL query solutions and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Language-SQL-2nd-Larry-Rockoff/dp/0134658257">The Language of SQL</a></td>
+    <td>An easy-to-understand introduction to SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Performance-Explained-Markus-Winand/dp/3950307825">SQL Performance Explained</a></td>
+    <td>Guide to understanding SQL performance optimization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Practice-Problems-intermediate-challenges/dp/1540422552">SQL Practice Problems: 57 beginning, intermediate, and advanced challenges for you to solve using a “learn-by-doing” approach</a></td>
+    <td>A practical approach to learning SQL through problem-solving.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Ultimate-Beginners-Guide-Learn/dp/1549776677">SQL: The Ultimate Beginners Guide: Learn SQL Today</a></td>
+    <td>A beginner's guide to learning SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Effective-SQL-Specific-Ways-Better/dp/0134578899">Effective SQL: 61 Specific Ways to Write Better SQL</a></td>
+    <td>Tips and techniques for writing better SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557">SQL Antipatterns: Avoiding the Pitfalls of Database Programming</a></td>
+    <td>How to avoid common SQL programming mistakes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Pro-SQL-Server-Internals-Understanding/dp/148425828X">Pro SQL Server Internals</a></td>
+    <td>In-depth look at SQL Server internals.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Pocket-Guide-Usage/dp/1492090297">SQL Pocket Guide: A Guide to SQL Usage</a></td>
+    <td>A handy guide to SQL usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Data-Scientists-Beginners-Analysis/dp/1119669367">SQL for Data Scientists: A Beginner’s Guide for Building Datasets for Analysis</a></td>
+    <td>SQL guide tailored for data scientists.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Relational-Theory-Write-Accurate/dp/1491941170">SQL and Relational Theory: How to Write Accurate SQL Code</a></td>
+    <td>Explores relational theory and writing accurate SQL code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Art-SQL-Stephane-Faroult/dp/0596008945">The Art of SQL</a></td>
+    <td>Advanced techniques and best practices for SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1492080510">High Performance MySQL: Optimization, Backups, and Replication</a></td>
+    <td>Guide to MySQL performance, optimization, and replication.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/T-SQL-Fundamentals-3rd-Itzik-Ben-Gan/dp/150930200X">T-SQL Fundamentals</a></td>
+    <td>Introduction to T-SQL fundamentals.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Queries-Mere-Mortals-Manipulation/dp/0134858338">SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL</a></td>
+    <td>Hands-on guide to SQL queries and data manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Expert-Oracle-SQL-Optimization-Deployment/dp/143024668X">Expert Oracle SQL: Optimization, Deployment, and Statistics</a></td>
+    <td>Advanced guide to Oracle SQL optimization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-NoSQL-Basics-Differences/dp/197370763X">SQL and NoSQL: The Basics and the Differences</a></td>
+    <td>Overview of the basics and differences between SQL and NoSQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Murachs-MySQL-3rd-Joel/dp/1943872361">Murach's MySQL</a></td>
+    <td>Comprehensive guide to MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Server-2019-Administration-Inside/dp/0135561103">SQL Server 2019 Administration Inside Out</a></td>
+    <td>Detailed guide to SQL Server 2019 administration.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Tuning-Generating-Optimal-Execution/dp/0596005733">SQL Tuning: Generating Optimal Execution Plans</a></td>
+    <td>Guide to SQL tuning and execution plans.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/SQL-Complete-Reference-James-Groff/dp/0071592555">SQL: The Complete Reference</a></td>
+    <td>Comprehensive reference guide for SQL.</td>
   </tr>
 </table>
