@@ -41,6 +41,7 @@ Below are some essential resources to help you get started and deepen your under
    - [Free Courses](#free-courses)
    - [Paid Courses](#paid-courses)
 - [Community and Support](#coummunity-and-support)
+- [TypeScript Cheatsheets](#typescript-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -1417,6 +1418,45 @@ Below are some essential resources to help you get started and deepen your under
   <tr>
     <td>Developer communities (<a href="https://discord.com/invite/typescript">Discord</a>, <a href="https://www.reddit.com/r/typescript/">Reddit</a>)</td>
     <td>Join developer communities on Discord and Reddit dedicated to TypeScript for discussions, sharing resources, and getting support.</td>
+  </tr>
+</table>
+
+### TypeScript Cheatsheets
+
+> Cheat sheets for TypeScript programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.typescriptlang.org/cheatsheets/">TypeScripts - Cheat Sheets</a></td>
+    <td>A collection of official TypeScript cheat sheets provided by TypeScriptlang.org.</td>
+  </tr>
+  <tr>
+    <td><a href="https://devhints.io/typescript">DevHints - TypeScript cheatsheet</a></td>
+    <td>A TypeScript cheat sheet provided by DevHints, covering various aspects of TypeScript programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/typescript-cheat-sheet/">TypeScript Cheat Sheet + PDF</a></td>
+    <td>A TypeScript cheat sheet with a downloadable PDF version, covering essential TypeScript concepts and syntax.</td>
+  </tr>
+  <tr>
+    <td><a href="https://rmolinamir.github.io/typescript-cheatsheet/">typescript-cheatsheet</a></td>
+    <td>A TypeScript cheat sheet available on GitHub, providing quick reference for TypeScript developers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://react-typescript-cheatsheet.netlify.app/">React TypeScript Cheatsheets</a></td>
+    <td>Cheat sheets specifically tailored for using TypeScript with React, covering React-specific TypeScript concepts and best practices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://hackr.io/blog/typescript-cheat-sheet">The Ultimate TypeScript Cheat Sheet [2024]</a></td>
+    <td>An extensive TypeScript cheat sheet covering a wide range of TypeScript topics and concepts, updated for 2024.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.totaltypescript.com/tsconfig-cheat-sheet">The TSConfig Cheat Sheet</a></td>
+    <td>A cheat sheet specifically focusing on TSConfig, providing guidance on TypeScript configuration options.</td>
   </tr>
 </table>
 

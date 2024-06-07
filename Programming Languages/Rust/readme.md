@@ -28,6 +28,7 @@ Rust has a rich ecosystem of resources to help you learn and master the language
   - [Advance Level Projects](#advance-level-projects)
 - [Books](#books)
 - [Rust Communities](#rust-communities)
+- [Rust Cheatsheets](#rust-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -874,6 +875,46 @@ Rust has a rich ecosystem of resources to help you learn and master the language
     <td>Rust meetups and conferences are excellent opportunities to meet other Rust developers in person, attend talks, workshops, and hackathons, and learn more about Rust. Keep an eye out for local meetups and global conferences like RustConf.</td>
   </tr>
 </table>
+
+### Rust Cheatsheets
+
+> Cheat sheets for Rust programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://cheats.rs/">Rust Language Cheat Sheet</a></td>
+    <td>A comprehensive collection of Rust cheat sheets covering various Rust language features and concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/rust.html">Rust Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for Rust programming, providing essential syntax and concepts at a glance.</td>
+  </tr>
+  <tr>
+    <td><a href="https://opensource.com/sites/default/files/gated-content/osdc_cheatsheet-rust-2021.11.11.pdf">Rust Programming Cheat Sheet</a></td>
+    <td>A Rust programming cheat sheet with a downloadable PDF version, covering essential Rust concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/moekatib/the-completesh-rust-cheat-sheet-4fnn">The Complete(sh) Rust Cheat Sheet</a></td>
+    <td>A comprehensive Rust cheat sheet providing an overview of core Rust concepts and features.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/rust-cheat-sheet/">Rust Cheat Sheet + PDF</a></td>
+    <td>A Rust cheat sheet with a downloadable PDF version, providing quick reference for Rust developers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.infinyon.com/resources/files/rust_cheat_sheet.pdf">Rust Language Cheat Sheet</a></td>
+    <td>A Rust language cheat sheet covering essential Rust syntax and concepts, available in PDF format.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@cicerohellmann/the-rust-cheat-sheet-core-concepts-for-quick-reference-d23de3ce3be9">The Rust Cheat Sheet: Core Concepts for Quick Reference</a></td>
+    <td>A Rust cheat sheet focusing on core concepts for quick reference, providing an overview of Rust programming.</td>
+  </tr>
+</table>
+
 
 ## Conclusion
 

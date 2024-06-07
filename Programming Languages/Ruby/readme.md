@@ -37,6 +37,7 @@ Welcome to the Ruby Documentation! This guide is a comprehensive resource to hel
    - [Free Courses](#free-courses)
    - [Paid Courses](#paid-courses)
 - [Community and Support](#community-and-support)
+- [Ruby Cheatsheets](#ruby-cheatsheets)
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -979,6 +980,43 @@ a></td>
     <td>Join developer communities on Discord and Reddit dedicated to Ruby for discussions, sharing resources, and getting support.</td>
   </tr>
 </table>
+
+### Ruby Cheatsheets
+
+> Cheat sheets for Ruby programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-ruby/modules/learn-ruby-introduction-to-ruby-u/cheatsheet">Learn Ruby: Introduction to Ruby Cheatsheet</a></td>
+    <td>An introductory Ruby cheat sheet provided by Codecademy, covering essential Ruby concepts and syntax.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf">Ruby Cheatsheet</a></td>
+    <td>A comprehensive Ruby cheat sheet in PDF format, covering various Ruby language features and concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cheatography.com/frankperez/cheat-sheets/ruby-programming/">Ruby Programming Cheat Sheet (DRAFT) by frankperez</a></td>
+    <td>A draft version of a Ruby programming cheat sheet by frankperez, providing quick reference for Ruby developers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://overapi.com/ruby">Ruby Cheat Sheet</a></td>
+    <td>A Ruby cheat sheet provided by OverAPI, offering quick reference for Ruby syntax and concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.slideshare.net/slideshow/ruby-cheat-sheet/28073015">Ruby cheat sheet | PDF</a></td>
+    <td>A Ruby cheat sheet available in PDF format, offering quick reference for Ruby programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/resources/cheatsheets/language/ruby">Ruby Cheatsheets</a></td>
+    <td>A collection of Ruby cheat sheets provided by Codecademy, covering various aspects of Ruby programming.</td>
+  </tr>
+</table>
+
+
 
 ## Conclusion
 

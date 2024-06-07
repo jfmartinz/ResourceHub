@@ -37,6 +37,7 @@ This section is a curated collection of valuable Java and Java development resou
 - [Additional Resources](#additional-resources)
    - [Games](#games)
    - [Communities](#communities)
+   - [Java CheatSheets](#java-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -1110,6 +1111,47 @@ Here's the updated table:
     <td>A platform to find and join local Java meetup groups for networking and learning from peers.</td>
   </tr>
 
+</table>
+
+#### Java CheatSheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/">Edureka - Java Programming Cheat Sheet For Beginners</a></td>
+    <td>A beginner-friendly cheat sheet for Java programming, covering fundamental concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://introcs.cs.princeton.edu/java/11cheatsheet/">Java Programming Cheatsheet</a></td>
+    <td>Comprehensive Java programming cheat sheet from Princeton University.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.interviewbit.com/java-cheat-sheet/">InterviewBit - Java Cheat Sheet: Freshers and Experienced (2024)</a></td>
+    <td>Java cheat sheet catering to both freshers and experienced developers, updated for 2024.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/java-cheat-sheet/">GFG - Java Cheat Sheet: Freshers and Experienced</a></td>
+    <td>A detailed Java cheat sheet from GeeksforGeeks, suitable for both beginners and experienced programmers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewithharry.com/blogpost/java-cheatsheet/">Code with Harry - Java Cheatsheet</a></td>
+    <td>A practical Java cheat sheet by Code with Harry, ideal for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/resources/cheatsheets/language/java">Code Academy - Java Cheatsheets</a></td>
+    <td>A collection of Java cheat sheets from Codecademy, covering various topics in Java programming.</td>
+  </tr>
+    <tr>
+    <td><a href="https://medium.com/edureka/java-cheat-sheet-3ad4d174012c">Core Java Cheat Sheet — Basics Of Java Programming</a></td>
+    <td>A comprehensive guide to the basics of Java programming, provided by Edureka on Medium.</td>
+  </tr>
+  <tr>
+    <td><a href="https://trainings.internshala.com/blog/java-cheat-sheet/">Internshala - Java Cheat Sheet – A Comprehensive Guide for Developers</a></td>
+    <td>An extensive cheat sheet for Java developers, covering various aspects of the language, provided by Internshala.</td>
+  </tr>
 </table>
 
 
