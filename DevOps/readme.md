@@ -17,7 +17,7 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 - [Documentation](#documentation)<br>
 - [YouTube](#youtube)
     - [YouTube Channels](#youtube-channels)<br>
-    - [YouTube Playlist](#youtube-playlist)
+    - [YouTube Videos & Playlists](#youtube-videos--playlists)
 - [Communities](#communities)
 - [Books](#books)
 - [GitHub Repositories](#github-repositories)
@@ -557,13 +557,89 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
     </tr>
 </table>
 
-#### YouTube Playlist
+#### YouTube Videos & Playlists
 
 <table width="100%">
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+      <tr>
+  <td><a href="https://www.youtube.com/watch?v=UMQGyeAnfFE">10 DevOps Tools you need to know - The Complete Guide</a></td>
+  <td>A comprehensive overview of the top 10 DevOps tools that you need to know.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=S_0q75eD8Yc">DevOps Tools Full Course | DevOps Tools Tutorial | DevOps Tools</a></td>
+  <td>A full course video tutorial that covers the fundamentals of various DevOps tools.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=hQcFE0RD0cQ">DevOps Tutorial for Beginners | Learn DevOps in 7 Hours - Full</a></td>
+  <td>A beginner-friendly tutorial that provides a complete overview of DevOps and its tools in just 7 hours.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=0yWAtQ6wYNM">What is DevOps? REALLY understand it | DevOps vs SRE</a></td>
+  <td>A comprehensive video that explains the concept of DevOps and its comparison to SRE.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=12HwsqHoaE8">DevOps Tools Full Course 2022 | DevOps Tools Explained | DevOps</a></td>
+  <td>A detailed course video explaining various DevOps tools and their usage.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=Xrgk023l4lI">DevOps In 5 Minutes | What Is DevOps? | DevOps Explained</a></td>
+  <td>A quick 5-minute video that provides a concise introduction to DevOps.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=4It0D0Nw00c">The Ultimate DevOps Tools Guide | DevOps Tools Explained</a></td>
+  <td>An ultimate guide video that covers a wide range of DevOps tools and their importance in software delivery.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=l0tnG231VEc">DevOps Tools | DevOps Tutorial | DevOps Tools Basics For</a></td>
+  <td>A tutorial video explaining the basics of various DevOps tools and their features.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=-zKYT2I_WhE">The Best DevOps Tools, Platforms, And Services In 2023?</a></td>
+  <td>A video discussing the top DevOps tools, platforms, and services to consider in 2023.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=a9_oMNSgX2g">Introduction to DevOps | DevOps Tutorial for Beginners | DevOps Tools</a></td>
+  <td>A beginner's tutorial that introduces DevOps and its tools.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=SbyElsjkLcg">My daily routine as a DevOps Engineer | Using these DevOps tools</a></td>
+  <td>In this video, the author shares their daily routine as a DevOps Engineer and discusses the DevOps tools they are currently using.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=bJrix8wnazI">What are the DevOps tools you need to learn? #canadajobs</a></td>
+  <td>This video provides information on the DevOps tools you need to learn, particularly if you are looking for IT-related jobs in Canada.</td>
+</tr>
+<tr>
+  <td><a href="https://vimeo.com/68327402">Richard Campbell: People, Process, Tools – The Essence of DevOps</a></td>
+  <td>Richard Campbell discusses the essence of DevOps, which revolves around making software better through collaboration and bringing everyone involved closer together.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=yLvDSrnWMyQ">Introduction to DevOps tools: Terraform code to build the course</a></td>
+  <td>This video introduces DevOps tools and demonstrates the Terraform code for building an entire Datacentre of VMs.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=l2TsilCTcX4">Learn DevOps Tools - Git, CKAD, AKS, Jenkins and GitLab online</a></td>
+  <td>Learn about various DevOps tools including Git, CKAD, AKS, Jenkins, and GitLab, and their importance in IT training.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=LrDV7m0kKzg">Every DevOps Engineer Should Learn These DevOps Tools || Best</a></td>
+  <td>Discover the best DevOps tools that every DevOps Engineer should learn to enhance their skills.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=lDJ-acyac8I">Terraform interviews #devopsbustechnology #devopsrealtime</a></td>
+  <td>This video features Terraform interviews and offers insights into DevOps Bus Technology.</td>
+</tr>
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=7rIDAFa33Gk">06 Jenkins Installation Tutorial For Beginners | DevOps Tools</a></td>
+  <td>A tutorial for beginners on how to install Jenkins on Linux, providing an introduction to DevOps tools.</td>
+</tr>
+<tr>
+  <td><a href="http://www.youtube.com/watch?v=kypRcacZXnU">Database DevOps with Redgate Data Tools - YouTube</a></td>
+  <td>Learn about Database DevOps using Redgate Data Tools in this informative video.</td>
+</tr>
        <tr>
         <td><a href="https://www.youtube.com/playlist?list=PL9ooVrP1hQOE5ZDJJsnEXZ2upwK7aTYiX">DevOps Training </a></td>
         <td>This Playlist by Edureka will take you through - what is devops, devops tutorial videos, devops tools tutorial, devops engineer tutorial, docker tutorial, jenkins tutorial, puppet tutorial, ansible tutorial, chef tutorial, kubernetes tutorial.</td>
