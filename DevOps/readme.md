@@ -414,6 +414,60 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
   </tr>
 </table>
 
+### Source Code Management
+>In the DevOps world, everything is treated as code (e.g., code, shell script, configurations, etc.). Robust source code management tools are a must.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/">Github</a></td>
+    <td>A web-based hosting service for version control using Git. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://bitbucket.org/">Bitbucket</a></td>
+    <td>A web-based version control repository hosting service owned by Atlassian, for source code and development projects that use either Mercurial or Git revision control systems. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://about.gitlab.com/">Gitlab</a></td>
+    <td>A web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking, and CI/CD pipeline features, using an open-source license. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/codecommit/">AWS CodeCommit</a></td>
+    <td>A fully-managed source control service that makes it easy for companies hosting their own repositories to collaborate on code in a secure and highly scalable ecosystem. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://cloud.google.com/source-repositories">Google Cloud Source Repositories</a></td>
+    <td>Fully-featured, scalable, private Git repositories hosted on Google Cloud. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://azure.microsoft.com/en-us/services/devops/repos/">Azure Repos</a></td>
+    <td>Provides Git repositories or Team Foundation Version Control (TFVC) for source control of your code. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeberg.org/">Codeberg</a></td>
+    <td>Cloud-based instance of Forgejo. (Free & Paid)</td>
+  </tr>
+  <tr>
+    <td><a href="https://forgejo.org/">Forgejo</a></td>
+    <td>Open-source fork of Gitea. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://fossil-scm.org/home/doc/trunk/www/index.wiki">Fossil</a></td>
+    <td>Open-source distributed SCM that includes a wiki, issue management, and other features. Not compatible with Git. (Free)</td>
+  </tr>
+  <tr>
+    <td><a href="https://about.gitea.com/">Gitea</a></td>
+    <td>Open-source fork of Gogs. (Open Source, Free, Paid Support Available)</td>
+  </tr>
+  <tr>
+    <td><a href="https://gogs.io/">Gogs</a></td>
+    <td>Open-source git-based SCM, loosely based on GitHub's UI. (Open Source)</td>
+  </tr>
+</table>
+
 
 ### GitHub Repositories
 
