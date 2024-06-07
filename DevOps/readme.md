@@ -4,12 +4,13 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 It emphasizes collaboration, automation, integration and rapid feedback cycles. These characteristics help ensure a culture of building, testing, and releasing software that is more reliable and at a high velocity.
 
 ## Table of Contents
-- [Roadmap](#roadmap)<br>
-- [Tutorial or Courses](#tutorials-or-courses)<br>
+- [Roadmap](#roadmap)
+- [Tutorial or Courses](#tutorials-or-courses)
+- [Tools](#tools)
 - [Cloud Platforms](#cloud-platforms)
 - [Operating Systems](#operating-systems)
 - [Application Platforms](#application-platforms)
-- [Tools](#tools)
+- [Distributed messaging](#distributed-messaging)
 - [Development Environment Tools](#development-environment-tools)
 - [Source Code Management](#source-code-management)
 - [Visulization Tools](#visulization-tools)
@@ -21,9 +22,9 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 - [Databases](#databases)
     - [Relational (SQL)](#relational-sql)
     - [Non-relational (NoSQL)](#non-relational-nosql)
-- [Documentation](#documentation)<br>
+- [Documentation](#documentation)
 - [YouTube](#youtube)
-    - [YouTube Channels](#youtube-channels)<br>
+    - [YouTube Channels](#youtube-channels)
     - [YouTube Videos & Playlists](#youtube-videos--playlists)
 - [Communities](#communities)
 - [Books](#books)
@@ -163,6 +164,49 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
   <td>Learn various DevOps tools necessary for Automation Testers to implement Continuous Integration effectively.</td>
 </tr>
 </table>
+
+
+
+### Tools
+
+> These tools helps you to levelup your DevOps career.
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.jenkins.io/">Jenkins </a></td>
+        <td>Jenkins is an open-source automation server used for building, testing, and deploying software. It enables continuous integration and continuous delivery (CI/CD) pipelines, automating the software development process.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.docker.com/">Docker</a></td>
+        <td>Docker is a containerization platform that allows developers to package applications and their dependencies into containers. These containers can be easily deployed across different environments, providing consistency and efficiency in software delivery.</td>
+      </tr>
+      <tr>
+        <td><a href="https://kubernetes.io/">Kubernetes</a></td>
+        <td>Kubernetes is an open-source container orchestration platform used for automating the deployment, scaling, and management of containerized applications. It provides features for deploying, scaling, and managing containerized applications in a flexible and efficient manner.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.terraform.io/">Terraform</a></td>
+        <td>Terraform is a tool used for building, changing, and versioning infrastructure safely and efficiently. It allows infrastructure to be defined using declarative configuration files, enabling infrastructure to be managed programmatically.</td>
+      </tr>
+      <tr>
+        <td><a href="https://prometheus.io/">Prometheus</a></td>
+        <td>Prometheus is a alerting toolkit used for collecting and querying metrics from various systems. It provides a flexible query language and powerful alerting capabilities for monitoring the health and performance of applications and infrastructure.</td>
+      </tr>
+      <tr>
+        <td><a href="https://grafana.com/">Grafana</a></td>
+        <td>Grafana is a analytics and monitoring platform used for visualizing and analyzing metrics collected by monitoring systems like Prometheus. It provides a rich set of visualization options and dashboards for gaining insights into the performance and behavior of systems.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.puppet.com/">Puppet</a></td>
+        <td>Puppet is a configuration management tool used for automating infrastructure deployment and configuration. It provides a model-driven approach for managing infrastructure, ensuring consistency and compliance across environment</td>
+      </tr>
+      
+</table>
+
 
 
 ### Cloud Platforms
@@ -343,45 +387,61 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
   </tr>
 </table>
 
-### Tools
 
-> These tools helps you to levelup your DevOps career.
+### Distributed messaging
+> Distributed messaging platforms and Queues software.
 
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-       <tr>
-        <td><a href="https://www.jenkins.io/">Jenkins </a></td>
-        <td>Jenkins is an open-source automation server used for building, testing, and deploying software. It enables continuous integration and continuous delivery (CI/CD) pipelines, automating the software development process.</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.docker.com/">Docker</a></td>
-        <td>Docker is a containerization platform that allows developers to package applications and their dependencies into containers. These containers can be easily deployed across different environments, providing consistency and efficiency in software delivery.</td>
-      </tr>
-      <tr>
-        <td><a href="https://kubernetes.io/">Kubernetes</a></td>
-        <td>Kubernetes is an open-source container orchestration platform used for automating the deployment, scaling, and management of containerized applications. It provides features for deploying, scaling, and managing containerized applications in a flexible and efficient manner.</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.terraform.io/">Terraform</a></td>
-        <td>Terraform is a tool used for building, changing, and versioning infrastructure safely and efficiently. It allows infrastructure to be defined using declarative configuration files, enabling infrastructure to be managed programmatically.</td>
-      </tr>
-      <tr>
-        <td><a href="https://prometheus.io/">Prometheus</a></td>
-        <td>Prometheus is a alerting toolkit used for collecting and querying metrics from various systems. It provides a flexible query language and powerful alerting capabilities for monitoring the health and performance of applications and infrastructure.</td>
-      </tr>
-      <tr>
-        <td><a href="https://grafana.com/">Grafana</a></td>
-        <td>Grafana is a analytics and monitoring platform used for visualizing and analyzing metrics collected by monitoring systems like Prometheus. It provides a rich set of visualization options and dashboards for gaining insights into the performance and behavior of systems.</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.puppet.com/">Puppet</a></td>
-        <td>Puppet is a configuration management tool used for automating infrastructure deployment and configuration. It provides a model-driven approach for managing infrastructure, ensuring consistency and compliance across environment</td>
-      </tr>
-      
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.rabbitmq.com/">RabbitMQ</a></td>
+    <td>Message broker.</td>
+  </tr>
+  <tr>
+    <td><a href="http://kafka.apache.org/">Kafka</a></td>
+    <td>Building real-time data pipelines and streaming apps.</td>
+  </tr>
+  <tr>
+    <td><a href="http://activemq.apache.org/">ActiveMQ</a></td>
+    <td>Multi-Protocol messaging.</td>
+  </tr>
+  <tr>
+    <td><a href="https://beanstalkd.github.io/">Beanstalkd</a></td>
+    <td>Simple, fast work queue.</td>
+  </tr>
+  <tr>
+    <td><a href="https://nsq.io/">NSQ</a></td>
+    <td>Realtime distributed messaging platform.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.celeryproject.org/">Celery</a></td>
+    <td>Asynchronous task queue/job queue based on distributed message passing.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/contribsys/faktory">Faktory</a></td>
+    <td>Repository for background jobs within your application.</td>
+  </tr>
+  <tr>
+    <td><a href="https://nats.io/">NATS</a></td>
+    <td>Simple, secure and high performance open source messaging system.</td>
+  </tr>
+  <tr>
+    <td><a href="http://restmq.com/">RestMQ</a></td>
+    <td>Message queue which uses HTTP as transport.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/distribworks/dkron">Dkron</a></td>
+    <td>Distributed, fault tolerant job scheduling system.</td>
+  </tr>
+  <tr>
+    <td><a href="https://kubemq.io/">KubeMQ</a></td>
+    <td>Kubernetes-native messaging platform.</td>
+  </tr>
 </table>
+
 
 ### Development Environment Tools
 > Development environment tools are essential for maintaining consistency in software configurations and versions. They ensure reproducibility in minutes in case of a crash, increasing developer productivity.
