@@ -1,4 +1,4 @@
-# FrontEnd Web Development 💻
+# FrontEnd Web Development 
 ## Overview
 - [Roadmap](#roadmap)
 - [Courses](#courses)

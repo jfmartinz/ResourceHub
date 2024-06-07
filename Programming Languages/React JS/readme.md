@@ -1,4 +1,4 @@
-# React JS ⚛
+# React JS 
 
 React.js is a versatile, open-source JavaScript library that has transformed the landscape of front-end web development. Developed by Facebook, React.js enables developers to build dynamic, interactive user interfaces with ease. Its component-based architecture promotes reusability and modularity, allowing developers to efficiently manage complex UIs.
 
