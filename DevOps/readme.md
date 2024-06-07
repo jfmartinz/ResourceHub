@@ -19,6 +19,8 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 - [API Tools](#api-tools)
 - [Web Servers](#web-servers)
 - [Databases](#databases)
+    - [Relational (SQL)](#relational-sql)
+    - [Non-relational (NoSQL)](#non-relational-nosql)
 - [Documentation](#documentation)<br>
 - [YouTube](#youtube)
     - [YouTube Channels](#youtube-channels)<br>
@@ -696,7 +698,7 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 
 <table>
   <tr>
-    <th>Web Server</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -728,7 +730,67 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 ### Databases
 > Relational (SQL) and non-relational (NoSQL) databases.
 
+### Relational (SQL)
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.postgresql.org/">PostgreSQL</a></td>
+    <td>Powerful, open source object-relational database system.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mysql.com/">MySQL</a></td>
+    <td>Open-source relational database management system.</td>
+  </tr>
+  <tr>
+    <td><a href="https://mariadb.org/">MariaDB</a></td>
+    <td>Fast, scalable and robust, with a rich ecosystem of storage engines, plugins and many other tools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://sqlite.org/">SQLite</a></td>
+    <td>Small, fast, self-contained, high-reliability, full-featured, SQL database engine.</td>
+  </tr>
+</table>
+
+### Non-relational (NoSQL)
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://cassandra.apache.org/">Cassandra</a></td>
+    <td>Manage massive amounts of data, fast, without losing sleep.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scylladb.com/">ScyllaDB</a></td>
+    <td>NoSQL data store using the seastar framework, compatible with Apache Cassandra.</td>
+  </tr>
+  <tr>
+    <td><a href="http://hbase.apache.org/">Apache HBase</a></td>
+    <td>Distributed, versioned, non-relational database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://couchdb.apache.org/">CouchDB</a></td>
+    <td>Database that completely embraces the web.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.elastic.co/products/elasticsearch">Elasticsearch</a></td>
+    <td>Distributed, RESTful search and analytics engine capable of addressing a growing number of use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/">MongoDB</a></td>
+    <td>General purpose, document-based, distributed database built for modern applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rethinkdb/rethinkdb">RethinkDB</a></td>
+    <td>Open-source database for the realtime web.</td>
+  </tr>
+</table>
 
 ### Documentation
 > These are some documentation that can help understand DevOps better.
