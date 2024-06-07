@@ -18,7 +18,8 @@ This section is a curated collection of valuable SQL resources for absolute begi
    - [Data Manipulation Language (DML)](#data-manipulation-language-dml)
    - [Tables in SQL](#tables-in-sql)
    - [SQL Constraints](#sql-constraints)
-   - 
+   - [SQL Clauses](#sql-clauses)
+   - [Aggregate Functions](#aggregate-functions)
 
 ### Roadmap
 >
@@ -245,5 +246,64 @@ This section is a curated collection of valuable SQL resources for absolute begi
   <tr>
     <td><a href="https://www.geeksforgeeks.org/sql-default-constraint/?ref=lbp">SQL DEFAULT Constraint</a></td>
     <td>Guide on using the SQL DEFAULT constraint.</td>
+  </tr>
+</table>
+
+### SQL Clauses
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-where-clause/?ref=lbp">SQL WHERE Clause</a></td>
+    <td>Explanation and examples of using the SQL WHERE clause to filter rows.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-with-clause/?ref=lbp">SQL WITH Clause</a></td>
+    <td>Guide on using the SQL WITH clause for defining common table expressions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/having">SQL HAVING Clause with Examples</a></td>
+    <td>Explanation and examples of using the SQL HAVING clause with GROUP BY.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/order-by">SQL ORDER BY</a></td>
+    <td>Guide on using the SQL ORDER BY clause to sort query results.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/group-by">SQL GROUP BY</a></td>
+    <td>Explanation and examples of using the SQL GROUP BY clause to group rows.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-limit-clause/?ref=lbp">SQL LIMIT Clause</a></td>
+    <td>Guide on using the SQL LIMIT clause to limit the number of rows returned by a query.</td>
+  </tr>
+</table>
+
+
+### Aggregate Functions
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/sql/aggregate-functions-in-sql/">Aggregate Functions in SQL</a></td>
+    <td>Overview of aggregate functions in SQL and their usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/count">COUNT()</a></td>
+    <td>Explanation and examples of using the COUNT() function to count the number of rows in a result set.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/sum-avg">SUM() and AVG()</a></td>
+    <td>Guide on using the SUM() and AVG() functions to calculate the sum and average of values in a column, respectively.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/sql/min-and-max">MIN() and MAX()</a></td>
+    <td>Explanation and examples of using the MIN() and MAX() functions to find the minimum and maximum values in a column, respectively.</td>
   </tr>
 </table>
