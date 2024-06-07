@@ -13,6 +13,10 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
     - [Free Books](#free-books)
     - [Paid Books](#paid-books)
 - [Tools](#tools)
+- [Development Environment Tools](#development-environment-tools)
+- [Source Code Management](#source-code-management)
+- [Build Tools](#build-tools)
+- [API Tools](#api-tools)
 - [GitHub Repositories](#github-repositories)
 - [Conclusion](#conclusion)
 
@@ -359,6 +363,57 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
       </tr>
       
 </table>
+
+### Development Environment Tools
+> Development environment tools are essential for maintaining consistency in software configurations and versions. They ensure reproducibility in minutes in case of a crash, increasing developer productivity.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.virtualbox.org/">Virtual Box</a></td>
+    <td>A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.qemu.org/">Qemu</a></td>
+    <td>A generic and open source machine emulator and virtualizer. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.vagrantup.com/">Vagrant</a></td>
+    <td>A tool for building and managing virtual machine environments in a single workflow. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.docker.com/products/docker-desktop">Docker Desktop</a></td>
+    <td>An application for MacOS and Windows machines for the building and sharing of containerized applications. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://minikube.sigs.k8s.io/">Minikube</a></td>
+    <td>A tool that makes it easy to run Kubernetes locally. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.okd.io/minishift/">Minishift</a></td>
+    <td>A tool that helps you run OpenShift locally by running a single-node OpenShift cluster inside a VM. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://podman.io/">Podman Desktop</a></td>
+    <td>A daemonless container engine for developing, managing, and running OCI Containers on your Linux System. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://rancherdesktop.io/">Rancher Desktop</a></td>
+    <td>A tool that enables developers to manage and deploy Kubernetes clusters effortlessly on their local machines. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kind.sigs.k8s.io/">kind</a></td>
+    <td>A tool that uses Docker containers as nodes to facilitate the creation of local Kubernetes cluster primarily used for local development and testing. (Open Source)</td>
+  </tr>
+  <tr>
+    <td><a href="https://k3d.io/">k3d</a></td>
+    <td>A lightweight wrapper to run k3s in Docker and makes it easy to create single and multi-node k3s clusters. (Open Source)</td>
+  </tr>
+</table>
+
 
 ### GitHub Repositories
 
