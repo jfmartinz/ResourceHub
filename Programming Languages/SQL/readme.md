@@ -27,14 +27,17 @@ This section is a curated collection of valuable SQL resources for absolute begi
    - [Joins](#joins)
    - [Set Operations](#set-operations)
 - [Advanced Data Management](#advanced-data-management)
-   - [Indexes]()
-   - [Views]()
-   - [Transactions]()
+   - [Indexes](#indexes)
+   - [Views](#views)
+   - [Transactions](#transactions)
+- [Different SQL Databases]()
+   - [MySQL](#mysql)
 - [Courses](#courses)
    - [Free Courses](#free-courses)
    - [Paid Courses](#paid-courses)
 - [Books](#books)
-- []
+- [YouTube](#youtube)
+- [Conclusion](#conclusion)
 
 ### Roadmap
 >
@@ -429,7 +432,135 @@ This section is a curated collection of valuable SQL resources for absolute begi
   </tr>
 </table>
 
+###  Advanced Data Management
+>
 
+### Indexes
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-indexes/?ref=lbp">SQL Indexes</a></td>
+    <td>An introduction to SQL indexes, explaining their purpose and how they are used to optimize database queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-create-index/?ref=lbp">SQL CREATE INDEX Statement</a></td>
+    <td>Guide on how to create an index in SQL, detailing the syntax and usage of the CREATE INDEX statement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-drop-index/?ref=lbp">SQL DROP INDEX Statement</a></td>
+    <td>Explanation of the DROP INDEX statement in SQL, describing how to remove an index from a database table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/difference-between-clustered-and-non-clustered-index/?ref=lbp">Difference Between Clustered and Non-Clustered Index</a></td>
+    <td>Comparison of clustered and non-clustered indexes in SQL, highlighting their differences and use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/sql/how-index-works-in-sql/">How Index Works in SQL?</a></td>
+    <td>An explanation of how indexes work in SQL, covering the internal mechanisms that make indexing an effective tool for query optimization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/sql/composite-index-in-sql/">Composite Index in SQL</a></td>
+    <td>Guide on composite indexes in SQL, which are indexes on multiple columns, explaining their advantages and usage scenarios.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/sql/b-tree-index/">B Tree Index</a></td>
+    <td>An in-depth look at B-Tree indexes in SQL, describing their structure and how they improve search efficiency.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/sql/bitmap-index/">Bitmap Index</a></td>
+    <td>An overview of bitmap indexes in SQL, including their use cases and benefits in specific database environments.</td>
+  </tr>
+</table>
+
+### Views
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/sql/views-in-sql/">Views in SQL</a></td>
+    <td>An introduction to views in SQL, explaining their purpose, benefits, and how they can be used to simplify complex queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/sql/sql-create-view.htm">Creating Views</a></td>
+    <td>Guide on creating views in SQL, detailing the syntax and examples for using the CREATE VIEW statement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/sql/sql-update-view.htm">Updating Views</a></td>
+    <td>Explanation of how to update views in SQL, describing the conditions and methods for modifying existing views.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/sql/sql-drop-view.htm">Dropping Views</a></td>
+    <td>Instructions on how to drop views in SQL, providing the syntax and examples for using the DROP VIEW statement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/sql/sql-rename-view.htm">Renaming Views</a></td>
+    <td>Guide on renaming views in SQL, describing the process and syntax for changing the name of an existing view.</td>
+  </tr>
+</table>
+
+### Transactions
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-transactions/">SQL Transactions</a></td>
+    <td>An overview of SQL transactions, explaining their purpose, properties, and how they ensure data integrity.</td>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/sql/t-sql/language-elements/begin-transaction-transact-sql?view=sql-server-ver16">BEGIN TRANSACTION</a></td>
+    <td>Details the BEGIN TRANSACTION statement in SQL, which marks the start of a database transaction.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/commit-in-sql">COMMIT</a></td>
+    <td>Explains the COMMIT statement in SQL, which is used to save the changes made during a transaction to the database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/Rollback-in-sql/">ROLLBACK</a></td>
+    <td>Guide on the ROLLBACK statement in SQL, which is used to undo changes made during the current transaction.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/savepoint-in-sql">Savepoints</a></td>
+    <td>Explanation of savepoints in SQL, which allow setting points within a transaction to which you can later roll back.</td>
+  </tr>
+</table>
+
+### Different SQL Databases
+>
+
+### MySQL
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-tutorial">MySQL Tutorial</a></td>
+    <td>A comprehensive tutorial covering the basics and advanced topics of MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/">Installation and Setup</a></td>
+    <td>Official MySQL documentation for installation and setup procedures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-features">Specific Features</a></td>
+    <td>An overview of the specific features offered by MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-versions">MySQL Versions</a></td>
+    <td>Information on different MySQL versions and their respective features.</td>
+  </tr>
+</table>
 
 ### Courses
 >
@@ -616,3 +747,57 @@ This section is a curated collection of valuable SQL resources for absolute begi
     <td>Comprehensive reference guide for SQL.</td>
   </tr>
 </table>
+
+### YouTube
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu">The Net Ninja - SQL Tutorial for Beginners</a></td>
+    <td>A beginner-friendly playlist that covers SQL fundamentals, including creating databases, tables, and basic queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=HXV3zeQKqGY">FreeCodeCamp.org - SQL Full Course</a></td>
+    <td>This comprehensive 4-hour tutorial covers the basics of SQL, including CRUD operations, joins, and database design.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=h6NVVpG1kMs">Traversy Media - SQL Crash Course</a></td>
+    <td>A concise crash course on SQL that covers the essential topics to get you started quickly.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB">Kudvenkat - SQL Server Tutorial</a></td>
+    <td>A detailed tutorial series that covers SQL Server, from basic to advanced topics, including stored procedures and triggers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=4Z9KEBexzcM">Edureka - SQL for Beginners</a></td>
+    <td>A comprehensive full-course video by Edureka, covering SQL basics, advanced queries, and performance optimization techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA">Great Learning - SQL Tutorial for Beginners</a></td>
+    <td>A detailed tutorial for beginners to learn SQL syntax, DML, DDL, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA">CodeWithHarry - SQL in Hindi</a></td>
+    <td>A comprehensive SQL tutorial series in Hindi, covering all essential topics for beginners.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLFdB2S1GJfRs-2GQ0vsECOEo6hwZ8UTBf">MySQL - MySQL 8.0 Fundamentals</a></td>
+    <td>An official MySQL playlist covering the fundamentals of MySQL 8.0, including installation, configuration, and basic queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=-V0QGLRnI6s">Simplilearn - SQL for Beginners</a></td>
+    <td>A comprehensive 8-hour tutorial by Simplilearn that covers SQL basics, advanced queries, and database design.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=ZqzZ0L-n8pE">Programming with Mosh - SQL Tutorial - Full Database Course for Beginners</a></td>
+    <td>A full-length tutorial that teaches SQL from scratch, including database design, table creation, and query writing.</td>
+  </tr>
+</table>
+
+
+## Conclusion
+
