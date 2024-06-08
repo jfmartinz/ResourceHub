@@ -13,6 +13,7 @@ These resources are designed for beginners and professionals.Each of these secti
    - [Introduction](#introduction)
    - 
 - [Tools](#tools)
+- [XML in Programming Languages](#xml-in-programming-languages)
 - [Conclusion](#conclusion)
 
 
@@ -179,6 +180,37 @@ These resources are designed for beginners and professionals.Each of these secti
   <tr>
     <td><a href="https://xerces.apache.org/xerces-c/">Xerces</a></td>
     <td>An Apache project providing a high-performance, fully compliant XML parser, supporting a wide range of XML standards.</td>
+  </tr>
+</table>
+
+
+
+### XML in Programming Languages
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/xml-parsing-python/">XML in Python</a></td>
+    <td>An overview of parsing XML in Python, covering various libraries and techniques for reading, writing, and manipulating XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://codegym.cc/groups/posts/212-what-is-xml">XML in Java</a></td>
+    <td>Introduction to XML in Java, explaining how to parse, validate, and manipulate XML data using Java's built-in libraries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/how-to-parse-xml-in-javascript/">XML in JavaScript</a></td>
+    <td>Guide to parsing XML in JavaScript, detailing methods for reading and manipulating XML data in web applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.c-sharpcorner.com/article/reading-and-writing-xml-in-C-Sharp/">XML in C#</a></td>
+    <td>Tutorial on reading and writing XML in C#, covering various methods and classes available in the .NET framework for handling XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/how-to-display-xml-data-in-web-page-using-php/">XML in PHP</a></td>
+    <td>Explanation of how to display XML data in a web page using PHP, including parsing and manipulating XML with PHP's built-in functions.</td>
   </tr>
 </table>
 
