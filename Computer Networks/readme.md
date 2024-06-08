@@ -69,6 +69,10 @@ A computer network is a collection of interconnected devices that can communicat
             <td><a href="https://www.udemy.com/course/ccnpallinone/?LSNPUBID=my9IzLo0578&ranEAID=my9IzLo0578&ranMID=39197&ranSiteID=my9IzLo0578-_z2iNZk5tmfynWC1SgPhSw&utm_medium=udemyads&utm_source=aff-campaign">Networking Courses</a></td>
             <td>CCNP All-in-1 Video Boot Camp With Chris Bryant</td>
       </tr>
+      <tr>
+            <td><a href="https://www.coursera.org/learn/computer-networking">The Bits and Bytes of Computer Networking</a></td>
+            <td>This course is designed to provide a full overview of computer networking.</td>
+      </tr>
   </table>
 
 ## Books
