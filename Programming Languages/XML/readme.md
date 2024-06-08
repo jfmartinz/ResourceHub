@@ -17,7 +17,7 @@ These resources are designed for beginners and professionals.Each of these secti
 - [XML Security](#xml-security)
 - [Practical XML Applications](#practical-xml-applications)
 - [Books](#books)
-- 
+- [Courses](#courses)
 - [Conclusion](#conclusion)
 
 
@@ -337,6 +337,64 @@ These resources are designed for beginners and professionals.Each of these secti
   </tr>
 </table>
 
+
+### Courses
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.edx.org/professional-certificate/w3cx-xml-document-processing-for-programmers">edX - XML Document Processing for Programmers</a></td>
+    <td>This professional certificate course on edX covers XML document processing for programmers, including XML syntax, DTD, XML Schema, XPath, XSLT, and XML programming using Java.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/learn/xml-json">Coursera - XML and JSON: Basics and Application in Data Science and Web Development</a></td>
+    <td>This course on Coursera explores the basics of XML and JSON and their applications in data science and web development, covering XML syntax, DTD, XML Schema, XPath, XSLT, JSON syntax, and XML/JSON processing in Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/xml-and-xml-schema-definition-in-easy-steps/">Udemy - XML and XML Schema Definition in Easy Steps</a></td>
+    <td>This Udemy course provides a beginner-friendly introduction to XML and XML Schema Definition (XSD), covering XML syntax, namespaces, DTD, XML Schema, XPath, XSLT, and XML processing in Java.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/learning/xml-essential-training-3">LinkedIn Learning - XML Essential Training</a></td>
+    <td>This course on LinkedIn Learning offers essential training on XML, covering XML syntax, DTD, XML Schema, XPath, XSLT, XML processing in Java and Python, as well as practical examples and exercises.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.pluralsight.com/courses/xml-foundations">Pluralsight - XML Foundations</a></td>
+    <td>Pluralsight's XML Foundations course covers XML basics, DTD, XML Schema, XPath, XSLT, and XML processing using Java. It is suitable for beginners and provides hands-on exercises and quizzes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-xml">Codecademy - Learn XML</a></td>
+    <td>Codecademy's Learn XML course offers interactive lessons to learn XML syntax, DTD, XML Schema, XPath, and XSLT. It includes hands-on projects to practice XML skills in real-world scenarios.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/xml-and-json-parsing--ud741">Udacity - XML and JSON Parsing</a></td>
+    <td>This Udacity course focuses on XML and JSON parsing techniques using Python. It covers XML and JSON syntax, parsing methods, and processing data from web APIs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.skillshare.com/classes/XML-XSLT-for-Beginners/1316793835">Skillshare - XML & XSLT for Beginners</a></td>
+    <td>Skillshare's XML & XSLT for Beginners course is designed for beginners and covers XML basics, XML Schema, XPath, XSLT, and practical examples of XML transformation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.futurelearn.com/courses/xml-basics">FutureLearn - Learn XML Basics</a></td>
+    <td>FutureLearn's Learn XML Basics course provides an introduction to XML, covering XML syntax, DTD, XML Schema, XPath, and XSLT, with hands-on activities and quizzes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.khanacademy.org/computing/computer-programming/html-css">Khan Academy - Computer Science: XML</a></td>
+    <td>Khan Academy's Computer Science: XML course is part of their HTML/CSS curriculum and covers XML basics, including syntax, structure, and practical usage examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.open.edu/openlearn/science-maths-technology/introduction-xml/content-section-0">OpenLearn - An Introduction to XML</a></td>
+    <td>OpenLearn's Introduction to XML course provides a beginner-friendly introduction to XML, covering its origins, syntax, DTD, XML Schema, XPath, and XSLT, with interactive activities and quizzes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gwOGNo8L15s2w5P1LlWxBZ">YouTube - XML Tutorials by The Net Ninja</a></td>
+    <td>The Net Ninja's YouTube playlist offers a series of XML tutorials covering XML basics, XML Schema, XPath, XSLT, and practical examples, suitable for beginners.</td>
+  </tr>
+</table>
 
 
 
