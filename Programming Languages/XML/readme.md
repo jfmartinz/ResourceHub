@@ -159,6 +159,101 @@ These resources are designed for beginners and professionals.Each of these secti
 </table>
 
 
+### XML Advance
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/xml-parsers">XML Parsers</a></td>
+    <td>An overview of XML parsers and their usage in processing XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/xml-dom">XML DOM</a></td>
+    <td>Introduction to the XML Document Object Model (DOM) for manipulating XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/xml-database">XML Database</a></td>
+    <td>Explanation of XML databases and their role in storing and managing XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/xml-namespaces">XML Namespaces</a></td>
+    <td>Overview of XML namespaces and their importance in avoiding naming conflicts in XML documents.</td>
+  </tr>
+</table>
+
+### XML DOM
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_intro.asp">DOM Introduction</a></td>
+    <td>Introduction to the Document Object Model (DOM) for XML, explaining its purpose and structure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes.asp">DOM Nodes</a></td>
+    <td>Overview of DOM nodes in XML, including different types of nodes and their properties.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_access.asp">DOM Accessing</a></td>
+    <td>Explanation of how to access DOM nodes in XML documents using various methods.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_info.asp">DOM Node Info</a></td>
+    <td>Information about DOM node properties and attributes in XML.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_nodelist.asp">DOM Node List</a></td>
+    <td>Explanation of DOM node lists and how to work with them in XML DOM manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_traverse.asp">DOM Traversing</a></td>
+    <td>Guide on traversing DOM nodes in XML documents to access and manipulate their content.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_navigate.asp">DOM Navigating</a></td>
+    <td>Instructions on navigating through DOM nodes in XML DOM manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_get.asp">DOM Get Values</a></td>
+    <td>Methods for retrieving values from DOM nodes in XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_set.asp">DOM Change Nodes</a></td>
+    <td>How to change or modify DOM nodes in XML documents using DOM manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_remove.asp">DOM Remove Nodes</a></td>
+    <td>Instructions for removing DOM nodes from XML documents using DOM manipulation techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_replace.asp">DOM Replace Nodes</a></td>
+    <td>Methods for replacing DOM nodes with new nodes in XML DOM manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_create.asp">DOM Create Nodes</a></td>
+    <td>How to create new DOM nodes in XML documents using DOM manipulation techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_add.asp">DOM Add Nodes</a></td>
+    <td>Adding new DOM nodes to XML documents using DOM manipulation methods.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_nodes_clone.asp">DOM Clone Nodes</a></td>
+    <td>Instructions for cloning DOM nodes in XML documents using DOM manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/dom_examples.asp">DOM Examples</a></td>
+    <td>Examples demonstrating various DOM manipulation techniques in XML documents.</td>
+  </tr>
+</table>
+
+
 
 ### Tools
 >
