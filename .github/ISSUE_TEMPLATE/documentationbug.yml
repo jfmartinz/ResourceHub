@@ -1,0 +1,56 @@
+name: "📃 Documentation"
+description: Document issue or enhancement?
+title: "📃 [ENHANCEMENT] - <title>"
+labels: ["documentation"]
+body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Issue Verification
+      description: Before you open an issue, please verify that it's indeed a documentation issue and hasn't been reported before.
+      options:
+        - label: I have verified that this is a new documentation issue.
+          required: true
+        - label: I'm interested in working on this issue
+          required: true
+        - label: I'm part of GSSOC organization
+          required: true
+  - type: textarea
+    id: documentation-area
+    attributes:
+      label: Documentation Area📚
+      description: Please specify the area or section of the documentation that needs attention.
+      placeholder: Describe the area that needs attention.
+    validations:
+      required: false
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: Issue Description✍️
+      description: Describe the documentation issue or improvement needed.
+      placeholder: Explain the issue.
+    validations:
+      required: false
+  - type: textarea
+    id: relevant-links
+    attributes:
+      label: Relevant Links🔗
+      description: Provide any relevant links, if applicable.
+      placeholder: Add links.
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Additional information about the documentation (Optional).
+    validations:
+      required: false
+  - type: checkboxes
+    id: code-of-conduct
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [CODE OF CONDUCT](https://github.com/jfmartinz/ResourceHub/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I follow the [CONTRIBUTING GUIDELINE](https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md) of this project.
+          required: true

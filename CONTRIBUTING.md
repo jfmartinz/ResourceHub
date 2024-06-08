@@ -11,7 +11,9 @@ Please adhere to and review our [Code Of Conduct](https://github.com/jfmartinz/R
 To ensure a smooth experience, please follow these important rules:
 
 1. **Relevance:** Ensure that the resource you're adding aligns with the appropriate category. Web development resources belong in the web development category, UI/UX design resources in the UI/UX design category, and so forth. Additionally, ensure that your resource aligns with the specific section of the category. For example, if you have a resource named ["anime.js"](https://animejs.com/), it should be placed in the [web development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development) category under the [animation](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development#animations) section. This precision ensures that users can easily locate and benefit from the resources in their intended context.
-2. **Use the PR Template:** When you create a pull request (PR), please make sure to carefully follow and review the provided PR template. This ensures a structured and efficient collaboration process.
+2. **Use the PR and Issue Template:** When creating a PR or Issue, please follow the specified template, it will help me to review your Issue or PR more efficient.
+3. **Category** refers to topics such as Web Development, Web3, or UI/UX Design.
+4. **Section** refers to a specific part within a category. For example, in the Database category, we have a section called [Challenges](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database)#challenges).
 
 ### How to Add a Resource
 
@@ -44,40 +46,36 @@ Example:
 There are many ways to contribute, and you don't need to be a coding wizard to get involved. Here are some beginner-friendly ways to contribute:
 
 ### Share Your Ideas
-> We value your input, whether it's proposing a new section to a category, suggesting additional categories, or sharing any ideas for the project's enhancement.
+We value your input, whether it's proposing a new section to a category, suggesting additional categories, or sharing any ideas for the project's enhancement.
 
 Here's how you can contribute your ideas:
-
-1. **Raise an Issue:** Start a discussion by creating an issue. Describe your idea, and I'll review it if it aligns to the project's goal.
 2. **Direct Message:** Feel free to reach out to me personally. You can connect with me on [LinkedIn](https://www.linkedin.com/in/jfmartinz/) or reach out via [Twitter](https://twitter.com/jfmartinz).
 
 ### Add Valuable Resources
-> If you come across a resource that you believe would benefit others, we encourage you to share it with us. Here's how you can contribute valuable resources:
+If you come across a resource that you believe would benefit others, we encourage you to share it with us. 
 
-1. **Review the [Rules](https://github.com/jfmartinz/ResourceHub/edit/main/CONTRIBUTING.md#important-rules) for Adding Resources:** Carefully read and understand the guidelines on how to add a resource, including the specified format. Ensure that you follow the provided PR template, as it streamlines the review process for us.
+Here's how you can contribute valuable resources:
 
-2. **Raise a PR:** If you want to add a resource, you can create a Pull Request (PR) directly.
+1. Review the **[Rules](https://github.com/jfmartinz/ResourceHub/edit/main/CONTRIBUTING.md#important-rules)** for Adding Resources: Carefully read and understand the guidelines on how to add a resource, the format used for adding new resource, and etc.
 
-Please include the following details in your PR:
-  - Resource URL
-  - Description of the resource
-  - Section and category where you plan to add it (For example, category could be [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development) and section is [Tools](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development#tools))
+**Ensure that you followed the specified issue template** 
 
 ### Grammatical Errors
-> Help us maintain clean and error-free content by fixing typos or grammar issues. Your attention to detail ensures a seamless reading experience for everyone involved.
-
-1. **Create a PR:** If you notice any grammatical errors or typos, please create a Pull Request (PR) directly. Your contributions help us maintain the quality and accuracy of our project.
+Help us maintain clean and error-free content by fixing typos or grammar issues. Your attention to detail ensures a seamless reading experience for everyone involved.
 
 ### Enhance Documentation
-> Improving our project documentation is crucial for creating a user-friendly experience. If you have ideas on how to enhance the current documentation, please share them.
+Improving our project documentation is crucial for creating a user-friendly experience. If you have ideas on how to enhance the current documentation, please share them.
 
-1. **Raise an Issue:** Start a discussion about your documentation improvement ideas. Perhaps you've identified areas where we can enhance the documentation for a better user experience, making it more user-friendly and accessible. Share your insights to help us continually improve.
 
 ### Report Outdated or Broken Links
-> Help us maintain the reliability of our resources by reporting any broken links or outdated information.
+Help us maintain the reliability of our resources by reporting any broken links or outdated information. Include details on the category or location where you found the issue. This will help us swiftly address and update the information.
 
-1. **Create a PR:** If you come across outdated or broken links, please create a Pull Request (PR) directly. Include details on the category or location where you found the issue. This will help us swiftly address and update the information.
-
+### Others
+Here are other ways you can contribute to ResourceHub:
+- Adding new sections within a category.
+- Removing or relocating resources that are not relevant to the current section or category.
+- Enhancing categories through formatting, adding new resources, and more.
+- Any other contributions you can think of—just send a personal message so we can discuss it.
 ---
 
 

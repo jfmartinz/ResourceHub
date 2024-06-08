@@ -1055,6 +1055,15 @@ to everyone - everywhere!</td>
         <th>Description</th>
       </tr>
   <tr>
+  
+   <tr>
+    <td> <a href="https://youtu.be/E_tZH9R_zi8?si=9sSTElTnNMM-aLW_">Typing Speed Test</a></td>
+    <td>Build a smooth typing speed tester game using Vanilla JavaScript. You will learn DOM manipulation, event handling, timers and intervals, string methods.</td>
+    </tr>
+   <tr>
+    <td> <a href="https://youtu.be/g1j9rR-H1lk?si=-P7HevBG2NAdLyS1">QR Code Generator</a></td>
+    <td>A quick QR Code generator for your links or text freely accessible for lifetime. You fill learn how to toggle css classes with JS, DOM manipulation, implement concepts of JS</td>
+    </tr>
    <tr>
     <td><a href="https://github.com/rngueco/intro-component-with-signup-form">Signup form</a></td>
     <td>This project is built using HTML, Sass, and JavaScript, focusing on creating a responsive design and implementing client-side form validation. Key features include error messaging for empty fields and incorrectly formatted email addresses, and hover states for interactive elements.</td>
@@ -1088,6 +1097,10 @@ to everyone - everywhere!</td>
     <tr>
     <td><a href="https://github.com/dumbmety/todo-list">Todo list</a></td>
     <td>This repo helps you to build a fully functional todo list application built with HTML, CSS, and JavaScript. This project allows users to add, delete, and mark tasks as complete. It demonstrates basic CRUD operations and local storage for maintaining the todo list across sessions.</td>
+    </tr>
+     <tr>
+    <td><a href="https://github.com/sristy17/Simon-Says-Game">Simon Says Game</a></td>
+    <td>This repo helps you to build a web-based Simon Game (The Simon game is the exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with lights and sounds that can challenge you. Experience the fun as you repeat the patterns and advance to higher levels.) built with JavaScript, HTML, and CSS. This project demonstrates how the javascript fuctions works like async, await, promises and many more. The repository includes the necessary code and assets for building and running the Game on a web browser.This will help you in learning javascripts elements in your coding journey.</td>
     </tr>
 </table>
 

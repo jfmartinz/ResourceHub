@@ -5,10 +5,13 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 - [Roadmap](#roadmap)<br>
 - [Tutorial or Courses](#tutorials-or-courses)<br>
 - [Documentation](#documentation)<br>
-- [YouTube Channels](#youtube-channels)<br>
-- [YouTube Playlist](#youtube-playlist)
+- [YouTube](#youtube)
+    - [YouTube Channels](#youtube-channels)<br>
+    - [YouTube Playlist](#youtube-playlist)
 - [Communities](#communities)
 - [Books](#books)
+    - [Free Books](#free-books)
+    - [Paid Books](#paid-books)
 - [Tools](#tools)
 - [GitHub Repositories](#github-repositories)
 - [Conclusion](#conclusion)
@@ -159,8 +162,12 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
   
 </table>
 
-### YouTube Channels
-> These are some Youtube Channels, you can refer to learn DevOps
+### YouTube
+
+> These are some Youtube resourcs, you can refer to learn DevOps.
+
+#### YouTube Channels
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
@@ -192,8 +199,8 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
     </tr>
 </table>
 
-### YouTube Playlist
-> These are some Youtube Playlist for reference and complete guidance
+#### YouTube Playlist
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -252,37 +259,64 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
 </table>
 
 ### Books
-> These are some books, you can checkout 
+
+> These are some books, you can checkout for learning DevOps.
+
+#### Free Books
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Cost</th>
     </tr>
     <tr>
        <td><a href="https://sre.google/books/">Site Reliability Engineering</a></td>
        <td>This book explains the whole life cycle of Google’s development, deployment, and monitoring, and how to manage the world’s biggest software systems (also known as SRE). Anyone who considers themselves to be more on the "Ops" end of the DevOps side or who wants to know how to strengthen the bonds between various Dev and Ops teams should read SRE.</td>
-        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://github.com/ahmedamsaleh/Free-DevOps-Books-1/blob/master/book/DevOps%20for%20Web%20Development.pdf">DevOps for Web Development</a></td>
        <td>This book explains the role of DevOps in the web development process is pivotal, orchestrating a fundamental shift in traditional development practices. DevOps methodologies and principles streamline the entire software development lifecycle, significantly influencing web development in numerous ways.</td>
-        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://github.com/ahmedamsaleh/Free-DevOps-Books-1/blob/master/book/Effective%20DevOps.pdf">Effective DevOps</a></td>
-       <td>Effective Devops is most comprehensive book that is completely digestible and applicable for those within technology. Excellent reading for anyone interested in understanding DevOps and how to foster a DevOps culture</td>
-        <td>Free</td>
+       <td>Effective Devops is most comprehensive book that is completely digestible and applicable for those within technology. Excellent reading for anyone interested in understanding DevOps and how to foster a DevOps culture.</td>
     </tr>
     <tr>
        <td><a href="https://www.dbooks.org/azure-devops-succinctly-1642002046/">Azure DevOps Succinctly</a></td>
        <td>The "Azure DevOps Succinctly" book by Sander Rossel provides a concise, practical guide to using Azure DevOps. This book covers essential topics such as setting up and managing repositories, pipelines, and automated testing.</td>
-        <td>Free</td>
     </tr>
     <tr>
        <td><a href="https://freecomputerbooks.com/Kubernetes-Up-and-Running-Dive-into-the-Future-of-Infrastructure.html">Kubernetes</a></td>
        <td>The book "Kubernetes by Brendan Burns" is a practical book which shows developers and Ops personnel how Kubernetes and container technology can help you achieve new levels of velocity, agility, reliability, and efficiency.</td>
-        <td>Free</td>
+    </tr>
+</table>
+
+#### Paid Books
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+       <td><a href="https://www.amazon.in/Devops-Handbook-World-class-Reliability-Organizations/dp/1950508404/">The DevOps Handbook</a></td>
+       <td>This book offers a comprehensive guide to understanding and implementing DevOps practices in modern technology organizations. Authored by Gene Kim, Jez Humble, Patrick Debois, and John Willis, this book delves into the principles, methodologies, and case studies that illustrate how DevOps can transform businesses.</td>
+    </tr>
+    <tr>
+       <td><a href="https://www.amazon.in/Hands-DevOps-Linux-Pipelines-Kubernetes/dp/9389423481/">Hands-on DevOps with linux</a></td>
+       <td>This book helps readers to learn how to leverage Linux, Docker, Kubernetes, and Azure DevOps to build, deploy, and manage applications with agility and efficiency. The book covers topics such as continuous integration, continuous delivery, infrastructure as code, containerization, orchestration and more.</td>
+    </tr>
+    <tr>
+       <td><a href="https://www.amazon.in/DevOps-Puppet-Kubernetes-Thomas-Uphill/dp/178829761X/">DevOps Puppet, Docker, and Kubernetes</a></td>
+       <td>This book explores how Kubernetes, a powerful container orchestration platform, can enhance the deployment, scaling, and management of containerized applications in a DevOps environment. Readers will learn how to leverage Kubernetes to automate deployment workflows, achieve high availability, and scale applications seamlessly.</td>
+    </tr>
+    <tr>
+       <td><a href="https://www.amazon.in/Demystifying-Azure-DevOps-Services-Administer/dp/9389898684/">Demystifying Azure DevOps Services</a></td>
+       <td>This book is a comprehensive guide that provides step-by-step instructions for effectively administering, deploying, and building services using Azure DevOps Services. Authored by Anurag Sharma, this book offers practical insights and hands-on tutorials for leveraging Azure DevOps Services to streamline software development processes.</td>
+    </tr>
+    <tr>
+       <td><a href="https://www.amazon.in/Hands-Azure-DevOps-Implementation-Applications/dp/9389845343/">Hands-on Azure DevOps</a></td>
+       <td>This books helps the learner to learn how to set up Azure DevOps projects, manage source code repositories, automate builds and deployments, and implement continuous integration and continuous delivery (CI/CD) pipelines. The book covers various aspects of Azure DevOps, including version control, work item tracking, test management, and collaboration tools.</td>
     </tr>
 </table>
 

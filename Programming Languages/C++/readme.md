@@ -9,7 +9,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
 - [Roadmap](#roadmap)
   - [C++ Developer Roadmap I](#roadmap)
   - [C++ Developer Roadmap II](#roadmap)
-- [Tutorials](#tutorial)
+- [C++](#c)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Arrays and Strings in C++](#arrays-and-strings-in-c)
@@ -23,6 +23,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
   - [Tools and IDEs for C++](#tools-and-ides-for-c)
   - [Online editors and Compilers for C++](#online-editors-and-compilers-for-c)
 - [Advance Topics](#advanced-topics)
+- [Networking and Socket Programming in C++](#networking-and-socket-programming-in-c)
 - [STL (Standard Template Library)](#stl-standard-template-library)
 - [Design Patterns](#design-patterns)
 - [Modern C++ (C++11 and beyond)](#modern-c-c11-and-beyond)
@@ -42,11 +43,12 @@ This section is a curated collection of valuable C++ resources for absolute begi
 - [Youtube Channels](#youtube-channels)
 - [Youtube Playlists](#youtube-playlists)
 - [Courses](#courses)
-  - [Free Certification Cources](#free-certification-courses)
-  - [Paid Certification Cources](#paid-certification-courses)
-- [Coding platforms](#coding-platforms-for-c)
-- [C++ Communities](#c-communities)
-- [C++ CheatSheets](#c-cheatsheet)
+  - [Free Cources](#free-courses)
+  - [Paid Cources](#paid-courses)
+- [Interview Preparations](#interview-preparation)
+- [Coding platforms](#coding-platforms)
+- [Communities](#communities)
+- [CheatSheets](#cheatsheet)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -67,7 +69,7 @@ This section is a curated collection of valuable C++ resources for absolute begi
   </tr>
 </table>
 
-### Tutorials
+### C++
 > Start your journey into C++ programming with these essential resources.
 
 ### Introduction
@@ -555,6 +557,30 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
+### Networking and Socket Programming in C++
+<table width="100%">
+<tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+   <tr>
+    <td><a href="https://youtube.com/playlist?list=PLIXt8mu2KcUJOwdLMp-Z-cDIZA1aZfVTN&si=kG8iUq3KK4vDl24K">Beginner to Advanced Networking in C++</a></td>
+    <td>A beginner's guide to master the principles of Networking in C++</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PL3qrsXRWx8op6ChikMaFoBOmH5M8Nlo9C&si=DYc8je4VOR5xsXu2">  Socket Programming in C++</a></td>
+    <td>An introduction to Socket Programming in C++.</td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/bozkurthan/Simple-TCP-Server-Client-CPP-Example">  Simple TCP/UDP Client/Server Example in C++</a></td>
+    <td>A working example of a TCP/UDP Client-Server with source code available for free.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.naukri.com/code360/library/learning-socket-programming-in-c"> Learn Socket Programming in C++</a></td>
+    <td>An article which covers the very basics as well as advanced topics for Socket Programming in C++</td>
+  </tr>
+  </table>
+
 ### STL (Standard Template Library)
 <table width="100%">
   <tr>
@@ -793,6 +819,10 @@ Writing to Files File Streams input and output operations in C++.</td>
   <tr>
     <td><a href="https://en.wikipedia.org/wiki/KISS_principle">KISS (Keep It Simple, Stupid)</a></td>
     <td>Embrace the KISS principle, advocating for simplicity in design and implementation to improve readability, maintainability, and understanding of code.</td>
+  </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/principles/?no-filter=true#sequence-3">Software Engineering Principles by Google Tech Dev Guide</a></td>
+  <td>Practice important skills you'll need to be a successful software developer — testing, debugging, design, documentation, and open source.</td>
   </tr>
 </table>
 
@@ -1122,13 +1152,17 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td><a href="https://www.youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd">Coding Wallah - C++ and DSA Foundation Course</a></td>
     <td>This Coding Wallah playlist specifically focuses on building a foundation in C++ programming alongside Data Structures and Algorithms (DSA). It can be a great resource for those who want to learn both simultaneously and prepare for coding challenges.</td>
   </tr>
+  <tr>
+  <td><a href="https://youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee&si=Ij7XnDcHqF7skzyI">C++ Complete Course by Jenny Lectures</a></td>
+  <td>This Channel focuses on creating tutorials for engineers, software developers, programmers, Coders, undergraduates, graduates. Covers topics for all different skill levels, so whether you are a beginner or have some years of experience, this channel will have something for you.</td>
+  </tr>
 </table>
 
 
 ### Courses
 > Here are some Certification Courses 
 
-### Free Certification Courses
+### Free Courses
 
 <table width="100%">
   <tr>
@@ -1159,9 +1193,13 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td><a href="https://web.stanford.edu/class/cs106l/">Programming Fundamentals with C++</a></td>
     <td>Stanford's CS106L Programming Fundamentals with C++ course offers video lectures, assignments, and online resources. While there's no certificate, this provides an in-depth learning experience.</td>
   </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/foundational/?programming_languages=c-plus-plus#sequence-2">Foundations of Programming- Google Tech Dev Guide</a></td>
+  <td> Learn about basic programming concepts like functions, operators, variables, control flow, strings, and arrays — some of the building blocks of programming. This course is provided by Google under its Google Tech Dev Guide </td>
+  </tr>
 </table>
 
-### Paid Certification Courses
+### Paid Courses
 
 <table width="100%">
   <tr>
@@ -1202,8 +1240,33 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
+### Interview Preparation
+> Here are some resources which can help you to prepare for C++ interview rounds
 
-### Coding Platforms for C++
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/6HuptuHyJZg?si=1u68F8xnWk2d6SkN">Top C++ Programming Interview Questions & Answers</a></td>
+    <td>Simplilearn provides a comprehensive video covering the top C++ programming interview questions along with detailed explanations and solutions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/KzxHNsd3uO8?si=AT3lOwSSVgHRCPND">C++ Interview Question and Answers</a></td>
+    <td>This video by Interview Guruji presents common C++ programming interview questions along with explanations and code examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/I5Gr555bZEs?si=PF8Lu0csFV3Pqrem">C++ Programming Interview Questions and Answers</a></td>
+    <td>edureka! offers a video discussing essential C++ programming interview questions, suitable for both beginners and experienced developers.</td>
+  </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/interview/?programming_languages=c-plus-plus>">Interview Prep by Google Tech Dev Guide</a></td>
+  <td> Interview Preparation course provided by Google under its Tech Dev Guide. It's absolutely free and available in multiple programming languages.</td>
+  </tr>
+</table>
+
+### Coding Platforms 
 
 <table width="100%">
   <tr>
@@ -1252,7 +1315,7 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
-### C++ Communities
+### Communities
 
 <table width="100%">
   <tr>
@@ -1273,7 +1336,7 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
-### C++ CheatSheet
+### CheatSheet
 > This is a C++ programming cheat sheet. It is useful for beginners and intermediates looking to learn or revise the concepts of C++ programming. While learning a new language, it feels annoying to switch pages and find different websites for different concepts that are easily understandable.
 
 <table width="100%">
@@ -1293,6 +1356,18 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td><a href="https://quickref.me/cpp.html">C++ CheatSheet - QuickRef.ME</a></td>
     <td>A concise C++ CheatSheet covering essential syntax, data types, control structures, functions, OOP concepts, and standard libraries for quick access and review. 
     </td>  
+  </tr>
+    <tr>
+    <td><a href="https://programiz.pro/resources/cpp-cheat-sheet/">Programiz - C++ Cheatsheets</a></td>
+    <td>A comprehensive cheat sheet for C++ programming provided by Programiz.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/resources/cheatsheets/language/c-plus-plus">Code Academy - C++ Cheatsheets</a></td>
+    <td>A collection of C++ cheat sheets from Codecademy, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/cpp-stl-cheat-sheet/">C++ STL Cheat Sheet</a></td>
+    <td>A detailed cheat sheet for the C++ Standard Template Library (STL) provided by GeeksforGeeks.</td>
   </tr>
 </table>
 

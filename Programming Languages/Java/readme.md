@@ -8,7 +8,7 @@ This section is a curated collection of valuable Java and Java development resou
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [Java](#java)
   - [Fundamentals](#fundamentals)
   - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
   - [Core Java Libraries](#core-java-libraries)
@@ -17,9 +17,9 @@ This section is a curated collection of valuable Java and Java development resou
   - [Java EE (Enterprise Edition)](#java-ee-enterprise-edition)
   - [Java Database Connectivity (JDBC)](#java-database-connectivity-jdbc)
 - [Tools and IDEs](#tools-and-ides)
-- [Java Web Development](#java-web-development)
-- [Java Android Development](#java-android-development)
-- [Java Networking](#java-networking)
+- [Web Development](#web-development)
+- [Android Development](#android-development)
+- [Networking](#networking)
 - [Books](#books)
 - [Documentation](#documentation)
 - [YouTube](#youtube)
@@ -27,16 +27,17 @@ This section is a curated collection of valuable Java and Java development resou
   - [YouTube Playlists](#youtube-playlists)
 - [Coding Platforms](#coding-platforms)
 - [Courses](#courses)
-  - [Free Certification Courses](#free-certification-courses)
-  - [Paid Certification Courses](#paid-certification-courses)
-- [Java Projects](#java-projects)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
+- [Projects](#projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
-- [interview Preparations](#interview-preparation)
+- [Interview Preparations](#interview-preparation)
 - [Additional Resources](#additional-resources)
-   - [Java Games](#java-games)
-   - [Java Communities](#java-communities)
+   - [Games](#games)
+   - [Communities](#communities)
+   - [Java CheatSheets](#java-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -59,10 +60,10 @@ This section is a curated collection of valuable Java and Java development resou
   
 </table>
 
-### Tutorials
+### Java
 > Start your journey into Java programming with these essential tutorials covering basic syntax and all concepts.
 
-### Fundamentals
+#### Fundamentals
 
 <table width="100%">
   <tr>
@@ -114,7 +115,7 @@ This section is a curated collection of valuable Java and Java development resou
 
 
 
-### Object-Oriented Programming (OOP)
+#### Object-Oriented Programming (OOP)
 
 <table width="100%">
   <tr>
@@ -149,7 +150,7 @@ This section is a curated collection of valuable Java and Java development resou
 </table>
 
 
-### Core Java Libraries
+#### Core Java Libraries
 
 <table width="100%">
   <tr>
@@ -183,7 +184,7 @@ This section is a curated collection of valuable Java and Java development resou
   </tr>
 </table>
 
-## Frameworks and Libraries
+#### Frameworks and Libraries
 
 <table width="100%">
   <tr>
@@ -226,7 +227,7 @@ This section is a curated collection of valuable Java and Java development resou
   </tr>
 </table>
 
-### Microservices
+#### Microservices
 
 <table width="100%">
   <tr>
@@ -256,7 +257,7 @@ This section is a curated collection of valuable Java and Java development resou
 </table>
 
 
-### Java EE (Enterprise Edition)
+#### Java EE (Enterprise Edition)
 
 <table width="100%">
   <tr>
@@ -289,7 +290,7 @@ This section is a curated collection of valuable Java and Java development resou
   </tr>
 </table>
 
-## Java Database Connectivity (JDBC)
+#### Java Database Connectivity (JDBC)
 
 <table width="100%">
   <tr>
@@ -312,7 +313,7 @@ This section is a curated collection of valuable Java and Java development resou
 </table>
 
 
-## Tools and IDEs
+### Tools and IDEs
 
 > Java Tools and IDEs to enhance your development experience with these recommended resources.
 Here's the updated table:
@@ -352,7 +353,7 @@ Here's the updated table:
   </tr>
 </table>
 
-### Java Web Development
+### Web Development
 
 > Java web development, including Servlets and JSP, web frameworks, RESTful services, and more, with these recommended resources.
 
@@ -401,7 +402,7 @@ Here's the updated table:
 
 
 
-### Java Android Development
+### Android Development
 
 > Android app development using Java for building mobile applications. Learn about Android UI development, handling user input, working with databases, and integrating with web services.
 
@@ -447,7 +448,7 @@ Here's the updated table:
 </table>
 
 
-## Java Networking
+### Networking
 
 > Java's networking capabilities for building client-server applications, socket programming, and working with protocols like TCP/IP and UDP. Learn about URL handling, HTTP connections, and web services development in Java.
 
@@ -574,7 +575,7 @@ Here's the updated table:
 
 ### YouTube
 > YouTube channels and Playlists for comprehensive and up-to-date tutorials on Java programming, ranging from beginner to advanced topics.
-### YouTube Channels
+#### YouTube Channels
 
 <table width="100%">
   <tr>
@@ -619,7 +620,7 @@ Here's the updated table:
   </tr>
 </table>
 
-### YouTube Playlists
+#### YouTube Playlists
 
 <table width="100%">
   <tr>
@@ -732,7 +733,7 @@ Here's the updated table:
 ### Courses
 > Explore these certification courses to enhance your Java skills:
 
-### Free Certification Courses
+#### Free Courses
 
 
 <table width="100%">
@@ -763,12 +764,18 @@ Here's the updated table:
     <td><a href="https://www.udemy.com/course/java-tutorial/">Java Tutorial for Complete Beginners</a></td>
     <td>A free course on Udemy designed for complete beginners to learn Java programming.</td>
   </tr>
- 
-
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf&si=DjlYdXAeaw1-nlIs">Java Certification YouTube Course</a></td>
+    <td>A free course on YouTube designed for complete beginners to learn Java programming.</td>
+  </tr>
+ <tr>
+ <td><a href="https://techdevguide.withgoogle.com/paths/foundational/?programming_languages=java#sequence-2">Foundations of Programming in Java by Google Tech Dev Guide<a></td>
+ <td>Learn about basic programming concepts like functions, operators, variables, control flow, strings, and arrays — some of the building blocks of programming by Google Tech Dev Guide.</td>
+</tr>
 </table>
 
 
-### Paid Certification Courses
+#### Paid Courses
 
 
 <table width="100%">
@@ -808,10 +815,10 @@ Here's the updated table:
 </table>
 
 
-### Java Projects
+### Projects
 > Java Projects which can help you to enhance your development skills and build your resumes.
 
-### Beginner Level Projects
+#### Beginner Level Projects
 
 <table>
   <tr>
@@ -862,9 +869,14 @@ Here's the updated table:
     <td><a href="https://www.javatpoint.com/java-program-to-convert-temperature-celsius-to-fahrenheit">Temperature Converter</a></td>
     <td>Build a program that converts temperatures between Celsius and Fahrenheit scales based on user input.</td>
   </tr>
+  <tr>
+    <td>Tic Tac Toe Game</td>
+    <td>Build a tic-tac-toe game provided its implementation,code and rules to play the game </td>
+    <td><a href="https://www.geeksforgeeks.org/tic-tac-toe-game-in-java/">Tic Tac Toe Game in Java </a></td>
+  </tr>
 </table>
 
-### Intermediate Level Projects
+#### Intermediate Level Projects
 
 <table>
   <tr>
@@ -907,10 +919,20 @@ Here's the updated table:
     <td><a href="https://www.javatpoint.com/inventory-management-system">Inventory Management System</a></td>
     <td>Build a system for tracking inventory levels, orders, sales, and deliveries for a business.</td>
   </tr>
-  
+   <tr>
+    <td><a href="https://github.com/shahbazakon/Resume_Builder">Resume Builder</a></td>
+    <td> The Resume Builder project is a practical  Java application designed to assist users in creating professional resumes 
+         efficiently. This project offers programmers an opportunity to apply their Java skills while developing a useful tool for 
+         individuals seeking to showcase their qualifications and experiences effectively.</td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/MalakaMadushan/Vehicle-Rental-Management-System">Vehicle Rental Management System</a></td>
+    <td> The Vehicle Rental Management System is a comprehensive  Java application designed to streamline the process of managing 
+         vehicle rentals for rental agencies or businesses</td>
+  </tr>
 </table>
 
-### Advance Level Projects
+#### Advance Level Projects
 <table>
   <tr>
     <th>Resource Name</th>
@@ -952,6 +974,12 @@ Here's the updated table:
     <td><a href="https://github.com/pixee/java-security-toolkit">Network Security Toolkit</a></td>
     <td>Develop a toolkit for network security analysis and penetration testing, implementing various algorithms and techniques for network scanning, vulnerability assessment, and intrusion detection.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/HouariZegai/QRCodeFX">QRCodeFX</a></td>
+    <td>QRCodeFX is an exciting  Java project that allows programmers to generate QR codes dynamically. This project leverages JavaFX, 
+         a powerful library for building graphical user interfaces, to create an interactive application for generating and displaying 
+         QR codes.</td>
+  </tr>
 </table>
 
 ### Interview Preparation
@@ -991,6 +1019,18 @@ Here's the updated table:
     <td><a href="https://www.glassdoor.com/Interview/java-developer-interview-questions-SRCH_KO0,14.htm">Glassdoor - Java Developer Interview Questions</a></td>
     <td>Real interview experiences and questions shared by candidates who interviewed for Java developer positions.</td>
   </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/interview/?programming_languages=java">Interview Prep by Google Tech Dev Guide</a></td>
+  <td>Familiarize yourself with the ins and outs of software engineering interviews. These resources will help students and professionals prepare and practice.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/corejava-interview-questions"> Javapoint - 300 Core Java Interview Questions</a></td>
+    <td> Frequently asked questions by the interviewer for Java developer position.</td>
+  </tr>
+  <tr>
+  <td><a href="https://www.simplilearn.com/tutorials/java-tutorial/java-interview-questions">Simplilearn-180 Core Java Interview Questions</a></td>
+  <td>This article contains some of the most important Java interview questions for freshers</td>
+  </tr>
 </table>
 
 
@@ -998,7 +1038,7 @@ Here's the updated table:
 ### Additional Resources
 > Here are some additional resources which you may consider to expand your java skills
 
-### Java Games
+#### Games
 
 <table width="100%">
   <tr>
@@ -1031,7 +1071,7 @@ Here's the updated table:
   </tr>
 </table>
 
-### Java Communities
+#### Communities
 
 <table width="100%">
   <tr>
@@ -1075,6 +1115,47 @@ Here's the updated table:
     <td>A platform to find and join local Java meetup groups for networking and learning from peers.</td>
   </tr>
 
+</table>
+
+#### Java CheatSheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/">Edureka - Java Programming Cheat Sheet For Beginners</a></td>
+    <td>A beginner-friendly cheat sheet for Java programming, covering fundamental concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://introcs.cs.princeton.edu/java/11cheatsheet/">Java Programming Cheatsheet</a></td>
+    <td>Comprehensive Java programming cheat sheet from Princeton University.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.interviewbit.com/java-cheat-sheet/">InterviewBit - Java Cheat Sheet: Freshers and Experienced (2024)</a></td>
+    <td>Java cheat sheet catering to both freshers and experienced developers, updated for 2024.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/java-cheat-sheet/">GFG - Java Cheat Sheet: Freshers and Experienced</a></td>
+    <td>A detailed Java cheat sheet from GeeksforGeeks, suitable for both beginners and experienced programmers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewithharry.com/blogpost/java-cheatsheet/">Code with Harry - Java Cheatsheet</a></td>
+    <td>A practical Java cheat sheet by Code with Harry, ideal for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/resources/cheatsheets/language/java">Code Academy - Java Cheatsheets</a></td>
+    <td>A collection of Java cheat sheets from Codecademy, covering various topics in Java programming.</td>
+  </tr>
+    <tr>
+    <td><a href="https://medium.com/edureka/java-cheat-sheet-3ad4d174012c">Core Java Cheat Sheet — Basics Of Java Programming</a></td>
+    <td>A comprehensive guide to the basics of Java programming, provided by Edureka on Medium.</td>
+  </tr>
+  <tr>
+    <td><a href="https://trainings.internshala.com/blog/java-cheat-sheet/">Internshala - Java Cheat Sheet – A Comprehensive Guide for Developers</a></td>
+    <td>An extensive cheat sheet for Java developers, covering various aspects of the language, provided by Internshala.</td>
+  </tr>
 </table>
 
 

@@ -28,6 +28,7 @@ Below are some essential resources to help you get started and deepen your under
 - [Online Playground](#online-playground)
 - [TypeScript Runtime](#typescript-runtime)
 - [Typescript Libraries](#typescript-libraries)
+- [TypeScript Validation](#typescript-validation)
 - [Build Systems](#build-systems)
 - [Official TypeScript Resources](#official-typescript-resources)
 - [Books](#books)
@@ -40,6 +41,7 @@ Below are some essential resources to help you get started and deepen your under
    - [Free Courses](#free-courses)
    - [Paid Courses](#paid-courses)
 - [Community and Support](#coummunity-and-support)
+- [TypeScript Cheatsheets](#typescript-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -737,6 +739,151 @@ Below are some essential resources to help you get started and deepen your under
       <td><a href="https://github.com/emmanueltouzery/prelude.ts">prelude.ts</a></td>
       <td>Functional programming library for TypeScript, providing immutable persistent collections, constructs such as Option and Either, and combinators.</td>
     </tr>
+       <tr>
+      <td><a href="https://github.com/vitaly-t/sub-events">sub-events</a></td>
+      <td>Strongly-typed events.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EvandroLG/ts-audio">ts-audio</a></td>
+      <td>An agnostic and easy-to-use library to work with the AudioContext API.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/fullstack-build/tslog">tslog</a></td>
+      <td>A powerful logging library with native TypeScript support.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/matteobruni/tsparticles">tsParticles</a></td>
+      <td>A lightweight library for easily creating particles animations for websites.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/pie6k/statek">statek</a></td>
+      <td>Reactive state management library.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.injex.dev/">Injex</a></td>
+      <td>Simple, decorated, pluggable dependency injection framework for TypeScript applications.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.trpc.io/">tRPC</a></td>
+      <td>TypeScript toolkit for building end-to-end type-safe APIs.</td>
+    </tr>
+    <tr>
+     <tr>
+      <td><a href="https://www.npmjs.com/package/interface-forge">interface-forge</a></td>
+      <td>Test data factories using TypeScript types and interfaces.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vitaly-t/iter-ops">iter-ops</a></td>
+      <td>Operations with iterable objects.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/remult/remult">Remult</a></td>
+      <td>End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/facebook/jest">Jest</a></td>
+      <td>A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/artberri/diod">diod</a></td>
+      <td>A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/deliberative/crypto">@deliberative/crypto</a></td>
+      <td>A Typescript/WebAssembly library for public key cryptography, AEAD secret boxes, Shamir secret sharing, and random shuffling. Runs on Node.js, ESM, CommonJS, and the browser.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/castore-dev/castore">castore</a></td>
+      <td>Typescript library to easily implement Event Sourcing in your application.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JSMonk/sweet-monads">sweet-monads</a></td>
+      <td>Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.</td>
+    </tr>
+   <tr>
+      <td><a href="https://github.com/aleclarson/ee-ts">ee-ts</a></td>
+      <td>Typed event emitters.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gcanti/io-ts">io-ts</a></td>
+      <td>Type validation at runtime.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/varHarrie/mokia">mokia</a></td>
+      <td>A mock server integrated data simulation and http service.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### TypeScript Validation
+
+> Validate your TypeScript data and ensure type safety with these validation libraries:
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/tani/ts-match">@core/match</a></td>
+      <td>Type-safe destructuring assignment with pattern-match validation.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gcanti/io-ts">io-ts</a></td>
+      <td>Runtime type system for IO decoding/encoding.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vriad/zod">zod</a></td>
+      <td>TypeScript-first schema validation with static type inference.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/fabian-hiller/valibot">valibot</a></td>
+      <td>Typescript schema library with static type inference. Lightweight compared to Zod, with no dependencies.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/pelotom/runtypes">runtypes</a></td>
+      <td>Runtime validation for static types.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/julienvincent/ts-codec">ts-codec</a></td>
+      <td>TypeScript Codecs for encoding, decoding, and validating data.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sindresorhus/ow">ow</a></td>
+      <td>Function argument validation for humans.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ianstormtaylor/superstruct">superstruct</a></td>
+      <td>A simple and composable way to validate data.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/neuledge/computed-types">computed-types</a></td>
+      <td>Joi-like validations for TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thomasaribart/json-schema-to-ts">json-schema-to-ts</a></td>
+      <td>Dynamic type inference from JSON schemas.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix">Yunomix</a></td>
+      <td>A form validation toolkit designed in AOP form.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/samchon/typia">typia</a></td>
+      <td>Runtime validator using pure TypeScript type. Supports JSON serialization and Protocol Buffer features.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sgb-io/fta">fta</a></td>
+      <td>Rust-based static analysis to monitor code quality.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rsinger86/dto-classes">dto-classes</a></td>
+      <td>Developer-friendly parsing, validation & serialization with static types by default.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -897,6 +1044,67 @@ Below are some essential resources to help you get started and deepen your under
     <tr>
       <td> <a href="https://github.com/gvanastasov/codebook-typescript">Codebook</a></td>
       <td>Read and run small code snippets to progressively learn TypeScript from basic to advanced concepts.</td>
+    </tr>
+    
+   <tr>
+      <td><a href="https://www.manning.com/books/programming-with-types">Programming with Types</a></td>
+      <td>How to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. By Vlad Riscutia.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.manning.com/books/essential-typescript-5">Essential TypeScript 5</a></td>
+      <td>Third edition of the bestselling guide to TypeScript. By Adam Freeman.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.oreilly.com/library/view/effective-typescript/9781492053736/">Effective TypeScript</a></td>
+      <td>By Dan Vanderkam.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/product/advanced-typescript-3-programming-projects/9781789133042">Advanced TypeScript 3 Programming Projects</a></td>
+      <td>By Peter O'Hanlon.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gibbok/typescript-book">The Concise TypeScript Book (Free and Open Source)</a></td>
+      <td>By Simone Poggiali.</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.typescriptlang.org/Handbook">Handbook - Welcome to TypeScript</a></td>
+      <td>The official resource for learning TypeScript.</td>
+    </tr>
+    <tr>
+      <td> <a href="https://basarat.gitbooks.io/typescript/">TypeScript Deep Dive by Basarat Ali Syed</a></td>
+      <td>An in-depth book on TypeScript features and best practices.</td>
+    </tr>
+     <tr>
+      <td><a href="https://www.amazon.com/TypeScript-Quickly-Yakov-Fain/dp/1617295948/">TypeScript Quickly by Yakov Fain and Anton Moiseev</a> </td>
+      <td>A fast-paced guide to TypeScript, covering basic to advanced topics with practical examples.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/">Programming TypeScript by Boris Cherny</a></td>
+      <td>A comprehensive guide to TypeScript, designed to help developers build reliable and maintainable applications.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.amazon.com/Learning-TypeScript-2-x-Findings-JavaScript/dp/178839147X/">Learning TypeScript 2.x by Remo H. Jansen </a></td>
+      <td>A practical guide to learning TypeScript, with a focus on real-world applications and best practices.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.amazon.com/Pro-TypeScript-Application-Scale-JavaScript/dp/1484244507/">Pro TypeScript: Application-Scale JavaScript Development by Steve Fenton</a></td>
+      <td>Advanced TypeScript concepts and techniques for building large-scale applications.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.amazon.com/Essential-TypeScript-4-JavaScript-Development/dp/1098101075/">Essential TypeScript 4 by Adam Freeman </a></td>
+      <td>A detailed guide to TypeScript 4, covering new features and enhancements for modern JavaScript development.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Microsoft/TypeScript">Microsoft/TypeScript on GitHub</a></td>
+      <td>Fork TypeScript on GitHub or just read the code.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Microsoft/TypeScript/wiki/Roadmap">The official TypeScript Roadmap</a></td>
+      <td>The official roadmap detailing planned features and improvements.</td>
+    </tr>
+    <tr>
+      <td><a href="http://blogs.msdn.com/b/typescript/">TypeScript Team Blog</a></td>
+      <td>Announcements and recent updates from the TypeScript team.</td>
     </tr>
   </tbody>
 </table>
@@ -1210,6 +1418,45 @@ Below are some essential resources to help you get started and deepen your under
   <tr>
     <td>Developer communities (<a href="https://discord.com/invite/typescript">Discord</a>, <a href="https://www.reddit.com/r/typescript/">Reddit</a>)</td>
     <td>Join developer communities on Discord and Reddit dedicated to TypeScript for discussions, sharing resources, and getting support.</td>
+  </tr>
+</table>
+
+### TypeScript Cheatsheets
+
+> Cheat sheets for TypeScript programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.typescriptlang.org/cheatsheets/">TypeScripts - Cheat Sheets</a></td>
+    <td>A collection of official TypeScript cheat sheets provided by TypeScriptlang.org.</td>
+  </tr>
+  <tr>
+    <td><a href="https://devhints.io/typescript">DevHints - TypeScript cheatsheet</a></td>
+    <td>A TypeScript cheat sheet provided by DevHints, covering various aspects of TypeScript programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/typescript-cheat-sheet/">TypeScript Cheat Sheet + PDF</a></td>
+    <td>A TypeScript cheat sheet with a downloadable PDF version, covering essential TypeScript concepts and syntax.</td>
+  </tr>
+  <tr>
+    <td><a href="https://rmolinamir.github.io/typescript-cheatsheet/">typescript-cheatsheet</a></td>
+    <td>A TypeScript cheat sheet available on GitHub, providing quick reference for TypeScript developers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://react-typescript-cheatsheet.netlify.app/">React TypeScript Cheatsheets</a></td>
+    <td>Cheat sheets specifically tailored for using TypeScript with React, covering React-specific TypeScript concepts and best practices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://hackr.io/blog/typescript-cheat-sheet">The Ultimate TypeScript Cheat Sheet [2024]</a></td>
+    <td>An extensive TypeScript cheat sheet covering a wide range of TypeScript topics and concepts, updated for 2024.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.totaltypescript.com/tsconfig-cheat-sheet">The TSConfig Cheat Sheet</a></td>
+    <td>A cheat sheet specifically focusing on TSConfig, providing guidance on TypeScript configuration options.</td>
   </tr>
 </table>
 
