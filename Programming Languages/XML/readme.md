@@ -14,6 +14,8 @@ These resources are designed for beginners and professionals.Each of these secti
    - 
 - [Tools](#tools)
 - [XML in Programming Languages](#xml-in-programming-languages)
+- [XML Security](#xml-security)
+- [Practical XML Applications](#practical-xml-applications)
 - [Conclusion](#conclusion)
 
 
@@ -185,6 +187,7 @@ These resources are designed for beginners and professionals.Each of these secti
 
 
 ### XML in Programming Languages
+>
 
 <table>
   <tr>
@@ -238,6 +241,53 @@ These resources are designed for beginners and professionals.Each of these secti
   <tr>
     <td><a href="https://www.w3.org/Signature/Drafts/WD-xmldsig-core-200005plc/Overview.html">XML Signature</a></td>
     <td>W3C's draft specification on XML Signature, providing details on how to create and validate digital signatures for XML documents.</td>
+  </tr>
+</table>
+
+
+### Practical XML Applications
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/framework/configure-apps/#:~:text=Configuration%20files%20are%20XML%20files,applications%20and%20objects%20are%20located">Configuration Files Using XML</a></td>
+    <td>Provides an overview of using XML for configuration files in .NET applications, detailing how applications and objects are located and configured.</td>
+  </tr>
+  <tr>
+    <td><a href="https://control.com/technical-articles/understanding-xml-and-data-exchange-formats-for-industrial-settings/">Data Interchange</a></td>
+    <td>Explains the role of XML in data exchange formats for industrial settings, highlighting its application in facilitating seamless data interchange.</td>
+  </tr>
+  <tr>
+    <td><a href="https://structuredauthoring.net/xml/readings/6_Introduction_xsl_fo.html">Document Formatting</a></td>
+    <td>Introduction to XSL-FO (Extensible Stylesheet Language Formatting Objects) for formatting XML documents, covering basic principles and applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.informatica.com/data-integration/b2b-data-transformation/10-5/libraries-guide/libraries-for-industry-standards/xml-based-industry-standards.html">Industry-specific XML Standards</a></td>
+    <td>Documentation of XML-based industry standards supported by Informatica, detailing various industry-specific XML standards for data integration.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xml_rss.asp">RSS (Really Simple Syndication)</a></td>
+    <td>Provides an introduction to RSS, explaining how XML is used to syndicate web content, allowing users to receive updates to web content.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3.org/Graphics/SVG/About.html#:~:text=SVG%20is%20a%20language%20for,curves)%2C%20images%20and%20text">SVG (Scalable Vector Graphics)</a></td>
+    <td>Overview of SVG, an XML-based language for describing two-dimensional graphics, including vector graphics, images, and text.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/basics-of-soap-simple-object-access-protocol/">SOAP (Simple Object Access Protocol)</a></td>
+    <td>Introduction to SOAP, explaining its use as a protocol for exchanging structured information in the implementation of web services.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/intersystems-ib/Healthcare-HL7-XML">HL7 for Healthcare</a></td>
+    <td>Details on the use of HL7, an XML-based standard for exchanging information in the healthcare domain, providing resources and examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.fpml.org/">FPML for Finance</a></td>
+    <td>Provides information about FPML, an XML-based standard for electronic dealing and processing of financial derivatives.</td>
   </tr>
 </table>
 
