@@ -1653,7 +1653,7 @@ body::-webkit-scrollbar-thumb:hover {
 
 /* FOOTER STYLES */
 
-.
+.footerclass a {
 	transition: all 0.3s linear;
 }
 
@@ -1662,6 +1662,11 @@ body::-webkit-scrollbar-thumb:hover {
 	font: bolder;
 	text-decoration: underline;
 }
+
+.footerclass .grid {
+	margin-bottom: 1rem; /* Adding this for space between the content and the copyright part*/
+  }
+
 
 body {
   min-height: 100vh;
@@ -1676,6 +1681,31 @@ body {
 footer {
   margin-top: auto;
 }
+
+/* Footer Responsive Styles */
+@media (max-width: 639px) {
+	.footerclass .grid {
+	  grid-template-columns: repeat(3, 1fr);
+	}
+  }
+  
+  @media (min-width: 640px) and (max-width: 767px) {
+	.footerclass .grid {
+	  grid-template-columns: repeat(3, 1fr);
+	}
+  }
+  
+  @media (min-width: 768px) and (max-width: 1023px) {
+	.footerclass .grid {
+	  grid-template-columns: repeat(3, 1fr);
+	}
+  }
+  
+  @media (min-width: 1024px) {
+	.footerclass .grid {
+	  grid-template-columns: repeat(3, 1fr);
+	}
+  }
 
 /* CONTENT DISPLAY PAGE STYLES */
 
