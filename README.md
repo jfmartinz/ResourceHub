@@ -67,6 +67,7 @@ Here is a list of the currently available categories of the project:<br>
 - [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
 - [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
 - [Data Structures and Algorithms](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Structures%20and%20Algorithm%20(DSA))
+- [Operating System (OS)](https://github.com/jfmartinz/ResourceHub/tree/main/Operating%20System%20(OS))
 - [Linux Development](https://github.com/jfmartinz/ResourceHub/tree/main/Linux%20Development)
 
 
