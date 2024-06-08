@@ -12,7 +12,7 @@ These resources are designed for beginners and professionals.Each of these secti
 - [Tutorials](#tutorials)
    - [Introduction](#introduction)
    - 
-
+- [Tools](#tools)
 - [Conclusion](#conclusion)
 
 
@@ -38,7 +38,6 @@ These resources are designed for beginners and professionals.Each of these secti
 ### Tutorials
 >
 
-### Introduction
 ### Introduction
 
 <table>
@@ -109,6 +108,77 @@ These resources are designed for beginners and professionals.Each of these secti
   <tr>
     <td><a href="https://www.javatpoint.com/xml-tree-structure">XML Tree</a></td>
     <td>Introduction to the XML tree structure and its components.</td>
+  </tr>
+</table>
+
+
+### Tools
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.oxygenxml.com/">Oxygen XML Editor</a></td>
+    <td>A powerful XML editor that supports XML development, XSLT and XQuery debugging, and integration with other XML tools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.altova.com/xmlspy-xml-editor">Altova XMLSpy</a></td>
+    <td>An XML editor and development environment that offers XML validation, XSLT transformation, and database integration.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.xmlmind.com/xmleditor/">XMLmind XML Editor</a></td>
+    <td>A lightweight yet powerful XML editor with features such as syntax highlighting, validation, and XSLT transformation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a></td>
+    <td>An integrated development environment (IDE) with XML support, including XML editing, validation, and navigation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sublimetext.com/">Sublime Text</a></td>
+    <td>A versatile text editor with XML syntax highlighting and support for XML manipulation through plugins.</td>
+  </tr>
+  <tr>
+    <td><a href="https://xml-copy-editor.sourceforge.io/">XML Copy Editor</a></td>
+    <td>A lightweight XML editor for Linux, Windows, and macOS with features such as syntax highlighting and XPath evaluation.</td>
+  </tr>
+    <tr>
+    <td><a href="http://www.xerlin.org/">Xerlin</a></td>
+    <td>An open-source XML editor for designing, editing, and viewing XML documents, supporting schema and DTD-based validation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://sourceforge.net/projects/camprocessor/">CAM XML Editor</a></td>
+    <td>A robust XML editor that supports context-aware editing and validation, along with a suite of tools for creating and managing XML content.</td>
+  </tr>
+  <tr>
+    <td><a href="https://jsonformatter.org/xml-editor">Online XML Editor</a></td>
+    <td>An online tool for editing and formatting XML documents, providing features like syntax highlighting and validation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://codebeautify.org/xml-parser-online">XML Parser</a></td>
+    <td>An online XML parser that helps in parsing and validating XML documents, making it easy to analyze and troubleshoot XML code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/previous-versions/troubleshoot/msxml/list-of-xml-parser-versions">MSXML (Microsoft Core XML Services)</a></td>
+    <td>Microsoft's XML parser providing comprehensive XML support, including DOM, SAX, and XSLT processing capabilities.</td>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/api/system.xml.xmldocument?view=net-8.0">System.Xml.XmlDocument</a></td>
+    <td>.NET's built-in class for handling XML documents, offering robust methods for creating, manipulating, and validating XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.oracle.com/cd/B14099_19/web.1012/b14033/adx03paj.htm">Java Built-in Parser</a></td>
+    <td>Java's native API for parsing XML, providing comprehensive support for DOM and SAX parsing methods.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.saxonica.com/html/documentation12/about/whatis.html">Saxon</a></td>
+    <td>A powerful XSLT and XQuery processor for XML, supporting advanced features for transforming and querying XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://xerces.apache.org/xerces-c/">Xerces</a></td>
+    <td>An Apache project providing a high-performance, fully compliant XML parser, supporting a wide range of XML standards.</td>
   </tr>
 </table>
 
