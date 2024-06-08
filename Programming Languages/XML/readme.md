@@ -184,7 +184,6 @@ These resources are designed for beginners and professionals.Each of these secti
 </table>
 
 
-
 ### XML in Programming Languages
 
 <table>
@@ -211,6 +210,34 @@ These resources are designed for beginners and professionals.Each of these secti
   <tr>
     <td><a href="https://www.geeksforgeeks.org/how-to-display-xml-data-in-web-page-using-php/">XML in PHP</a></td>
     <td>Explanation of how to display XML data in a web page using PHP, including parsing and manipulating XML with PHP's built-in functions.</td>
+  </tr>
+</table>
+
+
+
+### XML Security
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://docs.oracle.com/cd/E23943_01/security.1111/e10037/xmlsecurity.htm">XML Security</a></td>
+    <td>Comprehensive guide by Oracle on XML security, covering XML encryption, signatures, and other security mechanisms for protecting XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3.org/2007/xmlsec/ws/papers/09-lockhart-bea/">XML Security Issues and Requirements</a></td>
+    <td>W3C document discussing various XML security issues and requirements, focusing on potential vulnerabilities and mitigation strategies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ibm.com/docs/en/b2badv-communication/1.0.1?topic=overview-xml-encryption-security">XML Encryption</a></td>
+    <td>IBM's documentation on XML encryption, explaining how to secure XML data through encryption techniques to ensure confidentiality and integrity.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3.org/Signature/Drafts/WD-xmldsig-core-200005plc/Overview.html">XML Signature</a></td>
+    <td>W3C's draft specification on XML Signature, providing details on how to create and validate digital signatures for XML documents.</td>
   </tr>
 </table>
 
