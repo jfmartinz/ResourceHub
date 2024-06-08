@@ -15,6 +15,7 @@ This section serves as a curated collection of valuable resources for learning a
 - [Youtube Channels](#youtube-channels)
 - [Coding Platforms](#coding-platforms)
 - [Practice Sheets](#sheets)
+- [Algorithms by Languages](#algorithms-by-languages)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -216,6 +217,55 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td><a href="https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0">Apna College DSA Sheet </a></td>
 <td> This DSA sheet by Apna College is a valuable resource for Data Structures & Algorithms with around 400 problems topic-wise and the companies that have asked the problem. </td>
 </tr>
+</table>
+
+### Algorithms by Languages
+
+<table width="100%" id="algorithms-by-languages">
+<tr>
+<th>JavaScript</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=P6XGSKO2RzI&t=519s">Quick Sort</a></td>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=x_Z9FcAPmbk&t=1s">Merge Sort</a></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=75jGy1xAhhs&t=2s">Binary Search</a></td>
+</tr>
+<tr>
+<th>Java</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=h8eyY7dIiN4&t=2s">Quick Sort</a></td>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=bOk35XmHPKs&t=1s">Merge Sort</a></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=NFhOrxtXXcM&t=1s">Binary Search</a></td>
+</tr>
+<tr>
+<th>Python</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=kFeXwkgnQ9U&t=1s">Quick Sort</a></td>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=cVZMah9kEjI&t=1s">Merge Sort</a></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=cVZMah9kEjI&t=1s">Binary Search</a></td>
+</tr>
+
+
 </table>
 
 ###  Conclusion
