@@ -17,7 +17,7 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
 - [MATLAB for Data Analysis](#matlab-for-data-analysis)
 - [MATLAB for Hardware Integration](#matlab-for-hardware-integration)
-- [Online Courses](#online-courses)
+- [Courses](#courses)
 - [Communities](#communities)
 - [Books](#books)
 - [Websites](#websites)
@@ -487,7 +487,7 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 </table>
 
 
-### Online Courses
+### Courses
 > Learn MATLAB through structured online courses.
 
 <table>
