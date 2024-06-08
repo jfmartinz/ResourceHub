@@ -15,9 +15,14 @@ This section serves as a curated collection of valuable resources for learning a
 - [Youtube Channels](#youtube-channels)
 - [Coding Platforms](#coding-platforms)
 - [Practice Sheets](#sheets)
+- [DSA implementation](#dsa-implementation-of-several-programming-languages)
+   -[C++](#c)
+   -[Java](#java)
+   -[Python](#python)
+   -[Javascript](#javascript)
 - [Conclusion](#conclusion)
 
-### Roadmap
+## Roadmap
 
 > A comprehensive guide to help you navigate your journey to learning and mastering Data Structures and Algorithms(DSA)
 
@@ -37,7 +42,7 @@ Let's make coding fun and exciting! 🚀.</td>
   </tr>
 </table>
 
-### Types of Data Structures
+## Types of Data Structures
 
 > Here comes the most crucial and the most awaited stage of the roadmap for learning data structure and algorithm – the stage where you start learning about DSA.
 
@@ -76,7 +81,7 @@ Let's make coding fun and exciting! 🚀.</td>
   </tr>
   </table>
 
-### Tutorials or Courses
+## Tutorials or Courses
 
 > Here are the tutorial guides which can help you to develop and enhance your Data Structures skills and Algorithm application
 
@@ -104,7 +109,7 @@ Let's make coding fun and exciting! 🚀.</td>
 </tr>
 </table>
 
-### Interview Questions
+## Interview Questions
 
 <table width="100%" id="interview-questions">
   <tr>
@@ -124,7 +129,7 @@ Let's make coding fun and exciting! 🚀.</td>
   </tr>
   </table>
 
-### YouTube Channels
+## YouTube Channels
 
 <table width="100%" id="youtube-channels">
   <tr>
@@ -156,7 +161,7 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 </table>
 
-### Coding Platforms
+## Coding Platforms
 
 <table width="100%" id="coding-platforms">
 <tr>
@@ -189,7 +194,7 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 </table>
 
-### Practice Sheet
+## Practice Sheet
 
 <table width="100%" id="sheets">
 <tr>
@@ -218,7 +223,72 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 </table>
 
-###  Conclusion
+## DSA implementation of several Programming languages
+
+### C++
+
+| Category                     | Resource Link                                                                                      | Additional Reading                                                                      |
+|------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Roadmap**                  | [C++ DSA Roadmap](https://www.geeksforgeeks.org/c-plus-plus/)                                      |                                                                                         |
+| **Array**                    | [C++ Array Implementation](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/arrays.md) | [C++ Array Operations](https://www.geeksforgeeks.org/arrays-in-c-cpp/)                  |
+| **String**                   | [C++ String Implementation](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/strings.md) | [C++ String Manipulations](https://www.geeksforgeeks.org/c-strings/)                    |
+| **Linked List**              | [C++ Linked List Implementation](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/linked_list.md) | [C++ Linked List Operations](https://www.geeksforgeeks.org/linked-list-set-1-introduction/) |
+| **Tree**                     | [C++ Tree Implementation](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/trees/tree.md) | [C++ Tree Traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/) |
+| **Graph**                    | [C++ Graph Implementation](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/graphs/graph.md) | [C++ Graph Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/) |
+| **Sorting Algorithms**       | [C++ Sorting Algorithms](https://github.com/TheAlgorithms/C-Plus-Plus/tree/master/sorting)         |                                                                                         |
+| **Search Algorithms**        | [C++ Search Algorithms](https://github.com/TheAlgorithms/C-Plus-Plus/tree/master/searching)        |                                                                                         |
+| **GitHub Repository**        | [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus)                              |                                                                                         |
+
+---
+
+### Java
+
+| Category                     | Resource Link                                                                                      | Additional Reading                                                                      |
+|------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Roadmap**                  | [Java DSA Roadmap](https://www.geeksforgeeks.org/learning-data-structures-and-algorithms-dsa-tutorials/) |                                                                                         |
+| **Array**                    | [Java Array Implementation](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Arrays/Array.java) | [Java Array Operations](https://www.geeksforgeeks.org/array-data-structure/)            |
+| **String**                   | [Java String Implementation](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Strings/String.java) | [Java String Manipulations](https://www.geeksforgeeks.org/string-data-structure/)       |
+| **Linked List**              | [Java Linked List Implementation](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/LinkedList/LinkedList.java) | [Java Linked List Operations](https://www.geeksforgeeks.org/linked-list-data-structure/) |
+| **Tree**                     | [Java Tree Implementation](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Trees/Tree.java) | [Java Tree Traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/) |
+| **Graph**                    | [Java Graph Implementation](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/Graph.java) | [Java Graph Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/) |
+| **Sorting Algorithms**       | [Java Sorting Algorithms](https://github.com/TheAlgorithms/Java/tree/master/Sorts)                 |                                                                                         |
+| **Search Algorithms**        | [Java Search Algorithms](https://github.com/TheAlgorithms/Java/tree/master/Searches)               |                                                                                         |
+| **GitHub Repository**        | [The Algorithms - Java](https://github.com/TheAlgorithms/Java)                                    |                                                                                         |
+
+---
+
+### Python
+
+| Category                     | Resource Link                                                                                      | Additional Reading                                                                      |
+|------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Roadmap**                  | [Python DSA Roadmap](https://www.geeksforgeeks.org/python-programming-language/)                  |                                                                                         |
+| **Array**                    | [Python Array Implementation](https://github.com/TheAlgorithms/Python/blob/master/DataStructures/Arrays/array.py) | [Python Array Operations](https://www.geeksforgeeks.org/python-arrays/)                 |
+| **String**                   | [Python String Implementation](https://github.com/TheAlgorithms/Python/blob/master/DataStructures/Strings/string.py) | [Python String Manipulations](https://www.geeksforgeeks.org/python-strings/)            |
+| **Linked List**              | [Python Linked List Implementation](https://github.com/TheAlgorithms/Python/blob/master/DataStructures/LinkedLists/linked_list.py) | [Python Linked List Operations](https://www.geeksforgeeks.org/linked-list-in-python/)   |
+| **Tree**                     | [Python Tree Implementation](https://github.com/TheAlgorithms/Python/blob/master/DataStructures/Trees/tree.py) | [Python Tree Traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/) |
+| **Graph**                    | [Python Graph Implementation](https://github.com/TheAlgorithms/Python/blob/master/DataStructures/Graphs/graph.py) | [Python Graph Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/) |
+| **Sorting Algorithms**       | [Python Sorting Algorithms](https://github.com/TheAlgorithms/Python/tree/master/Sorts)             |                                                                                         |
+| **Search Algorithms**        | [Python Search Algorithms](https://github.com/TheAlgorithms/Python/tree/master/Searches)           |                                                                                         |
+| **GitHub Repository**        | [The Algorithms - Python](https://github.com/TheAlgorithms/Python)                                |                                                                                         |
+
+---
+
+### JavaScript
+
+| Category                     | Resource Link                                                                                      | Additional Reading                                                                      |
+|------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Roadmap**                  | [JavaScript DSA Roadmap](https://www.geeksforgeeks.org/javascript-data-structures-and-algorithms/) |                                                                                         |
+| **Array**                    | [JavaScript Array Implementation](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Arrays/array.js) | [JavaScript Array Operations](https://www.geeksforgeeks.org/arrays-in-javascript/)      |
+| **String**                   | [JavaScript String Implementation](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Strings/string.js) | [JavaScript String Manipulations](https://www.geeksforgeeks.org/strings-in-javascript/) |
+| **Linked List**              | [JavaScript Linked List Implementation](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/LinkedList/linkedList.js) | [JavaScript Linked List Operations](https://www.geeksforgeeks.org/implementation-linkedlist-javascript/) |
+| **Tree**                     | [JavaScript Tree Implementation](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Trees/tree.js) | [JavaScript Tree Traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/) |
+| **Graph**                    | [JavaScript Graph Implementation](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graphs/graph.js) | [JavaScript Graph Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/) |
+| **Sorting Algorithms**       | [JavaScript Sorting Algorithms](https://github.com/TheAlgorithms/Javascript/tree/master/Sorting)   |                                                                                         |
+| **Search Algorithms**        | [JavaScript Search Algorithms](https://github.com/TheAlgorithms/Javascript/tree/master/Searches)   |                                                                                         |
+| **GitHub Repository**        | [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)                        |                                                                                         |
+
+
+##  Conclusion
 
  It is relatively easy to learn new programming languages while using them in projects. However, it is not the case with DSA as it needs extensive practice and holds utmost importance. If you are not well versed with DSA, you will find it challenging to optimize the code solution for a problem.
 
