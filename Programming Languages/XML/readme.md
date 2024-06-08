@@ -9,15 +9,23 @@ These resources are designed for beginners and professionals.Each of these secti
 ## Table of Contents
 
 - [Roadmap](#roadmap)
+  - [XML Roadmap I](#roadmap)
+  - [XML Roadmap II](#roadmap)
 - [Tutorials](#tutorials)
    - [Introduction](#introduction)
-   - 
+   - [XML Validation](#xml-validation)
+   - [XML Advance](#xml-advance)
+   - [XML DOM](#xml-dom)
+   - [XML XPath](#xml-xpath)
+   - [XML XSLT](#xml-xslt)
+   - [XML XQuery](#xml-xquery)
 - [Tools](#tools)
 - [XML in Programming Languages](#xml-in-programming-languages)
 - [XML Security](#xml-security)
 - [Practical XML Applications](#practical-xml-applications)
 - [Books](#books)
 - [Courses](#courses)
+- [Online Platforms](#online-platforms)
 - [Conclusion](#conclusion)
 
 
@@ -115,6 +123,41 @@ These resources are designed for beginners and professionals.Each of these secti
     <td>Introduction to the XML tree structure and its components.</td>
   </tr>
 </table>
+
+
+### XML Validation
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/xml-validation">XML Validation</a></td>
+    <td>An explanation of XML validation and how to validate XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/xml-dtd">XML DTD</a></td>
+    <td>Overview and usage of Document Type Definition (DTD) in XML.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/xml-css">XML CSS</a></td>
+    <td>Introduction to using Cascading Style Sheets (CSS) with XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/xml-schema">XML Schema</a></td>
+    <td>Explanation of XML Schema and its role in defining the structure of XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/dtd-vs-xsd">DTD vs XSD</a></td>
+    <td>Comparison between Document Type Definition (DTD) and XML Schema (XSD) in XML validation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/cdata-pcdata">CDATA vs PCDATA</a></td>
+    <td>Difference between CDATA and PCDATA sections in XML documents.</td>
+  </tr>
+</table>
+
 
 
 ### Tools
@@ -396,6 +439,37 @@ These resources are designed for beginners and professionals.Each of these secti
   </tr>
 </table>
 
+
+
+### Online Platforms
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-javascript">HackerRank</a></td>
+    <td>HackerRank offers XML practice exercises as part of their "10 Days of XML" tutorial series. You can solve XML-related problems and challenges to improve your XML skills.</td>
+  </tr>
+  <tr>
+    <td><a href="https://leetcode.com/problemset/database/">LeetCode</a></td>
+    <td>LeetCode provides a database section where you can find XML-related problems to solve. It's a great platform to practice XML queries and problem-solving skills.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/paths/web-development">Codecademy</a></td>
+    <td>Codecademy offers interactive coding exercises and projects as part of their web development learning path. You can practice XML alongside HTML, CSS, JavaScript, and other web technologies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xml_exercises.asp">W3Schools</a></td>
+    <td>W3Schools provides XML exercises and quizzes to test your XML knowledge. You can practice XML syntax, XPath, XSLT, and other XML-related topics on this platform.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.xmltutor.co.uk/">XML Tutor</a></td>
+    <td>XML Tutor offers a variety of XML exercises and tutorials to help you learn and practice XML concepts. You can explore different XML topics and solve exercises to reinforce your understanding.</td>
+  </tr>
+</table>
 
 
 ## Conclusion
