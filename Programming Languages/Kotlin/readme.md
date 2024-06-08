@@ -8,24 +8,24 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
-   - [Introduction to Kotlin](#introduction-to-kotlin)
+- [Kotlin](#kotlin)
+   - [Introduction](#introduction)
    - [Fundamentals](#fundamentals)
-   - [Functions in Kotlin](#functions-in-kotlin)
-   - [Kotlin Collections](#kotlin-collections)
-   - [Object-Oriented Programming (OOP) in Kotlin](#object-oriented-programming-oop-in-kotlin)
+   - [Functions](#functions)
+   - [Collections](#collections)
+   - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
    - [Null Safety](#null-safety)
    - [Regex & Ranges](#regex--ranges)
-- [Data Structures in Kotlin](#data-structures-in-kotlin)
-- [Kotlin for Android Development](#kotlin-for-android-development)
+- [Data Structures](#data-structures)
+- [Android Development](#android-development)
 - [Architecture](#architecture)
 - [Jetpack Components](#jetpack-components)
-- [Kotlin Coroutines ](#kotlin-coroutines)
+- [Kotlin Coroutines](#kotlin-coroutines)
 - [Kotlin Flow API](#kotlin-flow-api)
 - [Kotlin In Other Domains](#kotlin-in-other-domains)
 - [Testing in Kotlin](#testing-in-kotlin)
 - [Security](#security)
-- [Projects in Kotlin](#projects-in-kotlin)
+- [Projects](#projects)
 - [YouTube](#youtube)
 - [Official Documentations](#official-documentations)
 - [Books](#books)
@@ -53,10 +53,10 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
 </table>
 
 
-### Tutorials
+### Kotlin
 > Lets get started with Kotlin using following resources which will guide you through various aspects of Kotlin, from the basics to advanced topics
 
-### Introduction to Kotlin
+#### Introduction
 
 <table>
     <tr>
@@ -85,7 +85,7 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
     </tr>
 </table>
 
-### Fundamentals
+#### Fundamentals
 
 <table>
     <tr>
@@ -146,7 +146,7 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
     </tr>
 </table>
 
-### Functions in Kotlin
+#### Functions
 <table>
     <tr>
         <th>Resource Name</th>
@@ -174,7 +174,7 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
     </tr>
 </table> 
 
-### Kotlin Collections
+#### Collections
 
 <table>
     <tr>
@@ -204,7 +204,7 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
 </table>
 
 
-### Object-Oriented Programming (OOP) in Kotlin
+#### Object-Oriented Programming (OOP)
 
 <table>
     <tr>
@@ -286,7 +286,7 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
 </table>
 
 
-### Null Safety
+#### Null Safety
 
 <table>
     <tr>
@@ -307,7 +307,7 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
     </tr>
 </table>
 
-### Regex & Ranges
+#### Regex & Ranges
 <table>
     <tr>
         <th>Resource Name</th>
@@ -323,7 +323,7 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
     </tr>
 </table>
 
-### Data Structures in Kotlin
+### Data Structures
 > Covers common data structures such as arrays, linked lists, hash tables, stacks, queues, trees, and graphs, along with their implementation and usage in Kotlin.
 
 <table>
@@ -361,7 +361,7 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
     </tr>
 </table>
 
-### Kotlin for Android Development
+### Android Development
 > Provides resources and tutorials for using Kotlin in Android app development, including setup, best practices, Jetpack components, coroutines, and more.
 
 <table>
@@ -621,7 +621,7 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
   </tr>
 </table>
 
-### Projects in Kotlin
+### Projects
 > Here are the list of projects ideas from beginner level to advance level
 
 <table>

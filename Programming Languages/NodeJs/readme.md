@@ -57,6 +57,7 @@ These resources are designed to help you build a strong foundation in Node.js an
 - [Additional Resources](#additional-resources)
    - [Communities](#communities)
    - [Books](#books)
+   - [Cheathseets](#cheatsheets)
 - [Conclusion](#conclusion)
 
 
@@ -1143,6 +1144,39 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
    <td><a href="https://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617292575">Node.js in Action</a></td>
    <td>This book offers practical insights into building scalable and high-performance web applications with Node.js. It covers topics like server-side JavaScript, asynchronous programming, Express.js, and real-time communication.</td>
  </tr>
+</table>
+
+### Cheatsheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-node-js/modules/intro-to-node-js/cheatsheet">Introduction to Node.js Cheatsheet</a></td>
+    <td>A cheatsheet providing an introduction to Node.js.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/node-js-cheat-sheet/">Node JS Cheat Sheet + PDF</a></td>
+    <td>A Node.js cheat sheet with a downloadable PDF version.</td>
+  </tr>
+  <tr>
+    <td><a href="https://overapi.com/nodejs">NodeJS Cheat Sheet</a></td>
+    <td>A comprehensive Node.js cheat sheet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/dipakahirav/the-ultimate-nodejs-cheat-sheet-for-developers-3pgf">The Ultimate Node.js Cheat Sheet for Developers</a></td>
+    <td>An ultimate cheat sheet for Node.js developers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javacodegeeks.com/node-js-cheatsheet.html">Node.js Cheatsheet</a></td>
+    <td>A cheatsheet providing essential information about Node.js.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/pulse/nodejs-cheat-sheet-jomas-daconceicao">Node.js Cheat Sheet</a></td>
+    <td>A Node.js cheat sheet provided on LinkedIn.</td>
+  </tr>
 </table>
 
 ## Conclusion

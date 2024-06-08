@@ -163,6 +163,11 @@ Linux development refers to creating software for the Linux operating system, en
     <td>Platform offering a wide range of Linux and cloud training courses, including hands-on labs and certification preparation.</td>
     <td>Paid</td>
   </tr>
+  <tr>
+    <td><a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched">NDG Linux Unhatched</a></td>
+    <td>Learn basic installation and configuration of Linux software and get introduced to the Linux command line.</td>
+    <td>Free</td>
+  </tr>
 </table>
 
 ### Books
