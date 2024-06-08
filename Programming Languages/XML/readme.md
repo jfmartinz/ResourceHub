@@ -254,6 +254,126 @@ These resources are designed for beginners and professionals.Each of these secti
 </table>
 
 
+### XML XPath
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xpath_intro.asp">XPath Introduction</a></td>
+    <td>An introduction to XPath, explaining its purpose and basic concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xpath_nodes.asp">XPath Nodes</a></td>
+    <td>Information about XPath nodes and node types used in XPath expressions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xpath_syntax.asp">XPath Syntax</a></td>
+    <td>Explanation of XPath syntax for selecting elements and attributes in XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xpath_axes.asp">XPath Axes</a></td>
+    <td>Overview of XPath axes for navigating through the hierarchical structure of XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xpath_operators.asp">XPath Operators</a></td>
+    <td>Explanation of XPath operators used for comparing values and filtering nodes in XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xpath_examples.asp">XPath Examples</a></td>
+    <td>Examples demonstrating the usage of XPath expressions to select specific elements or attributes in XML documents.</td>
+  </tr>
+</table>
+
+
+### XML XSLT
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xsl_intro.asp">XSLT Introduction</a></td>
+    <td>An introduction to XSLT (Extensible Stylesheet Language Transformations) and its role in XML document processing.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xsl_languages.asp">XSL Languages</a></td>
+    <td>Overview of different XSL languages such as XSLT, XPath, and XSL-FO, used for styling and transforming XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xsl_transformation.asp">XSLT Transform</a></td>
+    <td>Explanation of XSLT transformation process for converting XML documents into other formats or structures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xsl_apply_templates.asp">XSLT Apply</a></td>
+    <td>Usage of XSLT apply-templates instruction for applying templates to specific nodes in XML documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xsl_client.asp">XSLT on the Client</a></td>
+    <td>Overview of client-side XSLT processing and its benefits in web development.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xsl_server.asp">XSLT on the Server</a></td>
+    <td>Explanation of server-side XSLT processing and its applications in generating dynamic web content.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xsl_editxml.asp">XSLT Edit XML</a></td>
+    <td>Guide on editing XML documents using XSLT to modify their structure or content.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xsl_examples.asp">XSLT Examples</a></td>
+    <td>Collection of examples demonstrating various XSLT transformations and techniques.</td>
+  </tr>
+</table>
+
+### XML XQuery
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xquery_intro.asp">XQuery Introduction</a></td>
+    <td>An introduction to XQuery, a query and functional programming language designed for querying and transforming XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xquery_example.asp">XQuery Example</a></td>
+    <td>An example illustrating the usage of XQuery to retrieve and manipulate XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xquery_flwor.asp">XQuery FLWOR</a></td>
+    <td>Explanation of FLWOR (For, Let, Where, Order by, Return) expression used in XQuery for data retrieval and manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xquery_flwor_html.asp">XQuery HTML</a></td>
+    <td>Usage of XQuery FLWOR expression to generate HTML output from XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xquery_terms.asp">XQuery Terms</a></td>
+    <td>Glossary of terms commonly used in XQuery syntax and expressions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xquery_syntax.asp">XQuery Syntax</a></td>
+    <td>Overview of XQuery syntax and its components for querying and transforming XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xquery_add.asp">XQuery Add</a></td>
+    <td>Guide on adding elements and attributes to XML data using XQuery.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xquery_select.asp">XQuery Select</a></td>
+    <td>Explanation of XQuery select statement for selecting nodes and values from XML data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/xml/xquery_functions.asp">XQuery Functions</a></td>
+    <td>Overview of built-in functions provided by XQuery for performing various operations on XML data.</td>
+  </tr>
+</table>
+
 
 ### Tools
 >
