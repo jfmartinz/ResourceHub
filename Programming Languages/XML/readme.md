@@ -16,6 +16,8 @@ These resources are designed for beginners and professionals.Each of these secti
 - [XML in Programming Languages](#xml-in-programming-languages)
 - [XML Security](#xml-security)
 - [Practical XML Applications](#practical-xml-applications)
+- [Books](#books)
+- 
 - [Conclusion](#conclusion)
 
 
@@ -288,6 +290,50 @@ These resources are designed for beginners and professionals.Each of these secti
   <tr>
     <td><a href="https://www.fpml.org/">FPML for Finance</a></td>
     <td>Provides information about FPML, an XML-based standard for electronic dealing and processing of financial derivatives.</td>
+  </tr>
+</table>
+
+
+
+### Books
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/xml-in-a/0596007647/">XML in a Nutshell</a></td>
+    <td>A comprehensive overview of XML, covering its syntax, structure, processing, and applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.wrox.com/en-us/Beginning-XML-4th-Edition-9781118162132">Beginning XML</a></td>
+    <td>A beginner-friendly guide to XML, covering basics, document structure, validation, transformation, and practical usage scenarios.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/learning-xml/0596004206/">Learning XML</a></td>
+    <td>A hands-on approach to learning XML, with clear explanations, examples, and exercises.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.apress.com/gp/book/9781484242167">XML and JSON Recipes for SQL Server</a></td>
+    <td>Practical solutions for XML and JSON integration with SQL Server, with code examples and instructions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/xml-hacks/0596007116/">XML Hacks: 100 Industrial-Strength Tips and Tools</a></td>
+    <td>Practical techniques and shortcuts for working with XML effectively, covering parsing, validation, transformation, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/xml-pocket-reference/0596004214/">XML Pocket Reference</a></td>
+    <td>A handy reference guide providing quick access to essential XML syntax, vocabulary, and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/xml-schema-the/0596002521/">XML Schema: The W3C's Object-Oriented Descriptions for XML</a></td>
+    <td>An exploration of XML Schema, covering features, syntax, and usage for defining XML document structures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/xml-schema-definition/9780132885427/">XML Schema Definition (XSD)</a></td>
+    <td>Detailed explanations, examples, and best practices for creating and working with XML schemas, focusing on XSD.</td>
   </tr>
 </table>
 
