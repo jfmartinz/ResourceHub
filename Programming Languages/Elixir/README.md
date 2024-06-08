@@ -19,8 +19,6 @@ Elixir is a dynamic, functional programming language designed for building scala
 - [Tools](#tools)<br>
 - [Projects](#projects)<br> 
 - [Courses](#courses)
-   - [Free Courses](#free-courses)
-   - [Paid Courses](#paid-courses)
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -293,6 +291,25 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   <tr>
     <td><a href="https://www.youtube.com/watch?v=hrpulBR5PFg">Lights out game</a></td>
     <td>This a tutorial on creating a simple game called lights out using the elixir language</td>
+  </tr>
+
+</table>
+
+## Courses
+Here are courses you may consider:
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://elixirschool.com/en">Elixir School</a></td>
+    <td>Free, open-source resource for learning the Elixir programming language </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/elixir-programming-language-tutorial/">Elixir course Udemy</a></td>
+    <td>This course is a slightly advanced course that covers pattern matching, functions, anonymous functions, operators, immutability, and Erlang interoperability</td>
   </tr>
 
 </table>
