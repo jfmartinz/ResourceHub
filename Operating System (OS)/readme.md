@@ -473,6 +473,14 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
     <td><a href="https://www.coursera.org/learn/os-pku">Coursera: Introduction to Operating Systems</a></td>
     <td>A free course on Coursera providing an introduction to operating system concepts and design.</td>
   </tr>
+  <tr>
+  <td><a href="https://www.scaler.com/topics/course/free-operating-system-course/">Learn Fundamentals of Operating System by Scaler</a></td>
+  <td>Scaler's free Operating System Course offers a comprehensive overview of operating systems, providing you with a deep understanding of their structure, functionalities, and importance in operating systems.</td>
+  </tr>
+  <tr>
+  <td><a href="https://youtu.be/xw_OuOhjauw?si=1cdvnVYwOxg5UuA4">Complete Operating System in one shot by KnowledgeGATE</a></td>
+  <td>A complete Operating System(OS) course by KnowledgeGATE, taught by Sanchit Jain sir, one of India's top faculties in Computer Science</td>
+  </tr>
 </table>
 
 #### Paid Courses
@@ -565,6 +573,10 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
     <td><a href="https://www.youtube.com/c/ChrisTitusTech">Chris Titus Tech</a></td>
     <td>Chris Titus Tech focuses on Linux tutorials, including installation, configuration, and optimization, as well as Linux for gaming and professional use.</td>
   </tr>
+  <tr>
+  <td><a href="https://youtube.com/@gatesmashers?si=g50NzXOh8GDPcBjf">Gate Smashers</a></td>
+  <td>Gate Smashers is India's no 1 Free education platform for those aspirants who want to just smash the entrance exam like GATE,UGC NET,KVS,NVS,HTET,CTET etc in Computer Science but they are lagging behind due to lack of proper guidance.</td>
+  </tr>
 </table>
 
 #### YouTube Playlists
@@ -581,6 +593,14 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
   <tr>
     <td><a href="https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMK6f7RX0xhEki0a8XjyI7">Linux Kernel Development Playlist</a></td>
     <td>A YouTube playlist focused on Linux kernel development, including tutorials on various aspects of kernel programming.</td>
+  </tr>
+  <tr>
+  <td><a href="https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG&si=H6hmPMjiywM-rgLf">Operating Systems for Placements</a></td>
+  <td>Complete in-depth comprehensive knowledge of Operating System.Course fully focused on Cracking the Technical Interviews of Product based companies.</td>
+  </tr>
+  <tr>
+  <td><a href="https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=6jDNzr4jgCo0p2rN">Opearating System by Neso Academy</a></td>
+  <td>This field is undergoing rapid change, as computers are now prevalent in virtually every application. Yet the fundamental concepts remain fairly clear and that is what will be taught in this course.</td>
   </tr>
 </table>
 
