@@ -185,7 +185,11 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 <tr>
 <td><a href="https://www.interviewbit.com/practice/"> Interviewbit </a></td>
-<td> Interviewbit is a platform, providing preparation for technical interviews, coding interviews. Has a vast list of coding questions from all topics along with their company tags </td>
+<td> Interviewbit is a platform, providing preparation for technical interviews, coding interviews. Has a vast list of coding questions from all topics along with their company tags.</td>
+</tr>
+<tr>
+<td><a href="https://www.geeksforgeeks.org/">GeeksforGeeks </a></td>
+<td> GeeksforGeeks has a dedicated practicing platform where people can go and practice problems by sorting them by Company Name and difficulty.</td>
 </tr>
 </table>
 
