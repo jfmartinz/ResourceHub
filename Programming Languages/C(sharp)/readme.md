@@ -13,7 +13,7 @@ C# through tutorials, tools, frameworks, and advanced topics.
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [C#](#c-sharp)
    - [Introduction](#introduction)
    - [Fundamentals](#fundamentals)
    - [Data Manipulation](#data-manipulation)
@@ -45,11 +45,12 @@ C# through tutorials, tools, frameworks, and advanced topics.
    - [YouTube Channels to Learn C#](#youtube-channels-to-learn-c-sharp)
    - [YouTube Playlists for Learning C#](#youtube-playlists-for-learning-c-sharp)
 - [Courses](#courses)
-   - [Free Certification Courses](#free-certification-courses)
-   - [Paid Certification Courses](#paid-certification-courses)
+   - [Free Courses](#free-courses)
+   - [Paid Courses](#paid-courses)
 - [Additional Resources](#additional-resources)
-   - [C# Communities](#c-sharp-communities)
-   - [C# Books](#c-sharp-books)
+   - [Communities](#communities)
+   - [Books](#books)
+   - [C# Cheatsheets](#c-cheatsheets)
 - [Conclusion](#conclusion)
 
 
@@ -69,7 +70,7 @@ C# through tutorials, tools, frameworks, and advanced topics.
  </tr>
 </table>
 
-### Tutorials
+### C sharp
 
 > Offers step-by-step guides and tutorials covering various aspects of C# programming.
 Helps beginners understand fundamental concepts and advanced users explore new techniques.
@@ -811,7 +812,7 @@ Includes tutorials, walkthroughs, and tips from experienced developers and educa
 > Provides information about free and paid certification courses for learning C#.
 Highlights reputable online platforms offering structured courses and certifications.
 
-#### Free Certification Courses
+#### Free Courses
 
 <table width="100%">
  <tr>
@@ -837,7 +838,7 @@ Highlights reputable online platforms offering structured courses and certificat
 </table>
 
 
-#### Paid Certification Courses
+#### Paid Courses
 
 <table width="100%">
  <tr>
@@ -871,7 +872,7 @@ Highlights reputable online platforms offering structured courses and certificat
 > Offers supplementary resources for furthering one's understanding of C# programming.
 Includes communities, forums, books, and other resources recommended by experienced developers.
 
-#### C Sharp Communities
+#### Communities
 
 <table width="100%">
  <tr>
@@ -892,7 +893,7 @@ Includes communities, forums, books, and other resources recommended by experien
  </tr>
 </table>
 
-#### C Sharp Books
+#### Books
 
 <table width="100%">
  <tr>
@@ -919,6 +920,48 @@ Includes communities, forums, books, and other resources recommended by experien
    <td><a href="https://www.amazon.com/Effective-Covers-C-50-Specific-Ways/dp/0321658701">Effective C#: 50 Specific Ways to Improve Your C#</a></td>
    <td>Effective C# provides practical advice and best practices for writing clean, efficient, and maintainable C# code. It covers a wide range of topics, including performance optimization, error handling, LINQ usage, and more.</td>
  </tr>
+</table>
+
+#### C# Cheatsheets
+
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/cs.html">C# Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for C# programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/csharp-cheat-sheet/">C# Cheat Sheet + PDF</a></td>
+    <td>A comprehensive C# cheat sheet provided by Zero to Mastery, available for download as PDF.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-c-sharp/modules/csharp-hello-world/cheatsheet">Learn C#: Hello World Cheatsheet</a></td>
+    <td>A basic C# cheat sheet from Codecademy, ideal for beginners starting with "Hello World".</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/resources/cheatsheets/language/c-sharp">Codeacademy - C# Cheatsheets</a></td>
+    <td>A collection of C# cheat sheets from Codecademy, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/collections/c-sharp-cheat-sheet">Coursera - C# Cheat Sheet</a></td>
+    <td>A comprehensive C# cheat sheet provided by Coursera.</td>
+  </tr>
+  <tr>
+    <td><a href="https://onecompiler.com/cheatsheets/csharp">One Compiler - C# - Cheat Sheets</a></td>
+    <td>A C# cheat sheet provided by One Compiler, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sololearn.com/en/Discuss/524705/complete-c-cheat-sheet">SoloLearn - Complete C# Cheat Sheet</a></td>
+    <td>A complete C# cheat sheet provided by SoloLearn, ideal for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/c-sharp-progarmming/c-from-fundamentals-to-advanced-techniques-a-comprehensive-cheat-sheet-fb555aa8e2a2">C#: From Fundamentals to Advanced Techniques</a></td>
+    <td>A comprehensive cheat sheet covering C# from fundamentals to advanced techniques, available on Medium.</td>
+  </tr>
 </table>
 
 ### Conclusion

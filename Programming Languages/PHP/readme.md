@@ -50,6 +50,7 @@ By leveraging PHP, developers can create secure, efficient, and scalable web app
 - [Additional Resources](#additional-resources)
   - [PHP Communities](#php-communities)
   - [PHP Books](#php-books)
+  - [PHP Cheatsheets](#php-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -890,6 +891,43 @@ The courses section will provide links to both free and paid certification cours
    <td><a href="https://www.amazon.com/Modern-PHP-New-Features-Good/dp/1491905018/">Modern PHP: New Features and Good Practices</a></td>
    <td>This book covers the latest features in PHP and teaches modern development practices to write clean, maintainable code.</td>
  </tr>
+</table>
+
+### PHP Cheatsheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/php.html">PHP Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for PHP programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://overapi.com/php">PHP Cheat Sheet</a></td>
+    <td>A comprehensive PHP cheat sheet provided by OverAPI, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://websitesetup.org/php-cheat-sheet/">PHP Cheat Sheet (.PDF Version Included)</a></td>
+    <td>A PHP cheat sheet with a downloadable PDF version, covering essential PHP concepts and syntax.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-php/modules/getting-started-with-php/cheatsheet">Learn PHP: Getting Started with PHP Cheatsheet</a></td>
+    <td>A beginner-friendly PHP cheat sheet provided by Codecademy, ideal for those new to the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://gist.github.com/SoftwareDevPro/1cf7cd31bcdeb311604a7dddd742ea6d">PHP Cheatsheet</a></td>
+    <td>A PHP cheat sheet available on GitHub, covering syntax and common tasks in PHP programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://devhints.io/wip/php">PHP cheatsheet</a></td>
+    <td>A PHP cheat sheet provided by Devhints, covering various aspects of PHP programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://front-line-php.com/cheat-sheet">Modern PHP Cheat Sheet</a></td>
+    <td>A modern PHP cheat sheet focusing on up-to-date PHP concepts and best practices.</td>
+  </tr>
 </table>
 
 ## Conclusion

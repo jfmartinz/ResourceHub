@@ -7,7 +7,7 @@ This section serves as a curated collection of valuable resources for learning a
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [C](#c)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Array in C](#arrays-in-c)
@@ -17,16 +17,19 @@ This section serves as a curated collection of valuable resources for learning a
   - [File Management](#file-management)
 - [Tools and IDEs](#tools-and-ides)
 - [Online Editors and Compilers](#online-editors-and-compilers)
-- [C Projects](#c-projects)
+- [Projects](#projects)
   - [Beginner Level Projects](#beginner-level-projects)
   - [Intermediate Level Projects](#intermediate-level-projects)
   - [Advance Level Projects](#advance-level-projects)
 - [Youtube Channels](#youtube-channels)
 - [Coding Platforms](#coding-platforms)
-- [C Programming Courses](#c-programming-courses)
+- [Courses](#courses)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
 - [Books](#books)
 - [Interview Preparations](#interview-preparation)
 - [Websites](#websites)
+- [C CheatSheets](#c-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -44,9 +47,9 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### Tutorials
+### C
 > Here are the tutorial guides which can help you to develop and enhance your coding skills
-
+#### Introduction
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -107,7 +110,7 @@ This section serves as a curated collection of valuable resources for learning a
 </table>
 </table>
 
-### Fundamentals
+#### Fundamentals
 
 <table>
   <tr>
@@ -242,7 +245,7 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### Strings in C
+#### Strings in C
 
 <table>
   <tr>
@@ -271,7 +274,7 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### Pointers in C
+#### Pointers in C
 
 <table>
   <tr>
@@ -304,7 +307,7 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### C Structure and Union
+#### C Structure and Union
 
 
 <table>
@@ -408,10 +411,10 @@ This section serves as a curated collection of valuable resources for learning a
   </tr>
 </table>
 
-### C Projects
+### Projects
 > Here are some great ideas for projects in C from beginner level to the advance level.
 
-### Beginner level projects
+#### Beginner level projects
    <table>
         <tr>
             <th>Resource Name</th>
@@ -502,7 +505,7 @@ This section serves as a curated collection of valuable resources for learning a
     </table>
     
 
-### Advance Level Projects
+#### Advance Level Projects
 
 <table>
         <tr>
@@ -582,13 +585,35 @@ This section serves as a curated collection of valuable resources for learning a
             <td><a href="https://www.youtube.com/c/sentdex">sentdex</a> </td>
             <td>Has a series on building a C compiler, which delves into advanced concepts.</td>
         </tr>
+        <tr>
+        <td><a href="https://youtube.com/@jennyslecturescsit?si=gYzT-PcJzonQO9ut">Jenny's Lectures CS IT</a></td>
+        <td>This Channel focusses on creating tutorials for  engineers, software developers, programmers, Coders, undergraduates, graduates.Covers topics for all different skill levels, so whether you are a beginner or have some years of experience, this channel will have something for you.</td>
+        </tr>
     </table>
 
 
 
-### C Programming Courses
+### Courses
 > Unfortunately, there aren't many widely recognized free certification courses specifically for C programming. However, there are several platforms where you can find free courses, tutorials, and resources to learn C programming
+#### Free Courses
+<table>
+  <tr>
+  <th>Course</th>
+    <th>Description</th>
+      </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-c">Learn C</a></td>
+    <td>Offered by Codecademy</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/playlist?list=PL78RhpUUKSwcgBrlBtstLjBMEtQmCRbHp&si=vpNyMxpggLL4nqIb">C Programming Certification YouTube course</a></td>
+    <td>A free course on YouTube designed for complete beginners to learn C programming.</td>
+  </tr>
+    
 
+</table>
+
+#### Paid Courses
 <table>
   <tr>
     <th>Course</th>
@@ -618,10 +643,7 @@ This section serves as a curated collection of valuable resources for learning a
     <td><a href="https://www.udemy.com/course/c-programming-for-beginners-">Udemy - C Programming For Beginners - Master the C Language</a></td>
     <td>By Tim Buchalka's Learn Programming Academy</td>
   </tr>
-  <tr>
-    <td><a href="https://www.codecademy.com/learn/learn-c">Learn C</a></td>
-    <td>Offered by Codecademy</td>
-  </tr>
+  
   <tr>
     <td><a href="https://www.pluralsight.com/courses/c-fundamentals-c99">Pluralsight - C Fundamentals with C99</a></td>
     <td>By David Chisnall</td>
@@ -630,10 +652,7 @@ This section serves as a curated collection of valuable resources for learning a
     <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm">MIT OpenCourseWare - Introduction to Computer Science and Programming in C</a></td>
     <td>Offered by Massachusetts Institute of Technology (MIT)</td>
   </tr>
-  <tr>
-    <td><a href="https://youtube.com/playlist?list=PL78RhpUUKSwcgBrlBtstLjBMEtQmCRbHp&si=vpNyMxpggLL4nqIb">C Programming Certification YouTube course</a></td>
-    <td>A free course on YouTube designed for complete beginners to learn C programming.</td>
-  </tr>
+  
 </table>
 
 ### Coding Platforms
@@ -765,8 +784,51 @@ This section serves as a curated collection of valuable resources for learning a
     <td>A beginner-friendly tutorial on C programming, providing step-by-step explanations of concepts with examples.</td>
   </tr>
   <tr>
-    <td><a href="https://www.freecodecamp.org/news/learn-c-c-from-scratch/">freeCodeCamp - Learn C and C++ from Scratch</a></td>
+    <td><a href="https://www.freecodecamp.org/news/the-c-beginners-handbook/">freeCodeCamp - The C Beginner's Handbook</a></td>
     <td>A beginner's guide to learning C programming, starting from the basics and progressing to advanced topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/c/index.php">W3Schools - C Tutorial</a></td>
+    <td>W3Schools offers a comprehensive C tutorial that is ideal for beginners and intermediate learners looking to understand the C programming language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.learn-c.org/">learn-c.org</a></td>
+    <td>Learn-C.org is an interactive and user-friendly platform dedicated to teaching the C programming language.</td>
+  </tr>
+</table>
+
+### C CheatSheets
+
+> Cheat sheets for C programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/c.html">C Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for C programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/c-cheat-sheet/">Scaler - C Cheatsheet</a></td>
+    <td>Comprehensive cheat sheet for C programming, provided by Scaler.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewithharry.com/blogpost/c-cheatsheet/">C Language CheatSheet</a></td>
+    <td>A practical C programming cheat sheet by Code with Harry, ideal for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/c-cheatsheet/">C Programming Language Cheat Sheet</a></td>
+    <td>A detailed C cheat sheet from GeeksforGeeks, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/resources/cheatsheets/language/c">C Cheatsheets</a></td>
+    <td>A collection of C cheat sheets from Codecademy, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/">C Reference Cheat Sheet by Ashlyn Black</a></td>
+    <td>A comprehensive C reference cheat sheet created by Ashlyn Black, available on Cheatography.</td>
   </tr>
 </table>
 

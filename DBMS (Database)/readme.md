@@ -13,6 +13,8 @@ A database is an organized collection of structured information, or data, typica
 - [Best Practices](#best-practices)
 - [Challenges](#challenges)
 - [Books](#books)
+    - [Free Books](#free-books)
+    - [Paid Books](#paid-books)
 - [Interview](#interview)
 - [GitHub Repositories](#github-repositories)
 - [projects](#projects)
@@ -236,26 +238,56 @@ Database design and modeling are critical steps in the creation and management o
 
 ### Books
 
+> These books helps you to learn about DBMS topics that courses cannot teach.
+
+#### Free Books
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Status</th>
     </tr>
     <tr>
         <td><a href="https://pdflink.to/70a9bab5/">Database Design-2nd Edition</a></td>
         <td>This book covers the fundamental concepts of database design, including data models, database management systems, and integrity rules. It is well-suited for introductory courses and provides clear explanations and examples.</td>
-        <td>Free</td>
     </tr>
     <tr>
         <td><a href="https://pdflink.to/7c7844d6/">Relational Databases and Microsoft Access 365-Version 4.0</a></td>
-        <td>This book provides a comprehensive introduction to relational database principles and practical usage of Microsoft Access. It is ideal for beginners and includes detailed chapters on tables, queries, and forms</td>
-        <td>Free</td>
-        </tr>
+        <td>This book provides a comprehensive introduction to relational database principles and practical usage of Microsoft Access. It is ideal for beginners and includes detailed chapters on tables, queries, and forms.</td>
+    </tr>
     <tr>
         <td><a href="https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/ce269ab3b1fe758df40aec6cad51371e_MIT6_830F10_lec01.pdf#:~:text=URL%3A%20https%3A%2F%2Focw.mit.edu%2Fcourses%2F6">Introduction to Database Systems</a></td>
         <td>This lecture series provides an in-depth introduction to database systems, including database management systems, design, and implementation​.</td>
-        <td>Free</td>
+    </tr>
+    <tr>
+        <td><a href="http://debracollege.dspaces.org/bitstream/123456789/168/1/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf">Fundamentals of Database System</a></td>
+        <td>This book is a comprehensive introduction to the principles and practices of database systems. In its seventh edition, the book continues to serve as a fundamental resource for students, professionals, and academics in the field of database management.</td>
+    </tr>
+    
+</table>
+
+#### Paid Books
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.amazon.in/MongoDB-Jobseekers-Reach-heights-career/dp/9355518250/">Mongo DB for Job seekers</a></td>
+        <td>This book is a comprehensive guide designed to help jobseekers and professionals advance their careers in the field of database management, specifically focusing on MongoDB. Written by an expert in the field, this book covers essential concepts, practical applications, and advanced techniques related to MongoDB, a popular NoSQL database system.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.amazon.in/Learn-SQL-Database-Programming-manipulate/dp/1838984763/">Learn SQL Database Programming</a></td>
+        <td>This book is a comprehensive guide for individuals seeking to master SQL (Structured Query Language) and database programming. Written in a step-by-step format, this book is tailored for beginners as well as intermediate users looking to enhance their SQL skills.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.amazon.in/SQL-All-One-Dummies-3ed/dp/8126534494/">SQL all-in-one for dummies</a></td>
+        <td>This book is designed to help readers master SQL (Structured Query Language), the standard language used for managing and manipulating relational databases. Whether you're a beginner looking to learn SQL from scratch or an experienced user seeking to deepen your understanding, this book provides everything you need to know about SQL in one accessible resource.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.amazon.in/Learning-SQL-Generate-Manipulate-Greyscale/dp/935213978X/">Learning SQL</a></td>
+        <td>This book is a comprehensive guide aimed at individuals looking to learn SQL (Structured Query Language) from scratch or enhance their existing SQL skills. Authored by renowned database experts, the book offers a practical and hands-on approach to understanding and using SQL effectively.</td>
     </tr>
 </table>
 
@@ -280,6 +312,10 @@ Database design and modeling are critical steps in the creation and management o
     <tr>
         <td><a href="https://www.codecademy.com/resources/blog/top-sql-interview-questions-to-practice/">Codecademy</a></td>
         <td>Codecademy offers a variety of courses and interview prep materials focused on SQL and other data-related skills. They provide free-response questions and AI-generated feedback to help you prepare for technical interviews. Their courses cover essential topics like data analysis, SQL querying, and data visualization​.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.geeksforgeeks.org/sql-interview-questions/">Geeks for Geeks </a></td>
+      <td>This platform covers 70+ SQL Interview Questions with answers asked in SQL developer interviews at MAANG and other high-paying companies.This article helps not only an experienced professional , but also a fresher to ace their interview</td>
     </tr>
 </table>
 
