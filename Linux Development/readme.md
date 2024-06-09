@@ -6,6 +6,7 @@ Linux development refers to creating software for the Linux operating system, en
 - [Roadmap](#roadmap)
 - [Tools](#tools)
 - [Technologies](#technologies)
+- [Command line & bash programming](#command-line--bash-programming)
 - [Courses](#courses)
 - [Books](#books)
 - [YouTube Channels](#youtube-channels)
@@ -125,6 +126,56 @@ Linux development refers to creating software for the Linux operating system, en
   <tr>
     <td><a href="https://ruby-lang.org/">Ruby</a></td>
     <td>Dynamic, open source programming language with a focus on simplicity and productivity.</td>
+  </tr>
+</table>
+
+### Command line & bash programming
+> Here are some resources for Command line & bash programming in Liux development.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jlevy/the-art-of-command-line">The art of command line</a></td>
+    <td>An absolutely must-read resource for mastering the command line.</td>
+  </tr>
+  <tr>
+    <td><a href="http://ryanstutorials.net/linuxtutorial/commandline.php">Linux Tutorial - Command Line</a></td>
+    <td>A comprehensive tutorial covering various aspects of the Linux command line.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.tldp.org/LDP/Bash-Beginners-Guide/html/">Bash Guide for Beginners</a></td>
+    <td>A beginner-friendly guide to Bash scripting and command line usage.</td>
+  </tr>
+  <tr>
+    <td><a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html">Bash programming - introduction</a></td>
+    <td>An introductory guide to Bash programming and script writing.</td>
+  </tr>
+  <tr>
+    <td><a href="http://linuxconfig.org/bash-scripting-tutorial">Bash scripting tutorial</a></td>
+    <td>A tutorial covering the basics of Bash scripting for beginners.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/">Learning bash scripting for beginners</a></td>
+    <td>A beginner-oriented resource for learning Bash scripting.</td>
+  </tr>
+  <tr>
+    <td><a href="http://wiki.bash-hackers.org/scripting/tutoriallist">List of bash on-line tutorials</a></td>
+    <td>A collection of online tutorials for learning Bash scripting and command line usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Idnan/bash-guide">bash guide</a></td>
+    <td>A comprehensive guide to Bash scripting, covering various topics and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/learnbyexample/Command-line-text-processing">command line text processing</a></td>
+    <td>A resource for learning text processing techniques using command line tools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dylanaraps/pure-bash-bible">pure bash bible</a></td>
+    <td>A collection of pure Bash scripting techniques and examples.</td>
   </tr>
 </table>
 
