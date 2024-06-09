@@ -15,7 +15,7 @@ This section serves as a curated collection of valuable resources for learning a
 - [Youtube Channels](#youtube-channels)
 - [Coding Platforms](#coding-platforms)
 - [Practice Sheets](#sheets)
-- [DSA implementation](#dsa-implementation-of-several-programming-languages)
+- [DSA by language](#dsa-by-language)
 
    -[C++](#c)<br>
    -[Java](#java)<br>
