@@ -1169,8 +1169,40 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
+      <tr>
+    <td><a href="https://github.com/Ranit-Bandyopadhyay/Music-recommendation-system">Music Recommendation</a></td>
+    <td>An advanced system that uses machine learning algorithms to recommend music based on user preferences and behavior.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/chen0040/keras-english-resume-parser-and-analyzer">Resume Parser</a></td>
+    <td>A resume parsing and analysis tool built using Keras for natural language processing tasks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/topics/sentiment-analysis">Sentiment Analysis - I</a></td>
+    <td>A collection of projects and resources related to sentiment analysis tasks using machine learning and NLP techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Neeraj81/Fake-product-detection-by-QR-using-Blockchain">Fake Products Detection</a></td>
+    <td>An application that uses blockchain technology and QR codes to detect counterfeit products.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tristingreenstein/Social-Media-Web-Application">Social Media Suggestions</a></td>
+    <td>A web application that suggests connections and content based on social media interactions and interests.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Kalebu/Plagiarism-checker-Python">Plagiarism Analyzer and Detector</a></td>
+    <td>A Python tool for analyzing and detecting plagiarism in text documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/datamagic2020/credit-card-fraud-detection">Fraud Detection</a></td>
+    <td>A machine learning model for detecting credit card fraud using transaction data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Chando0185/face_recognition_system">Face Recognition System</a></td>
+    <td>An advanced system for recognizing faces in images or video streams using deep learning techniques.</td>
+  </tr>
     <tr>
-        <td><a href="https://github.com/ageron/handson-ml">Sentiment Analysis</a></td>
+        <td><a href="https://github.com/ageron/handson-ml">Sentiment Analysis - II</a></td>
         <td>A project involving the analysis of text data to determine the sentiment expressed within it, using natural language processing techniques.</td>
     </tr>
 </table>
