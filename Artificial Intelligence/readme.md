@@ -1132,6 +1132,26 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
+     <tr>
+    <td><a href="https://github.com/amdegroot/ssd.pytorch">Image Recognition</a></td>
+    <td>A PyTorch implementation of Single Shot MultiBox Detector (SSD) for image recognition.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/indently/text_recogniton_chat">Chatbot</a></td>
+    <td>An open-source project for building chatbots using natural language processing techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ma-shamshiri/Spam-Detector">Identification of Spam Email</a></td>
+    <td>A project that uses machine learning algorithms to identify and classify spam emails.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Bharath-K3/Next-Word-Prediction-with-NLP-and-Deep-Learning">Next Word Prediction</a></td>
+    <td>Using NLP and deep learning techniques to predict the next word in a given sequence of text.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sundios/Keyword-generator-SEO">Keyword Generator for SEO</a></td>
+    <td>An SEO tool that generates keywords based on input parameters and search engine data.</td>
+  </tr>
     <tr>
         <td><a href="https://github.com/justmarkham/scikit-learn-videos">Iris Flower Classification</a></td>
         <td>A classic beginner project involving the classification of iris flowers based on their features using machine learning algorithms.</td>
