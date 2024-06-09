@@ -639,6 +639,53 @@ This section is curated collection which provides basic and advanced concepts of
 
 ### Books
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/get-programming-with-f-sharp">Get Programming with F#: A Guide for .NET Developers</a></td>
+    <td>A guide for .NET developers to learn F# programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://books-library.net/files/books-library.net-01301832Oz1H4.pdf">Functional Programming Using F#</a></td>
+    <td>Book by Michael R. Hansen on functional programming using F#.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Expert-F-Experts-Voice-NET/dp/1590598504">Expert F#</a></td>
+    <td>Written by Don Syme, this book is for advanced F# developers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://pragprog.com/titles/swdddf/domain-modeling-made-functional/">Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#</a></td>
+    <td>Learn domain-driven design and functional programming with F#.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Expert-F-4-0-Don-Syme/dp/1484207416">Expert F# 4.0</a></td>
+    <td>Another expert-level book on F# by Don Syme.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Real-World-Functional-Programming-Tomas-Petricek/dp/1933988924">Real-World Functional Programming: With Examples in F#</a></td>
+    <td>Explore real-world examples of functional programming using F#.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Book-Breaking-Managed-Functional-Programming/dp/1593275528">The Book of F#: Breaking Free with Managed Functional Programming</a></td>
+    <td>Learn managed functional programming with F# in this book by Dave Fancher.</td>
+  </tr>
+  <tr>
+    <td><a href="https://link.springer.com/book/10.1007/978-1-4842-7205-3">Stylish F# 6: Crafting Elegant Functional Code for .NET 6</a></td>
+    <td>This book focuses on crafting elegant functional code for .NET 6 using F#.</td>
+  </tr>
+  <tr>
+    <td><a href="https://link.springer.com/book/10.1007/978-1-4302-2390-0">Beginning F#</a></td>
+    <td>Introduction to F# programming by Robert. Pickering.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.wiley.com/en-us/F%23+for+Scientists-p-9780470242117">F# for Scientists</a></td>
+    <td>This book focuses on using F# for scientific computing.</td>
+  </tr>
+</table>
+
 
 ### Cheatsheets
 
@@ -717,6 +764,33 @@ This section is curated collection which provides basic and advanced concepts of
 
 ### Community
 
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://forums.fsharp.org/">F# on Discourse</a></td>
+    <td>Official F# community forum hosted on Discourse.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fsharp/">F# on Github</a></td>
+    <td>Official F# repositories and projects on GitHub.</td>
+  </tr>
+  <tr>
+    <td><a href="http://webchat.freenode.net/?channels=%23%23fsharp">F# on IRC</a></td>
+    <td>Join the F# community on IRC.</td>
+  </tr>
+  <tr>
+    <td><a href="http://fsharp.org/guides/slack/">F# on Slack</a></td>
+    <td>Join the F# community on Slack.</td>
+  </tr>
+  <tr>
+    <td><a href="https://t.me/fsharp_news">F# news on Telegram</a></td>
+    <td>Stay updated with F# news on Telegram.</td>
+  </tr>
+</table>
 
 
 ## Conclusion
