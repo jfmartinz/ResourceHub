@@ -45,29 +45,6 @@ Full-stack web development refers to the practice of working on both the fronten
 
 ### Tutorials
 
-<table width="100%">
-      <tr>
-        <th>Resource</th>
-        <th>Description</th>
-      </tr>
-       <tr>
-        <td><a href="https://www.geeksforgeeks.org/what-is-full-stack-development/">What is full stack development</a></td>
-        <td> Full-stack development refers to the practice of developing both the front-end (client side) and back-end (server side) portions of web applications. A full-stack developer is proficient in both front-end technologies like HTML, CSS, and JavaScript, as well as back-end technologies like server-side scripting languages (e.g., Python, Ruby, PHP, Node.js) and databases (e.g., MySQL, MongoDB).</td>
-      </tr>
-       <tr>
-        <td><a href="https://www.w3schools.com/html/">HTML</a></td>
-        <td> W3Schools' HTML tutorial provides a comprehensive introduction to HTML (Hypertext Markup Language), the foundation of web development. From basic tags to advanced concepts, the site offers clear explanations, live examples, and interactive exercises, making it an excellent resource for beginners and experienced developers alike.</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.w3schools.com/Css/">CSS</a></td>
-        <td>W3Schools' CSS tutorial is a valuable resource for learning Cascading Style Sheets (CSS), the language used to style HTML elements on web pages. With a structured approach, it covers CSS basics, selectors, properties, and advanced techniques. The tutorial includes live examples, demonstrations, and interactive exercises to help users grasp concepts effectively and apply them to create visually appealing and responsive web designs.</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.w3schools.com/js/DEFAULT.asp">Java Script</a></td>
-        <td>W3Schools' JavaScript tutorial is an extensive guide for mastering client-side scripting in web development. Covering everything from basic syntax to advanced concepts like DOM manipulation and AJAX, the tutorial provides clear explanations, interactive examples, and hands-on exercises. Whether you're a beginner or an experienced developer, W3Schools' JavaScript tutorial offers a structured learning path to help you enhance your skills and create dynamic, interactive web applications.</td>
-      </tr>
-</table>
-
 #### Frontend Development
 
 <table width="100%">
