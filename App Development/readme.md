@@ -12,6 +12,7 @@ App development refers to crafting software for diverse devices, involving plann
 - [YouTube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlists)
 - [GitHub Repositories](#github-repositories)
+- [Interview](#interview)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -340,6 +341,28 @@ App development refers to crafting software for diverse devices, involving plann
         <td>Library for handling localization and internationalization in React Native apps, supporting language and region detection.</td>
       </tr>
 </table>
+### Interview
+  
+  Here are some Interview Preparation Resources.
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.toptal.com/app/interview-questions">10 Essential Mobile App Interview Questions</a></td>
+        <td>This Website consists of curated app development interview questions with the answers pravided by different persons here we can even post  the question which were asked in our interview.Top 10 most frequently asked  questions will  be displayed.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.barraiser.com/interviewing-guides/mobile-app-developer">Interviewing Guides-BarRaiser</a></td>
+        <td>This Website provides the  App developer Interview Guide.Tells about the rounds which were present in the interview,types of questions,tips and tricks to crack mobile app Interview.</td>
+      </tr>
+      
+      
+</table>
+
+
+  
 
 ### Conclusion
 
