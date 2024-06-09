@@ -13,7 +13,9 @@ This Section is a curated collection of resources which provides core and advanc
 
 - [Tutorial](#tutorial)
   - [Introduction](#introduction)
+  - [Document structure](#document-structure)
   - [Latex Basics](#latex-basics)
+  - [Formatting](#formatting)
   - [Latex using Tikz](#latex-using-tikz)
   - [Latex MATH](#latex-math)
 - [Conclusion](#conclusion)
@@ -64,6 +66,78 @@ This Section is a curated collection of resources which provides core and advanc
   </tr>
 </table>
 
+### Document structure
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Mathematical_expressions">Mathematical expressions</a></td>
+    <td>Overview of creating mathematical expressions in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-math-symbols">LaTeX math symbols</a></td>
+    <td>Guide to using various math symbols in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-mathematical-equations">LaTeX mathematical equations</a></td>
+    <td>Instructions on writing mathematical equations in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-fractions">LaTeX fractions</a></td>
+    <td>How to write fractions in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-matrix">LaTeX matrix</a></td>
+    <td>Guide to creating matrices in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-integral">LaTeX Integral</a></td>
+    <td>Instructions for writing integral equations in LaTeX.</td>
+  </tr>
+  <tr>
+    <td>LaTeX Partial Derivative</td>
+    <td>Guide to writing partial derivatives in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Subscripts_and_superscripts">Subscripts and superscripts</a></td>
+    <td>How to use subscripts and superscripts in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Brackets_and_Parentheses">Brackets and Parentheses</a></td>
+    <td>Guide to using brackets and parentheses in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Fractions_and_Binomials">Fractions and Binomials</a></td>
+    <td>Instructions for writing fractions and binomials in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Operators">Operators</a></td>
+    <td>How to use various operators in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Spacing_in_math_mode">Spacing in math mode</a></td>
+    <td>Guide to spacing in LaTeX math mode.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits">Integrals, sums and limits</a></td>
+    <td>Instructions for writing integrals, sums, and limits in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Display_style_in_math_mode">Display style in math mode</a></td>
+    <td>How to use display style in LaTeX math mode.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Mathematical_fonts">List of Greek letters and math symbols</a></td>
+    <td>Guide to using Greek letters and math symbols in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Mathematical_fonts">Mathematical fonts</a></td>
+    <td>How to use different mathematical fonts in LaTeX.</td>
+  </tr>
+</table>
 
 ### Latex Basics
 
@@ -142,6 +216,74 @@ This Section is a curated collection of resources which provides core and advanc
   </tr>
 </table>
 
+### Formatting
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Lengths_in_LaTeX">Lengths in LaTeX</a></td>
+    <td>Guide on managing lengths and dimensions in LaTeX documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Headers_and_footers">Headers and footers</a></td>
+    <td>Instructions for customizing headers and footers in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Page_numbering">Page numbering</a></td>
+    <td>Guide to setting up page numbering in LaTeX documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Paragraph_formatting">Paragraph formatting</a></td>
+    <td>How to format paragraphs in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Line_breaks_and_blank_spaces">Line breaks and blank spaces</a></td>
+    <td>Instructions for managing line breaks and blank spaces in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Text_alignment">Text alignment</a></td>
+    <td>Guide to aligning text in LaTeX documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Page_size_and_margins">Page size and margins</a></td>
+    <td>How to set page size and margins in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Single_sided_and_double_sided_documents">Single sided and double sided documents</a></td>
+    <td>Guide to creating single-sided and double-sided documents in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Multiple_columns">Multiple columns</a></td>
+    <td>Instructions for formatting text in multiple columns in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Counters">Counters</a></td>
+    <td>Guide on using counters in LaTeX documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Code_listing">Code listing</a></td>
+    <td>How to list code in LaTeX documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted">Code Highlighting with minted</a></td>
+    <td>Guide to highlighting code using the minted package in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX">Using colours in LaTeX</a></td>
+    <td>How to use colors in LaTeX documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Footnotes">Footnotes</a></td>
+    <td>Guide to adding and formatting footnotes in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Margin_notes">Margin notes</a></td>
+    <td>Instructions for adding margin notes in LaTeX documents.</td>
+  </tr>
+</table>
 
 ### Latex using Tikz
 
@@ -204,7 +346,7 @@ This Section is a curated collection of resources which provides core and advanc
     <td>Instructions for writing integral equations in LaTeX.</td>
   </tr>
   <tr>
-    <td>LaTeX Partial Derivative</td>
+    <td> <a href="https://www.javatpoint.com/latex-partial-derivativeLaTeX"> Partial Derivative</a></td>
     <td>Guide to writing partial derivatives in LaTeX.</td>
   </tr>
   <tr>
