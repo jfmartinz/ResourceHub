@@ -1,9 +1,15 @@
 # Artificial Intelligence
 Artificial Intelligence (AI) is the field focused on creating systems capable of performing tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. This curated collection offers valuable AI resources contributed by talented individuals.
 
+The main focus of artificial intelligence is towards understanding human behavior and performance. This can be done by creating computers with human-like intelligence and capabilities. This includes natural language processing, facial analysis and robotics. The main applications of AI are in military, healthcare, and computing; however, it’s expected that these applications will start soon and become part of our everyday lives.
+
+This section is a curated collection of Artificial Intelligence beginner to advance resources.
+
 ## Table of Contents
 
 - [Roadmap](#roadmap)
+- [Tutorial](#tutorial)
+   - [Introduction](#introduction)
 - [Tools](#tools)
 - [Technologies](#technologies)
 - [Courses](#courses)
@@ -38,6 +44,64 @@ Artificial Intelligence (AI) is the field focused on creating systems capable of
         <td>This is the Roadmap for Artificial Intelligence.</td>
     </tr>
 </table>
+
+
+### Tutorial
+>
+
+### Introduction 
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/artificial-intelligence-ai">Artificial Intelligence (AI)</a></td>
+    <td>An overview of artificial intelligence, covering its definition, importance, and basic concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/application-of-ai">Applications of AI</a></td>
+    <td>Discusses various real-world applications of AI across different industries and fields.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/history-of-artificial-intelligence">History of AI</a></td>
+    <td>Explores the historical development of AI, from its inception to modern advancements.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/types-of-artificial-intelligence">Types of AI</a></td>
+    <td>Details the different types of AI, including their characteristics and levels of complexity.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/approaches-to-ai-learning">Approaches to AI Learning</a></td>
+    <td>Explains various approaches to AI learning, such as supervised, unsupervised, and reinforcement learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/goals-of-artificial-intelligence">Goals of AI</a></td>
+    <td>Outlines the primary goals of AI, including automation, augmentation, and analysis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/can-artificial-intelligence-replace-human-intelligence">Can AI Replace Human Intelligence?</a></td>
+    <td>Discusses the potential and limitations of AI in replicating or surpassing human intelligence.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/types-of-ai-agents">Types of Agents</a></td>
+    <td>Describes the various types of AI agents and their roles in artificial intelligence systems.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/agents-in-ai">Intelligent Agent</a></td>
+    <td>Provides an overview of intelligent agents, including their design and functionalities.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/agent-environment-in-ai">Agent Environment</a></td>
+    <td>Discusses the environments in which AI agents operate and how they interact with these environments.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/turing-test-in-ai">Turing Test in AI</a></td>
+    <td>Explains the Turing Test and its significance in evaluating the intelligence of AI systems.</td>
+  </tr>
+</table>
+
 
 ### Tools
 
