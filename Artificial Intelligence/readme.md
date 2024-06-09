@@ -710,6 +710,50 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <td><a href="https://www.youtube.com/c/lexfridman">Lex Fridman</a></td>
         <td>Lex Fridman interviews experts in AI, providing insights into current research and future trends.</td>
     </tr>
+     <tr>
+    <td><a href="https://www.youtube.com/user/MITCSAIL/videos">The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory</a></td>
+    <td>Videos from MIT CSAIL, showcasing research, lectures, and events in computer science and AI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ/videos">The Allen Institute for Artificial Intelligence</a></td>
+    <td>Content from AI2, featuring cutting-edge AI research and innovations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos">DeepMind</a></td>
+    <td>Videos from DeepMind, offering insights into their AI research and projects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ/videos">Applied AI Course</a></td>
+    <td>Educational videos focused on practical AI applications and tutorials.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/certicky/videos">StarCraft Artificial Intelligence Tournament</a></td>
+    <td>Videos featuring AI competitions within the game StarCraft, highlighting AI strategies and development.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/c/sentdex/videos">Sentdex - Data Analysis Tutorials</a></td>
+    <td>Tutorials on data analysis, machine learning, and Python programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw">Amazon - Machine Learning University</a></td>
+    <td>Educational content from Amazon's Machine Learning University, focusing on ML concepts and applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/MicrosoftResearch">Microsoft Research</a></td>
+    <td>Research presentations, lectures, and events from Microsoft Research.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/krishnaik06">Krish Nayak for ML/DL/Data Science</a></td>
+    <td>Videos on machine learning, deep learning, and data science by Krish Nayak.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg">TechWithTim - Python and ML Tutorials</a></td>
+    <td>Python programming and machine learning tutorials by TechWithTim.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg">Jabrils</a></td>
+    <td>Creative and educational content on AI and technology by Jabrils.</td>
+  </tr>
 </table>
 
 ### YouTube Playlists
