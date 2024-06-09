@@ -628,6 +628,10 @@ Blockchain Supply chain management plays a critical role in ensuring efficient o
         <td><a href="https://youtu.be/fghqq3-P3x0?si=xvgcZ0NiSYdFaCPy">Decentralize Google Drive Project</a></td>
         <td> This project facilitates decentralized image upload and sharing on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.</td>
       </tr>
+      <tr>
+        <td><a href="https://youtu.be/fghqq3-P3x0?si=xvgcZ0NiSYdFaCPy">Web 3.0 Amazon Clone</a></td>
+        <td> This project facilitates decentralized  Amazon Clone Step-By-Step with Solidity (Writing Smart Contracts & Tests), Javascript (React & Testing), Hardhat (Development Framework),Ethers.js (Blockchain Interaction), React.js (Frontend Framework).</td>
+      </tr>
 
 </table>
 

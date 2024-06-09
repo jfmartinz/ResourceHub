@@ -1616,7 +1616,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
         <td><a href="https://youtu.be/lgck-txzp9o?si=lBd4hsXvVVxg-ffd">google chrome dinosaur Game</a></td>
         <td>
       In this you will learn to build the famous google chrome dinosaur game with html, css, and javascript. Specifically, you will learn how to code the game using html5 canvas. and how to create the game loop, add images onto the canvas, add click handlers to allow the dinosaur to jump, randomly generate cactuses or cacti and move them across the screen, detect collisions between the dinosaur and each cactus, and add a running score.
-      </tr> 
+      </tr>
       <tr>
         <td><a href="https://foolishdeveloper.com/drawing-app-javascript/">Drawing App</a></td>
         <td>
