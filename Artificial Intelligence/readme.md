@@ -36,6 +36,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
   - [Competitions](#competitions)
   - [Communities](#communities)
   - [GitHub Repositories](#github-repositories)
+  - [AI Job Sites](#ai-job-sites)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -1012,6 +1013,42 @@ This section is a curated collection of Artificial Intelligence beginner to adva
     </tr>
 </table>
 
+### AI Job Sites
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.datayoshi.com/">DataYoshi</a></td>
+    <td>Job board specializing in data science and AI roles.</td>
+  </tr>
+  <tr>
+    <td><a href="https://aijobs.com/">AI Jobs</a></td>
+    <td>Job site dedicated to opportunities in artificial intelligence and machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ai-jobs.net/">AI-Jobs</a></td>
+    <td>Platform for finding jobs in AI, machine learning, and data science.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.indeed.com/q-Artificial-Intelligence-jobs.html">Indeed</a></td>
+    <td>Comprehensive job search engine with a section focused on artificial intelligence roles.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/jobs">Kaggle Jobs</a></td>
+    <td>Job listings for data science and AI positions, hosted by the Kaggle community.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.remoteaijobs.com/">Remote AI/ML Jobs</a></td>
+    <td>Job board focused on remote opportunities in AI and machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://aijobsboard.com/">AI Jobs Board</a></td>
+    <td>Platform for finding and posting AI job opportunities.</td>
+  </tr>
+</table>
 
 ### Conclusion
 
