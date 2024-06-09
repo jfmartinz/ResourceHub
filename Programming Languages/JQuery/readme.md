@@ -192,7 +192,7 @@
  </tr>
 </table>
 
-### Changing CSS in DOM
+### Changing CSS
 <table width="100%">
  <tr>
    <th>Resource Name</th>
