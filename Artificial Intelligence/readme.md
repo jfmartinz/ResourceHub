@@ -12,7 +12,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
    - [Introduction](#introduction)
    - [AI Problem-solving](#ai-problem-solving)
    - [Adversarial Search](#adversarial-search)
-   - [Knowledge Representation](#knowledge-representation)
+   - [AI Knowledge Representation](#ai-knowledge-representation)
 - [Tools](#tools)
 - [Technologies](#technologies)
 - [Courses](#courses)
@@ -155,7 +155,79 @@ This section is a curated collection of Artificial Intelligence beginner to adva
   </tr>
 </table>
 
-### Knowledge Representation
+### AI Knowledge Representation
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/knowledge-based-agent-in-ai">Knowledge Based Agent</a></td>
+    <td>Explains knowledge-based agents, their structure, and their role in AI systems.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/knowledge-representation-in-ai">Knowledge Representation</a></td>
+    <td>Overview of knowledge representation, discussing its importance and methods in AI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/ai-techniques-of-knowledge-representation">Knowledge Representation Techniques</a></td>
+    <td>Details various techniques of knowledge representation used in AI, such as semantic networks and frames.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/propositional-logic-in-artificial-intelligence">Propositional Logic</a></td>
+    <td>Introduction to propositional logic, including its syntax, semantics, and applications in AI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/rules-of-inference-in-artificial-intelligence">Rules of Inference</a></td>
+    <td>Discusses the rules of inference in AI and how they are used to derive conclusions from known facts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence">The Wumpus World</a></td>
+    <td>Explains the Wumpus World, a common AI problem, used to illustrate knowledge representation and reasoning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/ai-knowledge-base-for-wumpus-world">Knowledge-base for Wumpus World</a></td>
+    <td>Describes the knowledge-base setup for the Wumpus World problem, including facts and rules.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/first-order-logic-in-artificial-intelligence">First-order Logic</a></td>
+    <td>Overview of first-order logic (FOL), its components, and its applications in AI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/ai-knowledge-engineering-in-first-order-logic">Knowledge Engineering in FOL</a></td>
+    <td>Discusses knowledge engineering in FOL, including the development of knowledge bases and their usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/ai-inference-in-first-order-logic">Inference in First-Order Logic</a></td>
+    <td>Explains how inference is performed in first-order logic, using various techniques and algorithms.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/ai-unification-in-first-order-logic">Unification in FOL</a></td>
+    <td>Details the process of unification in FOL, a key concept for matching logic expressions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/ai-resolution-in-first-order-logic">Resolution in FOL</a></td>
+    <td>Describes the resolution principle in FOL, used for automated theorem proving.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/forward-chaining-and-backward-chaining-in-ai">Forward Chaining and Backward Chaining</a></td>
+    <td>Explains forward and backward chaining methods in AI, used for inference and reasoning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/difference-between-backward-chaining-and-forward-chaining">Backward Chaining vs Forward Chaining</a></td>
+    <td>Compares backward chaining and forward chaining, highlighting their differences and use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/reasoning-in-artificial-intelligence">Reasoning in AI</a></td>
+    <td>Overview of reasoning in AI, covering various types and their applications in problem-solving.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/difference-between-inductive-and-deductive-reasoning">Inductive vs. Deductive Reasoning</a></td>
+    <td>Discusses the differences between inductive and deductive reasoning, and their roles in AI.</td>
+  </tr>
+</table>
+
 
 
 ### Tools
