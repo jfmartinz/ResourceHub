@@ -215,9 +215,8 @@ Artificial Intelligence (AI) is the field focused on creating systems capable of
         <th>Description</th>
     </tr>
     <tr>
-        <td><
-
-a href="https://www.kaggle.com/datasets">Kaggle Datasets</a></td>
+        <td>
+        <a href="https://www.kaggle.com/datasets">Kaggle Datasets</a></td>
         <td>A platform offering a wide range of datasets for machine learning and data science projects.</td>
     </tr>
     <tr>
