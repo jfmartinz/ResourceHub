@@ -1,4 +1,4 @@
-# Latex 
+# LaTeX
 
 LATEX (pronounced “LAY-tek” or “LAH-tek”) is a tool for typesetting professional-looking documents. However, LaTeX’s mode of operation is quite different to many other document-production applications you may have used, such as Microsoft Word or LibreOffice Writer: those “WYSIWYG” tools provide users with an interactive page into which they type and edit their text and apply various forms of styling. 
 
