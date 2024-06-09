@@ -187,6 +187,58 @@ Linux development refers to creating software for the Linux operating system, en
     <td><a href="https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200">The Linux Programming Interface by Michael Kerrisk</a></td>
     <td>Detailed guide to Linux and UNIX system programming, including APIs, system calls, and more.</td>
   </tr>
+  <tr>
+    <td><a href="http://www.thegeekstuff.com/linux-101-hacks-ebook/">linux-101-hacks-ebook</a></td>
+    <td>An eBook providing practical Linux tips, tricks, and hacks for both beginners and advanced users.</td>
+  </tr>
+  <tr>
+    <td><a href="http://linuxcommand.org/tlcl.php">The-linux-command-line</a></td>
+    <td>Comprehensive guide to mastering the Linux command line interface.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/">advanced-bash-scripting-guide</a></td>
+    <td>An advanced guide to shell scripting in Linux using Bash.</td>
+  </tr>
+  <tr>
+    <td><a href="http://dsl.org/cookbook/cookbook_toc.html">linux-cookbook</a></td>
+    <td>A collection of practical recipes for Linux system administration and management.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.oreilly.com/openbook/linag2/book/index.html">linux-network-admin-guide</a></td>
+    <td>A comprehensive guide to Linux networking administration and configuration.</td>
+  </tr>
+  <tr>
+    <td><a href="https://help.ubuntu.com/">help.ubuntu.com</a></td>
+    <td>Official documentation and support resources for Ubuntu Linux.</td>
+  </tr>
+  <tr>
+    <td><a href="http://askubuntu.com/">askubuntu.com</a></td>
+    <td>Community-driven Q&A platform for Ubuntu users and developers.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.ubuntupocketguide.com/download_main.html">ubuntu-pocket-guide</a></td>
+    <td>A concise guide to Ubuntu Linux, covering installation, usage, and configuration.</td>
+  </tr>
+  <tr>
+    <td><a href="http://programmerworld.netfirms.com/techbooks/linux.htm">linux-ebooks</a></td>
+    <td>A collection of free eBooks and resources for learning Linux.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.techbooksforfree.com/linux.shtml">tech-books-for-free</a></td>
+    <td>Free technical books and resources for learning Linux and related technologies.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.onlineprogrammingbooks.com/linux/">online-books</a></td>
+    <td>A collection of online books covering various aspects of Linux programming and administration.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.techotopia.com/index.php/Main_Page">linuxtopia-books</a></td>
+    <td>Free online books covering a wide range of Linux and open source topics.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.freetechbooks.com/">freetechbooks.com</a></td>
+    <td>Free technical books and resources covering Linux, programming, and other IT topics.</td>
+  </tr>
 </table>
 
 ### YouTube Channels
