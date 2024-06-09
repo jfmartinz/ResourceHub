@@ -37,6 +37,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
   - [Communities](#communities)
   - [GitHub Repositories](#github-repositories)
   - [AI Job Sites](#ai-job-sites)
+  - [Blogs](#blogs)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -1047,6 +1048,79 @@ This section is a curated collection of Artificial Intelligence beginner to adva
   <tr>
     <td><a href="https://aijobsboard.com/">AI Jobs Board</a></td>
     <td>Platform for finding and posting AI job opportunities.</td>
+  </tr>
+</table>
+
+### Blogs
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://towardsdatascience.com/">Towards Data Science</a></td>
+    <td>Blog featuring articles on data science and AI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://towardsml.com/">Towards Machine Learning</a></td>
+    <td>Blog focused on machine learning and AI content.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/towards-artificial-intelligence">Towards AI</a></td>
+    <td>Medium publication covering various AI topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://heartbeat.fritz.ai/">Fritz AI</a></td>
+    <td>Blog dedicated to mobile machine learning and AI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.deeplearning.ai/thebatch/">The Batch</a></td>
+    <td>Newsletter by deeplearning.ai providing AI news and insights.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.aitrends.com/">AI Trends</a></td>
+    <td>Website providing the latest trends and news in AI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://deepmind.com/blog">DeepMind</a></td>
+    <td>Blog featuring research and developments from DeepMind.</td>
+  </tr>
+  <tr>
+    <td><a href="https://becominghuman.ai">Becoming HumanAI</a></td>
+    <td>Medium publication on AI, machine learning, and robotics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://bair.berkeley.edu/blog/">Berkeley Artificial Intelligence Research</a></td>
+    <td>Blog featuring research and updates from the Berkeley AI Research Lab.</td>
+  </tr>
+  <tr>
+    <td><a href="https://developer.ibm.com/patterns/category/artificial-intelligence/">IBM Developer</a></td>
+    <td>AI patterns and tutorials from IBM Developer.</td>
+  </tr>
+  <tr>
+    <td><a href="https://openai.com/">OpenAI</a></td>
+    <td>Blog showcasing research and insights from OpenAI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.mit.edu/topic/artificial-intelligence2">MIT News</a></td>
+    <td>News and updates on AI from MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="http://research.baidu.com/">Baidu Research</a></td>
+    <td>Research updates and news from Baidu's AI team.</td>
+  </tr>
+  <tr>
+    <td><a href="https://algorithmia.com/blog">Algorithmia</a></td>
+    <td>Blog on AI and machine learning from Algorithmia.</td>
+  </tr>
+  <tr>
+    <td><a href="https://machinelearningmastery.com/blog/">Machine Learning Mastery</a></td>
+    <td>Blog providing tutorials and resources for machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.learnopencv.com/">Learn OpenCV</a></td>
+    <td>Blog with tutorials on computer vision and OpenCV.</td>
   </tr>
 </table>
 
