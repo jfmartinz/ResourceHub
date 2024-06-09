@@ -624,6 +624,11 @@ develop software that works with them</td>
         <td>
 Blockchain Supply chain management plays a critical role in ensuring efficient operations and maintaining consumer trust. This project focuses on developing and deploying a decentralized application (DApp) powered by blockchain technology to streamline supply chain management processes. </td>
       </tr>
+       <tr>
+        <td><a href="https://youtu.be/fghqq3-P3x0?si=xvgcZ0NiSYdFaCPy">Decentralize Google Drive Project</a></td>
+        <td> This project facilitates decentralized image upload and sharing on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.</td>
+      </tr>
+
 </table>
 
 ### Interview

@@ -8,6 +8,13 @@ A computer network is a collection of interconnected devices that can communicat
 - [Tutorials or Courses](#tutorials-or-courses)<br>
    - [Free Cources](#free-courses)<br>
    - [Paid Courses](#paid-courses)<br>
+- [Network Implementation](#network-implementation)
+   - [Routing](#routing)
+   - [SD-WAN and Swutching](#sd-wan-and-switching)
+   - [VPN](#vpn)
+   - [Network Services](#network-services)
+   - [Network Simulators and Traffic Generators](#network-simulators-and-traffic-generators)
+   - [Network Connectivity](#network-connectivity)
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)<br>
@@ -30,7 +37,7 @@ A computer network is a collection of interconnected devices that can communicat
 
 ## Tutorials or Courses
 
-> You can consider these courses for learning Data Science:
+> You can consider these courses for learning Computer Networks:
 
 #### Free Courses
 
@@ -49,6 +56,19 @@ A computer network is a collection of interconnected devices that can communicat
      <tr>
      <td> <a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j">YouTube - Computer Networks by Ravindrababu Ravula </a></td>
      <td> This playlist contains all the Computer Network lectures required for preparing for various competitive exams </td>
+     </tr>
+     <tr>
+     <td><a href="https://youtu.be/IPvYjXCsTg8?si=poOZj62W2yT8nbkD">Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples</a></td>
+     <td>Learn how the internet works in this complete computer networking course. Here we cover the fundamentals of networking, OSI model deep dive, networking protocols, devices, tools, and more with real-life examples.</td>
+      </tr>
+      <tr>
+      <td><a href="https://youtu.be/qiQR5rTSshw?si=NB5Yu4B4OKRQUKqg">Computer Networking Course - Network Engineering by freeCodeCamp</a></td>
+      <td>This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks. It will also help you prepare for CompTIA's Network+ exam.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.scaler.com/topics/course/free-computer-networks-course/">Master Computer Networking by Scaler</a></td>
+      <td>Scaler's Computer Networks Course is a valuable resource that provides a deep understanding of the fundamental concepts and principles underlying computer networks. Designed for beginners and individuals with limited networking experience, this course aims to equip you with the necessary skills to excel in this exciting domain.</td>
+      </tr>
   </table>
 
 #### Paid Courses
@@ -69,7 +89,179 @@ A computer network is a collection of interconnected devices that can communicat
             <td><a href="https://www.udemy.com/course/ccnpallinone/?LSNPUBID=my9IzLo0578&ranEAID=my9IzLo0578&ranMID=39197&ranSiteID=my9IzLo0578-_z2iNZk5tmfynWC1SgPhSw&utm_medium=udemyads&utm_source=aff-campaign">Networking Courses</a></td>
             <td>CCNP All-in-1 Video Boot Camp With Chris Bryant</td>
       </tr>
+      <tr>
+            <td><a href="https://www.coursera.org/learn/computer-networking">The Bits and Bytes of Computer Networking</a></td>
+            <td>This course is designed to provide a full overview of computer networking.</td>
+      </tr>
   </table>
+
+## Network Implementation
+>  The implementation plan is a detailed roadmap that outlines every step of deploying the network. It includes routing, switching, VPN, Network Services, Network Connectivity, etc.
+
+### Routing 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://frrouting.org/">Free Range Routing</a></td>
+    <td>IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.</td>
+  </tr>
+  <tr>
+    <td><a href="https://vyos.io/">VyOS</a></td>
+    <td>Open source network operating system that can be installed on physical hardware or a virtual machine on your own server, or a cloud platform.</td>
+  </tr>
+</table>
+
+
+### SD-WAN and Switching
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.silver-peak.com/">Silver Peak</a></td>
+    <td>SD-WAN Solution(Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/snabbco/snabb">snabb</a></td>
+    <td>Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.</td>
+  </tr>
+</table>
+
+### VPN
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/firezone/firezone">Firezone</a></td>
+    <td>Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.pivpn.io/">PiVPN</a></td>
+    <td>Simplest OpenVPN setup and configuration, designed for Raspberry Pi.</td>
+  </tr>
+</table>
+
+### Network Services
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://pi-hole.net/">Pi-Hole</a></td>
+    <td>Network-wide ad blocking via your own Linux hardware.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.portnox.com/pricing/">PortNox</a></td>
+    <td>Network Access Control as a Service (Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://bunny.net/">Bunny.net</a></td>
+    <td>Global Content Delivery Platform.</td>
+  </tr>
+</table>
+
+
+### Network Simulators and Traffic Generators
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.gns3.com/">GNS3</a></td>
+    <td>Network software emulator that allows the combination of virtual and real devices, used to simulate complex networks.</td>
+  </tr>
+  <tr>
+    <td><a href="http://mininet.org/">Mininet</a></td>
+    <td>Instant Virtual Network on your Laptop.</td>
+  </tr>
+  <tr>
+    <td><a href="http://wanem.sourceforge.net/">WANem</a></td>
+    <td>Wide Area Network Emulator.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ostinato.org/">Ostinato</a></td>
+    <td>Packet crafter, network traffic generator and analyzer with a friendly GUI.</td>
+  </tr>
+  <tr>
+    <td><a href="http://sipp.sourceforge.net/index.html">SIPp</a></td>
+    <td>Free Open Source test tool / traffic generator for the SIP protocol.</td>
+  </tr>
+  <tr>
+    <td><a href="https://startrinity.com/VoIP/SipTester/SipTester.aspx">StarTrinity SIP Tester™</a></td>
+    <td>VoIP monitoring and testing tool, VoIP recorder.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/USNavalResearchLaboratory/mgen">Multi-Generator</a></td>
+    <td>Open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/marty90/Network-Conditions-Emulator">Network-Conditions-Emulator</a></td>
+    <td>Artificially limit uplink and downlink bandwidth, delay and loss rate on selected interfaces.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/snabbco/snabb">snabb</a></td>
+    <td>Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/juniper/vqfx10k-vagrant">vqfx10k-vagrant</a></td>
+    <td>Vagrant files to bring up Juniper virtual QFX instances.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/michoo/pci">Packet Communication Investigator</a></td>
+    <td>Import network traffic into a graphtool to analyse packet interactions between machines and network.</td>
+  </tr>
+  <tr>
+    <td><a href="https://omnipacket.com/safepcap">SafePcap</a></td>
+    <td>GDPR and NISTIR 8053 Compliance for your Pcap files.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/arkime/arkime">Arkime</a></td>
+    <td>Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.</td>
+  </tr>
+  <tr>
+    <td><a href="https://pyntm.readthedocs.io/en/latest/index.html">pyNTM</a></td>
+    <td>A network traffic modeler written in Python 3.</td>
+  </tr>
+</table>
+
+### Network Connectivity
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://packetfabric.com/">Packetfabric</a></td>
+    <td>Network as a service provider (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://prosimo.io/">Prosimo</a></td>
+    <td>Autonomous Multi-Cloud Network (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://subtelforum.com/online-map/">Subtelforum Online Map</a></td>
+    <td>Submarine cables map.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.megaport.com/">Megaport</a></td>
+    <td>Network as a Service (NaaS) platform (commercial).</td>
+  </tr>
+</table>
+
+
 
 ## Books
 
@@ -161,6 +353,14 @@ A computer network is a collection of interconnected devices that can communicat
       <tr>
         <td><a href="https://www.youtube.com/playlist?app=desktop&list=PL2KXNWDCVCbXpVSX1NcJx5iGCdPSo73Ls">Networking InsideWire</a></td>
         <td>This playlist is a valuable resource for anyone looking for reviews and tutorials on networking products for home and small business environments. It features a wide range of products, from routers and switches to security appliances and networking tools.</td>
+      </tr>
+      <tr>
+      <td><a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=FXNVcyW7FtWVkVO1">Computer Networks Complete Playlist by Gate Smashers</a></td>
+      <td>This playlist is for those aspirants who want to just smash the concepts of Computer Networks but they are lagging behind due to lack of proper guidance</td>
+      </tr>
+      <tr>
+      <td><a href="https://youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd&si=VvN6pfRPJNtgrMNg">Computer Networks by KnowledgeGATE</a></td>
+      <td>KnowledgeGATE by Sanchit Sir helps students to prepare for GATE, NET, PSU, and University/semester Exams.</td>
       </tr>
 </table>
 
