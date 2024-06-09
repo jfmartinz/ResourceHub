@@ -168,6 +168,16 @@ Linux development refers to creating software for the Linux operating system, en
     <td>Learn basic installation and configuration of Linux software and get introduced to the Linux command line.</td>
     <td>Free</td>
   </tr>
+  <tr>
+  <td><a href="https://youtu.be/sWbUDq4S6Y8?si=r4sMkmDLxE0KL6Vz">Introduction to Linux by freeCodeCamp</a></td>
+  <td>If you're new to Linux, this beginner's course is for you. You'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs.</td>
+  <td>Free</td>
+  </tr>
+  <tr>
+  <td><a href="https://youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As&si=6UiVzB-hDFMUXGg0">Linux Command Lines Tutorials</a></td>
+  <td> “Linux Command Line Tutorial For Beginners" will teach you everything you need to know about Linux Command Line in easy-to-understand language.</td>
+  <td>Free</td>
+</tr>
 </table>
 
 ### Books
@@ -217,6 +227,10 @@ Linux development refers to creating software for the Linux operating system, en
     <td><a href="https://www.youtube.com/c/LearnLinuxtv">LearnLinuxtv</a></td>
     <td>  LearnLinuxTV provides detailed tutorials on various Linux distributions, commands, and system administration topics. It's a great resource for both beginners and advanced users.</td>
   </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/@tutoriaLinux">tutoriaLinux</a></td>
+  <td>Linux, DevOps, Cloud, and Programming tutorial videos, ranging from basic Linux commands for beginners to practical programming and cloud infrastructure projects using modern tooling.</td>
+  </tr>
 </table>
 
 ### GitHub Resources
@@ -232,5 +246,13 @@ Linux development refers to creating software for the Linux operating system, en
   <tr>
     <td><a href="https://github.com/dastergon/awesome-sre">Awesome SRE Roadmap</a></td>
     <td>Resources and tools for Site Reliability Engineering, with a focus on Linux system management and development.</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/trinib/Linux-Bash-Commands">Linux-Bash-Commands</a></td>
+  <td> Ultimate list of Linux bash commands, cheatsheets and resources</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/GameServerManagers/LinuxGSM">LinuxGSM</a></td>
+  <td>The command-line tool for quick, simple deployment and management of Linux dedicated game servers.</td>
   </tr>
 </table>
