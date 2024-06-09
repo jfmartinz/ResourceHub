@@ -368,6 +368,54 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
+     <tr>
+    <td><a href="https://www.edx.org/course/artificial-intelligence-ai">EdX’s Artificial Intelligence</a></td>
+    <td>A comprehensive introduction to AI covering various foundational aspects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/intro-to-artificial-intelligence--cs271">Udacity’s Intro to Artificial Intelligence</a></td>
+    <td>Learn the fundamentals of AI with this course designed by Peter Norvig and Sebastian Thrun.</td>
+  </tr>
+  <tr>
+    <td><a href="http://web.stanford.edu/class/cs221/">Artificial Intelligence: Principles and Techniques By Stanford</a></td>
+    <td>This course offers an in-depth exploration of AI principles and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373">Udacity’s Artificial Intelligence for Robotics by Georgia Tech</a></td>
+    <td>Focus on AI techniques applied to robotics, including probabilistic inference and localization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cognitiveclass.ai/">IBM's Data Science and Cognitive Computing courses</a></td>
+    <td>Offers a range of courses on data science and cognitive computing, provided by IBM.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.elementsofai.com/">Elements of AI</a></td>
+    <td>An introductory course designed to demystify AI for the general public.</td>
+  </tr>
+  <tr>
+    <td><a href="https://buildingai.elementsofai.com/">Building AI</a></td>
+    <td>A follow-up to Elements of AI, focusing on building AI models and applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://intellipaat.com/academy/course/artificial-intelligence-free-course/">Intellipaat's Artificial Intelligence</a></td>
+    <td>Free course covering the basics of AI, including machine learning and neural networks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python">EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python</a></td>
+    <td>Introduces AI concepts using Python, from search algorithms to neural networks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://aischool.microsoft.com/en-us/home">Microsoft AI School</a></td>
+    <td>Provides a variety of AI courses and learning paths, covering Azure AI services and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ai.google/education/">Learn with Google AI</a></td>
+    <td>Google's platform for AI education, offering courses and resources for all skill levels.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b">Crash Course - Artificial Intelligence</a></td>
+    <td>YouTube series providing a quick and engaging overview of AI topics.</td>
+  </tr>
     <tr>
         <td><a href="https://www.coursera.org/learn/machine-learning">Coursera - Machine Learning by Stanford University</a></td>
         <td>A comprehensive introduction to machine learning by Andrew Ng, covering the most effective machine learning techniques.</td>
