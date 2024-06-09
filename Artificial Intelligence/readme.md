@@ -16,6 +16,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
    - [Uncertain Knowledge Representation](#uncertain-knowledge-representation)
 - [Tools](#tools)
 - [Technologies](#technologies)
+- [AI Programming](#ai-programming)
 - [Courses](#courses)
    - [Free Courses](#free-courses)
    - [Paid Courses](#paid-courses)
@@ -330,6 +331,32 @@ This section is a curated collection of Artificial Intelligence beginner to adva
     </tr>
 </table>
 
+### AI Programming
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461">Prolog Programming For Artificial Intelligence</a></td>
+    <td>This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477">AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java</a> - <a href="https://pdfs.semanticscholar.org/f5c3/d7dbe4c47e310569a14d2338d0cb3d70a1bb.pdf">PDF here</a></td>
+    <td>This book covers AI algorithms, data structures, and idioms in Prolog, Lisp, and Java, offering comprehensive insights into AI programming in these languages.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cbinsights.com/blog/python-tools-machine-learning/">Python Tools for Machine Learning</a></td>
+    <td>A blog post that discusses various Python tools available for machine learning, providing a useful resource for practitioners looking to leverage Python in their AI projects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://wiki.python.org/moin/PythonForArtificialIntelligence">Python for Artificial Intelligence</a></td>
+    <td>A wiki page that provides an overview of how Python can be used for artificial intelligence, including links to useful libraries, frameworks, and tutorials.</td>
+  </tr>
+</table>
+
 ### Courses
 
 > You can consider these courses for learning AI:
@@ -515,6 +542,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
+    
     <tr>
         <td><a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a></td>
         <td>An online book by Michael Nielsen providing an introduction to the concepts and algorithms of neural networks and deep learning.</td>
