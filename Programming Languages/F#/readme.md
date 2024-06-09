@@ -580,8 +580,59 @@ This section is curated collection which provides basic and advanced concepts of
 ### Videos
 >
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://usergroup.tv/videos/category/group/austin-f-meetup">Austin F# Meetup Group Recorded Presentations</a></td>
+    <td>Recorded presentations from the Austin F# Meetup Group.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=1ioGr701c5Q&list=PLqWncHdBPoD4YEWoXQlRj1tiTc96HZxH8">Intro to F#</a></td>
+    <td>Video series providing an introduction to F#.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=KMR2y1vcO-s&list=PLqWncHdBPoD4-d_VSZ0MB0IBKQY0rwYLd">Fast Dictionary in F#</a></td>
+    <td>Video series discussing fast dictionary implementation in F#.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=EIBRoNEpg6c&list=PLqWncHdBPoD4O1sr2Q3W9gAuJ30s09U2r">F# Chats on performance</a></td>
+    <td>Video series covering discussions on performance in F#.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLqWncHdBPoD5hEK31CcfmTHP-7icw2Xd0">Topological Sort</a></td>
+    <td>Video series explaining topological sort in F#.</td>
+  </tr>
+</table>
+
 ### Courses 
 >
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/data-programming-with-f/">Data programming with F#</a></td>
+    <td>Course on data programming with F# available on Udemy.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.fsharpworkshop.com/">F# workshop</a></td>
+    <td>Workshop focused on F# programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://fsharp.tv/courses/fsharp-programming-intro/">Introduction to F#</a></td>
+    <td>Online course providing an introduction to F# programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://write-yourself-a-scheme.pangwa.com/">Write yourself a scheme in 48 hours using F#</a></td>
+    <td>Course guiding learners to implement a Scheme interpreter in F#.</td>
+  </tr>
+</table>
+
 
 ### Additinal Resources 
 >
