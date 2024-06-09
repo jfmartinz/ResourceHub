@@ -13,6 +13,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
    - [AI Problem-solving](#ai-problem-solving)
    - [Adversarial Search](#adversarial-search)
    - [AI Knowledge Representation](#ai-knowledge-representation)
+   - [Uncertain Knowledge Representation](#uncertain-knowledge-representation)
 - [Tools](#tools)
 - [Technologies](#technologies)
 - [Courses](#courses)
@@ -228,6 +229,26 @@ This section is a curated collection of Artificial Intelligence beginner to adva
   </tr>
 </table>
 
+### Uncertain Knowledge Representation
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/probabilistic-reasoning-in-artifical-intelligence">Probabilistic Reasoning in AI</a></td>
+    <td>Overview of probabilistic reasoning in AI, explaining how uncertainty is managed using probability theory.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/bayes-theorem-in-artifical-intelligence">Bayes Theorem in AI</a></td>
+    <td>Details Bayes' theorem and its application in AI for updating the probability of hypotheses based on new evidence.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/bayesian-belief-network-in-artificial-intelligence">Bayesian Belief Network</a></td>
+    <td>Explains Bayesian belief networks, their structure, and how they are used for probabilistic inference in AI.</td>
+  </tr>
+</table>
 
 
 ### Tools
