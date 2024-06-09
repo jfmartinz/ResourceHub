@@ -583,7 +583,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
 
 <table>
   <tr>
-    <th>Organization Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -1032,7 +1032,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
 
 <table width="100%">
     <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
     </tr>
       <tr>
@@ -1129,7 +1129,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
 
 <table width="100%">
     <tr>
-        <th>Project Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
     </tr>
     <tr>
@@ -1146,7 +1146,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
 
 <table width="100%">
     <tr>
-        <th>Project Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
     </tr>
     <tr>
@@ -1159,7 +1159,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
 
 <table width="100%">
     <tr>
-        <th>Project Name</th>
+        <th>Resource Name</th>
         <th>Description</th>
     </tr>
     <tr>
