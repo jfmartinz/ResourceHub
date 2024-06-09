@@ -388,5 +388,68 @@ This Section is a curated collection of resources which provides core and advanc
 </table>
 
 
+### Latex Editors
+> Some of the most awesome editors for LaTeX, Latex Focused Editors, Text Editors and Online Editors.
+
+
+### Latex Focused Editors
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://kile.sourceforge.io">Kile</a></td>
+    <td>Great LaTeX editor originally from the Linux/KDE community. It runs fine on Windows and macOS as well. <strong>![foss]</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.xm1math.net/texmaker/">TeXMaker</a></td>
+    <td>Pretty good alternative to Kile.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.texstudio.org">TeXStudio</a></td>
+    <td>Cross-platform LaTeX editor that stems from TeXMaker.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.winedt.com">WinEdt</a></td>
+    <td>The LaTeX editor many people swear by. Only for <strong>![windows]</strong>.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.texniccenter.org">TeXnicCenter</a></td>
+    <td>Quite old but free and decent editor for LaTeX. <strong>![windows]</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.lyx.org">LyX</a></td>
+    <td>Cross-platform WYSIWYM editor that uses LaTeX behind the scenes to render documents. <strong>![foss]</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://pages.uoregon.edu/koch/texshop/">TeXShop</a></td>
+    <td>No-nonsense editor for LaTeX documents which is included in MacTeX. <strong>![mac]</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tug.org/texworks/">TeXWorks</a></td>
+    <td>No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform. <strong>![foss]</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.bakoma-tex.com">BakomaTex</a></td>
+    <td>Commercial LaTeX editor that allows you to edit your document both using its source code and WYSIWYG.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.texpad.com">Texpad</a></td>
+    <td>Commercial LaTeX editor for macOS and iOS, with excellent features (document overview, synchronized PDF display, autocompletion, sync across devices, etc.) that never get in the way of writing. <strong>![mac]</strong></td>
+  </tr>
+</table>
+
+
+
+### Text Editors
+
+
+
+### Online Editors
+
+
+
 ## Conclusion
 
