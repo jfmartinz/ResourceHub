@@ -432,7 +432,7 @@ Haskell is a functional programming language known for its strong static typing,
 
 <table width="100%" id="free-courses">
   <tr>
-    <th>Course</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
