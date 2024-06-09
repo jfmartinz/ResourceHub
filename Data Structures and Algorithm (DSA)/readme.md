@@ -221,9 +221,10 @@ To the Point, Short and Practical - These 3 terms defines our Content
 
 ### Algorithms by Languages
 Here are some   Sorting and Searching Algorithms resources and their Implementation in different Languages.
+### JavaScript
 <table width="100%" id="algorithms-by-languages">
 <tr>
-<th>JavaScript</th>
+<th>Resource Name</th>
 <th>Description</th>
 
 </tr>
@@ -239,8 +240,12 @@ Here are some   Sorting and Searching Algorithms resources and their Implementat
 <td><a href="https://www.youtube.com/watch?v=75jGy1xAhhs&t=2s">Binary Search</a></td>
 <td>This tutorial explains about Binary Search  and provides implementation in javascript .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
 </tr>
+</table>
+
+### Java
+<table width="100%" id="algorithms-by-languages">
 <tr>
-<th>Java</th>
+<th>Resource Name</th>
 <th>Description</th>
 
 </tr>
@@ -256,8 +261,13 @@ Here are some   Sorting and Searching Algorithms resources and their Implementat
 <td><a href="https://www.youtube.com/watch?v=NFhOrxtXXcM&t=1s">Binary Search</a></td>
 <td>This tutorial explains about Binary Search and provides implementation in java .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
 </tr>
+</table>
+
+### Python
+
+<table width="100%" id="algorithms-by-languages">
 <tr>
-<th>Python</th>
+<th>Resource Name</th>
 <th>Description</th>
 
 </tr>
