@@ -435,6 +435,148 @@ This section is a curated collection of Artificial Intelligence beginner to adva
   </tr>
 </table>
 
+### Conversational Interfaces & Chatbots
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://api.ai/">API.ai</a></td>
+    <td>Advanced tools needed to build conversational user interfaces.</td>
+  </tr>
+  <tr>
+    <td><a href="https://brokenbear.com/">Broken Bear</a></td>
+    <td>A teddy bear AI for you to vent to for free, online, and anonymously.</td>
+  </tr>
+  <tr>
+    <td><a href="https://chatfuel.com/">Chatfuel</a></td>
+    <td>Build a Facebook chatbot without coding.</td>
+  </tr>
+  <tr>
+    <td><a href="https://chatgenius.one/">ChatGenius</a></td>
+    <td>Unlock the power of Multilingual Communication.</td>
+  </tr>
+  <tr>
+    <td><a href="http://comm.ai/">Comm.ai</a></td>
+    <td>Add voice and chat API to websites and apps.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.conversica.com/">Conversica</a></td>
+    <td>Conversational interfaces to help get more sales.</td>
+  </tr>
+  <tr>
+    <td><a href="http://eddi.labs.ai/">EDDI</a></td>
+    <td>Create, test, and deploy chatbots.</td>
+  </tr>
+  <tr>
+    <td><a href="https://fpt.ai/">FPT AI Platform</a></td>
+    <td>Automated interaction with end-users.</td>
+  </tr>
+  <tr>
+    <td><a href="https://golem.ai">Golem.ai</a></td>
+    <td>Natural language interpretation tool for developers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.gong.io/">Gong</a></td>
+    <td>Analyzes and improves sales conversations and discovery calls.</td>
+  </tr>
+  <tr>
+    <td><a href="http://kasisto.com/">Kasisto</a></td>
+    <td>Conversational AI platform for the finance industry.</td>
+  </tr>
+  <tr>
+    <td><a href="http://kitt.ai/">KITT.AI</a></td>
+    <td>Create conversational agents using a visual interface.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.maluuba.com/">Maluuba</a></td>
+    <td>Teaching machines to think, reason, and communicate.</td>
+  </tr>
+  <tr>
+    <td><a href="http://massively.ai/">Massively</a></td>
+    <td>Build chatbots for business.</td>
+  </tr>
+  <tr>
+    <td><a href="https://meya.ai/">Meya</a></td>
+    <td>Build, train, and host bots in one platform.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mindmeld.com/">MindMeld</a></td>
+    <td>Improved version of Siri.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.motion.ai/">Motion AI</a></td>
+    <td>Chat bots made easy.</td>
+  </tr>
+  <tr>
+    <td><a href="http://txt.ai/index.html#home">msg.ai</a></td>
+    <td>Chatbot with management dashboard.</td>
+  </tr>
+  <tr>
+    <td><a href="https://octaneai.com/">Octane AI</a></td>
+    <td>Marketing automation for messaging.</td>
+  </tr>
+  <tr>
+    <td><a href="https://orbit.ai">Orbit</a></td>
+    <td>Tools to help automate conversational AI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.pagelines.com?ref=hades217">PageLines</a></td>
+    <td>AI agents to enhance your website.</td>
+  </tr>
+  <tr>
+    <td><a href="https://pool.ai/">Pool</a></td>
+    <td>Personal assistant that helps you get more work done.</td>
+  </tr>
+  <tr>
+    <td><a href="https://recast.ai/">Recast</a></td>
+    <td>Collaborative platform to build, train, deploy intelligent bots.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.reply.ai/">Reply.ai</a></td>
+    <td>Platform to build and manage your conversational strategy.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.semanticmachines.com/">Semantic Machines</a></td>
+    <td>Conversational AI for work, travel, shop, and play.</td>
+  </tr>
+  <tr>
+    <td><a href="https://snips.ai/">Snips</a></td>
+    <td>Add a voice Assistant to your connected product.</td>
+  </tr>
+  <tr>
+    <td><a href="http://servo.ai/">Servo</a></td>
+    <td>Full spectrum bot and voice which integrates with existing systems.</td>
+  </tr>
+  <tr>
+    <td><a href="http://unu.ai/">UNU.ai</a></td>
+    <td>Using the Swarm Intelligence (group brainpower) for chatbots.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.unify.ai/">Unify</a></td>
+    <td>E-commerce chatbot.</td>
+  </tr>
+  <tr>
+    <td><a href="https://utu.ai/">uTu</a></td>
+    <td>Multi-channel bot analytics and data management.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.getvoila.ai/">Voilà</a></td>
+    <td>AI-powered browser assistant to help you with everyday tasks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Chatie/wechaty">Wechaty</a></td>
+    <td>Wechaty is a Bot Framework for Wechat Personal Account which can help you create a bot.</td>
+  </tr>
+  <tr>
+    <td><a href="https://wit.ai/">Wit.ai</a></td>
+    <td>Easily create text or voice-based bots for preferred platform.</td>
+  </tr>
+</table>
+
 
 ### AI Organizations
 > 
