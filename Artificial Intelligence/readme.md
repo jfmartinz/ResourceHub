@@ -26,7 +26,6 @@ This section is a curated collection of Artificial Intelligence beginner to adva
 - [YouTube]()
    - [YouTube Channels](#youtube-channels)
    - [YouTube Playlists](#youtube-playlists)
-
 - [Projects](#projects)
    - [Beginner Projects](#beginner-projects)
    - [Intermediate Projects](#intermediate-projects)
@@ -38,6 +37,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
   - [GitHub Repositories](#github-repositories)
   - [AI Job Sites](#ai-job-sites)
   - [Blogs](#blogs)
+  - [AI Cheatsheets](#ai-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -1121,6 +1121,35 @@ This section is a curated collection of Artificial Intelligence beginner to adva
   <tr>
     <td><a href="https://www.learnopencv.com/">Learn OpenCV</a></td>
     <td>Blog with tutorials on computer vision and OpenCV.</td>
+  </tr>
+</table>
+
+### AI Cheatsheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7">Best of AI Cheat-Sheets</a></td>
+    <td>Collection of cheat sheets for AI, neural networks, machine learning, deep learning, and big data science.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/afshinea/stanford-cs-229-machine-learning">Stanford CS229 Machine Learning</a></td>
+    <td>Cheat sheets for Stanford's CS229 Machine Learning course.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/afshinea/stanford-cs-230-deep-learning">Stanford CS230 Deep Learning</a></td>
+    <td>Cheat sheets for Stanford's CS230 Deep Learning course.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence">Stanford CS221 Artificial Intelligence</a></td>
+    <td>Cheat sheets for Stanford's CS221 Artificial Intelligence course.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.aicheatsheets.com/">Collection of AI Cheat-Sheets</a></td>
+    <td>Various AI cheat sheets compiled in one place.</td>
   </tr>
 </table>
 
