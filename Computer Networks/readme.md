@@ -37,7 +37,7 @@ A computer network is a collection of interconnected devices that can communicat
 
 ## Tutorials or Courses
 
-> You can consider these courses for learning Data Science:
+> You can consider these courses for learning Computer Networks:
 
 #### Free Courses
 
@@ -56,6 +56,19 @@ A computer network is a collection of interconnected devices that can communicat
      <tr>
      <td> <a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j">YouTube - Computer Networks by Ravindrababu Ravula </a></td>
      <td> This playlist contains all the Computer Network lectures required for preparing for various competitive exams </td>
+     </tr>
+     <tr>
+     <td><a href="https://youtu.be/IPvYjXCsTg8?si=poOZj62W2yT8nbkD">Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples</a></td>
+     <td>Learn how the internet works in this complete computer networking course. Here we cover the fundamentals of networking, OSI model deep dive, networking protocols, devices, tools, and more with real-life examples.</td>
+      </tr>
+      <tr>
+      <td><a href="https://youtu.be/qiQR5rTSshw?si=NB5Yu4B4OKRQUKqg">Computer Networking Course - Network Engineering by freeCodeCamp</a></td>
+      <td>This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks. It will also help you prepare for CompTIA's Network+ exam.</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.scaler.com/topics/course/free-computer-networks-course/">Master Computer Networking by Scaler</a></td>
+      <td>Scaler's Computer Networks Course is a valuable resource that provides a deep understanding of the fundamental concepts and principles underlying computer networks. Designed for beginners and individuals with limited networking experience, this course aims to equip you with the necessary skills to excel in this exciting domain.</td>
+      </tr>
   </table>
 
 #### Paid Courses
@@ -340,6 +353,14 @@ A computer network is a collection of interconnected devices that can communicat
       <tr>
         <td><a href="https://www.youtube.com/playlist?app=desktop&list=PL2KXNWDCVCbXpVSX1NcJx5iGCdPSo73Ls">Networking InsideWire</a></td>
         <td>This playlist is a valuable resource for anyone looking for reviews and tutorials on networking products for home and small business environments. It features a wide range of products, from routers and switches to security appliances and networking tools.</td>
+      </tr>
+      <tr>
+      <td><a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=FXNVcyW7FtWVkVO1">Computer Networks Complete Playlist by Gate Smashers</a></td>
+      <td>This playlist is for those aspirants who want to just smash the concepts of Computer Networks but they are lagging behind due to lack of proper guidance</td>
+      </tr>
+      <tr>
+      <td><a href="https://youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd&si=VvN6pfRPJNtgrMNg">Computer Networks by KnowledgeGATE</a></td>
+      <td>KnowledgeGATE by Sanchit Sir helps students to prepare for GATE, NET, PSU, and University/semester Exams.</td>
       </tr>
 </table>
 
