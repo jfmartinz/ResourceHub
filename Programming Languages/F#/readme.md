@@ -10,21 +10,21 @@ This section is curated collection which provides basic and advanced concepts of
 
 ## Table of Contents
 
-- [Tutorials](#tutorials)
+- [F#](#f)
    - [Introduction](#introduction)
-   - [F# Basics](#f-basics)
-   - [F# Conditional](#f-conditional)
-   - [F# Functions](#f-functions)
-   - [F# Tuples](#f-tuples)
-   - [F# Collection types](#f-collection-types)
-   - [F# Exception Handling](#f-exception-handling)
+   - [Basics](#basics)
+   - [Conditional](#conditional)
+   - [Functions](#functions)
+   - [Tuples](#tuples)
+   - [Collection types](#collection-types)
+   - [Exception Handling](#exception-handling)
 - [Advanced Functional Programming](#advanced-functional-programming)
 - [Object-Oriented Programming in F#](#object-oriented-programming-in-f)
-- [Development Tools]()
+- [Development Tools](#development-tools)
    - [IDE](#ide)
    - [Editor](#editor)
    - [Compilers](#compilers)
-- [ Data Science ](#data-science)
+- [Data Science](#data-science)
 - [App Development](#app-development)
 - [Videos](#videos)
 - [Courses](#courses)
@@ -38,10 +38,10 @@ This section is curated collection which provides basic and advanced concepts of
 
 
 
-### Tutorials
+### F#
 > Comprehensive tutorials covering F# basics and advanced concepts.
 
-### Introduction
+#### Introduction
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
-### F# Basics
+#### Basics
 
 <table>
   <tr>
@@ -139,7 +139,7 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
-### F# Conditional
+#### Conditional
 
 <table>
   <tr>
@@ -172,7 +172,7 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
-### F# Functions
+#### Functions
 
 <table>
   <tr>
@@ -209,7 +209,7 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
-### F# Tuples
+#### Tuples
 
 <table>
   <tr>
@@ -234,7 +234,7 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
-### F# Collection types
+#### Collection types
 
 <table>
   <tr>
@@ -259,7 +259,7 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
-### F# Exception Handling
+#### Exception Handling
 
 <table>
   <tr>
@@ -381,7 +381,7 @@ This section is curated collection which provides basic and advanced concepts of
 ### Development Tools
 > Tools and utilities for F# development, including IDEs, editors, and compilers.
 
-### IDE
+#### IDE
 
 <table>
   <tr>
@@ -406,7 +406,7 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
-### Editor
+#### Editor
 
 <table>
   <tr>
@@ -459,7 +459,7 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
-### Compilers
+#### Compilers
 
 <table>
   <tr>
@@ -613,22 +613,27 @@ This section is curated collection which provides basic and advanced concepts of
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
+     <th>Cost</th>
   </tr>
   <tr>
     <td><a href="https://www.udemy.com/course/data-programming-with-f/">Data programming with F#</a></td>
     <td>Course on data programming with F# available on Udemy.</td>
+     <td>Paid</td>
   </tr>
   <tr>
     <td><a href="http://www.fsharpworkshop.com/">F# workshop</a></td>
     <td>Workshop focused on F# programming.</td>
+     <td>Free</td>
   </tr>
   <tr>
     <td><a href="https://fsharp.tv/courses/fsharp-programming-intro/">Introduction to F#</a></td>
     <td>Online course providing an introduction to F# programming.</td>
+     <td>Free</td>
   </tr>
   <tr>
     <td><a href="https://write-yourself-a-scheme.pangwa.com/">Write yourself a scheme in 48 hours using F#</a></td>
     <td>Course guiding learners to implement a Scheme interpreter in F#.</td>
+     <td>Free</td>
   </tr>
 </table>
 
@@ -636,57 +641,68 @@ This section is curated collection which provides basic and advanced concepts of
 ### Additinal Resources 
 > Additinal Resources that you may consider.
 
-### Books
+#### Books
 
 <table>
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
+     <th>Cost</th>
   </tr>
   <tr>
     <td><a href="https://www.manning.com/books/get-programming-with-f-sharp">Get Programming with F#: A Guide for .NET Developers</a></td>
     <td>A guide for .NET developers to learn F# programming.</td>
+     <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://books-library.net/files/books-library.net-01301832Oz1H4.pdf">Functional Programming Using F#</a></td>
     <td>Book by Michael R. Hansen on functional programming using F#.</td>
+     <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://www.amazon.in/Expert-F-Experts-Voice-NET/dp/1590598504">Expert F#</a></td>
     <td>Written by Don Syme, this book is for advanced F# developers.</td>
+     <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://pragprog.com/titles/swdddf/domain-modeling-made-functional/">Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#</a></td>
     <td>Learn domain-driven design and functional programming with F#.</td>
+     <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://www.amazon.in/Expert-F-4-0-Don-Syme/dp/1484207416">Expert F# 4.0</a></td>
     <td>Another expert-level book on F# by Don Syme.</td>
+     <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://www.amazon.com/Real-World-Functional-Programming-Tomas-Petricek/dp/1933988924">Real-World Functional Programming: With Examples in F#</a></td>
     <td>Explore real-world examples of functional programming using F#.</td>
+     <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://www.amazon.com/Book-Breaking-Managed-Functional-Programming/dp/1593275528">The Book of F#: Breaking Free with Managed Functional Programming</a></td>
     <td>Learn managed functional programming with F# in this book by Dave Fancher.</td>
+     <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://link.springer.com/book/10.1007/978-1-4842-7205-3">Stylish F# 6: Crafting Elegant Functional Code for .NET 6</a></td>
     <td>This book focuses on crafting elegant functional code for .NET 6 using F#.</td>
+     <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://link.springer.com/book/10.1007/978-1-4302-2390-0">Beginning F#</a></td>
     <td>Introduction to F# programming by Robert. Pickering.</td>
+     <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://www.wiley.com/en-us/F%23+for+Scientists-p-9780470242117">F# for Scientists</a></td>
     <td>This book focuses on using F# for scientific computing.</td>
+     <td>Paid</td>
   </tr>
 </table>
 
 
-### Cheatsheets
+#### Cheatsheets
 
 <table>
   <tr>
@@ -711,7 +727,7 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
-### Websites 
+#### Websites 
 
 <table>
   <tr>
@@ -761,7 +777,7 @@ This section is curated collection which provides basic and advanced concepts of
 </table>
 
 
-### Community
+#### Community
 
 
 <table>
