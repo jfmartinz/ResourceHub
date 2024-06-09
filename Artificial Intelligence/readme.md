@@ -763,6 +763,86 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <th>Resource</th>
         <th>Description</th>
     </tr>
+      <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2">CS221 - Artificial Intelligence: Principles and Techniques by Percy Liang and Dorsa Sadigh</a></td>
+    <td>A comprehensive course on AI principles and techniques taught by Stanford professors.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU">CS229 - Machine Learning by Andrew Ng</a></td>
+    <td>Andrew Ng's renowned machine learning course, covering a wide range of ML topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb">CS230 - Deep Learning by Andrew Ng</a></td>
+    <td>Deep learning techniques and applications taught by Andrew Ng.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv">CS231n - Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karpathy</a></td>
+    <td>A deep dive into CNNs and their applications in visual recognition.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ">CS224n - Natural Language Processing with Deep Learning by Christopher Manning</a></td>
+    <td>Stanford's course on NLP with deep learning, taught by Christopher Manning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u">CS234 - Reinforcement Learning by Emma Brunskill</a></td>
+    <td>Stanford's course on reinforcement learning, covering theory and practical applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI">CS330 - Deep Multi-task and Meta Learning by Chelsea Finn</a></td>
+    <td>A course on advanced deep learning topics such as multi-task and meta learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM">CS25 - Transformers United</a></td>
+    <td>Exploration of transformer models and their applications in AI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z">CS/LTI 11-711: Advanced NLP by Graham Neubig</a></td>
+    <td>Carnegie Mellon's advanced course on natural language processing.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV">CS/LTI 11-747: Neural Networks for NLP by Graham Neubig</a></td>
+    <td>Carnegie Mellon's course on using neural networks for NLP.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7">CS/LTI 11-737: Multilingual NLP by Graham Neubig</a></td>
+    <td>Carnegie Mellon's course on NLP techniques for multiple languages.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UCqlHIJTGYhiwQpNuPU5e2gg/videos">CS/LTI 11-777: Multimodal Machine Learning by Louis-Philippe Morency</a></td>
+    <td>Exploring machine learning techniques that integrate multiple modalities.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists">CS/LTI 11-785: Introduction to Deep Learning by Bhiksha Raj and Rita Singh</a></td>
+    <td>An introductory course on deep learning offered by Carnegie Mellon University.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c">CS/LTI Low Resource NLP Bootcamp 2020 by Graham Neubig</a></td>
+    <td>A bootcamp on NLP techniques for low-resource languages.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI">6.S191 - Introduction to Deep Learning by Alexander Amini and Ava Amini</a></td>
+    <td>MIT's introduction to deep learning course.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf">6.S094 - Deep Learning by Lex Fridman</a></td>
+    <td>Lex Fridman's course on deep learning at MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH">6.S192 - Deep Learning for Art, Aesthetics, and Creativity by Ali Jahanian</a></td>
+    <td>MIT's course on the intersection of deep learning and creativity.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=2pWv7GOvuf0">COMP M050 Reinforcement Learning by David Silver</a></td>
+    <td>David Silver's comprehensive course on reinforcement learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF">Machine Learning by StatQuest with Josh Starmer</a></td>
+    <td>StatQuest's playlist covering various machine learning concepts and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX">Intelligence and Learning by The Coding Train</a></td>
+    <td>The Coding Train's series on AI and machine learning topics.</td>
+  </tr>
     <tr>
         <td><a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb">Deep Learning - MIT OpenCourseWare</a></td>
         <td>This playlist provides lectures from MIT's course on deep learning, covering foundational concepts and advanced techniques.</td>
