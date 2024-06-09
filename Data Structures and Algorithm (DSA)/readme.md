@@ -16,10 +16,10 @@ This section serves as a curated collection of valuable resources for learning a
 - [Coding Platforms](#coding-platforms)
 - [Practice Sheets](#sheets)
 - [DSA implementation](#dsa-implementation-of-several-programming-languages)
-   -[C++](#c)
-   -[Java](#java)
-   -[Python](#python)
-   -[Javascript](#javascript)
+   -[C++](#c)<br>
+   -[Java](#java)<br>
+   -[Python](#python)<br>
+   -[Javascript](#javascript)<br>
 - [Conclusion](#conclusion)
 
 ## Roadmap
