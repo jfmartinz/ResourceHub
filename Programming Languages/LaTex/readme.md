@@ -174,6 +174,77 @@ This Section is a curated collection of resources which provides core and advanc
 
 ### Latex MATH
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Mathematical_expressions">Mathematical expressions</a></td>
+    <td>Overview of creating mathematical expressions in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-math-symbols">LaTeX math symbols</a></td>
+    <td>Guide to using various math symbols in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-mathematical-equations">LaTeX mathematical equations</a></td>
+    <td>Instructions on writing mathematical equations in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-fractions">LaTeX fractions</a></td>
+    <td>How to write fractions in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-matrix">LaTeX matrix</a></td>
+    <td>Guide to creating matrices in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-integral">LaTeX Integral</a></td>
+    <td>Instructions for writing integral equations in LaTeX.</td>
+  </tr>
+  <tr>
+    <td>LaTeX Partial Derivative</td>
+    <td>Guide to writing partial derivatives in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Subscripts_and_superscripts">Subscripts and superscripts</a></td>
+    <td>How to use subscripts and superscripts in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Brackets_and_Parentheses">Brackets and Parentheses</a></td>
+    <td>Guide to using brackets and parentheses in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Fractions_and_Binomials">Fractions and Binomials</a></td>
+    <td>Instructions for writing fractions and binomials in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Operators">Operators</a></td>
+    <td>How to use various operators in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Spacing_in_math_mode">Spacing in math mode</a></td>
+    <td>Guide to spacing in LaTeX math mode.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits">Integrals, sums and limits</a></td>
+    <td>Instructions for writing integrals, sums, and limits in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Display_style_in_math_mode">Display style in math mode</a></td>
+    <td>How to use display style in LaTeX math mode.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Mathematical_fonts">List of Greek letters and math symbols</a></td>
+    <td>Guide to using Greek letters and math symbols in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Mathematical_fonts">Mathematical fonts</a></td>
+    <td>How to use different mathematical fonts in LaTeX.</td>
+  </tr>
+</table>
+
 
 ## Conclusion
 
