@@ -14,7 +14,8 @@ This Section is a curated collection of resources which provides core and advanc
 - [Tutorial](#tutorial)
   - [Introduction](#introduction)
   - [Latex Basics](#latex-basics)
-
+  - [Latex using Tikz](#latex-using-tikz)
+  - [Latex MATH](#latex-math)
 - [Conclusion](#conclusion)
 
 
@@ -66,7 +67,112 @@ This Section is a curated collection of resources which provides core and advanc
 
 ### Latex Basics
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Creating_a_document_in_LaTeX">Creating your first LaTeX document</a></td>
+    <td>A guide to creating your first document in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Choosing_a_LaTeX_Compiler">Choosing a LaTeX Compiler</a></td>
+    <td>An overview of different LaTeX compilers and how to choose one.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Paragraphs_and_new_lines">Paragraphs and new lines</a></td>
+    <td>Instructions on how to create paragraphs and new lines in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Bold%2C_italics_and_underlining">Bold, italics and underlining</a></td>
+    <td>How to format text using bold, italics, and underlining in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-symbols">LaTeX Symbols</a></td>
+    <td>A list of symbols available in LaTeX and how to use them.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-lists">LaTeX Lists</a></td>
+    <td>A guide to creating ordered and unordered lists in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-fonts-size-and-styles">LaTeX Fonts</a></td>
+    <td>How to change font sizes and styles in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-formats">LaTeX Format</a></td>
+    <td>An overview of different formatting options available in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-table">LaTeX Tables</a></td>
+    <td>Instructions on how to create and format tables in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-colors">LaTeX Colors</a></td>
+    <td>How to use colors in LaTeX documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-images">LaTeX Images</a></td>
+    <td>Guidelines for including and formatting images in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-figures">LaTeX Figures</a></td>
+    <td>How to create and manage figures in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-graphs">LaTeX Graphs</a></td>
+    <td>Instructions for creating graphs in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com/learn/latex/Errors">LaTeX Errors</a></td>
+    <td>Common LaTeX errors and how to troubleshoot them.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-smart-diagrams">LaTeX Smart Diagrams</a></td>
+    <td>A guide to creating smart diagrams in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-block-structures">LaTeX Block Structures</a></td>
+    <td>How to use block structures in LaTeX documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-resume-and-templates">Resume & Templates</a></td>
+    <td>Examples and templates for creating resumes in LaTeX.</td>
+  </tr>
+</table>
 
+
+### Latex using Tikz
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-block-diagram-using-tikz">Block Diagram using TikZ</a></td>
+    <td>Instructions on how to create block diagrams using TikZ in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-flow-diagrams-using-tikz">Flow Diagrams using TikZ</a></td>
+    <td>Guidelines for creating flow diagrams with TikZ in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-node-graphs-using-tikz">Node Graphs using TikZ</a></td>
+    <td>How to create and manage node graphs using TikZ in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-graph-of-equations-using-tikz">Graph of Equations using TikZ</a></td>
+    <td>Instructions for plotting graphs of equations with TikZ in LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/latex-bar-graphs-and-pie-charts-using-tikz">Bar Graphs & Pie Charts using TikZ</a></td>
+    <td>How to create bar graphs and pie charts using TikZ in LaTeX.</td>
+  </tr>
+</table>
+
+### Latex MATH
 
 
 ## Conclusion
