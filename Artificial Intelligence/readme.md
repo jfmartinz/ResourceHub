@@ -10,6 +10,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
 - [Roadmap](#roadmap)
 - [Tutorial](#tutorial)
    - [Introduction](#introduction)
+   - [AI Problem-solving](#ai-problem-solving)
 - [Tools](#tools)
 - [Technologies](#technologies)
 - [Courses](#courses)
@@ -99,6 +100,35 @@ This section is a curated collection of Artificial Intelligence beginner to adva
   <tr>
     <td><a href="https://www.javatpoint.com/turing-test-in-ai">Turing Test in AI</a></td>
     <td>Explains the Turing Test and its significance in evaluating the intelligence of AI systems.</td>
+  </tr>
+</table>
+
+### AI Problem-solving
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/search-algorithms-in-ai">Search Algorithms</a></td>
+    <td>An overview of search algorithms in AI, discussing their importance and basic principles.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/ai-uninformed-search-algorithms">Uninformed Search Algorithm</a></td>
+    <td>Explains uninformed search algorithms, including types like BFS and DFS, and their applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/ai-informed-search-algorithms">Informed Search Algorithms</a></td>
+    <td>Details informed search algorithms, such as A* and Greedy Best-First Search, and their use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/hill-climbing-algorithm-in-ai">Hill Climbing Algorithm</a></td>
+    <td>Describes the hill climbing algorithm, its process, and how it is applied in problem-solving.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/means-ends-analysis-in-ai">Means-Ends Analysis</a></td>
+    <td>Discusses the means-ends analysis technique in AI, focusing on how it breaks down problems into manageable parts.</td>
   </tr>
 </table>
 
