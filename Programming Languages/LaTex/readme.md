@@ -608,7 +608,7 @@ This Section is a curated collection of resources which provides core and advanc
 
 
 ### Additional Resources
-> Here are some additional resources for Latex.
+> Additional resources related to LaTeX, including books, blogs, forums, social media groups, and additional tutorials.
 
 ### Books 
 
