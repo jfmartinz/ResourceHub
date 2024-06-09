@@ -16,7 +16,9 @@ This section is curated collection which provides basic and advanced concepts of
    - [F# Conditional](#f-conditional)
    - [F# Functions](#f-functions)
    - [F# Tuples](#f-tuples)
-
+   - [F# Collection types](#f-collection-types)
+- [Advanced Functional Programming](#advanced-functional-programming)
+- [Object-Oriented Programming in F#](#object-oriented-programming-in-f)
 - [Conclusion](#conclusion)
 
 
@@ -219,6 +221,119 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
+### F# Collection types
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/fsharp/language-reference/fsharp-collection-types">F# Collection types</a></td>
+    <td>Overview of collection types in F# as provided by Microsoft's official documentation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-list">F# List</a></td>
+    <td>Introduction to lists in F#, covering their creation, operations, and usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-arrays">F# Arrays</a></td>
+    <td>Explanation of arrays in F#, including their declaration, initialization, and manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-sequence">F# Seq</a></td>
+    <td>Overview of sequences in F#, their creation, and operations.</td>
+  </tr>
+</table>
+
+### Advanced Functional Programming
+>
+
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-generics">F# Generics</a></td>
+    <td>Explanation of generics in F#, their syntax, and usage for writing reusable code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-records">F# Records</a></td>
+    <td>Introduction to records in F#, which are used to group related data together.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-enumerations">F# Enumeration</a></td>
+    <td>Overview of enumerations in F#, used to define a set of named constants.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-reference-cells">F# Reference Cells</a></td>
+    <td>Explanation of reference cells in F#, mutable storage locations that can be updated.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-structures">F# Structures</a></td>
+    <td>Introduction to structures in F#, used to define lightweight objects with value semantics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-discriminated-unions">F# Discriminated Unions</a></td>
+    <td>Explanation of discriminated unions in F#, used to define a type that can hold different types of values.</td>
+  </tr>
+</table>
+
+
+### Object-Oriented Programming in F#
+> 
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-obejct-and-class">Classes and Objects</a></td>
+    <td>Overview of classes and objects in F#, including their definition and usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/fsharp/language-reference/classes">Defining Classes</a></td>
+    <td>Explanation of how to define classes in F# programming language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/fsharp/language-reference/object-expressions">Creating Objects</a></td>
+    <td>Guide on creating objects in F# using object expressions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-constructor">F# Constructor</a></td>
+    <td>Explanation of constructors in F#, used for initializing objects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-self-identifier">F# Self Identifier</a></td>
+    <td>Information about the self identifier in F#, which represents the current instance of a class or object.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-static">F# Static</a></td>
+    <td>Explanation of static members in F#, which belong to the type itself rather than to instances of the type.</td>
+  </tr>
+  <tr>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/fsharp/language-reference/members/properties#:~:text=property%20is%20accessed.-,Static%20and%20Instance%20Properties,is%20required%20for%20instance%20properties.">Properties and Methods</a></td>
+    <td>Guide on defining properties and methods in F# classes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-inheritance">Inheritance in F#</a></td>
+    <td>Explanation of inheritance and its implementation in F#.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-interface">Implementing Interfaces</a></td>
+    <td>Guide on implementing interfaces in F# to define a contract for types.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-method-overriding">F# Method Overriding</a></td>
+    <td>Explanation of method overriding in F#, used to provide a specific implementation of a method in a derived class.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-abstract-classes">F# Abstraction</a></td>
+    <td>Overview of abstract classes in F#, which cannot be instantiated and are used as base classes for other classes.</td>
+  </tr>
+</table>
 
 ## Conclusion
