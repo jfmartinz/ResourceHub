@@ -449,6 +449,41 @@ This Section is a curated collection of resources which provides core and advanc
 
 ### Online Editors
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654">List of popular online LaTeX editors</a></td>
+    <td>Community-maintained list of popular online LaTeX editors, including equation editors.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.authorea.com">Authorea</a></td>
+    <td>Online editor with built-in git support and bibliography tools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sharelatex.com">ShareLaTeX</a></td>
+    <td>Has pretty great LaTeX documentation and simple version control.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.overleaf.com">Overleaf</a></td>
+    <td>Online editor, also with a WYSIWYM editor and git support.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sanjib-sen/weblatex">WebLaTeX</a></td>
+    <td>Web-based VSCode with Git Integration, Copilot, Grammar & Spell Checker, and Live Collaboration Support based on GitHub Codespace and Dev container.</td>
+  </tr>
+  <tr>
+    <td><a href="https://papeeria.com">Papeeria</a></td>
+    <td>Online editor with built-in git support.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zohooo.GitHub.io/jaxedit/">JaxEdit</a></td>
+    <td>Online LaTeX editor with Live Preview and nice presentation mode.</td>
+  </tr>
+</table>
+
 
 
 ## Conclusion
