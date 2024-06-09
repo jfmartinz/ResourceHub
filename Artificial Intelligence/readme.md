@@ -261,6 +261,26 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <th>Description</th>
     </tr>
     <tr>
+    <td><a href="https://chat.openai.com/">ChatGPT</a></td>
+    <td>ChatGPT is a free-to-use AI system. It allows users to engage in conversations, gain insights, automate tasks, and witness the future of AI all in one place.</td>
+  </tr>
+  <tr>
+    <td><a href="https://gemini.google.com/">Gemini</a></td>
+    <td>Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://openai.com/dall-e-3">DALL·E 3</a></td>
+    <td>DALL·E 3 is an AI system that can create realistic images and art from a natural-language description.</td>
+  </tr>
+  <tr>
+    <td><a href="https://openai.com/sora">Sora</a></td>
+    <td>Sora is a text-to-video AI model that can create realistic and imaginative scenes from text instructions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.anthropic.com/claude">Claude</a></td>
+    <td>Claude is a family of foundational AI models that can be used in various applications. You can talk directly with Claude at claude.ai to brainstorm ideas, analyze images, and process long documents.</td>
+  </tr>
+    <tr>
         <td><a href="https://www.python.org/">Python</a></td>
         <td>A high-level programming language widely used in AI for its simplicity and extensive libraries.</td>
     </tr>
@@ -276,6 +296,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <td><a href="https://www.microsoft.com/en-us/azure/machine-learning/">Azure Machine Learning</a></td>
         <td>A cloud-based service for building, training, and deploying machine learning models.</td>
     </tr>
+    
 </table>
 
 ### Technologies
