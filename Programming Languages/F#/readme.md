@@ -20,9 +20,13 @@ This section is curated collection which provides basic and advanced concepts of
    - [F# Exception Handling](#f-exception-handling)
 - [Advanced Functional Programming](#advanced-functional-programming)
 - [Object-Oriented Programming in F#](#object-oriented-programming-in-f)
+- [Development Tools]()
+   - [IDE](#ide)
+   - [Editor](#editor)
+   - [Compilers](#compilers)
+- [ Data Science ](#data-science)
+- [App Development](#app-development)
 
-- [IDE](#ide)
-- [Compilers](#compilers)
 - [Conclusion](#conclusion)
 
 
@@ -369,9 +373,10 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
+### Development Tools
+>
 
 ### IDE
->
 
 <table>
   <tr>
@@ -450,7 +455,6 @@ This section is curated collection which provides basic and advanced concepts of
 </table>
 
 ### Compilers
-> 
 
 <table>
   <tr>
@@ -491,6 +495,58 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
+### Data Science 
+>
+
+<table>
+  <tr>
+    <th>Data Science</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/BlueMountainCapital/Deedle">Deedle</a></td>
+    <td>Deedle: Exploratory data library for .NET. Licensed under BSD-2-Clause.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.deepml.net">Deep.Net</a></td>
+    <td>Deep learning library for F#. Provides symbolic model differentiation, automatic differentiation, and compilation to CUDA GPUs. Licensed under Apache 2.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DiffSharp/DiffSharp">DiffSharp</a></td>
+    <td>DiffSharp is a functional automatic differentiation (AD) library. Licensed under BSD-2-Clause.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fslaborg/FsLab">FsLab</a></td>
+    <td>FsLab is a collection of libraries for data-science. It provides a rapid development environment that lets you write advanced analysis with few lines of production-quality code. Licensed under Apache 2.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fsprojects/IfSharp">IfSharp</a></td>
+    <td>F# for Jupyter Notebooks. Licensed under BSD-3-Clause.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/BayesWitnesses/m2cgen">m2cgen</a></td>
+    <td>A CLI tool to transpile trained classic ML models into native F# code with zero dependencies. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mathnet/mathnet-numerics">Math.NET Numerics</a></td>
+    <td>Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering, and everyday use. F# specific bindings available. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mathnet/mathnet-symbolics/">Math.NET Symbolics</a></td>
+    <td>Math.NET Symbolics is a basic open-source computer algebra library for .NET, Silverlight, and Mono written entirely in F#. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jackmott/SIMDArray">SIMDArray</a></td>
+    <td>SIMD enhanced Array extensions for faster computation. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mrdimosthenis/Synapses">Synapses</a></td>
+    <td>Neural network library in F#. Licensed under MIT.</td>
+  </tr>
+</table>
+
+### App Development 
+>
 
 
 ## Conclusion
