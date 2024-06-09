@@ -1218,6 +1218,34 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <td><a href="https://github.com/fastai/fastai">Image Classification with Convolutional Neural Networks</a></td>
         <td>An advanced project involving the classification of images using convolutional neural networks.</td>
     </tr>
+    <tr>
+    <td><a href="https://github.com/robertmartin8/MachineLearningStocks">Stock Prediction</a></td>
+    <td>An advanced machine learning project focused on predicting stock prices using historical data and various predictive models.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/daniruiz/Cleaning-Robot-AI">Cleaning Robots</a></td>
+    <td>An AI-powered system for controlling and optimizing the behavior of cleaning robots to efficiently clean different environments.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/topics/predictive-maintenance">Predictive Maintenance</a></td>
+    <td>A collection of projects and resources related to predictive maintenance in various industries, using machine learning and IoT technologies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/topics/personalized-medicine">Personalized Medicine</a></td>
+    <td>An advanced medical project that leverages machine learning and genomics data to provide personalized treatment recommendations for patients.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/campusx-official/book-recommender-system">Recommendation Systems</a></td>
+    <td>A comprehensive book recommender system that uses collaborative filtering and other algorithms to suggest books based on user preferences.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/topics/autonomous-vehicles">Autonomous Vehicles</a></td>
+    <td>An exploration of autonomous vehicle technology, including perception, control, and decision-making algorithms.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ggeop/Python-ai-assistant">Voice-Based Virtual Assistant</a></td>
+    <td>An AI-powered virtual assistant that responds to voice commands, performs tasks, and provides information to users.</td>
+  </tr>
 </table>
 
 ### Additional Resources
