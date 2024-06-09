@@ -156,6 +156,14 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <td><a href="https://www.lua.org/pil/8.4.html">Error Handling</a></td>
     <td>This article provides an overview of error handling in Lua, including the use of pcall and xpcall functions.</td>
   </tr>
+     <tr>
+    <td><a href="https://www.lua.org/pil/8.5.html">Error Messages and Tracebacks</a></td>
+    <td>This article provides an overview of Error Messages and Tracebacks in Lua</td>
+  </tr>
+        <tr>
+    <td><a href="https://www.lua.org/pil/9.html">Coroutines</a></td>
+    <td>This article provides an overview of Coroutines in Lua</td>
+  </tr>
 </table>
 
 ## Testing
