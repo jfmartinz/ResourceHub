@@ -39,8 +39,7 @@ This section is curated collection which provides basic and advanced concepts of
 
 
 ### Tutorials
->
-
+> Comprehensive tutorials covering F# basics and advanced concepts.
 
 ### Introduction
 
@@ -290,7 +289,7 @@ This section is curated collection which provides basic and advanced concepts of
 </table>
 
 ### Advanced Functional Programming
->
+> Advanced topics in functional programming with F#, including generics, records, and discriminated unions.
 
 
 <table>
@@ -326,7 +325,7 @@ This section is curated collection which provides basic and advanced concepts of
 
 
 ### Object-Oriented Programming in F#
-> 
+> Resources exploring object-oriented programming concepts and techniques in F#.
 
 <table>
   <tr>
@@ -380,7 +379,7 @@ This section is curated collection which provides basic and advanced concepts of
 </table>
 
 ### Development Tools
->
+> Tools and utilities for F# development, including IDEs, editors, and compilers.
 
 ### IDE
 
@@ -502,7 +501,7 @@ This section is curated collection which provides basic and advanced concepts of
 </table>
 
 ### Data Science 
->
+> Materials related to data science and machine learning using F#, including libraries and frameworks.
 
 <table>
   <tr>
@@ -552,7 +551,7 @@ This section is curated collection which provides basic and advanced concepts of
 </table>
 
 ### App Development 
->
+> Resources for developing applications using F# for various platforms and purposes.
 
 <table>
   <tr>
@@ -578,7 +577,7 @@ This section is curated collection which provides basic and advanced concepts of
 </table>
 
 ### Videos
->
+> Video tutorials and presentations covering different aspects of F# programming.
 
 <table>
   <tr>
@@ -608,7 +607,7 @@ This section is curated collection which provides basic and advanced concepts of
 </table>
 
 ### Courses 
->
+> Online courses and workshops for learning F# programming.
 
 <table>
   <tr>
@@ -635,7 +634,7 @@ This section is curated collection which provides basic and advanced concepts of
 
 
 ### Additinal Resources 
->
+> Additinal Resources that you may consider.
 
 ### Books
 
@@ -794,3 +793,10 @@ This section is curated collection which provides basic and advanced concepts of
 
 
 ## Conclusion
+
+F# is a powerful and versatile programming language that combines the elegance of functional programming with the practicality of .NET development. Whether you're a beginner learning the basics or an experienced developer exploring advanced concepts, the resources compiled in this README provide a comprehensive guide to mastering F#.
+
+ From tutorials and videos to books and community forums, there's something here for everyone interested in unlocking the full potential of F#. So dive in, explore, and join the vibrant community of F# enthusiasts as you embark on your journey to becoming a proficient F# developer. 
+
+
+Happy coding !!
