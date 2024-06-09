@@ -33,9 +33,8 @@ This Section is a curated collection of resources which provides core and advanc
 - [Conclusion](#conclusion)
 
 
-
 ### Tutorial
->
+> Resources for learning LaTeX, including online tutorials, Introduction Document structure Latex Basics Formatting Latex using Tikz Latex MATH.
 
 ### Introduction
 
@@ -374,8 +373,7 @@ This Section is a curated collection of resources which provides core and advanc
 
 
 ### Latex Editors
-> Some of the most awesome editors for LaTeX, Latex Focused Editors, Text Editors and Online Editors.
-
+> Information on LaTeX editors, both general-purpose and LaTeX-focused, for writing and editing LaTeX documents.
 
 ### Latex Focused Editors
 
@@ -524,7 +522,7 @@ This Section is a curated collection of resources which provides core and advanc
 </table>
 
 ### Latex Distributions
->
+> Different distributions of LaTeX software, including MacTeX, TeX Live, and MikTeX, for various operating systems.
 
 <table>
   <tr>
