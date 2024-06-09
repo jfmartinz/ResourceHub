@@ -638,10 +638,6 @@ This Section is a curated collection of resources which provides core and advanc
   </tr>
 </table>
 
-
-
-
-
 ### Blogs
 
 <table>
@@ -666,6 +662,35 @@ This Section is a curated collection of resources which provides core and advanc
     <td>A weekly video meeting</td>
   </tr>
 </table>
+
+### Community
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/groups/1600297">LinkedIn: TeX/LaTeX User Group</a></td>
+    <td>LinkedIn group for TeX/LaTeX users to connect and share.</td>
+  </tr>
+  <tr>
+    <td><a href="https://twitter.com/TeXtip">@TeXtip</a></td>
+    <td>Tips related to (La)TeX by <a href="https://www.johndcook.com/">John D. Cook</a> on Twitter.</td>
+  </tr>
+  <tr>
+    <td><a href="https://tex.stackexchange.com">TeX.StackExchange</a></td>
+    <td>StackExchange TeX section for asking and answering questions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://topanswers.xyz/tex">TopAnswers TeX</a></td>
+    <td>A free and open source Q&A site for TeX and friends.</td>
+  </tr>
+</table>
+
+
+
+### Additional Tutorials
 
 
 
