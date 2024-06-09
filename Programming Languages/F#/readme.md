@@ -20,6 +20,9 @@ This section is curated collection which provides basic and advanced concepts of
    - [F# Exception Handling](#f-exception-handling)
 - [Advanced Functional Programming](#advanced-functional-programming)
 - [Object-Oriented Programming in F#](#object-oriented-programming-in-f)
+
+- [IDE](#ide)
+- [Compilers](#compilers)
 - [Conclusion](#conclusion)
 
 
@@ -363,6 +366,128 @@ This section is curated collection which provides basic and advanced concepts of
   <tr>
     <td><a href="https://www.javatpoint.com/f-sharp-abstract-classes">F# Abstraction</a></td>
     <td>Overview of abstract classes in F#, which cannot be instantiated and are used as base classes for other classes.</td>
+  </tr>
+</table>
+
+
+### IDE
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Seng-Jik/FSharpPlayground">F# Playground</a></td>
+    <td>Minimal playground for F#. Licensed under GPL 3.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.jetbrains.com/rider">Jetbrains Rider</a></td>
+    <td>Cross-Platform .Net IDE with F# support. Proprietary, free for open source projects.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.monodevelop.com/">MonoDevelop</a></td>
+    <td>Cross-platform IDE mostly aimed at Mono/.NET developers. Licensed under LGPLv2 and X11/MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.visualstudio.com/">Visual Studio</a></td>
+    <td>IDE from Microsoft with first-class F# support (Windows only). Proprietary.</td>
+  </tr>
+</table>
+
+### Editor
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fsharp/emacs-fsharp-mode">Emacs F# mode</a></td>
+    <td>F# support in Emacs (including Intellisense and Interactive mode). Licensed under Apache 2.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fsharp/fsharpbinding">F# Bindings</a></td>
+    <td>Archive of F# Language Bindings for Open Editors. Licensed under Apache 2.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fsprojects/fantomas">Fantomas</a></td>
+    <td>F# code formatter. Licensed under Apache 2.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fsprojects/FSharpLint">FSharpLint</a></td>
+    <td>F# code linter. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nightroman/FarNet">FSharpFar</a></td>
+    <td>F# support for Far Manager. Licensed under BSD-3-Clause.</td>
+  </tr>
+  <tr>
+    <td><a href="http://ionide.io/">Ionide</a></td>
+    <td>Atom Editor and Visual Studio Code package suite for cross-platform F# development. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fsharp/vim-fsharp">Vim F#</a></td>
+    <td>F# support for Vim. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/adelarsq/neofsharp.vim">neofsharp.vim</a></td>
+    <td>Basic F# support for (Neo)Vim. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AshleyF/VimSpeak">VimSpeak</a></td>
+    <td>VimSpeak lets you control Vim with your voice using speech recognition. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fsprojects/VisualFSharpPowerTools">Visual F# Power Tools</a></td>
+    <td>Power commands for F# in Visual Studio. Licensed under Apache 2.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pablofrommars/fsharp-notebook">fsharp-notebook</a></td>
+    <td>Data Science Notebook for F# interactive. Licensed under MIT.</td>
+  </tr>
+</table>
+
+### Compilers
+> 
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fsharp/FSharp.Compiler.Service">F# Compiler Services</a></td>
+    <td>The F# Compiler, F# Interactive scripting engine, and F# editing services as a component library. Licensed under Apache 2.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fable-compiler/Fable">Fable</a> </td>
+    <td>F# to JavaScript Compiler. Licensed under Apache 2.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kjnilsson/fez">Fez</a> </td>
+    <td>F# to Erlang compiler. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fsharp/fsharp">FSharp</a></td>
+    <td>The Open Edition of the F# compiler, core library, and tools. Licensed under Apache 2.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ZachBray/FunScript">FunScript</a> </td>
+    <td>F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider. Licensed under Apache 2.0.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/calebh/Juniper">Juniper</a> </td>
+    <td>Functional Reactive Programming for the Arduino and other microcontrollers. Licensed under MIT.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ninjarobot/Pengines.Client">Pengines.Client</a> </td>
+    <td>Sandboxed Prolog environment. Licensed under BSD-2-Clause.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Microsoft/visualfsharp">Visual F#</a> </td>
+    <td>The Visual F# compiler and tools. Licensed under Apache 2.0.</td>
   </tr>
 </table>
 
