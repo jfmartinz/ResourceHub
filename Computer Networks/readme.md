@@ -8,6 +8,7 @@ A computer network is a collection of interconnected devices that can communicat
 - [Tutorials or Courses](#tutorials-or-courses)<br>
    - [Free Cources](#free-courses)<br>
    - [Paid Courses](#paid-courses)<br>
+- [TCP/IP Protocols](#tcpip-protocol)
 - [Network Implementation](#network-implementation)
    - [Routing](#routing)
    - [SD-WAN and Swutching](#sd-wan-and-switching)
@@ -94,6 +95,85 @@ A computer network is a collection of interconnected devices that can communicat
             <td>This course is designed to provide a full overview of computer networking.</td>
       </tr>
   </table>
+
+
+
+
+### TCP/IP Protocol
+>  The TCP/IP or the Transmission Control Protocol/Internet Protocol is a communication protocol suite using which network devices can be connected to the Internet. 
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc826/">Address Resolution Protocol (ARP)</a></td>
+    <td>Protocol used for mapping a network address (IP address) to a physical address (MAC address).</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc4271/">Border Gateway Protocol (BGP)</a></td>
+    <td>Exterior gateway protocol designed to exchange routing and reachability information among autonomous systems on the Internet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc1035/">Domain Name System (DNS)</a></td>
+    <td>Hierarchical distributed naming system for computers, services, or any resource connected to the Internet or a private network.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc2131/">Dynamic Host Configuration Protocol (DHCP)</a></td>
+    <td>Network management protocol used to dynamically assign IP addresses and other network configuration parameters to devices on a network.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc959/">File Transfer Protocol (FTP)</a></td>
+    <td>Standard network protocol used for the transfer of files between a client and a server on a computer network.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc2616/">Hypertext Transfer Protocol (HTTP/1.1)</a></td>
+    <td>Application protocol for distributed, collaborative, hypermedia information systems; foundation of data communication for the World Wide Web.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc7540/">Hypertext Transfer Protocol Version 2 (HTTP/2)</a></td>
+    <td>Major revision of the HTTP network protocol used by the World Wide Web.</td>
+  </tr>
+  <tr>
+    <td><a href="https://tools.ietf.org/html/rfc791/">Internet Protocol Version 4 (IPv4)</a></td>
+    <td>Fourth version of the Internet Protocol (IP) used to identify devices on a network through an addressing system.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc2460/">Internet Protocol Version 6 (IPv6)</a></td>
+    <td>Most recent version of the Internet Protocol, designed to succeed IPv4, offering an enormously large number of available IP addresses.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc1631/">Network Address Translator (NAT)</a></td>
+    <td>Network service used in IPv4 networks, enabling multiple devices on a local network to share a single public IP address to access the Internet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc5321/">Simple Mail Transfer Protocol (SMTP)</a></td>
+    <td>Standard communication protocol used for electronic mail transmission over the Internet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc1157/">Simple Network Management Protocol (SNMP)</a></td>
+    <td>Network management protocol used for collecting and organizing information about managed devices on IP networks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc4251/">Secure Shell (SSH)</a></td>
+    <td>Secure protocol used to access remote servers and perform network services securely over an unsecured network.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc793/">Transmission Control Protocol (TCP)</a></td>
+    <td>Standard that defines how to establish and maintain a network conversation through which applications can exchange data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc854/">Telnet</a></td>
+    <td>Network protocol used on the Internet or local area networks to provide bidirectional interactive text-oriented communication.</td>
+  </tr>
+  <tr>
+    <td><a href="https://datatracker.ietf.org/doc/rfc768/">User Datagram Protocol (UDP)</a></td>
+    <td>Connectionless protocol used for communication over a network that supports the transmission of data segments.</td>
+  </tr>
+</table>
+
+
 
 ## Network Implementation
 >  The implementation plan is a detailed roadmap that outlines every step of deploying the network. It includes routing, switching, VPN, Network Services, Network Connectivity, etc.

@@ -6,6 +6,7 @@ Linux development refers to creating software for the Linux operating system, en
 - [Roadmap](#roadmap)
 - [Tools](#tools)
 - [Technologies](#technologies)
+- [Command line & bash programming](#command-line--bash-programming)
 - [Courses](#courses)
 - [Books](#books)
 - [YouTube Channels](#youtube-channels)
@@ -128,6 +129,56 @@ Linux development refers to creating software for the Linux operating system, en
   </tr>
 </table>
 
+### Command line & bash programming
+> Here are some resources for Command line & bash programming in Liux development.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jlevy/the-art-of-command-line">The art of command line</a></td>
+    <td>An absolutely must-read resource for mastering the command line.</td>
+  </tr>
+  <tr>
+    <td><a href="http://ryanstutorials.net/linuxtutorial/commandline.php">Linux Tutorial - Command Line</a></td>
+    <td>A comprehensive tutorial covering various aspects of the Linux command line.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.tldp.org/LDP/Bash-Beginners-Guide/html/">Bash Guide for Beginners</a></td>
+    <td>A beginner-friendly guide to Bash scripting and command line usage.</td>
+  </tr>
+  <tr>
+    <td><a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html">Bash programming - introduction</a></td>
+    <td>An introductory guide to Bash programming and script writing.</td>
+  </tr>
+  <tr>
+    <td><a href="http://linuxconfig.org/bash-scripting-tutorial">Bash scripting tutorial</a></td>
+    <td>A tutorial covering the basics of Bash scripting for beginners.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/">Learning bash scripting for beginners</a></td>
+    <td>A beginner-oriented resource for learning Bash scripting.</td>
+  </tr>
+  <tr>
+    <td><a href="http://wiki.bash-hackers.org/scripting/tutoriallist">List of bash on-line tutorials</a></td>
+    <td>A collection of online tutorials for learning Bash scripting and command line usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Idnan/bash-guide">bash guide</a></td>
+    <td>A comprehensive guide to Bash scripting, covering various topics and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/learnbyexample/Command-line-text-processing">command line text processing</a></td>
+    <td>A resource for learning text processing techniques using command line tools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dylanaraps/pure-bash-bible">pure bash bible</a></td>
+    <td>A collection of pure Bash scripting techniques and examples.</td>
+  </tr>
+</table>
+
 ### Courses
 
 > You can consider these courses for learning Linux Development:
@@ -168,6 +219,16 @@ Linux development refers to creating software for the Linux operating system, en
     <td>Learn basic installation and configuration of Linux software and get introduced to the Linux command line.</td>
     <td>Free</td>
   </tr>
+  <tr>
+  <td><a href="https://youtu.be/sWbUDq4S6Y8?si=r4sMkmDLxE0KL6Vz">Introduction to Linux by freeCodeCamp</a></td>
+  <td>If you're new to Linux, this beginner's course is for you. You'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs.</td>
+  <td>Free</td>
+  </tr>
+  <tr>
+  <td><a href="https://youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As&si=6UiVzB-hDFMUXGg0">Linux Command Lines Tutorials</a></td>
+  <td> “Linux Command Line Tutorial For Beginners" will teach you everything you need to know about Linux Command Line in easy-to-understand language.</td>
+  <td>Free</td>
+</tr>
 </table>
 
 ### Books
@@ -186,6 +247,58 @@ Linux development refers to creating software for the Linux operating system, en
   <tr>
     <td><a href="https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200">The Linux Programming Interface by Michael Kerrisk</a></td>
     <td>Detailed guide to Linux and UNIX system programming, including APIs, system calls, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.thegeekstuff.com/linux-101-hacks-ebook/">linux-101-hacks-ebook</a></td>
+    <td>An eBook providing practical Linux tips, tricks, and hacks for both beginners and advanced users.</td>
+  </tr>
+  <tr>
+    <td><a href="http://linuxcommand.org/tlcl.php">The-linux-command-line</a></td>
+    <td>Comprehensive guide to mastering the Linux command line interface.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/">advanced-bash-scripting-guide</a></td>
+    <td>An advanced guide to shell scripting in Linux using Bash.</td>
+  </tr>
+  <tr>
+    <td><a href="http://dsl.org/cookbook/cookbook_toc.html">linux-cookbook</a></td>
+    <td>A collection of practical recipes for Linux system administration and management.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.oreilly.com/openbook/linag2/book/index.html">linux-network-admin-guide</a></td>
+    <td>A comprehensive guide to Linux networking administration and configuration.</td>
+  </tr>
+  <tr>
+    <td><a href="https://help.ubuntu.com/">help.ubuntu.com</a></td>
+    <td>Official documentation and support resources for Ubuntu Linux.</td>
+  </tr>
+  <tr>
+    <td><a href="http://askubuntu.com/">askubuntu.com</a></td>
+    <td>Community-driven Q&A platform for Ubuntu users and developers.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.ubuntupocketguide.com/download_main.html">ubuntu-pocket-guide</a></td>
+    <td>A concise guide to Ubuntu Linux, covering installation, usage, and configuration.</td>
+  </tr>
+  <tr>
+    <td><a href="http://programmerworld.netfirms.com/techbooks/linux.htm">linux-ebooks</a></td>
+    <td>A collection of free eBooks and resources for learning Linux.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.techbooksforfree.com/linux.shtml">tech-books-for-free</a></td>
+    <td>Free technical books and resources for learning Linux and related technologies.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.onlineprogrammingbooks.com/linux/">online-books</a></td>
+    <td>A collection of online books covering various aspects of Linux programming and administration.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.techotopia.com/index.php/Main_Page">linuxtopia-books</a></td>
+    <td>Free online books covering a wide range of Linux and open source topics.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.freetechbooks.com/">freetechbooks.com</a></td>
+    <td>Free technical books and resources covering Linux, programming, and other IT topics.</td>
   </tr>
 </table>
 
@@ -217,6 +330,10 @@ Linux development refers to creating software for the Linux operating system, en
     <td><a href="https://www.youtube.com/c/LearnLinuxtv">LearnLinuxtv</a></td>
     <td>  LearnLinuxTV provides detailed tutorials on various Linux distributions, commands, and system administration topics. It's a great resource for both beginners and advanced users.</td>
   </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/@tutoriaLinux">tutoriaLinux</a></td>
+  <td>Linux, DevOps, Cloud, and Programming tutorial videos, ranging from basic Linux commands for beginners to practical programming and cloud infrastructure projects using modern tooling.</td>
+  </tr>
 </table>
 
 ### GitHub Resources
@@ -232,5 +349,13 @@ Linux development refers to creating software for the Linux operating system, en
   <tr>
     <td><a href="https://github.com/dastergon/awesome-sre">Awesome SRE Roadmap</a></td>
     <td>Resources and tools for Site Reliability Engineering, with a focus on Linux system management and development.</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/trinib/Linux-Bash-Commands">Linux-Bash-Commands</a></td>
+  <td> Ultimate list of Linux bash commands, cheatsheets and resources</td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/GameServerManagers/LinuxGSM">LinuxGSM</a></td>
+  <td>The command-line tool for quick, simple deployment and management of Linux dedicated game servers.</td>
   </tr>
 </table>
