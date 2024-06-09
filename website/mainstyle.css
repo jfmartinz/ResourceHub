@@ -1528,6 +1528,9 @@ body{
 
 /* SCROLLBAR STYLES */
 
+.footerclass a {
+	transition: all 0.3s linear;
+
 body::-webkit-scrollbar {
   width: 8px;
   scroll-behavior: smooth;
@@ -1537,9 +1540,19 @@ body::-webkit-scrollbar-track {
   background: rgb(38, 38, 38);
 }
 
+.footerclass .grid {
+	margin-bottom: 1rem; /* Adding this for space between the content and the copyright part*/
+  }
+
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 body::-webkit-scrollbar-thumb {
   background: rgb(0, 110, 255);
   border-radius: 6px;
+
 }
 
 body::-webkit-scrollbar-thumb:hover {
@@ -1576,6 +1589,31 @@ body::-webkit-scrollbar-thumb:hover {
   font:bolder;
   text-decoration: underline;
 }
+
+/* Footer Responsive Styles */
+@media (max-width: 639px) {
+	.footerclass .grid {
+	  grid-template-columns: repeat(3, 1fr);
+	}
+  }
+  
+  @media (min-width: 640px) and (max-width: 767px) {
+	.footerclass .grid {
+	  grid-template-columns: repeat(3, 1fr);
+	}
+  }
+  
+  @media (min-width: 768px) and (max-width: 1023px) {
+	.footerclass .grid {
+	  grid-template-columns: repeat(3, 1fr);
+	}
+  }
+  
+  @media (min-width: 1024px) {
+	.footerclass .grid {
+	  grid-template-columns: repeat(3, 1fr);
+	}
+  }
 
 /* CONTENT DISPLAY PAGE STYLES */
 
