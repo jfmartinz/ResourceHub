@@ -26,7 +26,13 @@ This section is curated collection which provides basic and advanced concepts of
    - [Compilers](#compilers)
 - [ Data Science ](#data-science)
 - [App Development](#app-development)
-
+- [Videos](#videos)
+- [Courses](#courses)
+- [Additional Resources](#additinal-resources)
+   - [Books](#books)
+   - [Cheatsheets](#cheatsheets)
+   - [Websites](#websites)
+   - [Community](#community)
 - [Conclusion](#conclusion)
 
 
@@ -585,6 +591,28 @@ This section is curated collection which provides basic and advanced concepts of
 
 ### Cheatsheets
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://fsprojects.github.io/fsharp-cheatsheet/">F# cheatsheet</a></td>
+    <td>Official F# cheatsheet providing quick reference to F# syntax and features.</td>
+  </tr>
+  <tr>
+    <td><a href="http://fssnip.net/">F# Snips</a></td>
+    <td>Collection of F# code snippets for learning and reference purposes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour">F# tour</a></td>
+    <td>Microsoft's F# tour providing an overview of F# features and capabilities.</td>
+  </tr>
+  <tr>
+    <td><a href="https://learnxinyminutes.com/docs/fsharp">Learn F# in Y minutes</a></td>
+    <td>Quick F# tutorial to get started with F# programming language.</td>
+  </tr>
+</table>
 
 ### Websites 
 
