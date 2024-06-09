@@ -969,6 +969,30 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <td><a href="https://ai.stackexchange.com/">AI Stack Exchange</a></td>
         <td>A Q&A site for AI practitioners and researchers to discuss and solve problems in the field of AI.</td>
     </tr>
+     <tr>
+    <td><a href="https://www.meetup.com/AICoimbatore/">AI Coimbatore</a></td>
+    <td>Meetup group for AI enthusiasts in Coimbatore to network, share knowledge, and collaborate on projects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://t.me/joinchat/MmtTDRUcEqIuAPpr6Ph0Jw">Telegram: For Daily Updates</a></td>
+    <td>Telegram group for daily updates on AI-related news and events.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.facebook.com/groups/440187506472896/">Facebook: Coimbatore School of AI</a></td>
+    <td>Facebook group for AI learners and professionals to discuss topics and share resources.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tensorflow.org/community/groups">TensorFlow User Group Coimbatore</a></td>
+    <td>Official TensorFlow community group in Coimbatore for enthusiasts and developers to learn and discuss TensorFlow.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/TFUGCbe/">Meetup: TFUGCbe</a></td>
+    <td>Meetup group for TensorFlow users in Coimbatore to collaborate and learn from each other.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.facebook.com/groups/2425901487658992/">Facebook: TFUGCbe</a></td>
+    <td>Facebook group for TensorFlow users in Coimbatore to share knowledge and updates.</td>
+  </tr>
 </table>
 
 ### GitHub Repositories
