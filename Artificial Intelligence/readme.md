@@ -358,6 +358,78 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
+      <tr>
+    <td><a href="https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4">Introduction to Artificial Intelligence (AI)</a></td>
+    <td>A high-level introduction to AI from IBM on Coursera.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/learn/introduction-to-generative-ai">Introduction to Generative AI</a></td>
+    <td>A beginner-level introduction to Generative AI from Google on Coursera.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cs50.harvard.edu/ai/2020">CS50’s Intro to Artificial Intelligence</a></td>
+    <td>This course explores the concepts and algorithms at the foundation of modern artificial intelligence.</td>
+  </tr>
+  <tr>
+    <td><a href="https://introtodeeplearning.com">MIT: Intro to Deep Learning</a></td>
+    <td>A seven-day bootcamp designed in MIT to introduce deep learning methods and applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://mithi.github.io/deep-blueberry">Deep Blueberry: Deep Learning book</a></td>
+    <td>A free five-weekend plan for self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://spinningup.openai.com/">Spinning Up in Deep Reinforcement Learning</a></td>
+    <td>A free deep reinforcement learning course by OpenAI.</td>
+  </tr>
+  <tr>
+    <td><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos">MIT Artificial Intelligence Videos</a></td>
+    <td>MIT AI Course lectures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion&a_bid=5d7bc0ba">Grokking Deep Learning in Motion</a></td>
+    <td>Beginner's course to learn deep learning and neural networks without frameworks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/cs271">Intro to Artificial Intelligence</a></td>
+    <td>Learn the Fundamentals of AI. Course run by Peter Norvig.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg">EdX Artificial Intelligence</a></td>
+    <td>The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics">Artificial Intelligence For Robotics</a></td>
+    <td>This class will teach you basic methods in Artificial Intelligence, including probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://class.coursera.org/ml-008">Machine Learning</a></td>
+    <td>Basic machine learning algorithms for supervised and unsupervised learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">Deep Learning</a></td>
+    <td>An Introductory course to Deep Learning using TensorFlow.</td>
+  </tr>
+  <tr>
+    <td><a href="http://online.stanford.edu/course/statistical-learning-winter-2014">Stanford Statistical Learning</a></td>
+    <td>Introductory course on machine learning focusing on linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409">Knowledge Based Artificial Intelligence</a></td>
+    <td>Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.</td>
+  </tr>
+  <tr>
+    <td><a href="https://sites.google.com/view/deep-rl-bootcamp/lectures">Deep RL Bootcamp Lectures</a></td>
+    <td>Deep Reinforcement Bootcamp Lectures - August 2017.</td>
+  </tr>
+  <tr>
+    <td><a href="https://developers.google.com/machine-learning/crash-course/ml-intro">Machine Learning Crash Course By Google</a></td>
+    <td>Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.</td>
+  </tr>
+  <tr>
+    <td><a href="https://developers.google.com/edu/python/">Python Class By Google</a></td>
+    <td>This is a free class for people with a little bit of programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code exercises to practice Python coding.</td>
+  </tr>
     <tr>
         <td><a href="https://www.coursera.org/specializations/deep-learning">Coursera - Deep Learning Specialization</a></td>
         <td>A specialization offered by Andrew Ng on deep learning, covering neural networks, convolutional networks, sequence models, and more.</td>
@@ -366,6 +438,70 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <td><a href="https://www.udacity.com/course/artificial-intelligence-nanodegree--nd898">Udacity - Artificial Intelligence Nanodegree</a></td>
         <td>A program that covers advanced AI topics, including natural language processing, computer vision, and reinforcement learning.</td>
     </tr>
+     <tr>
+    <td><a href="http://www.amazon.com/exec/obidos/ASIN/1558601910">Paradigms Of Artificial Intelligence Programming: Case Studies in Common Lisp</a></td>
+    <td>Paradigms of AI Programming is the first text to teach advanced Common Lisp techniques in the context of building major AI systems.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html">Reinforcement Learning: An Introduction</a></td>
+    <td>This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915">The Cambridge Handbook Of Artificial Intelligence</a></td>
+    <td>Written for non-specialists, it covers the discipline's foundations, major theories, and principal research areas, plus related topics such as artificial life.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.amazon.com/gp/product/0743276647">The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind</a></td>
+    <td>In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.amazon.com/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677">Artificial Intelligence: A New Synthesis</a></td>
+    <td>Beginning with elementary reactive agents, Nilsson gradually increases their cognitive horsepower to illustrate the most important and lasting ideas in AI.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927&sr=8-11">On Intelligence</a></td>
+    <td>Hawkins develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines. Also audio version available from audible.com.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8&refRID=0QY72H7NGRYH79R7S3K7">How To Create A Mind</a></td>
+    <td>Kurzweil discusses how the brain works, how the mind emerges, brain-computer interfaces, and the implications of vastly increasing the powers of our intelligence to address the world’s problems.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.deeplearningbook.org/">Deep Learning</a></td>
+    <td>Goodfellow, Bengio and Courville's introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives.</td>
+  </tr>
+  <tr>
+    <td><a href="https://web.stanford.edu/~hastie/ElemStatLearn/">The Elements of Statistical Learning: Data Mining, Inference, and Prediction</a></td>
+    <td>Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/deep-learning-and-the-game-of-go">Deep Learning and the Game of Go</a></td>
+    <td>Deep Learning and the Game of Go teaches you how to apply the power of deep learning to complex human-flavored reasoning tasks by building a Go-playing AI. After exposing you to the foundations of machine and deep learning, you'll use Python to build a bot and then teach it the rules of the game.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/deep-learning-for-search">Deep Learning for Search</a></td>
+    <td>Deep Learning for Search teaches you how to leverage neural networks, NLP, and deep learning techniques to improve search performance.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/deep-learning-with-pytorch">Deep Learning with PyTorch</a></td>
+    <td>PyTorch puts these superpowers in your hands, providing a comfortable Python experience that gets you started quickly and then grows with you as you—and your deep learning skills—become more sophisticated. Deep Learning with PyTorch will make that journey engaging and fun.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/deep-reinforcement-learning-in-action">Deep Reinforcement Learning in Action</a></td>
+    <td>Deep Reinforcement Learning in Action teaches you the fundamental concepts and terminology of deep reinforcement learning, along with the practical skills and techniques you’ll need to implement it into your own projects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/grokking-deep-reinforcement-learning">Grokking Deep Reinforcement Learning</a></td>
+    <td>Grokking Deep Reinforcement Learning introduces this powerful machine learning approach, using examples, illustrations, exercises, and crystal-clear teaching.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/fusion-in-action">Fusion in Action</a></td>
+    <td>Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/real-world-natural-language-processing">Real-World Natural Language Processing</a></td>
+    <td>Early access book on how to create practical NLP applications using Python.</td>
+  </tr>
 </table>
 
 ### Books
