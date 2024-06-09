@@ -15,6 +15,7 @@ This section is curated collection which provides basic and advanced concepts of
    - [F# Basics](#f-basics)
    - [F# Conditional](#f-conditional)
    - [F# Functions](#f-functions)
+   - [F# Tuples](#f-tuples)
 
 - [Conclusion](#conclusion)
 
@@ -192,6 +193,32 @@ This section is curated collection which provides basic and advanced concepts of
     <td>This page explains do bindings in F#, used to execute expressions that do not return a value.</td>
   </tr>
 </table>
+
+### F# Tuples
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-tuples">F# Tuples</a></td>
+    <td>Introduces tuples in F#, explaining their syntax and usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-accessing-tuples-using-matching">F# Accessing Tuples</a></td>
+    <td>Covers accessing tuple elements in F# using pattern matching.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-return-multiple-values-using-tuples">F# Return multiple values</a></td>
+    <td>Explains how to use tuples in F# to return multiple values from a function.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-access-elements-of-tuples-using-built-in-functions">F# Built in function</a></td>
+    <td>Demonstrates accessing elements of tuples in F# using built-in functions.</td>
+  </tr>
+</table>
+
 
 
 ## Conclusion
