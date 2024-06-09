@@ -542,7 +542,54 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <th>Resource Name</th>
         <th>Description</th>
     </tr>
-    
+      <tr>
+    <td><a href="http://artint.info/html/ArtInt.html">Foundations Of Computational Agents</a></td>
+    <td>This book is published by Cambridge University Press.</td>
+  </tr>
+  <tr>
+    <td><a href="http://ai.stanford.edu/~nilsson/QAI/qai.pdf">The Quest For Artificial Intelligence</a></td>
+    <td>This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://see.stanford.edu/Course/CS229">Stanford CS229 - Machine Learning</a></td>
+    <td>This course provides a broad introduction to machine learning and statistical pattern recognition.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/">Computers and Thought: A Practical Introduction to Artificial Intelligence</a></td>
+    <td>The book covers computer simulation of human activities, such as problem-solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.</td>
+  </tr>
+  <tr>
+    <td><a href="http://aurellem.org/society-of-mind/index.html">Society of Mind</a></td>
+    <td>Marvin Minsky's seminal work on how our mind works. A lot of Symbolic AI concepts have been derived from this basis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://web.archive.org/web/20060627060706/http://www.biosino.org/mirror/www.aaai.org/Press/Books/Hunter/hunter-contents.html">Artificial Intelligence and Molecular Biology</a></td>
+    <td>The current volume is an effort to bridge that range of exploration, from nucleotide to abstract concept, in contemporary AI/MB research.</td>
+  </tr>
+  <tr>
+    <td><a href="http://pages.uoregon.edu/moursund/Books/AIBook/index.htm">Brief Introduction To Educational Implications Of Artificial Intelligence</a></td>
+    <td>This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.scholarpedia.org/article/Encyclopedia:Computational_intelligence">Encyclopedia: Computational Intelligence</a></td>
+    <td>Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.</td>
+  </tr>
+  <tr>
+    <td><a href="http://arxiv.org/abs/1411.1373">Ethical Artificial Intelligence</a></td>
+    <td>A book by Bill Hibbard that combines several peer-reviewed papers and new material to analyze the issues of ethical artificial intelligence.</td>
+  </tr>
+  <tr>
+    <td><a href="https://golden.com/wiki/Cluster%3A_Artificial_intelligence">Golden Artificial Intelligence</a></td>
+    <td>A cluster of pages on artificial intelligence and machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.r2d3.us/">R2D3</a></td>
+    <td>A website with explanations on topics from Machine Learning to Statistics. All helped with beautifully animated infographics and real-life examples. Available in various languages.</td>
+  </tr>
+  <tr>
+    <td><a href="https://agentmodels.org/">Modeling Agents with Probabilistic Programs</a></td>
+    <td>This book describes and implements models of rational agents for (PO)MDPs and Reinforcement Learning.</td>
+  </tr>
     <tr>
         <td><a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a></td>
         <td>An online book by Michael Nielsen providing an introduction to the concepts and algorithms of neural networks and deep learning.</td>
