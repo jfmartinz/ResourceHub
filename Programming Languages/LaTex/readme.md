@@ -547,7 +547,7 @@ This Section is a curated collection of resources which provides core and advanc
 
 
 ### LateX GUI tools
->
+> Graphical user interface tools designed for creating diagrams, figures, and graphics within LaTeX documents.
 
 <table>
   <tr>
@@ -585,7 +585,7 @@ This Section is a curated collection of resources which provides core and advanc
 </table>
 
 ### Latex Templates
-> 
+> Collections of pre-designed LaTeX templates for various document types, such as papers, posters, presentations, and resumes.
 
 <table>
   <tr>
