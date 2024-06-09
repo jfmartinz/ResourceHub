@@ -158,38 +158,79 @@ App development refers to crafting software for diverse devices, involving plann
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Cost</th>
       </tr>
        <tr>
         <td> <a href="https://www.freecodecamp.org/">Codecademy </a></td>
         <td> Offers free interactive courses on HTML, CSS, JavaScript, React.js, Angular, and more.</td>
-        <td>Free</td>
       </tr>
       <tr>
         <td> <a href="https://www.coursera.org/specializations/app-development">Coursera - iOS App Development with Swift Specialization (Audit Mode) </a></td>
         <td>Allows auditing individual courses in the specialization for free, covering Swift programming and iOS app development.</td>
-        <td>Paid</td>
       </tr>
      <tr>
         <td> <a href="https://www.coursera.org/specializations/meta-react-native">Coursera - Meta React Native Specialization </a></td>
         <td>Become a cross-platform mobile app developer. Learn in-demand skills for developing reliable, scalable and user-friendly mobile apps for multiple operating systems, such as iOS and Android.</td>
-        <td>Paid</td>
       </tr>
       <tr>
         <td> <a href="https://www.udemy.com/topic/app-development/">Udemy App Development Courses</a></td>
         <td>Udemy's app development courses provide comprehensive, hands-on training to help you build professional mobile applications from scratch.</td>
-        <td>Paid</td>
       </tr>
       <tr>
         <td><a href="https://www.udemy.com/course/the-complete-react-native-and-redux-course/">Udemy - The Complete React Native + Hooks Course</a></td>
         <td>Comprehensive course covering React Native, Redux, and Hooks for building mobile applications.</td>
-        <td>Paid</td>
       </tr>
      <tr>
         <td> <a href="https://www.linkedin.com/learning/android-development-essential-training-1-your-first-app">LinkedIn - Android Development Essential Training</a></td>
         <td>Android is the most popular mobile operating system in the world, holding 85% of global market share. That makes Android the natural starting point for new app developers. This series of courses teaches the basics needed to develop, design, manage, and distribute a native Android application using the Kotlin programming language and the Android SDK. </td>
-      <td>Paid</td>
       </tr>
+      <tr>
+  <td><a href="https://codingwithmitch.com/courses/jetpack-compose-mvvm-for-beginners/">Jetpack Compose MVVM for Beginners</a></td>
+  <td>Learn how to build Android apps using Jetpack Compose and the MVVM architecture pattern.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/android-clean-architecture/">Clean Architecture</a></td>
+  <td>Explore the principles of clean architecture and how to apply them in Android app development.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/ui-testing-jetpack-androidx/">UI Testing with Jetpack and AndroidX</a></td>
+  <td>Discover how to perform UI testing in Android apps using Jetpack and AndroidX libraries.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/ui-testing-for-beginners/">UI Testing for Beginners</a></td>
+  <td>Learn the fundamentals of UI testing for Android apps, suitable for beginners.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/model-view-intent-mvi-architecture/">Model-View-Intent (MVI) Architecture</a></td>
+  <td>Get acquainted with the Model-View-Intent architecture pattern and its implementation in Android development.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/powerful-android-apps-with-jetpack-architecture/">Powerful Android Apps with Jetpack Architecture</a></td>
+  <td>Learn how to build robust Android applications using the Jetpack architecture components.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/unit-testing-android-2/">Unit Testing</a></td>
+  <td>Master the art of unit testing in Android development to ensure the reliability and stability of your apps.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/dagger22-android/">Dagger2.2+ on Android</a></td>
+  <td>Understand and implement Dagger 2.2+ dependency injection in your Android projects.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/">REST API with MVVM and Retrofit2</a></td>
+  <td>Learn how to integrate RESTful APIs into your Android apps using the MVVM architecture and Retrofit2 library.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/android-local-database-cache-rest-api/">Local Database Cache with REST API</a></td>
+  <td>Discover how to implement local database caching with RESTful APIs in Android app development.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/sqlite-room-persistence-android/">SQLite for Beginners 2019</a></td>
+  <td>Gain a beginner-friendly introduction to SQLite and Room Persistence Library for Android development.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/android-audio-streaming/">Audio Streaming on Android</a></td>
+  <td>Learn how to implement audio streaming functionality in Android applications.</td>
+</tr>
   </table>
 
 ### Books
