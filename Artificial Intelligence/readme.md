@@ -1,7 +1,8 @@
 # Artificial Intelligence
 Artificial Intelligence (AI) is the field focused on creating systems capable of performing tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. This curated collection offers valuable AI resources contributed by talented individuals.
 
-The main focus of artificial intelligence is towards understanding human behavior and performance. This can be done by creating computers with human-like intelligence and capabilities. This includes natural language processing, facial analysis and robotics. The main applications of AI are in military, healthcare, and computing; however, it’s expected that these applications will start soon and become part of our everyday lives.
+The main focus of artificial intelligence is towards understanding human behavior and performance. This can be done by creating computers with human-like intelligence and capabilities. This includes natural language processing, facial analysis and robotics. 
+The main applications of AI are in military, healthcare, and computing; however, it’s expected that these applications will start soon and become part of our everyday lives.
 
 This section is a curated collection of Artificial Intelligence beginner to advance resources.
 
