@@ -529,6 +529,34 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <th>Description</th>
     </tr>
     <tr>
+    <td><a href="https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise">Machine Learning for Mortals (Mere and Otherwise)</a></td>
+    <td>Early access book that provides basics of machine learning and using R programming language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5">How Machine Learning Works</a></td>
+    <td>Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threatening way.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/machine-learning-with-tensorflow-second-edition">Machine Learning With TensorFlow 2nd Edition</a></td>
+    <td>A book on general-purpose machine learning techniques, including regression, classification, unsupervised clustering, reinforcement learning, autoencoders, convolutional neural networks, RNNs, and LSTMs, using TensorFlow 1.14.1.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/serverless-machine-learning-in-action">Serverless Machine Learning</a></td>
+    <td>A book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.</td>
+  </tr>
+  <tr>
+    <td><a href="http://themlbook.com/">The Hundred-Page Machine Learning Book</a></td>
+    <td>All you need to know about Machine Learning in a hundred pages, covering supervised and unsupervised learning, SVM, neural networks, ensemble methods, gradient descent, cluster analysis and dimensionality reduction, autoencoders and transfer learning, feature engineering and hyperparameter tuning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/trust-in-machine-learning">Trust in Machine Learning</a></td>
+    <td>A book for experienced data scientists and machine learning engineers on how to make your AI a trustworthy partner. Build machine learning systems that are explainable, robust, transparent, and optimized for fairness.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/generative-ai-in-action">Generative AI in Action</a></td>
+    <td>A book that shows exactly how to add generative AI tools for text, images, code, and more into your organization’s strategies and projects.</td>
+  </tr>
+    <tr>
         <td><a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</a></td>
         <td>A practical guide by Aurélien Géron, providing a comprehensive introduction to machine learning and deep learning using Python libraries.</td>
     </tr>
