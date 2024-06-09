@@ -11,6 +11,8 @@ This section is a curated collection of Artificial Intelligence beginner to adva
 - [Tutorial](#tutorial)
    - [Introduction](#introduction)
    - [AI Problem-solving](#ai-problem-solving)
+   - [Adversarial Search](#adversarial-search)
+   - [Knowledge Representation](#knowledge-representation)
 - [Tools](#tools)
 - [Technologies](#technologies)
 - [Courses](#courses)
@@ -131,6 +133,29 @@ This section is a curated collection of Artificial Intelligence beginner to adva
     <td>Discusses the means-ends analysis technique in AI, focusing on how it breaks down problems into manageable parts.</td>
   </tr>
 </table>
+
+### Adversarial Search
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/ai-adversarial-search">Adversarial Search</a></td>
+    <td>Overview of adversarial search, explaining its role in AI for solving competitive problems.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mini-max-algorithm-in-ai">Minimax Algorithm</a></td>
+    <td>Detailed explanation of the Minimax algorithm, including its application in decision-making scenarios.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/ai-alpha-beta-pruning">Alpha-Beta Pruning</a></td>
+    <td>Describes Alpha-Beta pruning, its integration with the Minimax algorithm, and its efficiency improvements.</td>
+  </tr>
+</table>
+
+### Knowledge Representation
 
 
 ### Tools
