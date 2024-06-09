@@ -940,6 +940,18 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <td><a href="https://www.drivendata.org/competitions/">DrivenData</a></td>
         <td>A platform offering data science competitions focused on social impact.</td>
     </tr>
+      <tr>
+    <td><a href="https://www.battlecode.org/">MIT Battlecode</a></td>
+    <td>An annual programming competition where participants write code for a team of virtual robots to play a real-time strategy game.</td>
+  </tr>
+  <tr>
+    <td><a href="http://aichallenge.org">AI Challenge</a></td>
+    <td>A global AI programming contest that focuses on creating intelligent agents to solve specific problems or play games.</td>
+  </tr>
+  <tr>
+    <td><a href="http://theaigames.com">AI Games</a></td>
+    <td>Online platform for AI competitions where developers create bots to compete in various games.</td>
+  </tr>
 </table>
 
 ### Communities
