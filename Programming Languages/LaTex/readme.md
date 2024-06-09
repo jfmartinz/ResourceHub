@@ -18,6 +18,10 @@ This Section is a curated collection of resources which provides core and advanc
   - [Formatting](#formatting)
   - [Latex using Tikz](#latex-using-tikz)
   - [Latex MATH](#latex-math)
+- [Latex Editors](#latex-editors)
+  - [Latex Focused Editors](#latex-focused-editors)
+  - [Text Editors](#text-editors)
+  - [Online Editors](#online-editors)
 - [Conclusion](#conclusion)
 
 
@@ -74,70 +78,43 @@ This Section is a curated collection of resources which provides core and advanc
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.overleaf.com/learn/latex/Mathematical_expressions">Mathematical expressions</a></td>
-    <td>Overview of creating mathematical expressions in LaTeX.</td>
+    <td><a href="https://www.overleaf.com/learn/latex/Sections_and_chapters">Sections and chapters</a></td>
+    <td>Guide on how to create sections and chapters in LaTeX.</td>
   </tr>
   <tr>
-    <td><a href="https://www.javatpoint.com/latex-math-symbols">LaTeX math symbols</a></td>
-    <td>Guide to using various math symbols in LaTeX.</td>
+    <td><a href="https://www.overleaf.com/learn/latex/Table_of_contents">Table of contents</a></td>
+    <td>Instructions on generating a table of contents in LaTeX.</td>
   </tr>
   <tr>
-    <td><a href="https://www.javatpoint.com/latex-mathematical-equations">LaTeX mathematical equations</a></td>
-    <td>Instructions on writing mathematical equations in LaTeX.</td>
+    <td><a href="https://www.overleaf.com/learn/latex/Cross_referencing_sections%2C_equations_and_floats">Cross referencing sections, equations and floats</a></td>
+    <td>How to cross-reference sections, equations, and floats in LaTeX.</td>
   </tr>
   <tr>
-    <td><a href="https://www.javatpoint.com/latex-fractions">LaTeX fractions</a></td>
-    <td>How to write fractions in LaTeX.</td>
+    <td><a href="https://www.overleaf.com/learn/latex/Indices">Indices</a></td>
+    <td>Guide to creating indices in LaTeX documents.</td>
   </tr>
   <tr>
-    <td><a href="https://www.javatpoint.com/latex-matrix">LaTeX matrix</a></td>
-    <td>Guide to creating matrices in LaTeX.</td>
+    <td><a href="https://www.overleaf.com/learn/latex/Glossaries">Glossaries</a></td>
+    <td>Instructions for adding glossaries to LaTeX documents.</td>
   </tr>
   <tr>
-    <td><a href="https://www.javatpoint.com/latex-integral">LaTeX Integral</a></td>
-    <td>Instructions for writing integral equations in LaTeX.</td>
+    <td><a href="https://www.overleaf.com/learn/latex/Nomenclatures">Nomenclatures</a></td>
+    <td>Guide on how to create nomenclatures in LaTeX.</td>
   </tr>
   <tr>
-    <td>LaTeX Partial Derivative</td>
-    <td>Guide to writing partial derivatives in LaTeX.</td>
+    <td><a href="https://www.overleaf.com/learn/latex/Management_in_a_large_project">Management in a large project</a></td>
+    <td>Tips for managing large LaTeX projects.</td>
   </tr>
   <tr>
-    <td><a href="https://www.overleaf.com/learn/latex/Subscripts_and_superscripts">Subscripts and superscripts</a></td>
-    <td>How to use subscripts and superscripts in LaTeX.</td>
+    <td><a href="https://www.overleaf.com/learn/latex/Multi-file_LaTeX_projects">Multi-file LaTeX projects</a></td>
+    <td>Instructions for handling multi-file LaTeX projects.</td>
   </tr>
   <tr>
-    <td><a href="https://www.overleaf.com/learn/latex/Brackets_and_Parentheses">Brackets and Parentheses</a></td>
-    <td>Guide to using brackets and parentheses in LaTeX.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.overleaf.com/learn/latex/Fractions_and_Binomials">Fractions and Binomials</a></td>
-    <td>Instructions for writing fractions and binomials in LaTeX.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.overleaf.com/learn/latex/Operators">Operators</a></td>
-    <td>How to use various operators in LaTeX.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.overleaf.com/learn/latex/Spacing_in_math_mode">Spacing in math mode</a></td>
-    <td>Guide to spacing in LaTeX math mode.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits">Integrals, sums and limits</a></td>
-    <td>Instructions for writing integrals, sums, and limits in LaTeX.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.overleaf.com/learn/latex/Display_style_in_math_mode">Display style in math mode</a></td>
-    <td>How to use display style in LaTeX math mode.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.overleaf.com/learn/latex/Mathematical_fonts">List of Greek letters and math symbols</a></td>
-    <td>Guide to using Greek letters and math symbols in LaTeX.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.overleaf.com/learn/latex/Mathematical_fonts">Mathematical fonts</a></td>
-    <td>How to use different mathematical fonts in LaTeX.</td>
+    <td><a href="https://www.overleaf.com/learn/latex/Hyperlinks">Hyperlinks</a></td>
+    <td>Guide to adding hyperlinks in LaTeX documents.</td>
   </tr>
 </table>
+
 
 ### Latex Basics
 
@@ -445,6 +422,60 @@ This Section is a curated collection of resources which provides core and advanc
 
 ### Text Editors
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://atom.io/packages/latextools">LaTeXTools</a></td>
+    <td>Atom port of the Sublime Text package of the same name.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/LaTeXing/LaTeXing">LaTeXing</a></td>
+    <td>Free plug-in to edit LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SublimeText/LaTeXTools">LaTeXTools</a></td>
+    <td>Free LaTeX plugin for Sublime Text.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Hannah-Sten/TeXiFy-IDEA">TeXiFy-IDEA</a></td>
+    <td>Free LaTeX plugin for IntelliJ IDEA.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/James-Yu/LaTeX-Workshop">LaTeX Workshop</a></td>
+    <td>LaTeX extension for Visual Studio Code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex">LTeX</a></td>
+    <td>LanguageTool grammar/spell checking.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/a-nau/latex-devcontainer">latex-devcontainer</a></td>
+    <td>Devcontainer setup for easy LaTeX usage without local installation.</td>
+  </tr>
+  <tr>
+    <td><a href="http://vim-latex.sourceforge.net">Vim-LaTeX</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/xuhdev/vim-latex-live-preview">LaTeX Live Preview</a></td>
+    <td>Instantly previews your LaTeX document.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lervag/vimtex">vimtex</a></td>
+    <td>Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.gnu.org/software/auctex/">AucTeX</a></td>
+    <td>Emacs plugin for LaTeX that also shows a preview of equations and figures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.gnu.org/software/auctex/reftex">RefTeX</a></td>
+    <td>Emacs plugin for LaTeX that adds support for labels, references, and citations.</td>
+  </tr>
+</table>
 
 
 ### Online Editors
