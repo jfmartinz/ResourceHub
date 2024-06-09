@@ -582,6 +582,27 @@ This Section is a curated collection of resources which provides core and advanc
 ### Latex Templates
 > 
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.latextemplates.com">LaTeX templates</a></td>
+    <td>Collection of templates for papers, posters, resumes, theses, books, presentations, etc. for LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/martinbjeldbak/ultimate-beamer-theme-list">Ultimate Beamer Theme List</a></td>
+    <td>Links to various beamer themes along with PDF previews.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md">LaTeX Beamer Theme Overview</a></td>
+    <td>Visual overview of beamer themes included in TeXLive.</td>
+  </tr>
+</table>
+
+
+
 
 
 ## Conclusion
