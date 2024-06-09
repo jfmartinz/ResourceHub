@@ -40,6 +40,7 @@ Here is a list of the currently available categories of the project:<br>
 - [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development)
   - [Frontend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Frontend%20Development)
   - [Backend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Backend%20Development)
+  - [Full stack Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Full%20stack%20Development)
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
