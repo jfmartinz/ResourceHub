@@ -602,6 +602,70 @@ This Section is a curated collection of resources which provides core and advanc
 </table>
 
 
+### Additional Resources
+> Here are some additional resources for Latex.
+
+### Books 
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://en.wikibooks.org/wiki/LaTeX">Wikibooks: LaTeX</a></td>
+    <td>The LaTeX wikibook. Not really a paper book, but it is equally extensive.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.informit.com/store/latex-companion-9780201362992">The LaTeX Companion, F. Mittelbach (2004)</a></td>
+    <td>Latex book by F, Mittelbach (2004)</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.informit.com/store/latex-graphics-companion-9780321508928">LaTeX Graphics Companion, M. Goossens (2007)</a></td>
+    <td>Tex graphics companion, M. goossens (2007)</td>
+  </tr>
+  <tr>
+    <td><a href="https://ctan.org/pkg/texbytopic">TeX by Topic (2007)</a></td>
+    <td>Tex bt topics (2007) book for understanding of Tex language. </td>
+  </tr>
+  <tr>
+    <td><a href="https://ctan.org/pkg/impatient">TeX for the Impatient (2020)</a></td>
+    <td>Tex for the Impatient (2020</td>
+  </tr>
+  <tr>
+    <td><a href="https://latex.silmaril.ie/formattinginformation">Formatting Information (2020)</a></td>
+    <td>This is the HTML5-based online version of the book *Formatting Information - An introduction to typesetting with LATEX*. It has been continuously updated since the early 2000s.</td>
+  </tr>
+</table>
+
+
+
+
+
+### Blogs
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://texblog.net">TeXblog</a></td>
+    <td>Blog about LaTeX and everything related.</td>
+  </tr>
+  <tr>
+    <td><a href="https://texblog.org">texblog.org</a></td>
+    <td>Blog on LaTeX and related topics (tutorials, packages, code snippets, etc.).</td>
+  </tr>
+  <tr>
+    <td><a href="https://tex-talk.net">TeX Talk</a></td>
+    <td>Blog for the TeX Stack Exchange site with news and interviews.</td>
+  </tr>
+  <tr>
+    <td><a href="https://texhour.github.io/">TeX Hour</a></td>
+    <td>A weekly video meeting</td>
+  </tr>
+</table>
 
 
 
