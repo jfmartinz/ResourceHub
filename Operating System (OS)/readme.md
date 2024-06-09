@@ -473,6 +473,10 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
     <td><a href="https://www.coursera.org/learn/os-pku">Coursera: Introduction to Operating Systems</a></td>
     <td>A free course on Coursera providing an introduction to operating system concepts and design.</td>
   </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/course/free-operating-system-course/">Operating System Course: Learn Fundamentals of Operating System</a></td>
+    <td>Scaler Topics free Operating System Course offers a comprehensive overview of operating systems, providing you with a deep understanding of their structure, functionalities, and importance in operating systems.</td>
+  </tr>
 </table>
 
 #### Paid Courses
