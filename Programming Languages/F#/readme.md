@@ -616,6 +616,53 @@ This section is curated collection which provides basic and advanced concepts of
 
 ### Websites 
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://c4fsharp.net/">Community for F#</a></td>
+    <td>Links to dojos and recordings of community presentations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://jindraivanek.gitlab.io/cs2fs-online">cs2fs</a></td>
+    <td>Transform C# code to F# code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.decompiler.com/">Decompiler.com</a></td>
+    <td>Online C#/VB/F# decompiler.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dotnetfiddle.net/">DotNetFiddle</a></td>
+    <td>Online REPL.</td>
+  </tr>
+  <tr>
+    <td><a href="http://fsharp.github.io/">F# Core Engineering</a></td>
+    <td>Official website for F# Core Engineering.</td>
+  </tr>
+  <tr>
+    <td><a href="https://fsharpforfunandprofit.com/">F# for Fun and Profit</a></td>
+    <td>Reference tutorials for learning F#.</td>
+  </tr>
+  <tr>
+    <td><a href="http://fsharp.org/">F# Software Foundation</a></td>
+    <td>Main website for the F# Software Foundation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://fsprojects.github.io/fantomas-tools">fantomas-tools</a></td>
+    <td>A set of Fantomas related tools like AST viewer and online bug reporter.</td>
+  </tr>
+  <tr>
+    <td><a href="https://sharplab.io/">SharpLab</a></td>
+    <td>C#/VB/F# compiler playground.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.tryfsharp.org">Try F#</a></td>
+    <td>Online tutorials, currently without execution of code due to Silverlight dependency.</td>
+  </tr>
+</table>
+
 
 ### Community
 
