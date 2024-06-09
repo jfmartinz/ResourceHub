@@ -91,7 +91,7 @@ A computer network is a collection of interconnected devices that can communicat
 
 <table>
   <tr>
-    <th>Protocol</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
