@@ -15,9 +15,16 @@ Game development involves the creation of video games, encompassing everything f
 
 > To become a proficient Game Developer, there are various skills and areas of knowledge you need to master. Here’s a roadmap to guide you through the learning process:
 
-| Resource Name | Description |
-| ------------- | ----------- |
-| [Game Development Roadmap](https://roadmap.sh/game) | Start your game development journey with roadmap.sh's guide. This comprehensive resource covers basic to advanced topics, including game design, programming, art creation, and testing. Featuring best practices, tutorials, interactive videos, and community support, it's ideal for all skill levels. |
+<table width="100%" id="Roadmap">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://roadmap.sh/game">Game Development Roadmap</a></td>
+    <td>Start your game development journey with roadmap.sh's guide. This comprehensive resource covers basic to advanced topics, including game design, programming, art creation, and testing. Featuring best practices, tutorials, interactive videos, and community support, it's ideal for all skill levels.</td>
+  </tr>
+</table>
 
 ### Tools
 
@@ -125,34 +132,102 @@ Game development involves the creation of video games, encompassing everything f
 
 > You can consider these courses for learning Game Development:
 
-| Resource Name | Description | Cost |
-| ------------- | ----------- | ---- |
-| [Udemy Game Development Courses](https://www.udemy.com/topic/game-development/) | Offers a variety of courses on game development, design, and programming. | Paid |
-| [Coursera Game Development Courses](https://www.coursera.org/courses?query=game%20development) | Provides online courses on game development, often created by universities and colleges. | Paid |
-| [edX Game Development Courses](https://www.edx.org/learn/game-development) | Hosts a range of game development courses from top institutions, covering various aspects of game creation. | Paid |
-| [Codecademy - Learn Game Development](https://www.codecademy.com/learn/paths/create-video-games-with-phaser.js) | Interactive course that teaches game development basics using the Phaser.js framework. | Paid |
-| [GameDev.tv](https://www.gamedev.tv/) | Platform offering a wide range of game development courses, including Unity, Unreal Engine, and more. | Paid |
-| [freeCodeCamp - Game Development](https://www.freecodecamp.org/news/tag/game-development/) | Provides free tutorials and articles on game development concepts and techniques. | Free |
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+    <th>Cost</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/topic/game-development/">Udemy Game Development Courses</a></td>
+    <td>Offers a wide variety of courses on game development, covering Unity, Unreal Engine, Godot, and more.</td>
+    <td>Paid</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/courses?query=game%20development">Coursera Game Development Courses</a></td>
+    <td>Provides online courses on game development from top universities and colleges, including specializations in Unity and Unreal Engine.</td>
+    <td>Paid</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.edx.org/learn/game-development">edX Game Development Courses</a></td>
+    <td>Hosts a range of game development courses from top institutions, covering design, programming, and more.</td>
+    <td>Paid</td>
+  </tr>
+  <tr>
+    <td><a href="https://learn.unity.com/">Unity Learn</a></td>
+    <td>Official Unity learning platform offering tutorials, courses, and live training sessions.</td>
+    <td>Free/Paid</td>
+  </tr>
+  <tr>
+    <td><a href="https://academy.unrealengine.com/">Unreal Engine Online Learning</a></td>
+    <td>Official Unreal Engine learning platform providing a variety of courses and tutorials for all skill levels.</td>
+    <td>Free</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-c-sharp">Codecademy - Learn C#</a></td>
+    <td>Interactive course that teaches the basics of C#, an essential language for Unity development.</td>
+    <td>Free</td>
+  </tr>
+</table>
 
 ### Books
 
 > You can refer to these books on Game Development. They are listed below:
 
-| Resource Name | Description |
-| ------------- | ----------- |
-| [Game Programming Patterns by Robert Nystrom](https://gameprogrammingpatterns.com/) | Comprehensive guide to design patterns in game programming. |
-| [Unity in Action by Joe Hocking](https://www.manning.com/books/unity-in-action-second-edition) | Detailed guide to developing games with Unity. |
-| [Unreal Engine 4 Game Development Essentials by Satheesh PV](https://www.amazon.com/Unreal-Engine-Game-Development-Essentials/dp/1784391964) | Practical guide to getting started with Unreal Engine 4. |
+<table width="100%">
+  <tr>
+    <th>Book Title</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Game-Programming-Patterns-Robert-Nystrom/dp/0990582906">Game Programming Patterns by Robert Nystrom</a></td>
+    <td>Explores the most common patterns used in game development, providing practical examples and advice.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Art-Game-Design-Lenses-Third/dp/1138632058">The Art of Game Design: A Book of Lenses</a></td>
+    <td>Comprehensive guide to game design, offering a unique perspective through 100 different lenses..</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Game-Engine-Architecture-Jason-Gregory/dp/1138035459">Game Engine Architecture by Jason Gregor</a></td>
+    <td>Detailed look at the architecture of modern game engines, covering both theory and practical implementation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Level-Design-Theory-Practice-Second/dp/0240809343">Level Up! The Guide to Great Video Game Design</a></td>
+    <td> Practical guide to game design, covering a wide range of topics from concept to implementation.</td>
+  </tr>
+</table>
 
 ### YouTube Channels
 
 > You can consider these YouTube Channels for Game Development:
 
-| Resource Name | Description |
-| ------------- | ----------- |
-| [Brackeys](https://www.youtube.com/user/Brackeys) | Popular channel offering tutorials on Unity and game development. |
-| [Game Maker's Toolkit](https://www.youtube.com/c/MarkBrownGMT) | Explores game design concepts and techniques. |
-| [TheCherno](https://www.youtube.com/user/TheCherno) | Focuses on game engine development and C++ programming. |
+
+<table width="100%">
+  <tr>
+    <th>Channel Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/Brackeys">Brackeys</a></td>
+    <td>Tutorials on Unity, Blender, and general game development topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/GameMakerBlog">Game Maker's Toolkit</a></td>
+    <td>Deep dives into game design concepts and analysis of popular games.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/UnrealDevelopmentKit">Unreal Engine</a></td>
+    <td> Official Unreal Engine channel with tutorials, livestreams, and showcase videos.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/Unity3D">Unity</a></td>
+    <td> Official Unity channel with tutorials, developer interviews, and project showcases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/gdconf">GDC</a></td>
+    <td>Game Developers Conference channel with talks and panels</td>
+  </tr>
+</table>
 
 
 
@@ -160,8 +235,21 @@ Game development involves the creation of video games, encompassing everything f
 
 > You can follow these GitHub Repositories for Game Development:
 
-| Resource Name | Description |
-| ------------- | ----------- |
-| [Awesome Game Development](https://github.com/mbrukman/awesome-game-development) | Curated list of game development resources, tools, and libraries. |
-| [Game Development Resources](https://github.com/collections/game-development) | GitHub's collection of game development resources and repositories. |
-| [Unity Tech Demos](https://github.com/Unity-Technologies/UnityCsReference) | Unity Technologies' repository of tech demos and sample projects. |
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mbrukman/awesome-game-development">Awesome Game Development</a></td>
+    <td>Curated list of game development resources, tools, and libraries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/collections/game-development">Game Development Resources</a></td>
+    <td>GitHub's collection of game development resources and repositories.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Unity-Technologies/UnityCsReference">Unity Tech Demos</a></td>
+    <td>Unity Technologies' repository of tech demos and sample projects.</td>
+  </tr>
+</table>
