@@ -25,6 +25,11 @@ This Section is a curated collection of resources which provides core and advanc
 - [Latex Distributions](#latex-distributions)
 - [LateX GUI tools](#latex-gui-tools)
 - [Latex Templates](#latex-templates)
+- [Additional Resources](#additional-resources)
+  - [Books](#books)
+  - [Blogs](#blogs)
+  - [Community](#community)
+  - [Additional Tutorials](#additional-tutorials)
 - [Conclusion](#conclusion)
 
 
@@ -689,10 +694,34 @@ This Section is a curated collection of resources which provides core and advanc
 </table>
 
 
-
 ### Additional Tutorials
 
-
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.learnlatex.org/">LearnLaTeX.org</a></td>
+    <td>Browser-based LaTeX tutorial.</td>
+  </tr>
+  <tr>
+    <td><a href="https://mirrors.ctan.org/info/lshort/english/lshort.pdf">The (Not So) Short Introduction to LaTeX2e</a></td>
+    <td>Comprehensive introduction to LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/luong-komorebi/Begin-Latex-in-minutes">Begin LaTeX in minutes</a></td>
+    <td>Brief intro to LaTeX for beginners.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.andy-roberts.net/writing/latex">Getting to Grips with LaTeX</a></td>
+    <td>Complete guide covering the majority of things you need to know about LaTeX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://tex.stackexchange.com/questions/84384/latex-introductions-in-languages-other-than-english/84385">LaTeX introductions in languages other than English</a></td>
+    <td>Collection of introductions in many languages.</td>
+  </tr>
+</table>
 
 ## Conclusion
 
