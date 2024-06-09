@@ -23,16 +23,19 @@ This section is a curated collection of Artificial Intelligence beginner to adva
 - [Books](#books)
    - [Free Books](#free-books)
    - [Paid Books](#paid-books)
-- [YouTube Channels](#youtube-channels)
-- [YouTube Playlists](#youtube-playlists)
-- [Resources for Finding Datasets](#resources-for-finding-datasets)
-- [Competitions](#competitions)
-- [Communities](#communities)
-- [GitHub Repositories](#github-repositories)
+- [YouTube]()
+   - [YouTube Channels](#youtube-channels)
+   - [YouTube Playlists](#youtube-playlists)
+
 - [Projects](#projects)
    - [Beginner Projects](#beginner-projects)
    - [Intermediate Projects](#intermediate-projects)
    - [Advanced Projects](#advanced-projects)
+- [Additional Resources](#additional-resources)
+  - [Resources for Finding Datasets](#resources-for-finding-datasets)
+  - [Competitions](#competitions)
+  - [Communities](#communities)
+  - [GitHub Repositories](#github-repositories)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -689,9 +692,10 @@ This section is a curated collection of Artificial Intelligence beginner to adva
     </tr>
 </table>
 
-### YouTube Channels
+### YouTube
+>
 
-> You can consider these YouTube channels for learning AI:
+### YouTube Channels
 
 <table width="100%">
     <tr>
@@ -849,87 +853,6 @@ This section is a curated collection of Artificial Intelligence beginner to adva
     </tr>
 </table>
 
-### Resources for Finding Datasets
-
-> These resources can help you find datasets for your AI projects:
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td>
-        <a href="https://www.kaggle.com/datasets">Kaggle Datasets</a></td>
-        <td>A platform offering a wide range of datasets for machine learning and data science projects.</td>
-    </tr>
-    <tr>
-        <td><a href="https://datasetsearch.research.google.com/">Google Dataset Search</a></td>
-        <td>A search engine for finding datasets across various domains, created by Google.</td>
-    </tr>
-    <tr>
-        <td><a href="https://data.gov/">Data.gov</a></td>
-        <td>An open data portal offering datasets from the US government.</td>
-    </tr>
-</table>
-
-### Competitions
-
-> Participating in competitions can help you sharpen your AI skills. Here are some platforms where you can find AI competitions:
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><a href="https://www.kaggle.com/competitions">Kaggle Competitions</a></td>
-        <td>A platform hosting a variety of machine learning competitions where you can test your skills against others.</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.drivendata.org/competitions/">DrivenData</a></td>
-        <td>A platform offering data science competitions focused on social impact.</td>
-    </tr>
-</table>
-
-### Communities
-
-> Joining communities can help you stay updated and network with other AI enthusiasts:
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><a href="https://www.reddit.com/r/MachineLearning/">Reddit - Machine Learning</a></td>
-        <td>A subreddit dedicated to discussions and news about machine learning.</td>
-    </tr>
-    <tr>
-        <td><a href="https://ai.stackexchange.com/">AI Stack Exchange</a></td>
-        <td>A Q&A site for AI practitioners and researchers to discuss and solve problems in the field of AI.</td>
-    </tr>
-</table>
-
-### GitHub Repositories
-
-> You can refer to these GitHub repositories for AI projects and resources:
-
-<table width="100%">
-    <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/ageron/handson-ml">Hand-On Machine Learning</a></td>
-        <td>A GitHub repository accompanying the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/fastai/fastai">fastai</a></td>
-        <td>A repository containing the fastai library, which simplifies training fast and accurate neural nets using modern best practices.</td>
-    </tr>
-</table>
-
 ### Projects
 
 > Here are some AI project ideas for different skill levels:
@@ -976,6 +899,83 @@ This section is a curated collection of Artificial Intelligence beginner to adva
         <td>An advanced project involving the classification of images using convolutional neural networks.</td>
     </tr>
 </table>
+
+### Additional Resources
+> 
+
+### Resources for Finding Datasets
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>
+        <a href="https://www.kaggle.com/datasets">Kaggle Datasets</a></td>
+        <td>A platform offering a wide range of datasets for machine learning and data science projects.</td>
+    </tr>
+    <tr>
+        <td><a href="https://datasetsearch.research.google.com/">Google Dataset Search</a></td>
+        <td>A search engine for finding datasets across various domains, created by Google.</td>
+    </tr>
+    <tr>
+        <td><a href="https://data.gov/">Data.gov</a></td>
+        <td>An open data portal offering datasets from the US government.</td>
+    </tr>
+</table>
+
+### Competitions
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.kaggle.com/competitions">Kaggle Competitions</a></td>
+        <td>A platform hosting a variety of machine learning competitions where you can test your skills against others.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.drivendata.org/competitions/">DrivenData</a></td>
+        <td>A platform offering data science competitions focused on social impact.</td>
+    </tr>
+</table>
+
+### Communities
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.reddit.com/r/MachineLearning/">Reddit - Machine Learning</a></td>
+        <td>A subreddit dedicated to discussions and news about machine learning.</td>
+    </tr>
+    <tr>
+        <td><a href="https://ai.stackexchange.com/">AI Stack Exchange</a></td>
+        <td>A Q&A site for AI practitioners and researchers to discuss and solve problems in the field of AI.</td>
+    </tr>
+</table>
+
+### GitHub Repositories
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ageron/handson-ml">Hand-On Machine Learning</a></td>
+        <td>A GitHub repository accompanying the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/fastai/fastai">fastai</a></td>
+        <td>A repository containing the fastai library, which simplifies training fast and accurate neural nets using modern best practices.</td>
+    </tr>
+</table>
+
 
 ### Conclusion
 
