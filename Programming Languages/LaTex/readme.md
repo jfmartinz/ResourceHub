@@ -22,6 +22,9 @@ This Section is a curated collection of resources which provides core and advanc
   - [Latex Focused Editors](#latex-focused-editors)
   - [Text Editors](#text-editors)
   - [Online Editors](#online-editors)
+- [Latex Distributions](#latex-distributions)
+- [LateX GUI tools](#latex-gui-tools)
+- [Latex Templates](#latex-templates)
 - [Conclusion](#conclusion)
 
 
@@ -514,6 +517,70 @@ This Section is a curated collection of resources which provides core and advanc
     <td>Online LaTeX editor with Live Preview and nice presentation mode.</td>
   </tr>
 </table>
+
+### Latex Distributions
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://tug.org/mactex/">MacTeX</a></td>
+    <td>Most common LaTeX distribution for macOS, basically TeXLive with some Mac-specific tools added.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tug.org/texlive/">TeX Live</a></td>
+    <td>Most common LaTeX distribution for Unix-like operating systems, including GNU/Linux. Also works on Windows.</td>
+  </tr>
+  <tr>
+    <td><a href="https://miktex.org">MikTeX</a></td>
+    <td>Most common LaTeX distribution for Windows, but also available for Mac, Linux, or as a Docker image.</td>
+  </tr>
+</table>
+
+
+### LateX GUI tools
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.tikzedt.org">TikzEdt</a> (<a href="https://github.com/hchapman/tikzedt">GitHub repo</a>)</td>
+    <td>WYSIWYG and text-based editor for TikZ pictures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fredokun/TikZ-Editor">TikZ-Editor</a></td>
+    <td>Live-previewing editor for TikZ figures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ipe.otfried.org">IPE</a></td>
+    <td>Drawing tool that integrates well with LaTeX commands and documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geogebra.org/">GeoGebra</a></td>
+    <td>Cross-platform geometry tool with output to TikZ.</td>
+  </tr>
+  <tr>
+    <td><a href="https://wiki.gnome.org/Apps/Dia">Dia</a></td>
+    <td>Cross-platform diagramming tool that can export to PSTricks and MetaPost code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://tikzit.github.io">TikZiT</a></td>
+    <td>GUI tool for creating graphs and string diagrams using PGF/TikZ.</td>
+  </tr>
+  <tr>
+    <td><a href="https://latexdraw.sourceforge.net/">LaTeXDraw</a></td>
+    <td>Vector-based drawing tool having LaTeX as first-class citizen.</td>
+  </tr>
+</table>
+
+### Latex Templates
+> 
 
 
 
