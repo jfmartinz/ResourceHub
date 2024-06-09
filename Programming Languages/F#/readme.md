@@ -17,6 +17,7 @@ This section is curated collection which provides basic and advanced concepts of
    - [F# Functions](#f-functions)
    - [F# Tuples](#f-tuples)
    - [F# Collection types](#f-collection-types)
+   - [F# Exception Handling](#f-exception-handling)
 - [Advanced Functional Programming](#advanced-functional-programming)
 - [Object-Oriented Programming in F#](#object-oriented-programming-in-f)
 - [Conclusion](#conclusion)
@@ -246,6 +247,35 @@ This section is curated collection which provides basic and advanced concepts of
   </tr>
 </table>
 
+### F# Exception Handling
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-exception-handling">F# Exception Handling</a></td>
+    <td>An overview of exception handling in F#, including how to handle and catch exceptions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-example-without-try-with">F# Try-With and Try-Finally</a></td>
+    <td>Explanation of the try-with and try-finally constructs in F# for exception handling.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-user-defined-exceptions">F# User Defined Exception</a></td>
+    <td>Guide on defining and using user-defined exceptions in F#.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-throwing-exception-using-failwith-keyword">F# Throwing Exception</a></td>
+    <td>Explanation of throwing exceptions in F# using the failwith keyword.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/f-sharp-assertion">F# Assertion</a></td>
+    <td>Information about assertions in F#, which are used to verify assumptions about the state of the program.</td>
+  </tr>
+</table>
+
 ### Advanced Functional Programming
 >
 
@@ -335,5 +365,7 @@ This section is curated collection which provides basic and advanced concepts of
     <td>Overview of abstract classes in F#, which cannot be instantiated and are used as base classes for other classes.</td>
   </tr>
 </table>
+
+
 
 ## Conclusion
