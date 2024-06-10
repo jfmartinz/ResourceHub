@@ -11,6 +11,10 @@ body:
       options:
         - label: I have verified that this is a new bug report.
           required: true
+        - label: I'm interested in working on this issue
+          required: true
+        - label: I'm part of GSSOC organization
+          required: true
   - type: textarea
     id: describe-the-bug
     attributes:

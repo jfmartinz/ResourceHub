@@ -11,8 +11,12 @@ body:
       options:
         - label: I have read all the feature request issues.
           required: true
+        - label: I'm interested in working on this issue
+          required: true
+        - label: I'm part of GSSOC organization
+          required: true
   - type: textarea
-    id: what's-your-idea
+    id: whats-your-idea
     attributes:
       label: Explain feature request
       description: Is your feature request related to a problem? Please describe.
@@ -20,7 +24,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: what's-your-solution
+    id: whats-your-solution
     attributes:
       label: Explain your solution
       description: Could you outline the solution you envision?
