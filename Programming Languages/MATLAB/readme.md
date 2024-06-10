@@ -18,6 +18,8 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 - [MATLAB for Data Analysis](#matlab-for-data-analysis)
 - [MATLAB for Hardware Integration](#matlab-for-hardware-integration)
 - [Courses](#courses)
+  - [Paid Courses](#paid-courses)
+  - [Free Courses](#free-courses)
 - [Communities](#communities)
 - [Books](#books)
 - [Websites](#websites)
@@ -489,30 +491,37 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 
 ### Courses
 > Learn MATLAB through structured online courses.
-
+#### Paid Courses
 <table>
   <thead>
     <tr>
       <th>Resource Name</th>
       <th>Description</th>
-      <th>Cost</th>
     </tr>
   </thead>
   <tbody>
-      <tr>
-      <td><a href="https://www.mathworks.com/services/training.html">MATLAB and Simulink Training</a></td>
-      <td>Professional training and certification courses provided by MathWorks.</td>
-        <td>Free</td>
-    </tr>
     <tr>
       <td><a href="https://www.coursera.org/learn/matlab">Coursera - MATLAB Programming for Engineers and Scientists</a></td>
       <td>An online course offered by Vanderbilt University via Coursera.</td>
-      <td>Paid</td>
     </tr>
     <tr>
       <td><a href="https://www.edx.org/course/matlab-and-simulink-training">edX - MATLAB and Simulink Training</a></td>
       <td>Courses provided by MathWorks on the edX platform.</td>
-      <td>Paid</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Free Courses
+<table>
+  <thead>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </thead>
+  <tbody>
+     <tr>
+      <td><a href="https://www.mathworks.com/services/training.html">MATLAB and Simulink Training</a></td>
+      <td>Professional training and certification courses provided by MathWorks.</td>
+        <td>Free</td>
     </tr>
   </tbody>
 </table>
