@@ -35,6 +35,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 - [Interview Preparations](#interview-preparation)
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlist)
+- [Python Cheatsheets](#python-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -650,7 +651,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td> <a href = "https://www.codecademy.com/learn/learn-python-3"> Codecademy</a></td>
         <td>Learn Python 3 fundamentals and syntax through interactive lessons and projects on Codecademy's platform.</td>
       </tr>
-     
+      <tr>
+      <td><a href="https://techdevguide.withgoogle.com/paths/foundational/?programming_languages=python#sequence-2">Foundations of Programming in Python by Google Tech Dev Guide</a></td>
+      <td>Learn about basic programming concepts like functions, operators, variables, control flow, strings, and arrays — some of the building blocks of programming in Python. </td>
+      </tr>
   </table>
 
   #### Paid Courses
@@ -828,6 +832,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td><a href="https://youtu.be/B_17_RORoiI?si=DJyq6cHe1Ac6jq80">Python Programming Interview Questions and Answers</a></td>
     <td>edureka! offers a video discussing essential Python programming interview questions, suitable for both beginners and experienced developers.</td>
   </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/interview/?programming_languages=python">Interview Prep by Google Tech Dev Guide</a></td>
+  <td>Familiarize yourself with the ins and outs of software engineering interviews. These resources will help students and professionals prepare and practice.</td>
+  </tr>
 </table>
 
 ### YouTube Channels
@@ -896,6 +904,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>This 100 Days of Code - Learn Python playlist by Replit is an excellent resource for those who are interested in learning Python. In this course, you will build games, apps, and websites by mastering Python programming. 
          </td>
       </tr>
+      <tr>
+      <td><a href="https://youtube.com/playlist?list=PLdo5W4Nhv31bZSiqiOL5ta39vSnBxpOPT&si=g_GcvVYYHYNr3wDe">Python-Basic to Advance Course by Jenny Lectures</a></td>
+      <td>This playlist contains all the concepts of Python along with project building in English. The idea is to teach in a way such that even an absolute beginner too would learn programming easily</td>
+      </tr>
           <tr>
       <td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GesARqNMImG3NnX3_bWq-lT">SciPy 2021: Scientific Computing with Python Conference</a></td>
       <td>A collection of 61 YouTube videos covering various topics in scientific computing with Python, presented at the SciPy 2021 conference.</td>
@@ -929,6 +941,50 @@ Python supports multiple programming paradigms, including procedural, object-ori
       <td>This playlist comprises 33 YouTube videos from the SciPy 2013 conference, providing insights into scientific computing, data analysis, and visualization using Python.</td>
     </tr>
 </table>
+
+### Python Cheatsheets
+
+> Cheat sheets for Python programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.interviewbit.com/python-cheat-sheet/">InterviewBit - Python Cheat Sheet (2024)</a></td>
+    <td>A comprehensive Python cheat sheet by InterviewBit, covering basics to advanced topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.pythoncheatsheet.org/">Python Cheatsheet</a></td>
+    <td>A detailed cheat sheet for Python programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/python.html">Python Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for Python programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewithharry.com/blogpost/python-cheatsheet/">Code With Harry - Python Cheatsheet</a></td>
+    <td>A practical Python programming cheat sheet by Code With Harry, ideal for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf">Python 3 Cheat Sheet</a></td>
+    <td>A comprehensive Python 3 cheat sheet, available as a PDF, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gto76/python-cheatsheet">Comprehensive Python Cheatsheet</a></td>
+    <td>A comprehensive Python cheat sheet available on GitHub, covering a wide range of topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet">Python Cheat Sheet for Beginners</a></td>
+    <td>A beginner-friendly Python cheat sheet provided by DataCamp, ideal for those new to the language.</td>
+  </tr>
+<tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/python-cheat-sheet/">Python Cheat Sheet </a></td>
+    <td>A Python cheat sheet by Zero to Mastery to help beginners learn and remember common Python syntax.</td>
+  </tr>
+</table>
+
 
 ### Conclusion
 

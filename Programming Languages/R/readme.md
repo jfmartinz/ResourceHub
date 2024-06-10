@@ -48,6 +48,7 @@ These resources are designed to help you build a strong foundation in R programm
 - [Additional Resources](#additional-resources)
    - [R Communities](#r-communities)
    - [R Books](#r-books)
+   - [R Cheatsheets](#r-cheatsheets)
 - [Conclusion](#conclusion)
 
 
@@ -919,6 +920,39 @@ These resources are designed to help you build a strong foundation in R programm
 <td>By Hadley Wickham</td>
    <td>Paid</td>
 </tr>
+</table>
+
+#### R Cheatsheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.datacamp.com/cheat-sheet/getting-started-r">R Basics Cheat Sheet</a></td>
+    <td>A cheat sheet for getting started with R programming, covering basic concepts and commands.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.rstudio.com/wp-content/uploads/2016/02/advancedR.pdf">Advanced R Cheat Sheet</a></td>
+    <td>An advanced R cheat sheet provided by RStudio, covering more complex topics and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.usu.edu/math/amlc/files/r-studio-reference-sheets-compilation.pdf">R and R Studio Reference Guides and "Cheat Sheet"</a></td>
+    <td>A compilation of reference guides and cheat sheets for R and RStudio, covering various aspects of the language and environment.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet">Learn R: Introduction Cheatsheet</a></td>
+    <td>A beginner-friendly R cheat sheet provided by Codecademy, ideal for those new to the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/wurli/r-best-practice">A cheatsheet for basic best practice in R programming</a></td>
+    <td>A cheat sheet focusing on basic best practices in R programming, available on GitHub.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.simplilearn.com/r-cheat-sheet-article">R Cheat Sheet: A Guide of R Glossary</a></td>
+    <td>A comprehensive R cheat sheet providing a guide to R glossary and terminology.</td>
+  </tr>
 </table>
 
 ### Conclusion
