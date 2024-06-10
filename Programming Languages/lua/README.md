@@ -212,7 +212,6 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   <tr>
     <td>Pong game</td>
     <td>Making the pong game from scratch using the lua programming language.</td>
-    <td><a href="https://www.angrybirds.com">Pong game</a></td>
   </tr>
   <tr>
     <td>Guess a number game</td>
