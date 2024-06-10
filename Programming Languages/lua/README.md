@@ -207,7 +207,6 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   <tr>
     <th>Project Name</th>
     <th>Description</th>
-    <th>Link</th>
   </tr>
   <tr>
     <td>Pong game</td>
