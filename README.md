@@ -70,6 +70,7 @@ Here is a list of the currently available categories of the project:<br>
 - [Data Structures and Algorithms](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Structures%20and%20Algorithm%20(DSA))
 - [Operating System (OS)](https://github.com/jfmartinz/ResourceHub/tree/main/Operating%20System%20(OS))
 - [Linux Development](https://github.com/jfmartinz/ResourceHub/tree/main/Linux%20Development)
+- [Game Development](https://github.com/jfmartinz/ResourceHub/tree/main/Game%20Development)
 
 
 ## Technologies
