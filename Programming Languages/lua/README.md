@@ -209,11 +209,11 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <th>Description</th>
   </tr>
   <tr>
-    <td>Pong game</td>
+    <td><a href = "https://www.youtube.com/watch?v=3CRIhC_2wTI&t=2s">Pong game</td>
     <td>Making the pong game from scratch using the lua programming language.</td>
   </tr>
   <tr>
-    <td>Guess a number game</td>
+    <td><a href = "https://www.youtube.com/watch?v=HlvM_gEdgdQ">Guess a number game</td>
     <td>Learn Lua by writing a "guess the number" game</td>
   </tr>
 
