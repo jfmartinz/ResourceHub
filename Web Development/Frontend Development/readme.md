@@ -1102,6 +1102,10 @@ to everyone - everywhere!</td>
     <td><a href="https://github.com/dumbmety/todo-list">Todo list</a></td>
     <td>This repo helps you to build a fully functional todo list application built with HTML, CSS, and JavaScript. This project allows users to add, delete, and mark tasks as complete. It demonstrates basic CRUD operations and local storage for maintaining the todo list across sessions.</td>
     </tr>
+  <tr>
+      <td><a href="https://github.com/Ayushmaanagarwal1211/Chess/tree/main">Chess</a></td>
+      <td>This Chess repo helps you to create the real chess game where user can peay chess . This project is created with the use of html , css and javascript . Html is for structuting , css is used for styling and javascript is used for controlling the functionality of the chess game .</td>
+    </tr>
      <tr>
     <td><a href="https://github.com/sristy17/Simon-Says-Game">Simon Says Game</a></td>
     <td>This repo helps you to build a web-based Simon Game (The Simon game is the exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with lights and sounds that can challenge you. Experience the fun as you repeat the patterns and advance to higher levels.) built with JavaScript, HTML, and CSS. This project demonstrates how the javascript fuctions works like async, await, promises and many more. The repository includes the necessary code and assets for building and running the Game on a web browser.This will help you in learning javascripts elements in your coding journey.</td>
