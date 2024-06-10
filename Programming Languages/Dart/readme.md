@@ -7,15 +7,17 @@ Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It i
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
-  - [Introduction to Dart](#introduction-to-dart)
-  - [Dart Fundamentals](#dart-fundamentals)
-  - [Functions in Dart](#functions-in-dart)
-  - [Dart Collections](#dart-collections)
-  - [Object-Oriented Programming (OOP) in Dart](#object-oriented-programming-oop-in-dart)
-  - [Data Structures in Dart](#data-structures-in-dart)
-  - [Dart for Mobile App and Web Development](#dart-for-mobile-app-and-web-development)
-  - [Dart Packages and Libraries](#dart-packages-and-libraries)
+- [Dart](#dart)
+  - [Introduction](#introduction)
+  - [Fundamentals](#fundamentals)
+  - [Functions](#functions)
+  - [Collections](#collections)
+  - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
+  - [Data Structures](#data-structures)
+  - [Mobile App and Web Development](#mobile-app-and-web-development)
+    - [Mobile App Development with Flutter](#mobile-app-development-with-flutter)
+    - [Web Development](#web-development)
+  - [Packages and Libraries](#packages-and-libraries)
 - [Tools and IDEs](#tools-and-ides)
 - [Books](#books)
 - [Documentation](#documentation)
@@ -36,9 +38,9 @@ Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It i
     </tr>
 </table>
 
-### Tutorials
+### Dart
 > Let's get started with Dart using the following resources which will guide you through various aspects of Dart, from the basics to advanced topics.
-### Introduction to Dart
+#### Introduction
 
 <table>
     <tr>
@@ -67,7 +69,7 @@ Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It i
     </tr>
 </table>
 
-### Dart Fundamentals
+#### Fundamentals
 
 <table>
     <tr>
@@ -116,7 +118,7 @@ Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It i
     </tr>
 </table>
 
-### Functions in Dart
+#### Functions
 
 <table>
     <tr>
@@ -145,7 +147,7 @@ Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It i
     </tr>
 </table>
 
-### Dart Collections
+#### Collections
 
 <table>
     <tr>
@@ -174,7 +176,7 @@ Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It i
     </tr>
 </table>
 
-### Object-Oriented Programming (OOP) in Dart
+#### Object-Oriented Programming (OOP)
 
 <table>
     <tr>
@@ -252,7 +254,7 @@ Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It i
 </table>
 
 
-### Data Structures in Dart
+#### Data Structures
 
 <table>
     <tr>
@@ -289,9 +291,9 @@ Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It i
     </tr>
 </table>
 
-### Dart for Mobile App and Web Development
-> Provides resources and tutorials for developing mobile applications and web applications using Dart programming language.
-#### Mobile App Development with Flutter
+#### Mobile App and Web Development
+
+##### Mobile App Development with Flutter
 
 <table>
     <tr>
@@ -328,7 +330,7 @@ Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It i
     </tr>
 </table>
 
-#### Web Development with Dart
+##### Web Development
 
 <table>
     <tr>
@@ -353,7 +355,7 @@ Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It i
     </tr>
 </table>
 
-### Dart Packages and Libraries
+#### Packages and Libraries
 
 <table>
     <tr>

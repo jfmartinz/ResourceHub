@@ -1124,6 +1124,10 @@ to everyone - everywhere!</td>
     <td><a href="https://github.com/SyedZawwarAhmed/Countries-of-the-World">Countries of world (using REST)</a></td>
     <td>This repo by Syed Zawwar Ahmed is a single-page application that displays information about all countries using a REST API. Users can view countries on the homepage, search for a country, filter by region, and see detailed information on individual country pages. The app also includes a light/dark mode toggle. It was built with HTML, CSS, and JavaScript, utilizing the Fetch API and local storage for theme preferences.</td>
     </tr>
+  <tr>
+    <td><a href="https://github.com/Saipradyumnagoud/Restaurantwebsite">Restaurant Website</a></td>
+    <td>This Repo by Sai Pradyumna contains Restaurant website where the customer before comming to the restaurant can book a table so that they dont have to wait in the line in the restaurant it is developed by html,css,javascript,php you clone the repository and start using the project.</td>
+  </tr>
 </table>
 
 ### Conclusion

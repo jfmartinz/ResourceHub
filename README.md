@@ -40,6 +40,7 @@ Here is a list of the currently available categories of the project:<br>
 - [Web Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development)
   - [Frontend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Frontend%20Development)
   - [Backend Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Backend%20Development)
+  - [Full stack Development](https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Full%20stack%20Development)
 - [UI & UX Design](https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design)
 - [Web3](https://github.com/jfmartinz/ResourceHub/tree/main/Web3)
 - [Database](https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database))
@@ -81,7 +82,9 @@ Here is a list of the currently available categories of the project:<br>
 - [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
 - [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
 - [Data Structures and Algorithms](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Structures%20and%20Algorithm%20(DSA))
+- [Operating System (OS)](https://github.com/jfmartinz/ResourceHub/tree/main/Operating%20System%20(OS))
 - [Linux Development](https://github.com/jfmartinz/ResourceHub/tree/main/Linux%20Development)
+- [Game Development](https://github.com/jfmartinz/ResourceHub/tree/main/Game%20Development)
 
 
 ## Technologies

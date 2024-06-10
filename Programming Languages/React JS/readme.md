@@ -46,6 +46,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
 - [Books](#books)
   - [Free](#free-books)
   - [Paid](#paid-books)
+- [React Cheatsheets]()
 - [Official Documentation](#official-documentation)
 - [Conclusion](#conclusion)
 
@@ -770,6 +771,45 @@ Whether you're a beginner looking to get started with React.js or an experienced
         <td><a href="https://www.amazon.com/React-Cookbook-Recipes-Mastering-Framework/dp/1492085847/ref=sr_1_7?crid=3E7P6C0V0SUL9&dib=eyJ2IjoiMSJ9.nMagvJ_MV7YIoYQX2eQk1ZgI-ccJ_wIR58ncYQF78-IFO2Xs5bjtpu6ZZ_ygQ9F15kbM2N8IhG58G7MYVFQVJnchR1SVIAq_9Csq41ilsrSZmBV6iacoEq6zirHZzeCG_L60NrWZZc0XgGXMZlH1_qjAVq5hbzSNKramyyT0CD25eNtyY8Zd0iY-TLSiWfTw2R6DoFcLAUBpUuY90bBX07vCpxBzpTXAEXT7ZopFZ-U.esRaWpXRoO8rbuiHiivu9-FysE8mwn5367WdTkcdvKo&dib_tag=se&keywords=react+js&qid=1716895246&s=books&sprefix=react+%2Cstripbooks-intl-ship%2C402&sr=1-7">React cookbook</a></td>
         <td>This book, "React Cookbook: Recipes for Mastering the React Framework" is a practical guide that offers a collection of ready-to-use recipes for mastering React, a popular JavaScript library for building user interfaces. Each recipe provides a detailed explanation along with code examples to help developers understand and implement React features effectively.</td>
       </tr>
+</table>
+
+
+### React Cheatsheets
+> Here are some react cheatsheets which you may refer.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://devhints.io/react">React.js cheatsheet</a></td>
+    <td>A comprehensive cheatsheet for React.js.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/react-cheat-sheet/">GFG - React Cheat Sheet</a></td>
+    <td>A React cheat sheet provided by GeeksforGeeks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/codedthemes/reactjs-cheatsheet-the-ultimate-guide-29gf">React.js Cheatsheet – The Ultimate Guide</a></td>
+    <td>An ultimate guide to React.js cheatsheet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet">Learn React: JSX Cheatsheet</a></td>
+    <td>A cheatsheet specifically focused on JSX in React.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/zinox9/react-cheatsheet-3eao">React CheatSheet</a></td>
+    <td>A React cheatsheet for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://onecompiler.com/cheatsheets/reactjs">React JS - Cheat Sheets</a></td>
+    <td>A collection of cheat sheets for React.js.</td>
+  </tr>
+  <tr>
+    <td><a href="https://upmostly.com/ultimate-reactjs-cheat-sheet">Ultimate React.js Cheat Sheet</a></td>
+    <td>An ultimate cheat sheet for React.js.</td>
+  </tr>
 </table>
 
 ### Official Documentation
