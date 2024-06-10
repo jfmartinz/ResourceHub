@@ -128,8 +128,8 @@ A database is an organized collection of structured information, or data, typica
       <td><a href="https://www.youtube.com/watch?v=T7AxM7Vqvaw&list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc">Jenny’s Lectures CS IT Youtube</a></td>
       <td>The "DBMS" playlist is helpful for clearing the basic and advanced of DBMS.</td>
     </tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y">Gate Smashers Youtube</a></td>
-    <td>This playlist  consists of basic to advanced DBMS with examples provided for clear understanding(It is  a beginner-friendly playlist).</td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y">Gate Smashers Youtube channel</a></td>
+    <td>This playlist  consists of basic to advanced DBMS concepts with examples provided for clear understanding(It is  a beginner-friendly playlist).</td></tr>
 </table>
 
 
