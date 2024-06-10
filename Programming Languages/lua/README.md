@@ -216,7 +216,6 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   <tr>
     <td>Guess a number game</td>
     <td>Learn Lua by writing a "guess the number" game</td>
-    <td><a href="https://opensource.com/article/20/12/lua-guess-number-game">Guess a number game</a></td>
   </tr>
 
 </table>
