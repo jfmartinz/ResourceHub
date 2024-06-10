@@ -979,6 +979,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td><a href="https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet">Python Cheat Sheet for Beginners</a></td>
     <td>A beginner-friendly Python cheat sheet provided by DataCamp, ideal for those new to the language.</td>
   </tr>
+<tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/python-cheat-sheet/">Python Cheat Sheet </a></td>
+    <td>A Python cheat sheet by Zero to Mastery to help beginners learn and remember common Python syntax.</td>
+  </tr>
 </table>
 
 
