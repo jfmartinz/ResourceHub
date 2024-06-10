@@ -244,7 +244,7 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
   </tr>
   <tr>
   <td><a href="https://www.apnacollege.in/course/delta-feb-24"></a></td>
-  <td>This is paid course in hindi + English language.in this course you'll get:-
+  <td>This is paid course in hindi + English language.In this course you'll get:-
   .Complete Frontend Development (ReactJS, HTML, CSS, Javascript & frameworks like Bootstrap & Tailwind)
 .Complete Backend Development (Node.js, Express.js)
 .Complete Database - SQL & MongoDB
@@ -252,7 +252,7 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
 .Real Life and Industry Grade Projects
 .TA Doubt Assistance
 .LIVE sessions on how to get a job, resume, open source & more
-.500+ recorded videos topics (alternate day chapters for 4.5 months)</td>
+.500+ recorded videos topics (alternate day chapters for 4.5 months).</td>
   </tr>
   
 </table>
@@ -1169,6 +1169,11 @@ to everyone - everywhere!</td>
         <td>Youtube channel that teaches Web Development in a super simple way.Explore the content rich channel to become a pro in web development.
         </td>
       </tr>
+      <tr>
+      <td><a href="https://youtube.com/@apnacollegeofficial?si=XxUMtT_9E6IJfwUJ">Apna College</a></td>
+      <td>Apna College has 5.6+ subscribers in youtube. And focus on practicals rather than theory.</td>
+      </tr>
+   
   </table>
 
 ### Games
