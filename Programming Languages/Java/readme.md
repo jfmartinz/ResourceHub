@@ -1061,6 +1061,10 @@ Here's the updated table:
     <td><a href="https://www.javatpoint.com/corejava-interview-questions"> Javapoint - 300 Core Java Interview Questions</a></td>
     <td> Frequently asked questions by the interviewer for Java developer position.</td>
   </tr>
+  <tr>
+  <td><a href="https://www.simplilearn.com/tutorials/java-tutorial/java-interview-questions">Simplilearn-180 Core Java Interview Questions</a></td>
+  <td>This article contains some of the most important Java interview questions for freshers</td>
+  </tr>
 </table>
 
 

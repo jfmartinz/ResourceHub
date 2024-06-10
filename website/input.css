@@ -6,6 +6,7 @@
     scroll-behavior: smooth;
     -webkit-scrollbar-color : blue;
 
+
 }
 
 body{
@@ -13,7 +14,8 @@ body{
     -webkit-user-select: none;  
     -moz-user-select: none;     
     -ms-user-select: none;      
-    user-select: none; 
+    user-select: none;
+
 }
 .hidden-mobile {
     display: none;
