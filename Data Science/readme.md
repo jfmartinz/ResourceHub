@@ -15,6 +15,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
   - [Paid Books](#paid-books)
 - [YouTube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlists)<br>
+- [Practise Websites](#practise-playlists)<br>
 - [Resources for Finding Datasets](#resources-for-finding-datasets)<br>
 - [Competitions](#competitions)<br>
 - [Communities](#communities)<br>
@@ -324,6 +325,35 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       <tr>
         <td><a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ">Data Analysis with python course</a></td>
         <td>This Playlist is by freecodecamp, this small playlist which contains 6 videos of 2 hours video each helps you to learn, understand and apply the data analysis process to any data using python.</td>
+      </tr>
+</table>
+
+### Practise Websites
+
+  <table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.codecademy.com/">CodeCademy</a></td>
+        <td>Codecademy is an online learning platform that offers courses and tutorials on programming, data science, and web development. It’s a super popular choice among beginners and those looking to improve their coding skills </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.coursera.org/">Coursera</a></td>
+        <td>Coursera is the destination for online learning run by universities. They do online courses, certificates you can hang on your virtual LinkedIn wall, and even full degree programs.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.stratascratch.com/?utm_source=blog&utm_medium=click&utm_campaign=kdn+9+data+science+platforms">StrataScratch</a></td>
+        <td>StrataScratch has 1000+ real interview questions from top data science companies, both coding and non-coding</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.boot.dev/">Boot.dev</a></td>
+        <td>Boot.dev is an interesting platform that aims to patch the gap between college degrees and e-learning platforms.You can learn Python, JavaScript, and Go as the premier backend coding languages. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.udemy.com/">Udemy</a></td>
+        <td> Like Coursera, Udemy can give you access to a ton of courses about all sorts of skills, but there is a great selection of data science skills.Udemy's courses are designed to be accessible and flexible, with video lessons, quizzes, and projects to help students build practical skills.</td>
       </tr>
 </table>
 
