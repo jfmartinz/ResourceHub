@@ -15,6 +15,9 @@ A database is an organized collection of structured information, or data, typica
 - [Books](#books)
     - [Free Books](#free-books)
     - [Paid Books](#paid-books)
+- [YouTube](#youtube)
+    - [YouTube channels](#youtube-channels)
+    - [YouTube Playlists](#youtube-playlist)
 - [Interview](#interview)
 - [GitHub Repositories](#github-repositories)
 - [projects](#projects)
@@ -288,6 +291,60 @@ Database design and modeling are critical steps in the creation and management o
     <tr>
         <td><a href="https://www.amazon.in/Learning-SQL-Generate-Manipulate-Greyscale/dp/935213978X/">Learning SQL</a></td>
         <td>This book is a comprehensive guide aimed at individuals looking to learn SQL (Structured Query Language) from scratch or enhance their existing SQL skills. Authored by renowned database experts, the book offers a practical and hands-on approach to understanding and using SQL effectively.</td>
+    </tr>
+</table>
+
+### YouTube
+
+> These resources provided by youtube helps you to learn the DBMS easily and effectivly.
+
+#### YouTube Channels
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/c/Freecodecamp">freeCodeCamp</a></td>
+        <td>freeCodeCamp offers comprehensive tutorials on various database concepts, from SQL basics to advanced database design and optimization. Their in-depth videos and hands-on approach make it a great resource for both beginners and advanced learners.</td>
+    </tr>
+     <tr>
+        <td><a href="https://www.youtube.com/@techTFQ">TechTFQ</a></td>
+        <td>TechTFQ offers detailed tutorials on various database concepts, SQL queries, data warehousing, and ETL processes. The channel is known for its clear explanations and practical demonstrations, making it a valuable resource for both beginners and experienced database professionals.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/c/TheNetNinja">The Net Ninja</a></td>
+        <td>The Net Ninja offers a vast collection of programming tutorials, including Databases like MongoDB, and other. The channel is known for its clear and concise teaching style.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/c/Academind">Academind</a></td>
+        <td>The Academind provides in-depth tutorials on various databases and backend technology, including sql, database management and more. The channel focuses on building real-world applications, making it easier to grasp practical concepts.</td>
+    </tr>
+</table>
+
+#### YouTube Playlist
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLsjUcU8CQXGFFAhJI6qTA8owv3z9jBbpd">SQL(Full Course)</a></td>
+        <td>This youtube playlist by QAFox is a very helpful resource for learning SQL, it includes a wide range of topics including database objects, creating linux virtural machine, install mysql server and more.</td>
+    </tr>
+     <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLEiEAq2VkUUKL3yPbn8yWnatjUg0P0I-Z">SQL Tutorial Videos</a></td>
+        <td>This playlist by simplilearn is a comprehensive resource for learning sql ,this playlist on SQL Tutorial covers all the important SQL concepts and commands that will help you master SQL. You will learn everything from SQL basics to advanced from these videos.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB">SQL Server tutorial for beginners</a></td>
+        <td>This playlist by kudvenkat is one of the best resource for learning sql server , this playlist covers topics like joins, views, triggers, system functions, stored procedures, user defined scalar and table valued functions etc. These video tutorials will be useful for frehsers, experienced .NET and SQL Database developers.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QM6KSVfrbSyJNTU9inyBqYF">Complete MongoDB Course from Scratch</a></td>
+        <td>This playlist by procademy is a comprehensive collection of videos for learning mongodb, this playlist includes json, bson, embedded document and many more.</td>
     </tr>
 </table>
 
