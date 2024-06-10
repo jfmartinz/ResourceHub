@@ -1076,6 +1076,10 @@ to everyone - everywhere!</td>
     <td><a href="https://github.com/SafdarJamal/quiz-app">Quiz application</a></td>
     <td>This repo by jamal is built with React and Semantic UI, it integrates with the Open Trivia Database API for quiz content. The app supports features like multiple question types, quiz customization, and a responsive design. The repository includes setup instructions, scripts for development, testing, and building the project for production.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Saipradyumnagoud/calcuclator">Calculator</a></td>
+      <td>This repo By Sai Pradyumna Contains code for calculator where you can perform operations you can use this application by cloning the repository it is developed by html,css,javascript</td>
+    </tr>
 </table>
 
 #### Intermediate projects
