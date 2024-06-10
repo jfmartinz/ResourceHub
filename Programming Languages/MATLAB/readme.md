@@ -7,7 +7,7 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorial](#tutorial)
+- [MATLAB](#matlab)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Advanced MATLAB](#advanced-matlab)
@@ -17,7 +17,9 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
 - [MATLAB for Data Analysis](#matlab-for-data-analysis)
 - [MATLAB for Hardware Integration](#matlab-for-hardware-integration)
-- [Online Courses](#online-courses)
+- [Courses](#courses)
+  - [Paid Courses](#paid-courses)
+  - [Free Courses](#free-courses)
 - [Communities](#communities)
 - [Books](#books)
 - [Websites](#websites)
@@ -45,10 +47,10 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 </table>
 
 
-### Tutorial
+### MATLAB
 > Resources to help you grasp the introductions fundamental concepts of MATLAB.
 
-### Introduction
+#### Introduction
 
 <table>
   <thead>
@@ -81,7 +83,7 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
   </tbody>
 </table>
 
-### Fundamentals
+#### Fundamentals
 
 <table>
   <thead>
@@ -147,7 +149,7 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 </table>
 
 
-### Advanced MATLAB 
+#### Advanced MATLAB 
 
 <table>
   <thead>
@@ -487,9 +489,9 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
 </table>
 
 
-### Online Courses
+### Courses
 > Learn MATLAB through structured online courses.
-
+#### Paid Courses
 <table>
   <thead>
     <tr>
@@ -498,10 +500,6 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
     </tr>
   </thead>
   <tbody>
-      <tr>
-      <td><a href="https://www.mathworks.com/services/training.html">MATLAB and Simulink Training</a></td>
-      <td>Professional training and certification courses provided by MathWorks.</td>
-    </tr>
     <tr>
       <td><a href="https://www.coursera.org/learn/matlab">Coursera - MATLAB Programming for Engineers and Scientists</a></td>
       <td>An online course offered by Vanderbilt University via Coursera.</td>
@@ -509,6 +507,21 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
     <tr>
       <td><a href="https://www.edx.org/course/matlab-and-simulink-training">edX - MATLAB and Simulink Training</a></td>
       <td>Courses provided by MathWorks on the edX platform.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Free Courses
+<table>
+  <thead>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </thead>
+  <tbody>
+     <tr>
+      <td><a href="https://www.mathworks.com/services/training.html">MATLAB and Simulink Training</a></td>
+      <td>Professional training and certification courses provided by MathWorks.</td>
+        <td>Free</td>
     </tr>
   </tbody>
 </table>
@@ -575,40 +588,49 @@ MATLAB has a rich ecosystem of resources to help you learn and master the langua
     <tr>
       <th>Resource Name</th>
       <th>Description</th>
+      <th>Cost</th>
     </tr>
   </thead>
   <tbody>
       <tr>
       <td><a href="https://www.crcpress.com/Accelerating-MATLAB-Performance-1001-tips-to-speed-up-MATLAB-programs/Altman/9781482211290">Accelerating MATLAB Performance: 1001 tips to speed up MATLAB programs</a></td>
       <td>A superb guide to making MATLAB code faster.</td>
+        <td>Paid</td>
     </tr>
     <tr>
       <td><a href="http://www.databookuw.com/">Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control</a></td>
       <td>This textbook brings together machine learning, engineering mathematics, and mathematical physics to integrate modeling and control of dynamical systems with modern methods in data science.</td>
+       <td>Free</td>
     </tr>
     <tr>
       <td><a href="http://www.cambridge.org/us/academic/subjects/computer-science/scientific-computing-scientific-software/elements-matlab-style">The Elements of MATLAB Style</a></td>
       <td>Coding guidelines for the MATLAB language.</td>
+       <td>Paid</td>
     </tr>
     <tr>
       <td><a href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111882010X.html">MATLAB for Dummies</a></td>
       <td>A good beginners book.</td>
+       <td>Paid</td>
     </tr>
     <tr>
       <td><a href="http://www.ma.man.ac.uk/~higham/mg/">MATLAB Guide</a></td>
       <td>By Desmond and Nicholas Higham. One of the best books for learning MATLAB.</td>
+       <td>Paid</td>
     </tr>
     <tr>
       <td><a href="https://www.crcpress.com/Undocumented-Secrets-of-MATLAB-Java-Programming/Altman/9781439869031#isbn">Undocumented Secrets of MATLAB-Java Programming</a></td>
       <td>A great guide on MATLAB® and its Java interface (e.g. for GUIs or interaction with JVM software).</td>
+       <td>Paid</td>
     </tr>
     <tr>
       <td><a href="http://www.sagepub.com/books/Book239284">An Introduction to MATLAB for Behavioral Researchers</a></td>
       <td>Beginner book for those with no programming experience. Targeted to those in psychology/behavioural sciences and uses real experimental data in examples.</td>
+       <td>Paid</td>
     </tr>
     <tr>
       <td><a href="https://www.mathworks.com/learn/books/">MathWorks Books</a></td>
       <td>A selection of MATLAB and Simulink books recommended by MathWorks.</td>
+       <td>Paid</td>
     </tr>
   </tbody>
 </table>
