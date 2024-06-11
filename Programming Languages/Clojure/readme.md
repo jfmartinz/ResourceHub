@@ -17,6 +17,7 @@ This currated collection of resources are fairly comprehensive and covers variou
   - [Fundamentals](#fundamentals)
   - [Collections](#collections)
   - [Namespaces and Libraries](#namespaces-and-libraries)
+- [Books](#books)
 - [Communities](#communities)
 - [Conclusion](#conclusion)
 
@@ -200,6 +201,50 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 
+### Books
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.braveclojure.com/clojure-for-the-brave-and-true/">Clojure for the Brave and True</a></td>
+    <td>Good for beginners on Clojure, covers all the core features of the language. It has a free version available.</td>
+  </tr>
+  <tr>
+    <td><a href="https://descobrindoclojure.com.br">Descobrindo Clojure</a></td>
+    <td>Good for beginners on functional programming in general, especially for Portuguese speakers. It guides you through functional concepts without academic jargon. Entirely in Brazilian Portuguese.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/clojure-the-essential-reference">Clojure, The Essential Reference</a></td>
+    <td>Extensive reference to the standard library with clear explanations, real-world examples, and background information. Designed to be used as a reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://pragprog.com/book/roclojure/getting-clojure">Getting Clojure</a></td>
+    <td>Covers basic, intermediate, and advanced topics, explaining core aspects of Clojure, good practices, and functional programming concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/the-joy-of-clojure-second-edition">The Joy of Clojure</a></td>
+    <td>A good reference book that goes deep into each core aspect of Clojure and explains them in detail.</td>
+  </tr>
+  <tr>
+    <td><a href="http://shop.oreilly.com/product/0636920025139.do">ClojureScript: Up and Running</a></td>
+    <td>Introduction to using ClojureScript, a variant of Clojure for web development.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.clojurebook.com/">Clojure Programming</a></td>
+    <td>A comprehensive guide to learning Clojure programming, covering a wide range of topics and practical examples.</td>
+  </tr>
+  <tr>
+    <td><a href="http://joyofclojure.com/">Joy of Clojure</a></td>
+    <td>An in-depth exploration of Clojure, explaining core concepts and providing detailed examples.</td>
+  </tr>
+  <tr>
+    <td><a href="http://pragprog.com/book/shcloj2/programming-clojure">Programming Clojure</a></td>
+    <td>A practical guide to Clojure programming, offering insights and examples for building robust applications.</td>
+  </tr>
+</table>
 
 
 
