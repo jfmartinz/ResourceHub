@@ -17,6 +17,7 @@ This currated collection of resources are fairly comprehensive and covers variou
   - [Fundamentals](#fundamentals)
   - [Collections](#collections)
   - [Namespaces and Libraries](#namespaces-and-libraries)
+- [Editors and Environment Setup](#editors-and-environment-setup)
 - [Books](#books)
 - [Communities](#communities)
 - [Conclusion](#conclusion)
@@ -200,6 +201,42 @@ This currated collection of resources are fairly comprehensive and covers variou
   </tr>
 </table>
 
+### Editors and Environment Setup
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://cursive-ide.com/">Cursive with IntelliJ</a></td>
+    <td>IntelliJ plugin for Clojure development, offering robust support and integration.</td>
+  </tr>
+  <tr>
+    <td><a href="https://plugins.jetbrains.com/plugin/18108-clojure-extras/">clojure-extras</a></td>
+    <td>Additional features for Clojure development in IntelliJ.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/clojure-emacs/cider">Emacs</a></td>
+    <td>CIDER, the Clojure Interactive Development Environment that Rocks, for Emacs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/liquidz/vim-iced">Vim</a></td>
+    <td>Vim plugin for Clojure development with a powerful interactive environment.</td>
+  </tr>
+  <tr>
+    <td><a href="https://calva.io/getting-started/">Calva with VS Code</a></td>
+    <td>VS Code extension for Clojure and ClojureScript, providing interactive development support.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tonsky/Clojure-Sublimed">Sublime with Clojure Sublimed</a></td>
+    <td>Sublime Text plugin for Clojure, offering syntax highlighting and other features.</td>
+  </tr>
+  <tr>
+    <td><a href="https://calva.io/">Visual Studio Code - Calva</a></td>
+    <td>Comprehensive Clojure development support for VS Code, including REPL integration and debugging.</td>
+  </tr>
+</table>
 
 ### Books
 
