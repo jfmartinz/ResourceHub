@@ -20,6 +20,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 - [Editors and Environment Setup](#editors-and-environment-setup)
 - [Books](#books)
 - [Communities](#communities)
+- [Websites](#websites)
 - [Conclusion](#conclusion)
 
 
@@ -318,5 +319,37 @@ This currated collection of resources are fairly comprehensive and covers variou
     <td>Forum for Clojure developers to discuss and share information.</td>
   </tr>
 </table>
+
+### Websites
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://clojurescriptkoans.com">Clojure koans</a></td>
+    <td>Learn Clojure using the Koan style, a "fill the blanks" approach to programming exercises.</td>
+  </tr>
+  <tr>
+    <td><a href="http://practicalli.github.io">Practicalli</a></td>
+    <td>Practical approaches to learning Functional Programming with Clojure through YouTube broadcasts, screencasts, and online guides.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojurecademy.com/">Clojurecademy</a></td>
+    <td>An online learning platform focused on teaching Clojure and its ecosystem, similar to Codecademy.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.clojurenewbieguide.com/">Clojure newbie guide</a></td>
+    <td>A quick guide to Clojure and its ecosystem designed for beginners.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.4clojure.com/">4Clojure</a></td>
+    <td>A collection of Clojure exercises that cover the entire core aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://exercism.io/tracks/clojure">Exercism clojure</a></td>
+    <td>Platform for leveling up programming skills through exercises, including a specific track for Clojure.</td>
+ 
 
 ## Conclusion
