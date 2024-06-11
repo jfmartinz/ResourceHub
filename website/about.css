@@ -58,8 +58,62 @@ body {
   .card {
     background-color: rgb(255, 255, 255);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 30px;
+    border-radius: 10px;
     padding: 2rem;
+  }
+
+  .card1{
+    /* background: linear-gradient(white, rgb(139, 139, 139)); */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 0px;
+    padding: 2rem;
+    color:white;
+
+  }
+
+  .card2{
+    /* background-color: rgb(255, 255, 255, 0.2);
+    backdrop-filter: blur(5px); */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 2rem;
+
+  }
+
+  .categories{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 20px;
+    grid-auto-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 30px;
+  }
+
+/*   
+@media (min-width: 35em) {
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+} */
+
+  .categories li{
+    display: grid;
+    grid-auto-flow: row;
+    background: linear-gradient(grey, rgb(41, 41, 41));
+    color:white;
+    padding: 30px 20px;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #ffffff;
+    border-style: solid;
+    align-items: center !important;
+  
+    
+  }
+
+  .categories li img{
+    padding: 10px 20px;
+    /* height: 50px;
+    width:50px; */
   }
 
   h1, h2, h3 {
