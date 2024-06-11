@@ -19,6 +19,9 @@ This currated collection of resources are fairly comprehensive and covers variou
   - [Namespaces and Libraries](#namespaces-and-libraries)
 - [Editors and Environment Setup](#editors-and-environment-setup)
 - [Database](#database)
+- [Testing and Debugging](#testing-and-debugging)
+  - [Testing](#testing)
+  - [Debugging](#debugging)
 - [Youtube](#youtube)
 - [Books](#books)
 - [Communities](#communities)
@@ -321,6 +324,41 @@ This currated collection of resources are fairly comprehensive and covers variou
     <td><a href="https://github.com/AppsFlyer/aerospike-clj">aerospike-clj</a></td>
     <td>aerospike-clj is an Aerospike client for Clojure, providing seamless integration 
     </td>
+  </tr>
+</table>
+
+### Testing and Debugging
+>
+
+### Testing
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/clojure-expectations/expectations">Expectations</a></td>
+    <td>Expectations is a minimalist, expressive, extensible testing framework for Clojure and ClojureScript.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/marick/Midje">Midje</a></td>
+    <td>Midje is a testing framework for Clojure that enables a more flexible, readable, and enjoyable approach to testing.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/GreenPowerMonitor/test-doubles">test-doubles</a></td>
+    <td>test-doubles is a library for creating test doubles in Clojure, including mocks, stubs, spies, and fakes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lambdaisland/kaocha">kaocha</a></td>
+    <td>kaocha is a next-generation test runner for Clojure, designed for simplicity, speed, and extensibility.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nubank/state-flow">StateFlow</a></td>
+    <td>StateFlow is a property-based testing library for Clojure, providing powerful tools for specifying and testing stateful systems.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/amokfa/datest">Datest</a></td>
+    <td>Datest is a lightweight, yet powerful testing library for Clojure, offering a simple and intuitive way to write and run tests.</td>
   </tr>
 </table>
 
