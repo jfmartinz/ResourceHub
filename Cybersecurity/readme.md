@@ -11,6 +11,7 @@ This curated collection offers valuable Cybersecurity resources contributed by l
   - [Free Courses](#free-courses)
   - [Paid Courses](#paid-courses)
 - [Protocols](#protocols)
+- [Frameworks](#frameworks)
 
 ### Roadmap
 > This ia a roadmap to learn cybersecurity
@@ -147,6 +148,53 @@ This curated collection offers valuable Cybersecurity resources contributed by l
       <a href="https://web.mit.edu/kerberos/">Kerberos Protocol</a>
     </td>
     <td>Kerberos is a network authentication protocol that provides strong authentication for client/server applications by using secret-key cryptography. It works on the basis of "tickets" to authenticate entities securely over a non-secure network.</td>
+  </tr>
+</table>
+
+### Frameworks
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.nist.gov/cyberframework">NIST</a>
+    </td>
+    <td>Developed by the National Institute of Standards and Technology (NIST), the CSF is a voluntary framework that provides a policy framework of computer security guidance for how private sector organizations in various sectors can assess and improve their ability to prevent, detect, and respond to cyber attacks.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.iso.org/standard/27001"> ISO/IEC 27001:2022</a>
+    </td>
+    <td>
+      ISO/IEC 27001 is an international standard for information security management systems (ISMS). It provides a systematic approach to managing sensitive company information, ensuring its confidentiality, integrity, and availability.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.cisecurity.org/">CIS</a>
+    </td>
+    <td> The CIS Controls are a prioritized set of actions that help protect organizations and its data from known cyber attack vectors. Developed by the Center for Internet Security (CIS), these controls offer practical guidance for implementing cybersecurity best practices.
+</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.isaca.org/resources/cobit">COBIT</a>
+    </td>
+    <td>COBIT is a framework for the governance and management of enterprise information technology. It helps organizations ensure that their IT systems support business objectives, are properly managed, and remain secure.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://hitrustalliance.net/">HITRUST</a>
+    </td>
+    <td>HITRUST is a comprehensive security framework designed specifically for the healthcare industry. It provides prescriptive controls and requirements tailored to healthcare organizations to address the unique challenges and regulatory requirements they face, such as HIPAA (Health Insurance Portability and Accountability Act) compliance.</td>
   </tr>
 </table>
 
