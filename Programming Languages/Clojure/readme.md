@@ -14,7 +14,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 - [Roadmap](#roadmap)
 - [Tutorial](#tutorial)
   - [Introduction](#introduction)
-  - 
+  - [Fundamentals](#fundamentals)
 - [Conclusion](#conclusion)
 
 
@@ -72,6 +72,66 @@ This currated collection of resources are fairly comprehensive and covers variou
   </tr>
 </table>
 
+### Fundamentals
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_basic_syntax.htm">Basic Syntax</a></td>
+    <td>Introduction to the basic syntax of Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_data_types.htm">Symbols and Data Types (Numbers, Strings, Keywords, Symbols)</a></td>
+    <td>Overview of Clojure's symbols and data types.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_operators.htm">Basic Arithmetic and String Operations</a></td>
+    <td>Guide to performing arithmetic and string operations in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojuredocs.org/clojure.core/comment">Comments and Documentation</a></td>
+    <td>Information on writing comments and documentation in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_repl.htm">Clojure - REPL</a></td>
+    <td>Introduction to the Read-Eval-Print Loop (REPL) in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_variables.htm">Clojure - Variables</a></td>
+    <td>Guide on using variables in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_loops.htm">Clojure - Loops</a></td>
+    <td>Overview of loop constructs in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_decision_making.htm">Clojure - Decision Making</a></td>
+    <td>Introduction to decision-making constructs in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_functions.htm">Clojure - Functions</a></td>
+    <td>Guide to defining and using functions in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_numbers.htm">Clojure - Numbers</a></td>
+    <td>Overview of number operations in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_recursion.htm">Clojure - Recursion</a></td>
+    <td>Introduction to recursion in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_file_io.htm">Clojure - File I/O</a></td>
+    <td>Guide to file input and output operations in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_exception_handling.htm">Clojure - Exception Handling</a></td>
+    <td>Overview of exception handling in Clojure.</td>
+  </tr>
+</table>
 
 
 
