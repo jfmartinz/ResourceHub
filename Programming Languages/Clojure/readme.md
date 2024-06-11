@@ -29,8 +29,6 @@ This currated collection of resources are fairly comprehensive and covers variou
 - [Websites](#websites)
 - [Conclusion](#conclusion)
 
-
-
 ### Clojure
 >
 
@@ -238,6 +236,44 @@ This currated collection of resources are fairly comprehensive and covers variou
   <tr>
     <td><a href="https://calva.io/">Visual Studio Code - Calva</a></td>
     <td>Comprehensive Clojure development support for VS Code, including REPL integration and debugging.</td>
+  </tr>
+</table>
+
+### Programming at the REPL
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/guides/repl/introduction">Introduction</a></td>
+    <td>An introduction to programming at the REPL (Read-Eval-Print Loop) in Clojure, explaining its importance and benefits.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/guides/repl/launching_a_basic_repl">Launching a basic REPL</a></td>
+    <td>A guide on how to launch a basic REPL in Clojure, providing step-by-step instructions for setting it up.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/guides/repl/basic_usage">Basic Usage</a></td>
+    <td>Explains the basic usage of the REPL in Clojure, covering evaluation, printing results, and interacting with expressions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/guides/repl/data_visualization_at_the_repl">Data Visualization at the REPL</a></td>
+    <td>Guidance on visualizing data at the REPL in Clojure, including techniques for displaying data structures and results.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/guides/repl/navigating_namespaces">Navigating namespaces</a></td>
+    <td>Explains how to navigate namespaces at the REPL in Clojure, covering techniques for exploring and managing namespaces.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/guides/repl/enhancing_your_repl_workflow">Enhancing your REPL workflow</a></td>
+    <td>Provides tips and techniques for enhancing your workflow at the REPL in Clojure, including customization and productivity tools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/guides/repl/guidelines_for_repl_aided_development">Guidelines for REPL-Aided Development</a></td>
+    <td>Offers guidelines and best practices for leveraging the REPL for development in Clojure, covering topics such as testing and debugging.</td>
   </tr>
 </table>
 
