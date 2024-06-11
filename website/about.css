@@ -106,8 +106,14 @@ body {
     border-color: #ffffff;
     border-style: solid;
     align-items: center !important;
-  
+    font-weight: 500;
     
+  }
+
+  .categories li:hover{
+    background: none;
+    background-color: gainsboro;
+    color:#070707;
   }
 
   .categories li img{
