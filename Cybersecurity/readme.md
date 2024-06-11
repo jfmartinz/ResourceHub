@@ -12,6 +12,7 @@ This curated collection offers valuable Cybersecurity resources contributed by l
   - [Paid Courses](#paid-courses)
 - [Protocols](#protocols)
 - [Frameworks](#frameworks)
+- [Youtube](#youtube)
 
 ### Roadmap
 > This ia a roadmap to learn cybersecurity
@@ -152,7 +153,7 @@ This curated collection offers valuable Cybersecurity resources contributed by l
 </table>
 
 ### Frameworks
-
+> Some most importanr frameworks in Cybersecurity.
 <table>
   <tr>
     <th>Resource Name</th>
@@ -202,6 +203,31 @@ This curated collection offers valuable Cybersecurity resources contributed by l
       <a href="https://content.securecontrolsframework.com/SCF-Recommended-Practices.pdf"> SCF</a>
     </td>
   <td>The Secure Controls Framework (SCF) centers on internal controls, encompassing cybersecurity and data privacy-related policies, standards, procedures, technologies, and their related processes. These are crafted to offer reasonable assurance of achieving business objectives and preventing, detecting, and rectifying unwanted events.</td>
+  </tr>
+</table>
+
+### Youtube
+> Some youtube channel to refer to.
+
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://youtu.be/hXSFdwIOfnE?si=OjcHHp9jaSxfqAYa"> SimpliLearn- Cybersecurity Full Course </a>
+    </td>
+    <td>Small introduction to cybersecurity, followed by explainers regarding the career scope in this domain and the job roles offered. After covering a few cybersecurity skills, we will learn about ethical hacking and network masking techniques like VPNs and Proxies.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=lpa8uy4DyMo&list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_&ab_channel=edureka%21">EduReka!-Cybersecurity- Full Course</a>
+    </td>
+    <td>This Cyber Security Tutorial is ideal for both beginners as well as professionals who want to master the Cyber Security concepts.</td>
   </tr>
 </table>
 
