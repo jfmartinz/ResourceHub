@@ -12,12 +12,13 @@ This currated collection of resources are fairly comprehensive and covers variou
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorial](#tutorial)
+- [Clojure](#clojure-1)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Collections](#collections)
   - [Namespaces and Libraries](#namespaces-and-libraries)
 - [Editors and Environment Setup](#editors-and-environment-setup)
+- [Youtube](#youtube)
 - [Books](#books)
 - [Communities](#communities)
 - [Websites](#websites)
@@ -30,7 +31,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 
 
 
-### Tutorial
+### Clojure
 >
 
 ### Introduction
@@ -203,6 +204,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Editors and Environment Setup
+>
 
 <table>
   <tr>
@@ -239,7 +241,50 @@ This currated collection of resources are fairly comprehensive and covers variou
   </tr>
 </table>
 
+### Youtube
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/Misophistful/videos">Misophistful's channel</a></td>
+    <td>Understand concepts such as list comprehension, threading macros, generative testing, destructuring, core.match, and introductions to Light Table, Datomic, and Game development with Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure">Fred Overflow's channel</a></td>
+    <td>Introductions to Functional programming and TDD with Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos">Clojure Pills screencast</a></td>
+    <td>Introduction to Clojure one function at a time.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/c/onthecodeagain/videos">Clojure Pills screencast</a></td>
+    <td>Fun and beginner-friendly content related to the overall Clojure ecosystem.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists">Data persistence with Postgres, Clojure and JDBC</a></td>
+    <td>Focus on data persistence using Postgres, Clojure, and JDBC.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos">Clojure Tutorials by Timothy Baldridge</a></td>
+    <td>Advanced videos on core.async, transducers, transients, logic programming, and a "Function of the day" series.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=P6S_1nCfjWA&list=PL1p6TgkbKXqyOwq6iSkce_EY5YWFHciHt">Clojure koans videos</a></td>
+    <td>The author guides you through the Koans from clojurekoans.com.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=LcpbBth7FaQ">Clojure for the Web</a></td>
+    <td>A great video about how to start using Clojure for the web.</td>
+  </tr>
+</table>
+
 ### Books
+>
 
 <table>
   <tr>
@@ -321,6 +366,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Websites
+>
 
 <table>
   <tr>
