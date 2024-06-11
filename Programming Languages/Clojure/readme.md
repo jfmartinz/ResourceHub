@@ -11,7 +11,6 @@ This currated collection of resources are fairly comprehensive and covers variou
 
 ## Table of Contents
 
-- [Roadmap](#roadmap)
 - [Clojure](#clojure-1)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
@@ -19,6 +18,7 @@ This currated collection of resources are fairly comprehensive and covers variou
   - [Namespaces and Libraries](#namespaces-and-libraries)
 - [Editors and Environment Setup](#editors-and-environment-setup)
 - [Database](#database)
+- [Data Validation](#data-validation)
 - [Testing and Debugging](#testing-and-debugging)
   - [Testing](#testing)
   - [Debugging](#debugging)
@@ -28,11 +28,6 @@ This currated collection of resources are fairly comprehensive and covers variou
 - [Communities](#communities)
 - [Websites](#websites)
 - [Conclusion](#conclusion)
-
-
-
-### Roadmap
->
 
 
 
@@ -325,6 +320,52 @@ This currated collection of resources are fairly comprehensive and covers variou
     <td><a href="https://github.com/AppsFlyer/aerospike-clj">aerospike-clj</a></td>
     <td>aerospike-clj is an Aerospike client for Clojure, providing seamless integration 
     </td>
+  </tr>
+</table>
+
+### Data Validation
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fulcrologic/guardrails">Guardrails</a></td>
+    <td>Guardrails is a data validation library for Clojure, providing tools for defining and enforcing data schemas.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/metosin/malli">Malli</a></td>
+    <td>Malli is a data validation library for Clojure, offering a concise syntax for defining and validating complex data structures.</td>
+  </tr>
+  <tr>
+    <td><a href="http://clojurevalidations.info/">Validateur</a></td>
+    <td>Validateur is a library for data validation in Clojure, providing a range of built-in validators and support for custom validation rules.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/plumatic/schema">Prismatic's schema</a></td>
+    <td>Prismatic's schema is a data validation and specification library for Clojure, allowing developers to define and validate data schemas.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/leonardoborges/bouncer">Bouncer</a></td>
+    <td>Bouncer is a data validation library for Clojure, providing tools for defining and enforcing data validation rules.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/markwoodhall/clova">clova</a></td>
+    <td>clova is a data validation library for Clojure, offering a simple and expressive syntax for defining and validating data structures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jeaye/orchestra">Orchestra</a></td>
+    <td>Orchestra is a library for data validation and transformation in Clojure, providing tools for defining complex validation rules.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/funcool/struct">struct</a></td>
+    <td>struct is a data validation library for Clojure, offering tools for defining and validating data structures with a focus on performance and simplicity.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/friemen/domaintypes">domaintypes</a></td>
+    <td>domaintypes is a library for defining and validating domain-specific data types in Clojure, providing tools for ensuring data integrity and consistency.</td>
   </tr>
 </table>
 
