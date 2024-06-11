@@ -17,6 +17,7 @@ A computer network is a collection of interconnected devices that can communicat
    - [Network Simulators and Traffic Generators](#network-simulators-and-traffic-generators)
    - [Network Connectivity](#network-connectivity)
 - [Network Operations](#network-operations)
+   - [Network Change Management](#network-change-management)
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)<br>
@@ -343,6 +344,50 @@ A computer network is a collection of interconnected devices that can communicat
 </table>
 
 ### Network Operations
+> 
+
+### Network Change Management
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/batfish/batfish">Batfish</a></td>
+    <td>Network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ytti/oxidized">Oxidized</a></td>
+    <td>Network device configuration backup tool. It's a <a href="https://www.shrubbery.net/rancid/">RANCID</a> replacement.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.netfishers.onl/netshot">Netshot</a></td>
+    <td>Network configuration and compliance management software.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/udhos/jazigo">Jazigo</a></td>
+    <td>Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to RANCID, fetchconfig, oxidized, Sweet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/udhos/fetchconfig">fetchconfig</a></td>
+    <td>fetchconfig is a Perl script for retrieving configuration of multiple devices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppliedTrust/sweet">sweet</a></td>
+    <td>Network device configuration backups and change alerts for the 21st century - inspired by RANCID.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lykinsbd/stockpiler">stockpiler</a></td>
+    <td>Stockpiler gathers network device configurations and stores them in a local Git repository.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jerikan-network">Jerikan</a></td>
+    <td>A configuration management system for network teams.</td>
+  </tr>
+</table>
+
+
 
 ## Books
 
