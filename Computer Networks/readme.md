@@ -348,7 +348,7 @@ A computer network is a collection of interconnected devices that can communicat
 </table>
 
 ## Network Operations
-> 
+> Network Operations refers to the activities to monitor, manage, and respond to alerts on their network's availability and performance.
 
 ### Network Change Management
 
