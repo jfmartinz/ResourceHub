@@ -18,6 +18,7 @@ This currated collection of resources are fairly comprehensive and covers variou
   - [Collections](#collections)
   - [Namespaces and Libraries](#namespaces-and-libraries)
 - [Editors and Environment Setup](#editors-and-environment-setup)
+- [Database](#database)
 - [Youtube](#youtube)
 - [Books](#books)
 - [Communities](#communities)
@@ -238,6 +239,88 @@ This currated collection of resources are fairly comprehensive and covers variou
   <tr>
     <td><a href="https://calva.io/">Visual Studio Code - Calva</a></td>
     <td>Comprehensive Clojure development support for VS Code, including REPL integration and debugging.</td>
+  </tr>
+</table>
+
+### Database
+> 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://www.datomic.com/">Datomic</a></td>
+    <td>Datomic is a database with an emphasis on immutability and time.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/xtdb/xtdb">xtdb</a></td>
+    <td>xtdb is a bitemporal database for SQL, Datalog & graph queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/replikativ/datahike">Datahike</a></td>
+    <td>Datahike is a durable, immutable, append-only database with time-traveling queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tonsky/datascript">Datascript</a></td>
+    <td>Datascript is an immutable in-memory database and Datalog query engine in ClojureScript.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/juji-io/datalevin">Datalevin</a></td>
+    <td>Datalevin is a distributed database designed to support a high volume of concurrent writes and reads.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/seancorfield/next-jdbc">next.jdbc</a></td>
+    <td>next.jdbc is a Clojure wrapper for JDBC, providing a simpler, more idiomatic way to interact with databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/clojure/java.jdbc">clojure.java.jdbc</a></td>
+    <td>clojure.java.jdbc is a low-level JDBC wrapper for Clojure, providing direct access to SQL operations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/funcool/clojure.jdbc">clojure.jdbc</a></td>
+    <td>clojure.jdbc is a high-level JDBC library for Clojure, providing a more functional approach to database operations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/robashton/cravendb">cravendb</a></td>
+    <td>cravendb is a Clojure client for RavenDB, a distributed document database.</td>
+  </tr>
+  <tr>
+    <td><a href="http://clojuremongodb.info/">Monger</a></td>
+    <td>Monger is a MongoDB driver for Clojure, providing a simple and idiomatic way to interact with MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://baumandm.github.io/monglorious/">Monglorious</a></td>
+    <td>Monglorious is a MongoDB driver for Clojure, built on top of the official MongoDB Java driver.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/apa512/clj-rethinkdb">clj-rethinkdb</a></td>
+    <td>clj-rethinkdb is a RethinkDB driver for Clojure, providing a simple and idiomatic way to interact with RethinkDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bitemyapp/revise">Revise</a></td>
+    <td>Revise is a RethinkDB client for Clojure, designed to be fast, efficient, and easy to use.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mpenet/spandex">Spandex</a></td>
+    <td>Spandex is an ElasticSearch client for Clojure, providing a high-level abstraction over the ElasticSearch REST API.</td>
+  </tr>
+  <tr>
+    <td><a href="http://clojureelasticsearch.info/">Elastisch</a></td>
+    <td>Elastisch is a comprehensive ElasticSearch client for Clojure, providing a wide range of features and utilities.</td>
+  </tr>
+  <tr>
+    <td><a href="http://clojureneo4j.info/">neocons</a></td>
+    <td>neocons is a Neo4j client for Clojure, providing a simple and idiomatic way to interact with Neo4j.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mpenet/alia">Alia</a></td>
+    <td>Alia is a Cassandra client for Clojure, offering a flexible and efficient way to work with Cassandra databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppsFlyer/aerospike-clj">aerospike-clj</a></td>
+    <td>aerospike-clj is an Aerospike client for Clojure, providing seamless integration 
+    </td>
   </tr>
 </table>
 
