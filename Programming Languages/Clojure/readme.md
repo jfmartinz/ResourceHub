@@ -24,6 +24,7 @@ This currated collection of resources are fairly comprehensive and covers variou
   - [Debugging](#debugging)
 - [Youtube](#youtube)
 - [Books](#books)
+- [Courses](#courses)
 - [Communities](#communities)
 - [Websites](#websites)
 - [Conclusion](#conclusion)
