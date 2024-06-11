@@ -8,6 +8,8 @@ This curated collection offers valuable Cybersecurity resources contributed by l
 ## Table of Contents
 - [Roadmap](#roadmap)
 - [Courses](#courses)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
 
 
 ### Roadmap
