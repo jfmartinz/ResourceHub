@@ -7,7 +7,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorial](#tutorial)
+- [Prolog](#prolog)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
   - [Advanced Data Handling](#advanced-data-handling)
@@ -22,7 +22,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 - [Youtube Videos](#youtube-videos)
 - [Books](#books)
 - [Community](#community)
-- [Additional Prolog Resources](#additional-prolog-resources)
+- [Additional Resources](#additional-resources)
 - [Conclusion](#conclusion)
 
 
@@ -44,10 +44,10 @@ Here are the collection of valuable resources to help you learn and master Prolo
   </tr>
 </table>
 
-### Tutorial
+### Prolog
 > Basic overview and introduction to Prolog programming language, Essential concepts and syntax of Prolog, covering predicates, clauses, and basic logic programming principles.
 
-### Introduction
+#### Introduction
 
 <table>
   <tr>
@@ -76,7 +76,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
   </tr>
 </table>
 
-### Fundamentals
+#### Fundamentals
 
 <table>
   <tr>
@@ -154,7 +154,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 </table>
 
 
-### Advanced Data Handling
+#### Advanced Data Handling
 
 <table>
   <tr>
@@ -179,7 +179,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
   </tr>
   </table>
 
-  ### Built in Predicates
+  #### Built in Predicates
 
   <table>
   <tr>
@@ -432,7 +432,6 @@ Here are the collection of valuable resources to help you learn and master Prolo
 ### Books
 
 > A curated list of books covering various aspects of Prolog programming.
-
 <table>
   <tr>
     <th>Resource Name</th>
@@ -509,12 +508,12 @@ Here are the collection of valuable resources to help you learn and master Prolo
   </tr>
   <tr>
     <td><a href="http://www.reddit.com/r/prolog">Reddit Prolog</a></td>
-    <td>A subreddit dedicated to Logic Programming and Prolog, where users share resources, ask questions, and discuss topics related to Prolog.</td>
+    <td>A subreddit dedicated to Logic Programming and Prolog, where users share resources, ask questions and discuss topics related to Prolog.</td>
   </tr>
 </table>
 
 
-### Additional Prolog Resources
+### Additional Resources
 
 > A collection of additional resources to further explore Prolog programming.
 
