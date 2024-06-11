@@ -329,7 +329,23 @@ This currated collection of resources are fairly comprehensive and covers variou
   </tr>
 </table>
 
+### Courses
+>
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.alura.com.br/cursos-online-programacao/clojure">Alura Clojure course</a></td>
+    <td>Alura is a paid platform for learning technologies, aimed at Portuguese-Brazilian speakers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/building-microservices-with/9781771374354">Building Microservices with Clojure</a></td>
+    <td>Learn to set up, build, and deploy microservices with Clojure using the Pedestal library. The course is in video format.</td>
+  </tr>
+</table>
 
 ### Communities
 >
