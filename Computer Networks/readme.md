@@ -19,6 +19,7 @@ A computer network is a collection of interconnected devices that can communicat
 - [Network Operations](#network-operations)
    - [Network Change Management](#network-change-management)
    - [Network Automation](#network-automation)
+   - [Network Monitoring](#network-monitoring)
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)<br>
@@ -344,7 +345,7 @@ A computer network is a collection of interconnected devices that can communicat
   </tr>
 </table>
 
-### Network Operations
+## Network Operations
 > 
 
 ### Network Change Management
@@ -446,6 +447,72 @@ A computer network is a collection of interconnected devices that can communicat
   <tr>
     <td><a href="https://github.com/mcgonagle/GitNops">GitNOps</a></td>
     <td>GitNops is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to network automation.</td>
+  </tr>
+</table>
+
+
+### Network Monitoring
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.perfsonar.net">perfSONAR</a></td>
+    <td>Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yahoo/UDPing">UDPing</a></td>
+    <td>Measure latency and packet loss across a link.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/20c/vaping">Vaping</a></td>
+    <td>Vaping is a healthy alternative to smokeping.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.veriflow.net/">veryflow</a></td>
+    <td>Continuous network verification system.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.forwardnetworks.com/">Forward Networks</a></td>
+    <td>Network Behavior Analysis (Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/toddproject/todd">ToDD</a></td>
+    <td>Distributed, testing-on-demand system focused on testing network related conditions.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.pmacct.net/">pmacct</a></td>
+    <td>Small set of multi-purpose passive network monitoring tools, including Netflow or IPFIX generation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.librenms.org/">LibreNMS</a></td>
+    <td>Network monitoring system that supports automatic discovery, alerting, distributed polling and others.</td>
+  </tr>
+  <tr>
+    <td><a href="https://observium.org/">Observium</a></td>
+    <td>Low-maintenance auto-discovering network monitoring platform.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/robcowart/elastiflow">Elastiflow</a></td>
+    <td>Netflow collector and reporting.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/EdgeCast/vflow">vFlow</a></td>
+    <td>High-performance, scalable and reliable IPFIX, sFlow and Netflow collector (written in pure Golang).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cloudflare/goflow">goFlow</a></td>
+    <td>A NetFlow/IPFIX/sFlow collector in Go.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nttgin/BGPalerter">BGPAlerter</a></td>
+    <td>Self-configuring BGP monitoring tool.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CiscoTestAutomation/xpresso">xpresso</a></td>
+    <td>The standard pyATS UI dashboard.</td>
   </tr>
 </table>
 
