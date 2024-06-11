@@ -127,6 +127,27 @@ This curated collection offers valuable Cybersecurity resources contributed by l
     </td>
     <td>DNSSEC is a set of extensions to DNS, which provides origin authentication of DNS data, authenticated denial of existence, and data integrity, but not confidentiality.</td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://oauth.net/2/">OAuth</a>
+    </td>
+    <td>OAuth is an open standard for access delegation commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.geeksforgeeks.org/simple-network-management-protocol-snmp/"> SNMP</a>
+    </td>
+    <td>SNMP is an internet-standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behavior.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://web.mit.edu/kerberos/">Kerberos Protocol</a>
+    </td>
+    <td>Kerberos is a network authentication protocol that provides strong authentication for client/server applications by using secret-key cryptography. It works on the basis of "tickets" to authenticate entities securely over a non-secure network.</td>
+  </tr>
 </table>
 
 
