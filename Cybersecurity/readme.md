@@ -12,7 +12,9 @@ This curated collection offers valuable Cybersecurity resources contributed by l
   - [Paid Courses](#paid-courses)
 - [Protocols](#protocols)
 - [Frameworks](#frameworks)
+- [Books](#books)
 - [Youtube](#youtube)
+- [Community](#community)
 
 ### Roadmap
 > This ia a roadmap to learn cybersecurity
@@ -206,6 +208,45 @@ This curated collection offers valuable Cybersecurity resources contributed by l
   </tr>
 </table>
 
+### Books
+> These are some of the books that we can use to learn Cybersecurity.
+<table>
+<tr>
+  <th>Resource Name</th>
+  <th>Description</th>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://www.google.co.in/books/edition/The_Hacker_Playbook_3/FBf9tgEACAAJ?hl=en">The Hacker Playbook</a>
+  </td>
+  <td>The main purpose of this book is to answer questions as to why things are still broken. For instance, with all the different security products, secure code reviews, defense in depth, and penetration testing requirements, how are we still seeing massive security breaches happening to major corporations and governments?</td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://www.amazon.com/PHASE-Cyber-Security-Analyst-Security-Engineering-ebook/dp/B07L8VPSLV/?ref=mentorcruise"> How to Become a Cyber-Security Analyst: Security Engineering and Ethical Hacking</a>
+  </td>
+  <td>This book will teach you how to install, configure and utilize three popular security tools: SPLUNK, Nessus and Wireshark. After that we will have some fun by performing several hacking techniques.</td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://www.amazon.com/How-Cybersecurity-Really-Works-Hands/dp/1718501285/?ref=mentorcruise"> How Cybersecurity really works?</a>
+  </td>
+  <td>This beginners guide covers different types of attacks, common tactics used by online adversaries, and defensive strategies you can use to protect yourself. You’ll learn what security professionals do, what an attack looks like from a cybercriminal’s viewpoint, and how to implement sophisticated cybersecurity measures on your own devices.</td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://www.amazon.com/Cybersecurity-Beginners-comprehensive-getting-cybersecurity/dp/1789616190?ref=mentorcruise"> Cybersecurity: A comprehensive guide to getting started in cybersecurity</a>
+  </td>
+  <td>Align your security knowledge with industry leading concepts and tools, Acquire required skills and certifications to survive the ever changing market needs and
+Learn from industry experts to analyse, implement, and maintain a robust environment</td>
+</tr>
+  
+</table>
+
 ### Youtube
 > Some youtube channel to refer to.
 
@@ -228,6 +269,30 @@ This curated collection offers valuable Cybersecurity resources contributed by l
       <a href="https://www.youtube.com/watch?v=lpa8uy4DyMo&list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_&ab_channel=edureka%21">EduReka!-Cybersecurity- Full Course</a>
     </td>
     <td>This Cyber Security Tutorial is ideal for both beginners as well as professionals who want to master the Cyber Security concepts.</td>
+  </tr>
+</table>
+
+### Community
+> These are some communities you can seek help from to learn about cybersecurity.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.wilderssecurity.com/">Wilders Security</a>
+    </td>
+    <td>This well-known security forum is a great resource for your cybersecurity questions.Easily navigate from the homepage to sub-forums and over 2.5 million posts.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://cybersecurity.ieee.org/"> IEEE Cybersecurity</a>
+    </td>
+    <td>IEEE’s cybersecurity-specific community is a great place to read resources, interact with other professionals, and find out about events.</td>
   </tr>
 </table>
 
