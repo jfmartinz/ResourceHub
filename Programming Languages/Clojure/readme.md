@@ -31,7 +31,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 - [Conclusion](#conclusion)
 
 ### Clojure
->
+> This currated collection of resources are fairly comprehensive and covers various functions involved in Clojure.
 
 ### Introduction
 
@@ -203,7 +203,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Editors and Environment Setup
->
+> Setting up Clojure development environments using various editors like Cursive, Emacs, Vim, VS Code, and Sublime.
 
 <table>
   <tr>
@@ -241,7 +241,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Programming at the REPL
->
+> Provides guides on programming at the REPL, including basic usage, data visualization, navigating namespaces, and enhancing workflow.
 
 <table>
   <tr>
@@ -279,7 +279,8 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Database
-> 
+> Introduces various databases and libraries available for data storage and manipulation in Clojure.
+
 <table>
   <tr>
     <th>Resource Name</th>
@@ -361,7 +362,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Data Validation
->
+> Presents tools and libraries for validating data in Clojure applications.
 
 <table>
   <tr>
@@ -407,7 +408,8 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Testing and Debugging
->
+> Resources for testing and debugging Clojure code, including libraries, tools, and techniques.
+
 
 ### Testing
 <table>
@@ -515,7 +517,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Youtube
->
+> Curated list of YouTube channels and videos for learning Clojure concepts and practices.
 
 <table>
   <tr>
@@ -557,7 +559,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Books
->
+> Recommendations for books covering Clojure programming, ranging from beginner to advanced levels.
 
 <table>
   <tr>
@@ -603,7 +605,8 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Courses
->
+> Online courses and tutorials for learning Clojure programming.
+
 
 <table>
   <tr>
@@ -621,7 +624,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Communities
->
+>Platforms and forums where Clojure developers can engage, seek help, and share knowledge.
 
 <table>
   <tr>
@@ -655,7 +658,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 ### Websites
->
+>Useful websites, tutorials, and platforms for learning Clojure and accessing related resources.
 
 <table>
   <tr>
