@@ -21,6 +21,7 @@ A computer network is a collection of interconnected devices that can communicat
    - [Network Automation](#network-automation)
    - [Network Monitoring](#network-monitoring)
    - [Security Monitoring](#security-monitoring)
+   - [Network Inventory](#network-inventory)
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)<br>
@@ -567,7 +568,34 @@ A computer network is a collection of interconnected devices that can communicat
   </tr>
 </table>
 
+### Network Inventory
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://phpipam.net/">phpipam</a></td>
+    <td>Open-source web IP address management application (IPAM).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dropbox/nsot">nsot</a></td>
+    <td>Network Source of Truth is an open source IPAM and network inventory database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/digitalocean/netbox">netbox</a></td>
+    <td>IP address management (IPAM) and data center infrastructure management (DCIM) tool.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ipfabric.io/product/network-mapping">ipfabric</a></td>
+    <td>Network Topology Mapping & Visualization (Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cidrblock/drawthe.net">drawthe.net</a></td>
+    <td>Draws network diagrams dynamically from a text file describing the placement, layout and icons.</td>
+  </tr>
+</table>
 
 ## Books
 
