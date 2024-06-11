@@ -350,6 +350,31 @@ This currated collection of resources are fairly comprehensive and covers variou
   <tr>
     <td><a href="https://exercism.io/tracks/clojure">Exercism clojure</a></td>
     <td>Platform for leveling up programming skills through exercises, including a specific track for Clojure.</td>
- 
+     <tr>
+    <td><a href="http://clojure.org/">Clojure</a></td>
+    <td>The official website for Clojure, providing comprehensive resources, documentation, and community links.</td>
+  </tr>
+  <tr>
+    <td><a href="http://clojurians.net/">Clojure Slack</a></td>
+    <td>A Slack community for Clojure developers to share knowledge, ask questions, and collaborate on projects.</td>
+  </tr>
+  <tr>
+    <td><a href="http://clojuredocs.org">clojuredocs</a></td>
+    <td>A community-powered documentation and example repository for Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="http://clojure-doc.org/">clojure-doc</a></td>
+    <td>Comprehensive documentation and tutorials for learning and using Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.clojure-toolbox.com/">The Clojure Toolbox</a></td>
+    <td>A categorized directory of libraries and tools for Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.zeef.com/vlad.bokov">ZEEF/Clojure</a></td>
+    <td>A curated collection of Clojure resources and links.</td>
+  </tr>
+ </table>
+
 
 ## Conclusion
