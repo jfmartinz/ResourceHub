@@ -1106,6 +1106,10 @@ to everyone - everywhere!</td>
     <td><a href="https://github.com/sristy17/Simon-Says-Game">Simon Says Game</a></td>
     <td>This repo helps you to build a web-based Simon Game (The Simon game is the exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with lights and sounds that can challenge you. Experience the fun as you repeat the patterns and advance to higher levels.) built with JavaScript, HTML, and CSS. This project demonstrates how the javascript fuctions works like async, await, promises and many more. The repository includes the necessary code and assets for building and running the Game on a web browser.This will help you in learning javascripts elements in your coding journey.</td>
     </tr>
+  <tr>
+    <td><a href="https://github.com/Saipradyumnagoud/Portfolio">Portfolio</a> </td>
+    <td>This repo consists of a Personal Portfolio Which is developed by using html,css,js And you can use this repo by cloning it into your personal machine</td>
+  </tr>
 </table>
 
 #### Advance projects
