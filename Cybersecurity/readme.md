@@ -196,6 +196,13 @@ This curated collection offers valuable Cybersecurity resources contributed by l
     </td>
     <td>HITRUST is a comprehensive security framework designed specifically for the healthcare industry. It provides prescriptive controls and requirements tailored to healthcare organizations to address the unique challenges and regulatory requirements they face, such as HIPAA (Health Insurance Portability and Accountability Act) compliance.</td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://content.securecontrolsframework.com/SCF-Recommended-Practices.pdf"> SCF</a>
+    </td>
+  <td>The Secure Controls Framework (SCF) centers on internal controls, encompassing cybersecurity and data privacy-related policies, standards, procedures, technologies, and their related processes. These are crafted to offer reasonable assurance of achieving business objectives and preventing, detecting, and rectifying unwanted events.</td>
+  </tr>
 </table>
 
 
