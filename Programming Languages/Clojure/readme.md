@@ -362,6 +362,79 @@ This currated collection of resources are fairly comprehensive and covers variou
   </tr>
 </table>
 
+### Debugging
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/flow-storm/flow-storm-debugger">flow-storm-debugger</a></td>
+    <td>A visual debugger for Clojure, providing powerful tools for inspecting and debugging running code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gnl/playback">playback</a></td>
+    <td>playback is a tool for recording and replaying execution traces in Clojure, enabling easy debugging and analysis of program behavior.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/clojure/tools.trace">tools.trace</a></td>
+    <td>tools.trace is a library for tracing function calls in Clojure, allowing developers to observe and analyze program execution.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/razum2um/clj-debugger">debugger</a></td>
+    <td>debugger is a simple debugging tool for Clojure, providing basic features for inspecting and stepping through code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/GeorgeJahad/debug-repl">debug-repl</a></td>
+    <td>debug-repl is a Clojure REPL with enhanced debugging capabilities, allowing developers to interactively debug code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pallet/ritz">ritz</a></td>
+    <td>ritz is a comprehensive debugging toolkit for Clojure, providing a range of tools for inspecting, tracing, and debugging code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dgrnbrg/redl">redl</a></td>
+    <td>redl is a lightweight debugging library for Clojure, offering simple tools for inspecting and evaluating code in the REPL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/technomancy/limit-break">limit-break</a></td>
+    <td>limit-break is a debugging library for Clojure, providing tools for tracing and inspecting function calls.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dgrnbrg/spyscope">spyscope</a></td>
+    <td>spyscope is a library for visualizing data flow in Clojure, helping developers understand and debug complex data transformations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/razum2um/aprint">aprint</a></td>
+    <td>aprint is a library for pretty-printing Clojure data structures, making it easier to inspect and debug complex data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cgrand/packed-printer">packed-printer</a></td>
+    <td>packed-printer is a library for compactly printing Clojure data structures, useful for debugging and inspecting large data sets.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AvisoNovate/pretty">pretty</a></td>
+    <td>pretty is a library for pretty-printing Clojure data structures with customizable formatting options.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/magnars/prone">prone</a></td>
+    <td>prone is a debugging library for Clojure, providing tools for inspecting and handling exceptions in development and production environments.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bhauman/lein-figwheel">figwheel</a></td>
+    <td>figwheel is a live reloading tool for ClojureScript development, allowing developers to see changes in their code instantly as they edit.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/venantius/ultra">ultra</a></td>
+    <td>ultra is a comprehensive debugging tool for ClojureScript development, providing a range of features for inspecting, tracing, and profiling code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppsFlyer/mate-clj">mate-clj</a></td>
+    <td>mate-clj is a debugging toolkit for Clojure, providing tools for tracing, inspecting, and debugging code in development and production environments.</td>
+  </tr>
+</table>
+
 ### Youtube
 >
 
