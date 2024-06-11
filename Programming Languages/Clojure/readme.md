@@ -29,6 +29,48 @@ This currated collection of resources are fairly comprehensive and covers variou
 
 ### Introduction
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_overview.htm">Overview of Clojure</a></td>
+    <td>An overview of the Clojure programming language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.theknowledgeacademy.com/blog/what-is-clojure/">What is Clojure?</a></td>
+    <td>A blog post explaining what Clojure is.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/about/history">History and Evolution of Clojure</a></td>
+    <td>An article detailing the history and evolution of Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://distantjob.com/blog/why-use-clojure/">Key Features and Advantages</a></td>
+    <td>An article highlighting the key features and advantages of Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/about/lisp#:~:text=Clojure%20is%20a%20member%20of,expressions)%20to%20vectors%20and%20maps.">Clojure vs. Other Lisp Dialects</a></td>
+    <td>A comparison of Clojure and other Lisp dialects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/about/functional_programming">Functional Programming</a></td>
+    <td>An introduction to functional programming concepts in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/guides/install_clojure">Setting Up Clojure</a></td>
+    <td>A guide on how to set up Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/guides/install_clojure">Installing Clojure</a></td>
+    <td>A detailed guide on installing Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_environment.htm">Setting Up a Development Environment</a></td>
+    <td>Instructions on setting up a development environment for Clojure.</td>
+  </tr>
+</table>
 
 
 
