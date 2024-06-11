@@ -64,4 +64,12 @@ This curated collection offers valuable Cybersecurity resources contributed by l
     <td><a href="https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/?couponCode=ST21MT61124">The Complete Cyber Security Course : Hackers Exposed!</td>
       <td>Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT Security & INFOSEC</td>
   </tr>
+      <tr>
+        <td>
+          <a href="https://www.coursera.org/specializations/intro-cyber-security"> NYU-Introduction to Cybersecuritty
+        </td>
+            <td>
+              Cyber Security. An introduction to modern information and system protection technology and methods.
+            </td>
+      </tr>
 </table>
