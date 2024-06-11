@@ -11,14 +11,14 @@ This Section is a curated collection of resources which provides core and advanc
 
 ## Table of Contents
 
-- [Tutorial](#tutorial)
+- [LaTeX](#latex)
   - [Introduction](#introduction)
   - [Document structure](#document-structure)
-  - [Latex Basics](#latex-basics)
+  - [Basics](#basics)
   - [Formatting](#formatting)
   - [Latex using Tikz](#latex-using-tikz)
   - [Latex MATH](#latex-math)
-- [Latex Editors](#latex-editors)
+- [Editors](#editors)
   - [Latex Focused Editors](#latex-focused-editors)
   - [Text Editors](#text-editors)
   - [Online Editors](#online-editors)
@@ -33,10 +33,10 @@ This Section is a curated collection of resources which provides core and advanc
 - [Conclusion](#conclusion)
 
 
-### Tutorial
+### LaTeX
 > Resources for learning LaTeX, including online tutorials, Introduction Document structure Latex Basics Formatting Latex using Tikz Latex MATH.
 
-### Introduction
+#### Introduction
 
 <table>
   <tr>
@@ -77,7 +77,7 @@ This Section is a curated collection of resources which provides core and advanc
   </tr>
 </table>
 
-### Document structure
+#### Document structure
 
 <table>
   <tr>
@@ -123,7 +123,7 @@ This Section is a curated collection of resources which provides core and advanc
 </table>
 
 
-### Latex Basics
+#### Basics
 
 <table>
   <tr>
@@ -200,7 +200,7 @@ This Section is a curated collection of resources which provides core and advanc
   </tr>
 </table>
 
-### Formatting
+#### Formatting
 
 <table>
   <tr>
@@ -269,7 +269,7 @@ This Section is a curated collection of resources which provides core and advanc
   </tr>
 </table>
 
-### Latex using Tikz
+#### Latex using Tikz
 
 <table>
   <tr>
@@ -298,7 +298,7 @@ This Section is a curated collection of resources which provides core and advanc
   </tr>
 </table>
 
-### Latex MATH
+#### Latex MATH
 
 <table>
   <tr>
@@ -372,10 +372,10 @@ This Section is a curated collection of resources which provides core and advanc
 </table>
 
 
-### Latex Editors
+### Editors
 > Information on LaTeX editors, both general-purpose and LaTeX-focused, for writing and editing LaTeX documents.
 
-### Latex Focused Editors
+#### Latex Focused Editors
 
 <table>
   <tr>
@@ -426,7 +426,7 @@ This Section is a curated collection of resources which provides core and advanc
 
 
 
-### Text Editors
+#### Text Editors
 
 <table>
   <tr>
@@ -484,7 +484,7 @@ This Section is a curated collection of resources which provides core and advanc
 </table>
 
 
-### Online Editors
+#### Online Editors
 
 <table>
   <tr>
@@ -608,40 +608,47 @@ This Section is a curated collection of resources which provides core and advanc
 ### Additional Resources
 > Additional resources related to LaTeX, including books, blogs, forums, social media groups, and additional tutorials.
 
-### Books 
+#### Books 
 
 <table>
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
+    <th>Cost</th>
   </tr>
   <tr>
     <td><a href="https://en.wikibooks.org/wiki/LaTeX">Wikibooks: LaTeX</a></td>
     <td>The LaTeX wikibook. Not really a paper book, but it is equally extensive.</td>
+    <td>Free</td>
   </tr>
   <tr>
     <td><a href="https://www.informit.com/store/latex-companion-9780201362992">The LaTeX Companion, F. Mittelbach (2004)</a></td>
     <td>Latex book by F, Mittelbach (2004)</td>
+    <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://www.informit.com/store/latex-graphics-companion-9780321508928">LaTeX Graphics Companion, M. Goossens (2007)</a></td>
     <td>Tex graphics companion, M. goossens (2007)</td>
+    <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://ctan.org/pkg/texbytopic">TeX by Topic (2007)</a></td>
     <td>Tex bt topics (2007) book for understanding of Tex language. </td>
+    <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://ctan.org/pkg/impatient">TeX for the Impatient (2020)</a></td>
     <td>Tex for the Impatient (2020</td>
+    <td>Paid</td>
   </tr>
   <tr>
     <td><a href="https://latex.silmaril.ie/formattinginformation">Formatting Information (2020)</a></td>
     <td>This is the HTML5-based online version of the book *Formatting Information - An introduction to typesetting with LATEX*. It has been continuously updated since the early 2000s.</td>
+    <td>Free</td>
   </tr>
 </table>
 
-### Blogs
+#### Blogs
 
 <table>
   <tr>
@@ -666,7 +673,7 @@ This Section is a curated collection of resources which provides core and advanc
   </tr>
 </table>
 
-### Community
+#### Community
 
 <table>
   <tr>
@@ -692,7 +699,7 @@ This Section is a curated collection of resources which provides core and advanc
 </table>
 
 
-### Additional Tutorials
+#### Additional Tutorials
 
 <table>
   <tr>

@@ -1076,6 +1076,10 @@ to everyone - everywhere!</td>
     <td><a href="https://github.com/SafdarJamal/quiz-app">Quiz application</a></td>
     <td>This repo by jamal is built with React and Semantic UI, it integrates with the Open Trivia Database API for quiz content. The app supports features like multiple question types, quiz customization, and a responsive design. The repository includes setup instructions, scripts for development, testing, and building the project for production.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Saipradyumnagoud/calcuclator">Calculator</a></td>
+      <td>This repo By Sai Pradyumna Contains code for calculator where you can perform operations you can use this application by cloning the repository it is developed by html,css,javascript</td>
+    </tr>
 </table>
 
 #### Intermediate projects
@@ -1102,6 +1106,10 @@ to everyone - everywhere!</td>
     <td><a href="https://github.com/sristy17/Simon-Says-Game">Simon Says Game</a></td>
     <td>This repo helps you to build a web-based Simon Game (The Simon game is the exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with lights and sounds that can challenge you. Experience the fun as you repeat the patterns and advance to higher levels.) built with JavaScript, HTML, and CSS. This project demonstrates how the javascript fuctions works like async, await, promises and many more. The repository includes the necessary code and assets for building and running the Game on a web browser.This will help you in learning javascripts elements in your coding journey.</td>
     </tr>
+  <tr>
+    <td><a href="https://github.com/Saipradyumnagoud/Portfolio">Portfolio</a> </td>
+    <td>This repo consists of a Personal Portfolio Which is developed by using html,css,js And you can use this repo by cloning it into your personal machine</td>
+  </tr>
 </table>
 
 #### Advance projects
@@ -1124,6 +1132,10 @@ to everyone - everywhere!</td>
     <td><a href="https://github.com/SyedZawwarAhmed/Countries-of-the-World">Countries of world (using REST)</a></td>
     <td>This repo by Syed Zawwar Ahmed is a single-page application that displays information about all countries using a REST API. Users can view countries on the homepage, search for a country, filter by region, and see detailed information on individual country pages. The app also includes a light/dark mode toggle. It was built with HTML, CSS, and JavaScript, utilizing the Fetch API and local storage for theme preferences.</td>
     </tr>
+  <tr>
+    <td><a href="https://github.com/Saipradyumnagoud/Restaurantwebsite">Restaurant Website</a></td>
+    <td>This Repo by Sai Pradyumna contains Restaurant website where the customer before comming to the restaurant can book a table so that they dont have to wait in the line in the restaurant it is developed by html,css,javascript,php you clone the repository and start using the project.</td>
+  </tr>
 </table>
 
 ### Conclusion
