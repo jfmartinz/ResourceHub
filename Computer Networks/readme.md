@@ -20,6 +20,7 @@ A computer network is a collection of interconnected devices that can communicat
    - [Network Change Management](#network-change-management)
    - [Network Automation](#network-automation)
    - [Network Monitoring](#network-monitoring)
+   - [Security Monitoring](#security-monitoring)
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)<br>
@@ -515,6 +516,57 @@ A computer network is a collection of interconnected devices that can communicat
     <td>The standard pyATS UI dashboard.</td>
   </tr>
 </table>
+
+
+### Security Monitoring
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.cpacket.com">cPacket</a></td>
+    <td>Performance monitoring solutions that deliver real-time analysis and coverage (Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.proxmox.com/en/proxmox-mail-gateway">Proxmox Mail Gateway</a></td>
+    <td>Open-source email security solution helping you to protect your mail server against all email threats the moment they emerge.</td>
+  </tr>
+  <tr>
+    <td><a href="https://fastnetmon.com/">FastNetMon</a></td>
+    <td>DDoS detection tool (Open Source or Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Cisco-Talos/pyrebox">PyREBox</a></td>
+    <td>Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU.</td>
+  </tr>
+  <tr>
+    <td><a href="https://canary.tools/">Canary</a></td>
+    <td>Honeypot solution (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://canarytokens.org/generate">CanaryTokens</a></td>
+    <td>Free honeytoken.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/idaholab/Malcolm">Malcolm</a></td>
+    <td>Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zeek.org/">Zeek</a></td>
+    <td>Zeek is an open source network security monitoring tool.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/corelight/zeek2es">zeek2es</a></td>
+    <td>A Zeek log to Elastic/OpenSearch log converter.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drkeithjones.com">DrKeithJones.com</a></td>
+    <td>Keith Jones' blog on cyber security and security monitoring.</td>
+  </tr>
+</table>
+
 
 
 ## Books
