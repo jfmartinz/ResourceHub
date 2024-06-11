@@ -18,6 +18,7 @@ A computer network is a collection of interconnected devices that can communicat
    - [Network Connectivity](#network-connectivity)
 - [Network Operations](#network-operations)
    - [Network Change Management](#network-change-management)
+   - [Network Automation](#network-automation)
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)<br>
@@ -387,6 +388,66 @@ A computer network is a collection of interconnected devices that can communicat
   </tr>
 </table>
 
+### Network Automation
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://napalm-automation.net/">Napalm</a></td>
+    <td>Vendor neutral, cross-platform open source project that provides a unified API to network devices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ktbyers/netmiko">netmiko</a></td>
+    <td>Multi-vendor library to simplify Paramiko SSH connections to network devices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/trigger/trigger">trigger</a></td>
+    <td>Robust network automation toolkit written in Python that was designed for interfacing with network devices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansible/ansible">Ansible</a></td>
+    <td>IT automation platform that makes your applications and systems easier to deploy by using SSH, with no agents to install on remote systems.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nornir-automation/nornir">nornir</a></td>
+    <td>Pluggable multi-threaded framework with inventory management to help operate collections of devices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SUNET/cnaas-nms">CNaaS-NMS</a></td>
+    <td>Campus Network-as-a-Service - Network Management System. Software to automate management of a campus network (LAN).</td>
+  </tr>
+  <tr>
+    <td><a href="https://developer.cisco.com/pyats/">pyats</a></td>
+    <td>pyATS enable network engineers to perform stateful validation of their device operational status.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.itential.com/">itential.com</a></td>
+    <td>Low-Code Automation for Physical, Virtual, and Cloud Networks (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansible/awx">AWX</a></td>
+    <td>The upstream project for Tower, a commercial derivative of AWX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://unimus.net/">Unimus</a></td>
+    <td>Unimus makes Network Automation and Configuration Management easy (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://backbox.com/">Blackbox</a></td>
+    <td>Network automation for the hybrid multi-cloud era (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://nephio.org/">Nephio</a></td>
+    <td>Nephio’s goal is to deliver carrier-grade, simple, open, Kubernetes-based cloud native intent automation and common automation templates.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mcgonagle/GitNops">GitNOps</a></td>
+    <td>GitNops is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to network automation.</td>
+  </tr>
+</table>
 
 
 ## Books
