@@ -17,6 +17,7 @@ This currated collection of resources are fairly comprehensive and covers variou
   - [Collections](#collections)
   - [Namespaces and Libraries](#namespaces-and-libraries)
 - [Editors and Environment Setup](#editors-and-environment-setup)
+- [Programming at the REPL](#programming-at-the-repl)
 - [Database](#database)
 - [Data Validation](#data-validation)
 - [Testing and Debugging](#testing-and-debugging)
