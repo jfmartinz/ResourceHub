@@ -15,6 +15,8 @@ This currated collection of resources are fairly comprehensive and covers variou
 - [Tutorial](#tutorial)
   - [Introduction](#introduction)
   - [Fundamentals](#fundamentals)
+  - [Collections](#collections)
+  - [Namespaces and Libraries](#namespaces-and-libraries)
 - [Conclusion](#conclusion)
 
 
@@ -132,6 +134,32 @@ This currated collection of resources are fairly comprehensive and covers variou
     <td>Overview of exception handling in Clojure.</td>
   </tr>
 </table>
+
+### Collections
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_lists.htm">Lists</a></td>
+    <td>Guide to using lists in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_vectors.htm">Vectors</a></td>
+    <td>Overview of vectors in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_maps.htm">Maps</a></td>
+    <td>Introduction to maps in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/clojure/clojure_sets.htm">Sets</a></td>
+    <td>Guide to using sets in Clojure.</td>
+  </tr>
+</table>
+
 
 
 
