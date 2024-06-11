@@ -16,6 +16,7 @@ A computer network is a collection of interconnected devices that can communicat
    - [Network Services](#network-services)
    - [Network Simulators and Traffic Generators](#network-simulators-and-traffic-generators)
    - [Network Connectivity](#network-connectivity)
+- [Network Operations](#network-operations)
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)<br>
@@ -341,7 +342,7 @@ A computer network is a collection of interconnected devices that can communicat
   </tr>
 </table>
 
-
+### Network Operations
 
 ## Books
 
