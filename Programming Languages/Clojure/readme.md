@@ -161,6 +161,42 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 
+### Namespaces and Libraries
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/reference/namespaces">Namespaces</a></td>
+    <td>Official documentation on namespaces in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/reference/namespaces#:~:text=Namespaces%20are%20also%20dynamic%2C%20they,lang%20plus%20clojure">Creating and Using Namespaces</a></td>
+    <td>Guide on creating and using namespaces in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ask.clojure.org/index.php/9003/default-alias-name-for-namespaces">Namespace Aliasing and Referencing</a></td>
+    <td>Discussion on aliasing and referencing namespaces.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure.org/community/libraries">Using Libraries</a></td>
+    <td>Overview of using libraries in Clojure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://clojure-doc.org/articles/ecosystem/web_development/">The Clojure Ecosystem</a></td>
+    <td>Exploration of the Clojure ecosystem, particularly for web development.</td>
+  </tr>
+  <tr>
+    <td><a href="https://sites.hampshire.edu/ci-lab/2012/08/14/using-leiningen-to-add-libraries-to-your-clojure-project-2/">Finding and Using Libraries with Leiningen</a></td>
+    <td>Guide to adding libraries to Clojure projects using Leiningen.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.freshcodeit.com/blog/clojure-programming-world-frameworks-and-other-tools">Popular Libraries</a></td>
+    <td>Overview of popular libraries in the Clojure ecosystem.</td>
+  </tr>
+</table>
 
 
 ## Conclusion
