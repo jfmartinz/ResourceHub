@@ -420,7 +420,7 @@ Lisp is a family of programming languages with a long history and a distinctive,
 
 <table width="100%" id="youtube">
 <tr>
-<th>Channel Name</th>
+<th>Resource Name</th>
 <th>Description</th>
 </tr>
 <tr>
