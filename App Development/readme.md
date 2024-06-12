@@ -423,6 +423,10 @@ App development refers to crafting software for diverse devices, involving plann
         <td><a href="https://www.youtube.com/c/BenAwad97">Ben Awad</a></td>
         <td>Focuses on React Native, React, and other web development technologies, with a mix of tutorials, live coding, and tech discussions.</td>
       </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/watch?v=fis26HvvDII">Android Development for Beginners</a></td>
+        <td>Learn how to develop an android app from scratch in this full course for beginners.</td>
+      </tr>
   </table>
 
   ### YouTube Playlists
