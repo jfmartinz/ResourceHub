@@ -21,6 +21,7 @@ Swift is a powerful and intuitive programming language developed by Apple for iO
    - [Free Courses](#free-certification-courses)
    - [Paid Courses](#paid-certification-courses)
 - [Youtube](#youtube)<br>
+- [Swift Cheatsheets](#swift-cheatsheets)
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -488,6 +489,41 @@ Helps beginners understand fundamental concepts and advanced users explore new t
    <td>Learn how to make an app with Swift, SwiftUI and Xcode.
 </td>
  </tr>
+</table>
+
+### Swift Cheatsheets
+
+> Cheat sheets for Swift programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/swift.html">Swift Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for Swift programming, covering essential syntax and concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-swift/modules/learn-swift-hello-world/cheatsheet">Learn Swift: Hello World Cheatsheet</a></td>
+    <td>A beginner-friendly Swift cheat sheet provided by Codecademy, ideal for those new to the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/resources/cheatsheets/language/swift">Swift Cheatsheets</a></td>
+    <td>A collection of Swift cheat sheets provided by Codecademy, covering various aspects of Swift programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf">Swift 5.1 Cheat Sheet and Quick Reference</a></td>
+    <td>A Swift 5.1 cheat sheet with a downloadable PDF version, covering essential Swift concepts and syntax.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@domen.lanisnik/swift-cheatsheet-for-android-kotlin-developers-19cce41e54c6">Swift Cheatsheet for Android/Kotlin Developers</a></td>
+    <td>A Swift cheat sheet specifically tailored for Android/Kotlin developers, providing guidance on transitioning to Swift.</td>
+  </tr>
+  <tr>
+    <td><a href="https://codewithchris.com/swift-cheat-sheet/">Swift Programming Language Cheat Sheet</a></td>
+    <td>A comprehensive Swift cheat sheet provided by CodeWithChris, covering a wide range of Swift topics and concepts.</td>
+  </tr>
 </table>
 
 ## Conclusion

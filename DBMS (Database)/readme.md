@@ -13,6 +13,11 @@ A database is an organized collection of structured information, or data, typica
 - [Best Practices](#best-practices)
 - [Challenges](#challenges)
 - [Books](#books)
+    - [Free Books](#free-books)
+    - [Paid Books](#paid-books)
+- [YouTube](#youtube)
+    - [YouTube channels](#youtube-channels)
+    - [YouTube Playlists](#youtube-playlist)
 - [Interview](#interview)
 - [GitHub Repositories](#github-repositories)
 - [projects](#projects)
@@ -126,6 +131,8 @@ A database is an organized collection of structured information, or data, typica
       <td><a href="https://www.youtube.com/watch?v=T7AxM7Vqvaw&list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc">Jenny’s Lectures CS IT Youtube</a></td>
       <td>The "DBMS" playlist is helpful for clearing the basic and advanced of DBMS.</td>
     </tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y">Gate Smashers Youtube channel</a></td>
+    <td>This playlist  consists of basic to advanced DBMS concepts with examples provided for clear understanding(It is  a beginner-friendly playlist).</td></tr>
 </table>
 
 
@@ -236,26 +243,110 @@ Database design and modeling are critical steps in the creation and management o
 
 ### Books
 
+> These books helps you to learn about DBMS topics that courses cannot teach.
+
+#### Free Books
+
 <table width="100%">
     <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Status</th>
     </tr>
     <tr>
         <td><a href="https://pdflink.to/70a9bab5/">Database Design-2nd Edition</a></td>
         <td>This book covers the fundamental concepts of database design, including data models, database management systems, and integrity rules. It is well-suited for introductory courses and provides clear explanations and examples.</td>
-        <td>Free</td>
     </tr>
     <tr>
         <td><a href="https://pdflink.to/7c7844d6/">Relational Databases and Microsoft Access 365-Version 4.0</a></td>
-        <td>This book provides a comprehensive introduction to relational database principles and practical usage of Microsoft Access. It is ideal for beginners and includes detailed chapters on tables, queries, and forms</td>
-        <td>Free</td>
-        </tr>
+        <td>This book provides a comprehensive introduction to relational database principles and practical usage of Microsoft Access. It is ideal for beginners and includes detailed chapters on tables, queries, and forms.</td>
+    </tr>
     <tr>
         <td><a href="https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/ce269ab3b1fe758df40aec6cad51371e_MIT6_830F10_lec01.pdf#:~:text=URL%3A%20https%3A%2F%2Focw.mit.edu%2Fcourses%2F6">Introduction to Database Systems</a></td>
         <td>This lecture series provides an in-depth introduction to database systems, including database management systems, design, and implementation​.</td>
-        <td>Free</td>
+    </tr>
+    <tr>
+        <td><a href="http://debracollege.dspaces.org/bitstream/123456789/168/1/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf">Fundamentals of Database System</a></td>
+        <td>This book is a comprehensive introduction to the principles and practices of database systems. In its seventh edition, the book continues to serve as a fundamental resource for students, professionals, and academics in the field of database management.</td>
+    </tr>
+    
+</table>
+
+#### Paid Books
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.amazon.in/MongoDB-Jobseekers-Reach-heights-career/dp/9355518250/">Mongo DB for Job seekers</a></td>
+        <td>This book is a comprehensive guide designed to help jobseekers and professionals advance their careers in the field of database management, specifically focusing on MongoDB. Written by an expert in the field, this book covers essential concepts, practical applications, and advanced techniques related to MongoDB, a popular NoSQL database system.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.amazon.in/Learn-SQL-Database-Programming-manipulate/dp/1838984763/">Learn SQL Database Programming</a></td>
+        <td>This book is a comprehensive guide for individuals seeking to master SQL (Structured Query Language) and database programming. Written in a step-by-step format, this book is tailored for beginners as well as intermediate users looking to enhance their SQL skills.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.amazon.in/SQL-All-One-Dummies-3ed/dp/8126534494/">SQL all-in-one for dummies</a></td>
+        <td>This book is designed to help readers master SQL (Structured Query Language), the standard language used for managing and manipulating relational databases. Whether you're a beginner looking to learn SQL from scratch or an experienced user seeking to deepen your understanding, this book provides everything you need to know about SQL in one accessible resource.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.amazon.in/Learning-SQL-Generate-Manipulate-Greyscale/dp/935213978X/">Learning SQL</a></td>
+        <td>This book is a comprehensive guide aimed at individuals looking to learn SQL (Structured Query Language) from scratch or enhance their existing SQL skills. Authored by renowned database experts, the book offers a practical and hands-on approach to understanding and using SQL effectively.</td>
+    </tr>
+</table>
+
+### YouTube
+
+> These resources provided by youtube helps you to learn the DBMS easily and effectivly.
+
+#### YouTube Channels
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/c/Freecodecamp">freeCodeCamp</a></td>
+        <td>freeCodeCamp offers comprehensive tutorials on various database concepts, from SQL basics to advanced database design and optimization. Their in-depth videos and hands-on approach make it a great resource for both beginners and advanced learners.</td>
+    </tr>
+     <tr>
+        <td><a href="https://www.youtube.com/@techTFQ">TechTFQ</a></td>
+        <td>TechTFQ offers detailed tutorials on various database concepts, SQL queries, data warehousing, and ETL processes. The channel is known for its clear explanations and practical demonstrations, making it a valuable resource for both beginners and experienced database professionals.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/c/TheNetNinja">The Net Ninja</a></td>
+        <td>The Net Ninja offers a vast collection of programming tutorials, including Databases like MongoDB, and other. The channel is known for its clear and concise teaching style.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/c/Academind">Academind</a></td>
+        <td>The Academind provides in-depth tutorials on various databases and backend technology, including sql, database management and more. The channel focuses on building real-world applications, making it easier to grasp practical concepts.</td>
+    </tr>
+</table>
+
+#### YouTube Playlist
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLsjUcU8CQXGFFAhJI6qTA8owv3z9jBbpd">SQL(Full Course)</a></td>
+        <td>This youtube playlist by QAFox is a very helpful resource for learning SQL, it includes a wide range of topics including database objects, creating linux virtural machine, install mysql server and more.</td>
+    </tr>
+     <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLEiEAq2VkUUKL3yPbn8yWnatjUg0P0I-Z">SQL Tutorial Videos</a></td>
+        <td>This playlist by simplilearn is a comprehensive resource for learning sql ,this playlist on SQL Tutorial covers all the important SQL concepts and commands that will help you master SQL. You will learn everything from SQL basics to advanced from these videos.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB">SQL Server tutorial for beginners</a></td>
+        <td>This playlist by kudvenkat is one of the best resource for learning sql server , this playlist covers topics like joins, views, triggers, system functions, stored procedures, user defined scalar and table valued functions etc. These video tutorials will be useful for frehsers, experienced .NET and SQL Database developers.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL1BztTYDF-QM6KSVfrbSyJNTU9inyBqYF">Complete MongoDB Course from Scratch</a></td>
+        <td>This playlist by procademy is a comprehensive collection of videos for learning mongodb, this playlist includes json, bson, embedded document and many more.</td>
     </tr>
 </table>
 

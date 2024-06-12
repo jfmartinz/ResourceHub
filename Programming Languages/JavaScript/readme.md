@@ -8,9 +8,7 @@ This section is dedicated to providing valuable resources for learning and maste
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-   - [JavaScript Developer Roadmap I](#roadmap)
-   - [JavaScript Developer Roadmap II](#roadmap)
-- [Tutorials](#tutorials)
+- [JavaScript](#javascript)
    - [Introduction](#introduction)
    - [Fundamentals](#fundamentals)
    - [Object Oriented Programming (OOP)](#object-oriented-programming-oop)
@@ -20,33 +18,27 @@ This section is dedicated to providing valuable resources for learning and maste
    - [APIs ans Fetch](#apis-and-fetch)
 - [Tools and Developer Environment](#tools-and-development-environment)
    - [Browser](#browser)
-   - [IDEs for JavaScript](#ides-for-javascript)
-   - [Online Editors for JavaScript](#online-editors-for-javascript)
+   - [IDEs](#ides)
+   - [Online Editors](#online-editors)
    - [Browser Devtools](#browser-devtools)
-- [Javascript Frameworks and Libraries](#javascript-frameworks-and-libraries)
+- [Frameworks and Libraries](#frameworks-and-libraries)
    - [Front-End Frameworks](#front-end-frameworks)
        - [React](#1-react)
        - [Angular](#2-angular)
        - [Vue](#3-vue)
        - [jQuery](#4-jquery)
   - [State Management](#state-management)
-       - [Redux](#state-management)
-       - [Vuex](#state-management)
-- [Advanced Frameworks](#advanced-frameworks)
-   - [Next.js (for React)](#advanced-frameworks)
-   - [Nuxt.js (for Vue)](#advanced-frameworks) 
-- [Back-End Development in JavaScript](#back-end-development-with-javascript)
+- [Advanced Frameworks](#advanced-frameworks) 
+- [Back-End Development](#back-end-development)
    - [Node.js](#nodejs)
    - [Testing and Debugging](#testing-and-debugging)
         - [Testing](#1-testing)
         - [Debugging](#2-debugging)
-- [Mobile Development with JavaScript](#mobile-development-with-javascript)
-   - [React Native](#mobile-development-with-javascript)
-   - [Ionic](#mobile-development-with-javascript)
-   - [Native Script](#mobile-development-with-javascript)
+- [Mobile Development](#mobile-development)
 - [Serverless Architecture](#serverless-architecture)
 - [Specialized Topics](#specialized-topics)
 - [Modern JavaScript Features](#modern-javascript-features)
+- [Design Patterns](#design-patterns)
 - [JavaScript Projects](#javascript-projects)
    - [Beginner Level Projects](#beginner-level-projects)
    - [Intermediate Level Projects](#intermediate-level-projects)
@@ -54,16 +46,17 @@ This section is dedicated to providing valuable resources for learning and maste
 - [Version Control](#version-control)
 - [Deployment](#deployment)
 - [Youtube](#youtube)
-   - [Youtube Channels to Learn JavaScript](#youtube-channels-for-learning-javascript)
-   - [YouTube Playlists for Learning JavaScript](#youtube-playlists-for-learning-javascript)
+   - [Youtube Channels](#youtube-channels)
+   - [YouTube Playlists](#youtube-playlists)
 - [Courses](#courses)
-   - [Free Certification Courses](#free-certification-courses)
-   - [Paid Certification Courses](#paid-certification-courses)
+   - [Free Courses](#free-courses)
+   - [Paid Courses](#paid-courses)
 - [Additional Resources](#additional-resources)
-   - [JavaScript Games](#javascript-games)
-   - [JavaScript Communities](#javascript-communities)
-   - [JavaScript Documentations](#javascript-documentations)
-   - [JavaScript Books](#javascript-books)
+   - [Games](#games)
+   - [Communities](#communities)
+   - [Documentations](#documentations)
+   - [Books](#books)
+   - [CheatSheets](#cheatsheets)
 - [Conclusion](#conclusion)
 
 
@@ -86,10 +79,10 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### Tutorials
+### JavaScript
 > Start your journey into JavaScript programming with these essential tutorials covering basic syntax and concepts.
 
-### Introduction
+#### Introduction
 
 
 <table width="100%">
@@ -135,7 +128,7 @@ This section is dedicated to providing valuable resources for learning and maste
       </tr>
 </table>
 
-### Fundamentals
+#### Fundamentals
 
 <table width="100%">
   <tr>
@@ -207,7 +200,7 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 
-### Object-Oriented Programming (OOP)
+#### Object-Oriented Programming (OOP)
 
 <table width="100%">
   <tr>
@@ -257,7 +250,7 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### Data Structures
+#### Data Structures
 
 <table width="100%">
   <tr>
@@ -296,7 +289,7 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 
-### Asynchronous JavaScript
+#### Asynchronous JavaScript
 
 <table width="100%">
   <tr>
@@ -326,7 +319,7 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 
-### DOM Manipulation
+#### DOM Manipulation
 
 <table width="100%">
   <tr>
@@ -369,7 +362,7 @@ This section is dedicated to providing valuable resources for learning and maste
   <tr></tr>
 </table>
 
-### APIs and Fetch
+#### APIs and Fetch
 
 <table width="100%">
   <tr>
@@ -398,7 +391,7 @@ This section is dedicated to providing valuable resources for learning and maste
 
 > Get started with setting up your development environment for JavaScript programming with these essential resources.
 
-### Browser
+#### Browser
 
 <table width="100%">
   <tr>
@@ -427,7 +420,7 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### IDEs for JavaScript
+#### IDEs
 
 
 <table width="100%">
@@ -461,7 +454,7 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### Online Editors for JavaScript
+#### Online Editors
 
 
 <table width="100%">
@@ -483,7 +476,7 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### Browser DevTools
+#### Browser DevTools
 
 <table width="100%">
   <tr>
@@ -500,10 +493,10 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### JavaScript Frameworks and Libraries
+### Frameworks and Libraries
 >  The enormous variety of frameworks and libraries, making websites with JavaScript is now easier. Therefore, excellent knowledge of JavaScript frameworks is the key to being a developer who can build fantastic websites. 
-### Front-End Frameworks
-### 1. React
+#### Front-End Frameworks
+##### 1. React
 
 <table width="100%">
   <tr>
@@ -532,7 +525,7 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### 2. Angular 
+##### 2. Angular 
 
 <table width="100%">
   <tr>
@@ -558,7 +551,7 @@ This section is dedicated to providing valuable resources for learning and maste
 </table>
 
 
-### 3. Vue
+##### 3. Vue
 
 <table width="100%">
   <tr>
@@ -579,7 +572,7 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### 4. jQuery
+##### 4. jQuery
 
 <table width="100%">
   <tr>
@@ -608,7 +601,7 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### State Management
+#### State Management
 
 <table width="100%">
   <tr>
@@ -663,10 +656,10 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### Back-End Development with JavaScript
+### Back-End Development
 > Here are resources for Javascript in Back end development
 
-### Node.js
+#### Node.js
 
 <table width="100%">
   <tr>
@@ -703,10 +696,10 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### Testing and Debugging
+#### Testing and Debugging
 > Testing is the process of verifying and validating that a software or application is bug-free, meets the technical requirements as guided by its design and development, Debugging is the process of fixing a bug in the software or an application. It can be defined as identifying, analyzing, and removing errors.
 
-### 1. Testing
+##### 1. Testing
 
 <table width="100%">
   <tr>
@@ -735,7 +728,7 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### 2. Debugging
+##### 2. Debugging
 
 <table width="100%">
   <tr>
@@ -756,8 +749,8 @@ This section is dedicated to providing valuable resources for learning and maste
   </tr>
 </table>
 
-### Mobile Development with JavaScript
-> Here are resources for mobile development with JavScript.
+### Mobile Development
+> Here are resources for mobile development with JavaScript.
 
 <table width="100%">
   <tr>
@@ -924,10 +917,36 @@ Here's the updated table with all resource links added to the Platform/Service c
   </tbody>
 </table>
 
+### Design Patterns
+> Design patterns are typical solutions to commonly occurring problems in software design. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ziyasal/design-patterns-and-idioms-in-es6">es6 design patterns</a></td>
+    <td>A collection of design patterns and idioms implemented in ES6.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sohamkamani/javascript-design-patterns-for-humans">humans</a></td>
+    <td>Ultra simplified explanation to design patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nnupoor/js_designpatterns">design-patterns</a></td>
+    <td>A comprehensive collection of JavaScript design patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book">design patterns by addy osmani</a></td>
+    <td>Essential JavaScript Design Patterns book by Addy Osmani.</td>
+  </tr>
+</table>
+
 ### JavaScript Projects
 > Projects which can help you to enhance your development skills and build your resumes.
 
-### Beginner Level Projects
+#### Beginner Level Projects
 
 <table width="100%">
   <tr>
@@ -1026,7 +1045,7 @@ Here's the updated table with all resource links added to the Platform/Service c
   </tr>
 </table>
 
-### Intermediate Level Projects
+#### Intermediate Level Projects
 
 <table width="100%">
   <tr>
@@ -1191,7 +1210,7 @@ Here's the updated table with all resource links added to the Platform/Service c
   </tr>
 </table>
 
-### Advance Level Projects
+#### Advance Level Projects
 
 <table width="100%">
   <tr>
@@ -1340,7 +1359,7 @@ Here's the revised table:
 ### Youtube
 > Here are few popular Youtube channels and Playlists which hekp you to build your JS Mastery
 
-### YouTube Channels for Learning JavaScript
+#### YouTube Channels
 <table>
   <tr>
     <th>Resource Name</th>
@@ -1404,7 +1423,7 @@ Here's the revised table:
   </tr>
 </table>
 
-### YouTube Playlists for Learning JavaScript
+#### YouTube Playlists
 <table>
   <tr>
     <th>Resource Name</th>
@@ -1455,7 +1474,7 @@ Here's the revised table:
 ### Courses
 > Here are some free and paid courses you may consider
 
-### Free Certification Courses
+#### Free Courses
 
 <table>
   <tr>
@@ -1497,10 +1516,14 @@ Here's the revised table:
     <td><a href="https://youtu.be/cpoXLj24BDY?si=sdtFPx2rygSChw_D">JavaScript Certification Youtube Course</a></td>
     <td>A free course on YouTube designed for complete beginners to learn JavaScript programming.</td>
   </tr>
+  <tr>
+  <td><a href="https://techdevguide.withgoogle.com/paths/foundational/?programming_languages=javascript#sequence-2">Foundations of Programming in JavaScript by Google Tech Dev Guide</a></td>
+  <td>Learn about basic programming concepts like functions, operators, variables, control flow, strings, and arrays — some of the building blocks of programming by Google Tech Dev Guide </td>
+  </tr>
 </table>
 
 
-### Paid Certification Courses
+#### Paid Courses
 <table>
   <tr>
     <th>Resource Name</th>
@@ -1545,7 +1568,7 @@ Here's the revised table:
 ### Additional Resources
 > Additional Resources that you may find helpful
 
-### JavaScript Games
+#### Games
 
 <table width="100%">
   <tr>
@@ -1579,7 +1602,7 @@ Here's the revised table:
 </table>
 
 
-### JavaScript Communities
+#### Communities
 
 <table width="100%">
   <tr>
@@ -1615,7 +1638,7 @@ Here's the revised table:
   </tr>
 </table>
 
-### JavaScript Documentations
+#### Documentations
 <table>
   <tr>
     <th>Resource Name</th>
@@ -1636,7 +1659,7 @@ Here's the revised table:
 </table>
 
 
-### JavaScript Books
+#### Books
 
 <table width="100%">
   <tr>
@@ -1691,6 +1714,47 @@ Here's the revised table:
   </tr>
 </table>
 
+
+#### CheatSheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.interviewbit.com/javascript-cheat-sheet/">InterviewBit - JavaScript Cheat Sheet: Basics to Advanced (2024)</a></td>
+    <td>A comprehensive cheat sheet covering JavaScript from basics to advanced concepts, updated for 2024.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewithharry.com/blogpost/javascript-cheatsheet/">Code with Harry - JavaScript Cheatsheet</a></td>
+    <td>A practical JavaScript cheat sheet by Code with Harry, ideal for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://htmlcheatsheet.com/js/">JavaScript (JS) Cheat Sheet Online</a></td>
+    <td>An online cheat sheet providing a quick reference for JavaScript syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/javascript.html">JavaScript Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for JavaScript, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l">The Ultimate JavaScript Cheatsheet Collection</a></td>
+    <td>A collection of various JavaScript cheat sheets compiled for easy access.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript/">GFG - JavaScript Cheat Sheet - A Basic Guide to JavaScript</a></td>
+    <td>A basic guide to JavaScript, suitable for beginners, provided by GeeksforGeeks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/">Zero Mastery - Advanced JavaScript Cheat Sheet</a></td>
+    <td>An advanced cheat sheet for JavaScript, covering more complex concepts and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://overapi.com/javascript">OverAPI - JavaScript Cheat Sheet</a></td>
+    <td>A comprehensive JavaScript cheat sheet provided by OverAPI.</td>
+  </tr>
+</table>
 
 
 ## Conclusion

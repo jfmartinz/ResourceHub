@@ -50,6 +50,10 @@
    <td><a href="https://drive.google.com/file/d/11KvoK4FMs6gJbo-u-0H5Kj-EY5jPz7g5/view?usp=sharing"> ML Engineer Roadmap </a></td>
    <td>This roadmap  gives you clear cut roadmap for becoming ready for the  ML Engineer Job Profile</td>
 </tr>
+<tr>
+   <td><a href="https://www.kaggle.com/discussions/questions-and-answers/441553"> ML Roadmap </a></td>
+   <td>This roadmap provides steps from  start to end for  becoming ready for  Machine Learning Engineer.</td>
+</tr>
 </table>
 
 ### Tutorials or Courses
@@ -605,6 +609,82 @@
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+        <tr>
+    <td><a href="https://www.coursera.org/learn/machine-learning">Machine Learning by Andrew NG</a></td>
+    <td>A comprehensive course covering various machine learning algorithms and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/intro-to-machine-learning--ud120">Intro to Machine Learning by Udacity</a></td>
+    <td>An introductory course to machine learning concepts and applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.edx.org/course/learning-from-data-introductory-machine-learning#!">EdX’s Learning from Data (Introductory Machine Learning)</a></td>
+    <td>An introductory course on machine learning concepts and algorithms offered by EdX.</td>
+  </tr>
+  <tr>
+    <td><a href="http://course18.fast.ai/ml">Introduction to Machine Learning for Coders</a></td>
+    <td>A beginner-friendly course designed for programmers interested in machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE&v=zcMnu-3wkWo">Statistical Machine Learning by CMU</a></td>
+    <td>YouTube lectures covering statistical machine learning topics by Carnegie Mellon University.</td>
+  </tr>
+ <tr>
+    <td><a href="https://www.youtube.com/watch?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&v=cbeTc-Urqak">Coursera’s Neural Networks for Machine Learning</a></td>
+    <td>A Coursera course focusing on neural networks for machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/learn/overview">Kaggle Complete Roadmap for Machine Learning</a></td>
+    <td>A comprehensive guide provided by Kaggle to learn machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.edx.org/course/principles-of-machine-learning">EdX’s Principles of Machine Learning</a></td>
+    <td>A course offered by EdX covering the principles of machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/specializations/machine-learning">Coursera’s Machine Learning Specialization</a></td>
+    <td>A specialization on machine learning offered by Coursera, covering multiple courses.</td>
+  </tr>
+  <tr>
+    <td><a href="https://developers.google.com/machine-learning/crash-course">Machine Learning Crash Course by Google</a></td>
+    <td>A crash course provided by Google on machine learning concepts and tools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/python/python_ml_getting_started.asp">Machine Learning Course at W3Schools</a></td>
+    <td>A beginner-level machine learning course offered by W3Schools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/learn/intro-to-machine-learning">Intro to Machine Learning Course at Kaggle</a></td>
+    <td>An introductory course to machine learning offered by Kaggle.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/learn/intermediate-machine-learning">Intermediate Machine Learning Course at Kaggle</a></td>
+    <td>A course for intermediate-level learners provided by Kaggle.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cognitiveclass.ai/courses/machine-learning-with-python">Machine Learning with Python</a></td>
+    <td>A course focused on machine learning with Python programming language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">Google’s Deep Learning Course</a></td>
+    <td>An introductory course to deep learning using TensorFlow offered by Google.</td>
+  </tr>
+  <tr>
+    <td><a href="https://course.fast.ai/">Practical Deep Learning for Coders</a></td>
+    <td>A practical course on deep learning targeted at programmers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://course.fast.ai/part2">Deep Learning from the Foundations</a></td>
+    <td>A deep dive into deep learning concepts and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/learn/intro-to-deep-learning">Intro to Deep Learning using Tensorflow and Keras Course at Kaggle</a></td>
+    <td>An introductory course to deep learning using TensorFlow and Keras provided by Kaggle.</td>
+  </tr>
+  <tr>
+    <td><a href="http://neuralnetworksanddeeplearning.com/">Free Book on Neural Network and Deep Learning</a></td>
+    <td>A comprehensive free book covering neural networks and deep learning topics.</td>
+  </tr>
       <tr>
         <td><a href="https://youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn&si=tx4cCdtE3EBAUs2C">Machine learning by Edureka</a></td>
         <td>This youtube playlist by Edureka on machine learning is the best resource to learn machine learning from beginners level to advanced level that too for free.</td>

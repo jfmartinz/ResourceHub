@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    scroll-behavior: smooth;
+    
+}
+body{
+    overflow-x: hidden;
+}
+/* For dark mode */
+.slider {
+    transition: all 0.4s ease;
+  }
+  .slider:checked + .slider-label .slider-circle {
+    transform: translateX(2.5rem);
+    background: #000000; /* Sun color */
+  }
+  .slider:checked + .slider-label {
+    background: #515151; /* Dark mode background */
+  }
+  .slider:checked + .slider-label .slider-circle::before {
+    content: '🌙'; /* Moon icon */
+    transform: translate(-50%, -50%);
+  }
+  .slider + .slider-label .slider-circle::before {
+    content: '☀️'; /* Sun icon */
+    transform: translate(-50%, -50%);
+  }
+
+  /* For navbar */
+
+.navbar-blur {
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.navbar-dark-blur {
+    backdrop-filter: blur(10px);
+    background: rgba(0, 0, 0, 0.7);
+}
+
+
+
+.navbr {
+    backdrop-filter: blur(10px);
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.navbr.scrolled {
+    backdrop-filter: blur(10px);
+    
+}
+
+/* For particles */
+#particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    overflow: hidden;
+}
+
+
+/* Round buttons */
+.roundbtn{
+    border-radius: 10000px;
+}
+.roundbtn1{
+    border-radius: 10000px;
+    
+}
+.roundbtn1:hover{
+    background-color: black;
+    color: white;
+    
+}

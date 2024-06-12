@@ -35,6 +35,10 @@ This section serves as a curated collection of valuable resources for learning a
     <td>A 3-month journey to rock Data Structures and Algorithms (DSA)! Whether you're new to this or polishing your skills, this roadmap's got your back. Let's navigate the DSA world together and crush it!
 Let's make coding fun and exciting! 🚀.</td>
   </tr>
+  <tr>
+  <td><a href="https://www.naukri.com/code360/library/complete-data-structures-and-algorithms-roadmap-for-placements">DSA Roadmap for beginners</a></td>
+  <td>This article will lay down a complete DSA roadmap for any beginner to obtain proficiency in solving complex computational challenges needed to crack any top product-based companies</td>
+  </tr>
 </table>
 
 ### Types of Data Structures
@@ -122,6 +126,10 @@ Let's make coding fun and exciting! 🚀.</td>
   <td><a href="https://www.interviewbit.com/coding-interview-questions/"> Must Do Coding Questions before Interview </a></td>
   <td> These are the most asked questions in a Coding interview by most of the companies. Practising these questions will surely give you an edge over others as not all are aware of this resource </td>
   </tr>
+  <tr>
+  <td><a href="https://www.javatpoint.com/data-structure-interview-questions">Most frequently asked DSA interview questions and answers</a></td>
+  <td>These are the most frequently asked Data Structures and Algorithms Interview questions provided along with their answers required to crack any top product based company.</td>
+  </tr>
   </table>
 
 ### YouTube Channels
@@ -185,7 +193,11 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 <tr>
 <td><a href="https://www.interviewbit.com/practice/"> Interviewbit </a></td>
-<td> Interviewbit is a platform, providing preparation for technical interviews, coding interviews. Has a vast list of coding questions from all topics along with their company tags </td>
+<td> Interviewbit is a platform, providing preparation for technical interviews, coding interviews. Has a vast list of coding questions from all topics along with their company tags.</td>
+</tr>
+<tr>
+<td><a href="https://www.geeksforgeeks.org/">GeeksforGeeks </a></td>
+<td> GeeksforGeeks has a dedicated practicing platform where people can go and practice problems by sorting them by Company Name and difficulty.</td>
 </tr>
 </table>
 

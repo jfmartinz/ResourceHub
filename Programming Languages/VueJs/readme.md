@@ -54,6 +54,7 @@ deepen your expertise, the following sections provide tutorials, tools, best pra
 - [Additional Resources](#additional-resources)
    - [Vue.js Communities](#vuejs-communities)
    - [Vue.js Books](#vuejs-books)
+   - [Vue.js Cheatsheets](#vuejs-cheatsheets)
 - [Conclusion](#conclusion)
 
 
@@ -1023,6 +1024,41 @@ deepen your expertise, the following sections provide tutorials, tools, best pra
    <td>Check out "Build amazing apps with Vue 3" to master Vue.js 3 and create exceptional web applications.</td>
  </tr>
 </table>
+
+
+### Vue.js Cheatsheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://devhints.io/vue">Vue.js cheatsheet</a></td>
+    <td>A cheatsheet for Vue.js.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.vuemastery.com/vue-cheat-sheet/">Get the Ultimate Vue Cheat Sheet</a></td>
+    <td>The ultimate cheat sheet for Vue.js provided by Vue Mastery.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/vue-mastery/the-ultimate-vue-js-cheat-sheet-6726f667f32d">The Ultimate Vue.js Cheat Sheet</a></td>
+    <td>An extensive Vue.js cheat sheet covering various aspects.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/adnanbabakan/vue-cheat-sheet-3-advanced-4khj">Vue cheat sheet 3 (advanced)</a></td>
+    <td>An advanced Vue.js cheat sheet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://appletree.or.kr/quick_reference_cards/javascript/Vue.js%20Cheat%20Sheet.pdf">Vue.js Cheat Sheet.pdf</a></td>
+    <td>A downloadable PDF version of the Vue.js cheat sheet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://onecompiler.com/cheatsheets/vuejs">VueJS - Cheat Sheets</a></td>
+    <td>Cheat sheets for Vue.js.</td>
+  </tr>
+</table>
+
 
 ## Conclusion
 

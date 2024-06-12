@@ -29,6 +29,7 @@ This section serves as a curated collection of valuable resources for learning a
 - [Books](#books)
 - [Interview Preparations](#interview-preparation)
 - [Websites](#websites)
+- [C CheatSheets](#c-cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -458,7 +459,11 @@ This section serves as a curated collection of valuable resources for learning a
           <tr>
             <td><a href="https://www.geeksforgeeks.org/c-program-to-display-month-by-month-calendar-for-a-given-year/" >Calendar in C - GFG</a></td>
             <td>Displays month by month calendar for a given year . Involves working with functions and control statements.</td>
-        </tr>    
+        </tr>  
+     <tr>
+       <td><a href="https://github.com/Saipradyumnagoud/Car-rental-system">Car Rental System</a></td>
+       <td>This repo consists of car rental system Project where the user can rent a car it is developed by using c programming you can use this project by cloning the repository</td>
+     </tr>
     </table>
 
 #### Intermediate Level Projects
@@ -583,6 +588,10 @@ This section serves as a curated collection of valuable resources for learning a
         <tr>
             <td><a href="https://www.youtube.com/c/sentdex">sentdex</a> </td>
             <td>Has a series on building a C compiler, which delves into advanced concepts.</td>
+        </tr>
+        <tr>
+        <td><a href="https://youtube.com/@jennyslecturescsit?si=gYzT-PcJzonQO9ut">Jenny's Lectures CS IT</a></td>
+        <td>This Channel focusses on creating tutorials for  engineers, software developers, programmers, Coders, undergraduates, graduates.Covers topics for all different skill levels, so whether you are a beginner or have some years of experience, this channel will have something for you.</td>
         </tr>
     </table>
 
@@ -781,6 +790,49 @@ This section serves as a curated collection of valuable resources for learning a
   <tr>
     <td><a href="https://www.freecodecamp.org/news/the-c-beginners-handbook/">freeCodeCamp - The C Beginner's Handbook</a></td>
     <td>A beginner's guide to learning C programming, starting from the basics and progressing to advanced topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/c/index.php">W3Schools - C Tutorial</a></td>
+    <td>W3Schools offers a comprehensive C tutorial that is ideal for beginners and intermediate learners looking to understand the C programming language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.learn-c.org/">learn-c.org</a></td>
+    <td>Learn-C.org is an interactive and user-friendly platform dedicated to teaching the C programming language.</td>
+  </tr>
+</table>
+
+### C CheatSheets
+
+> Cheat sheets for C programming, providing quick reference guides for various aspects of the language.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/c.html">C Cheat Sheet & Quick Reference</a></td>
+    <td>A quick reference guide for C programming, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scaler.com/topics/c-cheat-sheet/">Scaler - C Cheatsheet</a></td>
+    <td>Comprehensive cheat sheet for C programming, provided by Scaler.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewithharry.com/blogpost/c-cheatsheet/">C Language CheatSheet</a></td>
+    <td>A practical C programming cheat sheet by Code with Harry, ideal for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/c-cheatsheet/">C Programming Language Cheat Sheet</a></td>
+    <td>A detailed C cheat sheet from GeeksforGeeks, covering various aspects of the language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/resources/cheatsheets/language/c">C Cheatsheets</a></td>
+    <td>A collection of C cheat sheets from Codecademy, covering essential syntax and functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/">C Reference Cheat Sheet by Ashlyn Black</a></td>
+    <td>A comprehensive C reference cheat sheet created by Ashlyn Black, available on Cheatography.</td>
   </tr>
 </table>
 

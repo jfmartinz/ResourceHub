@@ -13,7 +13,7 @@ These resources are designed to help you build a strong foundation in Node.js an
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [NodeJS](#nodejs)
    - [Introduction](#introduction)
    - [Fundamentals](#fundamentals)
    - [Asynchronous Programming](#asynchronous-programming)
@@ -23,8 +23,8 @@ These resources are designed to help you build a strong foundation in Node.js an
    - [Authentication and Security](#authentication-and-security)
    - [Performance Optimization](#performance-optimization)
 - [Tools and Development Environment](#tools-and-development-environment)
-   - [IDEs for Node.js](#ides-for-nodejs)
-   - [Online Editors for Node.js](#online-editors-for-nodejs)
+   - [IDEs](#ides)
+   - [Online Editors](#online-editors)
 - [Node.js Packages and Libraries](#nodejs-packages-and-libraries)
    - [Utility Libraries](#utility-libraries)
    - [Web Frameworks](#web-frameworks)
@@ -43,24 +43,25 @@ These resources are designed to help you build a strong foundation in Node.js an
    - [Real-Time Applications](#real-time-applications)
    - [Internet of Things (IoT)](#internet-of-things-iot)
    - [Machine Learning with Node.js](#machine-learning-with-nodejs)
-- [Node.js Projects](#nodejs-projects)
+- [Projects](#projects)
    - [Beginner Level Projects](#beginner-level-projects)
    - [Intermediate Level Projects](#intermediate-level-projects)
    - [Advanced Level Projects](#advanced-level-projects)
 - [Version Control](#version-control)
 - [YouTube](#youtube)
-   - [YouTube Channels to Learn Node.js](#youtube-channels-to-learn-nodejs)
-   - [YouTube Playlists for Learning Node.js](#youtube-playlists-for-learning-nodejs)
+   - [YouTube Channels](#youtube-channels)
+   - [YouTube Playlists](#youtube-playlists)
 - [Courses](#courses)
-   - [Free Certification Courses](#free-certification-courses)
-   - [Paid Certification Courses](#paid-certification-courses)
+   - [Free Courses](#free-courses)
+   - [Paid Courses](#paid-courses)
 - [Additional Resources](#additional-resources)
-   - [Node.js Communities](#nodejs-communities)
-   - [Node.js Books](#nodejs-books)
+   - [Communities](#communities)
+   - [Books](#books)
+   - [Cheathseets](#cheatsheets)
 - [Conclusion](#conclusion)
 
 
-## Roadmap
+### Roadmap
 > The "Roadmap" section outlines a structured learning path for individuals interested in mastering Node.js development. It serves as a guide to navigate through various stages of learning, starting from foundational concepts to advanced topics.
 
 <table width="100%">
@@ -78,10 +79,10 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-## Tutorials
+### NodeJS
 > It covers a wide range of topics, starting from introductory concepts to advanced techniques. The tutorials are structured to cater to learners of all levels, including beginners, intermediate, and advanced users. Topics include understanding the basics of Node.js, asynchronous programming patterns, file system operations, networking, web frameworks like Express.js, database integration, authentication and security, testing and debugging, performance optimization, deployment, and more.
 
-### Introduction
+#### Introduction
 
 <table width="100%">
  <tr>
@@ -111,7 +112,7 @@ These resources are designed to help you build a strong foundation in Node.js an
 </table>
 
 
-### Fundamentals
+#### Fundamentals
 
 <table width="100%">
  <tr>
@@ -140,7 +141,7 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-### Asynchronous Programming
+#### Asynchronous Programming
 
 <table width="100%">
  <tr>
@@ -173,7 +174,7 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-### File System
+#### File System
 
 <table width="100%">
  <tr>
@@ -206,7 +207,7 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-### Networking
+#### Networking
 
 <table width="100%">
  <tr>
@@ -240,7 +241,7 @@ These resources are designed to help you build a strong foundation in Node.js an
 </table>
 
 
-### Database Integration
+#### Database Integration
 
 <table width="100%">
  <tr>
@@ -273,7 +274,7 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-### Authentication and Security
+#### Authentication and Security
 
 <table width="100%">
  <tr>
@@ -306,7 +307,7 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-### Performance Optimization
+#### Performance Optimization
 
 <table width="100%">
  <tr>
@@ -331,10 +332,10 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-## Tools and Development Environment
+### Tools and Development Environment
 > This section covers the essential tools and environments required for Node.js development. It includes information on IDEs tailored for Node.js, online editors suitable for quick coding tasks, version control systems for managing code changes, and containerization technologies for efficient deployment and scaling of Node.js applications. 
 
-### IDEs for Node.js
+#### IDEs
 
 <table width="100%">
  <tr>
@@ -363,7 +364,7 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-### Online Editors for Node.js
+#### Online Editors
 
 <table width="100%">
  <tr>
@@ -392,10 +393,10 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-## Node.js Packages and Libraries
+### Node.js Packages and Libraries
 > It covers various categories of libraries, including utility libraries for common tasks, web frameworks for building web applications, database libraries for interacting with databases, testing libraries for ensuring code quality, and security libraries for enhancing application security
 
-### Utility Libraries
+#### Utility Libraries
 <table width="100%">
  <tr>
    <th>Resource Name</th>
@@ -423,7 +424,7 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-### Web Frameworks
+#### Web Frameworks
 
 <table width="100%">
  <tr>
@@ -452,7 +453,7 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-### Database Libraries
+#### Database Libraries
 
 <table width="100%">
  <tr>
@@ -477,7 +478,7 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-### Testing Libraries
+#### Testing Libraries
 
 <table width="100%">
  <tr>
@@ -502,7 +503,7 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-### Security Libraries
+#### Security Libraries
 
 <table width="100%">
  <tr>
@@ -531,11 +532,11 @@ These resources are designed to help you build a strong foundation in Node.js an
  </tr>
 </table>
 
-## Advanced Topics
+### Advanced Topics
 > Exploring advanced Node.js concepts such as streams, clusters, child processes, and worker threads.
 Understanding design patterns, scalability, and real-time communication.
 
-### Microservices
+#### Microservices
 
 <table width="100%">
  <tr>
@@ -588,7 +589,7 @@ Understanding design patterns, scalability, and real-time communication.
  </tr>
 </table>
 
-### GraphQL
+#### GraphQL
 
 <table width="100%">
  <tr>
@@ -621,7 +622,7 @@ Understanding design patterns, scalability, and real-time communication.
  </tr>
 </table>
 
-### Serverless Architecture
+#### Serverless Architecture
 
 <table width="100%">
  <tr>
@@ -650,7 +651,7 @@ Understanding design patterns, scalability, and real-time communication.
  </tr>
 </table>
 
-### Containerization and Orchestration
+#### Containerization and Orchestration
 
 <table width="100%">
  <tr>
@@ -703,7 +704,7 @@ Understanding design patterns, scalability, and real-time communication.
  </tr>
 </table>
 
-### Memory Management
+#### Memory Management
 
 <table width="100%">
  <tr>
@@ -728,7 +729,7 @@ Understanding design patterns, scalability, and real-time communication.
  </tr>
 </table>
 
-### Reflection
+#### Reflection
 
 <table width="100%">
  <tr>
@@ -757,7 +758,7 @@ Understanding design patterns, scalability, and real-time communication.
  </tr>
 </table>
 
-### Interoperability
+#### Interoperability
 
 <table width="100%">
  <tr>
@@ -790,11 +791,11 @@ Understanding design patterns, scalability, and real-time communication.
  </tr>
 </table>
 
-## Specialized Topics
+### Specialized Topics
 > Building real-time applications with WebSocket and Socket.io.
 Integrating Node.js with IoT devices, machine learning models, and other technologies.
 
-### Real-Time Applications
+#### Real-Time Applications
 
 <table width="100%">
  <tr>
@@ -827,7 +828,7 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
  </tr>
 </table>
 
-### Internet of Things (IoT)
+#### Internet of Things (IoT)
 
 <table width="100%">
  <tr>
@@ -856,7 +857,7 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
  </tr>
 </table>
 
-### Machine Learning with Node.js
+#### Machine Learning with Node.js
 
 <table width="100%">
  <tr>
@@ -885,10 +886,10 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
  </tr>
 </table>
 
-## Node.js Projects
+### Projects
 > Beginner, intermediate, and advanced level projects for hands-on learning.Building practical applications to reinforce Node.js concepts and skills.
 
-### Beginner Level Projects
+#### Beginner Level Projects
 
 <table width="100%">
  <tr>
@@ -917,7 +918,7 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
  </tr>
 </table>
 
-### Intermediate Level Projects
+#### Intermediate Level Projects
 
 <table width="100%">
  <tr>
@@ -938,7 +939,7 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
  </tr>
 </table>
 
-### Advanced Level Projects
+#### Advanced Level Projects
 
 <table width="100%">
  <tr>
@@ -959,7 +960,7 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
  </tr>
 </table>
 
-## Version Control
+### Version Control
 
 > Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
 
@@ -994,10 +995,10 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
   </tr>
 </table>
 
-## Youtube
+### Youtube
 > Recommended YouTube channels and playlists for learning Node.js.Tutorials, guides, and walkthroughs for beginners to advanced users.
 
-### YouTube Channels to Learn Node.js
+#### YouTube Channels
 
 <table width="100%">
  <tr>
@@ -1022,7 +1023,7 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
  </tr>
 </table>
 
-### YouTube Playlists for Learning Node.js
+#### YouTube Playlists
 
 <table width="100%">
  <tr>
@@ -1047,10 +1048,10 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
  </tr>
 </table>
 
-## Courses
+### Courses
 > Free and paid certification courses for Node.js development.Enhancing skills and validating expertise in Node.js through certification programs.
 
-## Free Certification Courses
+#### Free Courses
 
 <table width="100%">
  <tr>
@@ -1074,7 +1075,7 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
    <td>This course by upGrad covers Node.js basics, including setting up a development environment, working with modules, and building simple web applications.</td>
  </tr>
 
-### Paid Certification Courses
+#### Paid Courses
 
 <table width="100%">
  <tr>
@@ -1100,11 +1101,11 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
 </table>
 </table>
 
-## Additional Resources
+### Additional Resources
 
 > Node.js communities, forums, and online platforms for networking and support.Books, blogs, and documentation for further learning and reference.
 
-### Node.js Communities
+#### Communities
 
 <table width="100%">
  <tr>
@@ -1124,7 +1125,7 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
    <td>The r/node subreddit is a community-driven platform where Node.js enthusiasts share news, tutorials, articles, and engage in discussions related to Node.js development.</td>
 </table>
 
-### Node.js Books
+#### Books
 
 <table width="100%">
  <tr>
@@ -1143,6 +1144,39 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
    <td><a href="https://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617292575">Node.js in Action</a></td>
    <td>This book offers practical insights into building scalable and high-performance web applications with Node.js. It covers topics like server-side JavaScript, asynchronous programming, Express.js, and real-time communication.</td>
  </tr>
+</table>
+
+### Cheatsheets
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/learn-node-js/modules/intro-to-node-js/cheatsheet">Introduction to Node.js Cheatsheet</a></td>
+    <td>A cheatsheet providing an introduction to Node.js.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/node-js-cheat-sheet/">Node JS Cheat Sheet + PDF</a></td>
+    <td>A Node.js cheat sheet with a downloadable PDF version.</td>
+  </tr>
+  <tr>
+    <td><a href="https://overapi.com/nodejs">NodeJS Cheat Sheet</a></td>
+    <td>A comprehensive Node.js cheat sheet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/dipakahirav/the-ultimate-nodejs-cheat-sheet-for-developers-3pgf">The Ultimate Node.js Cheat Sheet for Developers</a></td>
+    <td>An ultimate cheat sheet for Node.js developers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javacodegeeks.com/node-js-cheatsheet.html">Node.js Cheatsheet</a></td>
+    <td>A cheatsheet providing essential information about Node.js.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/pulse/nodejs-cheat-sheet-jomas-daconceicao">Node.js Cheat Sheet</a></td>
+    <td>A Node.js cheat sheet provided on LinkedIn.</td>
+  </tr>
 </table>
 
 ## Conclusion
