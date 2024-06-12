@@ -20,9 +20,9 @@ Here are the collection of valuable resources to help you learn and master Prolo
 - [Testing and Debugging](#testing-and-debugging)
 - [Miscellaneous](#miscellaneous)
 - [Youtube](#youtube)
-- [Books](#books)
-- [Community](#community)
 - [Additional Resources](#additional-resources)
+  - [Books](#books)
+  - [Community](#community)
 - [Conclusion](#conclusion)
 
 
@@ -399,7 +399,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
   </tr>
 </table>
 
-### Youtube Videos
+### Youtube
 
 > Video tutorials and lectures available on YouTube covering various aspects of Prolog programming.
 
@@ -429,94 +429,12 @@ Here are the collection of valuable resources to help you learn and master Prolo
 
 
 
-### Books
-
-> A curated list of books covering various aspects of Prolog programming.
-<table>
-  <tr>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="http://www.amzi.com/AdventureInProlog/apreface.php">Adventure in Prolog</a></td>
-    <td>A pragmatic approach to learning Prolog, designed to teach Prolog through a series of adventures.</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.covingtoninnovations.com/books.html#ppid">Prolog Programming in Depth</a></td>
-    <td>A comprehensive guide to Prolog programming, covering its syntax, semantics, and advanced features.</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.j-paine.org/prolog/mathnotes/files/pms/node1.html">Logic, Programming and Prolog</a></td>
-    <td>Explores the foundations of logic programming and programming techniques in Prolog.</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.covingtoninnovations.com/books.html#nlp">Natural Language Processing for Prolog Programmers</a></td>
-    <td>A guide for Prolog programmers interested in applying their skills to natural language processing tasks.</td>
-  </tr>
-  <tr>
-    <td><a href="http://faculty.nps.edu/ncrowe/book/book.html">Artificial Intelligence through Prolog</a></td>
-    <td>Provides in-depth coverage of key concepts in artificial intelligence using Prolog as the implementation language.</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.amzi.com/ExpertSystemsInProlog/index.htm">Building Expert Systems in Prolog</a></td>
-    <td>A practical guide to building prototype expert systems and their underlying inference engines using Prolog.</td>
-  </tr>
-  <tr>
-    <td><a href="https://arxiv.org/abs/0911.2899">Coding Guidelines for Prolog</a></td>
-    <td>Offers coding standards and best practices for writing clear, maintainable Prolog code.</td>
-  </tr>
-  <tr>
-    <td><a href="https://mitpress.mit.edu/books/art-prolog-second-edition">The Art of Prolog</a></td>
-    <td>An advanced guide to programming in Prolog, focusing on advanced programming techniques and applications.</td>
-  </tr>
-</table>
-
-
-
-### Community
-
-> Resources and forums where Prolog enthusiasts and professionals gather to discuss, share knowledge, and seek help.
-
-<table>
-  <tr>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://www.metalevel.at/prolog/faq">Prolog FAQ</a></td>
-    <td>A comprehensive list of frequently asked questions from the SWI-Prolog newsgroup, providing answers and insights into common Prolog topics.</td>
-  </tr>
-  <tr>
-    <td><a href="https://swi-prolog.discourse.group/">SWI-Prolog Discourse</a></td>
-    <td>The official Discourse board for SWI-Prolog, a place for announcements, discussions, and community support.</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.swi-prolog.org/Mailinglist.html">SWI-Prolog Mailing List</a></td>
-    <td>A mailing list for SWI-Prolog users, used for sharing announcements, asking questions, and discussing various Prolog topics.</td>
-  </tr>
-  <tr>
-    <td><a href="http://webchat.freenode.net/?channels=##prolog">SWI-Prolog Freenode</a></td>
-    <td>The IRC channel for the SWI-Prolog community on Freenode, providing real-time chat for help and discussions.</td>
-  </tr>
-  <tr>
-    <td><a href="https://groups.google.com/forum/#!forum/swi-prolog">SWI-Prolog Google Group</a></td>
-    <td>A formerly active user discussion forum for SWI-Prolog on Google Groups, now deprecated.</td>
-  </tr>
-  <tr>
-    <td><a href="https://stackoverflow.com/questions/tagged/prolog">Stack Overflow Prolog</a></td>
-    <td>A collection of user questions and answers under the Prolog tag on Stack Overflow, useful for troubleshooting and learning.</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.reddit.com/r/prolog">Reddit Prolog</a></td>
-    <td>A subreddit dedicated to Logic Programming and Prolog, where users share resources, ask questions and discuss topics related to Prolog.</td>
-  </tr>
-</table>
 
 
 ### Additional Resources
 
 > A collection of additional resources to further explore Prolog programming.
-
+#### Miscellaneous
 <table>
   <tr>
     <th>Resource Name</th>
@@ -561,6 +479,90 @@ Here are the collection of valuable resources to help you learn and master Prolo
   <tr>
     <td><a href="http://www.pathwayslms.com/swipltuts/message/index.html">Printing Messages in SWI-Prolog</a></td>
     <td>A tutorial on handling input/output and printing messages in libraries using SWI-Prolog.</td>
+  </tr>
+</table>
+
+
+#### Books
+
+> A curated list of books covering various aspects of Prolog programming.
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://www.amzi.com/AdventureInProlog/apreface.php">Adventure in Prolog</a></td>
+    <td>A pragmatic approach to learning Prolog, designed to teach Prolog through a series of adventures.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.covingtoninnovations.com/books.html#ppid">Prolog Programming in Depth</a></td>
+    <td>A comprehensive guide to Prolog programming, covering its syntax, semantics, and advanced features.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.j-paine.org/prolog/mathnotes/files/pms/node1.html">Logic, Programming and Prolog</a></td>
+    <td>Explores the foundations of logic programming and programming techniques in Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.covingtoninnovations.com/books.html#nlp">Natural Language Processing for Prolog Programmers</a></td>
+    <td>A guide for Prolog programmers interested in applying their skills to natural language processing tasks.</td>
+  </tr>
+  <tr>
+    <td><a href="http://faculty.nps.edu/ncrowe/book/book.html">Artificial Intelligence through Prolog</a></td>
+    <td>Provides in-depth coverage of key concepts in artificial intelligence using Prolog as the implementation language.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.amzi.com/ExpertSystemsInProlog/index.htm">Building Expert Systems in Prolog</a></td>
+    <td>A practical guide to building prototype expert systems and their underlying inference engines using Prolog.</td>
+  </tr>
+  <tr>
+    <td><a href="https://arxiv.org/abs/0911.2899">Coding Guidelines for Prolog</a></td>
+    <td>Offers coding standards and best practices for writing clear, maintainable Prolog code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://mitpress.mit.edu/books/art-prolog-second-edition">The Art of Prolog</a></td>
+    <td>An advanced guide to programming in Prolog, focusing on advanced programming techniques and applications.</td>
+  </tr>
+</table>
+
+
+
+#### Community
+
+> Resources and forums where Prolog enthusiasts and professionals gather to discuss, share knowledge, and seek help.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.metalevel.at/prolog/faq">Prolog FAQ</a></td>
+    <td>A comprehensive list of frequently asked questions from the SWI-Prolog newsgroup, providing answers and insights into common Prolog topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://swi-prolog.discourse.group/">SWI-Prolog Discourse</a></td>
+    <td>The official Discourse board for SWI-Prolog, a place for announcements, discussions, and community support.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.swi-prolog.org/Mailinglist.html">SWI-Prolog Mailing List</a></td>
+    <td>A mailing list for SWI-Prolog users, used for sharing announcements, asking questions, and discussing various Prolog topics.</td>
+  </tr>
+  <tr>
+    <td><a href="http://webchat.freenode.net/?channels=##prolog">SWI-Prolog Freenode</a></td>
+    <td>The IRC channel for the SWI-Prolog community on Freenode, providing real-time chat for help and discussions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://groups.google.com/forum/#!forum/swi-prolog">SWI-Prolog Google Group</a></td>
+    <td>A formerly active user discussion forum for SWI-Prolog on Google Groups, now deprecated.</td>
+  </tr>
+  <tr>
+    <td><a href="https://stackoverflow.com/questions/tagged/prolog">Stack Overflow Prolog</a></td>
+    <td>A collection of user questions and answers under the Prolog tag on Stack Overflow, useful for troubleshooting and learning.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.reddit.com/r/prolog">Reddit Prolog</a></td>
+    <td>A subreddit dedicated to Logic Programming and Prolog, where users share resources, ask questions and discuss topics related to Prolog.</td>
   </tr>
 </table>
 
