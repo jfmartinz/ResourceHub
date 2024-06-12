@@ -670,6 +670,10 @@ By leveraging PHP, developers can create secure, efficient, and scalable web app
    <td>Doctor Portal</td>
    <td><a href="https://github.com/HashenUdara/edoc-doctor-appointment-system">GitHub Repository</a></td>
  </tr>
+  <tr>
+    <td>Restaurant Portal</td>
+    <td><a href="https://github.com/Saipradyumnagoud/Restaurantwebsite">GitHub Repository</td>
+  </tr>
 </table>
 
 ### Advanced Level Projects

@@ -126,6 +126,10 @@ Let's make coding fun and exciting! 🚀.</td>
   <td><a href="https://www.interviewbit.com/coding-interview-questions/"> Must Do Coding Questions before Interview </a></td>
   <td> These are the most asked questions in a Coding interview by most of the companies. Practising these questions will surely give you an edge over others as not all are aware of this resource </td>
   </tr>
+  <tr>
+  <td><a href="https://www.javatpoint.com/data-structure-interview-questions">Most frequently asked DSA interview questions and answers</a></td>
+  <td>These are the most frequently asked Data Structures and Algorithms Interview questions provided along with their answers required to crack any top product based company.</td>
+  </tr>
   </table>
 
 ### YouTube Channels

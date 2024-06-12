@@ -183,6 +183,7 @@
         <td><a href="https://www.w3schools.com/js/default.asp">JS Tutorial</a></td>
         <td>The JavaScript tutorial section on W3Schools provides a comprehensive resource for learning JavaScript, the programming language used to add interactivity and dynamic behavior to web pages. It covers various aspects of JavaScript, including basic syntax, variables, data types, operators and more.</td>
     </tr>
+   
 </table>
 
 ### Frameworks
@@ -936,6 +937,10 @@ to everyone - everywhere!</td>
    <td><a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4">JavaScript Tutorial for Beginners</a></td>
     <td>This playlist by Telusko is very helpful for the beginners to start their learning journey in Javascript and Frontend web Development.</td>
   </tr>
+   <tr>
+        <td><a href="https://youtube.com/playlist?list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&si=0Bm3tHKvVqyKE7D4">Chrome Extensions Tutorial</a></td>
+        <td>The Chrome Extension tutorial provides a comprehensive resource for learning how to build and deploy Chrome Extensions using JavaScript.</td>
+    </tr>
   <tr>
    <td><a href="https://www.youtube.com/playlist?list=PL9ooVrP1hQOEloRCBI97ZXkWUg6MJn0Yf">Web Development Tutorial For Beginners [2024] | Edureka</a></td>
     <td>This playlist by Edureka is the collection of courses on HTML,CSS, JS and more. This playlist is very much for the beginners to start thier Frontend Development.</td>
@@ -1110,6 +1115,10 @@ to everyone - everywhere!</td>
     <td><a href="https://github.com/sristy17/Simon-Says-Game">Simon Says Game</a></td>
     <td>This repo helps you to build a web-based Simon Game (The Simon game is the exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with lights and sounds that can challenge you. Experience the fun as you repeat the patterns and advance to higher levels.) built with JavaScript, HTML, and CSS. This project demonstrates how the javascript fuctions works like async, await, promises and many more. The repository includes the necessary code and assets for building and running the Game on a web browser.This will help you in learning javascripts elements in your coding journey.</td>
     </tr>
+  <tr>
+    <td><a href="https://github.com/Saipradyumnagoud/Portfolio">Portfolio</a> </td>
+    <td>This repo consists of a Personal Portfolio Which is developed by using html,css,js And you can use this repo by cloning it into your personal machine</td>
+  </tr>
 </table>
 
 #### Advance projects

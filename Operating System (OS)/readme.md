@@ -66,6 +66,7 @@ An operating system (OS) serves as the intermediary between computer hardware an
   - [YouTube](#youtube)
     - [YouTube Channels](#youtube-channels)
     - [YouTube Playlists](#youtube-playlists)
+-[Interview](#interview)
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -603,6 +604,25 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
   <td>This field is undergoing rapid change, as computers are now prevalent in virtually every application. Yet the fundamental concepts remain fairly clear and that is what will be taught in this course.</td>
   </tr>
 </table>
+
+### Interview
+Here are some resources for Interview Questions.
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://leetcode.com/discuss/interview-question/operating-system/3816083/Interview-best-20-questions-on-OPERATING-SYSTEM">Interview Best 20 on Operating System</a></td>
+    <td>This is a discussion page in Leetcode, mayankkjindal has posted best 20 Interview Questions. </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.interviewbit.com/operating-system-interview-questions/">Operating System Interview Questions-InterviewBit</a></td>
+    <td>These website contains 40+ commonly asked Interview Questions from basic to advanced level</td>
+  </tr>
+  
+</table>
+
 
 ## Conclusion
 
