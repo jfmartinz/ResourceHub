@@ -972,6 +972,9 @@ to everyone - everywhere!</td>
     <td><a href="https://github.com/awesome-css-group/awesome-css">Awesome CSS</a></td>
     <td>This repository is a curated collection of resources, tools, libraries, and articles related to CSS (Cascading Style Sheets) development. It serves as a comprehensive guide for developers seeking to enhance their skills and knowledge in CSS, covering a wide range of topics from basic to advanced techniques.</td>
   </tr>
+   <td><a href="https://github.com/Ayushmaanagarwal1211/Car-Race">Car Race Game</a></td>
+    <td>This repository is a curated collection of html ,css and js files that will help you to make an amazing car racing game with a minimal use of high level programming . It consists of images that is acting as a car .</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/sorrycc/awesome-javascript">Awesome Javascipt</a></td>
     <td>This repository is a curated list of resources, tools, libraries, and articles related to JavaScript development. It serves as a comprehensive guide for developers seeking to enhance their skills and knowledge in JavaScript, covering a wide range of topics from basic to advanced techniques.</td>
