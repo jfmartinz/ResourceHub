@@ -19,7 +19,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 - [Tools and libraries for mathematical operations](#tools-and-libraries-for-mathematical-operations)
 - [Testing and Debugging](#testing-and-debugging)
 - [Miscellaneous](#miscellaneous)
-- [Youtube Videos](#youtube-videos)
+- [Youtube](#youtube)
 - [Books](#books)
 - [Community](#community)
 - [Additional Resources](#additional-resources)
