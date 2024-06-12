@@ -1,6 +1,6 @@
 # Prolog
 
-Prolog is a logic programming language. It has important role in artificial intelligence. Unlike many other programming languages, Prolog is intended primarily as a declarative programming language. In prolog, logic is expressed as relations (called as Facts and Rules). Core heart of prolog lies at the logic being applied. Formulation or Computation is carried out by running a query over these relations.
+Prolog is a logic programming language. It has an important role in artificial intelligence. Unlike many other programming languages, Prolog is intended primarily as a declarative programming language. In prolog, logic is expressed as relations (called as Facts and Rules). Core heart of prolog lies at the logic being applied. Formulation or Computation is carried out by running a query over these relations.
 
 Here are the collection of valuable resources to help you learn and master Prolog.
 
@@ -19,10 +19,25 @@ Here are the collection of valuable resources to help you learn and master Prolo
 - [Tools and libraries for mathematical operations](#tools-and-libraries-for-mathematical-operations)
 - [Testing and Debugging](#testing-and-debugging)
 - [Miscellaneous](#miscellaneous)
+- [Courses](#courses)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
+- [Projects](#projects)
+  - [Beginner Projects](#beginner-level-projects)
+  - [Intermediate Projects](#intermediate-projects)
+  - [Advanced Projects](#advanced-projects)
 - [Youtube](#youtube)
+  - [Youtube Playlists](#youtube-playlists)
+  - [Youtube Channels](#youtube-channels)
 - [Additional Resources](#additional-resources)
   - [Books](#books)
-  - [Community](#community)
+    - [Free Books](#free-books)
+    - [Paid Books](#paid-books)
+  - [Communities](#communities)
+  - [Documentation](#documentation)
+  - [Cheatseats](#cheatsheets)
+  - [Games](#games)
+  - [Blogs](#blogs)
 - [Conclusion](#conclusion)
 
 
@@ -527,7 +542,7 @@ Here are the collection of valuable resources to help you learn and master Prolo
 
 
 
-#### Community
+#### Communities
 
 > Resources and forums where Prolog enthusiasts and professionals gather to discuss, share knowledge, and seek help.
 
