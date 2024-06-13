@@ -26,6 +26,7 @@ This section is curated collection of resources for MySQL Database.
   - [MySQL Aggregate Functions](#mysql-aggregate-functions)
 - [ MySQL Connectors](#mysql-connectors)
 - [Development Tools for MySQL](#development-tools-for-mysql)
+- [MySQL Toolkits](#mysql-toolkits)
 - [Conclusion](#conclusion)
 
 
@@ -720,6 +721,37 @@ This section is curated collection of resources for MySQL Database.
   <tr>
     <td><a href="https://github.com/datacharmer/test_db">Test database</a></td>
     <td>A sample MySQL database with an integrated test suite, used for testing applications and servers.</td>
+  </tr>
+</table>
+
+
+### MySQL Toolkits
+>
+
+<table>
+  <tr>
+    <th>Toolkit Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/github/gh-ost/">gh-ost</a></td>
+    <td>GitHub's online schema migration tool for MySQL, designed to perform schema changes with minimal impact on production.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/go-mysql-org/go-mysql">go-mysql</a></td>
+    <td>A pure Go library for MySQL, providing functionalities to handle MySQL network protocol and replication.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mysql/mysql-utilities">MySQL Utilities</a> (deprecated)</td>
+    <td>A deprecated collection of Python-based command-line utilities for maintaining and administering MySQL servers, including replication hierarchies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/percona/percona-toolkit">Percona Toolkit</a></td>
+    <td>A comprehensive collection of advanced command-line tools for MySQL server and system tasks, offering solutions for complex operations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/twindb/undrop-for-innodb">UnDROP</a></td>
+    <td>A tool specifically designed to recover data from dropped or corrupted InnoDB tables in MySQL.</td>
   </tr>
 </table>
 
