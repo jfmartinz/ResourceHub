@@ -980,6 +980,10 @@ Here's the updated table:
          a powerful library for building graphical user interfaces, to create an interactive application for generating and displaying 
          QR codes.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/KareemE125/Gym_Managment_System_fx-">Gym Managment system</a></td>
+    <td>Gym management system is a windows application with a GUI that enables the gym employees to manage members and trainers data. Also, it enables them to manage activities and classes which are held in the gym.</td>
+  </tr>
 </table>
 
 ### Interview Preparation
