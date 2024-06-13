@@ -18,6 +18,8 @@ This section is curated collection of resources for MySQL Database.
   - [MySQL Indexes](#mysql-indexes)
   - [MySQL Clauses](#mysql-clauses)
   - [MySQL Privileges](#mysql-privileges)
+  - [Control Flow Functions](#control-flow-functions)
+  - 
 - [Conclusion](#conclusion)
 
 
@@ -317,7 +319,7 @@ This section is curated collection of resources for MySQL Database.
 </table>
 
 
-# MySQL Privileges
+### MySQL Privileges
 
 <table>
   <tr>
@@ -334,6 +336,34 @@ This section is curated collection of resources for MySQL Database.
   </tr>
 </table>
 
+### Control Flow Functions
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-if">MySQL IF()</a></td>
+    <td>Guide on how to use the IF() function to return a value based on a condition in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-ifnull">MySQL IFNULL()</a></td>
+    <td>Instructions on how to use the IFNULL() function to return a replacement value if a specified value is NULL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-nullif">MySQL NULLIF()</a></td>
+    <td>Guide on how to use the NULLIF() function to compare two expressions and return NULL if they are equal.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-case-expression">MySQL CASE</a></td>
+    <td>Instructions on how to use the CASE statement to return a value based on multiple conditions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-if-statement">MySQL IF Statement</a></td>
+    <td>Guide on how to use the IF statement in stored procedures to execute code conditionally.</td>
+  </tr>
+</table>
 
 
 ## Conclusion
