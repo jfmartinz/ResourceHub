@@ -13,7 +13,10 @@ This Section is a Curated Collection of resources for GraphQL
   - [Introduction](#introduction)
   - [Setting Up the Environment](#setting-up-the-environment)
   - [Building a Basic GraphQL Server](#building-a-basic-graphql-server)
+- [GraphQL Clients](#graphql-clients)
+- [GraphQL Servers](#graphql-servers)
 - [GraphQL Specifications](#graphql-specifications)
+- [Communities](#communities)
 
 
 ### Roadmap 
@@ -143,6 +146,49 @@ This Section is a Curated Collection of resources for GraphQL
   </tr>
 </table>
 
+### GraphQL Clients
+>
+<table>
+  <tr>
+    <th>Client Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/apollographql/apollo-client">apollo-client</a></td>
+    <td>A fully-featured, production-ready caching GraphQL client for every UI framework and GraphQL server.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/prisma-labs/graphql-request">graphql-request</a></td>
+    <td>A minimal GraphQL client for Node and browsers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://graphql-code-generator.com/docs/plugins/typescript-graphql-request">typescript-graphql-request</a></td>
+    <td>Use GraphQL Request as a fully typed SDK.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/graphql-editor/graphql-zeus">graphql-zeus</a></td>
+    <td>GraphQL Zeus creates an autocomplete client library for JavaScript or TypeScript, providing autocompletion for strongly typed queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hasura/graphqurl">graphqurl</a></td>
+    <td>curl for GraphQL with autocomplete, subscriptions, and GraphiQL. Also, a dead-simple universal JavaScript GraphQL client.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aws-amplify/amplify-js">aws-amplify</a></td>
+    <td>A client library developed by Amazon for caching, analytics, and more, including a way to fetch GraphQL queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gqty-dev/gqty">gqty</a></td>
+    <td>A No GraphQL client for TypeScript.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/remorses/genql">genql</a></td>
+    <td>Type-safe TypeScript client for any GraphQL API.</td>
+  </tr>
+</table>
+
+### GraphQL Servers 
+
 
 ### GraphQL Specifications
 > 
@@ -182,3 +228,52 @@ This Section is a Curated Collection of resources for GraphQL
   </tr>
 </table>
 
+
+### Communities
+>
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://discord.graphql.org/">Discord - GraphQL</a></td>
+    <td>Official GraphQL.org discord channel.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.graphqlweekly.com/">GraphQL Weekly</a></td>
+    <td>A weekly newsletter highlighting resources and news from the GraphQL community.</td>
+  </tr>
+  <tr>
+    <td><a href="https://community.apollographql.com/">Apollo GraphQL Community</a></td>
+    <td>Connect with other developers and share knowledge about every part of the Apollo GraphQL platform.</td>
+  </tr>
+  <tr>
+    <td><a href="http://join.reactiflux.com/">Discord - Reactiflux</a></td>
+    <td>Join `#help-graphql` on the Reactiflux Discord server.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.facebook.com/groups/795330550572866/">Facebook</a></td>
+    <td>Group for discussions, articles and knowledge sharing.</td>
+  </tr>
+  <tr>
+    <td><a href="https://x.com/search?q=%23GraphQL">#GraphQL on X</a></td>
+    <td>Use the hashtag `#graphql`.</td>
+  </tr>
+  <tr>
+    <td><a href="https://stackoverflow.com/questions/tagged/graphql">StackOverflow</a></td>
+    <td>Questions and answers. Use the tag `graphql`.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/APIs-guru/graphql-apis">GraphQL APIs</a></td>
+    <td>A collective list of public GraphQL APIs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.reddit.com/r/graphql/">/r/GraphQL</a></td>
+    <td>A Subreddit for interesting and informative GraphQL content and discussions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codever.land/search?q=graphql">Codever</a></td>
+    <td>Dev bookmarks. Use the tag [graphql](https://www.codever.land/bookmarks/t/graphql).</td>
+  </tr>
+</table>
