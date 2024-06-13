@@ -8,6 +8,8 @@ function toggleDarkMode() {
     const orgLogoImg = document.getElementById('org-logo');
     // Set the new image source based on dark mode state
     orgLogoImg.src = isDarkModeEnabled ? 'assets/GSSocDark.png' : 'assets/GSSocLight.png';
+    const footerImg = document.getElementById('logo-image');
+    footerImg.src = isDarkModeEnabled ? 'assets/footerDark.png' : 'assets/footerLight.png';
 }
 
 // For particles
