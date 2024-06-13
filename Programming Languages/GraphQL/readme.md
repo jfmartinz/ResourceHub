@@ -333,3 +333,106 @@ This Section is a Curated Collection of resources for GraphQL
 </table>
 
 ### Miscellaneous
+
+<table>
+  <tr>
+    <th>Tool/Library Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/apollographql/graphql-tools">graphql-tools</a></td>
+    <td>Tool library for building and maintaining GraphQL-JS servers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/apollographql/graphql-tag">graphql-tag</a></td>
+    <td>A JavaScript template literal tag that parses GraphQL queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/KunalSin9h/load-gql">load-gql</a></td>
+    <td>A tiny, zero dependency GraphQL schema loader from files and folders.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/graphql-compose/graphql-compose">graphql-compose</a></td>
+    <td>Tool which allows you to construct flexible GraphQL schema from different data sources via plugins.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Urigo/graphql-modules">graphql-modules</a></td>
+    <td>Separate GraphQL server into smaller, reusable parts by modules or features.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/maticzav/graphql-shield">graphql-shield</a></td>
+    <td>A library that helps create a permission layer for a GraphQL API.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/omar-dulaimi/graphql-shield-generator">graphql-shield-generator</a></td>
+    <td>Emits a GraphQL Shield from your GraphQL schema.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/oslabs-beta/GraphQL-Gate">graphqlgate</a></td>
+    <td>A GraphQL rate-limiting library with query complexity analysis for Node.js.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/piglovesyou/graphql-let">graphql-let</a></td>
+    <td>A webpack loader to import type-protected codegen results directly from GraphQL documents.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kamilkisiela/graphql-config">graphql-config</a></td>
+    <td>One configuration for all your GraphQL tools (supported by most tools, editors & IDEs).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/urigo/graphql-cli">graphql-cli</a></td>
+    <td>A command-line tool for common GraphQL development workflows.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ardatan/graphql-toolkit">graphql-toolkit</a></td>
+    <td>A set of utils for faster development of GraphQL tools (Schema and documents loading, Schema merging and more).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/urigo/graphql-mesh">graphql-mesh</a></td>
+    <td>Use GraphQL query language to access data in remote APIs that don't run GraphQL (and also ones that do run GraphQL).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Urigo/sofa">sofa</a></td>
+    <td>Generate REST API from your GraphQL API.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aerogear/graphback">graphback</a></td>
+    <td>Framework and CLI to add a GraphQL CRUD API layer to a GraphQL server using data models.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/maticzav/graphql-middleware">graphql-middleware</a></td>
+    <td>Split up your GraphQL resolvers into middleware functions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/graphql/graphql-relay-js">graphql-relay-js</a></td>
+    <td>A library to help construct a graphql-js server supporting react-relay.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/monojack/graphql-normalizr">graphql-normalizr</a></td>
+    <td>Normalize GraphQL responses for persisting in the client cache/state.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ooflorent/babel-plugin-graphql">babel-plugin-graphql</a></td>
+    <td>Babel plugin that compiles GraphQL tagged template strings.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/apollographql/eslint-plugin-graphql">eslint-plugin-graphql</a></td>
+    <td>An ESLint plugin that checks your GraphQL strings against a schema.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/enisdenjo/graphql-ws">graphql-ws</a></td>
+    <td>Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/n1ru4l/graphql-live-query">graphql-live-query</a></td>
+    <td>Realtime GraphQL Live Queries with JavaScript.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Comcast/graphvinci">GraphVinci</a></td>
+    <td>An interactive schema visualizer for GraphQL APIs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/alexstrat/supertest-graphql">supertest-graphql</a></td>
+    <td>Extends supertest to easily test a GraphQL endpoint.</td>
+  </tr>
+</table>
