@@ -18,6 +18,7 @@ This Section is a Curated Collection of resources for GraphQL
 - [GraphQL Clients](#graphql-clients)
 - [GraphQL Servers](#graphql-servers)
 - [GraphQL Specifications](#graphql-specifications)
+- [Books](#books)
 - [Communities](#communities)
 - [Services](#services)
 - [Miscellaneous](#miscellaneous)
@@ -351,6 +352,51 @@ This Section is a Curated Collection of resources for GraphQL
   <tr>
     <td><a href="https://github.com/getcronit/pylon">pylon</a></td>
     <td>Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy.</td>
+  </tr>
+</table>
+
+### Books 
+>
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Author(s)</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://graphql.guide">The GraphQL Guide</a></td>
+    <td>John Resig and Loren Sands-Ramshaw</td>
+    <td>A comprehensive guide to GraphQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe">Craft GraphQL APIs in Elixir with Absinthe</a></td>
+    <td>Bruce Williams and Ben Wilson</td>
+    <td>A book focusing on crafting GraphQL APIs using Elixir with Absinthe</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.roadtographql.com/">The Road to GraphQL</a></td>
+    <td>-</td>
+    <td>A comprehensive resource for learning GraphQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.packtpub.com/web-development/learning-graphql-and-relay">Learning GraphQL and Relay</a></td>
+    <td>Samer Buna</td>
+    <td>A practical guide to learning GraphQL and Relay</td>
+  </tr>
+  <tr>
+    <td><a href="https://leanpub.com/book-graphql">Practical GraphQL</a></td>
+    <td>Daniel Schmitz</td>
+    <td>A practical book for implementing GraphQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://book.productionreadygraphql.com">Production Ready GraphQL</a></td>
+    <td>Marc-André Giroux</td>
+    <td>A guide to building production-ready GraphQL applications</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/fullstack-graphql-applications">Full Stack GraphQL Applications</a></td>
+    <td>William Lyon</td>
+    <td>A book on building full-stack GraphQL applications</td>
   </tr>
 </table>
 
