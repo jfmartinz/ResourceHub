@@ -13,6 +13,7 @@ This section is curated collection of resources for MySQL Database.
   - [Introduction](#introduction)
   - [User Management](#user-management)
   - [MySQL Database](#mysql-database)
+  - [MySQL Table & Views](#mysql-table--views)
 - [Conclusion](#conclusion)
 
 
@@ -117,6 +118,84 @@ This section is curated collection of resources for MySQL Database.
     <td>Guide on how to copy an existing database in MySQL.</td>
   </tr>
 </table>
+
+### MySQL Table & Views
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-create-table">MySQL CREATE Table</a></td>
+    <td>Instructions on how to create a new table in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-alter-table">MySQL ALTER Table</a></td>
+    <td>Guide on how to modify an existing table in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-show-list-tables">MySQL Show Tables</a></td>
+    <td>Information on how to list all tables in a MySQL database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-rename-table">MySQL Rename Table</a></td>
+    <td>Steps to rename an existing table in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-truncate-table">MySQL TRUNCATE Table</a></td>
+    <td>Guide on how to truncate a table in MySQL, removing all its data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-describe-table">MySQL Describe Table</a></td>
+    <td>Instructions on how to describe the structure of a table in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-drop-table">MySQL DROP Table</a></td>
+    <td>Steps to delete an existing table in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-temporary-table">MySQL Temporary Table</a></td>
+    <td>Guide on how to create and use temporary tables in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-copy-table">MySQL Copy Table</a></td>
+    <td>Instructions on how to copy the structure and/or data of a table in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-repair-table">MySQL Repair Table</a></td>
+    <td>Steps to repair a corrupted table in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-add-delete-column">MySQL Add/Delete Column</a></td>
+    <td>Guide on how to add or delete columns in a MySQL table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-show-columns">MySQL Show Columns</a></td>
+    <td>Information on how to list all columns in a MySQL table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-rename-column">MySQL Rename Column</a></td>
+    <td>Steps to rename a column in a MySQL table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-view">MySQL Views</a></td>
+    <td>Guide on how to create and manage views in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-table-locking">MySQL Table Locking</a></td>
+    <td>Instructions on how to lock and unlock tables in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-lock-account">MySQL Account Lock</a></td>
+    <td>Guide on how to lock a MySQL user account.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-unlock-account">MySQL Account Unlock</a></td>
+    <td>Steps to unlock a MySQL user account.</td>
+  </tr>
+</table>
+
 
 
 ## Conclusion
