@@ -25,6 +25,7 @@ This section is curated collection of resources for MySQL Database.
   - [MySQL Triggers](#mysql-triggers)
   - [MySQL Aggregate Functions](#mysql-aggregate-functions)
 - [ MySQL Connectors](#mysql-connectors)
+- [Development Tools for MySQL](#development-tools-for-mysql)
 - [Conclusion](#conclusion)
 
 
@@ -687,5 +688,39 @@ This section is curated collection of resources for MySQL Database.
   </tr>
 </table>
 
+
+### Development Tools for MySQL
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/flyway/flyway">Flywaydb</a></td>
+    <td>Database migration tool that allows you to evolve your database schema easily and reliably across all your instances.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/liquibase/liquibase">Liquibase</a></td>
+    <td>Source control for your database, enabling you to track, version, and apply database changes in an organized manner.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/square/shift">Shift</a></td>
+    <td>An application that facilitates running schema migrations on MySQL databases, helping manage database changes effectively.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/skeema/skeema">Skeema</a></td>
+    <td>Declarative pure-SQL schema management system for MySQL and MariaDB, designed with support for sharding and external online schema change tools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/actiontech/sqle/blob/main/README_en.md">SQLE</a></td>
+    <td>SQL audit platform tailored for DBAs and developers to monitor and manage database activities.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/datacharmer/test_db">Test database</a></td>
+    <td>A sample MySQL database with an integrated test suite, used for testing applications and servers.</td>
+  </tr>
+</table>
 
 ## Conclusion
