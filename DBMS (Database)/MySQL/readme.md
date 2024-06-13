@@ -20,6 +20,7 @@ This section is curated collection of resources for MySQL Database.
   - [MySQL Privileges](#mysql-privileges)
   - [Control Flow Functions](#control-flow-functions)
   - [MySQL Conditions](#mysql-conditions)
+  - [MySQL Join Operations](#mysql-join-operations)
 - [Conclusion](#conclusion)
 
 
@@ -423,6 +424,63 @@ This section is curated collection of resources for MySQL Database.
   <tr>
     <td><a href="https://www.javatpoint.com/mysql-between">MySQL BETWEEN</a></td>
     <td>Instructions on how to use the BETWEEN operator in MySQL to specify a range of values.</td>
+  </tr>
+</table>
+
+### MySQL Join Operations
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-join">MySQL JOIN</a></td>
+    <td>Guide on how to use the JOIN clause to combine rows from two or more tables in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-inner-join">MySQL Inner Join</a></td>
+    <td>Explanation of the INNER JOIN clause in MySQL, used to return rows that have matching values in both tables.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-left-join">MySQL Left Join</a></td>
+    <td>Guide on how to use the LEFT JOIN clause in MySQL to return all rows from the left table and matching rows from the right table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/MySQL/mysql_join_right.asp">MySQL Right Join</a></td>
+    <td>Explanation of the RIGHT JOIN clause in MySQL, used to return all rows from the right table and matching rows from the left table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/MySQL/mysql_join_cross.asp">MySQL CROSS JOIN</a></td>
+    <td>Instructions on how to use the CROSS JOIN clause in MySQL to produce a Cartesian product of two tables.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/MySQL/mysql_join_self.asp">MySQL SELF JOIN</a></td>
+    <td>Guide on how to join a table to itself using the SELF JOIN in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-delete-join">MySQL DELETE JOIN</a></td>
+    <td>Explanation of how to use JOIN in a DELETE statement to delete rows from a table based on related rows in another table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-update-join">MySQL Update Join</a></td>
+    <td>Guide on how to use JOIN in an UPDATE statement to update rows in one table based on related rows in another table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-equijoin">MySQL EquiJoin</a></td>
+    <td>Explanation of how to perform an equi join (inner join using the equality operator) in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-natural-join">MySQL Natural Join</a></td>
+    <td>Guide on how to use the NATURAL JOIN clause in MySQL to perform a join based on columns with the same name.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-left-join-vs-right-join">Left Join vs Right Join</a></td>
+    <td>Comparison between LEFT JOIN and RIGHT JOIN in MySQL, highlighting their differences and use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-union-vs-join">MySQL Union vs Join</a></td>
+    <td>Explanation of the differences between UNION and JOIN operations in MySQL.</td>
   </tr>
 </table>
 
