@@ -124,6 +124,26 @@ This Section is a Curated Collection of resources for GraphQL
 
 ### Building a Basic GraphQL Server
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.apollographql.com/tutorials/lift-off-part1/v1/03-schema-definition-language-sdl">Schema Definition Language (SDL)</a></td>
+    <td>Introduction to Schema Definition Language (SDL) in GraphQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/graphql/graphql_resolver.htm">Resolvers</a></td>
+    <td>Understanding and implementing resolvers in GraphQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.apollographql.com/tutorials/fullstack-quickstart/03-connecting-to-data-sources#:~:text=First%2C%20we%20import%20and%20call,database%20to%20the%20UserAPI%20constructor.">Connecting to a Data Source</a></td>
+    <td>How to connect GraphQL to various data sources.</td>
+  </tr>
+</table>
+
+
 ### GraphQL Specifications
 > 
 
