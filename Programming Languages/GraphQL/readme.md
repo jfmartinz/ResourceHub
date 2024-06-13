@@ -37,7 +37,56 @@ This Section is a Curated Collection of resources for GraphQL
 
 ### Introduction
 
-
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://graphql.org/learn/">What is GraphQL?</a></td>
+    <td>Introduction to GraphQL and its key concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/compare/the-difference-between-graphql-and-rest/">Differences between GraphQL and REST</a></td>
+    <td>Comparison between GraphQL and REST APIs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/pulse/unlocking-power-graphql-advantages-disadvantages-key-kumar-pandey-quedc">Benefits of using GraphQL</a></td>
+    <td>Advantages and disadvantages of using GraphQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://hasura.io/learn/graphql/intro-graphql/core-concepts/">GraphQL Core Concepts</a></td>
+    <td>Core concepts of GraphQL, including its architecture and usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://graphql.org/learn/schema/">Schema</a></td>
+    <td>Understanding GraphQL schema and its structure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://graphql.org/graphql-js/basic-types/">Types (Scalars, Objects, Interfaces, Unions, Enums)</a></td>
+    <td>Basic types in GraphQL, including Scalars, Objects, Interfaces, Unions, and Enums.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/graphql/graphql_query.htm">Queries</a></td>
+    <td>How to create and execute GraphQL queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://graphql.org/graphql-js/mutations-and-input-types/">Mutations</a></td>
+    <td>How to create and execute GraphQL mutations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://graphql.org/blog/2015-10-16-subscriptions/">Subscriptions</a></td>
+    <td>Introduction to GraphQL subscriptions for real-time updates.</td>
+  </tr>
+  <tr>
+    <td><a href="https://graphql.org/learn/execution/">Execution</a></td>
+    <td>How GraphQL executes queries and mutations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://graphql.org/learn/introspection/">Introspection</a></td>
+    <td>Using GraphQL introspection to query the schema.</td>
+  </tr>
+</table>
 
 ### GraphQL Specifications
 > 
