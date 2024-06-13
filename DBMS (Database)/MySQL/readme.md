@@ -19,7 +19,7 @@ This section is curated collection of resources for MySQL Database.
   - [MySQL Clauses](#mysql-clauses)
   - [MySQL Privileges](#mysql-privileges)
   - [Control Flow Functions](#control-flow-functions)
-  - 
+  - [MySQL Conditions](#mysql-conditions)
 - [Conclusion](#conclusion)
 
 
@@ -362,6 +362,67 @@ This section is curated collection of resources for MySQL Database.
   <tr>
     <td><a href="https://www.javatpoint.com/mysql-if-statement">MySQL IF Statement</a></td>
     <td>Guide on how to use the IF statement in stored procedures to execute code conditionally.</td>
+  </tr>
+</table>
+
+### MySQL Conditions
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-and">MySQL AND</a></td>
+    <td>Guide on how to use the AND operator to combine multiple conditions in a MySQL query.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-or">MySQL OR</a></td>
+    <td>Instructions on how to use the OR operator to combine multiple conditions in a MySQL query.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-and-or">MySQL AND OR</a></td>
+    <td>Guide on how to use both AND and OR operators together in MySQL queries to specify multiple conditions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-boolean">MySQL Boolean</a></td>
+    <td>Explanation of boolean operations in MySQL, including how boolean logic applies to conditions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-like">MySQL LIKE</a></td>
+    <td>Instructions on how to use the LIKE operator in MySQL to perform pattern matching.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-in">MySQL IN</a></td>
+    <td>Guide on how to use the IN operator in MySQL to specify multiple possible values for a column.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-any">MySQL ANY</a></td>
+    <td>Instructions on how to use the ANY operator in MySQL to compare a value to a set of values.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-exists">MySQL EXISTS</a></td>
+    <td>Guide on how to use the EXISTS operator in MySQL to test for the existence of rows in a subquery.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-not">MySQL NOT</a></td>
+    <td>Explanation of how to use the NOT operator in MySQL to negate a condition.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-not-equal">MySQL Not Equal</a></td>
+    <td>Guide on how to use the <> or != operator in MySQL to test for inequality.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-is-null">MySQL IS NULL</a></td>
+    <td>Instructions on how to use the IS NULL operator in MySQL to test if a value is NULL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-group-by">MySQL IS NOT NULL</a></td>
+    <td>Guide on how to use the IS NOT NULL operator in MySQL to test if a value is not NULL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-between">MySQL BETWEEN</a></td>
+    <td>Instructions on how to use the BETWEEN operator in MySQL to specify a range of values.</td>
   </tr>
 </table>
 
