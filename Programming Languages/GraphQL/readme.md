@@ -148,6 +148,73 @@ This Section is a Curated Collection of resources for GraphQL
 </table>
 
 ### Tools - Editors & IDEs & Explorers
+>
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/graphql/graphiql">GraphiQL</a></td>
+    <td>An in-browser IDE for exploring GraphQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/graphql-editor/graphql-editor">GraphQL Editor</a></td>
+    <td>Visual Editor & GraphQL IDE.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/APIs-guru/graphql-voyager">GraphQL Voyager</a></td>
+    <td>Represent any GraphQL API as an interactive graph.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/altair-graphql/altair">Altair GraphQL Client</a></td>
+    <td>A beautiful feature-rich GraphQL Client for all platforms.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/networkimprov/brangr">Brangr</a></td>
+    <td>A unique, user-friendly data browser/viewer for any GraphQL service, with attractive result layouts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://insomnia.rest/">Insomnia</a></td>
+    <td>A full-featured API client with first-party GraphQL query editor.</td>
+  </tr>
+  <tr>
+    <td><a href="https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/">Postman</a></td>
+    <td>An HTTP Client that supports editing GraphQL queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/usebruno/bruno">Bruno</a></td>
+    <td>Fast, open-source API client, which stores collections offline-only in a Git-friendly plain text markup language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Escape-Technologies/graphman">Escape GraphMan</a></td>
+    <td>Generate a complete Postman collection from a GraphQL endpoint.</td>
+  </tr>
+  <tr>
+    <td><a href="https://sandbox.apollo.dev/">Apollo Sandbox</a></td>
+    <td>The quickest way to navigate and test your GraphQL endpoints.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Novvum/graphql-birdseye">GraphQL Birdseye</a></td>
+    <td>View any GraphQL schema as a dynamic and interactive graph.</td>
+  </tr>
+  <tr>
+    <td><a href="https://astexplorer.net/">AST Explorer</a></td>
+    <td>Select "GraphQL" at the top, explore the GraphQL AST, and highlight different parts by clicking in the query.</td>
+  </tr>
+  <tr>
+    <td><a href="https://firecamp.io/graphql">Firecamp - GraphQL Playground</a></td>
+    <td>The fastest collaborative GraphQL playground.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yamafaktory/craftql">CraftQL</a></td>
+    <td>A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/eerimoq/gqt">gqt</a></td>
+    <td>Build and execute GraphQL queries in the terminal.</td>
+  </tr>
+</table>
 
 ### GraphQL Clients
 >
