@@ -19,6 +19,7 @@ This Section is a Curated Collection of resources for GraphQL
 - [GraphQL Servers](#graphql-servers)
 - [GraphQL Specifications](#graphql-specifications)
 - [Books](#books)
+- [Youtube tutorials](#youtube-tutorials)
 - [Communities](#communities)
 - [Services](#services)
 - [Miscellaneous](#miscellaneous)
@@ -397,6 +398,35 @@ This Section is a Curated Collection of resources for GraphQL
     <td><a href="https://www.manning.com/books/fullstack-graphql-applications">Full Stack GraphQL Applications</a></td>
     <td>William Lyon</td>
     <td>A book on building full-stack GraphQL applications</td>
+  </tr>
+</table>
+
+### Youtube tutorials
+>
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=783ccP__No8">GraphQL: The Documentary</a></td>
+    <td>A documentary about GraphQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/embed/UBGzsb2UkeY">Zero to GraphQL in 30 Minutes</a></td>
+    <td>A quick tutorial on GraphQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=9sc8Pyc51uU">Data fetching for React applications at Facebook</a></td>
+    <td>A talk about data fetching for React applications at Facebook</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=X6YbAKiLCLU">React Native & Relay: Bringing Modern Web Techniques to Mobile</a></td>
+    <td>A discussion on using React Native and Relay for mobile development</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=WQLzZf34FJ8">Exploring GraphQL</a></td>
+    <td>An exploration of GraphQL</td>
   </tr>
 </table>
 
