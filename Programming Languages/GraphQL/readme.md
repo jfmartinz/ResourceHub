@@ -445,6 +445,50 @@ This Section is a Curated Collection of resources for GraphQL
 
 ### Services
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/appsync/">AWS AppSync</a></td>
+    <td>Scalable managed GraphQL service with subscriptions for building real-time and offline-first apps</td>
+  </tr>
+  <tr>
+    <td><a href="https://fakeql.com/">FakeQL</a></td>
+    <td>GraphQL API mocking as a service because GraphQL API mocking should be easy!</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.moesif.com/features/graphql-analytics">Moesif API Analytics</a></td>
+    <td>A GraphQL analytics and monitoring service to find functional and performance issues.</td>
+  </tr>
+  <tr>
+    <td><a href="https://booster.cloud/">Booster framework</a></td>
+    <td>An open-source framework that makes you completely forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://hypi.io/">Hypi</a></td>
+    <td>Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://nhost.io/">Nhost</a></td>
+    <td>Open source Firebase alternative with GraphQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mirumee/saleor/">Saleor</a></td>
+    <td>GraphQL-first headless e-commerce platform.</td>
+  </tr>
+  <tr>
+    <td><a href="https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html">Stargate</a></td>
+    <td>Open-source data gateway currently supporting Apache Cassandra® and DataStax Enterprise.</td>
+  </tr>
+  <tr>
+    <td><a href="https://grafbase.com">Grafbase</a></td>
+    <td>Instant GraphQL APIs for any data source.</td>
+  </tr>
+</table>
+
+
 ### Miscellaneous
 
 <table>
