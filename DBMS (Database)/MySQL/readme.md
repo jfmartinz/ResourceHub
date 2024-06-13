@@ -27,6 +27,10 @@ This section is curated collection of resources for MySQL Database.
 - [ MySQL Connectors](#mysql-connectors)
 - [Development Tools for MySQL](#development-tools-for-mysql)
 - [MySQL Toolkits](#mysql-toolkits)
+- [MySQL Projects](#mysql-projects)
+  - [Beginner Level Projects](#beginner-level-projects)
+  - [Intermediate Level Projects](#intermediate-level-projects)
+  - [Advance Level Projects](#advance-level-projects)
 - [Books](#books)
 - [Conclusion](#conclusion)
 
@@ -753,6 +757,126 @@ This section is curated collection of resources for MySQL Database.
   <tr>
     <td><a href="https://github.com/twindb/undrop-for-innodb">UnDROP</a></td>
     <td>A tool specifically designed to recover data from dropped or corrupted InnoDB tables in MySQL.</td>
+  </tr>
+</table>
+
+### MySQL Projects
+>  Beginner, intermediate, and advanced-level projects to apply SQL skills in real-world scenarios.
+
+### Beginner level projects 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jhu-ep-coursera/fullstack-course4">Employee Management System</a></td>
+    <td>Example employee management system project including SQL scripts for database creation and sample data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/npranav10/Library-Management-System">Online Library Management System</a></td>
+    <td>Implementation of an online library management system in Java and SQL, including database schema and sample queries.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ParajuliSujan/Student-Grade-Tracker">Student Grade Tracker</a></td>
+    <td>Web application for managing student grades, implemented using HTML, CSS, JavaScript, PHP, and MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/foysal-mamun/inventory-management-system">Inventory Management System</a></td>
+    <td>A simple inventory management system implemented in PHP and MySQL, including database schema and sample data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lokeshlokeshk/expenditure_tracker">Expense Tracker</a></td>
+    <td>Expenditure tracker web application implemented in PHP and MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/amit-codes/recipe-database">Recipe Database</a></td>
+    <td>Web application to store and search recipes, implemented using HTML, CSS, JavaScript, PHP, and MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/spikhalskiy/crm">Customer Relationship Management (CRM) System</a></td>
+    <td>Customer relationship management system implemented in PHP and MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/funanu/fitnesstracker">Fitness Tracker</a></td>
+    <td>Fitness tracker web application implemented in HTML, CSS, JavaScript, PHP, and MySQL.</td>
+  </tr>
+</table>
+
+### Intermediate Level Projects
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/taniarascia/e-commerce">E-commerce Platform</a></td>
+    <td>A comprehensive e-commerce platform project implemented using React, Redux, Express, and MongoDB. You can adapt the database schema and queries to use SQL instead of MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nikhil1277/Hospital-Management-System">Hospital Management System</a></td>
+    <td>Code for a hospital management system implemented in Java and MySQL. Explore the database schema and SQL queries used in this project.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/williecostello/social-media-dashboard">Social Media Analytics</a></td>
+    <td>Code for a social media dashboard project implemented in React, Redux, and Firebase. Adapt the database schema and queries to use SQL instead of Firebase.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yashguptaz/calculator">Financial Portfolio Management</a></td>
+    <td>Code for a financial portfolio management system implemented in Python. Create a SQL database to store portfolio data and implement SQL queries for analysis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kpwn/awesome-tourism">Travel Booking System</a></td>
+    <td>A collection of projects related to tourism and travel, including travel booking systems. Explore different travel booking system projects and adapt them to your requirements using SQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/taniarascia/learn">Online Learning Platform</a></td>
+    <td>Code for a learning tracker web application implemented in React and Redux. Modify the application to use a SQL database instead of localStorage for data storage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Azure/azure-quickstart-templates">Inventory Forecasting System</a></td>
+    <td>Azure Quickstart Templates, including templates for inventory forecasting systems. Adapt these templates to use SQL databases for inventory management and forecasting.</td>
+  </tr>
+</table>
+
+### Advance Level Projects
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/chrisshayan/RealEstate">Real Estate Management System</a></td>
+    <td>This project is a comprehensive real estate management system implemented using ASP.NET Core, Entity Framework Core, and SQL Server. It includes features for property listings, user management, and financial transactions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/evandarst/healthcare-analytics">Healthcare Data Analysis Platform</a></td>
+    <td>This project is a healthcare data analysis platform implemented in Python with a PostgreSQL database. It includes modules for patient management, medical records analysis, and predictive modeling.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/iitg-samarth/Samarth-ERP">Supply Chain Management System</a></td>
+    <td>Samarth ERP is an open-source supply chain management system implemented using Django and PostgreSQL. It includes modules for inventory management, order processing, and logistics tracking.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bradhe/ExplainableFinancialRiskPrediction">Financial Risk Assessment Platform</a></td>
+    <td>This project is a financial risk assessment platform implemented in Python with a MySQL database. It includes modules for data preprocessing, feature engineering, and risk prediction using machine learning algorithms.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hrishikeshrv/hris">Human Resources Information System (HRIS)</a></td>
+    <td>HRIS is an open-source human resources information system implemented using Java, Spring Boot, and MySQL. It includes modules for employee management, payroll processing, and performance evaluation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yottabrain/Customer-Churn-Prediction-System">Customer Churn Prediction System</a></td>
+    <td>This project is a customer churn prediction system implemented in Python with a SQLite database. It includes modules for data preprocessing, model training, and churn prediction using machine learning techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/amlanjitdey/traffic-management">Smart City Traffic Management System</a></td>
+    <td>This project is a smart city traffic management system implemented using Java, Spring Boot, and MySQL. It includes modules for traffic monitoring, congestion detection, and route optimization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/chrisdieckhaus/Energy-Consumption-Forecasting">Energy Consumption Forecasting Platform</a></td>
+    <td>This project is an energy consumption forecasting platform implemented in Python with a PostgreSQL database. It includes modules for data preprocessing, model training, and forecasting using time series analysis.</td>
   </tr>
 </table>
 
