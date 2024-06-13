@@ -511,4 +511,54 @@ This section is curated collection of resources for MySQL Database.
 </table>
 
 
+### MySQL Triggers
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-trigger">MySQL Trigger</a></td>
+    <td>Overview of triggers in MySQL, including their purpose and usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-create-trigger">MySQL Create Trigger</a></td>
+    <td>Guide on how to create triggers in MySQL to automatically perform actions such as inserting, updating, or deleting data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-show-or-list-triggers">MySQL Show Trigger</a></td>
+    <td>Instructions on how to list or display existing triggers in a MySQL database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-drop-trigger">MySQL DROP Trigger</a></td>
+    <td>Guide on how to drop (delete) a trigger from a MySQL database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-before-insert-trigger">Before Insert Trigger</a></td>
+    <td>Explanation of how to create a trigger in MySQL that activates before inserting data into a table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-after-insert-trigger">After Insert Trigger</a></td>
+    <td>Guide on how to create a trigger in MySQL that activates after inserting data into a table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-before-update-trigger">MySQL BEFORE UPDATE Trigger</a></td>
+    <td>Instructions on how to create a trigger in MySQL that activates before updating data in a table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-after-update-trigger">MySQL AFTER UPDATE Trigger</a></td>
+    <td>Guide on how to create a trigger in MySQL that activates after updating data in a table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-before-delete-trigger">MySQL BEFORE DELETE Trigger</a></td>
+    <td>Explanation of how to create a trigger in MySQL that activates before deleting data from a table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-after-delete-trigger">MySQL AFTER DELETE Trigger</a></td>
+    <td>Guide on how to create a trigger in MySQL that activates after deleting data from a table.</td>
+  </tr>
+</table>
+
+
 ## Conclusion
