@@ -11,7 +11,8 @@ This section is curated collection of resources for MySQL Database.
 
 - [MySQL](#mysql-1)
   - [Introduction](#introduction)
-  - 
+  - [User Management](#user-management)
+  - [MySQL Database](#mysql-database)
 - [Conclusion](#conclusion)
 
 
@@ -85,6 +86,35 @@ This section is curated collection of resources for MySQL Database.
   <tr>
     <td><a href="https://www.javatpoint.com/change-mysql-user-password">Change User Password</a></td>
     <td>Steps to change the password of an existing MySQL user.</td>
+  </tr>
+</table>
+
+###  MySQL Database
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-create-database">MySQL Create Database</a></td>
+    <td>Guide on how to create a new database in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-select-database">MySQL Select Database</a></td>
+    <td>Instructions on how to select an existing database in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-show-list-databases">MySQL Show Databases</a></td>
+    <td>Information on how to list all databases in a MySQL server.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-drop-database">MySQL Drop Database</a></td>
+    <td>Steps to delete an existing database in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-copy-database">MySQL Copy Database</a></td>
+    <td>Guide on how to copy an existing database in MySQL.</td>
   </tr>
 </table>
 
