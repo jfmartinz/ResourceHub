@@ -40,7 +40,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -57,7 +57,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -74,7 +74,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
@@ -95,7 +95,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
       <tr>
@@ -116,7 +116,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
       <tr>
@@ -165,7 +165,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -196,7 +196,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -233,7 +233,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -266,7 +266,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
     <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
     </tr>
     <tr>
@@ -364,7 +364,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
   <tr>
-    <th>Resource Name</th>
+    <th>Resource Name </th>
     <th>Description</th>
   </tr>
   <tr>
@@ -385,7 +385,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -412,7 +412,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -437,7 +437,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -462,7 +462,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
       <tr>
@@ -487,7 +487,7 @@ As the web landscape continues to evolve, Next.js remains at the forefront, cont
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
       <tr>
