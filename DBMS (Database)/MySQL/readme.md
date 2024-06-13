@@ -22,6 +22,8 @@ This section is curated collection of resources for MySQL Database.
   - [MySQL Conditions](#mysql-conditions)
   - [MySQL Join Operations](#mysql-join-operations)
   - [MySQL Key Constraints](#mysql-key-constraints)
+  - [MySQL Triggers](#mysql-triggers)
+  - [MySQL Aggregate Functions](#mysql-aggregate-functions)
 - [Conclusion](#conclusion)
 
 
@@ -557,6 +559,52 @@ This section is curated collection of resources for MySQL Database.
   <tr>
     <td><a href="https://www.javatpoint.com/mysql-after-delete-trigger">MySQL AFTER DELETE Trigger</a></td>
     <td>Guide on how to create a trigger in MySQL that activates after deleting data from a table.</td>
+  </tr>
+</table>
+
+
+### MySQL Aggregate Functions
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-aggregate-functions">MySQL Aggregate Functions</a></td>
+    <td>Overview of aggregate functions in MySQL, which operate on sets of values to return a single value summarizing the data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-count">MySQL count()</a></td>
+    <td>Guide on how to use the count() function in MySQL to count the number of rows in a result set or the number of occurrences of a specified criterion.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-sum">MySQL sum()</a></td>
+    <td>Instructions on how to use the sum() function in MySQL to calculate the sum of values in a column.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-average">MySQL avg()</a></td>
+    <td>Guide on how to use the avg() function in MySQL to calculate the average (mean) of values in a column.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-min">MySQL min()</a></td>
+    <td>Explanation of how to use the min() function in MySQL to retrieve the minimum value in a column.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-max">MySQL max()</a></td>
+    <td>Guide on how to use the max() function in MySQL to retrieve the maximum value in a column.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-group_concat-function">MySQL GROUP_CONCAT()</a></td>
+    <td>Instructions on how to use the GROUP_CONCAT() function in MySQL to concatenate values from multiple rows into a single string.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-first">MySQL first()</a></td>
+    <td>Explanation of how to use the first() aggregate function in MySQL to retrieve the first value in an ordered set of values.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-last">MySQL last()</a></td>
+    <td>Guide on how to use the last() aggregate function in MySQL to retrieve the last value in an ordered set of values.</td>
   </tr>
 </table>
 
