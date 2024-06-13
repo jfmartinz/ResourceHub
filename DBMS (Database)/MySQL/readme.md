@@ -24,6 +24,7 @@ This section is curated collection of resources for MySQL Database.
   - [MySQL Key Constraints](#mysql-key-constraints)
   - [MySQL Triggers](#mysql-triggers)
   - [MySQL Aggregate Functions](#mysql-aggregate-functions)
+- [ MySQL Connectors](#mysql-connectors)
 - [Conclusion](#conclusion)
 
 
@@ -605,6 +606,84 @@ This section is curated collection of resources for MySQL Database.
   <tr>
     <td><a href="https://www.javatpoint.com/mysql-last">MySQL last()</a></td>
     <td>Guide on how to use the last() aggregate function in MySQL to retrieve the last value in an ordered set of values.</td>
+  </tr>
+</table>
+
+
+### MySQL Connectors
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/perl5-dbi/DBD-MariaDB">DBD::MariaDB</a></td>
+    <td>MariaDB and MySQL driver for the Perl5 Database Interface.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/perl5-dbi/DBD-mysql">DBD::mysql</a></td>
+    <td>MySQL driver for the Perl5 Database Interface.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/go-sql-driver/mysql">go-sql-driver</a></td>
+    <td>Lightweight and fast MySQL driver for Go's (golang) database/sql package.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/libattachsql/libattachsql">libAttachSQL</a></td>
+    <td>Lightweight, non-blocking C API for MySQL servers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mariadb-corporation/mariadb-connector-j">MariaDB Connector/J</a></td>
+    <td>LGPL-licensed MariaDB Client Library for Java Applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/markuman/mex-mariadb">mex-mariadb</a></td>
+    <td>MIT licensed MariaDB/MySQL Client Library for GNU Octave and Matlab.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.mysql.com/downloads/c-api/">MySQL C API</a></td>
+    <td>Official C driver for MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mysql/mysql-connector-cpp">MySQL Connector/C++</a></td>
+    <td>Official C/C++ driver for MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mysql/mysql-connector-j">MySQL Connector/J</a></td>
+    <td>Standardized database driver for Java platforms and development.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mysql/mysql-connector-net">MySQL Connector/NET</a></td>
+    <td>Standardized database driver for .NET platforms and development.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mysql/mysql-connector-nodejs">MySQL Connector/Node.js</a></td>
+    <td>Official Node.js driver for MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mysql/mysql-connector-python">MySQL Connector/Python</a></td>
+    <td>Standardized database driver for Python platforms and development.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PyMySQL/mysqlclient">mysqlclient-python</a></td>
+    <td>MySQL database connector for Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mysqljs/node">node-mysql</a></td>
+    <td>Pure Node.js Javascript client implementing the MySQL protocol.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.php.net/manual/en/book.mysqlnd.php">PHP mysqlnd</a></td>
+    <td>MySQL native driver for PHP.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PyMySQL/PyMySQL">PyMySQL</a></td>
+    <td>MySQL database connector for Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/brianmario/mysql2">Ruby Mysql2 gem</a></td>
+    <td>MySQL driver for Ruby and Rails projects.</td>
   </tr>
 </table>
 
