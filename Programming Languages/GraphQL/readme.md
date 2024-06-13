@@ -11,7 +11,8 @@ This Section is a Curated Collection of resources for GraphQL
 - [Roadmap](#roadmap)
 - [GraphQL](#graphql-1)
   - [Introduction](#introduction)
-  - []
+  - [Setting Up the Environment](#setting-up-the-environment)
+  - [Building a Basic GraphQL Server](#building-a-basic-graphql-server)
 - [GraphQL Specifications](#graphql-specifications)
 
 
@@ -87,6 +88,41 @@ This Section is a Curated Collection of resources for GraphQL
     <td>Using GraphQL introspection to query the schema.</td>
   </tr>
 </table>
+
+### Setting Up the Environment
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/graphql-playground/">GraphQL Playground</a></td>
+    <td>An interactive, in-browser GraphQL IDE.</td>
+  </tr>
+  <tr>
+    <td><a href="https://learning.postman.com/docs/sending-requests/graphql/graphql-overview/">Postman</a></td>
+    <td>Using Postman for sending GraphQL requests.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.gatsbyjs.com/docs/how-to/querying-data/running-queries-with-graphiql/">GraphiQL</a></td>
+    <td>Running GraphQL queries with GraphiQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.npmjs.com/package/graphql">Node.js and npm/yarn</a></td>
+    <td>Setting up Node.js and npm/yarn for GraphQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.npmjs.com/package/graphql">graphql package</a></td>
+    <td>The graphql package on npm.</td>
+  </tr>
+  <tr>
+    <td><a href="https://graphql.org/community/tools-and-libraries/">Server libraries</a></td>
+    <td>A list of GraphQL server libraries and tools.</td>
+  </tr>
+</table>
+
+### Building a Basic GraphQL Server
 
 ### GraphQL Specifications
 > 
