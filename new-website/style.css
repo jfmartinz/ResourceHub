@@ -1037,8 +1037,13 @@ body{
   color: white;
 }
 
-.dark #org-logo{
+.dark .license-container {
+  color: white;
+  background-color: black;
+}
 
+.dark .license-description{
+  color: white;
 }
 
 /* Add these styles to the end of your existing style.css file */
@@ -1094,3 +1099,51 @@ body{
   max-width: 400px;
   height: auto;
 }
+
+.license-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 1000px;
+  background-color: #ffffff;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 40px auto;
+}
+
+.license-content {
+  flex: 1;
+  max-width: 600px;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
+.license-title-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.license-link-icon {
+  font-size: 1.5em;
+  margin-right: 10px;
+}
+
+.license-title {
+  font-size: 2em;
+  margin: 0;
+}
+
+.license-description {
+  font-size: 1em;
+  line-height: 1.5;
+  color: #333333;
+}
+
+.license-description a {
+  color: #4682B4; /* Even darker shade of sky blue */
+  text-decoration: underline;
+}
+
+
