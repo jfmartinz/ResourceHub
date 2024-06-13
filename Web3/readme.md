@@ -632,6 +632,11 @@ Blockchain Supply chain management plays a critical role in ensuring efficient o
         <td><a href="https://youtu.be/X1ahXNYkpL8?si=kMNrjlvIaKx0Mbhe">Web 3.0 Amazon Clone</a></td>
         <td> This project facilitates decentralized  Amazon Clone Step-By-Step with Solidity (Writing Smart Contracts & Tests), Javascript (React & Testing), Hardhat (Development Framework),Ethers.js (Blockchain Interaction), React.js (Frontend Framework).</td>
       </tr>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/BDCT6TYLYdI?si=dLHEYc5TndOlV-F6">Blockchain Crowdfunding Platform </a></td>
+        <td> With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and, most importantly, the ability to create create, view, and donate to crowdfunding campaigns directly through the blockchain; this course is perfect to fully understand how web3, blockchain, Solidity, and smart contracts truly work behind the scenes.</td>
+      </tr>
 
 </table>
 
