@@ -469,7 +469,7 @@ textarea {
 */
 
 input::-moz-placeholder,
-textarea::-moz
+textarea::-moz{
 	opacity: 1;
 	/* 1 */
 	color: #9ca3af;
