@@ -16,7 +16,7 @@ This section is curated collection of resources for MySQL Database.
   - [MySQL Table & Views](#mysql-table--views)
   - [MySQL Queries](#mysql-queries)
   - [MySQL Indexes](#mysql-indexes)
-  - []
+  - [MySQL Clauses](#mysql-clauses)
 - [Conclusion](#conclusion)
 
 
@@ -279,6 +279,39 @@ This section is curated collection of resources for MySQL Database.
   <tr>
     <td><a href="https://www.javatpoint.com/mysql-clustered-vs-non-clustered-index">MySQL Clustered vs Non-Clustered Index</a></td>
     <td>Comparison between clustered and non-clustered indexes in MySQL, highlighting their differences and applications.</td>
+  </tr>
+</table>
+
+### MySQL Clauses
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-where">MySQL WHERE</a></td>
+    <td>Guide on how to use the WHERE clause to filter records in a MySQL query.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-distinct">MySQL DISTINCT</a></td>
+    <td>Instructions on how to use the DISTINCT clause to remove duplicate records in query results.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-from">MySQL FROM</a></td>
+    <td>Explanation of the FROM clause, used to specify the table(s) to retrieve data from.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-order-by">MySQL ORDER BY</a></td>
+    <td>Guide on how to use the ORDER BY clause to sort query results.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-group-by">MySQL GROUP BY</a></td>
+    <td>Instructions on how to use the GROUP BY clause to group records by one or more columns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-having">MySQL HAVING</a></td>
+    <td>Guide on how to use the HAVING clause to filter groups of records in a MySQL query.</td>
   </tr>
 </table>
 
