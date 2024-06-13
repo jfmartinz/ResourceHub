@@ -21,6 +21,7 @@ This section is curated collection of resources for MySQL Database.
   - [Control Flow Functions](#control-flow-functions)
   - [MySQL Conditions](#mysql-conditions)
   - [MySQL Join Operations](#mysql-join-operations)
+  - [MySQL Key Constraints](#mysql-key-constraints)
 - [Conclusion](#conclusion)
 
 
@@ -481,6 +482,31 @@ This section is curated collection of resources for MySQL Database.
   <tr>
     <td><a href="https://www.javatpoint.com/mysql-union-vs-join">MySQL Union vs Join</a></td>
     <td>Explanation of the differences between UNION and JOIN operations in MySQL.</td>
+  </tr>
+</table>
+
+### MySQL Key Constraints
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-unique-key">MySQL Unique Key</a></td>
+    <td>Guide on how to create and manage unique keys in MySQL tables.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-primary-key">MySQL Primary Key</a></td>
+    <td>Explanation of how to define and use primary keys in MySQL tables.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-foreign-key">MySQL Foreign Key</a></td>
+    <td>Guide on how to define and use foreign keys to establish relationships between tables in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-composite-key">MySQL Composite Key</a></td>
+    <td>Explanation of how to create composite keys (keys that consist of multiple columns) in MySQL.</td>
   </tr>
 </table>
 
