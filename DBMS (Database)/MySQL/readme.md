@@ -17,6 +17,7 @@ This section is curated collection of resources for MySQL Database.
   - [MySQL Queries](#mysql-queries)
   - [MySQL Indexes](#mysql-indexes)
   - [MySQL Clauses](#mysql-clauses)
+  - [MySQL Privileges](#mysql-privileges)
 - [Conclusion](#conclusion)
 
 
@@ -314,6 +315,25 @@ This section is curated collection of resources for MySQL Database.
     <td>Guide on how to use the HAVING clause to filter groups of records in a MySQL query.</td>
   </tr>
 </table>
+
+
+# MySQL Privileges
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-grant-privilege">MySQL Grant Privilege</a></td>
+    <td>Guide on how to grant privileges to users in MySQL, allowing them to perform various actions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-revoke-privilege">MySQL Revoke Privilege</a></td>
+    <td>Instructions on how to revoke privileges from users in MySQL.</td>
+  </tr>
+</table>
+
 
 
 ## Conclusion
