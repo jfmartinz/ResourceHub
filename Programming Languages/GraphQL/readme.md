@@ -18,6 +18,17 @@ This Section is a Curated Collection of resources for GraphQL
 ### Roadmap 
 > 
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://roadmap.sh/graphql">GraphQL Roadmap</a></td>
+    <td>A detailed visual guide to understand GraphQL concepts and best practices. Step by step guide to learn GraphQL in 2024</td>
+  </tr>
+</table>
+
 
 
 ### GraphQL
