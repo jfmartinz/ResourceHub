@@ -908,6 +908,11 @@ Here's the updated table:
     <td>Build a tic-tac-toe game provided its implementation,code and rules to play the game </td>
     <td><a href="https://www.geeksforgeeks.org/tic-tac-toe-game-in-java/">Tic Tac Toe Game in Java </a></td>
   </tr>
+  <tr>
+    <td>Brick Breaker Game</td>
+    <td>It has a small ball that knocks the bricks taking the help of a small platform at the base. The player handles this platform and tries to bounce the ball through that platform. In this project, the scoring depends on the number of bricked-broken, i.e., the more you destroy the bricks, the more you score</td>
+    <td><a href="https://github.com/awaismirza/Java-Game-Brick-Breaker">Bricck Breaker Gamee</a></td>
+  </tr>
 </table>
 
 #### Intermediate Level Projects
