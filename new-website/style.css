@@ -1027,3 +1027,70 @@ body{
   --tw-text-opacity: 1;
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }
+
+.dark .container{
+  color: white;
+  background-color: black;;
+}
+
+.dark .description{
+  color: white;
+}
+
+.dark #org-logo{
+
+}
+
+/* Add these styles to the end of your existing style.css file */
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 1000px;
+  background-color: #ffffff;
+  padding: 20px;
+  /* Remove box-shadow property */
+  box-sizing: border-box;
+  margin: 40px auto; /* Adjust as needed */
+}
+
+.content {
+  flex: 1;
+  max-width: 600px;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.link-icon {
+  font-size: 1.5em;
+  margin-right: 10px;
+}
+
+.title {
+  font-size: 2em;
+  margin: 0;
+}
+
+.description {
+  font-size: 1em;
+  line-height: 1.5;
+  color: #333333;
+}
+
+.logo {
+  flex-shrink: 0;
+  margin-left: 20px;
+}
+
+.logo img {
+  max-width: 400px;
+  height: auto;
+}
