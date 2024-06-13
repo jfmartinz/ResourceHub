@@ -27,6 +27,7 @@ This section is curated collection of resources for MySQL Database.
 - [ MySQL Connectors](#mysql-connectors)
 - [Development Tools for MySQL](#development-tools-for-mysql)
 - [MySQL Toolkits](#mysql-toolkits)
+- [Books](#books)
 - [Conclusion](#conclusion)
 
 
@@ -730,7 +731,7 @@ This section is curated collection of resources for MySQL Database.
 
 <table>
   <tr>
-    <th>Toolkit Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -752,6 +753,39 @@ This section is curated collection of resources for MySQL Database.
   <tr>
     <td><a href="https://github.com/twindb/undrop-for-innodb">UnDROP</a></td>
     <td>A tool specifically designed to recover data from dropped or corrupted InnoDB tables in MySQL.</td>
+  </tr>
+</table>
+
+### Books
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/efficient-mysql-performance/9781098105082/">Efficient MySQL Performance</a></td>
+    <td>Focuses on optimizing MySQL performance for various applications and scenarios.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Effective-MySQL-Optimizing-Statements-Oracle/dp/0071782796">Effective MySQL Optimizing SQL Statements by Ronald Bradford</a> </td>
+    <td>Provides insights into optimizing SQL statements for MySQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Learning-MySQL-Handle-Your-Data/dp/1492085928">Learning MySQL by Vinicius M. Grippa</a> </td>
+    <td>A comprehensive guide to understanding MySQL and managing data effectively.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/MySQL-Query-Performance-Tuning-Systematic/dp/1484255836">MySQL 8 Query Performance Tuning by Jesper Wisborg Krogh</a> </td>
+    <td>Offers systematic methods for improving query execution speeds in MySQL 8.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Learn-SQL-MySQL-Retrieve-Manipulate-ebook/dp/B08D6C2RHS">Learn SQL with MySQL by Pajankar Ashwin</a> </td>
+    <td>Teaches SQL commands and their application in MySQL for data retrieval and manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Querying-MySQL-accessible-operations-extraction/dp/9355512678"> Querying MySQL: Make your MySQL database analytics accessible with SQL operations, data extraction, and custom queries</a></td>
+    <td>Provides insights into making MySQL database analytics accessible through SQL operations, data extraction, and custom queries.</td>
   </tr>
 </table>
 
