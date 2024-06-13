@@ -13,11 +13,13 @@ This Section is a Curated Collection of resources for GraphQL
   - [Introduction](#introduction)
   - [Setting Up the Environment](#setting-up-the-environment)
   - [Building a Basic GraphQL Server](#building-a-basic-graphql-server)
+- [GraphQL Databases](#graphql-databases)
 - [Tools - Editors & IDEs & Explorers](#tools---editors--ides--explorers)
 - [GraphQL Clients](#graphql-clients)
 - [GraphQL Servers](#graphql-servers)
 - [GraphQL Specifications](#graphql-specifications)
 - [Communities](#communities)
+- [Services](#services)
 - [Miscellaneous](#miscellaneous)
 
 ### Roadmap 
@@ -146,6 +148,44 @@ This Section is a Curated Collection of resources for GraphQL
     <td>How to connect GraphQL to various data sources.</td>
   </tr>
 </table>
+
+### GraphQL Databases 
+>
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://cube.dev">Cube</a></td>
+    <td>Headless BI for building data applications with SQL, REST, and GraphQL API. Connect any database or data warehouse and instantly get a GraphQL API with sub-second latency on top of it. - <a href="https://github.com/cube-js/cube.js">Source Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://dgraph.io/">Dgraph</a></td>
+    <td>Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://edgedb.com/">EdgeDB</a></td>
+    <td>The next-generation object-relational database with native GraphQL support.</td>
+  </tr>
+  <tr>
+    <td><a href="https://fauna.com">FaunaDB</a></td>
+    <td>Relational NoSQL database with GraphQL schema import. Supports joins, indexes, and multi-region ACID transactions with serverless pay-per-use pricing. - <a href="https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema">Source Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://arangodb.com/">ArangoDB</a></td>
+    <td>Native multi-model database with GraphQL integration via the built-in Foxx Microservices Framework. - <a href="https://www.arangodb.com/docs/3.4/foxx-reference-modules-graph-ql.html">Source Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/semi-technologies/weaviate">Weaviate</a></td>
+    <td>Weaviate is a cloud-native, modular, real-time vector search engine with a GraphQL interface built to scale your machine learning models.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.lunasec.io/">LunaSec</a></td>
+    <td>Key-Value Database for encrypting/tokenizing sensitive data with GraphQL support to authorize requests. - <a href="https://github.com/lunasec-io/lunasec">Source Code</a></td>
+  </tr>
+</table>
+
 
 ### Tools - Editors & IDEs & Explorers
 >
@@ -353,6 +393,7 @@ This Section is a Curated Collection of resources for GraphQL
 </table>
 
 
+
 ### Communities
 >
 <table>
@@ -401,6 +442,8 @@ This Section is a Curated Collection of resources for GraphQL
     <td>Dev bookmarks. Use the tag [graphql](https://www.codever.land/bookmarks/t/graphql).</td>
   </tr>
 </table>
+
+### Services
 
 ### Miscellaneous
 
