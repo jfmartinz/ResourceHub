@@ -36,7 +36,7 @@ This section is curated collection of resources for MySQL Database.
 
 
 ### MySQL
->
+> MySQL tutorial provides basic and advanced concepts of MySQL and is designed for beginners and professionals.
 
 ### Introduction
 
@@ -618,6 +618,7 @@ This section is curated collection of resources for MySQL Database.
 
 
 ### MySQL Connectors
+> Provides an overview of MySQL connectors for different programming languages, including their features and usage scenarios.
 
 <table>
   <tr>
@@ -696,7 +697,7 @@ This section is curated collection of resources for MySQL Database.
 
 
 ### Development Tools for MySQL
->
+> Tools and libraries useful for MySQL development, including database migration tools, protocol libraries, command-line utilities, and schema management systems.
 
 <table>
   <tr>
@@ -731,7 +732,7 @@ This section is curated collection of resources for MySQL Database.
 
 
 ### MySQL Toolkits
->
+> Toolkits and libraries specifically designed for MySQL, offering functionalities for schema migration, network protocol handling, replication, and data recovery.
 
 <table>
   <tr>
@@ -881,6 +882,7 @@ This section is curated collection of resources for MySQL Database.
 </table>
 
 ### Books
+>Recommends books on MySQL covering topics such as performance optimization, SQL statement tuning, database management, and practical SQL applications.
 
 <table>
   <tr>
@@ -914,3 +916,9 @@ This section is curated collection of resources for MySQL Database.
 </table>
 
 ## Conclusion
+
+This section is serves as a comprehensive guide to MySQL, covering essential topics from database management and SQL queries to advanced techniques such as triggers, indexes, and performance tuning. Whether you are new to MySQL or seeking to expand your expertise, the resources and sections provided here offer valuable insights and practical knowledge. 
+
+Explore each section to deepen your understanding and proficiency in managing MySQL databases effectively. 
+
+Happy coding and exploring MySQL!!
