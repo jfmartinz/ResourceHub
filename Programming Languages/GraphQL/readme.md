@@ -17,7 +17,7 @@ This Section is a Curated Collection of resources for GraphQL
 - [GraphQL Servers](#graphql-servers)
 - [GraphQL Specifications](#graphql-specifications)
 - [Communities](#communities)
-
+- [Miscellaneous](#miscellaneous)
 
 ### Roadmap 
 > 
@@ -188,7 +188,61 @@ This Section is a Curated Collection of resources for GraphQL
 </table>
 
 ### GraphQL Servers 
-
+>
+<table>
+  <tr>
+    <th>Server Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/apollographql/apollo-server">apollo-server</a></td>
+    <td>Spec-compliant and production-ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SimonDegraeve/hapi-graphql">hapi-graphql</a></td>
+    <td>Create a GraphQL HTTP server with Hapi.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rse/hapi-plugin-graphiql">hapi-plugin-graphiql</a></td>
+    <td>HAPI plugin for GraphiQL integration.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jaydenseric/graphql-api-koa">graphql-api-koa</a></td>
+    <td>GraphQL Koa middleware that implements GraphQL.js from scratch and supports native ESM.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/chentsulin/koa-graphql">koa-graphql</a></td>
+    <td>GraphQL Koa Middleware.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ryanhs/graphql-koa-scripts">graphql-koa-scripts</a></td>
+    <td>GraphQL Koa 1 file simplified. Useful for quick tests.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/deno-libs/gql">gql</a></td>
+    <td>Universal GraphQL HTTP middleware for Deno.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mercurius-js/mercurius">mercurius</a></td>
+    <td>GraphQL plugin for Fastify.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/prisma-labs/graphql-yoga">graphql-yoga</a></td>
+    <td>Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/graphitejs/server">graphitejs</a></td>
+    <td>Framework NodeJS for GraphQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/contrawork/graphql-helix">graphql-helix</a></td>
+    <td>A highly evolved GraphQL HTTP Server.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/getcronit/pylon">pylon</a></td>
+    <td>Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy.</td>
+  </tr>
+</table>
 
 ### GraphQL Specifications
 > 
@@ -277,3 +331,5 @@ This Section is a Curated Collection of resources for GraphQL
     <td>Dev bookmarks. Use the tag [graphql](https://www.codever.land/bookmarks/t/graphql).</td>
   </tr>
 </table>
+
+### Miscellaneous
