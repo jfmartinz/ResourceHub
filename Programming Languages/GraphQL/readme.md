@@ -430,6 +430,31 @@ This Section is a Curated Collection of resources for GraphQL
   </tr>
 </table>
 
+### Blogs
+>
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://graphql.org/blog/">Official GraphQL blog</a></td>
+    <td>The official blog for GraphQL updates and news</td>
+  </tr>
+  <tr>
+    <td><a href="https://blog.apollographql.com/">Building Apollo</a></td>
+    <td>A blog focusing on building with Apollo GraphQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/the-guild">The Guild blog</a></td>
+    <td>Blog from The Guild, covering GraphQL and related topics</td>
+  </tr>
+  <tr>
+    <td><a href="https://productionreadygraphql.com">Production Ready GraphQL blog</a></td>
+    <td>A blog dedicated to production-ready GraphQL practices</td>
+  </tr>
+</table>
+
 ### GraphQL Specifications
 > 
 
