@@ -14,6 +14,9 @@ This section is curated collection of resources for MySQL Database.
   - [User Management](#user-management)
   - [MySQL Database](#mysql-database)
   - [MySQL Table & Views](#mysql-table--views)
+  - [MySQL Queries](#mysql-queries)
+  - [MySQL Indexes](#mysql-indexes)
+  - []
 - [Conclusion](#conclusion)
 
 
@@ -196,6 +199,88 @@ This section is curated collection of resources for MySQL Database.
   </tr>
 </table>
 
+
+### MySQL Queries
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-queries">MySQL Queries</a></td>
+    <td>A comprehensive guide to writing and executing queries in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-constraints">MySQL Constraints</a></td>
+    <td>Overview of various constraints available in MySQL, including PRIMARY KEY, FOREIGN KEY, and UNIQUE constraints.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-insert">MySQL INSERT Record</a></td>
+    <td>Instructions on how to insert records into a MySQL table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-update">MySQL UPDATE Record</a></td>
+    <td>Guide on how to update existing records in a MySQL table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-delete">MySQL DELETE Record</a></td>
+    <td>Steps to delete records from a MySQL table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-select">MySQL SELECT Record</a></td>
+    <td>Guide on how to retrieve records from a MySQL table using the SELECT statement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-replace">MySQL Replace</a></td>
+    <td>Instructions on how to use the REPLACE statement in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-insert-on-duplicate-key-update">Insert On Duplicate Key Update</a></td>
+    <td>Guide on how to insert records and update them if a duplicate key is found.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-insert-ignore">MySQL INSERT IGNORE</a></td>
+    <td>Instructions on how to use the INSERT IGNORE statement to avoid insertion errors.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-insert-into-select">Insert Into Select</a></td>
+    <td>Guide on how to insert records into a table by selecting data from another table.</td>
+  </tr>
+</table>
+
+### MySQL Indexes
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/how-to-create-index-in-mysql">MySQL Create Index</a></td>
+    <td>Instructions on how to create an index on a table in MySQL to improve query performance.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-drop-index">MySQL Drop Index</a></td>
+    <td>Guide on how to delete an index from a MySQL table.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-show-indexes">MySQL Show Indexes</a></td>
+    <td>Information on how to list all indexes of a table in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-unique-index">MySQL Unique Index</a></td>
+    <td>Guide on how to create and manage unique indexes in MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-clustered-index">MySQL Clustered Index</a></td>
+    <td>Explanation of clustered indexes in MySQL, including their benefits and use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/mysql-clustered-vs-non-clustered-index">MySQL Clustered vs Non-Clustered Index</a></td>
+    <td>Comparison between clustered and non-clustered indexes in MySQL, highlighting their differences and applications.</td>
+  </tr>
+</table>
 
 
 ## Conclusion
