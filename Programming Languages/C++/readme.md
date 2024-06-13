@@ -1264,6 +1264,11 @@ Writing to Files File Streams input and output operations in C++.</td>
   <td><a href="https://techdevguide.withgoogle.com/paths/interview/?programming_languages=c-plus-plus>">Interview Prep by Google Tech Dev Guide</a></td>
   <td> Interview Preparation course provided by Google under its Tech Dev Guide. It's absolutely free and available in multiple programming languages.</td>
   </tr>
+  <tr>
+  <td><a href="https://www.geeksforgeeks.org/cpp-interview-questions/">C++ interview questions</a></td>
+  <td>This article from Geeks for Geeks contains top 50 C++ interview questions which would help you to crack top product-based companies </td>
+  </tr>
+
 </table>
 
 ### Coding Platforms 
