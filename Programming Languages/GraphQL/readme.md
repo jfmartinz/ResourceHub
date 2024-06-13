@@ -13,6 +13,7 @@ This Section is a Curated Collection of resources for GraphQL
   - [Introduction](#introduction)
   - [Setting Up the Environment](#setting-up-the-environment)
   - [Building a Basic GraphQL Server](#building-a-basic-graphql-server)
+- [Tools - Editors & IDEs & Explorers](#tools---editors--ides--explorers)
 - [GraphQL Clients](#graphql-clients)
 - [GraphQL Servers](#graphql-servers)
 - [GraphQL Specifications](#graphql-specifications)
@@ -146,11 +147,13 @@ This Section is a Curated Collection of resources for GraphQL
   </tr>
 </table>
 
+### Tools - Editors & IDEs & Explorers
+
 ### GraphQL Clients
 >
 <table>
   <tr>
-    <th>Client Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -191,7 +194,7 @@ This Section is a Curated Collection of resources for GraphQL
 >
 <table>
   <tr>
-    <th>Server Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -336,7 +339,7 @@ This Section is a Curated Collection of resources for GraphQL
 
 <table>
   <tr>
-    <th>Tool/Library Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
