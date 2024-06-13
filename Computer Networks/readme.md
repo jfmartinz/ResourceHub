@@ -16,12 +16,19 @@ A computer network is a collection of interconnected devices that can communicat
    - [Network Services](#network-services)
    - [Network Simulators and Traffic Generators](#network-simulators-and-traffic-generators)
    - [Network Connectivity](#network-connectivity)
+- [Network Operations](#network-operations)
+   - [Network Change Management](#network-change-management)
+   - [Network Automation](#network-automation)
+   - [Network Monitoring](#network-monitoring)
+   - [Security Monitoring](#security-monitoring)
+   - [Network Inventory](#network-inventory)
 - [Books](#books)<br>
 - [Youtube Channels](#youtube-channels)<br>
 - [YouTube Playlist](#youtube-playlists)<br>
 - [Interview](#interview)<br>
 - [GitHub Repositories](#github-repositories)<br>
 - [Conclusion](#conclusion)<br>
+- [Projects](#projects)<br>
 
 ## Roadmap
 
@@ -341,7 +348,255 @@ A computer network is a collection of interconnected devices that can communicat
   </tr>
 </table>
 
+## Network Operations
+> Network Operations refers to the activities to monitor, manage, and respond to alerts on their network's availability and performance.
 
+### Network Change Management
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/batfish/batfish">Batfish</a></td>
+    <td>Network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ytti/oxidized">Oxidized</a></td>
+    <td>Network device configuration backup tool. It's a <a href="https://www.shrubbery.net/rancid/">RANCID</a> replacement.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.netfishers.onl/netshot">Netshot</a></td>
+    <td>Network configuration and compliance management software.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/udhos/jazigo">Jazigo</a></td>
+    <td>Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to RANCID, fetchconfig, oxidized, Sweet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/udhos/fetchconfig">fetchconfig</a></td>
+    <td>fetchconfig is a Perl script for retrieving configuration of multiple devices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppliedTrust/sweet">sweet</a></td>
+    <td>Network device configuration backups and change alerts for the 21st century - inspired by RANCID.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lykinsbd/stockpiler">stockpiler</a></td>
+    <td>Stockpiler gathers network device configurations and stores them in a local Git repository.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jerikan-network">Jerikan</a></td>
+    <td>A configuration management system for network teams.</td>
+  </tr>
+</table>
+
+### Network Automation
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://napalm-automation.net/">Napalm</a></td>
+    <td>Vendor neutral, cross-platform open source project that provides a unified API to network devices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ktbyers/netmiko">netmiko</a></td>
+    <td>Multi-vendor library to simplify Paramiko SSH connections to network devices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/trigger/trigger">trigger</a></td>
+    <td>Robust network automation toolkit written in Python that was designed for interfacing with network devices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansible/ansible">Ansible</a></td>
+    <td>IT automation platform that makes your applications and systems easier to deploy by using SSH, with no agents to install on remote systems.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nornir-automation/nornir">nornir</a></td>
+    <td>Pluggable multi-threaded framework with inventory management to help operate collections of devices.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SUNET/cnaas-nms">CNaaS-NMS</a></td>
+    <td>Campus Network-as-a-Service - Network Management System. Software to automate management of a campus network (LAN).</td>
+  </tr>
+  <tr>
+    <td><a href="https://developer.cisco.com/pyats/">pyats</a></td>
+    <td>pyATS enable network engineers to perform stateful validation of their device operational status.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.itential.com/">itential.com</a></td>
+    <td>Low-Code Automation for Physical, Virtual, and Cloud Networks (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansible/awx">AWX</a></td>
+    <td>The upstream project for Tower, a commercial derivative of AWX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://unimus.net/">Unimus</a></td>
+    <td>Unimus makes Network Automation and Configuration Management easy (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://backbox.com/">Blackbox</a></td>
+    <td>Network automation for the hybrid multi-cloud era (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://nephio.org/">Nephio</a></td>
+    <td>Nephio’s goal is to deliver carrier-grade, simple, open, Kubernetes-based cloud native intent automation and common automation templates.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mcgonagle/GitNops">GitNOps</a></td>
+    <td>GitNops is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to network automation.</td>
+  </tr>
+</table>
+
+
+### Network Monitoring
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.perfsonar.net">perfSONAR</a></td>
+    <td>Network measurement toolkit designed to provide federated coverage of paths, and help to establish end-to-end usage expectations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/yahoo/UDPing">UDPing</a></td>
+    <td>Measure latency and packet loss across a link.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/20c/vaping">Vaping</a></td>
+    <td>Vaping is a healthy alternative to smokeping.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.veriflow.net/">veryflow</a></td>
+    <td>Continuous network verification system.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.forwardnetworks.com/">Forward Networks</a></td>
+    <td>Network Behavior Analysis (Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/toddproject/todd">ToDD</a></td>
+    <td>Distributed, testing-on-demand system focused on testing network related conditions.</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.pmacct.net/">pmacct</a></td>
+    <td>Small set of multi-purpose passive network monitoring tools, including Netflow or IPFIX generation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.librenms.org/">LibreNMS</a></td>
+    <td>Network monitoring system that supports automatic discovery, alerting, distributed polling and others.</td>
+  </tr>
+  <tr>
+    <td><a href="https://observium.org/">Observium</a></td>
+    <td>Low-maintenance auto-discovering network monitoring platform.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/robcowart/elastiflow">Elastiflow</a></td>
+    <td>Netflow collector and reporting.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/EdgeCast/vflow">vFlow</a></td>
+    <td>High-performance, scalable and reliable IPFIX, sFlow and Netflow collector (written in pure Golang).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cloudflare/goflow">goFlow</a></td>
+    <td>A NetFlow/IPFIX/sFlow collector in Go.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nttgin/BGPalerter">BGPAlerter</a></td>
+    <td>Self-configuring BGP monitoring tool.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CiscoTestAutomation/xpresso">xpresso</a></td>
+    <td>The standard pyATS UI dashboard.</td>
+  </tr>
+</table>
+
+
+### Security Monitoring
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.cpacket.com">cPacket</a></td>
+    <td>Performance monitoring solutions that deliver real-time analysis and coverage (Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.proxmox.com/en/proxmox-mail-gateway">Proxmox Mail Gateway</a></td>
+    <td>Open-source email security solution helping you to protect your mail server against all email threats the moment they emerge.</td>
+  </tr>
+  <tr>
+    <td><a href="https://fastnetmon.com/">FastNetMon</a></td>
+    <td>DDoS detection tool (Open Source or Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Cisco-Talos/pyrebox">PyREBox</a></td>
+    <td>Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU.</td>
+  </tr>
+  <tr>
+    <td><a href="https://canary.tools/">Canary</a></td>
+    <td>Honeypot solution (commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://canarytokens.org/generate">CanaryTokens</a></td>
+    <td>Free honeytoken.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/idaholab/Malcolm">Malcolm</a></td>
+    <td>Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://zeek.org/">Zeek</a></td>
+    <td>Zeek is an open source network security monitoring tool.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/corelight/zeek2es">zeek2es</a></td>
+    <td>A Zeek log to Elastic/OpenSearch log converter.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drkeithjones.com">DrKeithJones.com</a></td>
+    <td>Keith Jones' blog on cyber security and security monitoring.</td>
+  </tr>
+</table>
+
+### Network Inventory
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://phpipam.net/">phpipam</a></td>
+    <td>Open-source web IP address management application (IPAM).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dropbox/nsot">nsot</a></td>
+    <td>Network Source of Truth is an open source IPAM and network inventory database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/digitalocean/netbox">netbox</a></td>
+    <td>IP address management (IPAM) and data center infrastructure management (DCIM) tool.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ipfabric.io/product/network-mapping">ipfabric</a></td>
+    <td>Network Topology Mapping & Visualization (Commercial).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cidrblock/drawthe.net">drawthe.net</a></td>
+    <td>Draws network diagrams dynamically from a text file describing the placement, layout and icons.</td>
+  </tr>
+</table>
 
 ## Books
 
@@ -520,8 +775,18 @@ Assaf Muller | [Distributed Virtual Routing – Floating IPs](https://assafmulle
     <td> <a href="https://github.com/kashiiitech/CS3001_ComputerNetworks"> CS3001_ComputerNetworks</a></td>
     <td>You'll find a comprehensive collection of lecture materials, assignments, project, quizzes, recommended books, and additional resources in the fascinating world of computer networks. Whether you're a student or a networking enthusiast, this repository is your one-stop destination for mastering the essentials of network communication and technology.</td>
   </tr>
+</table>
 
-
+## Projects
+<table width="100%">
+<tr>
+   <th>Resource Name </th>
+   <th>Description</th>
+</tr>
+<tr>
+   <td><a href="https://github.com/Saipradyumnagoud/Internet-Radio-Multicasting-multimedia-over-IP" >Internet-Radio-Multicasting-multimedia-over-IP</a></td>
+   <td>This project will work as mentioned below.First, Client will send a join request to the server to join the multicast group.After that Server will provide station list, site info to the client through TCP. Then whichever station it selects from the station list, it is connected to that station.All the stations are sending data, irrespective of client is connected or not. This functionality is incorporated to relate more with real life situation, e.g Tv/radio sends data even though there is no receiver connected.Whenever receiver connects to a particular station, it starts receiving live-streaming videos from that station. Receiver can pause, resume, change station or even terminate at any given time from GUI using thread.</td>
+</tr>
 </table>
 
 ## Conclusion

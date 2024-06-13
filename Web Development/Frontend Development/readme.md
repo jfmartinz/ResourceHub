@@ -183,6 +183,7 @@
         <td><a href="https://www.w3schools.com/js/default.asp">JS Tutorial</a></td>
         <td>The JavaScript tutorial section on W3Schools provides a comprehensive resource for learning JavaScript, the programming language used to add interactivity and dynamic behavior to web pages. It covers various aspects of JavaScript, including basic syntax, variables, data types, operators and more.</td>
     </tr>
+   
 </table>
 
 ### Frameworks
@@ -936,6 +937,10 @@ to everyone - everywhere!</td>
    <td><a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4">JavaScript Tutorial for Beginners</a></td>
     <td>This playlist by Telusko is very helpful for the beginners to start their learning journey in Javascript and Frontend web Development.</td>
   </tr>
+   <tr>
+        <td><a href="https://youtube.com/playlist?list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&si=0Bm3tHKvVqyKE7D4">Chrome Extensions Tutorial</a></td>
+        <td>The Chrome Extension tutorial provides a comprehensive resource for learning how to build and deploy Chrome Extensions using JavaScript.</td>
+    </tr>
   <tr>
    <td><a href="https://www.youtube.com/playlist?list=PL9ooVrP1hQOEloRCBI97ZXkWUg6MJn0Yf">Web Development Tutorial For Beginners [2024] | Edureka</a></td>
     <td>This playlist by Edureka is the collection of courses on HTML,CSS, JS and more. This playlist is very much for the beginners to start thier Frontend Development.</td>
@@ -1064,6 +1069,23 @@ to everyone - everywhere!</td>
     <td> <a href="https://youtu.be/g1j9rR-H1lk?si=-P7HevBG2NAdLyS1">QR Code Generator</a></td>
     <td>A quick QR Code generator for your links or text freely accessible for lifetime. You fill learn how to toggle css classes with JS, DOM manipulation, implement concepts of JS</td>
     </tr>
+    <tr>
+    <td><a href="https://github.com/GAVINESHWAR/Random_Password_Generator">Customize Random Password Generator </a></td>
+    <td> The Customized Random Password Generator is a web tool that creates secure passwords with customizable settings such as length. It helps users generate strong, unique passwords for enhanced online security effortlessly.</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/GAVINESHWAR/Drag-and-Drop-">Drag and Drop Feature</a></td>
+    <td>The Drag and Drop feature implemented using JavaScript allows users to interactively move elements around on a web page by clicking and dragging them with the mouse cursor.</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/GAVINESHWAR/RockPaperScissors" >Rock paper Scissors Game</a></td>
+    <td>The Rock, Paper, Scissors game created using JavaScript allows players to compete against the computer in a classic hand game. Players select their choice (rock, paper, or scissors), the computer generates a random choice, and the winner is determined based on the rules of the game. </td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/GAVINESHWAR/Landing_page">Landing Page</a></td>
+    <td>The Travel Landing Page created with JavaScript offers a visually appealing and interactive platform for showcasing travel destinations, packages, and booking options. Users can explore enticing visuals, navigate through different sections seamlessly, and access dynamic content that enhances their browsing experience and encourages engagement with the site's travel offerings.
+</td>
+    </tr>
    <tr>
     <td><a href="https://github.com/rngueco/intro-component-with-signup-form">Signup form</a></td>
     <td>This project is built using HTML, Sass, and JavaScript, focusing on creating a responsive design and implementing client-side form validation. Key features include error messaging for empty fields and incorrectly formatted email addresses, and hover states for interactive elements.</td>
@@ -1099,8 +1121,32 @@ to everyone - everywhere!</td>
     <td>This repo helps you to build a web-based music player built with JavaScript, HTML, and CSS. This project demonstrates how to create a functional music player with features like play, pause, skip, and volume control. The repository includes the necessary code and assets for building and running the music player on a web browser.</td>
     </tr>
     <tr>
+    <td><a href="https://github.com/GAVINESHWAR/News_App">NewsApp</a></td>
+    <td>The News App built with an API in JavaScript delivers real-time news updates from various sources to users. By fetching data from the API, users can stay informed about current events, trending topics, and personalized news preferences, enriching their news consumption experience through a dynamic and user-friendly interface.
+</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/GAVINESHWAR/Photos_Search_Engine">Photos Search Engine</a></td>
+    <td>The Photo Search Website created using JavaScript retrieves and displays images based on user input and provides relevant descriptions to accompany each photo. Users can search for specific images or browse through a curated collection, enhancing their browsing experience with visual content and corresponding details in an interactive and engaging manner.
+</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/GAVINESHWAR/Resume">Porfolio</a></td>
+    <td>A portfolio website created using HTML and CSS showcases your work, skills, and achievements in a visually appealing and organized manner. Through a well-designed layout and interactive elements, it effectively presents your professional profile, portfolio, and contact information to potential clients or employers.
+</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/GAVINESHWAR/Weather_App">Weather App</a></td>
+    <td>The weather app developed using the OpenWeather API in JavaScript enables users to retrieve current weather data for a specific location. By integrating the API, the app can display real-time weather information such as temperature, humidity, wind speed, and forecasts. Users can input a location to access accurate and up-to-date weather details, enhancing their planning and decision-making based on weather conditions.
+</td>
+    </tr>
+    <tr>
     <td><a href="https://github.com/dumbmety/todo-list">Todo list</a></td>
     <td>This repo helps you to build a fully functional todo list application built with HTML, CSS, and JavaScript. This project allows users to add, delete, and mark tasks as complete. It demonstrates basic CRUD operations and local storage for maintaining the todo list across sessions.</td>
+    </tr>
+  <tr>
+      <td><a href="https://github.com/Ayushmaanagarwal1211/Chess/tree/main">Chess</a></td>
+      <td>This Chess repo helps you to create the real chess game where user can peay chess . This project is created with the use of html , css and javascript . Html is for structuting , css is used for styling and javascript is used for controlling the functionality of the chess game .</td>
     </tr>
      <tr>
     <td><a href="https://github.com/sristy17/Simon-Says-Game">Simon Says Game</a></td>
@@ -1131,6 +1177,11 @@ to everyone - everywhere!</td>
     <tr>
     <td><a href="https://github.com/SyedZawwarAhmed/Countries-of-the-World">Countries of world (using REST)</a></td>
     <td>This repo by Syed Zawwar Ahmed is a single-page application that displays information about all countries using a REST API. Users can view countries on the homepage, search for a country, filter by region, and see detailed information on individual country pages. The app also includes a light/dark mode toggle. It was built with HTML, CSS, and JavaScript, utilizing the Fetch API and local storage for theme preferences.</td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/GAVINESHWAR/GitHubExplorer">Github Explorer </a></td>
+    <td>By entering a GitHub username, the GitHub Explorer application leverages JavaScript to fetch and display detailed information about the user's profile. This includes repositories, followers, following, and other relevant data, providing users with a convenient and quick way to explore someone's GitHub activity and contributions.
+</td>
     </tr>
   <tr>
     <td><a href="https://github.com/Saipradyumnagoud/Restaurantwebsite">Restaurant Website</a></td>
