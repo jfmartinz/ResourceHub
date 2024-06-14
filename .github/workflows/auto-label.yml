@@ -6,6 +6,10 @@ on:
   pull_request:
     types: [opened]
 
+permissions:
+  issues: write
+  pull-requests: write
+
 jobs:
   auto-label:
     runs-on: ubuntu-latest
@@ -18,7 +22,7 @@ jobs:
             const labelsToAdd = ["gssoc"];
             if (context.issue.pull_request) {
               // It's a Pull Request
-              await github.pulls.addLabels({
+              await github.issues.addLabels({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 pull_number: context.issue.number,
