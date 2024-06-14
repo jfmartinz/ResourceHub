@@ -1052,6 +1052,26 @@ body{
   color: white;
 }
 
+.dark .footer-container{
+  color: white;
+  background-color: black;
+}
+
+.dark .footer-description,
+.dark .footer-links a,
+.dark .footer-links a::before{
+  color: white;
+}
+
+.dark .footer-bottom a {
+  color: white;
+  font-weight: bold;
+}
+
+.dark .footer-icons path{
+  fill: white ;
+}
+
 /* Add these styles to the end of your existing style.css file */
 
 .container {
@@ -1152,4 +1172,111 @@ body{
   text-decoration: underline;
 }
 
+/* Footer Specific Styles */
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  max-width: 1000px;
+  background-color: #ffffff;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 40px auto;
+}
 
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.footer-left,
+.footer-right {
+  flex: 1;
+  max-width: 600px;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
+.logo-and-title {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+.logo-and-title img {
+  width: 50px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 10px; /* Adjust the margin as needed */
+  margin-top: -15px;
+}
+
+.footer-right {
+  margin-top: 6%;
+}
+
+.footer-title {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.footer-description {
+  font-size: 1em;
+  line-height: 1.5;
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+.footer-icons {
+  display: flex;
+  align-items: center; /* Align items vertically in the center */
+}
+
+.footer-icons a {
+  margin-right: 10px;
+  color: black;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  padding-left: 100px; /* Add right padding to move the links towards the right */
+}
+
+.footer-links li {
+  margin-bottom: 10px;
+  position: relative; /* To position the pseudo-element */
+}
+
+.footer-links a {
+  color: black;
+  text-decoration: underline;
+  font-size: 1em;
+  padding-left: 30px; /* Increased padding to make space for the larger arrow */
+  position: relative; /* Position relative for absolute positioning of arrow */
+}
+
+.footer-links a::before {
+  content: '→'; /* Unicode for right arrow */
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%); /* Center the arrow vertically */
+  color: black;
+  font-size: 1.5em; /* Increase the font size to make the arrow larger */
+  height: 1.5em; /* Set the height of the arrow */
+  width: 1.5em; /* Set the width of the arrow */
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.875em;
+  width: 100%;
+}
+
+.footer-bottom a {
+  color: black;
+  font-weight: bold;
+}
