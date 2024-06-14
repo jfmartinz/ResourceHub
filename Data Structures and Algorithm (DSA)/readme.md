@@ -167,7 +167,16 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@abdul_bari"> Abdul Bari </a></td>
-<td>I have started this channel to help Students Community to learn difficult topics, from computer science,  with a simple and detailed explanation. I have been teaching some computer science subjects and Programming Languages for a long time and also been working as a freelancer and providing software solutions. My experience and understanding of subjects may help students.
+<td>I have started this channel to help Students Community to learn difficult topics, from computer science,  with a simple and detailed explanation. I have been teaching some computer science subjects and Programming Languages for a long time and also been working as a freelancer and providing software solutions. My experience and understanding of subjects may help students.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"> Kunal Kushwaha </a></td>
+<td> The best thing about this channel is, you will find the thought process behind every problem and not just simple data structures and algorithms. All of the content is in English so that anyone can watch it. It has got so many views and one can also check the comments if they have any doubt. </td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ">Kunal Kushwaha</a></td>
+<td>This playlist contains java concepts taught from scratch in detail.The best thing about this platlist is that it not only contains the theory part , but also consists of mostly frequently asked interview questions of Amazon , Google , Microsoft etc.
+</td>
 </tr>
 </table>
 
