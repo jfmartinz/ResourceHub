@@ -603,6 +603,10 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
   <td><a href="https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=6jDNzr4jgCo0p2rN">Opearating System by Neso Academy</a></td>
   <td>This field is undergoing rapid change, as computers are now prevalent in virtually every application. Yet the fundamental concepts remain fairly clear and that is what will be taught in this course.</td>
   </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/watch?v=H3vZRDkzHdo&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm">Operating System playlist by Sudhakar Atchala</a></td>
+  <td>This playlist by Sudhakar Atchala , consists of OS concepts covered in-depth , with examples provided for proper understanding.</td>
+  </tr>
 </table>
 
 ### Interview
