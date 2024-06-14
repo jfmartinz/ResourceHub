@@ -67,7 +67,7 @@
 <th>Description</th>
 </tr>
 <tr>
-<td><a href="https://www.geeksforgeeks.org/machine-learning/">Machine Learning Tutorials Course</a></td>
+<td><a href="https://www.geeksforgeeks.org/machine-learning/">Machine Learning Tutorials </a></td>
 <td>Machine Learning tutorial covers basic and advanced concepts, specially designed to cater to both students and experienced working professionals.</td>
 
 </table>
