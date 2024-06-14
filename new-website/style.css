@@ -806,7 +806,7 @@ body{
 }
 
 .slider:checked + .slider-label .slider-circle {
-  transform: translateX(2.5rem);
+  transform: translateX(2.1rem);
   background: #000000;
   /* Sun color */
 }
@@ -1068,7 +1068,7 @@ body{
   font-weight: bold;
 }
 
-.dark .footer-icons path{
+.dark svg path{
   fill: white ;
 }
 
