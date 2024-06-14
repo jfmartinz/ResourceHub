@@ -5,20 +5,20 @@
 - [Roadmap](roadmaps)
   - [Machine Learning Roadmap](#machine-learning)
 - [Tutorials or Courses](#tutorials-or-courses)
-    - [Fundamentals of Mathematics](#fundamentals-of-mathematics)
-    - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
-    - [Modules](#moduleslibraries)
-    - [Introduction to Machine Learning](#introduction-to-machine-learning)
-    - [Types of Machine learning](#types-of-machine-learning)
-    - [Steps involved for Machine Learning](#steps-involved-for-machine-learning)
-      - [Data Collection](#data-collection)
-      - [Data Preparation](#data-preparation)
-      - [Model Selection](#model-selection)
-      - [Model Training](#model-training)
-      - [Model Evaluation](#model-evaluation)
-      - [Model optimizing](#model-optimization)
-      - [Model deploying](#model-deployment)
-    - [Machine learning algorithms](#machine-learning-algorithms)
+  - [Fundamentals of Mathematics](#fundamentals-of-mathematics)
+  - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
+  - [Modules](#moduleslibraries)
+  - [Introduction to Machine Learning](#introduction-to-machine-learning)
+  - [Types of Machine learning](#types-of-machine-learning)
+  - [Steps involved for Machine Learning](#steps-involved-for-machine-learning)
+    - [Data Collection](#data-collection)
+    - [Data Preparation](#data-preparation)
+    - [Model Selection](#model-selection)
+    - [Model Training](#model-training)
+    - [Model Evaluation](#model-evaluation)
+    - [Model optimizing](#model-optimization)
+    - [Model deploying](#model-deployment)
+  - [Machine learning algorithms](#machine-learning-algorithms)
 - [Books](#books)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
@@ -32,9 +32,10 @@
 - [Others](#others)
 - [Conclusion](#conclusion)
 
-
 ### Roadmap
+
 > This is a roadmap, we can refer to for starting with machine learning.
+
 #### Machine Learning
 
 <table width="100%">
@@ -60,6 +61,17 @@
 
 > Discover a collection of tutorials and courses for learning the Mathamatics,Fundamentals,Algorithms and more which are requied for Machine learning.
 
+<table width="100%">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="https://www.geeksforgeeks.org/machine-learning/">Machine Learning Tutorials Course</a></td>
+<td>Machine Learning tutorial covers basic and advanced concepts, specially designed to cater to both students and experienced working professionals.</td>
+
+</table>
+<>
 #### Fundamentals of Mathematics
 
 <table width="100%">
@@ -130,9 +142,7 @@
     </tr>
 </table>
 
-
 #### Modules/Libraries
-
 
 <table width="100%">
     <tr>
@@ -211,6 +221,7 @@
 </table>
 
 #### Steps involved for machine learning:
+
 ##### Data Collection
 
 <table width="100%">
@@ -359,6 +370,7 @@
 </table>
 
 ### Machine Learning Algorithms
+
 > These are some machine learning algorithm, you can learn.
 
 <table width="100%">
@@ -408,7 +420,6 @@
     </tr>
 </table>
 
-
 ### Books
 
 > Discover a diverse collection of valuable books for Machine Learning.
@@ -438,7 +449,9 @@
   </table>
 
 ### Datasets
+
 > These are some datasets that can help you practice machine learning
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -475,6 +488,7 @@
 </table>
 
 ### GitHub Repositories
+
 > These are some GitHub repositories you can refer to
 
 <table width="100%">
@@ -706,7 +720,7 @@
       </tr>    
   </table>
 
-  ### Projects
+### Projects
 
 > These Projects help you gain real time exprience for building machine learning models.
 
@@ -727,7 +741,7 @@
       </tr>  
 </table>
 
-###  Interview 
+### Interview
 
 > These are some interview preparation resources.
 
@@ -750,7 +764,9 @@
 </table>
 
 ### Others
+
 > These are some other resources you can refer to.
+
   <table width="100%">
       <tr>
         <th>Resource Name</th>
