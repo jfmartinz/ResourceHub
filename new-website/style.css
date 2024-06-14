@@ -592,7 +592,9 @@ video {
 .grid {
   display: grid;
 }
-
+#resources{
+  margin-top:0px;
+}
 .hidden {
   display: none;
 }

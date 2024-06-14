@@ -93,7 +93,18 @@
 document.addEventListener("DOMContentLoaded", async function () {
   const loading = document.getElementById("resources");
   loading.innerHTML = `
-  <p class="classic-4 text-white font-semibold text-center text-2xl ">Loading....</p>
+  <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
 
                 `;
   const cardContainer = document.getElementById("resources");
@@ -172,7 +183,18 @@ document.addEventListener("DOMContentLoaded", async function () {
   function fetchGitHubData(url) {
     const loading = document.getElementById("resources");
     loading.innerHTML = `
-                    <p class="classic-4 text-white font-semibold text-center text-2xl ">Loading....</p>
+                     <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
 
                 `;
 
@@ -212,7 +234,7 @@ document.addEventListener("DOMContentLoaded", async function () {
             // Exclude files with extensions and specific filenames like 'LICENSE'
             const isLicense = file.name.toUpperCase() === "LICENSE";
             const isImage = file.name.toLowerCase() === "images";
-            const iswebsite = file.name.toLowerCase() === "website";
+            const iswebsite = file.name.toLowerCase() === "Flappy_Bird";
             const newwebsite = file.name.toLowerCase() === "new-website";
             return (
               !file.name.includes(".") &&
