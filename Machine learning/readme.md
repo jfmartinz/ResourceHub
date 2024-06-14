@@ -724,7 +724,11 @@
         <td><a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code">500 ML projects repo</a></td>
         <td>This GitHub repo maintained by Ashish Patel offers a comprehensive collection of machine learning and AI projects, providing valuable resources and learning opportunities for enthusiasts, students, researchers, and practitioners interested in exploring ML.
         </td>
-      </tr>  
+      </tr> 
+      <tr>
+      <td><a href="https://www.simplilearn.com/machine-learning-projects-for-beginners-article">ML Projects </a></td>
+      <td>Machine learning (ML) projects require diverse tools and technologies, spanning from data collection and preprocessing to model development, training, and deployment of machine learning algorithms.This article contains 24 ML projects along with their tools and technologies</td>
+      </tr> 
 </table>
 
 ###  Interview 
