@@ -83,12 +83,16 @@ Here is a list of the currently available categories of the project:<br>
     - [VueJs](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/VueJS)
     - [XML](https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages/XML)
 - [Data Science](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science)
-    - [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
+- [Machine Learning](https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning)
+- [Artificial Intelligence](https://github.com/jfmartinz/ResourceHub/tree/main/Artificial%20Intelligence)
 - [Data Structures and Algorithms](https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Structures%20and%20Algorithm%20(DSA))
   - [Competitive Programming](https://github.com/Chandana-756/ResourceHub/tree/Chandana-756-patch-1/Data%20Structures%20and%20Algorithm%20(DSA)/Competitive%20Programming)
 - [Operating System (OS)](https://github.com/jfmartinz/ResourceHub/tree/main/Operating%20System%20(OS))
 - [Linux Development](https://github.com/jfmartinz/ResourceHub/tree/main/Linux%20Development)
 - [Game Development](https://github.com/jfmartinz/ResourceHub/tree/main/Game%20Development)
+- [Computer Architecture](https://github.com/jfmartinz/ResourceHub/tree/main/Computer%20Architecture)
+- [Computer Networks](https://github.com/jfmartinz/ResourceHub/tree/main/Computer%20Networks)
+- [Cybersecurity](https://github.com/jfmartinz/ResourceHub/tree/main/Cybersecurity)
 
 
 ## Technologies
