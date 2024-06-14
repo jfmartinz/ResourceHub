@@ -174,6 +174,10 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td> The best thing about this channel is, you will find the thought process behind every problem and not just simple data structures and algorithms. All of the content is in English so that anyone can watch it. It has got so many views and one can also check the comments if they have any doubt. </td>
 </tr>
 <tr>
+<td><a href="https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&si=IX12vP-NN3VaLpuM"> Apna College </a></td>
+<td> The "Apna College DSA Playlist" in Java offers clear explanations and practical coding examples to master Data Structures and Algorithms effectively. Perfect for beginners and advanced learners alike. </td>
+</tr>
+<tr>
 <td><a href="https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ">Kunal Kushwaha</a></td>
 <td>This playlist contains java concepts taught from scratch in detail.The best thing about this platlist is that it not only contains the theory part , but also consists of mostly frequently asked interview questions of Amazon , Google , Microsoft etc.
 </td>
