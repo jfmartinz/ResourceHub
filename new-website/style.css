@@ -574,7 +574,13 @@ video {
 .mt-20 {
   margin-top: 5rem;
 }
-
+#card{
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
 .mt-36 {
   margin-top: 9rem;
 }
