@@ -662,6 +662,16 @@
         <td> <a href="https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh">Visual CSS Style Editor</a></td>
         <td>Visual CSS Style Editor allows you to visually edit the CSS styles of any webpage. You can modify and preview changes in real-time.</td>
     </tr>
+    <tr>
+        <td> <a href="https://chromewebstore.google.com/detail/chklaanhfefbnpoihckbnefhakgolnmc">JSONVue</a></td>
+        <td>Validate and view JSON documents.JSONView port for Chrome.The stylesheet used to display the JSON content can be customized
+</td>
+    </tr>
+     <tr>
+        <td> <a href="https://chromewebstore.google.com/detail/debug-css/igiofjnckcagmjgdoaakafngegecjnkj">Debug CSS</a></td>
+        <td>A lightweight extension for Google chrome to show outline of all the element exist on page.
+            While working on web page development the one of the difficult part is to position the element as required and check which element affecting the other one.</td>
+    </tr>
 </table>
 
 #### Stock Photos Videos
