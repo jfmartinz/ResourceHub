@@ -8,7 +8,6 @@
 }
 
 body {
- 
     background-color: black;
     height: 100vh;
     display: flex;
@@ -17,6 +16,41 @@ body {
     overflow: hidden;
     margin: 0;
     padding: 0;
+}
+
+.background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.stars, .stars2, .stars3 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: transparent url('https://www.transparenttextures.com/patterns/stardust.png') repeat top center;
+    animation: animStars linear infinite;
+}
+
+.stars {
+    animation-duration: 50s;
+}
+
+.stars2 {
+    animation-duration: 100s;
+}
+
+.stars3 {
+    animation-duration: 150s;
+}
+
+@keyframes animStars {
+    from {transform: translateY(0);}
+    to {transform: translateY(-1000px);}
 }
 
 .wrapper {
@@ -127,10 +161,8 @@ body {
     }
     85% {
         clip: rect(131px, 9999px, 143px, 0);
-    }
     90% {
         clip: rect(127px, 9999px, 133px, 0);
-    }
     95% {
         clip: rect(24px, 9999px, 125px, 0);
     }
@@ -168,14 +200,3 @@ body {
     opacity: 0;
     transition: opacity 0.3s ease;
 }
-
-/* /* Media Queries */
-/* @media (min-width: 768px) {
-    .title {
-        font-size: 10vw;
-    }
-    
-    .description {
-        font-size: 4vw;
-    }
-} */ */

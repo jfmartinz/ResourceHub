@@ -22,7 +22,9 @@
 - [Books](#books)
 - [Datasets](#datasets)
 - [GitHub Repositories](#github-repositories)
-- [Youtube Channels](#youtube-channels)
+- [YouTube](#youtube)
+  - [Youtube Channels](#youtube-channels)
+  - [YouTube Playlists](#youtube-playlists)
 - [Machine learning forums](#machine-learning-forums)
 - [courses](#courses)
 - [Projects](#projects)
@@ -47,6 +49,10 @@
 <tr>
    <td><a href="https://drive.google.com/file/d/11KvoK4FMs6gJbo-u-0H5Kj-EY5jPz7g5/view?usp=sharing"> ML Engineer Roadmap </a></td>
    <td>This roadmap  gives you clear cut roadmap for becoming ready for the  ML Engineer Job Profile</td>
+</tr>
+<tr>
+   <td><a href="https://www.kaggle.com/discussions/questions-and-answers/441553"> ML Roadmap </a></td>
+   <td>This roadmap provides steps from  start to end for  becoming ready for  Machine Learning Engineer.</td>
 </tr>
 </table>
 
@@ -409,6 +415,7 @@
       <td>This video gives you a comprehensive knowledge about K Means clustering algorithm which is a unsupervised machine learning technique used to cluster data points, and this video also helps you to solve a  clustering problem using sklearn, kmeans and python.</td>
     </tr>
     <tr>
+
       <td ><a href="https://www.youtube.com/watch?v=FgakZw6K1QQ&t=2s">Principal Component Analysis (PCA)</a></td>
       <td>This video by StatQuest with Josh Starmer provides an intuitive and visual explanation of Principal Component Analysis (PCA), a key technique for dimensionality reduction in machine learning. The video covers the mathematical concepts behind PCA and demonstrates how to implement it using Python.</td>
     </tr>
@@ -419,6 +426,10 @@
     <tr>
       <td ><a href="https://www.youtube.com/watch?v=nyjbcRQ-uQ8&list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv">Reinforcement Learning</a></td>
       <td>This video by DeepLizard provides a beginner-friendly introduction to reinforcement learning concepts, including agents, environments, rewards, and policies. It also demonstrates implementing basic reinforcement learning algorithms using Python and OpenAI Gym.</td>
+
+      <td ><a href="https://www.youtube.com/watch?v=ob1yS9g-Zcs&t=4728s">Neural Network</a></td>
+      <td>This video provides a comprehensive introduction to neural networks, covering fundamental concepts, training processes, and practical applications. It explains forward and backward propagation, deep learning techniques, and the use of convolutional neural networks (CNNs) for image processing. Additionally, it demonstrates implementing neural networks using Python, TensorFlow, and other libraries, including examples such as stock price prediction and image classification.</td>
+
     </tr>
 </table>
 
@@ -482,6 +493,10 @@
         <td><a href="https://archive.ics.uci.edu/datasets">UCI Datasets</a></td>
         <td>The UCI Machine Learning Repository, hosted at the URL you provided, is a collection of datasets for machine learning research and experimentation. It's maintained by the Center for Machine Learning and Intelligent Systems at the University of California, Irvine (UCI). </td>
       </tr>
+      <tr>
+        <td><a href="https://data.gov/">Data.gov</a></td>
+        <td>Data.gov, a US government website, is invaluable for machine learning enthusiasts with its vast collection of nearly 300,000 datasets. It provides high-quality, reliable training data from various sectors, enabling innovative applications in public health, economics, and environmental science. The open data is freely available, eliminating licensing costs and allowing unrestricted use. Its authoritative sources ensure improved accuracy and reliability in machine learning models.</td>
+      </tr>
 </table>
 
 ### GitHub Repositories
@@ -510,9 +525,11 @@
       </tr>  
 </table>
 
-### YouTube Channels
+### YouTube
 
 > Explore amazing YouTubers specializing in web development.
+
+#### YouTube Channels
 
 <table width="100%">
       <tr>
@@ -545,6 +562,33 @@
       <tr>
         <td> <a href="https://www.youtube.com/@codebasics">codebasics</a></td>
         <td>The YouTube channel "codebasics," hosted by codebasics, offers a variety of tutorials and resources focused on programming, data science, machine learning, and artificial intelligence. </td>
+      </tr>
+  </table>
+
+#### YouTube Playlists
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH">100 Days of Machine Learning</a></td>
+        <td>The YouTube playlist titled "100 Days of Machine Learning" features a series of videos designed to guide viewers through a comprehensive journey in machine learning over 100 days. The playlist covers a variety of topics and concepts essential to understanding and implementing machine learning, aimed at both beginners and those looking to deepen their knowledge. </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy">Machine Learning tutorial for Beginners</a></td>
+        <td>The YouTube playlist titled "Machine Learning | Machine Learning Tutorial For Beginners | Machine Learning Projects" by Simplilearn is designed to introduce beginners to machine learning concepts and projects. The playlist includes comprehensive tutorials, covering topics such as supervised and unsupervised learning, algorithms, data preprocessing, and hands-on projects.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLfFghEzKVmjtZb9G6jvO9PLKvwUvK5avI">Mathematics for machine learning</a></td>
+        <td>The YouTube playlist "Module 5: Mathematics for Machine Learning" is part of a course that focuses on the mathematical foundations necessary for understanding and applying machine learning techniques. It covers key mathematical concepts such as linear algebra, calculus, probability, and statistics, which are essential for machine learning. </td>
+      </tr>
+      </tr>
+        <tr>
+        <td> <a href="https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3">Mathematics for machine learing (linear algebra)</a></td>
+        <td>The YouTube playlist is by 'Digital Learning Hub - Imperial College London', this playlist is an online specialisation in Mathematics for Machine Learning (m4ml) hosted by Coursera, This course offers an introduction to the linear algebra required for common machine learning techniques. We start at the very beginning with thinking about vectors and what vectors are, and the basic mathematical operations we can do with vectors, like how to add vectors and more.
+        </td>
       </tr>
   </table>
 
@@ -590,6 +634,82 @@
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
+        <tr>
+    <td><a href="https://www.coursera.org/learn/machine-learning">Machine Learning by Andrew NG</a></td>
+    <td>A comprehensive course covering various machine learning algorithms and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/intro-to-machine-learning--ud120">Intro to Machine Learning by Udacity</a></td>
+    <td>An introductory course to machine learning concepts and applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.edx.org/course/learning-from-data-introductory-machine-learning#!">EdX’s Learning from Data (Introductory Machine Learning)</a></td>
+    <td>An introductory course on machine learning concepts and algorithms offered by EdX.</td>
+  </tr>
+  <tr>
+    <td><a href="http://course18.fast.ai/ml">Introduction to Machine Learning for Coders</a></td>
+    <td>A beginner-friendly course designed for programmers interested in machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE&v=zcMnu-3wkWo">Statistical Machine Learning by CMU</a></td>
+    <td>YouTube lectures covering statistical machine learning topics by Carnegie Mellon University.</td>
+  </tr>
+ <tr>
+    <td><a href="https://www.youtube.com/watch?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&v=cbeTc-Urqak">Coursera’s Neural Networks for Machine Learning</a></td>
+    <td>A Coursera course focusing on neural networks for machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/learn/overview">Kaggle Complete Roadmap for Machine Learning</a></td>
+    <td>A comprehensive guide provided by Kaggle to learn machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.edx.org/course/principles-of-machine-learning">EdX’s Principles of Machine Learning</a></td>
+    <td>A course offered by EdX covering the principles of machine learning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/specializations/machine-learning">Coursera’s Machine Learning Specialization</a></td>
+    <td>A specialization on machine learning offered by Coursera, covering multiple courses.</td>
+  </tr>
+  <tr>
+    <td><a href="https://developers.google.com/machine-learning/crash-course">Machine Learning Crash Course by Google</a></td>
+    <td>A crash course provided by Google on machine learning concepts and tools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/python/python_ml_getting_started.asp">Machine Learning Course at W3Schools</a></td>
+    <td>A beginner-level machine learning course offered by W3Schools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/learn/intro-to-machine-learning">Intro to Machine Learning Course at Kaggle</a></td>
+    <td>An introductory course to machine learning offered by Kaggle.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/learn/intermediate-machine-learning">Intermediate Machine Learning Course at Kaggle</a></td>
+    <td>A course for intermediate-level learners provided by Kaggle.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cognitiveclass.ai/courses/machine-learning-with-python">Machine Learning with Python</a></td>
+    <td>A course focused on machine learning with Python programming language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">Google’s Deep Learning Course</a></td>
+    <td>An introductory course to deep learning using TensorFlow offered by Google.</td>
+  </tr>
+  <tr>
+    <td><a href="https://course.fast.ai/">Practical Deep Learning for Coders</a></td>
+    <td>A practical course on deep learning targeted at programmers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://course.fast.ai/part2">Deep Learning from the Foundations</a></td>
+    <td>A deep dive into deep learning concepts and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/learn/intro-to-deep-learning">Intro to Deep Learning using Tensorflow and Keras Course at Kaggle</a></td>
+    <td>An introductory course to deep learning using TensorFlow and Keras provided by Kaggle.</td>
+  </tr>
+  <tr>
+    <td><a href="http://neuralnetworksanddeeplearning.com/">Free Book on Neural Network and Deep Learning</a></td>
+    <td>A comprehensive free book covering neural networks and deep learning topics.</td>
+  </tr>
       <tr>
         <td><a href="https://youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn&si=tx4cCdtE3EBAUs2C">Machine learning by Edureka</a></td>
         <td>This youtube playlist by Edureka on machine learning is the best resource to learn machine learning from beginners level to advanced level that too for free.</td>

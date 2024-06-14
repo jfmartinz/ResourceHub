@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>README Renderer</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
     <style>
         .markdown-body {
             box-sizing: border-box;
@@ -24,7 +25,7 @@
     <nav
         class="content-display-nav dark-mode sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-black">
         <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm">
-            <div class="flex justify-between mt-4 items-center">
+            <div class="flex justify-between mt-4 items-center mr-8">
                 <div class="flex items-center flex-shrink-0">
                     <img class="h-10 w-10 mr-2" src="./assets/logo.png" alt="Logo" />
                     <span class="text-xl tracking-tight cursor-pointer hover-effect ">ResourceHub</span>
@@ -125,9 +126,9 @@
     </div>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
-//         document.addEventListener("contextmenu", function (event) {
-//   event.preventDefault();
-// });
+        //         document.addEventListener("contextmenu", function (event) {
+        //   event.preventDefault();
+        // });
         // Dark mode toggle script
         const toggleButton = document.getElementById('dark-mode-toggle');
 
@@ -141,6 +142,11 @@
             const contentDisplay = document.querySelector('.content-display');
             contentDisplay.classList.toggle('dark-mode');
             contentDisplay.classList.toggle('light-mode');
+
+            // Toggle dark mode class on markdown-body
+            const markdownBody = document.getElementById('readme-content');
+            markdownBody.classList.toggle('dark-mode');
+            markdownBody.classList.toggle('light-mode');
         });
         // Retrieve README content from sessionStorage
         const readmeContent = sessionStorage.getItem('readmeContent');

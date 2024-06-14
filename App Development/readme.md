@@ -12,6 +12,7 @@ App development refers to crafting software for diverse devices, involving plann
 - [YouTube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlists)
 - [GitHub Repositories](#github-repositories)
+- [Interview](#interview)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -157,38 +158,79 @@ App development refers to crafting software for diverse devices, involving plann
       <tr>
         <th>Resource Name</th>
         <th>Description</th>
-        <th>Cost</th>
       </tr>
        <tr>
         <td> <a href="https://www.freecodecamp.org/">Codecademy </a></td>
         <td> Offers free interactive courses on HTML, CSS, JavaScript, React.js, Angular, and more.</td>
-        <td>Free</td>
       </tr>
       <tr>
         <td> <a href="https://www.coursera.org/specializations/app-development">Coursera - iOS App Development with Swift Specialization (Audit Mode) </a></td>
         <td>Allows auditing individual courses in the specialization for free, covering Swift programming and iOS app development.</td>
-        <td>Paid</td>
       </tr>
      <tr>
         <td> <a href="https://www.coursera.org/specializations/meta-react-native">Coursera - Meta React Native Specialization </a></td>
         <td>Become a cross-platform mobile app developer. Learn in-demand skills for developing reliable, scalable and user-friendly mobile apps for multiple operating systems, such as iOS and Android.</td>
-        <td>Paid</td>
       </tr>
       <tr>
         <td> <a href="https://www.udemy.com/topic/app-development/">Udemy App Development Courses</a></td>
         <td>Udemy's app development courses provide comprehensive, hands-on training to help you build professional mobile applications from scratch.</td>
-        <td>Paid</td>
       </tr>
       <tr>
         <td><a href="https://www.udemy.com/course/the-complete-react-native-and-redux-course/">Udemy - The Complete React Native + Hooks Course</a></td>
         <td>Comprehensive course covering React Native, Redux, and Hooks for building mobile applications.</td>
-        <td>Paid</td>
       </tr>
      <tr>
         <td> <a href="https://www.linkedin.com/learning/android-development-essential-training-1-your-first-app">LinkedIn - Android Development Essential Training</a></td>
         <td>Android is the most popular mobile operating system in the world, holding 85% of global market share. That makes Android the natural starting point for new app developers. This series of courses teaches the basics needed to develop, design, manage, and distribute a native Android application using the Kotlin programming language and the Android SDK. </td>
-      <td>Paid</td>
       </tr>
+      <tr>
+  <td><a href="https://codingwithmitch.com/courses/jetpack-compose-mvvm-for-beginners/">Jetpack Compose MVVM for Beginners</a></td>
+  <td>Learn how to build Android apps using Jetpack Compose and the MVVM architecture pattern.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/android-clean-architecture/">Clean Architecture</a></td>
+  <td>Explore the principles of clean architecture and how to apply them in Android app development.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/ui-testing-jetpack-androidx/">UI Testing with Jetpack and AndroidX</a></td>
+  <td>Discover how to perform UI testing in Android apps using Jetpack and AndroidX libraries.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/ui-testing-for-beginners/">UI Testing for Beginners</a></td>
+  <td>Learn the fundamentals of UI testing for Android apps, suitable for beginners.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/model-view-intent-mvi-architecture/">Model-View-Intent (MVI) Architecture</a></td>
+  <td>Get acquainted with the Model-View-Intent architecture pattern and its implementation in Android development.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/powerful-android-apps-with-jetpack-architecture/">Powerful Android Apps with Jetpack Architecture</a></td>
+  <td>Learn how to build robust Android applications using the Jetpack architecture components.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/unit-testing-android-2/">Unit Testing</a></td>
+  <td>Master the art of unit testing in Android development to ensure the reliability and stability of your apps.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/dagger22-android/">Dagger2.2+ on Android</a></td>
+  <td>Understand and implement Dagger 2.2+ dependency injection in your Android projects.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/">REST API with MVVM and Retrofit2</a></td>
+  <td>Learn how to integrate RESTful APIs into your Android apps using the MVVM architecture and Retrofit2 library.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/android-local-database-cache-rest-api/">Local Database Cache with REST API</a></td>
+  <td>Discover how to implement local database caching with RESTful APIs in Android app development.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/sqlite-room-persistence-android/">SQLite for Beginners 2019</a></td>
+  <td>Gain a beginner-friendly introduction to SQLite and Room Persistence Library for Android development.</td>
+</tr>
+<tr>
+  <td><a href="https://codingwithmitch.com/courses/android-audio-streaming/">Audio Streaming on Android</a></td>
+  <td>Learn how to implement audio streaming functionality in Android applications.</td>
+</tr>
   </table>
 
 ### Books
@@ -224,6 +266,126 @@ App development refers to crafting software for diverse devices, involving plann
         <td><a href="https://www.amazon.com/Learning-React-Native-Building-JavaScript/dp/1491929006">Learning React Native by Bonnie Eisenman</a></td>
         <td>Offers a comprehensive introduction to React Native, guiding readers through the process of building and deploying React Native apps.</td>
       </tr>
+      <tr>
+  <td><a href="https://www.raywenderlich.com/books/real-world-android-by-tutorials/v1.0">Real-World Android by Tutorials</a></td>
+  <td>Build professional, secure Android apps for the real world using the most important architectures and libraries.</td>
+</tr>
+<tr>
+  <td><a href="https://learning.oreilly.com/library/view/programming-android-with/9781492062998/">Programming Android with Kotlin</a></td>
+  <td>This book helps Android developers make the transition from Java to Kotlin and shows them how Kotlin provides a true advantage for gaining control over asynchronous computations.</td>
+</tr>
+<tr>
+  <td><a href="https://www.packtpub.com/product/how-to-build-android-apps-with-kotlin/9781838984113">How to Build Android Apps with Kotlin</a></td>
+  <td>This book starts with the fundamentals of app development. Moving ahead, you'll get to grips with testing, learn how to keep your architecture clean, understand how to persist data, and gain basic knowledge of the dependency injection pattern. Finally, you'll see how to publish your apps on the Google Play store.</td>
+</tr>
+<tr>
+  <td><a href="https://www.packtpub.com/application-development/instant-android-fragmentation-management-how-instant">Instant Android Fragmentation Management How-to</a></td>
+  <td>Instant Android Fragmentation Management How-to is a step-by-step guide to writing applications that can run on all devices starting from Android 1.6.</td>
+</tr>
+<tr>
+  <td><a href="https://www.packtpub.com/instant-android-systems-development-how-to">Instant Android Systems Development How-to</a></td>
+  <td>Instant Android Systems Development How-to provides a gentle introduction to the platform internals without sacrificing depth.</td>
+</tr>
+<tr>
+  <td><a href="https://www.packtpub.com/product/android-things-quick-start-guide/9781789341799">Android Things Quick Start Guide</a></td>
+  <td>This book takes you through the basics of IoT and smart devices. It will help you to interact with common IoT device components and learn the underlying protocols. For a simple setup, we will be using Rainbow HAT so that we don't need to do any wiring.</td>
+</tr>
+<tr>
+  <td><a href="https://gumroad.com/l/IuuuN">33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings</a></td>
+  <td>Industry practices used by large Native mobile teams.</td>
+</tr>
+<tr>
+  <td><a href="https://www.oreilly.com/library/view/android-high-performance/9781785288951/">Android High Performance Programming</a></td>
+  <td>Build fast and efficient Android apps that run as reliably as clockwork in a multi-device world.</td>
+</tr>
+<tr>
+  <td><a href="http://newandroidbook.com/">Android Internals: A Confectioner's Cookbook</a></td>
+  <td>Deals exclusively with the internals of the Android operating system.</td>
+</tr>
+<tr>
+  <td><a href="https://store.raywenderlich.com/products/android-apprentice">Android Apprentice</a></td>
+  <td>Android Apprentice is the book for complete beginners to Android development.</td>
+</tr>
+<tr>
+  <td><a href="https://store.raywenderlich.com/products/reactive-programming-with-kotlin">Reactive Programming with Kotlin</a></td>
+  <td>The book that teaches you to use RxJava, RxAndroid and RxKotlin to create complex reactive applications on Android and exercise full control over the library to leverage the full power of reactive programming in your apps.</td>
+</tr>
+<tr>
+  <td><a href="https://store.raywenderlich.com/products/android-test-driven-development-by-tutorials">Android Test-Driven Development by Tutorials</a></td>
+  <td>A book that teaches you to write sustainable, testable apps, as well as to apply testing strategies to legacy projects via Espresso and UI tests, code coverage and refactoring.</td>
+</tr>
+<tr>
+  <td><a href="https://store.raywenderlich.com/products/advanced-android-app-architecture">Advanced Android App Architecture</a></td>
+  <td>In Advanced Android App Architectures, you'll find a diverse and hands-on approach to architecting your apps on Android. Learn how to build scaleable and maintainable architectures in Android and Kotlin, including MVC, MVP, MVI, MVVM and VIPER!</td>
+</tr>
+<tr>
+  <td><a href="https://store.raywenderlich.com/products/data-structures-and-algorithms-in-kotlin">Data Structures & Algorithms in Kotlin</a></td>
+  <td>A book that teaches you the fundamental tools of implementing key data structures in Kotlin, and how to use them to solve algorithms.</td>
+</tr>
+<tr>
+  <td><a href="https://kotlinandroidbook.com/">Kotlin for Android App Development</a></td>
+  <td>This book hits the sweet spot between theory and practice, teaches you the best practices for object-orientation, functional programming, interoperability and more in Kotlin, and gives you a practical intro with hundreds of code listings.</td>
+</tr>
+<tr>
+  <td><a href="https://commonsware.com/Jetpack/">Elements of Android Jetpack</a></td>
+  <td>This book follows in the footsteps of The Busy Coder's Guide to Android Development, to introduce developers to Android app development, focusing on Jetpack. Here you will learn how to set up an Android app for Java or Kotlin, create a user interface, and more!</td>
+</tr>
+<tr>
+  <td><a href="https://commonsware.com/AndExplore/">Exploring Android</a></td>
+  <td>This book has you build an app from the beginning. Whereas traditional programming guides are focused on breadth and depth, this book is focused on “hands-on”, guiding you through the steps to build the app.</td>
+</tr>
+<tr>
+  <td><a href="https://commonsware.com/R/">Elements of Android R</a></td>
+  <td>Each new release brings new opportunities and new challenges for Android developers. Many of the new challenges are extensions of the problems introduced in last year's Android 10. So, if you are worried about further changes to storage or permissions, or you are nervous about new restrictions being placed on developers, this book is for you!</td>
+</tr>
+<tr>
+  <td><a href="https://commonsware.com/Room/">Elements of Android Room</a></td>
+  <td>This book explores Room.</td>
+</tr>
+<tr>
+  <td><a href="https://commonsware.com/Q/">Elements of Android Q</a></td>
+  <td>As usual, Android 10 changed some things that affect developers and apps. This book profiles those changes and helps point out what you need to do to adjust your app to cope with those changes. So, if you are worried about the death of external storage and other things that Android 10 brings with it, this book is for you!</td>
+</tr>
+<tr>
+  <td><a href="https://www.packtpub.com/in/programming/learning-rxjava-3-second-edition">Learning RxJava</a></td>
+  <td>In this book, you'll cover the core fundamentals of reactive programming and learn how to design and implement reactive libraries and applications.</td>
+</tr>
+<tr>
+  <td><a href="https://www.oreilly.com/library/view/gradle-recipes-for/9781491947272/">Gradle Recipes for Android</a></td>
+  <td>This hands-on guide provides a collection of Gradle recipes to help you quickly and easily accomplish the most common build tasks for your Android apps.</td>
+</tr>
+<tr>
+  <td><a href="https://antonioleiva.com/kotlin-android-developers-book/">Kotlin for Android Developers</a></td>
+  <td>Kotlin for Android Developers.</td>
+</tr>
+<tr>
+  <td><a href="https://books.goalkicker.com/AndroidBook/">Android™ Notes for Professionals book</a></td>
+  <td>Android™ Notes for Professionals book.</td>
+</tr>
+<tr>
+  <td><a href="https://www.oreilly.com/library/view/android-system-programming/9781787125360/">Android System Programming</a></td>
+  <td>Build, customize, and debug your own Android system.</td>
+</tr>
+<tr>
+  <td><a href="https://www.oreilly.com/library/view/head-first-android/9781491974049/">Head First Android Development</a></td>
+  <td>You'll learn hands-on how to structure your app, design flexible and interactive interfaces, run services in the background, make your app work on various smartphones and tablets, and much more.</td>
+</tr>
+<tr>
+  <td><a href="https://www.oreilly.com/library/view/professional-android-4th/9781118949528/">Professional Android</a></td>
+  <td>Professional Android, 4th Edition shows developers how to leverage the latest features of Android to create robust and compelling mobile apps</td>
+</tr>
+<tr>
+  <td><a href="https://www.oreilly.com/library/view/android-studio-36/9781800560970/">Android Studio 3.6 Development Essentials</a></td>
+  <td>Update your Android studio skills and build modern Android applications using Java.</td>
+</tr>
+<tr>
+  <td><a href="https://www.oreilly.com/library/view/mastering-firebase-for/9781788624718/">Mastering Firebase for Android Development</a></td>
+  <td>Develop a fully functional dynamic Android application using the latest features of Firebase.</td>
+</tr>
+<tr>
+  <td><a href="https://commonsware.com/Android/">The Busy Coder's Guide to Android Development</a></td>
+  <td>This book contains over 200 chapters, covering everything from the first steps in getting an app going to advanced development techniques. Use the search field in the nav bar to see what is inside this book and the rest of the CommonsWare library!</td>
+</tr>
   </table>
 
 ### YouTube Channels
@@ -260,6 +422,10 @@ App development refers to crafting software for diverse devices, involving plann
          <tr>
         <td><a href="https://www.youtube.com/c/BenAwad97">Ben Awad</a></td>
         <td>Focuses on React Native, React, and other web development technologies, with a mix of tutorials, live coding, and tech discussions.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/watch?v=fis26HvvDII">Android Development for Beginners</a></td>
+        <td>Learn how to develop an android app from scratch in this full course for beginners.</td>
       </tr>
   </table>
 
@@ -340,6 +506,28 @@ App development refers to crafting software for diverse devices, involving plann
         <td>Library for handling localization and internationalization in React Native apps, supporting language and region detection.</td>
       </tr>
 </table>
+### Interview
+  
+  Here are some Interview Preparation Resources.
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.toptal.com/app/interview-questions">10 Essential Mobile App Interview Questions</a></td>
+        <td>This Website consists of curated app development interview questions with the answers pravided by different persons here we can even post  the question which were asked in our interview.Top 10 most frequently asked  questions will  be displayed.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.barraiser.com/interviewing-guides/mobile-app-developer">Interviewing Guides-BarRaiser</a></td>
+        <td>This Website provides the  App developer Interview Guide.Tells about the rounds which were present in the interview,types of questions,tips and tricks to crack mobile app Interview.</td>
+      </tr>
+      
+      
+</table>
+
+
+  
 
 ### Conclusion
 

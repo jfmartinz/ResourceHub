@@ -1,0 +1,20 @@
+name: Add Label
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+jobs:
+  add_label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.issues.listForRepo({ owner: context.repo.owner, repo: context.repo.repo })
+              .then(response => response.data.map(issue => ({ issue_number: issue.number })))
+              .then(issues => Promise.all(issues.map(issue => github.issues.addLabels(context.repo.owner, context.repo.repo, issue.issue_number, ["gssoc"]))))
+            .catch(error => console.error(error));
