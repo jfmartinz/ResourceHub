@@ -7,7 +7,12 @@
     <title>ResourceHub</title>
 
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2" defer></script>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">  
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="loading.css">
+
+
     <script>
         tailwind.config = {
             darkMode: 'class',
@@ -27,7 +32,7 @@
         <div x-data="{ open: true }"
             class="flex flex-col items-center justify-between max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
             <div class="flex flex-row items-center justify-between p-4">
-                <a href="#"
+                <a style="font-family: 'Righteous'; text-transform: none;" href="#"
                     class="text-lg font-semibold tracking-widest text-gray-900 dark:text-slate-200 uppercase rounded-lg dark-mode:text-white focus:outline-none focus:shadow-outline">ResourceHub</a>
                 <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open">
                     <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
@@ -56,7 +61,7 @@
                     href="https://discord.com/channels/1243120700626309131/1243121246217175081" target="_blank"
                     aria-label="Discord">
                     <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                        <path fill="#5865F2"
+                        <path fill="black"
                             d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2763-3.68-.2763-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561 19.911 19.911 0 004.967 2.5225.0777.0777 0 00.0842-.0276c.3841-.5234.7217-1.0782 1.0062-1.657a.076.076 0 00-.0416-.1057 13.1141 13.1141 0 01-1.872-1.0279.077.077 0 01-.0076-.1257c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.0991.246.1981.3728.2924a.077.077 0 01-.0066.1256 12.7578 12.7578 0 01-1.873 1.0279.0766.0766 0 00-.0407.1067c.2845.5788.6221 1.1336 1.0062 1.657a.076.076 0 00.0842.0276 19.9183 19.9183 0 004.967-2.5225.077.077 0 00.0313-.0561c.5004-5.177-.8382-9.6739-3.5485-13.6607a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.955 2.4189-2.1568 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z" />
                     </svg>
                 </a>
@@ -64,7 +69,7 @@
                 <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                     href="https://github.com/jfmartinz/ResourceHub" target="_blank" aria-label="Github">
                     <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                        <path fill="#5865F2"
+                        <path fill="black"
                             d="M12 0a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.1c-3.4.7-4.1-1.6-4.1-1.6-.5-1.2-1.3-1.6-1.3-1.6-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.3 1.8 1.3 1 .2 1.7.7 2 .9.2-.7.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-5.6 0-1.3.4-2.3 1.2-3.2-.1-.3-.5-1.4.1-3 0 0 1-.3 3.4 1.2a11.4 11.4 0 0 1 6.2 0c2.4-1.5 3.4-1.2 3.4-1.2.6 1.6.2 2.7.1 3 .8.9 1.2 1.9 1.2 3.2 0 4.3-2.8 5.3-5.5 5.6.4.4.7 1.1.7 2.1v3c0 .3.2.7.8.6A12 12 0 0 0 12 0Z" />
                     </svg>
                 </a>
@@ -115,7 +120,19 @@
                         on GitHub</a></button>
             </div>
             <div class="mt-20 grid grid-cols-2 md:grid-cols-4 gap-5" id="resources">
-                <div class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "><a
+                <!-- <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
+                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div> -->
+                <!-- <div class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development" target="_blank">Web
                         Development</a></div>
                 <div class="px-4 roundbtn1 py-4  bg-gray-300 dark:bg-gray-800"><a
@@ -144,10 +161,81 @@
                 <div class="px-4 py-2 rounded roundbtn1 dark:bg-gray-800 bg-gray-300 "><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Open%20Source%20Development"
                         target="_blank">Open Source Development</a></div>
-            </div>
+            </div> -->
 
         </div>
     </center>
+    <div class="container">
+        <div class="content">
+            <div class="title-container">
+                <i class="fas fa-link link-icon"></i>
+                <h1 class="title dark:text-white">Organization</h1>
+            </div>
+            <p class="description">
+                ResourceHub is participating in GirlScript Summer of Code (GSSoC), an annual open-source program by the
+                GirlScript Foundation. GSSoC promotes gender diversity and inclusion in tech by enabling participants to
+                contribute to various projects under expert mentorship. We are excited to collaborate with talented
+                individuals and advance our project through this initiative.
+            </p>
+        </div>
+        <div class="logo">
+            <img id="org-logo" src="assets/GSSocLight.png" alt="GirlScript Summer of Code Logo">
+        </div>
+    </div>
+     <!-- License section -->
+    <div class="license-container">
+        <div class="license-content">
+            <div class="license-title-container">
+                <i class="fas fa-link license-link-icon"></i>
+                <h1 class="license-title dark:text-white">License</h1>
+            </div>
+            <p class="license-description">
+                <span>ResourceHub is licensed under the MIT License - see</span><br> the
+                <a href="LICENSE" target="_blank">LICENSE</a> file for details.
+            </p>
+        </div>
+    </div>
+    <!-- Footer Section -->
+<div class="footer-container">
+    <div class="footer-content">
+        <div class="footer-left">
+            <div class="logo-and-title">
+                <img id="logo-image" src="assets/footerLight.png" alt="ResourceHub Image">
+                <h2 class="footer-title">ResourceHub</h2>
+            </div>
+            <p class="footer-description">ResourceHub is an open-source project that serves as a one-stop repository of
+                valuable resources curated by the amazing contributors in the community</p>
+            <div class="footer-icons">
+                <a href="https://github.com/jfmartinz/ResourceHub" target="_blank" aria-label="Github">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path fill="black"
+                            d="M12 0a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.1c-3.4.7-4.1-1.6-4.1-1.6-.5-1.2-1.3-1.6-1.3-1.6-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.3 1.8 1.3 1 .2 1.7.7 2 .9.2-.7.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-5.6 0-1.3.4-2.3 1.2-3.2-.1-.3-.5-1.4.1-3 0 0 1-.3 3.4 1.2a11.4 11.4 0 0 1 6.2 0c2.4-1.5 3.4-1.2 3.4-1.2.6 1.6.2 2.7.1 3 .8.9 1.2 1.9 1.2 3.2 0 4.3-2.8 5.3-5.5 5.6.4.4.7 1.1.7 2.1v3c0 .3.2.7.8.6A12 12 0 0 0 12 0Z" />
+                    </svg>
+                </a>
+                <a href="https://discord.com/channels/1243120700626309131/1243121246217175081" target="_blank"
+                    aria-label="Discord">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path fill="black"
+                            d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2763-3.68-.2763-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561 19.911 19.911 0 004.967 2.5225.0777.0777 0 00.0842-.0276c.3841-.5234.7217-1.0782 1.0062-1.657a.076.0766 0 00-.0416-.1057 13.1141 13.1141 0 01-1.872-1.0279.077.077 0 01-.0076-.1257c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.0991.246.1981.3728.2924a.077.077 0 01-.0066.1256 12.7578 12.7578 0 01-1.873 1.0279.0766.0766 0 00-.0407.1067c.2845.5788.6221 1.1336 1.0062 1.657a.076.076 0 00.0842.0276 19.9183 19.9183 0 004.967-2.5225.077.077 0 00.0313-.0561c.5004-5.177-.8382-9.6739-3.5485-13.6607a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.955 2.4189-2.1568 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+        <div class="footer-right">
+            <ul class="footer-links">
+                <li><a href="https://github.com/jfmartinz/ResourceHub" target="_blank">View on GitHub</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub/stargazers" target="_blank">Star on GitHub</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md" target="_blank">How to Contribute</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub/edit/main/README.md" target="_blank">Edit on GitHub</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub/issues" target="_blank">Feedback</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <p>Copyright &copy; 2024 <a href="#">ResourceHub</a>. All Rights Reserved.</p>
+    </div>
+</div>
+
     <!-- for particle effet -->
 
     <script>
@@ -159,6 +247,7 @@
     </script>
     <script src="particles.js"></script>
     <script src="home.js"></script>
+    <script src="Resourse.js"></script>
 </body>
 
 </html>

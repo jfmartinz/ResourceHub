@@ -38,7 +38,8 @@ This section is dedicated to providing valuable resources for learning and maste
 - [Serverless Architecture](#serverless-architecture)
 - [Specialized Topics](#specialized-topics)
 - [Modern JavaScript Features](#modern-javascript-features)
-- [Projects](#projects)
+- [Design Patterns](#design-patterns)
+- [JavaScript Projects](#javascript-projects)
    - [Beginner Level Projects](#beginner-level-projects)
    - [Intermediate Level Projects](#intermediate-level-projects)
    - [Advance Level Projects](#advance-level-projects)
@@ -916,7 +917,33 @@ Here's the updated table with all resource links added to the Platform/Service c
   </tbody>
 </table>
 
-### Projects
+### Design Patterns
+> Design patterns are typical solutions to commonly occurring problems in software design. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ziyasal/design-patterns-and-idioms-in-es6">es6 design patterns</a></td>
+    <td>A collection of design patterns and idioms implemented in ES6.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sohamkamani/javascript-design-patterns-for-humans">humans</a></td>
+    <td>Ultra simplified explanation to design patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nnupoor/js_designpatterns">design-patterns</a></td>
+    <td>A comprehensive collection of JavaScript design patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book">design patterns by addy osmani</a></td>
+    <td>Essential JavaScript Design Patterns book by Addy Osmani.</td>
+  </tr>
+</table>
+
+### JavaScript Projects
 > Projects which can help you to enhance your development skills and build your resumes.
 
 #### Beginner Level Projects

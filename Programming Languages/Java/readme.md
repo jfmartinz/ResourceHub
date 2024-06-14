@@ -20,6 +20,7 @@ This section is a curated collection of valuable Java and Java development resou
 - [Web Development](#web-development)
 - [Android Development](#android-development)
 - [Networking](#networking)
+- [Design Patterns](#design-patterns)
 - [Books](#books)
 - [Documentation](#documentation)
 - [YouTube](#youtube)
@@ -491,6 +492,39 @@ Here's the updated table:
   </tr>
 </table>
 
+### Design Patterns
+> Design patterns are typical solutions to commonly occurring problems in software design. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://sourcemaking.com/design_patterns">sourcemaking</a></td>
+    <td>Patterns and anti-patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oodesign.com/">oodesign</a></td>
+    <td>Patterns catalog with UML diagrams.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/iluwatar/java-design-patterns">design-patterns</a></td>
+    <td>Comprehensive repository of Java design patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/HugoMatilla/Effective-JAVA-Summary">effective-java patterns</a></td>
+    <td>Patterns from the Effective Java book.</td>
+  </tr>
+  <tr>
+    <td><a href="https://java-design-patterns.com/patterns/">Design patterns implemented in Java</a></td>
+    <td>Java design patterns with implementations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7">Effective-Java-3rd-Joshua-Bloch</a></td>
+    <td>The Effective Java book by Joshua Bloch.</td>
+  </tr>
+</table>
 
 
 ### Books
@@ -874,6 +908,11 @@ Here's the updated table:
     <td>Build a tic-tac-toe game provided its implementation,code and rules to play the game </td>
     <td><a href="https://www.geeksforgeeks.org/tic-tac-toe-game-in-java/">Tic Tac Toe Game in Java </a></td>
   </tr>
+  <tr>
+    <td>Brick Breaker Game</td>
+    <td>It has a small ball that knocks the bricks taking the help of a small platform at the base. The player handles this platform and tries to bounce the ball through that platform. In this project, the scoring depends on the number of bricked-broken, i.e., the more you destroy the bricks, the more you score</td>
+    <td><a href="https://github.com/awaismirza/Java-Game-Brick-Breaker">Bricck Breaker Gamee</a></td>
+  </tr>
 </table>
 
 #### Intermediate Level Projects
@@ -979,6 +1018,10 @@ Here's the updated table:
     <td>QRCodeFX is an exciting  Java project that allows programmers to generate QR codes dynamically. This project leverages JavaFX, 
          a powerful library for building graphical user interfaces, to create an interactive application for generating and displaying 
          QR codes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/KareemE125/Gym_Managment_System_fx-">Gym Managment system</a></td>
+    <td>Gym management system is a windows application with a GUI that enables the gym employees to manage members and trainers data. Also, it enables them to manage activities and classes which are held in the gym.</td>
   </tr>
 </table>
 
