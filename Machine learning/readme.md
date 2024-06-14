@@ -174,6 +174,18 @@
     <td><a href="https://www.geeksforgeeks.org/introduction-to-seaborn-python/">Seaborn</a></td>
     <td>Seaborn is an amazing visualization library for statistical graphics plotting in Python. It provides beautiful default styles and color palettes to make statistical plots more attractive.</td>
   </tr>
+  <tr>
+    <td><a href="https://www.nltk.org/">NLTK (Natural Language Toolkit)</a></td>
+    <td>The NLTK Book provides an extensive guide to using the Natural Language Toolkit (NLTK) for text processing and natural language processing in Python. It covers tokenization, stemming, tagging, parsing, and other NLP tasks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.opencv.org/4.x/">OpenCV</a></td>
+    <td>The OpenCV documentation offers comprehensive tutorials and guides on using OpenCV, an open-source computer vision and machine learning library. It covers image processing, video analysis, and various computer vision algorithms.</td>
+  </tr>
+  <tr>
+    <td><a href="https://lightgbm.readthedocs.io/en/stable/">LightGBM</a></td>
+    <td>The LightGBM documentation provides resources for learning LightGBM, a fast and efficient gradient boosting framework by Microsoft. It covers installation, parameters, training models, and usage examples.</td>
+  </tr>
 </table>
 
 #### Introduction to Machine Learning
@@ -403,9 +415,21 @@
       <td>This video gives you a comprehensive knowledge about K Means clustering algorithm which is a unsupervised machine learning technique used to cluster data points, and this video also helps you to solve a  clustering problem using sklearn, kmeans and python.</td>
     </tr>
     <tr>
-      <td ><a href="https://www.youtube.com/watch?v=ob1yS9g-Zcs&t=4728s">Neural Network</a></td>
-      <td>This video provides a comprehensive introduction to neural networks, covering fundamental concepts, training processes, and practical applications. It explains forward and backward propagation, deep learning techniques, and the use of convolutional neural networks (CNNs) for image processing. Additionally, it demonstrates implementing neural networks using Python, TensorFlow, and other libraries, including examples such as stock price prediction and image classification.</td>
+      <td ><a href="https://www.youtube.com/watch?v=FgakZw6K1QQ&t=2s">Principal Component Analysis (PCA)</a></td>
+      <td>This video by StatQuest with Josh Starmer provides an intuitive and visual explanation of Principal Component Analysis (PCA), a key technique for dimensionality reduction in machine learning. The video covers the mathematical concepts behind PCA and demonstrates how to implement it using Python.</td>
     </tr>
+    <tr>
+      <td ><a href="https://www.youtube.com/watch?v=8QCBl-xdeZI">Hierarchical Clustering</a></td>
+      <td>This video by Data School explains hierarchical clustering, an unsupervised learning algorithm used for grouping similar data points into clusters. It covers different types of linkage methods and shows how to implement hierarchical clustering using Python and SciPy.</td>
+    </tr>
+    <tr>
+      <td ><a href="https://www.youtube.com/watch?v=nyjbcRQ-uQ8&list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv">Reinforcement Learning</a></td>
+      <td>This video by DeepLizard provides a beginner-friendly introduction to reinforcement learning concepts, including agents, environments, rewards, and policies. It also demonstrates implementing basic reinforcement learning algorithms using Python and OpenAI Gym.</td>
+    </tr>
+  <tr>
+  <td ><a href="https://www.youtube.com/watch?v=ob1yS9g-Zcs&t=4728s">Neural Network</a></td>
+      <td>This video provides a comprehensive introduction to neural networks, covering fundamental concepts, training processes, and practical applications. It explains forward and backward propagation, deep learning techniques, and the use of convolutional neural networks (CNNs) for image processing. Additionally, it demonstrates implementing neural networks using Python, TensorFlow, and other libraries, including examples such as stock price prediction and image classification.</td>
+  </tr>
 </table>
 
 
