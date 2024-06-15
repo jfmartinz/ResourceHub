@@ -574,7 +574,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 
 <table width="100%">
       <tr>
-        <th>Resource</th>
+        <th>Resource Name</th>
         <th>Description</th>
       </tr>
        <tr>
