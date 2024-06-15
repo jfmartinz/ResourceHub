@@ -843,7 +843,7 @@ Explore the sections below to find tutorials, frameworks, libraries, tools, proj
 ### Free Courses
 <table width="100%">
  <tr>
-   <th>Course Title</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -873,7 +873,7 @@ Explore the sections below to find tutorials, frameworks, libraries, tools, proj
 
 <table width="100%">
  <tr>
-   <th>Course Title</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
