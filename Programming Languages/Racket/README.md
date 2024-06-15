@@ -126,7 +126,7 @@ Introduction
   </tr>
 </table>
 
-## Macros
+### Macros
 <table width="100%">
   <tr>
     <th>Resource Name</th>
