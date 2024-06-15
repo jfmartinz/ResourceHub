@@ -296,6 +296,10 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       <td> <a href="https://www.youtube.com/@careerfoundry/featured"> Career Foundry</a></td>
       <td> Covers the entire portion of Data Science along with their application, projects, and development. </td>
       </tr>
+      </tr>
+      <td> <a href="https://www.youtube.com/watch?v=SJuR41tlE9k">Data Science Full Course for Beginners</a></td>
+      <td>Data Science Full Course for Beginners by simplilearn is curated in collaboration with real-time industry experts. This Data Science Tutorial will help you learn data science in 12 hours.</td>
+      </tr>
   </table>
 
   ### YouTube Playlists

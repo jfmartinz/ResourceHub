@@ -2,7 +2,7 @@
 
 React.js is a versatile, open-source JavaScript library that has transformed the landscape of front-end web development. Developed by Facebook, React.js enables developers to build dynamic, interactive user interfaces with ease. Its component-based architecture promotes reusability and modularity, allowing developers to efficiently manage complex UIs.
 
-Built with performance in mind, React.js utilizes a virtual DOM (Document Object Model) to optimize rendering, resulting in faster updates and improved user experience. Its declarative syntax simplifies the process of building UI components, making it easier to reason about the application's state and behavior.
+Built with performance in mind, React.js utilizes a virtual DOM (Document Object Model) to optimize rendering, resulting in faster updates and improved user experience. Its declarative syntax simplifies the process of building UI components, making it easier to reason about the application's state and behaviour.
 
 React.js is widely adopted in the industry for building single-page applications, progressive web apps, and even mobile applications using frameworks like React Native. Its strong ecosystem, including tools like Redux for state management and React Router for routing, further enhances its capabilities and developer experience.
 
@@ -11,7 +11,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials)
+- [ReactJS](#reactjs)
   - [Introduction](#introduction)
   - [Installation](#installation)
   - [Basics of React](#basics-of-react)
@@ -22,7 +22,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
   - [Other React topics](#other-react-topics)
 - [React DOM](#react-dom)
 - [IDEs for React.js](#ides-for-reactjs)
-- [Online Editors for React.js](#online-editors-for-reactjs)
+- [Online Editors](#online-editors)
 - [Documentation](#documentation)
 - [Web Frameworks](#web-frameworks)
 - [Libraries](#libraries)
@@ -32,26 +32,31 @@ Whether you're a beginner looking to get started with React.js or an experienced
   - [HTTP client libraries](#http-client-libraries)
 - [Content API](#content-api)
 - [Projects](#projects)
-- [Communities](#communities)
-  - [Discord](#discord)
-  - [Reddit](#reddit)
-  - [Other](#other)
-- [Version Control](#version-control)
-- [Courses](#courses)
-  - [Free](#free-courses)
-  - [Paid](#paid-courses)
+  - [Beginner Projects](#beginner-projects)
+  - [Intermediate Projects](#intermediate-projects)
+  - [Advanced Projects](#advanced-projects)
 - [YouTube](#youtube)
   - [YouTube Channels](#youtube-channels)
   - [YouTube Playlist](#youtube-playlist)
-- [Books](#books)
-  - [Free](#free-books)
-  - [Paid](#paid-books)
-- [Official Documentation](#official-documentation)
+- [Version Control](#version-control)
+- [Courses](#courses)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
+- [Additional Resources](#additional-resources)
+  - [Books](#books)
+     - [Free Books](#free-books)
+     - [Paid Books](#paid-books)
+  - [Cheatsheets](#cheatsheets)
+  - [Documentation](#documentation)
+  - [Communities](#communities)
+    - [Discord](#discord)
+    - [Reddit](#reddit)
+    - [Other](#other)
 - [Conclusion](#conclusion)
 
 ### Roadmap
 
-> This roadmap helps you become a skillful React developer.
+> This roadmap helps you become a skilful React developer.
 
 <table width="100%">
       <tr>
@@ -60,13 +65,13 @@ Whether you're a beginner looking to get started with React.js or an experienced
       </tr>
        <tr>
         <td><a href="https://roadmap.sh/react">Roadmap for React</a></td>
-        <td>This roadmap gives you a clear learning path for react from basic to advance level.</td>
+        <td>This roadmap gives you a clear learning path for reacting from basic to advanced level.</td>
       </tr>
 </table>
 
-### Tutorials
+### ReactJS
 
-> These tutorials help you in becoming a skillful React deverloper.
+> These tutorials help you become a skilful React developer.
 
 #### Introduction
 
@@ -81,11 +86,11 @@ Whether you're a beginner looking to get started with React.js or an experienced
       </tr>
       <tr>
         <td><a href="https://www.w3schools.in/react/history">History of React</a></td>
-        <td>This link likely directs to a page on the W3Schools.in website dedicated to the history of React. It probably provides a timeline or overview of significant events, milestones, and updates in the development of React since its inception. </td>
+        <td>This link likely directs to a page on the W3Schools. website dedicated to the history of React. It probably provides a timeline or overview of significant events, milestones, and updates in the development of React since its inception. </td>
       </tr>
       <tr>
         <td><a href="https://legacy.reactjs.org/versions/">React Versions</a></td>
-        <td>This lead to a section on the ReactJS website dedicated to its legacy versions. Here, users can likely find documentation, release notes, and resources for older versions of the React library. This can be particularly useful for developers who are maintaining projects that use older versions of React and need to reference specific documentation or features.</td>
+        <td>This led to a section on the ReactJS website dedicated to its legacy versions. Here, users can likely find documentation, release notes, and resources for older versions of the React library. This can be particularly useful for developers who are maintaining projects that use older versions of React and need to reference specific documentation or features.</td>
       </tr>
 </table>
 
@@ -156,7 +161,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
       </tr>
       <tr>
         <td><a href="https://legacy.reactjs.org/docs/handling-events.html">Handling React Events</a></td>
-        <td>This page on the legacy React documentation explains how to manage events in React applications. It highlights key differences from traditional DOM event handling, such as using camelCase for event names and passing functions directly as event handlers. The page covers preventing default behaviors, managing the this context in callbacks, and different ways to pass arguments to event handlers. </td>
+        <td>This page on the legacy React documentation explains how to manage events in React applications. It highlights key differences from traditional DOM event handling, such as using camelCase for event names and passing functions directly as event handlers. The page covers preventing default behaviours, managing this context in callbacks, and different ways to pass arguments to event handlers. </td>
       </tr>
       <tr>
         <td><a href="https://react.dev/learn/conditional-rendering">Conditional Rendering</a></td>
@@ -204,7 +209,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
       </tr>
        <tr>
         <td><a href="https://css-tricks.com/different-ways-to-write-css-in-react/">Ways to write CSS in React</a></td>
-        <td>The CSS-Tricks article "Different Ways to Write CSS in React" explores various approaches to applying CSS styles in React applications. It covers different methods such as inline styles, external stylesheets, CSS modules, styled-components, and CSS-in-JS libraries like Emotion ,Styled JSX and more. </td>
+        <td>The CSS-Tricks article "Different Ways to Write CSS in React" explores various approaches to applying CSS styles in React applications. It covers different methods such as inline styles, external stylesheets, CSS modules, styled components, and CSS-in-JS libraries like Emotion, Styled JSX and more. </td>
       </tr>
       
 </table>
@@ -222,7 +227,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
       </tr>
        <tr>
         <td><a href="https://www.freecodecamp.org/news/how-to-use-react-router-version-6/">Setting up React Router</a></td>
-        <td>This article likely guides readers through the usage of React Router version 6, a widely-used library for handling routing in React applications. React Router v6 introduces several changes and improvements over previous versions, including a more declarative routing approach and simplified API. </td>
+        <td>This article likely guides readers through the usage of React Router version 6, a widely used library for handling routing in React applications. React Router v6 introduces several changes and improvements over previous versions, including a more declarative routing approach and simplified API. </td>
       </tr>
       <tr>
         <td><a href="https://www.geeksforgeeks.org/route-component-in-react-router/">Route Componet</a></td>
@@ -314,7 +319,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
  </tr>
 </table>
 
-### Online Editors for React.js
+### Online Editors
 
 <table width="100%">
  <tr>
@@ -382,7 +387,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
  </tr>
  <tr>
    <td><a href="https://formik.org/">Formik</a></td>
-   <td>Formik is a form library for React applications that helps manage form state, handle form submission, validation, and error handling. It simplifies the process of building and managing complex forms in React.</td>
+   <td>Formik is a form library for React applications that help manage form state, handle form submission, validation, and error handling. It simplifies the process of building and managing complex forms in React.</td>
  </tr>
  <tr>
    <td><a href="https://react-query.tanstack.com/">React Query</a></td>
@@ -405,7 +410,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
  </tr>
  <tr>
    <td><a href="https://testing-library.com/docs/react-testing-library/intro/">React Testing Library</a></td>
-   <td>Overview of React Testing Library, a simple and complete testing library for React applications. It encourages writing tests that closely resemble how users interact with your application and focuses on testing behavior rather than implementation details.</td>
+   <td>Overview of React Testing Library, a simple and complete testing library for React applications. It encourages writing tests that closely resemble how users interact with your application and focuses on testing behaviour rather than implementation details.</td>
  </tr>
  <tr>
    <td><a href="https://enzymejs.github.io/enzyme/">Enzyme</a></td>
@@ -514,7 +519,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
   </tr>
   <tr>
       <td><a href="https://github.com/kweiberth/react-todo-list">React Todo List</a></td>
-      <td>The React Todo List project is a minimalist task management application built with React.js. Users can add, delete, and mark tasks as completed, with changes reflected in real-time. The project demonstrates fundamental React concepts such as state management, event handling, and component lifecycle methods, making it a great starting point for learning React basics.</td>
+      <td>The React Todo List project is a minimalist task management application built with React.js. Users can add, delete, and mark tasks as completed, with changes reflected in real time. The project demonstrates fundamental React concepts such as state management, event handling, and component lifecycle methods, making it a great starting point for learning React basics.</td>
   </tr>
   <tr>
       <td><a href="https://github.com/mwasikz/delicieux-recipe-finder">React Recipe Finder</a></td>
@@ -522,7 +527,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
   </tr>
   <tr>
       <td><a href="https://github.com/piyush-eon/react-entertainment-hub">ReactEntertainement hub </a></td>
-      <td>This project is a movie browsing application powered by React.js. It allows users to search for movies, view details such as ratings and summaries, and watch trailers directly within the app. The project integrates with The Movie Database (TMDb) API for fetching movie data and showcases how to build a responsive user interface with React components.</td>
+      <td>This project is a movie-browsing application powered by React.js. It allows users to search for movies, view details such as ratings and summaries, and watch trailers directly within the app. The project integrates with The Movie Database (TMDb) API for fetching movie data and showcases how to build a responsive user interface with React components.</td>
   </tr>
   <tr>
       <td><a href="https://dev.to/nadim_ch0wdhury/how-to-build-a-chat-messaging-app-in-reactjs-4aie">React Chat Application</a></td>
@@ -530,57 +535,11 @@ Whether you're a beginner looking to get started with React.js or an experienced
   </tr>
 </table>
 
-### Communities
+### YouTube
 
-> These communities help you solve personal doubts, get new ideas and also to keep updated time to time on React trends.
+> These Resources by youtube help you understand React JS even more clearly.
 
-#### Discord
-
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td> <a href="https://discord.gg/reactiflux">Reactiflux</a></td>
-        <td>A large and active community for React developers, offering channels for help, discussion, and resources on React and related technologies.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://discord.gg/frontend">Frontend Developers</a></td>
-        <td>This discrod channel Focused on frontend development, this community has discussions on various frontend frameworks including React.</td>
-      </tr>
-      <tr>
-        <td><a href="https://discord.com/invite/reactiflux">ReactJS Reactifulx</a></td>
-        <td>The Reactiflux Discord community is a large and active forum for React developers to discuss topics related to React and JavaScript. It provides a space for developers to seek help, share knowledge, and connect with others in the community. </td>
-      </tr>
-</table>
-
-#### Reddit
-
-<table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td> <a href="https://www.reddit.com/r/reactjs/">r/reactjs</a></td>
-        <td>The /r/reactjs is a subreddit dedicated to discussions, questions, and news about React and its ecosystem.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.reddit.com/r/javascript/">r/javascript</a></td>
-        <td>This subreddit for JavaScript developers, with discussions often focusing on popular frameworks and libraries including React.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.reddit.com/r/frontend/">r/frontend</a></td>
-        <td>This is a subreddit focused on frontend development, where React is a frequent topic of discussion.</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.reddit.com/r/reactjs/?">r/reactjs</a></td>
-        <td>The ReactJS subreddit is a community for discussing and sharing information about React, a JavaScript library for building user interfaces. Users can post questions, share resources, and discuss best practices, updates, and tools related to React development. The community is active and provides support for both beginners and experienced developers. </td>
-      </tr>
-</table>
-
-#### Other
+#### YouTube Channels
 
 <table width="100%">
       <tr>
@@ -588,19 +547,53 @@ Whether you're a beginner looking to get started with React.js or an experienced
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://dev.to/t/react">React DEV Community</a></td>
-        <td>The React tag on DEV Community features articles and discussions about various aspects of React development, including live feedback implementation, resolving rendering and animation issues, data fetching with TanStack Query, deploying React apps, state management techniques and more. </td>
+        <td><a href="https://www.youtube.com/@GreatStackDev/videos">GreatStack</a></td>
+        <td>This GreatStackDev's YouTube channel serves as a valuable resource for individuals passionate about web development and software engineering, offering educational content, practical guidance, and opportunities for community engagement. </td>
       </tr>
        <tr>
-        <td><a href="https://hashnode.com/n/reactjs">React Hashnode</a></td>
-        <td>The React.js page on Hashnode features a wide range of articles and discussions about React development. Topics include building multi-container applications with Docker Compose, routing and navigation in React, using props and the useContext Hook, essential JavaScript fundamentals for React, and integrating YouTube videos into React applications. </td>
+        <td><a href="https://www.youtube.com/@IsraTech1/videos">IsraTech</a></td>
+        <td>This IsraTech's YouTube channel serves as a valuable resource for individuals interested in technology, programming, and software development, offering educational content, practical advice, and opportunities for community engagement. </td>
       </tr>
-      
+      <tr>
+        <td><a href="https://www.youtube.com/@ZAINKEEPSCODE/videos">ZAINKEEPSCODE</a></td>
+        <td>The YouTube channel "ZAINKEEPSCODE" offers a range of content focused on programming tutorials, coding challenges, and software development. From JavaScript and React.js tutorials to project walkthroughs and coding tips, ZAINKEEPSCODE provides valuable resources for beginner and intermediate developers looking to enhance their coding skills and knowledge. </td>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/@LamaDev/videos">LamaDev</a></td>
+        <td>This YouTube channel "LamaDev" offers a variety of content focused on web development, programming tutorials, and technology-related topics,it provides the valuable resources for anyone interested in learning web development, improving their coding skills, and staying up-to-date with the latest trends and technologies in the field.</td>
+      </tr>
 </table>
+
+#### Youtube Playlist
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3">ReactJS Tutorial for Beginners</a></td>
+        <td>This YouTube playlist by Codevolution features a collection of tutorials focusing on React.js development. Covering a variety of topics ranging from React basics to more advanced concepts like state management, routing, and integrating with external APIs, these tutorials provide a comprehensive learning experience for individuals interested in mastering React.js</td>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d">Full Modern React Tutorial</a></td>
+        <td>This Youtube playlist by Net Ninja provides a full React tutorial series,it will take you from novice to ninja. This playlist covers all the basics - what React is, setting up, components & routing - before diving into state management, async code, built-in hooks & custom hooks too. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza">React JS Tutorial For Beginners 2024</a></td>
+        <td>This Youtube playlist by Code Stoic is collection of videos for learning react js, this playlist covers a wide range of topics starting rrom Introduction to react, installation, creating a react app, how a react app works and more. </td>
+      </tr>
+       <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR">Master React JS by Building Real Projects</a></td>
+        <td>This Youtube playlist by JavaScript Mastery is Series of real-world projects that you can learn React with. This playlist covers topics such as React hooks, React API data fetching, React Hooks, proper React project structure and much more.</td>
+      </tr>
+</table>
+
+
 
 ### Version Control
 
-> These version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code. 
+> These version control systems are a category of software tools that help in recording changes made to files by keeping track of modifications done in the code. 
 
 <table width="100%">
   <tr>
@@ -609,11 +602,11 @@ Whether you're a beginner looking to get started with React.js or an experienced
   </tr>
   <tr>
     <td><a href="https://git-scm.com/doc">Official Git Documentation</a></td>
-    <td>This official documentation for Git, helps you to improves your skill and knowledge on version control by covering topics like installation, basic concepts, advanced usage and many more.</td>
+    <td>This official documentation for Git, helps you to improve your skill and knowledge on version control by covering topics like installation, basic concepts, advanced usage and many more.</td>
   </tr>
   <tr>
     <td><a href="https://www.atlassian.com/git/tutorials">Atlassian Git Tutorials</a></td>
-    <td>These tutorials from Atlassian gives you the clear understanding on Git basics, including commands and workflows.</td>
+    <td>These tutorials from Atlassian give you a clear understanding of Git basics, including commands and workflows.</td>
   </tr>
   <tr>
     <td><a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories">GitHub Docs - About Repositories</a></td>
@@ -623,7 +616,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
 
 ### Courses
 
-> These courses help you learn React in a structure way and help you improve your skills.
+> These courses help you learn React in a structured way and help you improve your skills.
 
 #### Free Courses
 
@@ -668,65 +661,14 @@ Whether you're a beginner looking to get started with React.js or an experienced
       </tr>
 </table>
 
-### YouTube
 
-> These Resources by youtube help you understand React JS even more clearly.
+### Additional Resources
 
-#### YouTube Channels
-
-<table width="100%">
-      <tr>
-        <th>Resource</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://www.youtube.com/@GreatStackDev/videos">GreatStack</a></td>
-        <td>This GreatStackDev's YouTube channel serves as a valuable resource for individuals passionate about web development and software engineering, offering educational content, practical guidance, and opportunities for community engagement. </td>
-      </tr>
-       <tr>
-        <td><a href="https://www.youtube.com/@IsraTech1/videos">IsraTech</a></td>
-        <td>This IsraTech's YouTube channel serves as a valuable resource for individuals interested in technology, programming, and software development, offering educational content, practical advice, and opportunities for community engagement. </td>
-      </tr>
-      <tr>
-        <td><a href="https://www.youtube.com/@ZAINKEEPSCODE/videos">ZAINKEEPSCODE</a></td>
-        <td>The YouTube channel "ZAINKEEPSCODE" offers a range of content focused on programming tutorials, coding challenges, and software development. From JavaScript and React.js tutorials to project walkthroughs and coding tips, ZAINKEEPSCODE provides valuable resources for beginner and intermediate developers looking to enhance their coding skills and knowledge. </td>
-      </tr>
-       <tr>
-        <td><a href="https://www.youtube.com/@LamaDev/videos">LamaDev</a></td>
-        <td>This YouTube channel "LamaDev" offers a variety of content focused on web development, programming tutorials, and technology-related topics,it provides the valuable resources for anyone interested in learning web development, improving their coding skills, and staying up-to-date with the latest trends and technologies in the field.</td>
-      </tr>
-</table>
-
-### Youtube Playlist
-
-<table width="100%">
-      <tr>
-        <th>Resource</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3">ReactJS Tutorial for Beginners</a></td>
-        <td>This YouTube playlist by Codevolution features a collection of tutorials focusing on React.js development. Covering a variety of topics ranging from React basics to more advanced concepts like state management, routing, and integrating with external APIs, these tutorials provide a comprehensive learning experience for individuals interested in mastering React.js</td>
-      </tr>
-       <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d">Full Modern React Tutorial</a></td>
-        <td>This Youtube playlist by Net Ninja provides a full React tutorial series,it will take you from novice to ninja. This playlist covers all the basics - what React is, setting up, components & routing - before diving into state management, async code, built-in hooks & custom hooks too. </td>
-      </tr>
-      <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza">React JS Tutorial For Beginners 2024</a></td>
-        <td>This Youtube playlist by Code Stoic is collection of videos for learning react js, this playlist covers a wide range of topics starting rrom Introduction to react, installation, creating a react app, how a react app works and more. </td>
-      </tr>
-       <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR">Master React JS by Building Real Projects</a></td>
-        <td>This Youtube playlist by JavaScript Mastery is Series of real-world projects that you can learn React with. This playlist covers topics such as React hooks, React API data fetching, React Hooks, proper React project structure and much more.</td>
-      </tr>
-</table>
-
-### Books
+#### Books
 
 > These books introduces you to the knowleadge that courses cannot teach.
 
-#### Free Books
+##### Free Books
 
 <table width="100%">
       <tr>
@@ -751,7 +693,7 @@ Whether you're a beginner looking to get started with React.js or an experienced
       </tr>
 </table>
 
-#### Paid Books
+##### Paid Books
 
 <table width="100%">
       <tr>
@@ -772,7 +714,46 @@ Whether you're a beginner looking to get started with React.js or an experienced
       </tr>
 </table>
 
-### Official Documentation
+
+#### Cheatsheets
+> Here are some react cheatsheets which you may refer.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://devhints.io/react">React.js cheatsheet</a></td>
+    <td>A comprehensive cheatsheet for React.js.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/react-cheat-sheet/">GFG - React Cheat Sheet</a></td>
+    <td>A React cheat sheet provided by GeeksforGeeks.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/codedthemes/reactjs-cheatsheet-the-ultimate-guide-29gf">React.js Cheatsheet – The Ultimate Guide</a></td>
+    <td>An ultimate guide to React.js cheatsheet.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet">Learn React: JSX Cheatsheet</a></td>
+    <td>A cheatsheet specifically focused on JSX in React.</td>
+  </tr>
+  <tr>
+    <td><a href="https://dev.to/zinox9/react-cheatsheet-3eao">React CheatSheet</a></td>
+    <td>A React cheatsheet for quick reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://onecompiler.com/cheatsheets/reactjs">React JS - Cheat Sheets</a></td>
+    <td>A collection of cheat sheets for React.js.</td>
+  </tr>
+  <tr>
+    <td><a href="https://upmostly.com/ultimate-reactjs-cheat-sheet">Ultimate React.js Cheat Sheet</a></td>
+    <td>An ultimate cheat sheet for React.js.</td>
+  </tr>
+</table>
+
+#### Documentation
 
 > These Official Documentation teaches you all the topics in depth without going to any third party tutorials.
 
@@ -805,6 +786,74 @@ Whether you're a beginner looking to get started with React.js or an experienced
         <td><a href="https://mui.com/material-ui/getting-started/overview/">Material-UI</a></td>
         <td>The Material-UI documentation offers extensive resources for learning Material-UI, a popular React UI framework implementing Google’s Material Design. It covers essential concepts and provides practical examples to help you build beautiful and responsive user interfaces, focusing on customizability and accessibility.</td>
     </tr>
+</table>
+
+#### Communities
+
+> These communities help you solve personal doubts, get new ideas and also to keep updated from time to time on React trends.
+
+##### Discord
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://discord.gg/reactiflux">Reactiflux</a></td>
+        <td>A large and active community for React developers, offering channels for help, discussion, and resources on React and related technologies.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://discord.gg/frontend">Frontend Developers</a></td>
+        <td>This discord channel Focused on frontend development, this community has discussions on various frontend frameworks including React.</td>
+      </tr>
+      <tr>
+        <td><a href="https://discord.com/invite/reactiflux">ReactJS Reactifulx</a></td>
+        <td>The Reactiflux Discord community is a large and active forum for React developers to discuss topics related to React and JavaScript. It provides a space for developers to seek help, share knowledge, and connect with others in the community. </td>
+      </tr>
+</table>
+
+##### Reddit
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td> <a href="https://www.reddit.com/r/reactjs/">r/reactjs</a></td>
+        <td>The /r/reactjs is a subreddit dedicated to discussions, questions, and news about React and its ecosystem.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.reddit.com/r/javascript/">r/javascript</a></td>
+        <td>This subreddit is for JavaScript developers, with discussions often focusing on popular frameworks and libraries including React.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.reddit.com/r/frontend/">r/frontend</a></td>
+        <td>This is a subreddit focused on frontend development, where React is a frequent topic of discussion.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/reactjs/?">r/reactjs</a></td>
+        <td>The ReactJS subreddit is a community for discussing and sharing information about React, a JavaScript library for building user interfaces. Users can post questions, share resources, and discuss best practices, updates, and tools related to React development. The community is active and provides support for both beginners and experienced developers. </td>
+      </tr>
+</table>
+
+##### Other
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://dev.to/t/react">React DEV Community</a></td>
+        <td>The React tag on DEV Community features articles and discussions about various aspects of React development, including live feedback implementation, resolving rendering and animation issues, data fetching with TanStack Query, deploying React apps, state management techniques and more. </td>
+      </tr>
+       <tr>
+        <td><a href="https://hashnode.com/n/reactjs">React Hashnode</a></td>
+        <td>The React.js page on Hashnode features a wide range of articles and discussions about React development. Topics include building multi-container applications with Docker Compose, routing and navigation in React, using props and the useContext Hook, essential JavaScript fundamentals for React, and integrating YouTube videos into React applications. </td>
+      </tr>
+      
 </table>
 
 ## Conclusion

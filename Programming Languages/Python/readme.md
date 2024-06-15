@@ -24,6 +24,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
    - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)<br>
    - [Online Interpreters/Compilers](#online-interpreters)<br>
 - [Technologies](#technologies)<br>
+- [Design Patterns](#design-patterns)
 - [Courses](#courses)<br>
    - [Free Courses](#free-courses)<br>
    - [Paid Courses](#paid-courses)<br>
@@ -537,6 +538,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td><a href="https://replit.com/languages/python3">replit.com</a></td>
         <td>This Replit's Online Python Compiler is a collaborative tool that allows users to write, run, and share Python code directly in their browser. It features real-time collaboration, making it ideal for teamwork and learning environments. Users can also deploy their projects easily</td>
       </tr>
+      <tr>
+        <td><a href="https://pythontutor.com/">pythontutor.com</a></td>
+        <td>Pythontutor.com is an educational tool designed to help users understand Python (and other programming languages) through visualizations of code execution. It allows users to write, visualize, and debug code step-by-step, making it easier to grasp programming concepts and track how data structures change over time.</td>
+      </tr>
 </table>
 
 ### Technologies
@@ -581,6 +586,37 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>Framework for web scraping that provides tools to extract data from websites, process them, and store them in the desired format.</td>
       </tr>
   </table>
+
+### Design Patterns
+> Design patterns are typical solutions to commonly occurring problems in software design. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/faif/python-patterns">design-patterns</a></td>
+    <td>A collection of design patterns implemented in Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tylerlaberge/PyPattyrn">PyPattyrn</a></td>
+    <td>A simple library for implementing common design patterns in Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://python-patterns.guide/">Python Design Patterns</a></td>
+    <td>A guide to design patterns in Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://refactoring.guru/design-patterns/python">Design Patterns in Python</a></td>
+    <td>An overview of design patterns implemented in Python on Refactoring Guru.</td>
+  </tr>
+  <tr>
+    <td><a href="https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed">Django Design Patterns and Best Practices</a></td>
+    <td>A book about design patterns and best practices in Django.</td>
+  </tr>
+</table>
+
   
 ### Courses
 > You can consider these courses for learning Python :
@@ -978,6 +1014,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
   <tr>
     <td><a href="https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet">Python Cheat Sheet for Beginners</a></td>
     <td>A beginner-friendly Python cheat sheet provided by DataCamp, ideal for those new to the language.</td>
+  </tr>
+<tr>
+    <td><a href="https://zerotomastery.io/cheatsheets/python-cheat-sheet/">Python Cheat Sheet </a></td>
+    <td>A Python cheat sheet by Zero to Mastery to help beginners learn and remember common Python syntax.</td>
   </tr>
 </table>
 

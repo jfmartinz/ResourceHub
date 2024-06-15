@@ -791,6 +791,14 @@ This section serves as a curated collection of valuable resources for learning a
     <td><a href="https://www.freecodecamp.org/news/the-c-beginners-handbook/">freeCodeCamp - The C Beginner's Handbook</a></td>
     <td>A beginner's guide to learning C programming, starting from the basics and progressing to advanced topics.</td>
   </tr>
+  <tr>
+    <td><a href="https://www.w3schools.com/c/index.php">W3Schools - C Tutorial</a></td>
+    <td>W3Schools offers a comprehensive C tutorial that is ideal for beginners and intermediate learners looking to understand the C programming language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.learn-c.org/">learn-c.org</a></td>
+    <td>Learn-C.org is an interactive and user-friendly platform dedicated to teaching the C programming language.</td>
+  </tr>
 </table>
 
 ### C CheatSheets

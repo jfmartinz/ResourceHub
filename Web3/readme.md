@@ -624,6 +624,20 @@ develop software that works with them</td>
         <td>
 Blockchain Supply chain management plays a critical role in ensuring efficient operations and maintaining consumer trust. This project focuses on developing and deploying a decentralized application (DApp) powered by blockchain technology to streamline supply chain management processes. </td>
       </tr>
+       <tr>
+        <td><a href="https://youtu.be/fghqq3-P3x0?si=xvgcZ0NiSYdFaCPy">Decentralize Google Drive Project</a></td>
+        <td> This project facilitates decentralized image upload and sharing on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.</td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/X1ahXNYkpL8?si=kMNrjlvIaKx0Mbhe">Web 3.0 Amazon Clone</a></td>
+        <td> This project facilitates decentralized  Amazon Clone Step-By-Step with Solidity (Writing Smart Contracts & Tests), Javascript (React & Testing), Hardhat (Development Framework),Ethers.js (Blockchain Interaction), React.js (Frontend Framework).</td>
+      </tr>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/BDCT6TYLYdI?si=dLHEYc5TndOlV-F6">Blockchain Crowdfunding Platform </a></td>
+        <td> With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and, most importantly, the ability to create create, view, and donate to crowdfunding campaigns directly through the blockchain; this course is perfect to fully understand how web3, blockchain, Solidity, and smart contracts truly work behind the scenes.</td>
+      </tr>
+
 </table>
 
 ### Interview

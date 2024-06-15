@@ -20,6 +20,7 @@ This section is a curated collection of valuable Java and Java development resou
 - [Web Development](#web-development)
 - [Android Development](#android-development)
 - [Networking](#networking)
+- [Design Patterns](#design-patterns)
 - [Books](#books)
 - [Documentation](#documentation)
 - [YouTube](#youtube)
@@ -491,6 +492,39 @@ Here's the updated table:
   </tr>
 </table>
 
+### Design Patterns
+> Design patterns are typical solutions to commonly occurring problems in software design. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code.
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://sourcemaking.com/design_patterns">sourcemaking</a></td>
+    <td>Patterns and anti-patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oodesign.com/">oodesign</a></td>
+    <td>Patterns catalog with UML diagrams.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/iluwatar/java-design-patterns">design-patterns</a></td>
+    <td>Comprehensive repository of Java design patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/HugoMatilla/Effective-JAVA-Summary">effective-java patterns</a></td>
+    <td>Patterns from the Effective Java book.</td>
+  </tr>
+  <tr>
+    <td><a href="https://java-design-patterns.com/patterns/">Design patterns implemented in Java</a></td>
+    <td>Java design patterns with implementations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7">Effective-Java-3rd-Joshua-Bloch</a></td>
+    <td>The Effective Java book by Joshua Bloch.</td>
+  </tr>
+</table>
 
 
 ### Books
@@ -1035,6 +1069,10 @@ Here's the updated table:
   <tr>
     <td><a href="https://www.javatpoint.com/corejava-interview-questions"> Javapoint - 300 Core Java Interview Questions</a></td>
     <td> Frequently asked questions by the interviewer for Java developer position.</td>
+  </tr>
+  <tr>
+  <td><a href="https://www.simplilearn.com/tutorials/java-tutorial/java-interview-questions">Simplilearn-180 Core Java Interview Questions</a></td>
+  <td>This article contains some of the most important Java interview questions for freshers</td>
   </tr>
 </table>
 
