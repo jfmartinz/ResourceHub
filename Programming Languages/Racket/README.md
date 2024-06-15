@@ -249,7 +249,7 @@ Introduction
 
 ## Courses
 
-Here are courses you may consider:
+> Here are courses you may consider:
 <table width="100%">
   <tr>
     <th>Resource Name</th>
