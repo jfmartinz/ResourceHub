@@ -84,7 +84,7 @@ Introduction
   </tr>
 </table>
 
-## Functions
+### Functions
 
 <table width="100%">
   <tr>
