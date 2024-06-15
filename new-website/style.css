@@ -66,6 +66,7 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
+  user-select: none;
 }
 
 /*
