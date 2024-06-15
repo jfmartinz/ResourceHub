@@ -24,7 +24,7 @@ Table of Contents
 
 ## Roadmap
 
-Racket roadmap outlines the essential steps and skills needed to become proficient in Racket programming.
+> Racket roadmap outlines the essential steps and skills needed to become proficient in Racket programming.
 <table width="100%" id="Roadmap">
   <tr>
     <th>Resource Name</th>
