@@ -59,7 +59,7 @@ Introduction
   </tr>
 </table>
 
-## Basics
+### Basics
 
 <table width="100%">
   <tr>
