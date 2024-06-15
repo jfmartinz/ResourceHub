@@ -220,7 +220,7 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </table>
 
 ### Algorithms by Languages
-Here are some   Sorting and Searching Algorithms resources and their Implementation in different Languages.
+> Here are some   Sorting and Searching Algorithms resources and their Implementation in different Languages.
 ### JavaScript
 <table width="100%" id="algorithms-by-languages">
 <tr>
