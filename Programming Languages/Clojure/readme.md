@@ -24,16 +24,23 @@ This currated collection of resources are fairly comprehensive and covers variou
   - [Testing](#testing)
   - [Debugging](#debugging)
 - [Youtube](#youtube)
-- [Books](#books)
+  - [Youtube Channels](#youtube-channels)
+  - [Youtube Playlists](#youtube-playlists)
 - [Courses](#courses)
-- [Communities](#communities)
-- [Websites](#websites)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
+- [Additional Resources](#additional-resources)
+  - [Communities](#communities)
+  - [Websites](#websites)
+  - [Books](#books)
+    - [Free Books](#free-books)
+    - [Paid Books](#paid-books)
 - [Conclusion](#conclusion)
 
 ### Clojure
 > This currated collection of resources are fairly comprehensive and covers various functions involved in Clojure.
 
-### Introduction
+#### Introduction
 
 <table>
   <tr>
@@ -78,7 +85,7 @@ This currated collection of resources are fairly comprehensive and covers variou
   </tr>
 </table>
 
-### Fundamentals
+#### Fundamentals
 
 <table>
   <tr>
@@ -139,7 +146,7 @@ This currated collection of resources are fairly comprehensive and covers variou
   </tr>
 </table>
 
-### Collections
+#### Collections
 
 <table>
   <tr>
@@ -165,7 +172,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 </table>
 
 
-### Namespaces and Libraries
+#### Namespaces and Libraries
 
 <table>
   <tr>
@@ -411,7 +418,7 @@ This currated collection of resources are fairly comprehensive and covers variou
 > Resources for testing and debugging Clojure code, including libraries, tools, and techniques.
 
 
-### Testing
+#### Testing
 <table>
   <tr>
     <th>Resource Name</th>
@@ -443,7 +450,7 @@ This currated collection of resources are fairly comprehensive and covers variou
   </tr>
 </table>
 
-### Debugging
+#### Debugging
 
 <table>
   <tr>
@@ -518,7 +525,11 @@ This currated collection of resources are fairly comprehensive and covers variou
 
 ### Youtube
 > Curated list of YouTube channels and videos for learning Clojure concepts and practices.
+#### Youtube Channels
+<table>
+</table>
 
+#### Youtube Playlists
 <table>
   <tr>
     <th>Resource Name</th>
@@ -558,73 +569,39 @@ This currated collection of resources are fairly comprehensive and covers variou
   </tr>
 </table>
 
-### Books
-> Recommendations for books covering Clojure programming, ranging from beginner to advanced levels.
-
-<table>
-  <tr>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://www.braveclojure.com/clojure-for-the-brave-and-true/">Clojure for the Brave and True</a></td>
-    <td>Good for beginners on Clojure, covers all the core features of the language. It has a free version available.</td>
-  </tr>
-  <tr>
-    <td><a href="https://descobrindoclojure.com.br">Descobrindo Clojure</a></td>
-    <td>Good for beginners on functional programming in general, especially for Portuguese speakers. It guides you through functional concepts without academic jargon. Entirely in Brazilian Portuguese.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.manning.com/books/clojure-the-essential-reference">Clojure, The Essential Reference</a></td>
-    <td>Extensive reference to the standard library with clear explanations, real-world examples, and background information. Designed to be used as a reference.</td>
-  </tr>
-  <tr>
-    <td><a href="https://pragprog.com/book/roclojure/getting-clojure">Getting Clojure</a></td>
-    <td>Covers basic, intermediate, and advanced topics, explaining core aspects of Clojure, good practices, and functional programming concepts.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.manning.com/books/the-joy-of-clojure-second-edition">The Joy of Clojure</a></td>
-    <td>A good reference book that goes deep into each core aspect of Clojure and explains them in detail.</td>
-  </tr>
-  <tr>
-    <td><a href="http://shop.oreilly.com/product/0636920025139.do">ClojureScript: Up and Running</a></td>
-    <td>Introduction to using ClojureScript, a variant of Clojure for web development.</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.clojurebook.com/">Clojure Programming</a></td>
-    <td>A comprehensive guide to learning Clojure programming, covering a wide range of topics and practical examples.</td>
-  </tr>
-  <tr>
-    <td><a href="http://joyofclojure.com/">Joy of Clojure</a></td>
-    <td>An in-depth exploration of Clojure, explaining core concepts and providing detailed examples.</td>
-  </tr>
-  <tr>
-    <td><a href="http://pragprog.com/book/shcloj2/programming-clojure">Programming Clojure</a></td>
-    <td>A practical guide to Clojure programming, offering insights and examples for building robust applications.</td>
-  </tr>
-</table>
 
 ### Courses
 > Online courses and tutorials for learning Clojure programming.
 
+#### Free Courses
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+    <tr>
+    <td><a href="https://www.alura.com.br/cursos-online-programacao/clojure">Alura Clojure course</a></td>
+    <td>Alura is a paid platform for learning technologies, aimed at Portuguese-Brazilian speakers.</td>
+  </tr>
+</table>
 
+#### Paid Courses
 <table>
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
-  <tr>
-    <td><a href="https://www.alura.com.br/cursos-online-programacao/clojure">Alura Clojure course</a></td>
-    <td>Alura is a paid platform for learning technologies, aimed at Portuguese-Brazilian speakers.</td>
-  </tr>
+
   <tr>
     <td><a href="https://www.oreilly.com/library/view/building-microservices-with/9781771374354">Building Microservices with Clojure</a></td>
     <td>Learn to set up, build, and deploy microservices with Clojure using the Pedestal library. The course is in video format.</td>
   </tr>
 </table>
 
-### Communities
->Platforms and forums where Clojure developers can engage, seek help, and share knowledge.
+### Additional Resources
+> Additional resources where Clojure developers can engage, seek help, and share knowledge.
+
+#### Communities
 
 <table>
   <tr>
@@ -657,8 +634,8 @@ This currated collection of resources are fairly comprehensive and covers variou
   </tr>
 </table>
 
-### Websites
->Useful websites, tutorials, and platforms for learning Clojure and accessing related resources.
+#### Websites
+
 
 <table>
   <tr>
@@ -713,6 +690,61 @@ This currated collection of resources are fairly comprehensive and covers variou
     <td>A curated collection of Clojure resources and links.</td>
   </tr>
  </table>
+ 
+#### Books
+
+##### Free Books
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://www.clojurebook.com/">Clojure Programming</a></td>
+    <td>A comprehensive guide to learning Clojure programming, covering a wide range of topics and practical examples.</td>
+  </tr>
+</table>
+
+##### Paid Books
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.braveclojure.com/clojure-for-the-brave-and-true/">Clojure for the Brave and True</a></td>
+    <td>Good for beginners on Clojure, covers all the core features of the language. It has a free version available.</td>
+  </tr>
+  <tr>
+    <td><a href="https://descobrindoclojure.com.br">Descobrindo Clojure</a></td>
+    <td>Good for beginners on functional programming in general, especially for Portuguese speakers. It guides you through functional concepts without academic jargon. Entirely in Brazilian Portuguese.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/clojure-the-essential-reference">Clojure, The Essential Reference</a></td>
+    <td>Extensive reference to the standard library with clear explanations, real-world examples, and background information. Designed to be used as a reference.</td>
+  </tr>
+  <tr>
+    <td><a href="https://pragprog.com/book/roclojure/getting-clojure">Getting Clojure</a></td>
+    <td>Covers basic, intermediate, and advanced topics, explaining core aspects of Clojure, good practices, and functional programming concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.manning.com/books/the-joy-of-clojure-second-edition">The Joy of Clojure</a></td>
+    <td>A good reference book that goes deep into each core aspect of Clojure and explains them in detail.</td>
+  </tr>
+  <tr>
+    <td><a href="http://shop.oreilly.com/product/0636920025139.do">ClojureScript: Up and Running</a></td>
+    <td>Introduction to using ClojureScript, a variant of Clojure for web development.</td>
+  </tr>
+  
+  <tr>
+    <td><a href="http://joyofclojure.com/">Joy of Clojure</a></td>
+    <td>An in-depth exploration of Clojure, explaining core concepts and providing detailed examples.</td>
+  </tr>
+  <tr>
+    <td><a href="http://pragprog.com/book/shcloj2/programming-clojure">Programming Clojure</a></td>
+    <td>A practical guide to Clojure programming, offering insights and examples for building robust applications.</td>
+  </tr>
+</table>
 
 
 ## Conclusion

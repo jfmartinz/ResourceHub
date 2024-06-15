@@ -17,8 +17,22 @@ Elixir is a dynamic, functional programming language designed for building scala
    - [Testing](#testing)<br>
    - [Web Development](#web-development)<br>
 - [Tools](#tools)<br>
-- [Projects](#projects)<br> 
+- [Projects](#projects)<br>
+  - [Beginner Projects](#beginner-projects)
+  - [Intermediate Projects](#intermediate-projects)
+  - [Advanced Projects](#advanced-projects)
 - [Courses](#courses)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
+- [Youtube](#youtube)
+  - [Youtube Channels](#youtube-channels)
+  - [Youtube Playlists](#youtube-playlists)
+- [Additional Resources](#additional-resources)
+  - [Books](#books)
+    - [Free Books](#free-books)
+    - [Paid Books](#paid-books)
+  - [Communities](#communities)
+  - [Documentation](#documentation)   
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -41,7 +55,7 @@ Elixir roadmap outlines the essential steps and skills needed to become skilled 
 Offers step-by-step guides and tutorials covering various aspects of Elixir programming.
 Helps beginners understand fundamental concepts and advanced users explore new techniques.
 
-## Introduction
+### Introduction
 
 <table width="100%">
   <tr>
@@ -66,7 +80,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Fundamentals
+### Fundamentals
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -94,7 +108,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Functions
+### Functions
 
 <table width="100%">
   <tr>
@@ -119,7 +133,31 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Lists, Tuples, and Maps
+### Arrays, Slices and Maps
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+   <tr>
+      <td><a href="https://youtu.be/7u2kIbIzv0s?si=3j1uufQzNcHJO8Rh">Maps</td>
+         <td> This youtube video will help one learn Elixir Maps</td>
+   </tr>
+</table>
+
+### Structs and Methods
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+   <tr>
+      <td><a href="https://youtu.be/ClUPFRMgkz8?si=DjY_3Ov41hZQLIcT">Structs in Elixir</a></td>
+      <td> Learn Elixir structs with this video</td>
+   </tr>
+</table>
+
+### Lists, Tuples, and Maps
 
 <table width="100%">
   <tr>
@@ -140,7 +178,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Structs and Protocols
+### Structs and Protocols
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -156,7 +194,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Concurrency
+### Concurrency
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -176,7 +214,15 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Modules and Behaviours
+### Packages and Modules
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Modules and Behaviours
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -196,7 +242,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Error Handling
+### Error Handling
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -212,7 +258,15 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Testing
+### File I/O and Networking
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Testing
 
 <table width="100%">
   <tr>
@@ -229,7 +283,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Web Development
+### Web Development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -278,7 +332,24 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 </table>
 
 ## Projects
+>These are some projects you can refer to
+### Beginner Projects
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
 
+### Intermediate Projects
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Advanced Projects
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -296,22 +367,132 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 </table>
 
 ## Courses
-Here are courses you may consider:
+> Here are courses you may consider:
+### Free Courses
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+     <tr>
+    <td><a href="https://elixirschool.com/en">Elixir School</a></td>
+    <td>Free, open-source resource for learning the Elixir programming language </td>
+  </tr>
+</table>
+
+### Paid Courses
 
 <table width="100%">
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
-  <tr>
-    <td><a href="https://elixirschool.com/en">Elixir School</a></td>
-    <td>Free, open-source resource for learning the Elixir programming language </td>
-  </tr>
+
   <tr>
     <td><a href="https://www.udemy.com/course/elixir-programming-language-tutorial/">Elixir course Udemy</a></td>
     <td>This course is a slightly advanced course that covers pattern matching, functions, anonymous functions, operators, immutability, and Erlang interoperability</td>
   </tr>
 
+</table>
+
+## Youtube
+> youtube channels and playlists for your reference
+### Youtube Channels
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+   <tr>
+       <td><a href="https://www.youtube.com/@freecodecamp">FreeCodeCamp</a></td>
+      <td>The very helpful channel to learn programming.</td>
+   </tr>
+   <tr>
+      <td><a href="https://www.youtube.com/@Fireship">fireship</a></td>
+      <td>This channel has some good resources which can help one learn Elixir.</td>
+   </tr>
+</table>
+
+### Youtube Playlists
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+   <tr>
+      <td><a href="https://youtu.be/IiIgm_yaoOA?si=PmCbt4vRSzbyf77B">Full course- Elixir</a></td>
+      <td>This one single course is enough to master basics of Elixir by freecodecamp.</td>
+   </tr>
+
+   <tr>
+      <td><a href="https://www.youtube.com/watch?v=GQVXyjYX1zA&list=PLJbE2Yu2zumA-p21bEQB6nsYABAO-HtF2&ab_channel=TensorProgramming">Introduction to Elixir</a></td>
+      <td> A playlist for beginners to go through the simple basics of elixir. A person with zero experience in coding can also follow this.</td>
+   </tr>
+
+  
+</table>
+
+## Additional Resources
+>Some additional resources for your reference
+### Books
+#### Free Books
+<table>
+     <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+   <tr>
+      <td><a href="https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly">Elixir Succinity</a></td>
+      <td>This is a introductionary book about Elixir and OTP, written to go straight to the point. Almost 100 pages to learn the language and the platform.</td>
+   </tr>
+
+   <tr>
+      <td>
+         <a href="https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/">Etudes for Elixir</a>
+      </td>
+      <td>In this book, you will find descriptions of programs that you can write in Elixir. The programs will usually be short, and each one has been designed to provide practice material for a particular Elixir programming concept. </td>
+   </tr>
+</table>
+
+#### Paid Books
+<table>
+     <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+   <tr>
+      <td> <a href="https://www.manning.com/books/elixir-in-action-third-edition">Elixir in Action</a></td>
+      <td>This book builds on your existing knowledge to get you quickly writing real Elixir code.</td>
+   </tr>
+    <tr>
+      <td><a href="https://pragprog.com/titles/elixir16/programming-elixir-1-6/">Programming Elixir 1.6</a></td>
+      <td>This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond. </td>
+   </tr>
+</table>
+
+### Communities
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+   <tr>
+      <td><a href="https://elixirforum.com/">Elixir Forum </a></td>
+      <td>A very useful forum to connect with people from ELIXIR who are deeply embedded in the European space of bioinformatics while learning about latest advances in the field.</td>
+   </tr>
+</table>
+
+### Documentation
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+
+   <tr>
+      <td><a href="https://elixir-lang.org/docs.html">Official Documentation</a></td>
+      <td>The documentation is a reference for the modules and functions in each of Elixir's applications.</td>
+   </tr>
 </table>
 
 ## Conclusion 

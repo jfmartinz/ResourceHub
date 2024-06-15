@@ -538,6 +538,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td><a href="https://replit.com/languages/python3">replit.com</a></td>
         <td>This Replit's Online Python Compiler is a collaborative tool that allows users to write, run, and share Python code directly in their browser. It features real-time collaboration, making it ideal for teamwork and learning environments. Users can also deploy their projects easily</td>
       </tr>
+      <tr>
+        <td><a href="https://pythontutor.com/">pythontutor.com</a></td>
+        <td>Pythontutor.com is an educational tool designed to help users understand Python (and other programming languages) through visualizations of code execution. It allows users to write, visualize, and debug code step-by-step, making it easier to grasp programming concepts and track how data structures change over time.</td>
+      </tr>
 </table>
 
 ### Technologies
