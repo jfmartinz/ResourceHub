@@ -179,7 +179,7 @@ Introduction
   </tr>
 </table>
 
-## Error Handling
+### Error Handling
 <table width="100%">
   <tr>
     <th>Resource Name</th>
