@@ -1,4 +1,4 @@
-## Racket 🎨
+# Racket 
 
 Racket is a general-purpose, multi-paradigm programming language in the Lisp-Scheme family, designed for both scripting and creating large applications. It emphasizes functional programming and offers powerful tools for creating domain-specific languages.
 Table of Contents
