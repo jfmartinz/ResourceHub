@@ -270,6 +270,12 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
     </td>
     <td>This Cyber Security Tutorial is ideal for both beginners as well as professionals who want to master the Cyber Security concepts.</td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE">CS50's Introduction to Cybersecurity</a>
+    </td>
+    <td>This Introduction to Cyber Security playlist by Harvard University covers the basics of cybersecurity. It’s perfect for beginners or those without a technical background.</td>
+  </tr>
 </table>
 
 ### Community
