@@ -101,7 +101,7 @@ ResourceHub is built using the following technologies:
 - **Frontend**: HTML, CSS, JS
 - **Deployment**: Vercel
 
-> Website URL: [ResourceHub](https://resourcehubwebsite.vercel.app/)
+> Website URL: [ResourceHub](https://resourcehubdev.vercel.app/)
 
 ## Organization
 ![Organization](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fqJaH_oISOR96gLgpJBwWQ.png)
