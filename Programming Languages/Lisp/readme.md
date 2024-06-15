@@ -23,7 +23,10 @@ Lisp is a family of programming languages with a long history and a distinctive,
   - [Free Courses](#free-courses)
   - [Paid Courses](#paid-courses)
 - [Youtube](#youtube)
-- [Cheatsheets](#cheatsheets)
+  - [Youtube Channels](#youtube-channels)
+  - [Youtube Playlists](#youtube-playlists)
+- [Additional Resources](#additional-resources)
+  - [Cheatshests](#cheatsheets)
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -417,7 +420,11 @@ Lisp is a family of programming languages with a long history and a distinctive,
 ## Youtube
 
 > Video tutorials and lectures on Lisp programming.
+### Youtube Channels
+<table>
+</table>
 
+### Youtube Playlists
 <table width="100%" id="youtube">
 <tr>
 <th>Resource Name</th>
@@ -445,9 +452,11 @@ Lisp is a family of programming languages with a long history and a distinctive,
 </tr>
 </table>
 
-## Cheatsheets
+## Additional Resources
+> Additional resources to learn Lisp
+### Cheatsheets
 
-> Handy cheatsheets for quick reference while programming in Lisp.
+
 
 <table width="100%" id="lisp-cheatsheets">
   <tr>
