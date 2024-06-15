@@ -139,6 +139,10 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
+   <tr>
+      <td><a href="https://youtu.be/7u2kIbIzv0s?si=3j1uufQzNcHJO8Rh">Maps</td>
+         <td> This youtube video will help one learn Elixir Maps</td>
+   </tr>
 </table>
 
 ### Structs and Methods
@@ -147,6 +151,10 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
+   <tr>
+      <td><a href="https://youtu.be/ClUPFRMgkz8?si=DjY_3Ov41hZQLIcT">Structs in Elixir</a></td>
+      <td> Learn Elixir structs with this video</td>
+   </tr>
 </table>
 
 ### Lists, Tuples, and Maps
@@ -395,6 +403,14 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
+   <tr>
+       <td><a href="https://www.youtube.com/@freecodecamp">FreeCodeCamp</a></td>
+      <td>The very helpful channel to learn programming.</td>
+   </tr>
+   <tr>
+      <td><a href="https://www.youtube.com/@Fireship">fireship</a></td>
+      <td>This channel has some good resources which can help one learn Elixir.</td>
+   </tr>
 </table>
 
 ### Youtube Playlists
@@ -403,6 +419,17 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
+   <tr>
+      <td><a href="https://youtu.be/IiIgm_yaoOA?si=PmCbt4vRSzbyf77B">Full course- Elixir</a></td>
+      <td>This one single course is enough to master basics of Elixir by freecodecamp.</td>
+   </tr>
+
+   <tr>
+      <td><a href="https://www.youtube.com/watch?v=GQVXyjYX1zA&list=PLJbE2Yu2zumA-p21bEQB6nsYABAO-HtF2&ab_channel=TensorProgramming">Introduction to Elixir</a></td>
+      <td> A playlist for beginners to go through the simple basics of elixir. A person with zero experience in coding can also follow this.</td>
+   </tr>
+
+  
 </table>
 
 ## Additional Resources
@@ -414,6 +441,17 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
+   <tr>
+      <td><a href="https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly">Elixir Succinity</a></td>
+      <td>This is a introductionary book about Elixir and OTP, written to go straight to the point. Almost 100 pages to learn the language and the platform.</td>
+   </tr>
+
+   <tr>
+      <td>
+         <a href="https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/">Etudes for Elixir</a>
+      </td>
+      <td>In this book, you will find descriptions of programs that you can write in Elixir. The programs will usually be short, and each one has been designed to provide practice material for a particular Elixir programming concept. </td>
+   </tr>
 </table>
 
 #### Paid Books
@@ -422,6 +460,14 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
+   <tr>
+      <td> <a href="https://www.manning.com/books/elixir-in-action-third-edition">Elixir in Action</a></td>
+      <td>This book builds on your existing knowledge to get you quickly writing real Elixir code.</td>
+   </tr>
+    <tr>
+      <td><a href="https://pragprog.com/titles/elixir16/programming-elixir-1-6/">Programming Elixir 1.6</a></td>
+      <td>This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond. </td>
+   </tr>
 </table>
 
 ### Communities
@@ -430,6 +476,10 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
+   <tr>
+      <td><a href="https://elixirforum.com/">Elixir Forum </a></td>
+      <td>A very useful forum to connect with people from ELIXIR who are deeply embedded in the European space of bioinformatics while learning about latest advances in the field.</td>
+   </tr>
 </table>
 
 ### Documentation
@@ -438,6 +488,11 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
+
+   <tr>
+      <td><a href="https://elixir-lang.org/docs.html">Official Documentation</a></td>
+      <td>The documentation is a reference for the modules and functions in each of Elixir's applications.</td>
+   </tr>
 </table>
 
 ## Conclusion 
