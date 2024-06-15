@@ -17,8 +17,22 @@ Elixir is a dynamic, functional programming language designed for building scala
    - [Testing](#testing)<br>
    - [Web Development](#web-development)<br>
 - [Tools](#tools)<br>
-- [Projects](#projects)<br> 
+- [Projects](#projects)<br>
+  - [Beginner Projects](#beginner-projects)
+  - [Intermediate Projects](#intermediate-projects)
+  - [Advanced Projects](#advanced-projects)
 - [Courses](#courses)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
+- [Youtube](#youtube)
+  - [Youtube Channels](#youtube-channels)
+  - [Youtube Playlists](#youtube-playlists)
+- [Additional Resources](#additional-resources)
+  - [Books](#books)
+    - [Free Books](#free-books)
+    - [Paid Books](#paid-books)
+  - [Communities](#communities)
+  - [Documentation](#documentation)   
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -41,7 +55,7 @@ Elixir roadmap outlines the essential steps and skills needed to become skilled 
 Offers step-by-step guides and tutorials covering various aspects of Elixir programming.
 Helps beginners understand fundamental concepts and advanced users explore new techniques.
 
-## Introduction
+### Introduction
 
 <table width="100%">
   <tr>
@@ -66,7 +80,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Fundamentals
+### Fundamentals
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -94,7 +108,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Functions
+### Functions
 
 <table width="100%">
   <tr>
@@ -119,7 +133,23 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Lists, Tuples, and Maps
+### Arrays, Slices and Maps
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Structs and Methods
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Lists, Tuples, and Maps
 
 <table width="100%">
   <tr>
@@ -140,7 +170,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Structs and Protocols
+### Structs and Protocols
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -156,7 +186,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Concurrency
+### Concurrency
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -176,7 +206,15 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Modules and Behaviours
+### Packages and Modules
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Modules and Behaviours
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -196,7 +234,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Error Handling
+### Error Handling
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -212,7 +250,15 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Testing
+### File I/O and Networking
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Testing
 
 <table width="100%">
   <tr>
@@ -229,7 +275,7 @@ Helps beginners understand fundamental concepts and advanced users explore new t
   </tr>
 </table>
 
-## Web Development
+### Web Development
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -278,7 +324,24 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 </table>
 
 ## Projects
+>These are some projects you can refer to
+### Beginner Projects
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
 
+### Intermediate Projects
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Advanced Projects
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -296,22 +359,85 @@ Helps beginners understand fundamental concepts and advanced users explore new t
 </table>
 
 ## Courses
-Here are courses you may consider:
+> Here are courses you may consider:
+### Free Courses
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+     <tr>
+    <td><a href="https://elixirschool.com/en">Elixir School</a></td>
+    <td>Free, open-source resource for learning the Elixir programming language </td>
+  </tr>
+</table>
+
+### Paid Courses
 
 <table width="100%">
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
-  <tr>
-    <td><a href="https://elixirschool.com/en">Elixir School</a></td>
-    <td>Free, open-source resource for learning the Elixir programming language </td>
-  </tr>
+
   <tr>
     <td><a href="https://www.udemy.com/course/elixir-programming-language-tutorial/">Elixir course Udemy</a></td>
     <td>This course is a slightly advanced course that covers pattern matching, functions, anonymous functions, operators, immutability, and Erlang interoperability</td>
   </tr>
 
+</table>
+
+## Youtube
+> youtube channels and playlists for your reference
+### Youtube Channels
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Youtube Playlists
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+## Additional Resources
+>Some additional resources for your reference
+### Books
+#### Free Books
+<table>
+     <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+#### Paid Books
+<table>
+     <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Communities
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+</table>
+
+### Documentation
+<table>
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
 </table>
 
 ## Conclusion 
