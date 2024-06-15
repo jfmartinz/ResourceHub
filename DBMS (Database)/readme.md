@@ -10,6 +10,7 @@ A database is an organized collection of structured information, or data, typica
 - [Tutorial or Courses](#tutorial-or-courses)
 - [Database Design and Modeling](#database-design-and-modeling)
 - [Tools](#tools)
+- [Online code Editors](#online-code-editors)
 - [Best Practices](#best-practices)
 - [Challenges](#challenges)
 - [Books](#books)
@@ -188,6 +189,35 @@ Database design and modeling are critical steps in the creation and management o
     <tr>
         <td><a href="https://vertabelo.com/">Vertabelo</a></td>
         <td>Vertabelo is an online database design tool that is specifically tailored for creating and managing database models. It supports the design of logical and physical data models and is especially useful for relational databases.</td>
+    </tr>
+</table>
+
+### Online Code Editors
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://sqlfiddle.com/">SQL Fiddle</a></td>
+        <td>SQL Fiddle is an online tool that allows users to create, test, and share SQL database queries across different database platforms. It provides a virtual environment where SQL code can be written, executed, and debugged interactively, making it convenient for developers, database administrators, and learners to experiment with SQL queries without needing to set up local database environments.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.db-fiddle.com/">DB Fiddle</a></td>
+        <td>The DB Fiddle is a web-based tool designed for creating and testing database queries. Similar to SQL Fiddle, it offers an interactive environment where users can write SQL code, execute it against various database systems (such as MySQL, PostgreSQL, SQL Server, etc.), and see the results directly in their browser.</td>
+    </tr>
+    <tr>
+        <td><a href="https://sqliteonline.com/">sqlite online</a></td>
+        <td>This is an online platform specifically tailored for SQLite database management and query execution. It allows users to write and run SQLite SQL queries directly in their web browser. This tool is particularly useful for developers and users who work with SQLite databases and need a quick, accessible environment to test queries, view results, and prototype database interactions without the need for local SQLite installations.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.programiz.com/sql/online-compiler/">SQL online compiler</a></td>
+        <td>The Programiz SQL Online Compiler is a web-based tool designed for writing, testing, and executing SQL queries directly in a browser environment. It provides a user-friendly interface where users can input SQL code, execute it against a virtual database system, and view the query results immediately. </td>
+    </tr>
+    <tr>
+        <td><a href="https://onecompiler.com/postgresql/">Postgresql one compiler</a></td>
+        <td>The OneCompiler PostgreSQL Playground is an online platform designed specifically for writing, testing, and executing PostgreSQL queries. It provides an interactive environment where users can input PostgreSQL SQL code directly in their web browser.</td>
     </tr>
 </table>
 
