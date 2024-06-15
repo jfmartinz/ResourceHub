@@ -1102,6 +1102,13 @@ to everyone - everywhere!</td>
       <td><a href="https://github.com/Saipradyumnagoud/calcuclator">Calculator</a></td>
       <td>This repo By Sai Pradyumna Contains code for calculator where you can perform operations you can use this application by cloning the repository it is developed by html,css,javascript</td>
     </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=cb4d1QQY_BY">Netflix Landing Page</a></td>
+      <td>Netflix landing Page  tutorial using HTML,CSS and JavaScript which resembles like Netflix Home Page where user can login to his netflix account and contains FAQ section.</td>
+    </tr>
+    
+
+    
 </table>
 
 #### Intermediate projects
