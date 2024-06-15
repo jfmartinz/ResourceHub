@@ -105,7 +105,7 @@ Introduction
   </tr>
 </table>
 
-## Data Structures
+### Data Structures
 
 <table width="100%">
   <tr>
