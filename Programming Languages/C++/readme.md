@@ -505,6 +505,10 @@ This section is a curated collection of valuable C++ resources for absolute begi
     <td><a href="https://www.repl.it/languages/cpp">repl.it</a></td>
     <td>An online platform providing a C++ compiler and IDE for coding, testing, and sharing code snippets. repl.it supports real-time collaboration, version control, and integration with popular development tools.</td>
   </tr>
+  <tr>
+    <td><a href="https://www.programiz.com/cpp-programming/online-compiler/">Programiz</a></td>
+    <td>The Programiz Online C++ Compiler is a user-friendly tool that allows you to write, compile, and run C++ code instantly in your browser, facilitating easy and quick coding practice.</td>
+  </tr>
 </table>
 
 
