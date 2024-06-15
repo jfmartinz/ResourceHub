@@ -38,7 +38,7 @@ Table of Contents
 
 ## Racket
 
-Offers step-by-step guides and tutorials covering various aspects of Racket programming. Helps beginners understand fundamental concepts and advanced users explore new techniques.
+> Offers step-by-step guides and tutorials covering various aspects of Racket programming. Helps beginners understand fundamental concepts and advanced users explore new techniques.
 Introduction
 <table width="100%">
   <tr>
