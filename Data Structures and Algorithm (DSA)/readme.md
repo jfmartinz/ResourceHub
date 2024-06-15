@@ -46,6 +46,10 @@ Let's make coding fun and exciting! 🚀.</td>
   <td><a href="https://www.naukri.com/code360/library/complete-data-structures-and-algorithms-roadmap-for-placements">DSA Roadmap for beginners</a></td>
   <td>This article will lay down a complete DSA roadmap for any beginner to obtain proficiency in solving complex computational challenges needed to crack any top product-based companies</td>
   </tr>
+   <tr>
+    <td><a href="https://www.scaler.com/topics/dsa-roadmap/"> DSA Roadmap for Complete Learning </a></td>
+    <td>This DSA roadmap will provide a structured approach to mastering data structures and algorithms, covering essential concepts, practical coding exercises, and optimization techniques to enhance problem-solving skills and coding efficiency.</td>
+    </tr>
 </table>
 
 ## Types of Data Structures
