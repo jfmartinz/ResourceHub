@@ -413,9 +413,28 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 > 
 
 ### Beginner SAS Project
+<table>
+  <tr>
+    <th>Project Topic</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=1.%20Data%20Cleaning%20and%20Preparation">Data Cleaning and Preparation</a></td>
+    <td>A beginner SAS project idea focused on cleaning and preparing data for analysis, including data validation, transformation, and handling missing values.</td>
+  </tr>
+  <tr>
+    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Exploratory%20Data%20Analysis%20(EDA)">Exploratory Data Analysis (EDA)</a></td>
+    <td>A project idea for conducting exploratory data analysis in SAS, including data visualization, summary statistics, and identifying patterns and trends in the data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Simple%20Regression%20Analysis">Simple Regression Analysis</a></td>
+    <td>A project idea for performing simple regression analysis in SAS, including modeling relationships between variables and predicting outcomes based on regression models.</td>
+  </tr>
+</table>
 
 
 ### Intermediate SAS Project
+
 
 
 ### Advanced SAS Project
