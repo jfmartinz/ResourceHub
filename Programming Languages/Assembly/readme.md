@@ -1,8 +1,6 @@
 # Assembly
 Assembly language is a low-level programming language that is one step above machine code. It provides a symbolic representation of the numeric machine instructions, making it easier for humans to read and write. Here are some key aspects of assembly language:
 
->> Characteristics
-
 Low-Level Language: Assembly language is considered low-level because it is closely related to the hardware's machine code instructions.
 
 Hardware Specific: Each type of processor has its own assembly language, meaning code written for one type of CPU won't run on another without modification.
@@ -170,7 +168,7 @@ Efficiency: Code written in assembly language can be highly optimized for perfor
 ### YouTube Channels
 <table width="100%">
  <tr>
-   <th>Channel Name</th>
+   <th>Resource Name</th>
    <th>Description</th>
  </tr>
  <tr>
@@ -190,7 +188,7 @@ Efficiency: Code written in assembly language can be highly optimized for perfor
 ### YouTube Playlists for Learning Assembly
 <table width="100%">
  <tr>
-   <th>Playlist Name</th>
+   <th>Resource  Name</th>
    <th>Description</th>
  </tr>
  <tr>
