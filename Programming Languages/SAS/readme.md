@@ -17,6 +17,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 - [Advanced Data Management](#advanced-data-management)
 - [Specialized SAS Procedures](#specialized-sas-procedures)
 - [Business Intelligence and Predictive Modeling](#business-intelligence-and-predictive-modeling)
+- [Certification Courses](#certification-courses)
+
 
 
 
@@ -341,9 +343,29 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <td>A guide to predictive modeling in SAS, including how to build and evaluate predictive models for forecasting, classification, and regression tasks.</td>
   </tr>
 </table>
-
-### Performance and Optimization
  
-### Certification and Real-World Projects
+### Certification Courses
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.sas.com/en_us/certification.html">Courses to get SAS certified</a></td>
+    <td>Information about SAS certification courses, including exam preparation, study materials, and certification paths.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/courses?query=sas">SAS courses on Coursera</a></td>
+    <td>A collection of SAS courses available on Coursera, covering various topics in SAS programming, data analysis, and statistical modeling.</td>
+  </tr>
+</table>
+
+
+
+
+
+### Real-World Projects
+
 
 ### 
