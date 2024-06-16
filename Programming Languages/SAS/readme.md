@@ -23,9 +23,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     - [Beginner SAS Project](#beginner-sas-project)
     - [Intermediate SAS Project](#intermediate-sas-project)
     - [Advanced SAS Project](#advanced-sas-project)
-
-
-
+- [Books](#books)
 
 
 ### Roadmap 
@@ -479,4 +477,47 @@ The SAS makes it very easy for an organization to work with the roughly gathered
   </tr>
 </table>
 
-### 
+### Books 
+>
+
+<table>
+  <tr>
+    <th>Book Title</th>
+    <th>Link</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Little SAS Book</td>
+    <td><a href="https://amzn.to/2CR6URI">Amazon</a></td>
+    <td>A comprehensive guide to SAS programming, suitable for beginners and intermediate users.</td>
+  </tr>
+  <tr>
+    <td>Learning SAS by Example: A Programmer's Guide</td>
+    <td><a href="https://amzn.to/2UleDhU">Amazon</a></td>
+    <td>A hands-on approach to learning SAS programming through practical examples and exercises.</td>
+  </tr>
+  <tr>
+    <td>Applied Statistics and the SAS Programming Language</td>
+    <td><a href="https://amzn.to/2DFLOXW">Amazon</a></td>
+    <td>An introduction to statistical analysis using SAS, covering data analysis techniques and programming concepts.</td>
+  </tr>
+  <tr>
+    <td>The Little SAS Book: A Primer, Fifth Edition</td>
+    <td><a href="http://www.sas.com/store/prodBK_65423_en.html">SAS Store</a></td>
+    <td>A classical book for beginners, providing a primer on SAS programming and data analysis.</td>
+  </tr>
+  <tr>
+    <td>SAS University Edition</td>
+    <td><a href="http://www.sas.com/en_us/software/university-edition.html">SAS University Edition</a></td>
+    <td>A free version of SAS software for learning and educational purposes, available for download.</td>
+  </tr>
+  <tr>
+    <td>SAS OnDemand for Academics</td>
+    <td><a href="http://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html">SAS OnDemand for Academics</a></td>
+    <td>A browser-based app providing access to SAS software for academic use, including data analysis and programming tools.</td>
+  </tr>
+</table>
+
+
+
+
