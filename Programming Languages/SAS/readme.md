@@ -50,7 +50,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 > Statistical Analysis System (SAS) is a software suite that has been developed by SAS Institute, one of the leaders in analytics. It is useful for performing advanced analytics, multivariate analyses, business intelligence, data management functions, and also for conducting predictive analytics. 
 
 ### Introduction
-> 
+> An overview of what SAS is, its features, and its applications in data analysis and statistical operations.
+
 <table>
   <tr>
     <th>Resource Name</th>
@@ -115,7 +116,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 
 
 ### Setting Up the Environment
-> 
+> Guidance on how to install and configure SAS on your system for development and analysis.
 
 <table>
   <tr>
@@ -133,6 +134,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Basic Concepts of SAS
+> Fundamental concepts and functionalities of SAS programming language, including data handling and manipulation.
+
 <table>
   <tr>
     <th>Resource Name</th>
@@ -186,7 +189,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 
 
 ### Statistical Operations 
-> 
+>  Techniques and procedures for conducting statistical analysis using SAS, including descriptive statistics, regression analysis, and hypothesis testing.
+
 <table>
   <tr>
     <th>Resource Name</th>
@@ -211,7 +215,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Data Set Operations
->
+> Operations and transformations performed on SAS datasets, such as merging, sorting, subsetting, and summarizing data.
+
 
 <table>
   <tr>
@@ -288,7 +293,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Data Management in SAS
->
+>Strategies and best practices for managing and organizing data within SAS, including data import/export, data cleaning, and data transformation.
+
 
 <table>
 
@@ -346,7 +352,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Data Analysis in SAS
->
+> Methods and tools for analyzing data using SAS, including exploratory data analysis, data visualization, and statistical modeling.
 
 <table>
   <tr>
@@ -380,7 +386,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 
 
 ### Advanced Data Management
->
+> Advanced techniques for data manipulation, data integration, and data warehousing within the SAS environment.
 
 <table>
   <tr>
@@ -418,7 +424,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Specialized SAS Procedures
-> 
+> In-depth exploration of specialized SAS procedures and functionalities for specific analytical tasks, such as time series analysis, survival analysis, and factor analysis.
+
 
 <table>
   <tr>
@@ -440,7 +447,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Business Intelligence and Predictive Modeling
->
+> Applications of SAS in business intelligence, data warehousing, and predictive modeling for decision-making and forecasting.
 
 <table>
   <tr>
@@ -458,6 +465,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
  
 ### Certification Courses
+> Overview of SAS certification courses and resources for becoming a certified SAS professional.
 
 <table>
   <tr>
@@ -487,7 +495,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 
 
 ### SAS Tutorials
-> 
+> Access to tutorials, guides, and learning resources for mastering SAS programming and data analysis.
+
 <table>
   <tr>
     <th>Resource Name</th>
@@ -534,7 +543,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 
 
 ### Real-World Projects
-> 
+> Entry-level projects to apply SAS skills in real-world scenarios, Intermediate-level projects focusing on more complex data analysis tasks, predictive modeling, and data visualization and Advanced projects involving advanced statistical modeling, big data analysis, and optimization using SAS.
 
 ### Beginner SAS Project
 <table>
@@ -638,7 +647,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Books 
->
+> Recommended books and resources for learning SAS programming, statistical analysis, and data management.
 
 <table>
   <tr>
@@ -679,6 +688,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Miscelleneous
+> Additional resources, communities, and services related to SAS programming and data analysis.
 
 <table>
   <tr>
