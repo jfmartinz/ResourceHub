@@ -435,7 +435,24 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 
 ### Intermediate SAS Project
 
-
+<table>
+  <tr>
+    <th>Project Topic</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Predictive%20Modeling%20with%20Logistic%20Regression">Predictive Modeling with Logistic Regression</a></td>
+    <td>An intermediate SAS project idea focused on predictive modeling using logistic regression, including model building, evaluation, and prediction of binary outcomes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Time%20Series%20Forecasting">Time Series Forecasting</a></td>
+    <td>A project idea for time series forecasting in SAS, including analyzing historical data, identifying patterns, and predicting future trends and values.</td>
+  </tr>
+  <tr>
+    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Cluster%20Analysis%20for%20Market%20Segmentation">Cluster Analysis for Market Segmentation</a></td>
+    <td>An SAS project idea for cluster analysis to segment customers or market data into distinct groups based on similarities and differences, enabling targeted marketing strategies.</td>
+  </tr>
+</table>
 
 ### Advanced SAS Project
 
