@@ -18,6 +18,11 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 - [Specialized SAS Procedures](#specialized-sas-procedures)
 - [Business Intelligence and Predictive Modeling](#business-intelligence-and-predictive-modeling)
 - [Certification Courses](#certification-courses)
+- [SAS Tutorials](#sas-tutorials)
+- [Real-World Projects](#real-world-projects)
+    - [Beginner SAS Project](#beginner-sas-project)
+    - [Intermediate SAS Project](#intermediate-sas-project)
+    - [Advanced SAS Project](#advanced-sas-project)
 
 
 
@@ -362,10 +367,57 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 
-
+### SAS Tutorials
+> 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://stats.idre.ucla.edu/sas/">UCLA SAS Tutorials</a></td>
+    <td>Tutorials and resources for learning SAS from UCLA, covering various topics in SAS programming, data analysis, and statistical techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://stats.idre.ucla.edu/sas/seminars/sas-macros-introduction/">SAS Macros Tutorial</a></td>
+    <td>An introduction to SAS macros with tutorial materials from UCLA, including examples and explanations of macro programming in SAS.</td>
+  </tr>
+  <tr>
+    <td><a href="https://sites.ualberta.ca/~ahamann/teaching/renr480/SAS-Cheat.pdf">SAS Cheat Sheet</a></td>
+    <td>A quick reference SAS cheat sheet with common syntax, commands, and functions for SAS programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://support.sas.com/resources/papers/proceedings/proceedings/sugi29/258-29.pdf">SAS Coding Guidelines</a></td>
+    <td>Guidelines and best practices for SAS coding, including tips for writing efficient, readable, and maintainable SAS code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://support.sas.com/resources/papers/proceedings17/0175-2017.pdf">Best Practice Programming Techniques for SAS® Users</a></td>
+    <td>A paper on best practice programming techniques for SAS users, covering coding strategies, optimization tips, and performance considerations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://support.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2018/2520-2018.pdf">Code Like It Matters: Writing Code That's Readable and Shareable</a></td>
+    <td>A guide to writing SAS code that is readable, shareable, and follows best practices for code organization and documentation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://blogs.sas.com/content/sastraining/files/2013/07/Top-10-Best-SAS-programming-practices-short-summary-version.pdf">Top 10 SAS best programming practices</a></td>
+    <td>A summary of the top 10 best SAS programming practices, including tips for efficient coding, debugging, and optimization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sas.com/content/dam/SAS/en_ca/User%20Group%20Presentations/Saskatoon-User-Group/JoseeRanger-LacroixRanger-MacrosBP.pdf">Utilizing Best Practices with SAS and Macros made easy</a></td>
+    <td>A presentation on utilizing best practices with SAS and macros, focusing on efficient macro programming techniques and best practices for SAS users.</td>
+  </tr>
+</table>
 
 
 ### Real-World Projects
+> 
 
+### Beginner SAS Project
+
+
+### Intermediate SAS Project
+
+
+### Advanced SAS Project
 
 ### 
