@@ -10,6 +10,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     - [Introduction](#introduction)
     - [Setting Up the Environment](#setting-up-the-environment)
     - [Basic Concepts of SAS](#basic-concepts-of-sas)
+    - [Statistical Operations](#statistical-operations)
+
   
 
 ### Roadmap 
@@ -139,6 +141,32 @@ The SAS makes it very easy for an organization to work with the roughly gathered
   <tr>
     <td><a href="https://www.javatpoint.com/sas-macro">SAS Macro</a></td>
     <td>Introduction to SAS macros, including how to define, use, and manage macros for automating repetitive tasks and customizing SAS programs.</td>
+  </tr>
+</table>
+
+
+### Statistical Operations 
+> 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-frequency-distribution">Frequency Distribution</a></td>
+    <td>An explanation of frequency distribution in SAS, including how to create frequency tables and histograms for categorical data analysis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-standard-deviation">Standard Deviation</a></td>
+    <td>An overview of standard deviation in SAS, including how to calculate and interpret standard deviation for numerical data analysis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/arithmetic-mean-in-sas">Arithmetic Mean</a></td>
+    <td>Explanation of arithmetic mean in SAS, including how to calculate the mean value for a set of numeric data using SAS procedures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/cross-tabulation-in-sas">Cross Tabulation</a></td>
+    <td>An overview of cross-tabulation in SAS, including how to create contingency tables and analyze relationships between categorical variables.</td>
   </tr>
 </table>
 
