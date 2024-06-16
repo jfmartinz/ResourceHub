@@ -8,6 +8,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 - [Roadmap](#roadmap)
 - [SAS Programming Language](#sas-programming-language)
     - [Introduction](#introduction)
+    - [Setting Up the Environment](#setting-up-the-environment)
+    - [Basic Concepts of SAS](#basic-concepts-of-sas)
   
 
 ### Roadmap 
@@ -28,9 +30,53 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 > Statistical Analysis System (SAS) is a software suite that has been developed by SAS Institute, one of the leaders in analytics. It is useful for performing advanced analytics, multivariate analyses, business intelligence, data management functions, and also for conducting predictive analytics. 
 
 ### Introduction
+> 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-introduction">What is SAS?</a></td>
+    <td>An introduction to SAS, covering its definition, features, and applications in data analytics and business intelligence.</td>
+  </tr>
+  <tr>
+    <td><a href="https://en.wikipedia.org/wiki/SAS_(software)">History of SAS</a></td>
+    <td>An overview of the history and evolution of SAS (Statistical Analysis System) software, highlighting its development and milestones.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/features-of-sas">Features of SAS</a></td>
+    <td>A detailed explanation of the key features and capabilities of SAS software, including data management, analytics, and reporting.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-intelligence-platform-architecture">SAS Architecture</a></td>
+    <td>An exploration of the architecture of the SAS Intelligence Platform, detailing its components and functionality.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sas-full-form/">Characteristics of SAS</a></td>
+    <td>An overview of the characteristics and capabilities of SAS, including its full form and primary functionalities.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/difference-between-sap-and-sas/">Difference between SAP and SAS</a></td>
+    <td>A comparison highlighting the differences between SAP (Systems, Applications & Products in Data Processing) and SAS software.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/introduction-to-sas-programming/">Uses of SAS</a></td>
+    <td>An introduction to SAS programming and its uses in data analysis, statistical modeling, and decision-making processes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-applications">SAS Applications</a></td>
+    <td>An overview of various applications of SAS software in industries such as healthcare, finance, marketing, and research.</td>
+  </tr>
+</table>
+
 
 
 ### Setting Up the Environment
+> 
+
+
+### Basic Concepts of SAS
 
 ### Data Management
 
