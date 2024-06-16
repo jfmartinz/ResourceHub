@@ -158,23 +158,23 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#creating-forms">Creating Forms</a></td>
+   <td><a href="https://www.geeksforgeeks.org/how-to-use-web-forms-in-a-flask-application/">Creating Forms</a></td>
    <td>Creating HTML forms and handling form submissions in Flask.</td>
  </tr>
  <tr>
-   <td><a href="#form-validation">Form Validation</a></td>
+   <td><a href="https://flask.palletsprojects.com/en/2.3.x/patterns/wtforms/">Form Validation</a></td>
    <td>Validating form data using Flask-WTF extension.</td>
  </tr>
  <tr>
-   <td><a href="#handling-file-uploads">Handling File Uploads</a></td>
+   <td><a href="https://blog.miguelgrinberg.com/post/handling-file-uploads-with-flask">Handling File Uploads</a></td>
    <td>Handling file uploads in your Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#csrf-protection">CSRF Protection</a></td>
+   <td><a href="https://www.geeksforgeeks.org/csrf-protection-in-flask/">CSRF Protection</a></td>
    <td>Implementing Cross-Site Request Forgery protection in your forms.</td>
  </tr>
  <tr>
-   <td><a href="#wtforms">WTForms</a></td>
+   <td><a href="https://www.geeksforgeeks.org/flask-wtf-explained-how-to-use-it/">WTForms</a></td>
    <td>Using WTForms to create and validate web forms in Flask.</td>
  </tr>
 </table>
@@ -186,23 +186,23 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#request-object">Request Object</a></td>
+   <td><a href="https://www.javatpoint.com/flask-request-object">Request Object</a></td>
    <td>Understanding the request object in Flask and how to access request data.</td>
  </tr>
  <tr>
-   <td><a href="#response-object">Response Object</a></td>
+   <td><a href="https://medium.com/@sujathamudadla1213/responses-in-flask-a80a3c1605fb">Response Object</a></td>
    <td>Generating and manipulating responses in Flask.</td>
  </tr>
  <tr>
-   <td><a href="#json-responses">JSON Responses</a></td>
+   <td><a href="https://www.geeksforgeeks.org/how-to-return-a-json-response-from-a-flask-api/">JSON Responses</a></td>
    <td>Returning JSON responses from your Flask views.</td>
  </tr>
  <tr>
-   <td><a href="#request-hooks">Request Hooks</a></td>
+   <td><a href="https://stackoverflow.com/questions/22656403/python-flask-request-hook">Request Hooks</a></td>
    <td>Using before_request and after_request hooks to run functions before and after requests.</td>
  </tr>
  <tr>
-   <td><a href="#session-management">Session Management</a></td>
+   <td><a href="https://www.geeksforgeeks.org/how-to-use-flask-session-in-python-flask/">Session Management</a></td>
    <td>Managing user sessions in Flask using cookies and session objects.</td>
  </tr>
 </table>
@@ -214,24 +214,16 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-blueprints">Introduction to Blueprints</a></td>
+   <td><a href="https://realpython.com/flask-blueprint/">Introduction to Blueprints</a></td>
    <td>An overview of Flask blueprints and their use cases.</td>
  </tr>
  <tr>
-   <td><a href="#creating-blueprints">Creating Blueprints</a></td>
+   <td><a href="https://www.freecodecamp.org/news/how-to-use-blueprints-to-organize-flask-apps/">Creating Blueprints</a></td>
    <td>Step-by-step guide to creating and registering blueprints in your Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#organizing-projects-with-blueprints">Organizing Projects with Blueprints</a></td>
+   <td><a href="https://stackoverflow.com/questions/59708479/how-to-organize-flask-functions-for-blueprint-methods-routes">Organizing Projects with Blueprints</a></td>
    <td>Best practices for organizing larger Flask applications using blueprints.</td>
- </tr>
- <tr>
-   <td><a href="#blueprint-static-files">Blueprint Static Files</a></td>
-   <td>Serving static files within blueprints.</td>
- </tr>
- <tr>
-   <td><a href="#blueprint-templates">Blueprint Templates</a></td>
-   <td>Using templates within blueprints.</td>
  </tr>
 </table>
 
@@ -244,40 +236,32 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-sqlalchemy">Introduction to SQLAlchemy</a></td>
+   <td><a href="https://towardsdatascience.com/sql-and-etl-an-introduction-to-sqlalchemy-in-python-fc66e8be1cd4">Introduction to SQLAlchemy</a></td>
    <td>An overview of SQLAlchemy, a SQL toolkit and Object-Relational Mapping (ORM) library for Python.</td>
  </tr>
  <tr>
-   <td><a href="#configuring-sqlalchemy">Configuring SQLAlchemy</a></td>
+   <td><a href="https://flask-sqlalchemy.palletsprojects.com/en/2.x/config/">Configuring SQLAlchemy</a></td>
    <td>How to set up and configure SQLAlchemy in a Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#defining-models">Defining Models</a></td>
+   <td><a href="https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/models/">Defining Models</a></td>
    <td>Creating database models using SQLAlchemy's ORM capabilities.</td>
  </tr>
  <tr>
-   <td><a href="#performing-crud-operations">Performing CRUD Operations</a></td>
+   <td><a href="https://www.askpython.com/python-modules/flask/flask-crud-application">Performing CRUD Operations</a></td>
    <td>How to perform Create, Read, Update, and Delete operations with SQLAlchemy models.</td>
  </tr>
  <tr>
-   <td><a href="#relationships-and-joins">Relationships and Joins</a></td>
+   <td><a href="https://stackoverflow.com/questions/27900018/flask-sqlalchemy-query-join-relational-tables">Relationships and Joins</a></td>
    <td>Defining and working with relationships between models, including joins and foreign keys.</td>
  </tr>
  <tr>
-   <td><a href="#querying-database">Querying the Database</a></td>
+   <td><a href="https://python-adv-web-apps.readthedocs.io/en/latest/flask_db2.html">Querying the Database</a></td>
    <td>Writing queries to retrieve data from the database using SQLAlchemy.</td>
  </tr>
  <tr>
-   <td><a href="#database-migrations">Database Migrations</a></td>
+   <td><a href="https://www.digitalocean.com/community/tutorials/how-to-perform-flask-sqlalchemy-migrations-using-flask-migrate">Database Migrations</a></td>
    <td>Handling database schema changes and migrations with SQLAlchemy.</td>
- </tr>
- <tr>
-   <td><a href="#session-management-in-sqlalchemy">Session Management in SQLAlchemy</a></td>
-   <td>Managing database sessions and transactions in SQLAlchemy.</td>
- </tr>
- <tr>
-   <td><a href="#using-flask-sqlalchemy">Using Flask-SQLAlchemy</a></td>
-   <td>Integrating SQLAlchemy with Flask using the Flask-SQLAlchemy extension.</td>
  </tr>
 </table>
 
@@ -288,32 +272,20 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-flask-migrate">Introduction to Flask-Migrate</a></td>
+   <td><a href="http://www.php.cn/faq/561090.html">Introduction to Flask-Migrate</a></td>
    <td>An overview of Flask-Migrate, an extension that handles SQLAlchemy database migrations for Flask applications.</td>
  </tr>
  <tr>
-   <td><a href="#setting-up-flask-migrate">Setting Up Flask-Migrate</a></td>
+   <td><a href="https://www.singhsarbjit.com/2020/12/resetting-flask-migration-setting-up.html">Setting Up Flask-Migrate</a></td>
    <td>Step-by-step instructions to install and configure Flask-Migrate in your Flask project.</td>
  </tr>
  <tr>
-   <td><a href="#creating-migrations">Creating Migrations</a></td>
+   <td><a href="https://flask-migrate.readthedocs.io/en/latest/">Creating Migrations</a></td>
    <td>How to create database migration scripts using Flask-Migrate.</td>
  </tr>
  <tr>
-   <td><a href="#applying-migrations">Applying Migrations</a></td>
+   <td><a href="https://30dayscoding.com/blog/flask-migrate-simplifying-database-migrations-in-python">Applying Migrations</a></td>
    <td>Running migration scripts to apply changes to your database schema.</td>
- </tr>
- <tr>
-   <td><a href="#managing-migration-scripts">Managing Migration Scripts</a></td>
-   <td>Best practices for organizing and managing your migration scripts.</td>
- </tr>
- <tr>
-   <td><a href="#downgrading-migrations">Downgrading Migrations</a></td>
-   <td>Reverting to previous database schema versions using Flask-Migrate.</td>
- </tr>
- <tr>
-   <td><a href="#flask-migrate-cli">Flask-Migrate CLI</a></td>
-   <td>Using the Flask-Migrate command-line interface to manage migrations.</td>
  </tr>
 </table>
 
@@ -326,32 +298,20 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-authentication">Introduction to Authentication</a></td>
+   <td><a href="https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/">Introduction to Authentication</a></td>
    <td>An overview of authentication concepts and their importance in web applications.</td>
  </tr>
  <tr>
-   <td><a href="#setting-up-flask-login">Setting Up Flask-Login</a></td>
+   <td><a href="https://camkode.com/posts/building-a-secure-web-application-with-user-authentication-using-flask-login">Setting Up Flask-Login</a></td>
    <td>Instructions for installing and configuring Flask-Login to handle user authentication.</td>
  </tr>
  <tr>
-   <td><a href="#user-session-management">User Session Management</a></td>
+   <td><a href="https://www.naukri.com/code360/library/session-management-in-flask">User Session Management</a></td>
    <td>How to manage user sessions using Flask-Login.</td>
  </tr>
  <tr>
-   <td><a href="#login-and-logout">Login and Logout</a></td>
-   <td>Implementing login and logout functionality in your Flask application.</td>
- </tr>
- <tr>
-   <td><a href="#user-registration">User Registration</a></td>
-   <td>Creating a user registration system with form validation and password hashing.</td>
- </tr>
- <tr>
-   <td><a href="#password-management">Password Management</a></td>
+   <td><a href="https://community.intersystems.com/post/password-manager-using-flask-and-intersystems-iris">Password Management</a></td>
    <td>Best practices for handling user passwords, including hashing and storing securely.</td>
- </tr>
- <tr>
-   <td><a href="#remember-me-functionality">Remember Me Functionality</a></td>
-   <td>Implementing "Remember Me" functionality to keep users logged in across sessions.</td>
  </tr>
 </table>
 
@@ -362,74 +322,27 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-authorization">Introduction to Authorization</a></td>
+   <td><a href="https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login">Introduction to Authorization</a></td>
    <td>An overview of authorization concepts and their role in controlling access to resources.</td>
  </tr>
  <tr>
-   <td><a href="#role-based-access-control">Role-Based Access Control</a></td>
+   <td><a href="https://www.geeksforgeeks.org/flask-role-based-access-control/">Role-Based Access Control</a></td>
    <td>Implementing role-based access control (RBAC) to manage permissions and access levels.</td>
  </tr>
  <tr>
-   <td><a href="#defining-user-roles">Defining User Roles</a></td>
+   <td><a href="https://flask-user.readthedocs.io/en/latest/authorization.html">Defining User Roles</a></td>
    <td>Creating and assigning roles to users in your Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#decorators-for-access-control">Decorators for Access Control</a></td>
+   <td><a href="https://circleci.com/blog/authentication-decorators-flask/">Decorators for Access Control</a></td>
    <td>Using decorators to enforce access control in your Flask views.</td>
  </tr>
  <tr>
-   <td><a href="#resource-based-permissions">Resource-Based Permissions</a></td>
+   <td><a href="https://stackoverflow.com/questions/63549476/how-to-implement-role-based-access-control-in-flask">Resource-Based Permissions</a></td>
    <td>Implementing resource-based permissions to control access to specific resources.</td>
- </tr>
- <tr>
-   <td><a href="#custom-authorization-logic">Custom Authorization Logic</a></td>
-   <td>Creating custom authorization logic to handle complex access control scenarios.</td>
  </tr>
 </table>
 
-### Data Protection
-<table width="100%">
- <tr>
-   <th>Resource Name</th>
-   <th>Description</th>
- </tr>
- <tr>
-   <td><a href="#introduction-to-data-protection">Introduction to Data Protection</a></td>
-   <td>An overview of data protection concepts and their importance in web applications.</td>
- </tr>
- <tr>
-   <td><a href="#data-encryption">Data Encryption</a></td>
-   <td>Implementing data encryption to protect sensitive information in your Flask application.</td>
- </tr>
- <tr>
-   <td><a href="#securely-storing-sensitive-data">Securely Storing Sensitive Data</a></td>
-   <td>Best practices for storing sensitive data such as passwords and personal information.</td>
- </tr>
- <tr>
-   <td><a href="#ssl-tls">SSL/TLS</a></td>
-   <td>Configuring SSL/TLS to encrypt data transmitted between clients and your Flask server.</td>
- </tr>
- <tr>
-   <td><a href="#using-flask-secrets">Using Flask Secrets</a></td>
-   <td>How to use Flask's built-in secrets module to generate secure tokens and keys.</td>
- </tr>
- <tr>
-   <td><a href="#data-integrity">Data Integrity</a></td>
-   <td>Ensuring data integrity by implementing checksums and digital signatures.</td>
- </tr>
- <tr>
-   <td><a href="#protecting-against-csrf">Protecting Against CSRF</a></td>
-   <td>Implementing Cross-Site Request Forgery protection in your Flask forms.</td>
- </tr>
- <tr>
-   <td><a href="#sql-injection-prevention">SQL Injection Prevention</a></td>
-   <td>Techniques to prevent SQL injection attacks in your Flask application.</td>
- </tr>
- <tr>
-   <td><a href="#xss-prevention">XSS Prevention</a></td>
-   <td>Protecting your Flask application from Cross-Site Scripting (XSS) attacks.</td>
- </tr>
-</table>
 
 ## Advanced Topics
 
