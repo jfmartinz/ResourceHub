@@ -607,6 +607,10 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
   <td><a href="https://www.youtube.com/watch?v=H3vZRDkzHdo&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm">Operating System playlist by Sudhakar Atchala</a></td>
   <td>This playlist by Sudhakar Atchala , consists of OS concepts covered in-depth , with examples provided for proper understanding.</td>
   </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PL3eEXnCBViH-SiXK96TZd-7k3Qvk5g1YH">Operating System playlist </a></td>
+  <td>The complete OS (Operating Systems) playlist covers core concepts, process management, memory management, file systems, and security, providing comprehensive insights and practical knowledge for mastering operating systems.</td>
+  </tr>
 </table>
 
 ### Interview
