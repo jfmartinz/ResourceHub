@@ -12,8 +12,9 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     - [Basic Concepts of SAS](#basic-concepts-of-sas)
 - [Statistical Operations](#statistical-operations)
 - [Data Set Operations](#data-set-operations)
-- [Data Management](#data-management)
-  
+- [Data Management in SAS](#data-management-in-sas)
+- [Data Analysis in SAS](#data-analysis-in-sas)
+
 
 ### Roadmap 
 > The SAS Roadmap outlines a structured path for learning and mastering Statistical Analysis system technology. It covers various topics, tools, libraries, best practices, and advanced concepts to help developers navigate their journey from beginner to advanced levels in SAS.
@@ -221,8 +222,9 @@ The SAS makes it very easy for an organization to work with the roughly gathered
   </tr>
 </table>
 
-### Data Management
+### Data Management in SAS
 >
+
 <table>
   <tr>
     <th>Resource Name</th>
@@ -249,7 +251,28 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <td>An introduction to data manipulation techniques in SAS, including data cleaning, transformation, aggregation, and summarization.</td>
   </tr>
 </table>
-### Data Analysis
+
+### Data Analysis in SAS
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://stats.oarc.ucla.edu/sas/modules/descriptive-statistics/">Descriptive Statistics</a></td>
+    <td>A guide to descriptive statistics in SAS, including measures of central tendency, variability, and distribution of data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.analyticsvidhya.com/blog/2015/06/data-visualization-guide-sas/">Data Visualization</a></td>
+    <td>An overview of data visualization techniques in SAS, including how to create charts, graphs, and plots for data analysis and presentation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://documentation.sas.com/doc/en/proc/9.4/n0qr8206eevq20n11i32zmro1s7t.htm">Statistical Procedures</a></td>
+    <td>An introduction to statistical procedures in SAS, including how to perform various statistical analyses such as regression, ANOVA, and hypothesis testing.</td>
+  </tr>
+</table>
 
 ### Specialized SAS Procedures
 
