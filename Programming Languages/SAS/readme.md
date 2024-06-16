@@ -325,8 +325,22 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Business Intelligence and Predictive Modeling
-> 
+>
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.sas.com/en_in/solutions/augmented-analytics-business-intelligence.html">Business Intelligence Tools</a></td>
+    <td>An overview of SAS business intelligence tools, including features, functionalities, and benefits for data analysis and decision-making.</td>
+  </tr>
+  <tr>
+    <td><a href="https://data-flair.training/blogs/sas-predictive-modeling/">Predictive Modeling</a></td>
+    <td>A guide to predictive modeling in SAS, including how to build and evaluate predictive models for forecasting, classification, and regression tasks.</td>
+  </tr>
+</table>
 
 ### Performance and Optimization
  
