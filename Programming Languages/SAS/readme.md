@@ -36,8 +36,13 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://medium.com/@careervira.community/guide-to-successful-sas-programmer-career-2024-india-edition-7ff399e7f380">SAS Roadmap</a></td>
-    <td>A detailed visual guide to understand SAS concepts and best practices. Step by step guide to learn SAS in 2024</td>
+    <td
+    a href="https://medium.com/@careervira.community/guide-to-successful-sas-programmer-career-2024-india-edition-7ff399e7f380">
+    SAS Roadmap
+    </a></td>
+    <td>
+    A detailed visual guide to understand SAS concepts and best practices. Step by step guide to learn SAS in 2024
+    </td>
   </tr>
 </table>
 
@@ -52,25 +57,47 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.javatpoint.com/sas-introduction">What is SAS?</a></td>
-    <td>An introduction to SAS, covering its definition, features, and applications in data analytics and business intelligence.</td>
+    <td>
+    <a href="https://www.javatpoint.com/sas-introduction">
+    What is SAS?
+    </a>
+    </td>
+    <td>
+    An introduction to SAS, covering its definition, features, and applications in data analytics and business intelligence.</td>
   </tr>
   <tr>
-    <td><a href="https://en.wikipedia.org/wiki/SAS_(software)">History of SAS</a></td>
-    <td>An overview of the history and evolution of SAS (Statistical Analysis System) software, highlighting its development and milestones.</td>
+    <td>
+    <a href="https://en.wikipedia.org/wiki/SAS_(software)">
+    History of SAS
+    </a>
+    </td>
+    <td>An overview of the history and evolution of SAS (Statistical Analysis System) software, highlighting its development and milestones.
+    </td>
   </tr>
+
   <tr>
-    <td><a href="https://www.javatpoint.com/features-of-sas">Features of SAS</a></td>
-    <td>A detailed explanation of the key features and capabilities of SAS software, including data management, analytics, and reporting.</td>
+    <td>
+    <a href="https://www.javatpoint.com/features-of-sas">Features of SAS</a>
+    </td>
+    <td>
+    A detailed explanation of the key features and capabilities of SAS software, including data management, analytics, and reporting.
+    </td>
   </tr>
   <tr>
     <td><a href="https://www.javatpoint.com/sas-intelligence-platform-architecture">SAS Architecture</a></td>
     <td>An exploration of the architecture of the SAS Intelligence Platform, detailing its components and functionality.</td>
   </tr>
   <tr>
-    <td><a href="https://www.geeksforgeeks.org/sas-full-form/">Characteristics of SAS</a></td>
-    <td>An overview of the characteristics and capabilities of SAS, including its full form and primary functionalities.</td>
+    <td>
+    <a href="https://www.geeksforgeeks.org/sas-full-form/">
+    Characteristics of SAS
+    </a>
+    </td>
+    <td>
+    An overview of the characteristics and capabilities of SAS, including its full form and primary functionalities.
+    </td>
   </tr>
+
   <tr>
     <td><a href="https://www.geeksforgeeks.org/difference-between-sap-and-sas/">Difference between SAP and SAS</a></td>
     <td>A comparison highlighting the differences between SAP (Systems, Applications & Products in Data Processing) and SAS software.</td>
@@ -192,12 +219,18 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.javatpoint.com/proc-sorting-in-sas">PROC Sorting in SAS</a></td>
+    <td>
+    <a href="https://www.javatpoint.com/proc-sorting-in-sas">PROC Sorting in SAS</a>
+    </td>
     <td>An explanation of PROC SORT in SAS, including how to sort data sets based on one or more variables.</td>
   </tr>
   <tr>
-    <td><a href="https://www.javatpoint.com/sas-sorting-on-multiple-variables">Multiple Variable Sorting</a></td>
-    <td>Explanation of sorting on multiple variables in SAS, including how to perform sorting operations based on multiple criteria.</td>
+    <td>
+    <a href="https://www.javatpoint.com/sas-sorting-on-multiple-variables">Multiple Variable Sorting</a>
+    </td>
+    <td>
+    Explanation of sorting on multiple variables in SAS, including how to perform sorting operations based on multiple criteria.
+    </td>
   </tr>
   <tr>
     <td><a href="https://www.javatpoint.com/sas-merge-dataset">Merge Data Sets</a></td>
@@ -216,50 +249,99 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <td>Explanation of concatenating multiple data sets in SAS, including how to combine data sets vertically or horizontally.</td>
   </tr>
   <tr>
-    <td><a href="https://www.javatpoint.com/sas-sub-setting-of-data-set">Sub-setting of data set</a></td>
-    <td>An overview of sub-setting data sets in SAS, including how to filter and extract specific rows or columns from a data set.</td>
+    <td>
+    <a href="https://www.javatpoint.com/sas-sub-setting-of-data-set">Sub-setting of data set</a>
+    </td>
+    <td>
+    An overview of sub-setting data sets in SAS, including how to filter and extract specific rows or columns from a data set.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+    <a href="https://www.javatpoint.com/format-data-sets-in-sas">
+    Format Data Sets</a>
+    </td>
+    <td>
+    Explanation of formatting data sets in SAS, including how to define and apply formats to variables in a data set.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+    <a href="https://www.javatpoint.com/sas-sql">SQL Operations</a>
+    </td>
+    <td>
+    An overview of performing SQL operations in SAS, including how to use SQL queries for data manipulation and analysis.</td>
   </tr>
   <tr>
-    <td><a href="https://www.javatpoint.com/format-data-sets-in-sas">Format Data Sets</a></td>
-    <td>Explanation of formatting data sets in SAS, including how to define and apply formats to variables in a data set.</td>
+    <td>
+    <a href="https://www.javatpoint.com/sas-output-delivery-system">
+    Output Delivery System
+    </a>
+    </td>
+    <td>
+    An explanation of the Output Delivery System (ODS) in SAS, including how to generate and manage various types of output in SAS.
+    </td>
   </tr>
-  <tr>
-    <td><a href="https://www.javatpoint.com/sas-sql">SQL Operations</a></td>
-    <td>An overview of performing SQL operations in SAS, including how to use SQL queries for data manipulation and analysis.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.javatpoint.com/sas-output-delivery-system">Output Delivery System</a></td>
-    <td>An explanation of the Output Delivery System (ODS) in SAS, including how to generate and manage various types of output in SAS.</td>
-  </tr>
+
 </table>
 
 ### Data Management in SAS
 >
 
 <table>
+
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.selecthub.com/p/etl-tools/sas-data-management/">Data Management</a></td>
-    <td>An overview of SAS data management capabilities, including ETL (Extract, Transform, Load) processes, data integration, and data quality management.</td>
+    <td>
+    <a href="https://www.selecthub.com/p/etl-tools/sas-data-management/">
+    Data Management
+    </a>
+    </td>
+    <td>
+    An overview of SAS data management capabilities, including ETL (Extract, Transform, Load) processes, data integration, and data quality management.
+    </td>
   </tr>
   <tr>
-    <td><a href="https://www.listendata.com/2013/04/sas-reading-importing-raw-data-into-sas.html">Data Importing</a></td>
-    <td>Explanation of how to import raw data into SAS, including reading various data formats and importing data from external sources.</td>
+    <td>
+    <a href="https://www.listendata.com/2013/04/sas-reading-importing-raw-data-into-sas.html">Data Importing</a>
+    </td>
+    <td>
+    Explanation of how to import raw data into SAS, including reading various data formats and importing data from external sources.
+    </td>
   </tr>
   <tr>
-    <td><a href="https://www.listendata.com/2023/07/export-sas-data-to-excel.html">Data Exporting</a></td>
-    <td>An overview of exporting SAS data to Excel format, including how to save SAS data sets as Excel files for further analysis or sharing.</td>
+    <td>
+    <a href="https://www.listendata.com/2023/07/export-sas-data-to-excel.html">Data Exporting
+    </a>
+    </td>
+    <td>
+    An overview of exporting SAS data to Excel format, including how to save SAS data sets as Excel files for further analysis or sharing.
+    </td>
   </tr>
+
   <tr>
-    <td><a href="https://documentation.sas.com/doc/en/lrmeta/9.4/part-5.htm">Data Step and SAS Functions</a></td>
-    <td>Explanation of the data step in SAS programming, including how to use SAS functions for data manipulation, transformation, and analysis.</td>
+    <td>
+    <a href="https://documentation.sas.com/doc/en/lrmeta/9.4/part-5.htm">
+    Data Step and SAS Functions
+    </a></td>
+    <td>
+    Explanation of the data step in SAS programming, including how to use SAS functions for data manipulation, transformation, and analysis.
+    </td>
   </tr>
+
   <tr>
-    <td><a href="https://online.stat.psu.edu/stat481/lesson/13/13.2">Data Manipulation</a></td>
-    <td>An introduction to data manipulation techniques in SAS, including data cleaning, transformation, aggregation, and summarization.</td>
+    <td>
+    <a href="https://online.stat.psu.edu/stat481/lesson/13/13.2">
+    Data Manipulation
+    </a></td>
+    <td>
+    An introduction to data manipulation techniques in SAS, including data cleaning, transformation, aggregation, and summarization.
+    </td>
   </tr>
 </table>
 
@@ -272,12 +354,23 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://stats.oarc.ucla.edu/sas/modules/descriptive-statistics/">Descriptive Statistics</a></td>
-    <td>A guide to descriptive statistics in SAS, including measures of central tendency, variability, and distribution of data.</td>
+    <td>
+    <a href="https://stats.oarc.ucla.edu/sas/modules/descriptive-statistics/">
+    Descriptive Statistics
+    </a></td>
+    <td>
+    A guide to descriptive statistics in SAS, including measures of central tendency, variability, and distribution of data.
+    </td>
   </tr>
+
   <tr>
-    <td><a href="https://www.analyticsvidhya.com/blog/2015/06/data-visualization-guide-sas/">Data Visualization</a></td>
-    <td>An overview of data visualization techniques in SAS, including how to create charts, graphs, and plots for data analysis and presentation.</td>
+    <td>
+    <a href="https://www.analyticsvidhya.com/blog/2015/06/data-visualization-guide-sas/">
+    Data Visualization
+    </a></td>
+    <td>
+    An overview of data visualization techniques in SAS, including how to create charts, graphs, and plots for data analysis and presentation.
+    </td>
   </tr>
   <tr>
     <td><a href="https://documentation.sas.com/doc/en/proc/9.4/n0qr8206eevq20n11i32zmro1s7t.htm">Statistical Procedures</a></td>
@@ -295,17 +388,33 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.sas.com/en_th/certification/exam-content-guides/advanced-programming.html">Advanced Data Step Programming</a></td>
-    <td>Information and resources for advanced data step programming in SAS, covering topics such as data manipulation, transformations, and advanced programming techniques.</td>
+    <td>
+    <a href="https://www.sas.com/en_th/certification/exam-content-guides/advanced-programming.html">
+    Advanced Data Step Programming
+    </a></td>
+    <td>
+    Information and resources for advanced data step programming in SAS, covering topics such as data manipulation, transformations, and advanced programming techniques.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+    <a href="https://www.tutorialspoint.com/sas/sas_macros.htm">
+    Macro Programming
+    </a></td>
+    <td>
+    An introduction to macro programming in SAS, including how to create and use macros for automating repetitive tasks, parameterizing code, and improving code reusability.
+    </td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/sas/sas_macros.htm">Macro Programming</a></td>
-    <td>An introduction to macro programming in SAS, including how to create and use macros for automating repetitive tasks, parameterizing code, and improving code reusability.</td>
+    <td>
+    <a href="https://www.javatpoint.com/sas-sql">
+    SQL in SAS
+    </a></td>
+    <td>
+    An overview of using SQL in SAS, including how to write and execute SQL queries for data manipulation, joining tables, and performing advanced data operations.</td>
   </tr>
-  <tr>
-    <td><a href="https://www.javatpoint.com/sas-sql">SQL in SAS</a></td>
-    <td>An overview of using SQL in SAS, including how to write and execute SQL queries for data manipulation, joining tables, and performing advanced data operations.</td>
-  </tr>
+
 </table>
 
 ### Specialized SAS Procedures
@@ -356,13 +465,24 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.sas.com/en_us/certification.html">Courses to get SAS certified</a></td>
-    <td>Information about SAS certification courses, including exam preparation, study materials, and certification paths.</td>
+    <td>
+    <a href="https://www.sas.com/en_us/certification.html">
+    Courses to get SAS certified
+    </a></td>
+    <td>
+    Information about SAS certification courses, including exam preparation, study materials, and certification paths.
+    </td>
   </tr>
+
   <tr>
-    <td><a href="https://www.coursera.org/courses?query=sas">SAS courses on Coursera</a></td>
-    <td>A collection of SAS courses available on Coursera, covering various topics in SAS programming, data analysis, and statistical modeling.</td>
+    <td>
+    <a href="https://www.coursera.org/courses?query=sas">SAS courses on Coursera</a>
+    </td>
+    <td>
+    A collection of SAS courses available on Coursera, covering various topics in SAS programming, data analysis, and statistical modeling.
+    </td>
   </tr>
+
 </table>
 
 
@@ -402,9 +522,14 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <td>A summary of the top 10 best SAS programming practices, including tips for efficient coding, debugging, and optimization.</td>
   </tr>
   <tr>
-    <td><a href="https://www.sas.com/content/dam/SAS/en_ca/User%20Group%20Presentations/Saskatoon-User-Group/JoseeRanger-LacroixRanger-MacrosBP.pdf">Utilizing Best Practices with SAS and Macros made easy</a></td>
-    <td>A presentation on utilizing best practices with SAS and macros, focusing on efficient macro programming techniques and best practices for SAS users.</td>
+    <td>
+    <a href="https://www.sas.com/content/dam/SAS/en_ca/User%20Group%20Presentations/Saskatoon-User-Group/JoseeRanger-LacroixRanger-MacrosBP.pdf">Utilizing Best Practices with SAS and Macros made easy</a></td>
+    <td>
+    A presentation on utilizing best practices with SAS and macros, focusing on efficient macro programming techniques and best practices for SAS users.
+    </td>
+
   </tr>
+
 </table>
 
 
@@ -418,16 +543,30 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=1.%20Data%20Cleaning%20and%20Preparation">Data Cleaning and Preparation</a></td>
-    <td>A beginner SAS project idea focused on cleaning and preparing data for analysis, including data validation, transformation, and handling missing values.</td>
+    <td>
+    <a href="https://topexceltips.com/sas-project-ideas/#:~:text=1.%20Data%20Cleaning%20and%20Preparation">
+    Data Cleaning and Preparation
+    </a>
+    </td>
+    <td>
+    A beginner SAS project idea focused on cleaning and preparing data for analysis, including data validation, transformation, and handling missing values.
+    </td>
   </tr>
   <tr>
-    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Exploratory%20Data%20Analysis%20(EDA)">Exploratory Data Analysis (EDA)</a></td>
-    <td>A project idea for conducting exploratory data analysis in SAS, including data visualization, summary statistics, and identifying patterns and trends in the data.</td>
+    <td>
+    <a href="https://topexceltips.com/sas-project-ideas/#:~:text=Exploratory%20Data%20Analysis%20(EDA)">Exploratory Data Analysis (EDA)</a>
+    </td>
+    <td>
+    A project idea for conducting exploratory data analysis in SAS, including data visualization, summary statistics, and identifying patterns and trends in the data.
+    </td>
   </tr>
   <tr>
-    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Simple%20Regression%20Analysis">Simple Regression Analysis</a></td>
-    <td>A project idea for performing simple regression analysis in SAS, including modeling relationships between variables and predicting outcomes based on regression models.</td>
+    <td>
+    <a href="https://topexceltips.com/sas-project-ideas/#:~:text=Simple%20Regression%20Analysis">Simple Regression Analysis</a>
+    </td>
+    <td>
+    A project idea for performing simple regression analysis in SAS, including modeling relationships between variables and predicting outcomes based on regression models.
+    </td>
   </tr>
 </table>
 
@@ -440,17 +579,36 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Predictive%20Modeling%20with%20Logistic%20Regression">Predictive Modeling with Logistic Regression</a></td>
-    <td>An intermediate SAS project idea focused on predictive modeling using logistic regression, including model building, evaluation, and prediction of binary outcomes.</td>
+    <td>
+    <a href="https://topexceltips.com/sas-project-ideas/#:~:text=Predictive%20Modeling%20with%20Logistic%20Regression">
+    Predictive Modeling with Logistic Regression
+    </a>
+    </td>
+    <td>
+    An intermediate SAS project idea focused on predictive modeling using logistic regression, including model building, evaluation, and prediction of binary outcomes.
+    </td>
   </tr>
   <tr>
-    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Time%20Series%20Forecasting">Time Series Forecasting</a></td>
-    <td>A project idea for time series forecasting in SAS, including analyzing historical data, identifying patterns, and predicting future trends and values.</td>
+    <td>
+    <a href="https://topexceltips.com/sas-project-ideas/#:~:text=Time%20Series%20Forecasting">
+    Time Series Forecasting
+    </a></td>
+    <td>
+    A project idea for time series forecasting in SAS, including analyzing historical data, identifying patterns, and predicting future trends and values.
+    </td>
   </tr>
   <tr>
-    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Cluster%20Analysis%20for%20Market%20Segmentation">Cluster Analysis for Market Segmentation</a></td>
-    <td>An SAS project idea for cluster analysis to segment customers or market data into distinct groups based on similarities and differences, enabling targeted marketing strategies.</td>
+    <td>
+    <a href="https://topexceltips.com/sas-project-ideas/#:~:text=Cluster%20Analysis%20for%20Market%20Segmentation">
+    Cluster Analysis for Market Segmentation
+    </a>
+    </td>
+    <td>
+    An SAS project idea for cluster analysis to segment customers or market data into distinct groups based on similarities and differences, enabling targeted marketing strategies.
+    </td>
+
   </tr>
+
 </table>
 
 ### Advanced SAS Project
@@ -461,7 +619,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Customer%20Churn%20Prediction">Customer Churn Prediction</a></td>
+    <td>
+    <a href="https://topexceltips.com/sas-project-ideas/#:~:text=Customer%20Churn%20Prediction">Customer Churn Prediction</a></td>
     <td>An advanced SAS project idea for predicting customer churn, including data analysis, feature engineering, modeling, and churn risk assessment.</td>
   </tr>
   <tr>
@@ -529,13 +688,21 @@ The SAS makes it very easy for an organization to work with the roughly gathered
   </tr>
   <tr>
     <td>Intro to SQL</td>
-    <td><a href="https://www.datacamp.com/courses/intro-to-sql-for-data-science">DataCamp</a></td>
-    <td>An introductory course to SQL for data science beginners.</td>
+    <td>
+    <a href="https://www.datacamp.com/courses/intro-to-sql-for-data-science">
+    DataCamp
+    </a>
+    </td>
+    <td>
+    An introductory course to SQL for data science beginners.</td>
   </tr>
   <tr>
-    <td>SQL Tutorial</td>
-    <td><a href="https://www.w3schools.com/sql/default.asp">W3Schools</a></td>
-    <td>A comprehensive tutorial on SQL covering various aspects of database querying and management.</td>
+    <td>
+    SQL Tutorial</td>
+    <td>
+    <a href="https://www.w3schools.com/sql/default.asp">W3Schools</a></td>
+    <td>
+    A comprehensive tutorial on SQL covering various aspects of database querying and management.</td>
   </tr>
   <tr>
     <td>SQLite Tutorial</td>
@@ -553,3 +720,4 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <td>A curated list of resources, tutorials, and tools for machine learning practitioners and enthusiasts.</td>
   </tr>
 </table>
+
