@@ -14,6 +14,9 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 - [Data Set Operations](#data-set-operations)
 - [Data Management in SAS](#data-management-in-sas)
 - [Data Analysis in SAS](#data-analysis-in-sas)
+- [Advanced Data Management](#advanced-data-management)
+- [Specialized SAS Procedures](#specialized-sas-procedures)
+
 
 
 ### Roadmap 
@@ -271,6 +274,29 @@ The SAS makes it very easy for an organization to work with the roughly gathered
   <tr>
     <td><a href="https://documentation.sas.com/doc/en/proc/9.4/n0qr8206eevq20n11i32zmro1s7t.htm">Statistical Procedures</a></td>
     <td>An introduction to statistical procedures in SAS, including how to perform various statistical analyses such as regression, ANOVA, and hypothesis testing.</td>
+  </tr>
+</table>
+
+
+### Advanced Data Management
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.sas.com/en_th/certification/exam-content-guides/advanced-programming.html">Advanced Data Step Programming</a></td>
+    <td>Information and resources for advanced data step programming in SAS, covering topics such as data manipulation, transformations, and advanced programming techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/sas/sas_macros.htm">Macro Programming</a></td>
+    <td>An introduction to macro programming in SAS, including how to create and use macros for automating repetitive tasks, parameterizing code, and improving code reusability.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-sql">SQL in SAS</a></td>
+    <td>An overview of using SQL in SAS, including how to write and execute SQL queries for data manipulation, joining tables, and performing advanced data operations.</td>
   </tr>
 </table>
 
