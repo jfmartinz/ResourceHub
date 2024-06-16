@@ -75,6 +75,20 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 ### Setting Up the Environment
 > 
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://its.uiowa.edu/support/article/102328">Installation</a></td>
+    <td>A guide on how to install SAS, including system requirements and step-by-step installation instructions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://data-flair.training/blogs/sas-environment/">Environment Setup</a></td>
+    <td>Instructions for setting up the SAS environment, including configuration settings and best practices for optimal performance.</td>
+  </tr>
+</table>
 
 ### Basic Concepts of SAS
 
