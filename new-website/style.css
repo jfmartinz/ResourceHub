@@ -6,7 +6,22 @@
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
 */
+::-webkit-scrollbar {
+  width: 20px;
+}
 
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: rgb(18, 26, 29);
+  border-radius: 20px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(rgb(104, 74, 126),rgb(102, 7, 236)); 
+  border-radius: 10px;
+  height:1px;
+}
 *,
 ::before,
 ::after {
