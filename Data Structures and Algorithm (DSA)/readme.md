@@ -21,7 +21,7 @@ This section serves as a curated collection of valuable resources for learning a
    - [Java](#java)<br>
    - [Python](#python)<br>
    - [Javascript](#javascript)<br>
-- [CheatSheets](#cheat-sheets)
+- [CheatSheet](#cheatsheet)
    
 - [Conclusion](#conclusion)
 
@@ -493,7 +493,7 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 </table>
 
-### cheat-sheets
+### Cheatsheet
 
 <table width="100%" id="sheets">
 <tr>
