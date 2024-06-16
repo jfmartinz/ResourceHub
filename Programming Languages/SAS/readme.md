@@ -91,6 +91,56 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Basic Concepts of SAS
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-user-interface">SAS User Interface</a></td>
+    <td>An overview of the SAS user interface, including navigation, menus, and tools available for data analysis and programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-program-structure">SAS Program Structure</a></td>
+    <td>Explanation of the structure of a SAS program, including data steps, procedures, and statements used for data manipulation and analysis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-data-set">SAS Data Set</a></td>
+    <td>An introduction to SAS data sets, including how data is organized and stored in SAS formats.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-variables">SAS Variables</a></td>
+    <td>Overview of SAS variables, including numeric, character, and date variables, and their use in data analysis and manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-array">SAS Array</a></td>
+    <td>Explanation of SAS arrays, their structure, and how they are used for handling multiple variables or data elements efficiently.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-operators">SAS Operators</a></td>
+    <td>Overview of SAS operators, including arithmetic, comparison, logical, and concatenation operators used in SAS programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-numeric-data-format">Numeric Data Format</a></td>
+    <td>Explanation of numeric data formats in SAS, including how to format numeric values for display and analysis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-loops">SAS Loops</a></td>
+    <td>Overview of SAS loops, including DO loops, iterative processing, and conditional looping structures in SAS programming.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-decision-making">SAS Decision Making</a></td>
+    <td>Explanation of decision-making statements and functions in SAS, including IF-THEN-ELSE, SELECT-WHEN, and other conditional logic.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-functions">SAS Functions</a></td>
+    <td>Overview of SAS functions, including character functions, numeric functions, date and time functions, and how to use them for data manipulation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-macro">SAS Macro</a></td>
+    <td>Introduction to SAS macros, including how to define, use, and manage macros for automating repetitive tasks and customizing SAS programs.</td>
+  </tr>
+</table>
 
 ### Data Management
 
