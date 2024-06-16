@@ -10,7 +10,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     - [Introduction](#introduction)
     - [Setting Up the Environment](#setting-up-the-environment)
     - [Basic Concepts of SAS](#basic-concepts-of-sas)
-    - [Statistical Operations](#statistical-operations)
+- [Statistical Operations](#statistical-operations)
+- [Data Set Operations](#data-set-operations)
 
   
 
@@ -167,6 +168,56 @@ The SAS makes it very easy for an organization to work with the roughly gathered
   <tr>
     <td><a href="https://www.javatpoint.com/cross-tabulation-in-sas">Cross Tabulation</a></td>
     <td>An overview of cross-tabulation in SAS, including how to create contingency tables and analyze relationships between categorical variables.</td>
+  </tr>
+</table>
+
+### Data Set Operations
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/proc-sorting-in-sas">PROC Sorting in SAS</a></td>
+    <td>An explanation of PROC SORT in SAS, including how to sort data sets based on one or more variables.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-sorting-on-multiple-variables">Multiple Variable Sorting</a></td>
+    <td>Explanation of sorting on multiple variables in SAS, including how to perform sorting operations based on multiple criteria.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-merge-dataset">Merge Data Sets</a></td>
+    <td>An overview of merging data sets in SAS, including how to combine data from multiple sources using SAS procedures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/read-raw-data-in-sas">Read Raw Data Set</a></td>
+    <td>Explanation of reading raw data sets in SAS, including how to import and process raw data files in SAS.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/write-data-sets-in-sas">Write Data Set</a></td>
+    <td>An overview of writing data sets in SAS, including how to export SAS data sets to external files or databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/concatenate-multiple-data-sets-in-sas">Concatenate Multiple Data Set</a></td>
+    <td>Explanation of concatenating multiple data sets in SAS, including how to combine data sets vertically or horizontally.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-sub-setting-of-data-set">Sub-setting of data set</a></td>
+    <td>An overview of sub-setting data sets in SAS, including how to filter and extract specific rows or columns from a data set.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/format-data-sets-in-sas">Format Data Sets</a></td>
+    <td>Explanation of formatting data sets in SAS, including how to define and apply formats to variables in a data set.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-sql">SQL Operations</a></td>
+    <td>An overview of performing SQL operations in SAS, including how to use SQL queries for data manipulation and analysis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sas-output-delivery-system">Output Delivery System</a></td>
+    <td>An explanation of the Output Delivery System (ODS) in SAS, including how to generate and manage various types of output in SAS.</td>
   </tr>
 </table>
 
