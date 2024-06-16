@@ -24,6 +24,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     - [Intermediate SAS Project](#intermediate-sas-project)
     - [Advanced SAS Project](#advanced-sas-project)
 - [Books](#books)
+- [Miscelleneous](#miscelleneous)
 
 
 ### Roadmap 
@@ -518,6 +519,37 @@ The SAS makes it very easy for an organization to work with the roughly gathered
   </tr>
 </table>
 
+### Miscelleneous
 
-
-
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Link</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Intro to SQL</td>
+    <td><a href="https://www.datacamp.com/courses/intro-to-sql-for-data-science">DataCamp</a></td>
+    <td>An introductory course to SQL for data science beginners.</td>
+  </tr>
+  <tr>
+    <td>SQL Tutorial</td>
+    <td><a href="https://www.w3schools.com/sql/default.asp">W3Schools</a></td>
+    <td>A comprehensive tutorial on SQL covering various aspects of database querying and management.</td>
+  </tr>
+  <tr>
+    <td>SQLite Tutorial</td>
+    <td><a href="http://www.sqlitetutorial.net/">SQLite Tutorial</a></td>
+    <td>A tutorial focused on SQLite, a popular embedded database management system.</td>
+  </tr>
+  <tr>
+    <td>Data Visualization Tools</td>
+    <td><a href="https://github.com/infoculture/awesome-datajournalism">GitHub</a></td>
+    <td>A curated list of data visualization tools for data journalism and storytelling.</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td><a href="https://github.com/josephmisiti/awesome-machine-learning">GitHub</a></td>
+    <td>A curated list of resources, tutorials, and tools for machine learning practitioners and enthusiasts.</td>
+  </tr>
+</table>
