@@ -27,7 +27,9 @@ body {
 }
   .content {
     padding: 7rem 0; }
-  
+  .content h3{
+    color:#737171;
+  }
   h2 {
     font-size: 3.5rem;
     font-weight: 700; }
