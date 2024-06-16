@@ -16,6 +16,8 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 - [Data Analysis in SAS](#data-analysis-in-sas)
 - [Advanced Data Management](#advanced-data-management)
 - [Specialized SAS Procedures](#specialized-sas-procedures)
+- [Business Intelligence and Predictive Modeling](#business-intelligence-and-predictive-modeling)
+
 
 
 
@@ -301,8 +303,30 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Specialized SAS Procedures
+> 
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://support.sas.com/documentation/onlinedoc/stat/indexproc.html">Advanced Statistical Procedures</a></td>
+    <td>A comprehensive guide to advanced statistical procedures in SAS, covering a wide range of statistical analyses and techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://towardsai.net/p/l/time-series-analysis-in-sas">Time Series Analysis</a></td>
+    <td>An introduction to time series analysis in SAS, including how to analyze and model time series data for forecasting and trend analysis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://stats.oarc.ucla.edu/sas/seminars/sas-survival/">Survival Analysis</a></td>
+    <td>An overview of survival analysis in SAS, including how to analyze survival data, calculate survival probabilities, and perform survival modeling.</td>
+  </tr>
+</table>
 
 ### Business Intelligence and Predictive Modeling
+> 
+
 
 ### Performance and Optimization
  
