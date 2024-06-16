@@ -36,10 +36,11 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     <th>Description</th>
   </tr>
   <tr>
-    <td
-    a href="https://medium.com/@careervira.community/guide-to-successful-sas-programmer-career-2024-india-edition-7ff399e7f380">
+    <td>
+    <a href="https://www.simplilearn.com/4-step-roadmap-to-launch-sas-career-article">
     SAS Roadmap
-    </a></td>
+    </a>
+    </td>
     <td>
     A detailed visual guide to understand SAS concepts and best practices. Step by step guide to learn SAS in 2024
     </td>
