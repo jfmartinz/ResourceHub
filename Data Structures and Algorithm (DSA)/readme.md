@@ -117,6 +117,11 @@ Let's make coding fun and exciting! 🚀.</td>
   <td> Data Structures and Algorithms is an important aspect of every coding interview. This course will help you prepare for placements, coding interviews, and logic building. The course walks you through multiple Java algorithms, data structure problems, and their solutions with step-by-step visualizations, so that you are actually learning instead of blindly memorizing solutions.
 </td>
 </tr>
+ <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"> Data Structures and Algorithms - Full Course in C++ </a></td>
+  <td> Learn Data Structures and Algorithms in C++: comprehensive course covering key concepts, practical coding, and optimization techniques.
+</td>
+</tr>
 </table>
 
 ## Interview Questions
