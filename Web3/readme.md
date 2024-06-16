@@ -374,6 +374,10 @@ develop software that works with them</td>
     <td>Wagmi is a React Hooks library for Ethereum  Wagmi has a CLI to manage ABIs as well as a robust ecosystem of third-party libraries, RainbowKit, and many more, so you can get started quickly without needing to build everything from scratch.</td>
   </tr>
   <tr>
+    <td><a href="https://www.dynamic.xyz/">Dynamic </a></td>
+    <td>Dynamic offers a suite of tools for effortless log in, wallet creation and user management. Designed for users. Built for developers.</td>
+  </tr>
+  <tr>
     <td><a href="https://web3py.readthedocs.io/en/stable/">Web3.py</a></td>
     <td>Web3.py is a Python library for interacting with the Ethereum blockchain. It provides a convenient interface for querying blockchain data, sending transactions, and deploying contracts using Python.</td>
   </tr>
