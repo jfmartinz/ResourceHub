@@ -15,6 +15,16 @@
             padding: 45px;
         }
 
+        nav {
+            background-color: white !important;
+            color: black !important;
+        }
+
+        .dark-mode nav{
+            background-color: black !important;
+            color: white !important;
+        }
+
 /* Container for aligning items to the right */
 .right-corner {
     display: flex;
@@ -80,28 +90,6 @@
     transform: translate(-50%, -50%);
 }
 
-
-
-#mobile-drawer {
-    top: 1px;
-    color: white;
-}
-
-#close-icon {
-    z-index: 1000;
-    position: relative;
-}
-
-/* Media query to hide menu-icon on large screens */
-@media (min-width: 1024px) {
-    .hidden-desktop-on-large {
-        display: none;
-    }
-    #close-icon {
-        display: none;
-    }
-}
-
     </style>
     <link rel="shortcut icon" href="/ResourceHub/website/assets/logo.png" type="image/x-icon">
 
@@ -113,23 +101,11 @@
         <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm">
             <div class="flex justify-between mt-4 items-center">
                 <div class="flex items-center flex-shrink-0">
-                    <img class="h-10 w-10 mr-2" src="./assets/logo.png" alt="Logo" />
-                    <span class="text-xl tracking-tight cursor-pointer hover-effect">ResourceHub</span>
+                    <a href="index.html" class="flex items-center">
+                        <img id="logo-image" class="h-10 w-10 mr-2" src="assets/footerLight.png" alt="Logo" />
+                        <span class="text-xl tracking-tight cursor-pointer hover-effect">ResourceHub</span>
+                    </a>
                 </div>
-                <ul class="hidden-mobile ml-14 space-x-12">
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="index.html">Home</a>
-                    </li>
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="about.html">About</a>
-                    </li>
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="/">Services</a>
-                    </li>
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="/">Contact</a>
-                    </li>
-                </ul>
                 <div class="flex items-center ml-auto">
                     <!-- Dark mode toggle icon -->
                     <input type="checkbox" id="slider" class="slider hidden" onclick="toggleDarkMode()">
@@ -137,32 +113,9 @@
                         <div class="slider-circle bg-white w-6 h-6 rounded-full shadow-md transform transition duration-500"></div>
                     </label>
                     <!-- End dark mode toggle icon -->
-                    <button id="toggle-navbar" class="ml-4">
-                        <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden-desktop-on-large" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-                        </svg>
-                        <svg id="close-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-                        </svg>
-                    </button>
                 </div>
             </div>
-            <div id="mobile-drawer" class="hidden text-white backdrop-blur opacity-85 fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
-                <ul>
-                    <li class="py-4 hover-effect">
-                        <a href="/">Home</a>
-                    </li>
-                    <li class="py-4 hover-effect">
-                        <a href="about.html">About</a>
-                    </li>
-                    <li class="py-4 hover-effect">
-                        <a href="/">Services</a>
-                    </li>
-                    <li class="py-4 hover-effect">
-                        <a href="/">Contact</a>
-                    </li>
-                </ul>
-            </div>
+            
         </div>
     </nav>
 
@@ -194,8 +147,17 @@
 // });
         // Dark mode toggle script
         function toggleDarkMode() {
+            console.log('Toggling dark mode...');
+
+
             document.body.classList.toggle('dark-mode');
             document.body.classList.toggle('light-mode');
+
+            // Toggle logo images based on mode
+            const logoImg = document.getElementById('logo-image');
+            const isDarkModeEnabled = document.body.classList.contains('dark-mode');
+            logoImg.src = isDarkModeEnabled ? 'assets/footerDark.png' : 'assets/footerLight.png';
+
 
             const contentDisplay = document.querySelector('.content-display');
             contentDisplay.classList.toggle('dark-mode');
@@ -214,16 +176,7 @@
         document.getElementById('readme-content').innerHTML = marked.parse(readmeContent);
 
         // Toggle navbar script
-        const toggleNavbarButton = document.getElementById('toggle-navbar');
-        const mobileDrawer = document.getElementById('mobile-drawer');
-        const menuIcon = document.getElementById('menu-icon');
-        const closeIcon = document.getElementById('close-icon');
 
-        toggleNavbarButton.addEventListener('click', () => {
-            mobileDrawer.classList.toggle('hidden');
-            menuIcon.classList.toggle('hidden');
-            closeIcon.classList.toggle('hidden');
-        });
     </script>
 </body>
 
