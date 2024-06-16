@@ -12,7 +12,7 @@ The SAS makes it very easy for an organization to work with the roughly gathered
     - [Basic Concepts of SAS](#basic-concepts-of-sas)
 - [Statistical Operations](#statistical-operations)
 - [Data Set Operations](#data-set-operations)
-
+- [Data Management](#data-management)
   
 
 ### Roadmap 
@@ -222,7 +222,33 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 </table>
 
 ### Data Management
-
+>
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.selecthub.com/p/etl-tools/sas-data-management/">Data Management</a></td>
+    <td>An overview of SAS data management capabilities, including ETL (Extract, Transform, Load) processes, data integration, and data quality management.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.listendata.com/2013/04/sas-reading-importing-raw-data-into-sas.html">Data Importing</a></td>
+    <td>Explanation of how to import raw data into SAS, including reading various data formats and importing data from external sources.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.listendata.com/2023/07/export-sas-data-to-excel.html">Data Exporting</a></td>
+    <td>An overview of exporting SAS data to Excel format, including how to save SAS data sets as Excel files for further analysis or sharing.</td>
+  </tr>
+  <tr>
+    <td><a href="https://documentation.sas.com/doc/en/lrmeta/9.4/part-5.htm">Data Step and SAS Functions</a></td>
+    <td>Explanation of the data step in SAS programming, including how to use SAS functions for data manipulation, transformation, and analysis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://online.stat.psu.edu/stat481/lesson/13/13.2">Data Manipulation</a></td>
+    <td>An introduction to data manipulation techniques in SAS, including data cleaning, transformation, aggregation, and summarization.</td>
+  </tr>
+</table>
 ### Data Analysis
 
 ### Specialized SAS Procedures
