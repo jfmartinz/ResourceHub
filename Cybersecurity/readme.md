@@ -317,6 +317,12 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
     </td>
     <td>This playlist by edureka is the best playlist for learning cybersecurity, this will help you learn Cyber Security from scratch. You will get to know what is the role of Cyber Security in today's IT world and how different kind of attacks are taken care by Cyber Security.</td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE">CS50's Introduction to Cybersecurity</a>
+    </td>
+    <td>This Introduction to Cyber Security playlist by Harvard University covers the basics of cybersecurity. It’s perfect for beginners or those without a technical background.</td>
+  </tr>
 </table>
 
 ### Community
