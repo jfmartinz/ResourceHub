@@ -323,6 +323,12 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
     </td>
     <td>This Introduction to Cyber Security playlist by Harvard University covers the basics of cybersecurity. It’s perfect for beginners or those without a technical background.</td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLTZYG7bZ1u6ocTMdhDwwmfjaNv134KcWn">Google Cybersecurity Certificate</a>
+    </td>
+    <td>Prepare for a career in high-growth field of Cybersecurity.</td>
+  </tr>
 </table>
 
 ### Community
