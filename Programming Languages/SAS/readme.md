@@ -456,4 +456,27 @@ The SAS makes it very easy for an organization to work with the roughly gathered
 
 ### Advanced SAS Project
 
+<table>
+  <tr>
+    <th>Project Topic</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Customer%20Churn%20Prediction">Customer Churn Prediction</a></td>
+    <td>An advanced SAS project idea for predicting customer churn, including data analysis, feature engineering, modeling, and churn risk assessment.</td>
+  </tr>
+  <tr>
+    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Anomaly%20Detection%20in%20Cybersecurity">Anomaly Detection in Cybersecurity</a></td>
+    <td>A project idea for detecting anomalies and suspicious activities in cybersecurity data using SAS, including anomaly detection algorithms and security risk assessment.</td>
+  </tr>
+  <tr>
+    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Supply%20Chain%20Optimization">Supply Chain Optimization</a></td>
+    <td>An SAS project idea for optimizing supply chain operations, including inventory management, demand forecasting, logistics optimization, and cost reduction strategies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://topexceltips.com/sas-project-ideas/#:~:text=Fraud%20Detection%20in%20Financial%20Transactions">Fraud Detection in Financial Transactions</a></td>
+    <td>An SAS project idea for detecting fraud and suspicious activities in financial transactions, including fraud detection algorithms, anomaly detection, and risk assessment in financial data.</td>
+  </tr>
+</table>
+
 ### 
