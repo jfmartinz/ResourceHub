@@ -31,12 +31,12 @@
 
 
     <div
-        class="w-full navbr text-gray-800 bg-transparent dark:text-slate-200 dark-mode:text-gray-200 dark-mode:bg-gray-800">
+        class="w-full text-gray-800 bg-transparent navbr dark:text-slate-200 dark-mode:text-gray-200 dark-mode:bg-gray-800">
         <div x-data="{ open: true }"
             class="flex flex-col items-center justify-between max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
-            <div class="flex flex-row items-center justify-between p-4">
+            <div class="flex flex-row items-center justify-between p-4 gap-100">
                 <a style="font-family: 'Righteous'; text-transform: none;" href="#"
-                    class="text-lg font-semibold tracking-widest text-gray-900 dark:text-slate-200 uppercase rounded-lg dark-mode:text-white focus:outline-none focus:shadow-outline">ResourceHub</a>
+                    class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark:text-slate-200 dark-mode:text-white focus:outline-none focus:shadow-outline">ResourceHub</a>
                 <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open">
                     <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
                         <path x-show="!open" fill-rule="evenodd"
@@ -49,9 +49,8 @@
                 </button>
             </div>
             <nav :class="{'flex': open, 'hidden': !open}"
-                class="flex-col flex-grow hidden pb-4  md:pb-0 md:flex md:justify-center md:flex-row">
-                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200  focus:shadow-outline dark:bg-transparent  md:mt-0 md:ml-4 
-                dark:text-slate-200 focus:outline-none focus:shadow-outline" href="#Home">Home</a>
+                class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-center md:flex-row">
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:shadow-outline dark:bg-transparent md:mt-0 md:ml-4 dark:text-slate-200 focus:outline-none" href="#Home">Home</a>
                 <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                     href="#about">About</a>
                 <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
@@ -76,11 +75,11 @@
                             d="M12 0a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.1c-3.4.7-4.1-1.6-4.1-1.6-.5-1.2-1.3-1.6-1.3-1.6-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.3 1.8 1.3 1 .2 1.7.7 2 .9.2-.7.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-5.6 0-1.3.4-2.3 1.2-3.2-.1-.3-.5-1.4.1-3 0 0 1-.3 3.4 1.2a11.4 11.4 0 0 1 6.2 0c2.4-1.5 3.4-1.2 3.4-1.2.6 1.6.2 2.7.1 3 .8.9 1.2 1.9 1.2 3.2 0 4.3-2.8 5.3-5.5 5.6.4.4.7 1.1.7 2.1v3c0 .3.2.7.8.6A12 12 0 0 0 12 0Z" />
                     </svg>
                 </a>
-                <input type="checkbox" id="slider" class="slider hidden" onclick="toggleDarkMode()">
+                <input type="checkbox" id="slider" class="hidden slider" onclick="toggleDarkMode()">
                 <label for="slider"
-                    class="slider-label bg-gray-300 dark:bg-gray-700 w-16 h-8 flex items-center rounded-full p-1 cursor-pointer transition duration-500">
+                    class="flex items-center w-16 h-8 p-1 transition duration-500 bg-gray-300 rounded-full cursor-pointer slider-label dark:bg-gray-700">
                     <div
-                        class="slider-circle bg-white w-6 h-6 rounded-full shadow-md transform transition duration-500">
+                        class="w-6 h-6 transition duration-500 transform bg-white rounded-full shadow-md slider-circle">
                     </div>
                 </label>
 
@@ -99,71 +98,71 @@
         <div class="mt-36 items-center p-10 max-w-[60rem]" id="Home">
 
 
-            <h1 class=" text-xl text-center sm:text-2xl md:text-6xl lg:text-8xl font-bold mb-20 ">ResourceHub
+            <h1 class="mb-20 text-xl font-bold text-center sm:text-2xl md:text-6xl lg:text-8xl">ResourceHub
             </h1>
 
-            <p class=" mb-20 max-w-2xl dark:text-gray-400">ResourceHub is an open-source project that
+            <p class="max-w-2xl mb-20 dark:text-gray-400">ResourceHub is an open-source project that
                 serves as a
                 one-stop
                 repository of valuable
                 resources curated by the amazing contributors in the community</p>
 
-            <div class="space-x-4 mb-40 ">
+            <div class="flex flex-col mb-40 space-x-4 gap-35px md:justify-center md:flex-row">
                 <button
-                    class="roundbtn px-4 py-4 bg-gray-300  dark:text-white hover:bg-black dark:bg-gray-800    hover:text-white dark:hover:bg-white dark:hover:text-black " ><a 
+                    class="px-4 py-4 bg-gray-300 roundbtn dark:text-white hover:bg-black dark:bg-gray-800 hover:text-white dark:hover:bg-white dark:hover:text-black " ><a 
                     href="#resources"> Explore
                     Resources
                 </button>
                 <button
-                    class="px-4 py-4 rounded bg-gray-300 dark:text-white dark:bg-gray-800 hover:bg-black roundbtn hover:text-white dark:hover:bg-white dark:hover:text-black"><a
+                    class="px-4 py-4 bg-gray-300 rounded dark:text-white dark:bg-gray-800 hover:bg-black roundbtn hover:text-white dark:hover:bg-white dark:hover:text-black"><a
                         href="https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md" target="_blank"
                         >How
                         to Contribute</button>
                 <button
-                    class="px-4 py-4 rounded bg-gray-300 dark:text-white hover:bg-black hover:text-white dark:bg-gray-800 roundbtn  dark:hover:bg-white dark:hover:text-black"><a
+                    class="px-4 py-4 bg-gray-300 rounded dark:text-white hover:bg-black hover:text-white dark:bg-gray-800 roundbtn dark:hover:bg-white dark:hover:text-black"><a
                         href="https://github.com/jfmartinz/ResourceHub" target="_blank">View
                         on GitHub</button>
             </div>
-            <div class="mt-20 grid grid-cols-2 md:grid-cols-4 gap-5" id="resources">
-                <!-- <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div> -->
-                <!-- <div class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "><a
+            <div class="grid grid-cols-1 gap-5 mt-20 md:grid-cols-4" id="resources">
+                <!-- <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div> -->
+                <!-- <div class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development" target="_blank">Web
                         Development</a></div>
-                <div class="px-4 roundbtn1 py-4  bg-gray-300 dark:bg-gray-800"><a
+                <div class="px-4 py-4 bg-gray-300 roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/App%20Development" target="_blank">App
                         Development</a></div>
-                <div class="px-4 py-4 roundbtn1 bg-gray-300 dark:bg-gray-800"><a
+                <div class="px-4 py-4 bg-gray-300 roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/DevOps" target="_blank">DevOps
                     </a> </div>
-                <div class="px-4 py-4 rounded bg-gray-300 roundbtn1 dark:bg-gray-800"><a
+                <div class="px-4 py-4 bg-gray-300 rounded roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database)"
                         target="_blank">Database</a></div>
-                <div class="px-4 py-2 rounded bg-gray-300 roundbtn1 dark:bg-gray-800"><a
+                <div class="px-4 py-2 bg-gray-300 rounded roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages"
                         target="_blank">Programming Languages</a></div>
-                <div class="px-4 py-2  bg-gray-300 roundbtn1 dark:bg-gray-800"><a
+                <div class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design" target="_blank">UI/UX
                         Design</a></div>
-                <div class="px-4 py-2 rounded bg-gray-300 roundbtn1 dark:bg-gray-800"><a
+                <div class="px-4 py-2 bg-gray-300 rounded roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning"
                         target="_blank">Machine Learning</a></div>
-                <div class="px-4 py-2 roundbtn1  bg-gray-300 dark:bg-gray-800"><a href="#Home" target="_blank">Web3</a>
+                <div class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800"><a href="#Home" target="_blank">Web3</a>
                 </div>
-                <div class="px-4 py-2 rounded bg-gray-300 roundbtn1 dark:bg-gray-800"><a
+                <div class="px-4 py-2 bg-gray-300 rounded roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science" target="_blank">Data
                         Science</a> </div>
-                <div class="px-4 py-2 rounded roundbtn1 dark:bg-gray-800 bg-gray-300 "><a
+                <div class="px-4 py-2 bg-gray-300 rounded roundbtn1 dark:bg-gray-800 "><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Open%20Source%20Development"
                         target="_blank">Open Source Development</a></div>
             </div> -->
@@ -202,7 +201,7 @@
     </div>
     <!-- Footer Section -->
 <div class="footer-container">
-    <div class="footer-content">
+    <div class="flex flex-col footer-content md:flex-row">
         <div class="footer-left">
             <div class="logo-and-title">
                 <img id="logo-image" src="assets/footerLight.png" alt="ResourceHub Image">
