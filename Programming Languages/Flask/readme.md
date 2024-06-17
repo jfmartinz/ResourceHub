@@ -15,7 +15,6 @@
 - [Security](#security)
   - [Authentication](#authentication)
   - [Authorization](#authorization)
-  - [Data Protection](#data-protection)
 - [Advanced Topics](#advanced-topics)
   - [Asynchronous Programming](#asynchronous-programming)
   - [WebSockets](#websockets)
@@ -353,24 +352,24 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-asynchronous-programming">Introduction to Asynchronous Programming</a></td>
+   <td><a href="https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb">Introduction to Asynchronous Programming</a></td>
    <td>An overview of asynchronous programming concepts and their benefits in web development.</td>
  </tr>
  <tr>
-   <td><a href="#asyncio-in-flask">Asyncio in Flask</a></td>
+   <td><a href="https://www.youtube.com/watch?app=desktop&v=Or1hnwfHOzM">Asyncio in Flask</a></td>
    <td>How to integrate asyncio with Flask to handle asynchronous tasks.</td>
  </tr>
  <tr>
-   <td><a href="#using-flask-async">Using Flask-Async</a></td>
+   <td><a href="https://dev.to/sethmlarson/the-problem-with-flask-async-views-and-async-globals-pl">Using Flask-Async</a></td>
    <td>Setting up and using Flask-Async to add asynchronous support to your Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#asynchronous-requests">Asynchronous Requests</a></td>
+   <td><a href="https://medium.com/@himanshuit3036/exploring-asynchronous-requests-in-python-with-flask-and-gevent-73e80b9f6dfa">Asynchronous Requests</a></td>
    <td>Handling asynchronous HTTP requests in Flask using asynchronous views.</td>
  </tr>
  <tr>
-   <td><a href="#background-tasks">Background Tasks</a></td>
-   <td>Running background tasks asynchronously with Flask using Celery or RQ.</td>
+   <td><a href="https://testdriven.io/blog/flask-and-celery/">Background Tasks</a></td>
+   <td>Running background tasks asynchronously with Flask using Celery.</td>
  </tr>
 </table>
 
@@ -381,23 +380,23 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-websockets">Introduction to WebSockets</a></td>
+   <td><a href="https://medium.com/@yassimortensen/an-introduction-to-websockets-10b131182559">Introduction to WebSockets</a></td>
    <td>An overview of WebSockets and their use in real-time web applications.</td>
  </tr>
  <tr>
-   <td><a href="#setting-up-flask-socketio">Setting Up Flask-SocketIO</a></td>
+   <td><a href="https://mysteryweevil.medium.com/real-time-apps-with-flask-socketio-a-beginners-guide-394143d4d473">Setting Up Flask-SocketIO</a></td>
    <td>Installing and configuring Flask-SocketIO for WebSocket support in your Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#real-time-communication">Real-Time Communication</a></td>
+   <td><a href="https://medium.com/@adrianhuber17/how-to-build-a-simple-real-time-application-using-flask-react-and-socket-io-7ec2ce2da977">Real-Time Communication</a></td>
    <td>Implementing real-time communication between the client and server using Flask-SocketIO.</td>
  </tr>
  <tr>
-   <td><a href="#handling-events">Handling Events</a></td>
+   <td><a href="https://www.linkedin.com/pulse/how-create-handle-events-python-ay%C5%9Fe-k%C3%BCbra-kuyucu-09v1f/">Handling Events</a></td>
    <td>Defining and handling custom events with Flask-SocketIO.</td>
  </tr>
  <tr>
-   <td><a href="#broadcasting-messages">Broadcasting Messages</a></td>
+   <td><a href="https://stackoverflow.com/questions/29266594/broadcast-to-all-connected-clients-except-sender-with-python-flask-socketio">Broadcasting Messages</a></td>
    <td>Broadcasting messages to multiple clients using Flask-SocketIO.</td>
  </tr>
 </table>
@@ -409,32 +408,20 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-restful-apis">Introduction to RESTful APIs</a></td>
+   <td><a href="https://dzone.com/articles/introduction-to-rest-api-restful-web-services">Introduction to RESTful APIs</a></td>
    <td>An overview of RESTful APIs and their principles.</td>
  </tr>
  <tr>
-   <td><a href="#creating-restful-api">Creating a RESTful API</a></td>
+   <td><a href="https://www.linode.com/docs/guides/create-restful-api-using-python-and-flask/">Creating a RESTful API</a></td>
    <td>Step-by-step guide to creating a RESTful API using Flask.</td>
  </tr>
  <tr>
-   <td><a href="#flask-restful">Flask-RESTful</a></td>
+   <td><a href="https://flask-restful.readthedocs.io/en/latest/">Flask-RESTful</a></td>
    <td>Using Flask-RESTful extension to simplify the creation of RESTful APIs.</td>
  </tr>
  <tr>
-   <td><a href="#handling-json-data">Handling JSON Data</a></td>
+   <td><a href="https://www.tutorialspoint.com/how-to-process-incoming-request-data-in-flask">Handling JSON Data</a></td>
    <td>Processing and returning JSON data in your Flask API endpoints.</td>
- </tr>
- <tr>
-   <td><a href="#api-authentication">API Authentication</a></td>
-   <td>Implementing authentication mechanisms for securing your RESTful API.</td>
- </tr>
- <tr>
-   <td><a href="#api-versioning">API Versioning</a></td>
-   <td>Strategies for versioning your RESTful API to manage changes and updates.</td>
- </tr>
- <tr>
-   <td><a href="#error-handling-in-apis">Error Handling in APIs</a></td>
-   <td>Best practices for handling errors and returning appropriate responses in your API.</td>
  </tr>
 </table>
 
@@ -445,32 +432,24 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-graphql">Introduction to GraphQL</a></td>
+   <td><a href="https://graphql.org/learn/">Introduction to GraphQL</a></td>
    <td>An overview of GraphQL, a query language for APIs, and its advantages over REST.</td>
  </tr>
  <tr>
-   <td><a href="#setting-up-graphql">Setting Up GraphQL</a></td>
+   <td><a href="https://dev.to/bredmond1019/building-models-in-flask-and-graphql-30an">Setting Up GraphQL</a></td>
    <td>How to set up a GraphQL server using Flask and Graphene.</td>
  </tr>
  <tr>
-   <td><a href="#defining-graphql-schema">Defining GraphQL Schema</a></td>
+   <td><a href="https://medium.com/flux-it-thoughts/building-a-graphql-server-with-flask-graphene-and-sqlalchemy-25e4006ad3e1">Defining GraphQL Schema</a></td>
    <td>Creating and defining your GraphQL schema with types, queries, and mutations.</td>
  </tr>
  <tr>
-   <td><a href="#resolvers-in-graphql">Resolvers in GraphQL</a></td>
+   <td><a href="https://www.geeksforgeeks.org/resolvers-in-graphql/">Resolvers in GraphQL</a></td>
    <td>Writing resolvers to fetch and manipulate data in response to GraphQL queries and mutations.</td>
  </tr>
  <tr>
-   <td><a href="#integrating-with-database">Integrating with Database</a></td>
+   <td><a href="https://srhussain99.medium.com/using-graphql-with-nodejs-and-mongodb-to-perform-crud-operations-55a3c20260f3">Integrating with Database</a></td>
    <td>Connecting your GraphQL server to a database and performing CRUD operations.</td>
- </tr>
- <tr>
-   <td><a href="#authentication-and-authorization-in-graphql">Authentication and Authorization in GraphQL</a></td>
-   <td>Implementing authentication and authorization mechanisms in your GraphQL API.</td>
- </tr>
- <tr>
-   <td><a href="#testing-graphql-apis">Testing GraphQL APIs</a></td>
-   <td>Best practices for testing your GraphQL APIs.</td>
  </tr>
 </table>
 
@@ -483,27 +462,27 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-unit-testing">Introduction to Unit Testing</a></td>
+   <td><a href="https://dev.to/svenherr/part-1-introduction-to-unit-testing-with-examples-21k2">Introduction to Unit Testing</a></td>
    <td>An overview of unit testing, its importance, and the principles behind writing effective unit tests.</td>
  </tr>
  <tr>
-   <td><a href="#setting-up-unit-tests">Setting Up Unit Tests</a></td>
+   <td><a href="https://codethechange.stanford.edu/guides/guide_flask_unit_testing.html">Setting Up Unit Tests</a></td>
    <td>How to configure and set up unit testing in a Flask application using popular testing frameworks like pytest and unittest.</td>
  </tr>
  <tr>
-   <td><a href="#writing-unit-tests">Writing Unit Tests</a></td>
+   <td><a href="https://www.linkedin.com/pulse/writing-effective-unit-tests-best-practices-patterns-vijay-londhe/">Writing Unit Tests</a></td>
    <td>Guidelines and examples for writing unit tests to verify the functionality of individual components in your Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#mocking-in-unit-tests">Mocking in Unit Tests</a></td>
+   <td><a href="https://microsoft.github.io/code-with-engineering-playbook/automated-testing/unit-testing/mocking/">Mocking in Unit Tests</a></td>
    <td>How to use mocking to isolate components and simulate dependencies in your unit tests.</td>
  </tr>
  <tr>
-   <td><a href="#testing-flask-views">Testing Flask Views</a></td>
+   <td><a href="https://testdriven.io/blog/flask-pytest/">Testing Flask Views</a></td>
    <td>Best practices for writing unit tests for Flask view functions and routes.</td>
  </tr>
  <tr>
-   <td><a href="#testing-flask-models">Testing Flask Models</a></td>
+   <td><a href="https://flask.palletsprojects.com/en/3.0.x/testing/">Testing Flask Models</a></td>
    <td>Creating unit tests to verify the behavior and data integrity of your SQLAlchemy models.</td>
  </tr>
 </table>
@@ -515,28 +494,16 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-integration-testing">Introduction to Integration Testing</a></td>
+   <td><a href="https://www.qatouch.com/blog/introduction-to-integration-testing/">Introduction to Integration Testing</a></td>
    <td>An overview of integration testing, its significance, and how it differs from unit testing.</td>
  </tr>
  <tr>
-   <td><a href="#setting-up-integration-tests">Setting Up Integration Tests</a></td>
+   <td><a href="https://www.educative.io/courses/pure-functional-http-apis-scala/setting-up-integration-tests">Setting Up Integration Tests</a></td>
    <td>Configuring and setting up integration testing in a Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#writing-integration-tests">Writing Integration Tests</a></td>
+   <td><a href="https://jozimarback.medium.com/integration-test-with-flask-api-cf1b6fc4be4d">Writing Integration Tests</a></td>
    <td>Guidelines and examples for writing integration tests to ensure that different components of your Flask application work together as expected.</td>
- </tr>
- <tr>
-   <td><a href="#testing-api-endpoints">Testing API Endpoints</a></td>
-   <td>Best practices for writing integration tests for your RESTful or GraphQL API endpoints.</td>
- </tr>
- <tr>
-   <td><a href="#database-integration-testing">Database Integration Testing</a></td>
-   <td>How to write integration tests that involve database operations, including setting up and tearing down test databases.</td>
- </tr>
- <tr>
-   <td><a href="#using-flask-testing-extensions">Using Flask Testing Extensions</a></td>
-   <td>An overview of useful Flask extensions for testing, such as Flask-Testing, and how to integrate them into your testing workflow.</td>
  </tr>
 </table>
 
@@ -549,27 +516,27 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-heroku">Introduction to Heroku</a></td>
+   <td><a href="https://medium.com/@GoRadialspark/an-introduction-to-heroku-c11c6fcbffa">Introduction to Heroku</a></td>
    <td>An overview of Heroku, a cloud platform that enables developers to build, run, and operate applications entirely in the cloud.</td>
  </tr>
  <tr>
-   <td><a href="#deploying-flask-app-to-heroku">Deploying a Flask App to Heroku</a></td>
+   <td><a href="https://nakba.hashnode.dev/deploying-flask-app-to-heroku">Deploying a Flask App to Heroku</a></td>
    <td>Step-by-step guide on how to deploy a Flask application to Heroku.</td>
  </tr>
  <tr>
-   <td><a href="#heroku-cli">Heroku CLI</a></td>
+   <td><a href="https://devcenter.heroku.com/articles/heroku-cli">Heroku CLI</a></td>
    <td>Using the Heroku Command Line Interface (CLI) to manage your Heroku apps and resources.</td>
  </tr>
  <tr>
-   <td><a href="#config-vars-in-heroku">Config Vars in Heroku</a></td>
+   <td><a href="https://devcenter.heroku.com/articles/config-vars">Config Vars in Heroku</a></td>
    <td>How to use configuration variables to manage environment-specific settings in Heroku.</td>
  </tr>
  <tr>
-   <td><a href="#heroku-add-ons">Heroku Add-ons</a></td>
+   <td><a href="https://www.heroku.com/elements/addons">Heroku Add-ons</a></td>
    <td>An overview of Heroku add-ons and how to integrate them with your Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#heroku-logging-and-monitoring">Heroku Logging and Monitoring</a></td>
+   <td><a href="https://www.loggly.com/solution/heroku-logging/">Heroku Logging and Monitoring</a></td>
    <td>Best practices for logging and monitoring your Flask application on Heroku.</td>
  </tr>
 </table>
@@ -581,28 +548,20 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-aws">Introduction to AWS</a></td>
+   <td><a href="https://www.geeksforgeeks.org/introduction-to-amazon-web-services/">Introduction to AWS</a></td>
    <td>An overview of Amazon Web Services (AWS) and its various services that can be used to deploy and manage Flask applications.</td>
  </tr>
  <tr>
-   <td><a href="#deploying-flask-app-to-ec2">Deploying a Flask App to EC2</a></td>
+   <td><a href="https://www.ryannazareth.com/posts/deploy-webserver/">Deploying a Flask App to EC2</a></td>
    <td>Step-by-step guide on how to deploy a Flask application to an AWS EC2 instance.</td>
  </tr>
  <tr>
-   <td><a href="#using-aws-elastic-beanstalk">Using AWS Elastic Beanstalk</a></td>
+   <td><a href="https://docs.aws.amazon.com/elastic-beanstalk/">Using AWS Elastic Beanstalk</a></td>
    <td>Deploying and managing Flask applications with AWS Elastic Beanstalk.</td>
  </tr>
  <tr>
-   <td><a href="#aws-lambda-and-flask">AWS Lambda and Flask</a></td>
+   <td><a href="https://qxf2.com/blog/invoking-aws-lambda-functions-from-a-flask-app/">AWS Lambda and Flask</a></td>
    <td>Creating serverless Flask applications using AWS Lambda and API Gateway.</td>
- </tr>
- <tr>
-   <td><a href="#aws-s3-for-static-files">AWS S3 for Static Files</a></td>
-   <td>Hosting and serving static files for your Flask application using AWS S3.</td>
- </tr>
- <tr>
-   <td><a href="#aws-rds-for-databases">AWS RDS for Databases</a></td>
-   <td>Setting up and connecting to a managed database service for your Flask application using AWS RDS.</td>
  </tr>
 </table>
 
@@ -613,28 +572,24 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-docker">Introduction to Docker</a></td>
+   <td><a href="https://www.geeksforgeeks.org/introduction-to-docker/">Introduction to Docker</a></td>
    <td>An overview of Docker, a platform for developing, shipping, and running applications in containers.</td>
  </tr>
  <tr>
-   <td><a href="#dockerizing-a-flask-app">Dockerizing a Flask App</a></td>
+   <td><a href="https://anjelicaa.medium.com/dockerizing-a-flask-app-19f63dc3b15">Dockerizing a Flask App</a></td>
    <td>Step-by-step guide on how to containerize a Flask application using Docker.</td>
  </tr>
  <tr>
-   <td><a href="#writing-dockerfile">Writing a Dockerfile</a></td>
+   <td><a href="https://www.analyticsvidhya.com/blog/2022/06/writing-dockerfile-is-simple/">Writing a Dockerfile</a></td>
    <td>Creating a Dockerfile to define the environment for your Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#docker-compose-for-flask">Docker Compose for Flask</a></td>
+   <td><a href="https://blog.teclado.com/run-flask-apps-with-docker-compose/">Docker Compose for Flask</a></td>
    <td>Using Docker Compose to manage multi-container Flask applications.</td>
  </tr>
  <tr>
-   <td><a href="#managing-docker-containers">Managing Docker Containers</a></td>
+   <td><a href="https://medium.com/@LDS_Cyber/managing-docker-containers-b1c0e0e61186">Managing Docker Containers</a></td>
    <td>Best practices for running and managing Docker containers in a production environment.</td>
- </tr>
- <tr>
-   <td><a href="#debugging-dockerized-flask-apps">Debugging Dockerized Flask Apps</a></td>
-   <td>Techniques for debugging Flask applications running inside Docker containers.</td>
  </tr>
 </table>
 
@@ -646,32 +601,24 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#flask-project-structure">Flask Project Structure</a></td>
+   <td><a href="https://medium.com/@andrew.hrimov/flask-project-structure-template-c4337b60a410">Flask Project Structure</a></td>
    <td>Guidelines for organizing the structure of your Flask project to enhance readability and maintainability.</td>
  </tr>
  <tr>
-   <td><a href="#security-best-practices">Security Best Practices</a></td>
+   <td><a href="https://www.securecoding.com/blog/flask-security-best-practices/">Security Best Practices</a></td>
    <td>Best practices for securing your Flask application against common web application vulnerabilities.</td>
  </tr>
  <tr>
-   <td><a href="#performance-optimization">Performance Optimization</a></td>
+   <td><a href="https://medium.com/@christopherthai/performance-optimization-in-flask-tips-and-tricks-for-making-flask-applications-faster-and-more-07b9327277b3">Performance Optimization</a></td>
    <td>Techniques for optimizing the performance of your Flask application, including caching and code optimization.</td>
  </tr>
  <tr>
-   <td><a href="#logging-and-error-handling">Logging and Error Handling</a></td>
+   <td><a href="https://circleci.com/blog/application-logging-with-flask/">Logging and Error Handling</a></td>
    <td>Strategies for effective logging and error handling to debug and monitor your Flask application.</td>
  </tr>
  <tr>
-   <td><a href="#testing-best-practices">Testing Best Practices</a></td>
+   <td><a href="https://github.com/taverntesting/tavern/issues/39">Testing Best Practices</a></td>
    <td>Best practices for writing comprehensive unit and integration tests for your Flask application.</td>
- </tr>
- <tr>
-   <td><a href="#deployment-strategies">Deployment Strategies</a></td>
-   <td>Different deployment strategies and considerations for deploying Flask applications in various environments.</td>
- </tr>
- <tr>
-   <td><a href="#documentation-guidelines">Documentation Guidelines</a></td>
-   <td>Guidelines for writing clear and comprehensive documentation for your Flask application and its APIs.</td>
  </tr>
 </table>
 
@@ -687,19 +634,15 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-ides-for-flask">Introduction to IDEs for Flask</a></td>
-   <td>An overview of Integrated Development Environments (IDEs) suitable for Flask development.</td>
- </tr>
- <tr>
-   <td><a href="#pycharm-for-flask">PyCharm for Flask</a></td>
+   <td><a href="https://www.geeksforgeeks.org/how-pycharm-supports-flask-in-python/">PyCharm for Flask</a></td>
    <td>Features and setup tips for using PyCharm IDE for Flask development.</td>
  </tr>
  <tr>
-   <td><a href="#vscode-for-flask">VS Code for Flask</a></td>
+   <td><a href="https://dev.to/pacheco/dockerize-a-flask-app-and-debug-with-vscode-34i1">VS Code for Flask</a></td>
    <td>Setting up Visual Studio Code (VS Code) for Flask development and useful extensions.</td>
  </tr>
  <tr>
-   <td><a href="#sublime-text-for-flask">Sublime Text for Flask</a></td>
+   <td><a href="https://www.sublimetext.com/">Sublime Text for Flask</a></td>
    <td>Configuration and plugins to enhance Flask development in Sublime Text.</td>
  </tr>
 </table>
@@ -712,19 +655,15 @@
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="#introduction-to-online-editors-for-flask">Introduction to Online Editors for Flask</a></td>
-   <td>An overview of online platforms and editors suitable for developing Flask applications.</td>
- </tr>
- <tr>
-   <td><a href="#repl-it-for-flask">Repl.it for Flask</a></td>
+   <td><a href="https://replit.com/@replit/Flask">Repl.it for Flask</a></td>
    <td>Using Repl.it, an online platform, for developing and deploying Flask applications.</td>
  </tr>
  <tr>
-   <td><a href="#codeanywhere-for-flask">Codeanywhere for Flask</a></td>
+   <td><a href="https://codeanywhere.com/languages/flask">Codeanywhere for Flask</a></td>
    <td>Features and setup tips for using Codeanywhere as an online editor for Flask.</td>
  </tr>
  <tr>
-   <td><a href="#glitch-for-flask">Glitch for Flask</a></td>
+   <td><a href="https://glitch.com/~flask">Glitch for Flask</a></td>
    <td>Creating Flask applications using Glitch, an online platform for collaborative coding.</td>
  </tr>
 </table>
