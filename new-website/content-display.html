@@ -15,6 +15,82 @@
             margin: 0 auto;
             padding: 45px;
         }
+
+        nav {
+            background-color: white !important;
+            color: black !important;
+        }
+
+        .dark-mode nav{
+            background-color: black !important;
+            color: white !important;
+        }
+
+/* Container for aligning items to the right */
+.right-corner {
+    display: flex;
+    align-items: center;
+    margin-left: auto; /* Pushes the content to the right */
+}
+
+/* Dark mode toggle switch styles */
+.slider {
+    display: none;
+}
+
+.slider-label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px;
+    cursor: pointer;
+    border-radius: 9999px;
+    width: 48px;
+    height: 26px;
+    background-color: #ccc;
+    position: relative;
+    transition: background-color 0.5s;
+}
+
+.slider-circle {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50%;
+    transition: transform 0.5s;
+    position: absolute;
+    top: 1px;
+    left: 2px;
+}
+
+.slider:checked + .slider-label .slider-circle {
+    transform: translateX(1.3rem);
+    background: #000000; /* Sun color */
+}
+
+.slider:checked + .slider-label {
+    background: #515151; /* Dark mode background */
+}
+
+.slider-circle::before {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translate(50%, -50%);
+    display: block;
+    font-size: 16px; /* Adjust the font size for the icons */
+}
+
+.slider:checked + .slider-label .slider-circle::before {
+    content: '🌙'; /* Moon icon */
+    transform: translate(-50%, -50%);
+}
+
+.slider + .slider-label .slider-circle::before {
+    content: '☀️'; /* Sun icon */
+    transform: translate(-50%, -50%);
+}
+
     </style>
     <link rel="shortcut icon" href="/ResourceHub/website/assets/logo.png" type="image/x-icon">
     <link rel="icon" href="assets/logo.png">
@@ -23,87 +99,28 @@
 </head>
 
 <body class="light-mode">
-    <nav
-        class="content-display-nav dark-mode sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-black">
+    <nav class="content-display-nav dark-mode sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-black">
         <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm">
             <div class="flex justify-between mt-4 items-center">
                 <div class="flex items-center flex-shrink-0">
-                    <img class="h-10 w-10 mr-2" src="./assets/logo.png" alt="Logo" />
-                    <span class="text-xl tracking-tight cursor-pointer hover-effect ">ResourceHub</span>
+                    <a href="index.html" class="flex items-center">
+                        <img id="logo-image" class="h-10 w-10 mr-2" src="assets/footerLight.png" alt="Logo" />
+                        <span class="text-xl tracking-tight cursor-pointer hover-effect">ResourceHub</span>
+                    </a>
                 </div>
-                <!-- Dark mode toggle icon -->
-                <button id="dark-mode-toggle" class="ml-4 hover-effect cursor-pointer toggle-button">
-                    <svg width="64px" height="64px" viewBox="-9.36 -9.36 42.72 42.72" xmlns="http://www.w3.org/2000/svg"
-                        aria-labelledby="nightModeIconTitle" stroke="#ffffff" stroke-width="1.128"
-                        stroke-linecap="square" stroke-linejoin="miter" fill="none" color="#000000">
-                        <g id="SVGRepo_bgCarrier" stroke-width="0">
-                            <rect x="-9.36" y="-9.36" width="42.72" height="42.72" rx="21.36" fill="#000000"
-                                strokewidth="0"></rect>
-                        </g>
-                        <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC"
-                            stroke-width="0.288"></g>
-                        <g id="SVGRepo_iconCarrier">
-                            <title id="nightModeIconTitle">Night Mode</title>
-                            <path d="M12 19a7 7 0 1 0 0-14 7 7 0 0 0 0 14z"></path>
-                            <path
-                                d="M15.899 12.899a4 4 0 0 1-4.797-4.797A4.002 4.002 0 0 0 12 16c1.9 0 3.49-1.325 3.899-3.101z">
-                            </path>
-                            <path d="M12 5V3M12 21v-2"></path>
-                            <path
-                                d="M5 12H2h3zM22 12h-3 3zM16.95 7.05L19.07 4.93 16.95 7.05zM4.929 19.071L7.05 16.95 4.93 19.07zM16.95 16.95l2.121 2.121-2.121-2.121zM4.929 4.929L7.05 7.05 4.93 4.93z">
-                            </path>
-                        </g>
-                    </svg>
-                </button>
-                <!-- End dark mode toggle icon -->
-                <ul class="hidden-mobile ml-14 space-x-12">
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="/">Home</a>
-                    </li>
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="about.html">About</a>
-                    </li>
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="/">Services</a>
-                    </li>
-                    <li class="hover-effect font-semibold hover:text-sm transition-all duration-300">
-                        <a href="/">Contact</a>
-                    </li>
-                </ul>
-                <div class="hidden-desktop text-blue md:flex flex-col justify-end">
-                    <button id="toggle-navbar">
-                        <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
-                            viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M4 6h16M4 12h16M4 18h16" />
-                        </svg>
-                        <svg id="close-icon" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hidden" fill="none"
-                            viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M6 18L18 6M6 6l12 12" />
-                        </svg>
-                    </button>
+                <div class="flex items-center ml-auto">
+                    <!-- Dark mode toggle icon -->
+                    <input type="checkbox" id="slider" class="slider hidden" onclick="toggleDarkMode()">
+                    <label for="slider" class="slider-label bg-gray-300 dark:bg-gray-700 w-16 h-8 flex items-center rounded-full p-1 cursor-pointer transition duration-500">
+                        <div class="slider-circle bg-white w-6 h-6 rounded-full shadow-md transform transition duration-500"></div>
+                    </label>
+                    <!-- End dark mode toggle icon -->
                 </div>
             </div>
-            <div id="mobile-drawer"
-                class="hidden text-white backdrop-blur opacity-85 fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
-                <ul>
-                    <li class="py-4 hover-effect">
-                        <a href="/">Home</a>
-                    </li>
-                    <li class="py-4 hover-effect">
-                        <a href="about.html">About</a>
-                    </li>
-                    <li class="py-4 hover-effect">
-                        <a href="/">Services</a>
-                    </li>
-                    <li class="py-4 hover-effect">
-                        <a href="/">Contact</a>
-                    </li>
-                </ul>
-            </div>
+            
         </div>
     </nav>
+
     <div class="light-mode content-display">
         <h1 id="project-title">project title</h1>
         <div class="light-mode content-display markdown-body" id="readme-content">
@@ -131,46 +148,37 @@
 //   event.preventDefault();
 // });
         // Dark mode toggle script
-        const toggleButton = document.getElementById('dark-mode-toggle');
+        function toggleDarkMode() {
+            console.log('Toggling dark mode...');
 
-        toggleButton.addEventListener('click', function () {
-            // Toggle dark mode class on body
+
             document.body.classList.toggle('dark-mode');
             document.body.classList.toggle('light-mode');
 
+            // Toggle logo images based on mode
+            const logoImg = document.getElementById('logo-image');
+            const isDarkModeEnabled = document.body.classList.contains('dark-mode');
+            logoImg.src = isDarkModeEnabled ? 'assets/footerDark.png' : 'assets/footerLight.png';
 
-            // Toggle dark mode class on content-display
+
             const contentDisplay = document.querySelector('.content-display');
             contentDisplay.classList.toggle('dark-mode');
             contentDisplay.classList.toggle('light-mode');
 
-            // Toggle dark mode class on markdown-body
             const markdownBody = document.getElementById('readme-content');
             markdownBody.classList.toggle('dark-mode');
             markdownBody.classList.toggle('light-mode');
-        });
+        }
+
         // Retrieve README content from sessionStorage
         const readmeContent = sessionStorage.getItem('readmeContent');
         const filename = sessionStorage.getItem('filename');
         document.getElementById('project-title').innerHTML = filename;
         // Decode and render the README content in the div
         document.getElementById('readme-content').innerHTML = marked.parse(readmeContent);
-        console.log(readmeContent);
 
+        // Toggle navbar script
 
-
-        // TOGGLE NAVBAR SCRIPT
-
-        const toggleNavbarButton = document.getElementById('toggle-navbar');
-        const mobileDrawer = document.getElementById('mobile-drawer');
-        const menuIcon = document.getElementById('menu-icon');
-        const closeIcon = document.getElementById('close-icon');
-
-        toggleNavbarButton.addEventListener('click', () => {
-            mobileDrawer.classList.toggle('hidden');
-            menuIcon.classList.toggle('hidden');
-            closeIcon.classList.toggle('hidden');
-        });
     </script>
 </body>
 
