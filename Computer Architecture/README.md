@@ -227,6 +227,12 @@ Computer Architecture is the study of the structure, organization, and design of
         <td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRi4toMqZhHt3C7vzS5lRvfQ">Computer Architecture by Neso Academy</a></td>
         <td>A comprehensive playlist covering various topics in computer architecture.</td>
       </tr>
+      <tr>
+      <td>
+      <a href="https://www.youtube.com/watch?v=kTdvOlA2ko0&list=PLXj4XH7LcRfDXDRzSLv1FfZ-SSA38SiC0">Computer Architecture by Sudhakar Atchala</a> </td>
+      <td>This playlist contains topic from computer architecture</td>
+      </tr>
+
 </table>
 
 ### Resources for Finding Research Papers
