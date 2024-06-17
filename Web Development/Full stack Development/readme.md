@@ -2,16 +2,20 @@
 
 Full-stack web development refers to the practice of working on both the frontend and backend components of web applications. A full-stack developer is proficient in multiple layers of the software stack, allowing them to handle everything from user interface design and client-side scripting to server-side programming, database management, and system architecture. On the frontend, full-stack developers are skilled in HTML, CSS, and JavaScript, enabling them to create visually appealing and interactive user interfaces that deliver a seamless user experience across different devices and browsers. They often work with frontend frameworks and libraries such as React, Angular, or Vue.js to build dynamic and responsive web applications.
 
- On the backend, full-stack developers are knowledgeable about server-side technologies like Node.js, Ruby on Rails, Django, or ASP.NET, which they use to develop the server logic, handle requests and responses, manage data storage and retrieval, and implement security measures. They are also proficient in working with databases such as MySQL, PostgreSQL, MongoDB, or SQLite to store and manipulate data effectively.
- 
-  Additionally, full-stack developers are familiar with web servers, APIs, version control systems, deployment processes, and other tools and technologies necessary for building and maintaining scalable, robust, and secure web applications from end to end. By possessing a comprehensive understanding of both frontend and backend development, full-stack developers are capable of independently handling all aspects of the web development process, from conception and design to implementation, testing, and deployment, making them valuable assets in today's dynamic and fast-paced tech industry.
+On the backend, full-stack developers are knowledgeable about server-side technologies like Node.js, Ruby on Rails, Django, or ASP.NET, which they use to develop the server logic, handle requests and responses, manage data storage and retrieval, and implement security measures. They are also proficient in working with databases such as MySQL, PostgreSQL, MongoDB, or SQLite to store and manipulate data effectively.
+
+Additionally, full-stack developers are familiar with web servers, APIs, version control systems, deployment processes, and other tools and technologies necessary for building and maintaining scalable, robust, and secure web applications from end to end. By possessing a comprehensive understanding of both frontend and backend development, full-stack developers are capable of independently handling all aspects of the web development process, from conception and design to implementation, testing, and deployment, making them valuable assets in today's dynamic and fast-paced tech industry.
 
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-- [Tutorials](#tutorials) 
+- [Tutorials](#tutorials)
+
   - [Frontend Development](#frontend-development)
   - [Backend Development](#backend-development)
+  - [Deployment](#deployment)
+    - [Hosting](#hosting)
+
 - [Frameworks](#frameworks)
   - [Frontend Frameworks](#frontend-frameworks)
   - [Backend Frameworks](#backend-frameworks)
@@ -27,6 +31,7 @@ Full-stack web development refers to the practice of working on both the fronten
   - [Paid Books](#paid-books)
 - [Communities](#communities)
 - [Conclusion](#conclusion)
+- [Blogs](#blogs)
 
 ### Roadmap
 
@@ -69,6 +74,80 @@ Full-stack web development refers to the practice of working on both the fronten
         <td><a href="https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development/Backend%20Development">Backend Development development</a></td>
         <td>This link is a curated collection of resources dedicated to backend web development. This likely includes documentation, code snippets, tutorials, and links to external resources aimed at helping developers learn and master backend technologies such as server-side programming languages (e.g., Node.js, Python, Ruby), frameworks (e.g., Express.js, Django, Flask, Ruby on Rails), databases (e.g., MySQL, PostgreSQL, MongoDB), and other tools and technologies commonly used in backend development. </td>
       </tr>
+</table>
+
+#### Deployment
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=Z2DZntrqM2g">Can you Code a Product from Development to Deployment (as the only coder)?
+</a></td>
+<td>
+Coding a product from development to deployment all alone? Is it possible? Today I will share some of my experiences pertaining to the same!
+</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLIPSN1xWXb-BM4ong88IF3sUfK7Ar0bfi">Website Testing and Deployment||Web Development Fundamentals||Edunet Foundation||APSCHE||AICTE
+
+</a></td>
+
+<td>
+Coding a product from development to deployment all alone? Is it possible? Today I will share some of my experiences pertaining to the same!
+</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/watch?v=_LIuNAu5Ktc">HOST a website for FREE using AWS? | Deploy a Website to AWS in Under 8 Minute | AWS + DevOps
+</a></td>
+<td>
+How to HOST a website for FREE using AWS? | Static Website Hosting with AWS | Genie Ashwani
+</td>
+  </tr>
+    <tr>
+    <td><a href="https://www.youtube.com/watch?v=4eMnz8VbgyM">Host Website for FREE using Github Pages | Web Development Course
+</a></td>
+
+<td>
+In this video, We will learn how to Host our Website for Free using Github Pages.
+</td>
+  </tr>
+
+  </table>
+
+##### Hosting
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td> <a href="https://www.godaddy.com/en-in/hosting/web-hosting">GoDaddy</a></td>
+        <td>GoDaddy's Reliable Web Hosting keeps your website up and running. Featuring 99.9% uptime guarantee and award winning 24/7 tech support.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.hostinger.in/web-hosting">Hostinger</a></td>
+        <td>Buy web hosting plans that come with a domain and everything you need to launch a site. Experience a reliable hosting service with 99.9% uptime guarantee.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://firebase.google.com/products/hosting">Firebase</a></td>
+        <td>BuFirebase Hosting Fast, secure hosting for static websites. Deploy static websites in seconds using a global CDN.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://cloud.google.com/solutions/web-hosting">Google Cloud</a></td>
+        <td>Web hosting services from Google Cloud. Host everything from blogs to dynamic websites in the cloud with Click to Deploy or customized solutions.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://azure.microsoft.com/en-in">Microsoft Azure</a></td>
+        <td>Invent with purpose, realize cost savings, and make your organization more efficient with Microsoft Azure's open and flexible cloud computing platform.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://aws.amazon.com/websites/">Amazon Web Services (AWS)</a></td>
+        <td>AWS offers a cloud web hosting solution that provides businesses & organizations with a flexible, scalable, low-cost way to deliver websites & applications.</td>
+    </tr>
 </table>
 
 ### Frameworks
@@ -316,7 +395,6 @@ Full-stack web development refers to the practice of working on both the fronten
       </tr>
 </table>
 
-
 ### Communities
 
 > These communities help you solve personal doubts, get new ideas, and keep updated on the latest trends in full stack web development.
@@ -352,13 +430,42 @@ Full-stack web development refers to the practice of working on both the fronten
       </tr>
 </table>
 
-### Conclusion
+### Blogs
 
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Deployment">MDN Web Docs</a></td>
+        <td>
+        The build process · Open the package. · We'll add a build command that we can run to build our code. · You should now be able to run the website.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.codecademy.com/learn/deploy-a-website">Codecademy</a></td>
+        <td>
+        Deploying—or pushing new code to a server—is an integral part of a developer's daily workflow. Knowing the relationship between your computer.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.spaceotechnologies.com/blog/web-app-deployment/">SpaceQ Technologies</a></td>
+        <td>
+        Web app deployment refers to the process of making a web application available for end users to interact with on the internet.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.brmwebdev.com/web-design/deployment">brmwebdev</a></td>
+        <td>
+        Deployment is the final phase of our project. Once your website has been tested thoroughly, we will deploy it to a fast, secure, & highly scalable server.
+        </td>
+      </tr> 
+      </table>
+
+### Conclusion
 
 ChatGPT
 In conclusion, full-stack web development encompasses proficiency in both frontend and backend technologies, empowering developers to create comprehensive and dynamic web applications. By mastering a wide array of tools and languages spanning from user interface design to server-side programming and database management, full-stack developers possess the versatility and expertise needed to tackle every aspect of the development process. Their ability to seamlessly integrate frontend and backend components enables them to build robust, scalable, and user-friendly web applications that meet the diverse needs of modern businesses and users. With the demand for multifaceted web solutions on the rise, full-stack developers play a vital role in driving innovation and delivering impactful digital experiences in today's ever-evolving technological landscape.
 
 Never stop learning !
-
-
-

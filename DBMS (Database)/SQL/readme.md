@@ -43,6 +43,7 @@ This section is a curated collection of valuable SQL resources for absolute begi
 - [Courses](#courses)
    - [Free Courses](#free-courses)
    - [Paid Courses](#paid-courses)
+- [CheatSheets](#cheatsheets)
 - [Books](#books)
 - [YouTube](#youtube)
 - [Conclusion](#conclusion)
@@ -863,6 +864,24 @@ This section is a curated collection of valuable SQL resources for absolute begi
     <td><a href="https://www.udemy.com/course/sql-and-database-design-a-z/">SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL</a></td>
     <td>A comprehensive course covering SQL and database design using MS SQL Server and PostgreSQL.</td>
   </tr>
+</table>
+
+### CheatSheets
+> CheatSheets for quick revision.
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://images.datacamp.com/image/upload/v1714149594/Marketing/Blog/SQL_for_Data_Science.pdf">SQL CheatSheet-DataCamp</a></td>
+    <td>This CheatSheet contains all the queries of SQL with an example.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/sql-cheat-sheet/">SQL CheatSheet -GeeksforGeeks</a></td>
+    <td>This article contains SQL cheatsheet with pdf.this covers various SQL commands,joins,triggers etc.</td>
+  </tr>
+  
 </table>
 
 

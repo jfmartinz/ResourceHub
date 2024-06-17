@@ -1,4 +1,4 @@
-# Data Structures and Algorithm (DSA) 🖥️
+# Data Structures and Algorithm (DSA) 🖥
 
 Data Structures and Algorithms (DSA) refer to the study of methods for organizing and storing data and the design of procedures (algorithms) for solving problems, which operate on these data structures. 
 
@@ -9,15 +9,23 @@ This section serves as a curated collection of valuable resources for learning a
 ## Table of Contents
 
 - [Roadmap](#roadmap)
+- [Interview Questions](#interview-questions)
 - [Types of Data Structures](#data-structures-and-algorithm)
 - [Tutorials or Courses](#tutorials)
-- [Interview Questions](#interview-questions)
 - [Youtube Channels](#youtube-channels)
 - [Coding Platforms](#coding-platforms)
 - [Practice Sheets](#sheets)
+- [DSA by language](#dsa-by-languages)
+
+   - [C++](#c)<br>
+   - [Java](#java)<br>
+   - [Python](#python)<br>
+   - [Javascript](#javascript)<br>
+- [CheatSheet](#cheatsheet)
+   
 - [Conclusion](#conclusion)
 
-### Roadmap
+## Roadmap
 
 > A comprehensive guide to help you navigate your journey to learning and mastering Data Structures and Algorithms(DSA)
 
@@ -39,9 +47,13 @@ Let's make coding fun and exciting! 🚀.</td>
   <td><a href="https://www.naukri.com/code360/library/complete-data-structures-and-algorithms-roadmap-for-placements">DSA Roadmap for beginners</a></td>
   <td>This article will lay down a complete DSA roadmap for any beginner to obtain proficiency in solving complex computational challenges needed to crack any top product-based companies</td>
   </tr>
+   <tr>
+    <td><a href="https://www.scaler.com/topics/dsa-roadmap/"> DSA Roadmap for Complete Learning </a></td>
+    <td>This DSA roadmap will provide a structured approach to mastering data structures and algorithms, covering essential concepts, practical coding exercises, and optimization techniques to enhance problem-solving skills and coding efficiency.</td>
+    </tr>
 </table>
 
-### Types of Data Structures
+## Types of Data Structures
 
 > Here comes the most crucial and the most awaited stage of the roadmap for learning data structure and algorithm – the stage where you start learning about DSA.
 
@@ -80,7 +92,7 @@ Let's make coding fun and exciting! 🚀.</td>
   </tr>
   </table>
 
-### Tutorials or Courses
+## Tutorials or Courses
 
 > Here are the tutorial guides which can help you to develop and enhance your Data Structures skills and Algorithm application
 
@@ -106,9 +118,14 @@ Let's make coding fun and exciting! 🚀.</td>
   <td> Data Structures and Algorithms is an important aspect of every coding interview. This course will help you prepare for placements, coding interviews, and logic building. The course walks you through multiple Java algorithms, data structure problems, and their solutions with step-by-step visualizations, so that you are actually learning instead of blindly memorizing solutions.
 </td>
 </tr>
+ <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"> Data Structures and Algorithms - Full Course in C++ </a></td>
+  <td> Learn Data Structures and Algorithms in C++: comprehensive course covering key concepts, practical coding, and optimization techniques.
+</td>
+</tr>
 </table>
 
-### Interview Questions
+## Interview Questions
 
 <table width="100%" id="interview-questions">
   <tr>
@@ -132,7 +149,7 @@ Let's make coding fun and exciting! 🚀.</td>
   </tr>
   </table>
 
-### YouTube Channels
+## YouTube Channels
 
 <table width="100%" id="youtube-channels">
   <tr>
@@ -160,11 +177,24 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@abdul_bari"> Abdul Bari </a></td>
-<td>I have started this channel to help Students Community to learn difficult topics, from computer science,  with a simple and detailed explanation. I have been teaching some computer science subjects and Programming Languages for a long time and also been working as a freelancer and providing software solutions. My experience and understanding of subjects may help students.
+<td>I have started this channel to help Students Community to learn difficult topics, from computer science,  with a simple and detailed explanation. I have been teaching some computer science subjects and Programming Languages for a long time and also been working as a freelancer and providing software solutions. My experience and understanding of subjects may help students.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ"> Kunal Kushwaha </a></td>
+<td> The best thing about this channel is, you will find the thought process behind every problem and not just simple data structures and algorithms. All of the content is in English so that anyone can watch it. It has got so many views and one can also check the comments if they have any doubt. </td>
+</tr>
+<tr>
+<td><a href="https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&si=IX12vP-NN3VaLpuM"> Apna College </a></td>
+<td> The "Apna College DSA Playlist" in Java offers clear explanations and practical coding examples to master Data Structures and Algorithms effectively. Perfect for beginners and advanced learners alike. </td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ">Kunal Kushwaha</a></td>
+<td>This playlist contains java concepts taught from scratch in detail.The best thing about this platlist is that it not only contains the theory part , but also consists of mostly frequently asked interview questions of Amazon , Google , Microsoft etc.
+</td>
 </tr>
 </table>
 
-### Coding Platforms
+## Coding Platforms
 
 <table width="100%" id="coding-platforms">
 <tr>
@@ -201,7 +231,7 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 </table>
 
-### Practice Sheet
+## Practice Sheet
 
 <table width="100%" id="sheets">
 <tr>
@@ -230,7 +260,262 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 </table>
 
-###  Conclusion
+## DSA by languages
+
+### C++
+
+<table width="100%" id="sheets">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="https://www.geeksforgeeks.org/cpp-arrays/">Array Implementation</a></td>
+<td>Example code for implementing arrays in C++.</td>
+</tr>
+<tr>
+<td><a href="https://www.geeksforgeeks.org/arrays-in-c-cpp/">Array Operations</a></td>
+<td>Detailed explanations of array operations in C++.</td>
+</tr>
+<tr>
+<td><a href="https://www.w3schools.in/cplusplus/manipulating-strings">String Implementation</a></td>
+<td>Example code for implementing strings in C++.</td>
+</tr>
+  <tr>
+<td><a href="https://www.geeksforgeeks.org/c-strings/">String Manipulations</a></td>
+<td>Guide on various string manipulations in C++.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/linked_list.md">Linked List Implementation</a></td>
+<td>Example code for implementing linked lists in C++.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/linked-list-set-1-introduction/">Linked List Operations</a></td>
+<td>Detailed explanations of linked list operations in C++.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/trees/tree.md">Tree Implementation</a></td>
+<td>Example code for implementing trees in C++.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/">Tree Traversals</a></td>
+<td>Detailed guide on tree traversal methods.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/graphs/graph.md">Graph Implementation</a></td>
+<td>Example code for implementing graphs in C++.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/">Graph Algorithms</a></td>
+<td>Guide on various graph algorithms.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/C-Plus-Plus/tree/master/sorting">Sorting Algorithms</a></td>
+<td>Example code for different sorting algorithms in C++.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/C-Plus-Plus/tree/master/searching">Search Algorithms</a</td>
+<td>Example code for different searching algorithms in C++.</td>
+</tr>
+  <td><a href="https://github.com/TheAlgorithms/C-Plus-Plus">The Algorithms</a></td>
+<td>A collection of DSA implementations in C++.</td>
+</tr>
+</table>
+
+### Java
+
+<table width="100%" id="sheets">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Arrays/Array.java">Array Implementation</a></td>
+<td>Example code for implementing arrays in Java.</td>
+</tr>
+<tr>
+<td><a href="https://www.geeksforgeeks.org/array-data-structure/">Array Operations</a></td>
+<td>Detailed explanations of array operations in Java.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Strings/String.java">String Implementation</a></td>
+<td>Example code for implementing strings in Java.</td>
+</tr>
+  <tr>
+<td><a href="https://www.geeksforgeeks.org/string-data-structure/">String Manipulations</a></td>
+<td>Guide on various string manipulations in Java.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Java/blob/master/DataStructures/LinkedList/LinkedList.java">Linked List Implementation</a></td>
+<td>Example code for implementing linked lists in Java.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/linked-list-data-structure/">Linked List Operations</a></td>
+<td>Detailed explanations of linked list operations in Java.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Trees/Tree.java">Tree Implementation</a></td>
+<td>Example code for implementing trees in Java.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/">Tree Traversals</a></td>
+<td>Detailed guide on tree traversal methods.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/Graph.java">Graph Implementation</a></td>
+<td>Example code for implementing graphs in Java.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/">Graph Algorithms</a></td>
+<td>Guide on various graph algorithms.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Java/tree/master/Sorts">Sorting Algorithms</a></td>
+<td>Example code for different sorting algorithms in Java.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Java/tree/master/Searches">Search Algorithms</a</td>
+<td>Example code for different searching algorithms in Java.</td>
+</tr>
+  <td><a href="https://github.com/TheAlgorithms/Java">The Algorithms</a></td>
+<td>A collection of DSA implementations in Java.</td>
+</tr>
+</table>
+
+### Python
+
+<table width="100%" id="sheets">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="https://github.com/TheAlgorithms/Python/blob/master/DataStructures/Arrays/array.py"> Python Array Implementation</a></td>
+<td>Example code for implementing arrays in Python.</td>
+</tr>
+<tr>
+<td><a href="https://www.geeksforgeeks.org/python-arrays/">Array Operations</a></td>
+<td>Detailed explanations of array operations in Python.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/TheAlgorithms/Python/blob/master/DataStructures/Strings/string.py">String Implementation</a></td>
+<td>Example code for implementing strings in Python.</td>
+</tr>
+  <tr>
+<td><a href="https://www.geeksforgeeks.org/python-strings/">String Manipulations</a></td>
+<td>Guide on various string manipulations in Python.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Python/blob/master/DataStructures/LinkedLists/linked_list.py">Linked List Implementation</a></td>
+<td>Example code for implementing linked lists in Python.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/linked-list-in-python/">Linked List Operations</a></td>
+<td>Detailed explanations of linked list operations in Python.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Python/blob/master/DataStructures/Trees/tree.py">Tree Implementation</a></td>
+<td>Example code for implementing trees in Python.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/">Tree Traversals</a></td>
+<td>Detailed guide on tree traversal methods.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Python/blob/master/DataStructures/Graphs/graph.py">Graph Implementation</a></td>
+<td>Example code for implementing graphs in Python.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/">Graph Algorithms</a></td>
+<td>Guide on various graph algorithms.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Python/tree/master/Sorts">Sorting Algorithms</a></td>
+<td>Example code for different sorting algorithms in Python.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Python/tree/master/Searches">Search Algorithms</a</td>
+<td>Example code for different searching algorithms in Python.</td>
+</tr>
+  <td><a href="https://github.com/TheAlgorithms/Python">The Algorithms</a></td>
+<td>A collection of DSA implementations in Python.</td>
+</tr>
+</table>
+
+### JavaScript
+
+<table width="100%" id="sheets">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Arrays/array.js">Array Implementation</a></td>
+<td>Example code for implementing arrays in JavaScript.</td>
+</tr>
+<tr>
+<td><a href="https://www.geeksforgeeks.org/arrays-in-javascript/">Array Operations</a></td>
+<td>Detailed explanations of array operations in JavaScript.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Strings/string.js">String Implementation</a></td>
+<td>Example code for implementing strings in JavaScript.</td>
+</tr>
+  <tr>
+<td><a href="https://www.geeksforgeeks.org/strings-in-javascript/">String Manipulations</a></td>
+<td>Guide on various string manipulations in JavaScript.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/LinkedList/linkedList.js">Linked List Implementation</a></td>
+<td>Example code for implementing linked lists in JavaScript.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/implementation-linkedlist-javascript/">Linked List Operations</a></td>
+<td>Detailed explanations of linked list operations in JavaScript.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Trees/tree.js">Tree Implementation</a></td>
+<td>Example code for implementing trees in JavaScript.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/">Tree Traversals</a></td>
+<td>Detailed guide on tree traversal methods.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graphs/graph.js"> Graph Implementation</a></td>
+<td>Example code for implementing graphs in JavaScript.</td>
+</tr>
+   <tr>
+<td><a href="https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/">Graph Algorithms</a></td>
+<td>Guide on various graph algorithms.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Javascript/tree/master/Sorting">Sorting Algorithms</a></td>
+<td>Example code for different sorting algorithms in JavaScript.</td>
+</tr>
+   <tr>
+<td><a href="https://github.com/TheAlgorithms/Javascript/tree/master/Searches">Search Algorithms</a</td>
+<td>Example code for different searching algorithms in JavaScript.</td>
+</tr>
+  <td><a href="https://github.com/TheAlgorithms/Javascript">The Algorithms </a></td>
+<td>A collection of DSA implementations in JavaScript.</td>
+</tr>
+</table>
+
+### Cheatsheet
+
+<table width="100%" id="sheets">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr><td>
+<a href="https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/">Cheatsheets from GFG</a></td>
+<td>It consists of topic-wise sheets for better understanding</td>
+</tr>
+</table>
+
+##  Conclusion
 
  It is relatively easy to learn new programming languages while using them in projects. However, it is not the case with DSA as it needs extensive practice and holds utmost importance. If you are not well versed with DSA, you will find it challenging to optimize the code solution for a problem.
 

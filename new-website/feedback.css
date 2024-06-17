@@ -1,0 +1,125 @@
+body {
+    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    background-color: #fff;
+    color: #000;
+  
+ }
+  
+  h1, h2, h3, h4, h5, h6,
+  .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Poppins", sans-serif; }
+  
+  a {
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease; }
+    a, a:hover {
+      text-decoration: none !important; }
+
+  /* Positioning the arrow link */
+.home-link {
+    position: absolute;
+    top: 20px; 
+    left: 20px;
+    font-size: 24px;
+    color: #111210; 
+    text-decoration: none; 
+}
+  .content {
+    padding: 7rem 0; }
+  .content h3{
+    color:#737171;
+  }
+  h2 {
+    font-size: 3.5rem;
+    font-weight: 700; }
+  
+  h3 {
+    font-size: 2rem;
+    font-weight: 700; }
+  
+  .form-control {
+    border: none;
+    border-bottom: 1px solid #d9d9d9;
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 0;
+ }
+
+    .form-control:active, .form-control:focus {
+      outline: none;
+      -webkit-box-shadow: none;
+      box-shadow: none;
+      border-color: #111210;
+     }
+  
+  .form-control {
+    height: 55px; 
+    }
+
+    .btn{
+        background-color: #262925;
+        border-color: #181818;
+        height: 45px;
+    }
+
+    .btn:hover{
+        background-color: #e6e2e3;
+        color:#181818;
+    }
+  
+  form.border-right {
+    padding-right: 6rem !important; }
+    @media (max-width: 991.98px) {
+      form.border-right {
+        padding-right: 0 !important;
+        border-right: none !important; } }
+  
+  label.error {
+    font-size: 12px;
+    color: red; }
+  
+  #message {
+    resize: vertical; }
+  
+  #form-message-warning, #form-message-success {
+    display: none; }
+  
+  #form-message-warning {
+    color: #B90B0B; }
+  
+  #form-message-success {
+    color: #2a2a2a;
+    font-size: 18px;
+    font-weight: bold; }
+  
+  .submitting {
+    float: left;
+    width: 100%;
+    padding: 10px 0;
+    display: none;
+    font-weight: bold;
+    font-size: 12px;
+    color: #000; 
+}
+
+/* Dark Mode */
+.dark body{
+    background-color: #333 !important; /* Dark background color */
+    color: #fff; /* Light text color */
+}
+
+body.dark .form-control,
+body.dark .btn {
+    background-color: #555; /* Darker background color */
+    color: #fff; /* Light text color */
+    border-color: #555; /* Darker border color */
+}
+
+/* Example: Inverted styles for the success and warning messages */
+body.dark #form-messages .alert-success,
+body.dark #form-messages .alert-danger {
+    background-color: #333; /* Darker background color for messages */
+    color: #fff; /* Light text color for messages */
+    border-color: #333; /* Darker border color for messages */
+}

@@ -603,6 +603,14 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
   <td><a href="https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=6jDNzr4jgCo0p2rN">Opearating System by Neso Academy</a></td>
   <td>This field is undergoing rapid change, as computers are now prevalent in virtually every application. Yet the fundamental concepts remain fairly clear and that is what will be taught in this course.</td>
   </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/watch?v=H3vZRDkzHdo&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm">Operating System playlist by Sudhakar Atchala</a></td>
+  <td>This playlist by Sudhakar Atchala , consists of OS concepts covered in-depth , with examples provided for proper understanding.</td>
+  </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PL3eEXnCBViH-SiXK96TZd-7k3Qvk5g1YH">Operating System playlist </a></td>
+  <td>The complete OS (Operating Systems) playlist covers core concepts, process management, memory management, file systems, and security, providing comprehensive insights and practical knowledge for mastering operating systems.</td>
+  </tr>
 </table>
 
 ### Interview
@@ -620,7 +628,12 @@ Here are some resources for Interview Questions.
     <td><a href="https://www.interviewbit.com/operating-system-interview-questions/">Operating System Interview Questions-InterviewBit</a></td>
     <td>These website contains 40+ commonly asked Interview Questions from basic to advanced level</td>
   </tr>
-  
+  <tr>
+  <td>
+  <a href="https://www.geeksforgeeks.org/operating-systems-interview-questions/">Operating System interview questions by GFG</a>
+  </td>
+  <td>This article contains top 100+ OS interview questions along with their answers.</td>
+  </tr>
 </table>
 
 

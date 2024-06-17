@@ -1,4 +1,4 @@
-name: Add Label
+name: Auto-label on Any Issue or PR
 
 on:
   issues:
@@ -6,15 +6,34 @@ on:
   pull_request:
     types: [opened]
 
+permissions:
+  issues: write
+  pull-requests: write
+
 jobs:
-  add_label:
+  auto-label:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/github-script@v6
+      - name: Add labels to any new issue or PR
+        uses: actions/github-script@v4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            github.issues.listForRepo({ owner: context.repo.owner, repo: context.repo.repo })
-              .then(response => response.data.map(issue => ({ issue_number: issue.number })))
-              .then(issues => Promise.all(issues.map(issue => github.issues.addLabels(context.repo.owner, context.repo.repo, issue.issue_number, ["gssoc"]))))
-            .catch(error => console.error(error));
+            const labelsToAdd = ["gssoc"];
+            if (context.payload.pull_request) {
+              // It's a Pull Request
+              await github.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: labelsToAdd
+              });
+            } else {
+              // It's an Issue
+              await github.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: labelsToAdd
+              });
+            }

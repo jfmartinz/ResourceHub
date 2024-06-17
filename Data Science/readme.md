@@ -23,6 +23,7 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
   - [Beginner Projects](#beginners-projects)
   - [Intermediate Projects](#intermediate-projects)
   - [Advanced Projects](#advanced-projects)
+- [Interview](#interview)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -296,6 +297,10 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
       <td> <a href="https://www.youtube.com/@careerfoundry/featured"> Career Foundry</a></td>
       <td> Covers the entire portion of Data Science along with their application, projects, and development. </td>
       </tr>
+      </tr>
+      <td> <a href="https://www.youtube.com/watch?v=SJuR41tlE9k">Data Science Full Course for Beginners</a></td>
+      <td>Data Science Full Course for Beginners by simplilearn is curated in collaboration with real-time industry experts. This Data Science Tutorial will help you learn data science in 12 hours.</td>
+      </tr>
   </table>
 
   ### YouTube Playlists
@@ -563,6 +568,24 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td><a href="https://www.geeksforgeeks.org/human-activity-recognition-using-deep-learning-model/">Human activiry recognision</a></td>
         <td>This provides a thorough tutorial on building a model to recognize human activities using deep learning. It covers data collection, preprocessing, and the implementation of a deep learning model to classify different human activities. The guide includes step-by-step instructions and Python code examples, making it accessible for readers with a understanding of Python and deep learning techniques..</td>
       </tr>
+</table>
+
+### Interview
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://www.interviewbit.com/data-science-interview-questions/">Data Science Interview Questions for freshers-InterviewBit</a></td>
+        <td>This article provides Interview Questions on DataScience with answers. This article even provides visual graphs and visual representation. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.analyticsvidhya.com/blog/2023/04/how-to-prepare-for-data-science-interview/">Interview Preparation Guide- AnalyticsVidya</a></td>
+        <td>This article contains Interview questions  and interview prepartion guide on data science.This article contains the common mistakes the candidates does in the Interview and provides how to deliver our answers in the Interview.It is an ultimate guide for DataScience Interview Preparation.</td>
+      </tr>
+      
 </table>
 
 ### Conclusion
