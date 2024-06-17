@@ -11,7 +11,7 @@ This section is curated collection of NoSQL Resources.
 - [NoSQL](#nosql-1)
    - [Introduction](#introduction)
    - [Setting Up NoSQL Environments](#setting-up-nosql-environments)
-   - [NoSQL Data Modeling]
+   - [NoSQL Data Modeling](#nosql-data-modeling)
 
 
 
@@ -111,5 +111,92 @@ This section is curated collection of NoSQL Resources.
 
 
 ### NoSQL Data Modeling
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/">Data Modeling Principles</a></td>
+    <td>This article discusses various data modeling techniques and principles for NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.talend.com/resources/sql-vs-nosql/">Differences Between NoSQL and SQL Data Modeling</a></td>
+    <td>This resource outlines the key differences between data modeling for SQL and NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/resources/basics/databases/nosql-explained/data-modeling#:~:text=Schema%20Design%20for%20NoSQL%20Databases&text=They%20are%20typically%20developing%20applications,use%20to%20organize%20the%20data">Schema Design Best Practices for NoSQL</a></td>
+    <td>This page provides best practices for schema design in NoSQL databases, including strategies for data organization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/docs/manual/data-modeling/data-consistency/">Handling Data Consistency and Integrity</a></td>
+    <td>This documentation covers methods for ensuring data consistency and integrity in NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/resources/basics/databases/document-databases">Document Stores</a></td>
+    <td>This resource explains document stores, a type of NoSQL database, and their use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/mongodb-data-modelling/">Modeling Data in MongoDB</a></td>
+    <td>This article discusses data modeling techniques specific to MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/docs/manual/data-modeling/concepts/embedding-vs-references/#:~:text=Use%20references%20to%20link%20related,the%20embedded%20data%20frequently%20changes">Embedding vs. Referencing</a></td>
+    <td>This documentation explains the concepts of embedding and referencing data in MongoDB, along with their use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/docs/manual/applications/indexes/">Indexing Strategies</a></td>
+    <td>This page covers various indexing strategies to optimize data retrieval in MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/key-value-data-model-in-nosql/">Key-Value Stores</a></td>
+    <td>This article explains the key-value data model, a common type of NoSQL database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://redis.io/blog/nosql-data-modeling/">Modeling Data in Redis</a></td>
+    <td>This blog post covers data modeling techniques for Redis, a popular key-value store.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.dragonflydb.io/faq/key-value-database-use-cases">Use Cases for Key-Value Pairs</a></td>
+    <td>This resource outlines various use cases for key-value pairs in NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/docs/manual/tutorial/expire-data/">Managing Expiry and TTL (Time to Live)</a></td>
+    <td>This documentation explains how to manage data expiry and TTL in MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/columnar-data-model-of-nosql/">Column-Family Stores</a></td>
+    <td>This article discusses the column-family data model, another type of NoSQL database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scylladb.com/glossary/cassandra-data-model/#:~:text=Data%20modeling%20in%20Cassandra%20follows,retrieval%20improves%20with%20schema%20design">Modeling Data in Cassandra</a></td>
+    <td>This resource provides an overview of data modeling techniques specific to Cassandra.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.baeldung.com/cassandra-keys">Partitioning and Clustering Keys</a></td>
+    <td>This article explains the concepts of partitioning and clustering keys in Cassandra.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.techtarget.com/searchdatamanagement/definition/denormalization">Denormalization and Wide Rows</a></td>
+    <td>This resource covers denormalization and the concept of wide rows in NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/introduction-to-graph-database-on-nosql/">Graph Databases</a></td>
+    <td>This article provides an introduction to graph databases, a type of NoSQL database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/data-model-in-neo4j/#:~:text=The%20data%20model%20in%20Neo4j,%2C%20one%2C%20or%20several%20labels">Modeling Data in Neo4j</a></td>
+    <td>This resource discusses data modeling techniques for Neo4j, a popular graph database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.nebula-graph.io/posts/what-is-a-nosql-database#:~:text=Essential%20components%20of%20a%20NoSQL%20graph%20database&text=Edges%20are%20the%20lines%20that,to%20categorize%20nodes%20and%20edges">Nodes, Relationships, and Properties</a></td>
+    <td>This page explains the fundamental components of NoSQL graph databases, including nodes, relationships, and properties.</td>
+  </tr>
+  <tr>
+    <td><a href="https://stackoverflow.com/questions/41508003/global-indexing-in-graph-databases">Graph Traversal and Indexing</a></td>
+    <td>This Stack Overflow discussion covers global indexing techniques and graph traversal in graph databases.</td>
+  </tr>
+</table>
 
 
