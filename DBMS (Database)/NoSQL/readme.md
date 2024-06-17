@@ -14,7 +14,9 @@ This section is curated collection of NoSQL Resources.
    - [NoSQL Data Modeling](#nosql-data-modeling)
    - [Querying NoSQL Databases](#querying-nosql-databases)
 - [Performance Optimization](#performance-optimization)
-- [NoSQL Database Administration]
+- [NoSQL Database Administration](#nosql-database-administration)
+- [Security in NoSQL Databases](#security-in-nosql-databases)
+- [NoSQL in Cloud Environments]()
 
 
 ### NoSQL
@@ -340,4 +342,44 @@ This section is curated collection of NoSQL Resources.
   </tr>
 </table>
 
+### Security in NoSQL Databases
+>
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://appcheck-ng.com/nosql-security-and-why-it-is-important-for-businesses/#:~:text=Access%20control%20is%20a%20critical,most%20effective%20access%20control%20policy">Security in NoSQL Databases</a></td>
+    <td>This resource explains the importance of security in NoSQL databases and discusses critical access control measures.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@aka.0x4C3DD/securing-nosql-databases-a-comprehensive-guide-c2e2a5d787a4#:~:text=NoSQL%20databases%20should%20implement%20strong,can%20result%20in%20data%20breaches">Authentication and Authorization</a></td>
+    <td>This guide provides comprehensive information on securing NoSQL databases through robust authentication and authorization mechanisms.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/configure-role-based-access-control-in-mongodb/">Implementing Role-Based Access Control (RBAC)</a></td>
+    <td>This tutorial explains how to configure role-based access control (RBAC) in MongoDB to manage user permissions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/docs/manual/core/security-ldap-external/">Integrating with External Authentication Systems (LDAP, OAuth)</a></td>
+    <td>This documentation describes how to integrate MongoDB with external authentication systems like LDAP and OAuth.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.oracle.com/en/database/other-databases/nosql-database/23.3/security/encryption.html#:~:text=Oracle%20NoSQL%20Database%20uses%20SSL,requires%20the%20use%20of%20SSL">Data Encryption</a></td>
+    <td>This Oracle documentation explains how data encryption is implemented in Oracle NoSQL Database using SSL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/products/capabilities/security/encryption">Encrypting Data at Rest and In-Transit</a></td>
+    <td>This resource covers the techniques used by MongoDB to encrypt data both at rest and in transit.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/docs/manual/tutorial/configure-ssl/">SSL/TLS Configuration</a></td>
+    <td>This tutorial provides instructions on how to configure SSL/TLS for secure communication in MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://redis.io/resources/avoid-these-10-nosql-deployment-mistakes/">Best Practices for Secure NoSQL Deployment</a></td>
+    <td>This article outlines best practices to follow for securely deploying NoSQL databases and avoiding common security mistakes.</td>
+  </tr>
+</table>
