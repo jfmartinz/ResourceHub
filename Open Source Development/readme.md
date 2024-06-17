@@ -2,12 +2,32 @@
 Open source development involves collaborative creation of software where the source code is freely available for anyone to view, modify, and distribute. It fosters transparency, innovation, and community-driven improvement. Developers globally contribute code, fix bugs, and suggest enhancements, often through platforms like GitHub. Projects range from small utilities to complex systems like Linux and Apache. Open source encourages diversity, enabling developers from diverse backgrounds to participate and learn. It democratizes technology, offering accessible solutions and empowering users to tailor software to their needs while promoting a culture of sharing and cooperation in the tech community.
 
 ## Table of Contents
+- [Roadmap](#roadmap)
 - [Website to learn Open Source Development](#website-to-learn-open-source-development)<br>
 - [Tutorial or Courses](#tutorial-or-courses)<br>
 - [Open Source Technologies](#open-source-technologies)<br>
 - [Community](#community)<br>
 - [Events](#events)<br>
 - [Youtube Channels](#youtube-channels)
+
+### Roadmap
+> These are some roadmaps to start Open Source  Development.
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.anaconda.com/blog/how-to-get-involved-in-open-source-a-roadmap-for-beginners">How to Get Involved in Open Source: A Roadmap for Beginners</a></td>
+    <td>This BlogPost by Anaconda tells about how to start Open source contrbution.what to contribute and in which way we need to contribute for open source software.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linuxfoundation.org/blog/getting-started-with-open-source-development">edX</a></td>
+    <td>.This BlogPost in linuxfoundation contains about open source contribution as well as it contains roadmap to get start with open source development.it contains tips on contributing to open source projects.</td>
+  </tr>
+  
+  
+</table>
 
 ### Website to learn Open Source Development
 > These are some websites where you can learn Open Source Development.

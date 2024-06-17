@@ -341,6 +341,10 @@
         <td> <a href="https://color-picker.dllplayer.com/">Color Picker</a></td>
         <td>This software extension allows you to pick colors from any web pages, color picker to get pixel code, rgb value of any image on the website you're browsing.</td>
     </tr>
+  <tr>
+        <td> <a href="https://github.com/Ayushmaanagarwal1211/responsive-gym-website">GYM Website </a></td>
+        <td>This is a gym resource this will help to create a frontend project on gym website.</td>
+    </tr>
     <tr>
         <td><a href="https://hypercolor.dev/">Hypercolor</a></td>
         <td>A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors. Easily copy and paste the class names, CSS or even save the gradients as an image.</td>
@@ -1115,6 +1119,13 @@ to everyone - everywhere!</td>
       <td><a href="https://github.com/Saipradyumnagoud/calcuclator">Calculator</a></td>
       <td>This repo By Sai Pradyumna Contains code for calculator where you can perform operations you can use this application by cloning the repository it is developed by html,css,javascript</td>
     </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=cb4d1QQY_BY">Netflix Landing Page</a></td>
+      <td>Netflix landing Page  tutorial using HTML,CSS and JavaScript which resembles like Netflix Home Page where user can login to his netflix account and contains FAQ section.</td>
+    </tr>
+    
+
+    
 </table>
 
 #### Intermediate projects

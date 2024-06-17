@@ -14,6 +14,8 @@ This curated collection offers valuable Cybersecurity resources contributed by l
 - [Frameworks](#frameworks)
 - [Books](#books)
 - [Youtube](#youtube)
+  - [YouTube Channels](#youtube-channels)
+  - [YouTube Playlist](#youtube-playlists)
 - [Community](#community)
 
 ### Roadmap
@@ -32,6 +34,14 @@ This curated collection offers valuable Cybersecurity resources contributed by l
     <td>
       This is a beginner to advance level roadmap to gain cybersecurity skills.
     </td>
+  </tr>
+  <tr>
+  <td>
+  <a href="https://www.geeksforgeeks.org/cybersecurity-roadmap/">Cybersecurity Roadmap by GFG</a>
+  </td>
+  <td>
+      This article from GFG consists of Cybersecurity Roadmap: Career Path, Skills, and Salary.
+  </td>
   </tr>
 </table>
 
@@ -247,28 +257,85 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
   
 </table>
 
-### Youtube
-> Some youtube channel to refer to.
+### YouTube
 
+> These resourcs provided by youtube helps you to learn cybersecurity more efficiently.
+
+#### YouTube Channels
 
 <table>
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
-
   <tr>
     <td>
-      <a href="https://youtu.be/hXSFdwIOfnE?si=OjcHHp9jaSxfqAYa"> SimpliLearn- Cybersecurity Full Course </a>
+      <a href="https://www.youtube.com/@pcsecuritychannel/videos"> pc Security channel</a>
     </td>
-    <td>Small introduction to cybersecurity, followed by explainers regarding the career scope in this domain and the job roles offered. After covering a few cybersecurity skills, we will learn about ethical hacking and network masking techniques like VPNs and Proxies.</td>
+    <td>The YouTube channel "PC Security Channel" focuses on cybersecurity topics, offering informative videos that delve into computer security, malware analysis, antivirus software reviews, and practical tips for improving digital security. It's a valuable resource for both beginners and tech enthusiasts looking to stay informed about protecting their digital assets.</td>
   </tr>
-
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=lpa8uy4DyMo&list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_&ab_channel=edureka%21">EduReka!-Cybersecurity- Full Course</a>
+      <a href="https://www.youtube.com/@NetworkChuck">Network Chuck</a>
     </td>
-    <td>This Cyber Security Tutorial is ideal for both beginners as well as professionals who want to master the Cyber Security concepts.</td>
+    <td>The YouTube channel "NetworkChuck" explores cybersecurity from a practical and educational perspective. It provides in-depth tutorials, discussions, and hands-on demonstrations covering various aspects of cybersecurity, including network security, ethical hacking, penetration testing, and securing IT infrastructures.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/@davidbombal"> David bombal</a>
+    </td>
+    <td>The YouTube channel "David Bombal" is a rich resource for networking and cybersecurity enthusiasts. Known for its comprehensive tutorials and practical demonstrations, the channel covers a wide array of topics including networking protocols, Cisco technologies, Python programming for networking automation, cybersecurity essentials, and career advice in IT. </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/@TCMSecurityAcademy/videos">The cyber mentor</a>
+    </td>
+    <td>This channel focuses on providing high-quality cybersecurity education and practical training. It offers a variety of in-depth tutorials, demonstrations, and educational content covering topics such as ethical hacking, penetration testing, network security, and cybersecurity certifications.</td>
+  </tr>
+</table>
+
+#### YouTube Playlists
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLhfrWIlLOoKMe1Ue0IdeULQvEgCgQ3a1B">Kali Linux: Ethical hacking getting started course</a>
+    </td>
+    <td>This playlist is the best resouces for learning kali linux and also the hacking process by using kali linux,, this playlist covers a wide range of topics including mac address, network system, kali command link, wifi and many more.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLIhvC56v63IIJZRa3lzK6IeBQOH_VFjUQ">Learn Ethical hacking (CEH journey)</a>
+    </td>
+    <td>This playlist by network chuck is one of the best resources out there for getting started with the ethical hacking, this playlist also provides the knowledge about the CEH (certified ethical hacker) certification exam and many more.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47"> Full length hacking courses</a>
+    </td>
+    <td>This playlist is a collection of comprehensive resources for learning hacking, this playlist cover wide range of hacking including web application hacking , bug bounty , linux basics, python basics and more.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_">Cyber Security Training for Beginners</a>
+    </td>
+    <td>This playlist by edureka is the best playlist for learning cybersecurity, this will help you learn Cyber Security from scratch. You will get to know what is the role of Cyber Security in today's IT world and how different kind of attacks are taken care by Cyber Security.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE">CS50's Introduction to Cybersecurity</a>
+    </td>
+    <td>This Introduction to Cyber Security playlist by Harvard University covers the basics of cybersecurity. It’s perfect for beginners or those without a technical background.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLTZYG7bZ1u6ocTMdhDwwmfjaNv134KcWn">Google Cybersecurity Certificate</a>
+    </td>
+    <td>Prepare for a career in high-growth field of Cybersecurity.</td>
   </tr>
 </table>
 

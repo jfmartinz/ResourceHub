@@ -23,10 +23,14 @@ A computer network is a collection of interconnected devices that can communicat
    - [Security Monitoring](#security-monitoring)
    - [Network Inventory](#network-inventory)
 - [Books](#books)<br>
-- [Youtube Channels](#youtube-channels)<br>
-- [YouTube Playlist](#youtube-playlists)<br>
+- [YouTube](#youtube)
+  - [Youtube Channels](#youtube-channels)<br>
+  - [YouTube Playlist](#youtube-playlists)<br>
 - [Interview](#interview)<br>
 - [GitHub Repositories](#github-repositories)<br>
+- [Communities](#communities)
+  - [Reddit Communities](#reddit-communities)
+  - [Other Communities](#other-communities)
 - [Conclusion](#conclusion)<br>
 - [Projects](#projects)<br>
 
@@ -629,7 +633,9 @@ A computer network is a collection of interconnected devices that can communicat
       </tr>
   </table>
 
-## Youtube Channels
+## YouTube
+
+### Youtube Channels
 
 > You can consider these YouTube Channel for learning Computer Networks:
 
@@ -662,7 +668,7 @@ A computer network is a collection of interconnected devices that can communicat
 
 
 
-## YouTube Playlist
+### YouTube Playlist
 
   <table width="100%">
       <tr>
@@ -745,6 +751,53 @@ Arie Bregman | [Openstack Neutron: troubleshooting and solving common problems](
 Arie Bregman | [Openstack: How to debug neutron with pdb](http://abregman.com/2015/12/27/openstack-how-to-debug-neutron-with-pdb) | Beginner | |
 Arie Bregman | [Openstack Neutron: L2 & L3 agents](http://abregman.com/2016/01/03/openstack-neutron-l2-l3-agents) | Beginner | |
 Assaf Muller | [Distributed Virtual Routing – Floating IPs](https://assafmuller.com/2015/04/15/distributed-virtual-routing-floating-ips) | Intermediate | |
+
+## Communities
+
+> These communities helps you to learn from other's mistakes, share knowledge, clear doubts and more.
+
+### Reddit communities
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/networking/">r/networking</a></td>
+        <td>The r/networking subreddit is a community for networking professionals, enthusiasts, and students to discuss and share news, insights, tools, and best practices related to computer networking. Topics include routing, switching, wireless networking, network design, troubleshooting, and more. It's a valuable resource for staying updated and engaging with the networking community.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/sysadmin/">r/sysadmin</a></td>
+        <td>The r/sysadmin subreddit is a community for system administrators, network administrators, and IT professionals to discuss and share information about managing computer systems and networks. Topics include server administration, network security, virtualization, cloud computing, and IT infrastructure management.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/Networks/">r/Networks</a></td>
+        <td>The r/Networks subreddit is a community where networking enthusiasts, professionals, and learners gather to discuss various aspects of computer networks. Topics include network design, protocols, troubleshooting, network administration tools, network security, and more. Members share insights, ask questions, and engage in discussions about networking technologies and best practices.</td>
+      </tr>
+</table>
+
+### Other Communities
+
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://community.spiceworks.com/c/networking/23">Networking spiceworks</a></td>
+        <td>The Spiceworks Community Networking Forum is a vibrant online platform where IT professionals, network administrators, and enthusiasts gather to discuss a wide range of networking topics. This forum is part of Spiceworks, a comprehensive IT management platform, and it serves as a hub for sharing knowledge, troubleshooting network issues, and discussing best practices in networking. </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.bleepingcomputer.com/forums/f/21/networking/">Networking bleeping computer</a></td>
+        <td>The BleepingComputer Networking Forum is an active online community dedicated to discussions and support related to networking. It serves as a valuable platform for IT professionals, network administrators, and enthusiasts to exchange knowledge, troubleshoot networking issues, and seek advice on various networking topics.</td>
+      </tr>
+      <tr>
+        <td><a href="https://community.cisco.com/t5/custom/page/page-id/search?q=computer%20networks&mode=">Computer networks cisco</a></td>
+        <td>The Cisco Community Search page for "computer networks" is a specialized section where users can explore discussions, articles, and resources related to various aspects of computer networks. It's part of Cisco's extensive community platform designed to support networking professionals, enthusiasts, and learners in understanding Cisco technologies and networking principles.</td>
+      </tr>
+</table>
 
 ## GitHub Repositories
 > These are some GitHub Repositories that you can refer to for your journey in the course of Data Science.
