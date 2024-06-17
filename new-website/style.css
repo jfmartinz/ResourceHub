@@ -1314,3 +1314,7 @@ body{
   color: black;
   font-weight: bold;
 }
+
+.hov:hover{
+  color: aqua;
+}
