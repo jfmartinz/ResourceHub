@@ -16,7 +16,8 @@ This section is curated collection of NoSQL Resources.
 - [Performance Optimization](#performance-optimization)
 - [NoSQL Database Administration](#nosql-database-administration)
 - [Security in NoSQL Databases](#security-in-nosql-databases)
-- [NoSQL in Cloud Environments](#no)
+- [NoSQL in Cloud Environments](#nosql-in-cloud-environment)
+- [Books](#books)
 
 
 ### NoSQL
@@ -425,3 +426,5 @@ This section is curated collection of NoSQL Resources.
     <td>This blog post explains the differences between multi-cloud and hybrid cloud strategies, and how they can be applied to NoSQL database deployments.</td>
   </tr>
 </table>
+
+### Books
