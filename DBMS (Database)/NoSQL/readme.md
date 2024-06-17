@@ -18,8 +18,8 @@ This section is curated collection of NoSQL Resources.
 - [Security in NoSQL Databases](#security-in-nosql-databases)
 - [NoSQL in Cloud Environments](#nosql-in-cloud-environment)
 - [Books](#books)
-- [Miscellaneous]()
-- [Conclusion]()
+- [Miscellaneous](#miscellaneous)
+- [Conclusion](#conclusion)
 
 
 ### NoSQL
@@ -486,3 +486,32 @@ This section is curated collection of NoSQL Resources.
     <td>This resource covers advanced data management techniques for SQL, NoSQL, cloud, and distributed databases.</td>
   </tr>
 </table>
+
+### Miscellaneous
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://web.archive.org/web/20201109032031/https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/">What Is A NoSQL Database? Learn By Writing One In Python</a></td>
+    <td>Excellent tutorial in learning NoSQL vs RDBMS through building a toy database using Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://sujithjay.com/data-systems/dynamo-cassandra/">Dynamo Vs Cassandra : Systems Design Of NoSQL Databases</a></td>
+    <td>Blog post comparing and contrasting system designs of two well-known NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5">Why You Should Build Your Own NoSQL Database</a></td>
+    <td>Brief overview of NoSQL databases and the spectrum of schema, along with a very basic implementation of a NoSQL database using the Crystal programming language.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linuxjournal.com/content/postgresql-nosql-database">PostgreSQL, The NoSQL Database (2015)</a></td>
+    <td>An argument for PostgreSQL being an alternative to NoSQL databases with NoSQL-like features using its new features like HStore (key-value store) and JSONB (document-based) as of Version 9.4.</td>
+  </tr>
+</table>
+
+
+## Conclusion
+
