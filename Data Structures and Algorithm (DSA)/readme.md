@@ -22,7 +22,7 @@ This section serves as a curated collection of valuable resources for learning a
    - [Python](#python)<br>
    - [Javascript](#javascript)<br>
 - [CheatSheet](#cheatsheet)
-   
+- [Algorithm by Languages](#algorithm-by-languages)
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -513,6 +513,74 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <a href="https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/">Cheatsheets from GFG</a></td>
 <td>It consists of topic-wise sheets for better understanding</td>
 </tr>
+</table>
+
+### Algorithms by Languages
+> Here are some   Sorting and Searching Algorithms resources and their Implementation in different Languages.
+### JavaScript
+<table width="100%" id="algorithms-by-languages">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=P6XGSKO2RzI&t=519s">Quick Sort</a></td>
+<td>This tutorial explains about quick sort  and provides implementation in javascript and tells about importance of quick sort</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=x_Z9FcAPmbk&t=1s">Merge Sort</a></td>
+<td>This tutorial explains about merge sort  and provides implementation in javascript in different methods</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=75jGy1xAhhs&t=2s">Binary Search</a></td>
+<td>This tutorial explains about Binary Search  and provides implementation in javascript .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
+</tr>
+</table>
+
+### Java
+<table width="100%" id="algorithms-by-languages">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=h8eyY7dIiN4&t=2s">Quick Sort</a></td>
+<td>This tutorial explains about quick sort  and provides implementation in Java and tells about importance of quick sort.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=bOk35XmHPKs&t=1s">Merge Sort</a></td>
+<td>This tutorial explains about merge sort  and provides implementation in java in different methods</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=NFhOrxtXXcM&t=1s">Binary Search</a></td>
+<td>This tutorial explains about Binary Search and provides implementation in java .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
+</tr>
+</table>
+
+### Python
+
+<table width="100%" id="algorithms-by-languages">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=kFeXwkgnQ9U&t=1s">Quick Sort</a></td>
+<td>This tutorial explains about quick sort  and provides implementation in Python and tells about importance of quick sort</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=cVZMah9kEjI&t=1s">Merge Sort</a></td>
+<td>This tutorial explains about merge sort  and provides implementation in Python in different methods</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=cVZMah9kEjI&t=1s">Binary Search</a></td>
+<td>This tutorial explains about Binary Search and provides implementation in Python .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
+</tr>
+
+
 </table>
 
 ##  Conclusion
