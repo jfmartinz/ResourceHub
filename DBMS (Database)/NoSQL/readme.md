@@ -13,7 +13,8 @@ This section is curated collection of NoSQL Resources.
    - [Setting Up NoSQL Environments](#setting-up-nosql-environments)
    - [NoSQL Data Modeling](#nosql-data-modeling)
    - [Querying NoSQL Databases](#querying-nosql-databases)
-   - [Performance Optimization](#performance-optimization)
+- [Performance Optimization](#performance-optimization)
+- [NoSQL Database Administration]
 
 
 ### NoSQL
@@ -252,6 +253,7 @@ This section is curated collection of NoSQL Resources.
 
 
 ### Performance Optimization
+>
 
 <table>
   <tr>
@@ -291,3 +293,8 @@ This section is curated collection of NoSQL Resources.
     <td>This research paper discusses various load balancing techniques for hybrid NoSQL database management systems.</td>
   </tr>
 </table>
+
+### NoSQL Database Administration
+>
+
+
