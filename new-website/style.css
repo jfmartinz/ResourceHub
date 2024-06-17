@@ -1128,7 +1128,22 @@ body{
   max-width: 400px;
   height: auto;
 }
+@media (max-width: 768px) {
+  .container {
+      flex-direction: column;
+      align-items: flex-start;
+  }
 
+  .logo {
+      margin-left: 0;
+      margin-top: 20px;
+  }
+
+  .logo img {
+      max-width: 100%;
+      height: auto;
+  }
+}
 .license-container {
   display: flex;
   justify-content: space-between;
