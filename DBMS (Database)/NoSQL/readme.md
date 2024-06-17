@@ -16,7 +16,7 @@ This section is curated collection of NoSQL Resources.
 - [Performance Optimization](#performance-optimization)
 - [NoSQL Database Administration](#nosql-database-administration)
 - [Security in NoSQL Databases](#security-in-nosql-databases)
-- [NoSQL in Cloud Environments]()
+- [NoSQL in Cloud Environments](#no)
 
 
 ### NoSQL
@@ -381,5 +381,47 @@ This section is curated collection of NoSQL Resources.
   <tr>
     <td><a href="https://redis.io/resources/avoid-these-10-nosql-deployment-mistakes/">Best Practices for Secure NoSQL Deployment</a></td>
     <td>This article outlines best practices to follow for securely deploying NoSQL databases and avoiding common security mistakes.</td>
+  </tr>
+</table>
+
+### NoSQL in Cloud Environment
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/dynamodb/">Managed NoSQL Services</a></td>
+    <td>This resource provides information on managed NoSQL services available on AWS, including Amazon DynamoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/dynamodb/">Amazon DynamoDB</a></td>
+    <td>This link leads to the official AWS page for Amazon DynamoDB, a fully managed NoSQL database service.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cloud.google.com/firestore">Google Cloud Firestore</a></td>
+    <td>This link leads to the official page for Google Cloud Firestore, a NoSQL document database service by Google Cloud.</td>
+  </tr>
+  <tr>
+    <td><a href="https://azure.microsoft.com/en-us/products/cosmos-db">Azure Cosmos DB</a></td>
+    <td>This link leads to the official page for Azure Cosmos DB, a globally distributed, multi-model database service by Microsoft Azure.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/deployment-strategies.html">Deployment Strategies</a></td>
+    <td>This AWS documentation provides various deployment strategies for applications, including NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.checkmateq.com/blog/nosql-services-provided-by-azure-gcp-and-aws">Deploying NoSQL Databases on AWS, GCP, Azure</a></td>
+    <td>This blog post compares the NoSQL services provided by AWS, Google Cloud Platform (GCP), and Microsoft Azure, and discusses deployment strategies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2269&context=etd_projects">Using Kubernetes for NoSQL Deployments</a></td>
+    <td>This paper discusses how to use Kubernetes for deploying NoSQL databases, including best practices and use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://scalegrid.io/blog/multi-cloud-vs-hybrid-cloud/#:~:text=Multi%2Dcloud%20and%20hybrid%20cloud%20are%20two%20different%20strategies%20for,diverse%20resources%20at%20different%20layers">Hybrid and Multi-Cloud Strategies</a></td>
+    <td>This blog post explains the differences between multi-cloud and hybrid cloud strategies, and how they can be applied to NoSQL database deployments.</td>
   </tr>
 </table>
