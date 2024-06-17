@@ -258,6 +258,10 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td><a href="https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0">Apna College DSA Sheet </a></td>
 <td> This DSA sheet by Apna College is a valuable resource for Data Structures & Algorithms with around 400 problems topic-wise and the companies that have asked the problem. </td>
 </tr>
+<tr>
+<td><a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2">Strivers A2Z DSA Course/Sheet</a></td>
+<td> This course is made for people who want to learn DSA from A to Z for free in a well-organized and structured manner. The lecture quality is better than what you get in paid courses. </td>
+</tr>
 </table>
 
 ## DSA by languages
