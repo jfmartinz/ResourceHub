@@ -10,7 +10,8 @@ This section is curated collection of NoSQL Resources.
 
 - [NoSQL](#nosql-1)
    - [Introduction](#introduction)
-
+   - [Setting Up NoSQL Environments](#setting-up-nosql-environments)
+   - [NoSQL Data Modeling]
 
 
 
@@ -61,3 +62,54 @@ This section is curated collection of NoSQL Resources.
     <td>This article introduces graph databases, a type of NoSQL database, describing their structure and use cases.</td>
   </tr>
 </table>
+
+
+### Setting Up NoSQL Environments
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://yadavmamta176.medium.com/acomprehensive-guide-to-installing-and-configuring-nosql-databases-mongodb-cf8d2577c812">Installing and Configuring NoSQL Databases</a></td>
+    <td>This comprehensive guide covers the installation and configuration of various NoSQL databases, including MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/">MongoDB Installation and Setup</a></td>
+    <td>This tutorial provides step-by-step instructions for installing and setting up MongoDB on Windows.</td>
+  </tr>
+  <tr>
+    <td><a href="https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/">Redis Installation and Setup</a></td>
+    <td>This documentation offers guidance on installing and setting up Redis, including operating system-specific instructions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.hostinger.in/tutorials/set-up-and-install-cassandra-ubuntu/">Cassandra Installation and Setup</a></td>
+    <td>This tutorial explains how to install and set up Cassandra on Ubuntu, providing a detailed walkthrough.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/neo4j-installation/">Neo4j Installation and Setup</a></td>
+    <td>This article provides instructions for installing and setting up Neo4j, a popular graph database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://robomongo.org/">MongoDB Compass, Robo 3T for MongoDB</a></td>
+    <td>This resource discusses MongoDB Compass and Robo 3T, two popular tools for interacting with MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://redis.io/insight/">Redis CLI and GUI Tools</a></td>
+    <td>This page covers various CLI and GUI tools available for managing and interacting with Redis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://cassandra.apache.org/doc/stable/cassandra/tools/cqlsh.html">cqlsh for Cassandra</a></td>
+    <td>This documentation details cqlsh, a command-line interface for interacting with Cassandra databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://neo4j.com/docs/operations-manual/current/tools/cypher-shell/">Neo4j Browser and Cypher Shell</a></td>
+    <td>This manual provides information on using the Neo4j Browser and Cypher Shell for interacting with Neo4j databases.</td>
+  </tr>
+</table>
+
+
+### NoSQL Data Modeling
+
+
