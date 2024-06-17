@@ -17,6 +17,8 @@ This curated collection offers valuable Cybersecurity resources contributed by l
   - [YouTube Channels](#youtube-channels)
   - [YouTube Playlist](#youtube-playlists)
 - [Community](#community)
+  - [Reddit Communities](#reddit-communities)
+  - [Other Communities](#other-communities)
 
 ### Roadmap
 > This ia a roadmap to learn cybersecurity
@@ -322,19 +324,49 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
 ### Community
 > These are some communities you can seek help from to learn about cybersecurity.
 
+#### Reddit Communities
+
 <table>
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
   </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/cybersecurity/">r/cybersecurity</a></td>
+        <td>The r/cybersecurity subreddit is a community where cybersecurity professionals, enthusiasts, and students discuss and share news, insights, tools, and best practices related to cybersecurity. Topics include threat intelligence, incident response, ethical hacking, network security, and more. It's a valuable resource for staying updated and engaging with the cybersecurity community.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/ethicalhacking/">r/ethicalhacking</a></td>
+        <td>The r/ethicalhacking subreddit is dedicated to discussions and resources related to ethical hacking, penetration testing, and offensive security. Members share tutorials, tools, news, and discuss ethical considerations in cybersecurity. It's a community suitable for beginners and experienced professionals looking to learn and share insights about ethical hacking practices.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/cybersecurity101/">r/cybersecurity101</a></td>
+        <td>r/cybersecurity101 is a subreddit for beginners interested in cybersecurity. It covers introductory topics, resources, and advice for those new to the field of cybersecurity, including discussions on ethical hacking and cybersecurity fundamentals.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/hacking/">r/hacking</a></td>
+        <td>The r/hacking subreddit is a community for discussions related to hacking techniques, tools, news, and ethical considerations. Members share resources, tutorials, and engage in discussions about various aspects of hacking and cybersecurity.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/netsec/">r/netsec</a></td>
+        <td>The r/netsec subreddit is dedicated to network security discussions. It covers topics such as vulnerabilities, exploits, malware analysis, cryptography, and defensive security measures. It's geared towards cybersecurity professionals and enthusiasts interested in in-depth technical discussions.</td>
+      </tr>
+</table>
 
+
+#### Other Communities
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
   <tr>
     <td>
       <a href="https://www.wilderssecurity.com/">Wilders Security</a>
     </td>
     <td>This well-known security forum is a great resource for your cybersecurity questions.Easily navigate from the homepage to sub-forums and over 2.5 million posts.</td>
   </tr>
-
   <tr>
     <td>
       <a href="https://cybersecurity.ieee.org/"> IEEE Cybersecurity</a>
