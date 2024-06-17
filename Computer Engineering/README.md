@@ -260,6 +260,16 @@ Welcome to the Computer Engineering resource repository! This collection offers 
     <td>A research database for discovering and accessing scientific and technical content published by the IEEE and its publishing partners.</td>
   </tr>
 </table>
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://dl.acm.org/">ACM Digital Library</a></td>
+    <td>Hosted by the Association for Computing Machinery, this digital library offers a comprehensive collection of papers, articles, and conference proceedings in the field of computer science and engineering.</td>
+  </tr>
+</table>
 
 ### Competitions
 
