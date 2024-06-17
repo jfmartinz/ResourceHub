@@ -18,6 +18,8 @@ This section is curated collection of NoSQL Resources.
 - [Security in NoSQL Databases](#security-in-nosql-databases)
 - [NoSQL in Cloud Environments](#nosql-in-cloud-environment)
 - [Books](#books)
+- [Miscellaneous]()
+- [Conclusion]()
 
 
 ### NoSQL
@@ -428,3 +430,59 @@ This section is curated collection of NoSQL Resources.
 </table>
 
 ### Books
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620">NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence</a></td>
+    <td>This book provides a concise introduction to the world of NoSQL databases, covering various types and their uses.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Seven-Databases-Weeks-Eric-Redmond/dp/1934356921">Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement</a></td>
+    <td>This guide explores seven different databases over seven weeks, highlighting the strengths and use cases of each.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/NoSQL-Mere-Mortals-Dan-Sullivan/dp/0134023218">NoSQL for Mere Mortals</a></td>
+    <td>This book provides an accessible introduction to NoSQL databases, focusing on practical implementation and understanding.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Professional-NoSQL-Shashank-Tiwari/dp/8126533269">Professional NoSQL by Shashank Tiwari</a></td>
+    <td>This resource dives into professional-level NoSQL database implementation and management.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Making-Sense-NoSQL-guide-managers/dp/1617291072">Making Sense of NoSQL: A Guide for Managers and the Rest of Us by Ann Kelly</a></td>
+    <td>This book provides insights into NoSQL databases from a managerial perspective, making it accessible for non-technical readers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.oreilly.com/library/view/a-deep-dive/9780128137871/">A Deep Dive Into NoSQL Databases: The Use Cases and Applications</a></td>
+    <td>This resource explores the various use cases and applications of NoSQL databases in depth.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Definitive-Guide-MongoDB-complete-dealing/dp/1430258217">The Definitive Guide to MongoDB: A Complete Guide to Dealing with Big Data Using MongoDB by Tim Hawkins</a></td>
+    <td>This guide offers a comprehensive look at using MongoDB for big data applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Relational-Theory-Chris-c-j-Date/dp/1449316409">SQL and Relational Theory: How to Write Accurate SQL Code</a></td>
+    <td>This book covers the principles of SQL and relational theory to help write accurate SQL code.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/NoSQL-SQL-Data-Modeling-Semantics/dp/1634621093">NoSQL and SQL Data Modeling: Bringing Together Data, Semantics, and Software by Ted Hills</a></td>
+    <td>This book bridges the gap between NoSQL and SQL data modeling, integrating data, semantics, and software concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://link.springer.com/book/10.1007/978-1-4842-1329-2">Next Generation Databases: NoSQL and Big Data</a></td>
+    <td>This resource discusses the advancements in NoSQL and big data technologies, exploring next-generation database solutions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://link.springer.com/book/10.1007/978-3-658-24549-8">SQL & NoSQL Databases: Models, Languages, Consistency Options and Architectures for Big Data Management</a></td>
+    <td>This book provides an overview of both SQL and NoSQL databases, focusing on models, languages, consistency options, and architectures for big data management.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Advanced-Data-Management-Distributed-Databases/dp/3110441403">Advanced Data Management: For SQL, NoSQL, Cloud and Distributed Databases by Lena Wiese</a></td>
+    <td>This resource covers advanced data management techniques for SQL, NoSQL, cloud, and distributed databases.</td>
+  </tr>
+</table>
