@@ -13,6 +13,7 @@ This section is curated collection of NoSQL Resources.
    - [Setting Up NoSQL Environments](#setting-up-nosql-environments)
    - [NoSQL Data Modeling](#nosql-data-modeling)
    - [Querying NoSQL Databases](#querying-nosql-databases)
+   - [Performance Optimization](#performance-optimization)
 
 
 ### NoSQL
@@ -251,3 +252,42 @@ This section is curated collection of NoSQL Resources.
 
 
 ### Performance Optimization
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.couchbase.com/blog/query-optimization-in-nosql-couchbase-mongodb/">Indexing and Query Optimization</a></td>
+    <td>This blog post discusses various techniques for indexing and query optimization in NoSQL databases like Couchbase and MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.oracle.com/en/database/other-databases/nosql-database/23.3/nsdev/using-indexes-nosql-database.html#:~:text=In%20an%20Oracle%20NoSQL%20Database,primary%20index%20will%20be%20used">Creating and Using Indexes Effectively</a></td>
+    <td>This documentation provides guidelines on creating and using indexes effectively in Oracle NoSQL Database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.couchbase.com/blog/query-optimization-in-nosql-couchbase-mongodb/#:~:text=Queries%20can%20be%20executed%20in,throughput%2C%20depending%20on%20the%20workload">Understanding Query Plans and Optimizers</a></td>
+    <td>This article explains how query plans and optimizers work in NoSQL databases to improve query performance.</td>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/caching/database-caching/">Caching Strategies for NoSQL Databases</a></td>
+    <td>This resource discusses various caching strategies that can be used to improve the performance of NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scylladb.com/glossary/database-scalability/#:~:text=Typically%2C%20NoSQL%20databases%20are%20horizontally,and%20lower%20cost%20of%20scaling">Scalability and Replication</a></td>
+    <td>This glossary entry explains the concepts of scalability and replication in NoSQL databases, focusing on horizontal scaling.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/advice/0/what-best-practices-data-sharding-partitioning#:~:text=Data%20sharding%20and%20partitioning%20are,query%20complexity%2C%20and%20network%20latency">Sharding and Partitioning Data</a></td>
+    <td>This LinkedIn article discusses best practices for data sharding and partitioning to improve database performance.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geeksforgeeks.org/mongodb-replication-and-sharding/">Configuring Replication and Clustering</a></td>
+    <td>This tutorial provides information on configuring replication and clustering in MongoDB to ensure data availability and reliability.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.researchgate.net/publication/301417975_Load_balancing_for_hybrid_NoSQL_database_management_systems">Load Balancing Techniques</a></td>
+    <td>This research paper discusses various load balancing techniques for hybrid NoSQL database management systems.</td>
+  </tr>
+</table>
