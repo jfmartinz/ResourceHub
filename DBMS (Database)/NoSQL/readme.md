@@ -12,7 +12,7 @@ This section is curated collection of NoSQL Resources.
    - [Introduction](#introduction)
    - [Setting Up NoSQL Environments](#setting-up-nosql-environments)
    - [NoSQL Data Modeling](#nosql-data-modeling)
-
+   - [Querying NoSQL Databases](#querying-nosql-databases)
 
 
 ### NoSQL
@@ -200,3 +200,54 @@ This section is curated collection of NoSQL Resources.
 </table>
 
 
+### Querying NoSQL Databases
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://codehooks.io/docs/nosql-database-query-language#:~:text=NoSQL%20queries%20are%20used%20in,for%20developing%20backend%20application%20logic.&text=The%20NoSQL%20query%20language%20can,API%20queries%20on%20this%20page">Query Languages and APIs</a></td>
+    <td>This resource provides an overview of various query languages and APIs used for querying NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.geopits.com/blog/mongodb-query-language.html#:~:text=Just%20like%20structured%20databases%20use,complex%20structure%2C%20when%20queried%20correctly">MongoDB Query Language (MQL)</a></td>
+    <td>This article explains the MongoDB Query Language (MQL), which is used to query MongoDB databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://redis.io/docs/latest/develop/interact/programmability/eval-intro/#:~:text=Redis%20lets%20users%20upload%20and,from%20scripts%20is%20very%20efficient">Redis Commands and Lua Scripting</a></td>
+    <td>This documentation covers the commands and Lua scripting capabilities available in Redis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scylladb.com/glossary/cassandra-query-language-cql/#:~:text=CQL%20query%20language%20is%20a,of%20entry%20to%20Apache%20Cassandra">Cassandra Query Language (CQL)</a></td>
+    <td>This resource provides an overview of the Cassandra Query Language (CQL) used to interact with Cassandra databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/neo4j-query-cypher-language#:~:text=Neo4j%20has%20developed%20its%20own,data%20in%20nodes%20and%20relationships">Cypher Query Language for Neo4j</a></td>
+    <td>This tutorial explains the Cypher query language used in Neo4j for querying graph data.</td>
+  </tr>
+  <tr>
+    <td><a href="https://ravendb.net/why-ravendb/advanced-query-engine">Advanced Query Techniques</a></td>
+    <td>This page discusses advanced query techniques available in RavenDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.prisma.io/dataguide/mongodb/mongodb-aggregation-framework#:~:text=The%20purpose%20of%20MongoDB's%20Aggregation,will%20be%20the%20desired%20documents">Aggregation Frameworks (MongoDB Aggregation Pipeline)</a></td>
+    <td>This resource explains the MongoDB Aggregation Pipeline, a framework for performing advanced data aggregation operations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/resources/basics/full-text-search">Full-Text Search and Indexing (Elasticsearch with MongoDB)</a></td>
+    <td>This page provides information on integrating Elasticsearch with MongoDB for full-text search and indexing capabilities.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/docs/manual/geospatial-queries/">Geospatial Queries</a></td>
+    <td>This documentation covers how to perform geospatial queries in MongoDB.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.timescale.com/blog/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c/">Time-Series Data Queries</a></td>
+    <td>This blog post discusses the querying of time-series data and the use of relational databases versus NoSQL for time-series data.</td>
+  </tr>
+</table>
+
+
+### Performance Optimization
