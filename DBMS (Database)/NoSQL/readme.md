@@ -297,4 +297,47 @@ This section is curated collection of NoSQL Resources.
 ### NoSQL Database Administration
 >
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.scylladb.com/learn/nosql/sql-vs-nosql-database-administration/#:~:text=NoSQL%20databases%20make%20it%20easier,running%20on%20inexpensive%20commodity%20servers">NoSQL Database Administration</a></td>
+    <td>This resource explains how NoSQL databases make administration easier and discusses the differences from SQL database administration.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/advice/3/how-do-you-implement-backup-recovery-strategies-1e#:~:text=Unlike%20relational%20databases%2C%20NoSQL%20databases,case%20of%20failure%20or%20disaster">Backup and Recovery</a></td>
+    <td>This LinkedIn article discusses how to implement backup and recovery strategies for NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/advice/3/how-do-you-implement-backup-recovery-strategies-1e#:~:text=3%20Backup%20tools%20and%20storage,-The%20third%20step&text=There%20are%20various%20tools%20available,%2Dparty%20or%20open%2Dsource">Backup Strategies for NoSQL Databases</a></td>
+    <td>This resource provides an overview of various tools and strategies for backing up NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mongodb.com/docs/atlas/recover-pit-continuous-cloud-backup/">Point-in-Time Recovery and Snapshots</a></td>
+    <td>This MongoDB documentation covers point-in-time recovery and snapshot backups.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.studocu.com/in/document/nirmala-college/database-technology-and-nosql/disaster-recovery-in-no-sql-databases/53627645">Disaster Recovery Planning</a></td>
+    <td>This document provides information on disaster recovery planning specifically for NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.scylladb.com/learn/nosql/sql-vs-nosql-database-administration/">Monitoring and Maintenance</a></td>
+    <td>This resource explains how to monitor and maintain NoSQL databases, highlighting key differences from SQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://grafana.com/docs/grafana-cloud/send-data/metrics/metrics-prometheus/prometheus-config-examples/the-nosqlbench-community-nosqlbench/">Monitoring Tools and Metrics (Prometheus, Grafana)</a></td>
+    <td>This documentation provides examples of using Prometheus and Grafana for monitoring NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/advice/0/what-some-common-performance-tuning-techniques">Performance Tuning and Resource Management</a></td>
+    <td>This LinkedIn article discusses common performance tuning techniques and resource management for NoSQL databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.spinnakersupport.com/open-source/managed-services/nosql/">Routine Maintenance Tasks</a></td>
+    <td>This resource outlines routine maintenance tasks necessary for managing NoSQL databases.</td>
+  </tr>
+</table>
+
 
