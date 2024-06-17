@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2" defer></script>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">  
+
+    
+    <link rel="icon" href="assets/logo.png">
+
+    <!-- Latest compiled and minified CSS -->
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="feedback.css">
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ResourceHub</title>
+</head>
+<body>
+    <div class="col-md-10">
+        <a href="index.html" class="home-link"><i class="fas fa-arrow-left"> </i></a>
+    </div>
+
+    <div class="content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="row align-items-center">
+                        <div class="col-lg-7 mb-5 mb-lg-0">
+                         <h2 class="mb-5">Fill this feedback form</h2><h3>Reach out to us.</h3>
+                            <form action="" class="border-right pr-5 mb-5" method="post" id="contactForm" name="contactForm"> 
+                                <!-- replace email id accordingly -->
+                                <div class="row">
+                                  <div class="col-md-6 form-group">
+                                     <input type="text" class="form-control" name="fname" id="fname" placeholder="First name">
+                                    </div>
+                                <div class="col-md-6 form-group">
+                                    <input type="text" class="form-control" name="lname" id="lname" placeholder="Last name">
+                                </div>
+                            </div>
+                <div class="row">
+                    <div class="col-md-12 form-group">
+                        <input type="text" class="form-control" name="email" id="email" placeholder="youremail@somemail.com">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 form-group">
+                        <textarea class="form-control" name="message" id="message" cols="30" rows="7" placeholder="Write your message"></textarea>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <input type="submit" value="Send Message" class="btn btn-primary rounded-0 px-2">
+                        <span class="submitting"></span>
+                     </div>
+                </div>
+            <p>Created by <a href="index.html" target="_blank">ResourceHub</a></p>
+                </form>
+            <div id="form-message-warning mt-4"></div>
+                <div id="form-message-success" style="display: none;">
+                    Your message was sent, thank you!
+                </div>
+            </div>
+            <div class="col-lg-4 ml-auto">
+                <h3 class="mb-4">We value your feedback</h3>
+                <p>Your feedback is important to us. It helps us improve and provide better services. We appreciate your thoughts and suggestions!</p>
+                <p><a href="#">Read more</a></p>
+            </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="scripts.js"></script>
+<script src="home.js"></script>
+    
+  
+</body>
+</html>
