@@ -516,7 +516,7 @@ App development refers to crafting software for diverse devices, involving plann
       <td>A Unit Converter app built with Jetpack Compose provides a sleek, modern interface for converting between various units of measurement, such as length, weight, and temperature. It leverages Compose's declarative UI toolkit to offer real-time updates, intuitive navigation, and a responsive layout that adapts seamlessly to different screen sizes and orientations.</td>
   </tr>
   <tr>
-      <td><a herf = "https://github.com/GAVINESHWAR/-_-_5_Stop_watch">Stop Watch</a></td>
+      <td><a href = "https://github.com/GAVINESHWAR/-_-_5_Stop_watch">Stop Watch</a></td>
       <td>A simple stopwatch app using Jetpack Compose features a clean and intuitive interface. It allows users to start, pause, and reset the timer with responsive buttons and displays elapsed time in a large, easily readable format. The app leverages state management and composables for smooth animations and performance.
       </td>
       </tr>
