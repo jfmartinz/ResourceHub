@@ -35,6 +35,14 @@ This curated collection offers valuable Cybersecurity resources contributed by l
       This is a beginner to advance level roadmap to gain cybersecurity skills.
     </td>
   </tr>
+  <tr>
+  <td>
+  <a href="https://www.geeksforgeeks.org/cybersecurity-roadmap/">Cybersecurity Roadmap by GFG</a>
+  </td>
+  <td>
+      This article from GFG consists of Cybersecurity Roadmap: Career Path, Skills, and Salary.
+  </td>
+  </tr>
 </table>
 
 
