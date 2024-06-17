@@ -521,7 +521,7 @@ App development refers to crafting software for diverse devices, involving plann
       </td>
       </tr>
   <tr>
-      <td><a href = "https://github.com/GAVINESHWAR/CSETech">CSETech</td>
+      <td><a href = "https://github.com/GAVINESHWAR/CSETech">CSETech</a></td>
       <td>CSETech is a cutting-edge mobile application designed for Computer Science Engineering (CSE) students, offering a wealth of resources such as lecture notes, suggestions, and PVQ papers. Built using Jetpack Compose, it delivers a modern, intuitive, and highly responsive user interface, ensuring seamless access to educational materials on the go.
       </td>
       </tr>
@@ -532,7 +532,7 @@ App development refers to crafting software for diverse devices, involving plann
       </td>
       </tr>
   <tr>
-      <td><a href = "https://github.com/GAVINESHWAR/Voice-Assistance"></a>Voice to Text Convertor</td>
+      <td><a href = "https://github.com/GAVINESHWAR/Voice-Assistance">Voice to Text Convertor</a></td>
       <td>A voice-to-text app using Jetpack Compose is an Android application that converts spoken words into written text. It leverages Jetpack Compose for its UI components, providing a modern, declarative approach to building the user interface, and integrates with Android's SpeechRecognizer API to capture and transcribe voice input in real-time.
       </td>
       </tr>
@@ -542,12 +542,12 @@ App development refers to crafting software for diverse devices, involving plann
       </td>
       </tr>
   <tr>
-    <td><a href = "https://github.com/GAVINESHWAR/To_do_List"></a>To do list</td>
+    <td><a href = "https://github.com/GAVINESHWAR/To_do_List">To do list</a></td>
     <td>A To-Do List app built with Jetpack Compose provides a sleek and intuitive interface for managing tasks. Users can easily add, edit, and delete tasks, with real-time updates and smooth animations enhancing the user experience. The app leverages Compose's declarative UI to ensure a modern, responsive design that adapts seamlessly to different screen sizes.
     </td>
   </tr>
   <tr>
-  <td><a href = "https://github.com/GAVINESHWAR/Dice_a_Roll"></a>Dice a Roll</td>
+  <td><a href = "https://github.com/GAVINESHWAR/Dice_a_Roll">Dice a Roll</a></td>
   <td>Dice Roll App: Enjoy a sleek and intuitive experience with Jetpack Compose. Roll using images, making every gaming moment immersive and fun.</td>
   </tr>
 </table>
