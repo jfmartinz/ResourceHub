@@ -23,7 +23,7 @@ This section is curated collection of NoSQL Resources.
 
 
 ### NoSQL
->
+> Provides Resources of NoSQL databases
 
 ### Introduction
 
@@ -258,7 +258,7 @@ This section is curated collection of NoSQL Resources.
 
 
 ### Performance Optimization
->
+>Offers strategies for optimizing the performance of NoSQL databases, including indexing, caching, data partitioning, and tuning configuration settings.
 
 <table>
   <tr>
@@ -300,7 +300,7 @@ This section is curated collection of NoSQL Resources.
 </table>
 
 ### NoSQL Database Administration
->
+>Details administrative tasks for managing NoSQL databases, such as backup and recovery, monitoring, maintenance, and scaling operations.
 
 <table>
   <tr>
@@ -346,7 +346,8 @@ This section is curated collection of NoSQL Resources.
 </table>
 
 ### Security in NoSQL Databases
->
+>Explores security best practices for NoSQL databases, including authentication, authorization, encryption, and securing data in transit and at rest.
+
 
 <table>
   <tr>
@@ -388,7 +389,7 @@ This section is curated collection of NoSQL Resources.
 </table>
 
 ### NoSQL in Cloud Environment
->
+>Deploying and managing NoSQL databases in cloud environments, leveraging cloud-specific features, and best practices for cloud-native NoSQL solutions.
 
 <table>
   <tr>
@@ -430,7 +431,7 @@ This section is curated collection of NoSQL Resources.
 </table>
 
 ### Books
->
+>Recommends books on NoSQL, covering a range of topics from introductory concepts to advanced database management, performance tuning, and practical applications.
 
 <table>
   <tr>
@@ -488,6 +489,7 @@ This section is curated collection of NoSQL Resources.
 </table>
 
 ### Miscellaneous
+>Includes additional resources, tools, and utilities that support NoSQL development and administration, such as ORMs, migration tools, and monitoring solutions.
 
 <table>
   <tr>
