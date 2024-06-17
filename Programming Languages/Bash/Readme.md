@@ -17,6 +17,7 @@ Bash (Bourne Again SHell) is a powerful command-line interpreter and scripting l
 - [Tools](#tools)
 - [Projects](#projects) 
 - [Courses](#courses)
+- [Bash Cheatsheets](#cheatsheets)
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -274,6 +275,33 @@ Here are courses you may consider:
   <tr>
     <td><a href="https://www.coursera.org/learn/bash-shell-scripting">Coursera Bash Shell Scripting</a></td>
     <td>This course provides a comprehensive introduction to Bash scripting, including file manipulation and task automation.</td>
+  </tr>
+</table>
+
+## Bash Cheatsheets
+
+Provides quick reference guides for commonly used commands and syntax in Bash scripting, helping learners easily find and use key information.
+
+<table width="100%" id="cheatsheets">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://devhints.io/bash">Bash scripting cheatsheet</a></td>
+    <td>This cheatsheet provides a quick reference to get started with Bash scripting.</td>
+  </tr>
+  <tr>
+    <td><a href="https://quickref.me/bash.html">Bash cheatsheet</a></td>
+    <td>This cheatsheet is a quick reference for getting started with Linux bash shell scripting.</td>
+  </tr>
+   <tr>
+    <td><a href="https://www.codecademy.com/learn/bash-scripting/modules/bash-scripting/cheatsheet">Codecademy - Bash Scripting Cheatsheet</a></td>
+    <td>This cheatsheet covers fundamental to intermediate concepts of Bash Scripting, as provided by Codecademy.</td>
+  </tr>
+   <tr>
+    <td><a href="https://phoenixnap.com/kb/bash-commands">30 Bash Commands Cheat Sheet</a></td>
+    <td>This cheat sheet covers 30 bash commands for quick reference.</td>
   </tr>
 </table>
 

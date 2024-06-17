@@ -628,7 +628,12 @@ Here are some resources for Interview Questions.
     <td><a href="https://www.interviewbit.com/operating-system-interview-questions/">Operating System Interview Questions-InterviewBit</a></td>
     <td>These website contains 40+ commonly asked Interview Questions from basic to advanced level</td>
   </tr>
-  
+  <tr>
+  <td>
+  <a href="https://www.geeksforgeeks.org/operating-systems-interview-questions/">Operating System interview questions by GFG</a>
+  </td>
+  <td>This article contains top 100+ OS interview questions along with their answers.</td>
+  </tr>
 </table>
 
 

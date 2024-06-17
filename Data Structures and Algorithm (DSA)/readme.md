@@ -21,6 +21,7 @@ This section serves as a curated collection of valuable resources for learning a
    - [Java](#java)<br>
    - [Python](#python)<br>
    - [Javascript](#javascript)<br>
+- [CheatSheet](#cheatsheet)
    
 - [Conclusion](#conclusion)
 
@@ -501,6 +502,18 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 </table>
 
+### Cheatsheet
+
+<table width="100%" id="sheets">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr><td>
+<a href="https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/">Cheatsheets from GFG</a></td>
+<td>It consists of topic-wise sheets for better understanding</td>
+</tr>
+</table>
 
 ##  Conclusion
 

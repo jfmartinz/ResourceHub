@@ -35,6 +35,14 @@ This curated collection offers valuable Cybersecurity resources contributed by l
       This is a beginner to advance level roadmap to gain cybersecurity skills.
     </td>
   </tr>
+  <tr>
+  <td>
+  <a href="https://www.geeksforgeeks.org/cybersecurity-roadmap/">Cybersecurity Roadmap by GFG</a>
+  </td>
+  <td>
+      This article from GFG consists of Cybersecurity Roadmap: Career Path, Skills, and Salary.
+  </td>
+  </tr>
 </table>
 
 
@@ -322,6 +330,12 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
       <a href="https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE">CS50's Introduction to Cybersecurity</a>
     </td>
     <td>This Introduction to Cyber Security playlist by Harvard University covers the basics of cybersecurity. It’s perfect for beginners or those without a technical background.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/playlist?list=PLTZYG7bZ1u6ocTMdhDwwmfjaNv134KcWn">Google Cybersecurity Certificate</a>
+    </td>
+    <td>Prepare for a career in high-growth field of Cybersecurity.</td>
   </tr>
 </table>
 
