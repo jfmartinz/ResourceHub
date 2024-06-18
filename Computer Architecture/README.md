@@ -22,6 +22,7 @@ Computer Architecture is the study of the structure, organization, and design of
   - [Beginner Projects](#beginner-projects)
   - [Intermediate Projects](#intermediate-projects)
   - [Advanced Projects](#advanced-projects)
+- [Interview](#interview)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -227,6 +228,12 @@ Computer Architecture is the study of the structure, organization, and design of
         <td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRi4toMqZhHt3C7vzS5lRvfQ">Computer Architecture by Neso Academy</a></td>
         <td>A comprehensive playlist covering various topics in computer architecture.</td>
       </tr>
+      <tr>
+      <td>
+      <a href="https://www.youtube.com/watch?v=kTdvOlA2ko0&list=PLXj4XH7LcRfDXDRzSLv1FfZ-SSA38SiC0">Computer Architecture by Sudhakar Atchala</a> </td>
+      <td>This playlist contains topic from computer architecture</td>
+      </tr>
+
 </table>
 
 ### Resources for Finding Research Papers
@@ -358,6 +365,31 @@ Computer Architecture is the study of the structure, organization, and design of
         <td><a href="https://github.com/ahrvo/Computer-Organization-and-Architecture">Custom Instruction Set Architecture</a></td>
         <td>Design and implement a custom Instruction Set Architecture (ISA) and create a compiler for it.</td>
       </tr>
+</table>
+
+### Interview
+<table width="100%" id="interview">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+   <tr>
+        <td><a href="https://www.analyticsvidhya.com/blog/2022/08/basic-interview-questions-on-computer-architecture/">Basic Interview Questions On Computer Architecture - Analytics Vidhya</a></td>
+        <td>This article contains fundamental interview questions on computer architecture from Analytics Vidhya.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.indeed.com/career-advice/interviewing/computer-architecture-interview-questions">Top 25 Computer Architecture Interview Questions(and Example Answers)</a></td>
+        <td>Here are 25 computer architecture interview questions from the Indeed website.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.naukri.com/code360/library/computer-architecture-interview-questions">Computer Architecture Interview Questions and Answers - Naukri</a></td>
+        <td>This article consists of the top 30 most popular Computer Architecture interview questions.</td>
+      </tr>
+      <tr>
+        <td><a href="https://career.guru99.com/top-21-cad-interview-questions/">Top 21 Computer Architecture Interview Questions and Answers - Career Guru99</a></td>
+        <td>This article consists of Computer Architecture interview questions and answers for freshers as well as experienced candidates to get their dream job.</td>
+      </tr>
+    
 </table>
 
 ### Conclusion
