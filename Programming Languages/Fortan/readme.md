@@ -269,7 +269,7 @@ Fortran (Formula Translation) is a high-level programming language that is espec
 
 <table width="100%">
   <tr>
-    <th>Project Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -293,7 +293,7 @@ https://www.youtube.com/watch?v=i-ix1y3ACVk">Fortran Tutorials</a></td>
 
 <table width="100%">
   <tr>
-    <th>Project Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -318,7 +318,7 @@ https://www.youtube.com/watch?v=i-ix1y3ACVk">Fortran Tutorials</a></td>
 
 <table width="100%">
   <tr>
-    <th>Course Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -341,7 +341,7 @@ https://www.youtube.com/watch?v=i-ix1y3ACVk">Fortran Tutorials</a></td>
 
 <table width="100%">
   <tr>
-    <th>Course Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -364,7 +364,7 @@ https://www.youtube.com/watch?v=i-ix1y3ACVk">Fortran Tutorials</a></td>
 
 <table width="100%">
   <tr>
-    <th>Channel/Playlist</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -387,7 +387,7 @@ https://www.youtube.com/watch?v=i-ix1y3ACVk">Fortran Tutorials</a></td>
 
 <table width="100%">
   <tr>
-    <th>Cheatsheet</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
   <tr>
