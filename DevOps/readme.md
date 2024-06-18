@@ -1,4 +1,4 @@
-# DevOps ♾️
+# DevOps 
 DevOps is a combination of software development (Dev) and operations (Ops). It is defined as a software engineering methodology which aims to integrate the work of development teams and operations teams by facilitating a culture of collaboration and shared responsibility. The DevOps methodology aims to shorten the systems development lifecycle and provide continuous delivery with high software quality. 
 
 It emphasizes collaboration, automation, integration and rapid feedback cycles. These characteristics help ensure a culture of building, testing, and releasing software that is more reliable and at a high velocity.

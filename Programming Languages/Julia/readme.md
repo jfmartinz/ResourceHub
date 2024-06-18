@@ -1,4 +1,4 @@
-# Julia 📝
+# Julia 
 
 Julia is a high-level, high-performance programming language for technical computing. It is known for its speed, simplicity, and ability to handle large-scale computations, making it ideal for data science, machine learning, and scientific computing. Julia’s design also includes a sophisticated type system and multiple dispatches, which allow for the definition of complex algorithms while maintaining high performance.
 
