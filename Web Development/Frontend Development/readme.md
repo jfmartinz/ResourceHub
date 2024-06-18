@@ -798,6 +798,10 @@
         <td> <a href="https://tailwindui.com/">Tailwind UI</a></td>
         <td>Build your next idea even faster. Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.</td>
     </tr>
+    <tr>
+        <td> <a href="https://ui.aceternity.com/components">Aceternity UI</a></td>
+        <td>Copy paste the most trending components and use them in your websites without having to worry about styling and animations.</td>
+    </tr>
       <tr>
       <td><a href="https://semantic-ui.com/">Semantic UI</td>
       <td>Semantic UI is an open-source framework that uses CSS and jQuery to build great user interfaces. It is the same as a bootstrap for use and has different great elements to use to make your website look more amazing. It uses a class to add CSS to the elements.</td>
