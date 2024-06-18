@@ -741,6 +741,12 @@ This section serves as a curated collection of valuable resources for learning a
             <td><a href="https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984" >C Programming Absolute Beginner's Guide by Greg Perry and Dean Miller</a></td>
             <td>A beginner-friendly book that focuses on the fundamentals of C programming.</td>
         </tr>
+  <tr>
+    <td>
+      <a href="https://drive.google.com/file/d/1ddpxOdV76fgcwpyITDLIJ2puA4NA2eI3/view?usp=sharing">C programming handwritten Notes</a>
+      <td>C programming Notes(Handwritten)</td>
+    </td>
+  </tr>
     </table>
 
 ### Interview Preparation
