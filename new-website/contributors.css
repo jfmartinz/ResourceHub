@@ -1,0 +1,88 @@
+::before,
+::after {
+  box-sizing: border-box;
+  /* 1 */
+  border-width: 0;
+  /* 2 */
+  border-style: solid;
+  /* 2 */
+  border-color: #e5e7eb;
+  /* 2 */
+}
+.contributor-card:nth-child(4n+1),
+.contributor-card:nth-child(4n+3) {
+    margin-top: -4px;
+}
+
+.contributor-card {
+    width: 95px;
+    height: 95px;
+    clip-path: circle(40%);
+    margin: 5px;
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.contributor-card:hover {
+    box-shadow: 0 0 10px rgba(253, 251, 251, 0.5);
+    /* Adjust the color and size of the glow as needed */
+}
+
+.contributor-card:active {
+    transform: scale(1.1);
+    opacity: 0.8;
+    box-shadow: 0 0 20px rgb(188, 240, 210);
+    /* Adjust the color and size of the glow as needed */
+}
+h1 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    margin-top: 25px;
+    font-size: 45px;
+    color: var(--light);
+    text-align: center;
+    transition: color 0.3s ease-in-out;
+    cursor: pointer;
+  }
+  
+  h1:hover {
+    color: var(--primary);
+  }
+  
+  #contributor {
+    margin: 0;
+    padding: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .loading{
+    font-size: xx-large;
+  }
+  .loading:after {
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: bottom;
+  -webkit-animation: ellipsis steps(4, end) 900ms infinite;
+  animation: ellipsis steps(4, end) 900ms infinite;
+  content: "\2026";
+  /* ascii code for the ellipsis character */
+  width: 0px;
+  }
+  
+  @keyframes ellipsis {
+  to {
+  width: 40px;
+  }
+  }
+  
+  @-webkit-keyframes ellipsis {
+  to {
+  width: 40px;
+  }
+  }
+  ::before,
+  ::after {
+    --tw-content: '';
+  }
+  
