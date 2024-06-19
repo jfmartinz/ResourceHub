@@ -1,4 +1,4 @@
-# JQuery 🔍
+# JQuery 
 
 jQuery is a versatile JavaScript library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. 
 Widely adopted and maintained by the open-source community, jQuery provides a concise and efficient way to manipulate HTML elements and handle events across 

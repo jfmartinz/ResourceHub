@@ -1,4 +1,4 @@
-# C Programming Resources 🖥️
+# C 
 
 C is a powerful and widely-used procedural programming language. Known for its efficiency and versatility, C is commonly used in system programming, embedded systems, and low-level programming.
 
@@ -44,6 +44,12 @@ This section serves as a curated collection of valuable resources for learning a
   <tr>
     <td><a href="https://www.propeers.in/roadmaps/66149f662dc5903d99ab900a">C Programming Roadmap</a></td>
     <td>It encompasses all aspects of C programming, from the fundamental concepts to advanced topics, featuring numerous hands-on coding exercises and resources tailored for interview readiness.</td>
+  </tr>
+  <tr>
+  <td>
+  <a href="https://www.geeksforgeeks.org/c-programming-for-beginners-a-20-day-curriculum/">C language roadmap</a>
+  </td>
+  <td>This article from GFG consists of a 20-day curriculum which is useful for any beginner to start with C programming language.</td>
   </tr>
 </table>
 
@@ -741,6 +747,12 @@ This section serves as a curated collection of valuable resources for learning a
             <td><a href="https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984" >C Programming Absolute Beginner's Guide by Greg Perry and Dean Miller</a></td>
             <td>A beginner-friendly book that focuses on the fundamentals of C programming.</td>
         </tr>
+  <tr>
+    <td>
+      <a href="https://drive.google.com/file/d/1ddpxOdV76fgcwpyITDLIJ2puA4NA2eI3/view?usp=sharing">C programming handwritten Notes</a>
+      <td>C programming Notes(Handwritten)</td>
+    </td>
+  </tr>
     </table>
 
 ### Interview Preparation

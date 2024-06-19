@@ -1,4 +1,4 @@
-# Go 👨🏻‍💻
+# Go 
 Go, commonly referred to as Golang, is an open-source programming language developed by Google. It was created by Robert Griesemer, Rob Pike, and Ken Thompson and first released in 2009. Go was designed to address criticisms of other languages in use at Google, such as C++ and Java, focusing on simplicity, efficiency, and readability.
 
 ## Table of Contents
