@@ -91,6 +91,19 @@
     transform: translate(-50%, -50%);
 }
 
+
+#progressBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 7px;
+  background-color: #288cff;
+  z-index: 99;
+  border-radius: 20px;
+
+}
+
     </style>
     <link rel="shortcut icon" href="/ResourceHub/website/assets/logo.png" type="image/x-icon">
     <link rel="icon" href="assets/logo.png">
@@ -99,6 +112,17 @@
 </head>
 
 <body class="light-mode">
+        <!-- Progress Bar -->
+        <div id="progressBar"></div>
+        <script>
+          window.onscroll = function() {
+            var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+            var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            var scrolled = (winScroll / height) * 100;
+            document.getElementById("progressBar").style.width = scrolled + "%";
+          };
+        </script>
+
     <nav class="content-display-nav dark-mode sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-black">
         <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm">
             <div class="flex justify-between mt-4 items-center">

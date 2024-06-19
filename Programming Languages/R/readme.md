@@ -1,4 +1,4 @@
-# R Programming Language 📊
+# R 
 
 R is a powerful programming language and software environment specifically designed for statistical computing and graphics. It is widely used among statisticians, data analysts, and researchers for data manipulation, calculation, and graphical display.  The language is highly extensible and offers a wide array of statistical and graphical techniques, comprehensive libraries, such as ggplot2 for visualization and dplyr for data manipulation, make R a powerful tool for handling complex
 data analysis task making it an essential tool in the field of data science.

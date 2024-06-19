@@ -634,6 +634,18 @@ Here are some resources for Interview Questions.
   </td>
   <td>This article contains top 100+ OS interview questions along with their answers.</td>
   </tr>
+   <tr>
+  <td>
+  <a href="https://www.javatpoint.com/operating-system-interview-questions">Operating System interview questions by javatpoint</a>
+  </td>
+  <td>This website contains a list of top most frequently asked operating system interview questions and answers.</td>
+  </tr>
+   <tr>
+  <td>
+  <a href="https://www.sanfoundry.com/operating-system-interview-questions/">Operating System interview questions by sanfoundry</a>
+  </td>
+  <td>This website contains the top 50 commonly asked questions in operating system interviews.</td>
+  </tr>
 </table>
 
 

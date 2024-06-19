@@ -1,4 +1,4 @@
-# Haskell 🖥️
+# Haskell 
 
 Haskell is a functional programming language known for its strong static typing, lazy evaluation, and purity. Developed in the late 1980s, it has grown to be a powerful language for research, teaching, and applications. The resources below will guide you through Haskell's core concepts and advanced techniques.
 

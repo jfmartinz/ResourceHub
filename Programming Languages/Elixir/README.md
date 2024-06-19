@@ -1,4 +1,4 @@
-# Elixir 👨🏻‍💻
+# Elixir 
 Elixir is a dynamic, functional programming language designed for building scalable and fault-tolerant applications. Leveraging the Erlang VM, it offers concurrency primitives, immutable data structures, and a modern syntax, making it an ideal choice for building distributed systems and web applications.
 
 ## Table of Contents
