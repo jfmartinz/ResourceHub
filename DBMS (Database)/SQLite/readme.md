@@ -13,6 +13,10 @@ This Section is a Curated Collection of resources for GraphQL
     - [Introduction](#introduction)
     - [Installation and Setup](#installation-and-setup)
 - [Basic Concepts](#basic-concepts)
+    - [Databases](#databases)
+    - [SQLite Tables](#sqlite-tables)
+    
+
 
 
 
@@ -103,3 +107,24 @@ SQLite is a software library that implements a self-contained, serverless, zero-
   </tr>
 </table>
  
+
+### Databases 
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-create-database">SQLite Create DB</a></td>
+    <td>Guide on how to create a new SQLite database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-attach-database">SQLite Attach DB</a></td>
+    <td>Instructions on how to attach an existing database to the current database connection.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-detach-database">SQLite Detach DB</a></td>
+    <td>Steps to detach a database from the current database connection.</td>
+  </tr>
+</table>
