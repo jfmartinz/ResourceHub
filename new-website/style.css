@@ -1156,6 +1156,12 @@ body{
   height: auto;
 }
 @media (max-width: 768px) {
+  #topbar{
+    gap: 240px;
+  }
+  center div {
+    gap: 20px;
+  }
   .container {
       flex-direction: column;
       align-items: flex-start;
