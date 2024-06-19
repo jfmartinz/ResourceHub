@@ -45,6 +45,12 @@ This section serves as a curated collection of valuable resources for learning a
     <td><a href="https://www.propeers.in/roadmaps/66149f662dc5903d99ab900a">C Programming Roadmap</a></td>
     <td>It encompasses all aspects of C programming, from the fundamental concepts to advanced topics, featuring numerous hands-on coding exercises and resources tailored for interview readiness.</td>
   </tr>
+  <tr>
+  <td>
+  <a href="https://www.geeksforgeeks.org/c-programming-for-beginners-a-20-day-curriculum/">C language roadmap</a>
+  </td>
+  <td>This article from GFG consists of a 20-day curriculum which is useful for any beginner to start with C programming language.</td>
+  </tr>
 </table>
 
 ### C
