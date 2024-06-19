@@ -1,4 +1,4 @@
-# C++ ⚙️
+# C++ 
 
 C++ is a powerful general-purpose programming language that supports procedural, object-oriented, and generic programming paradigms. Known for its performance and efficiency, C++ is widely used in software development, game development, system/software applications, and real-time simulations.
 

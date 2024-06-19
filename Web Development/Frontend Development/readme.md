@@ -1,4 +1,4 @@
-# FrontEnd Web Development 💻
+# FrontEnd Web Development 
 ## Overview
 - [Roadmap](#roadmap)
 - [Courses](#courses)
@@ -797,6 +797,10 @@
     <tr>
         <td> <a href="https://tailwindui.com/">Tailwind UI</a></td>
         <td>Build your next idea even faster. Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.</td>
+    </tr>
+    <tr>
+        <td> <a href="https://ui.aceternity.com/components">Aceternity UI</a></td>
+        <td>Copy paste the most trending components and use them in your websites without having to worry about styling and animations.</td>
     </tr>
       <tr>
       <td><a href="https://semantic-ui.com/">Semantic UI</td>

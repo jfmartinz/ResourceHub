@@ -1,4 +1,4 @@
-# Java ☕
+# Java 
 
 Java is a high-level, class-based, object-oriented programming language which is one of the most widely used and versatile programming languages in the world. Known for its portability across platforms, robustness, and rich API, Java is used in a variety of applications ranging from web development, mobile apps, enterprise solutions, and large-scale systems.
 
@@ -904,14 +904,12 @@ Here's the updated table:
     <td>Build a program that converts temperatures between Celsius and Fahrenheit scales based on user input.</td>
   </tr>
   <tr>
-    <td>Tic Tac Toe Game</td>
-    <td>Build a tic-tac-toe game provided its implementation,code and rules to play the game </td>
     <td><a href="https://www.geeksforgeeks.org/tic-tac-toe-game-in-java/">Tic Tac Toe Game in Java </a></td>
+    <td>Build a tic-tac-toe game provided its implementation,code and rules to play the game </td>
   </tr>
   <tr>
-    <td>Brick Breaker Game</td>
-    <td>It has a small ball that knocks the bricks taking the help of a small platform at the base. The player handles this platform and tries to bounce the ball through that platform. In this project, the scoring depends on the number of bricked-broken, i.e., the more you destroy the bricks, the more you score</td>
     <td><a href="https://github.com/awaismirza/Java-Game-Brick-Breaker">Bricck Breaker Gamee</a></td>
+    <td>It has a small ball that knocks the bricks taking the help of a small platform at the base. The player handles this platform and tries to bounce the ball through that platform. In this project, the scoring depends on the number of bricked-broken, i.e., the more you destroy the bricks, the more you score</td>
   </tr>
 </table>
 

@@ -7,13 +7,13 @@
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
 */
 ::-webkit-scrollbar {
-  width: 20px;
+  width: 8.5px;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
   background-color: rgb(18, 26, 29);
-  border-radius: 20px;
+  /* border-radius: 20px; */
 }
  
 /* Handle */
@@ -876,6 +876,17 @@ body{
           backdrop-filter: blur(10px);
 }
 
+
+#progressBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 6px;
+  background: linear-gradient(to right, rgb(104, 74, 126), rgb(102, 7, 236)); /* Gradient background */
+  z-index: 99;
+}
+
 /* For particles */
 
 #particles-js {
@@ -1313,4 +1324,36 @@ body{
 .footer-bottom a {
   color: black;
   font-weight: bold;
+}
+/* Back-to-top */
+footer {
+  position: relative;
+  padding: 50px 0;
+}
+
+#back-to-top-container {
+  position: fixed;
+  bottom: 30px;
+  right: 30px; 
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.circle1 {
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s;
+}
+
+#back-to-top {
+  width: 40px; 
+  height: 40px; 
+  fill:  currentColor;
+  transition: fill 0.3s;
+}
+#back-to-top:hover{
+  fill: rgba(58, 55, 55);
 }

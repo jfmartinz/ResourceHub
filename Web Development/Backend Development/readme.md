@@ -1,4 +1,4 @@
-# Backend Development 🖥
+# Backend Development 
 
 Backend development refers to the server-side part of web development, where the primary focus is on how a website or web application works. This involves everything that users do not see directly when they interact with a web application. Backend developers are responsible for creating and maintaining the technology that powers the components enabling the user-facing side of websites to exist. This typically includes databases, server logic, APIs, and server configuration. Essentially, the backend serves as the backbone of a website, managing data, user connections, and the performance of the system.
 

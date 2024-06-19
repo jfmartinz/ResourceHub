@@ -1,4 +1,4 @@
-# TypeScript 📝
+# TypeScript 
 
 TypeScript is a strongly typed superset of JavaScript that compiles to plain JavaScript. It was developed and is maintained by Microsoft, and it adds optional static typing to the language. This can help developers catch errors early in the development process, provide better tooling, and improve overall code quality.
 
@@ -11,9 +11,7 @@ Below are some essential resources to help you get started and deepen your under
 ## Table of Contents
 
 - [Roadmap](#roadmap)
-   - [TypeScript Developer Roadmap I](#roadmap)
-   - [TypeScript Developer Roadmap II](#roadmap)
-- [Tutorial](#tutorial)
+- [TypeScript](#typescript)
    - [Introduction](#introduction)
    - [Fundamentals](#fundamentals)
    - [Classes and OOP](#classes-and-oop)
@@ -21,27 +19,32 @@ Below are some essential resources to help you get started and deepen your under
    - [Generics](#generics)
    - [Modules](#modules)
    - [Decorators](#decorators)
-- [TypeScript With Popular Frameworks](#typescript-with-popular-frameworks)
+- [Popular Frameworks](#popular-frameworks)
 - [Tools and IDEs](#tools-and-ides)
    - [Tools](#tools)
    - [IDEs](#ides)
 - [Online Playground](#online-playground)
 - [TypeScript Runtime](#typescript-runtime)
-- [Typescript Libraries](#typescript-libraries)
+- [Libraries](#libraries)
 - [TypeScript Validation](#typescript-validation)
 - [Build Systems](#build-systems)
 - [Official TypeScript Resources](#official-typescript-resources)
-- [Books](#books)
-- [Youtube Channels](#youtube-channels)
-- [TypeScript Projects](#typescript-projects)
+- [Youtube](#youtube)
+  - [Youtube Channels](#youtube-channels)
+  - [Youtube Playlists](#youtube-playlists)
+- [Projects](#projects)
    - [Beginner Level Projects](#beginner-level-projects)
    - [Intermediate Level Projects](#intermediate-level-projects)
    - [Advance Level Projects](#advance-level-projects)
 - [Courses](#courses)
    - [Free Courses](#free-courses)
    - [Paid Courses](#paid-courses)
-- [Community and Support](#coummunity-and-support)
-- [TypeScript Cheatsheets](#typescript-cheatsheets)
+- [Additional Resources](#additional-resources)
+   - [Books](#books)
+     - [Free books](#free-books)
+     - [Paid books](#paid-books)
+   - [Communities](#coummunities)
+   - [Cheatsheets](#cheatsheets)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -67,10 +70,10 @@ Below are some essential resources to help you get started and deepen your under
   </tbody>
 </table>
 
-### Tutorial
+### TypeScript
 > Start your journey into TypeScript programming with these essential tutorials covering basic syntax and all concepts.
 
-### Introduction
+#### Introduction
 
 
 <table width="100%">
@@ -100,7 +103,7 @@ Below are some essential resources to help you get started and deepen your under
   </tr>
 </table>
 
-### Fundamentals
+#### Fundamentals
 
 
 <table width="100%">
@@ -231,7 +234,7 @@ Below are some essential resources to help you get started and deepen your under
   </tr>
 </table>
 
-### Classes and OOP
+#### Classes and OOP
 
 <table width="100%">
   <tr>
@@ -264,7 +267,7 @@ Below are some essential resources to help you get started and deepen your under
   </tr>
 </table>
 
-### Advanced Types in Typescript
+#### Advanced Types in Typescript
 
 
 <table width="100%">
@@ -290,7 +293,7 @@ Below are some essential resources to help you get started and deepen your under
   </tr>
 </table>
 
-### Generics
+#### Generics
 
 <table width="100%">
   <tr>
@@ -315,7 +318,7 @@ Below are some essential resources to help you get started and deepen your under
   </tr>
 </table>
 
-### Modules
+#### Modules
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -344,7 +347,7 @@ Below are some essential resources to help you get started and deepen your under
 </table>
 
 
-### Decorators
+#### Decorators
 
 <table width="100%">
   <tr>
@@ -382,7 +385,7 @@ Below are some essential resources to help you get started and deepen your under
 </table>
 
 
-### Typescript with popular frameworks
+### Popular frameworks
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -630,7 +633,7 @@ Below are some essential resources to help you get started and deepen your under
     </tr>
     <tr>
       <td><a href="https://github.com/agentframework/agentframework">Agent Framework</a></td>
-      <td>Create interceptor for your class and method using decorators.</td>
+      <td>Create an interceptor for your class and method using decorators.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/LancerComet/SunTori">SunTori</a></td>
@@ -639,7 +642,7 @@ Below are some essential resources to help you get started and deepen your under
   </tbody>
 </table>
 
-### TypeScript Libraries
+### Libraries
 > Explore these TypeScript libraries to enhance your development projects
 
 
@@ -977,140 +980,12 @@ Below are some essential resources to help you get started and deepen your under
 </table>
 
 
-### Books
-> Here are some books which can help you to enhance your typescript skills.
 
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th>Resource Name</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-      <tr>
-      <td><a href="https://typescript-book.com/">TypeScript in 50 Lessons</a></td>
-      <td>By Stefan Baumgartner.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.manning.com/books/typescript-quickly">TypeScript Quickly</a></td>
-      <td>Learn modern TypeScript and build your own blockchain. Supporting code samples on <a href="https://github.com/yfain/getts">GitHub</a>.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.manning.com/books/angular-development-with-typescript-second-edition">Angular Development with TypeScript, Second Edition</a></td>
-      <td>Intermediate-level tutorial introducing Angular and TypeScript. By Yakov Fain and Anton Moiseev.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.manning.com/books/angular-2-development-with-typescript">Angular 2 Development with TypeScript</a></td>
-      <td>By Yakov Fain and Anton Moiseev.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.learningtypescript.com">Learning TypeScript 2.x 2nd Ed.</a></td>
-      <td>By Remo H. Jansen.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.packtpub.com/application-development/mastering-typescript-second-edition">Mastering TypeScript 2nd Ed.</a></td>
-      <td>By Nathan Rozentals.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.amazon.com/Beginning-Angular-Typescript-Greg-Lim/dp/1542916674">Beginning Angular 4 with TypeScript</a></td>
-      <td>By Greg Lim.</td>
-    </tr>
-    <tr>
-      <td> <a href="https://github.com/DefinitelyTyped/DefinitelyTyped">DefinitelyTyped/DefinitelyTyped</a></td>
-      <td>The repository for high-quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors.</td>
-    </tr>
-    <tr>
-      <td> <a href="https://aka.ms/typings">Type search</a></td>
-      <td>Search for typings on npm.</td>
-    </tr>
-    <tr>
-      <td> <a href="https://hackr.io/tutorials/learn-typescript">Community Curated Resources</a></td>
-      <td>A collection of community-curated resources for learning TypeScript.</td>
-    </tr>
-    <tr>
-      <td> <a href="https://github.com/labs42io/clean-code-typescript">Clean Code concepts adapted for TypeScript</a></td>
-      <td>A guide to applying Clean Code principles in TypeScript.</td>
-    </tr>
-    <tr>
-      <td> <a href="https://snipcart.com/blog/learn-typescript-why-use-ts">Should You Learn TypeScript? (Benefits & Resources)</a></td>
-      <td>An article discussing the benefits of learning TypeScript and providing additional resources.</td>
-    </tr>
-    <tr>
-      <td> <a href="https://type-level-typescript.com">Learn how to unleash the full potential of the Turing Complete type system of TypeScript!</a></td>
-      <td>An online course with free first 5 chapters.</td>
-    </tr>
-    <tr>
-      <td> <a href="https://github.com/gvanastasov/codebook-typescript">Codebook</a></td>
-      <td>Read and run small code snippets to progressively learn TypeScript from basic to advanced concepts.</td>
-    </tr>
-    
-   <tr>
-      <td><a href="https://www.manning.com/books/programming-with-types">Programming with Types</a></td>
-      <td>How to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. By Vlad Riscutia.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.manning.com/books/essential-typescript-5">Essential TypeScript 5</a></td>
-      <td>Third edition of the bestselling guide to TypeScript. By Adam Freeman.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.oreilly.com/library/view/effective-typescript/9781492053736/">Effective TypeScript</a></td>
-      <td>By Dan Vanderkam.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.packtpub.com/product/advanced-typescript-3-programming-projects/9781789133042">Advanced TypeScript 3 Programming Projects</a></td>
-      <td>By Peter O'Hanlon.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/gibbok/typescript-book">The Concise TypeScript Book (Free and Open Source)</a></td>
-      <td>By Simone Poggiali.</td>
-    </tr>
-    <tr>
-      <td><a href="http://www.typescriptlang.org/Handbook">Handbook - Welcome to TypeScript</a></td>
-      <td>The official resource for learning TypeScript.</td>
-    </tr>
-    <tr>
-      <td> <a href="https://basarat.gitbooks.io/typescript/">TypeScript Deep Dive by Basarat Ali Syed</a></td>
-      <td>An in-depth book on TypeScript features and best practices.</td>
-    </tr>
-     <tr>
-      <td><a href="https://www.amazon.com/TypeScript-Quickly-Yakov-Fain/dp/1617295948/">TypeScript Quickly by Yakov Fain and Anton Moiseev</a> </td>
-      <td>A fast-paced guide to TypeScript, covering basic to advanced topics with practical examples.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/">Programming TypeScript by Boris Cherny</a></td>
-      <td>A comprehensive guide to TypeScript, designed to help developers build reliable and maintainable applications.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.amazon.com/Learning-TypeScript-2-x-Findings-JavaScript/dp/178839147X/">Learning TypeScript 2.x by Remo H. Jansen </a></td>
-      <td>A practical guide to learning TypeScript, with a focus on real-world applications and best practices.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.amazon.com/Pro-TypeScript-Application-Scale-JavaScript/dp/1484244507/">Pro TypeScript: Application-Scale JavaScript Development by Steve Fenton</a></td>
-      <td>Advanced TypeScript concepts and techniques for building large-scale applications.</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.amazon.com/Essential-TypeScript-4-JavaScript-Development/dp/1098101075/">Essential TypeScript 4 by Adam Freeman </a></td>
-      <td>A detailed guide to TypeScript 4, covering new features and enhancements for modern JavaScript development.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Microsoft/TypeScript">Microsoft/TypeScript on GitHub</a></td>
-      <td>Fork TypeScript on GitHub or just read the code.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Microsoft/TypeScript/wiki/Roadmap">The official TypeScript Roadmap</a></td>
-      <td>The official roadmap detailing planned features and improvements.</td>
-    </tr>
-    <tr>
-      <td><a href="http://blogs.msdn.com/b/typescript/">TypeScript Team Blog</a></td>
-      <td>Announcements and recent updates from the TypeScript team.</td>
-    </tr>
-  </tbody>
-</table>
+### Youtube
+> Here are some popular Youtube channels and playlists that you may refer.
+#### Youtube Channels
 
-### Youtube Channels
-> Here are some popular Youtube channels that you may refer.
 
 <table width="100%">
   <tr>
@@ -1179,7 +1054,15 @@ Below are some essential resources to help you get started and deepen your under
   </tr>
 </table>
 
-### TypeScript Projects
+#### Youtube Playlists
+<table>
+   <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+   </tr>
+</table>
+
+### Projects
 > Here are some beginner to advance level typescript projects.
 
 ### Beginner Level Projects
@@ -1400,7 +1283,151 @@ Below are some essential resources to help you get started and deepen your under
   </tbody>
 </table>
 
-### Coummunity and Support
+
+### Additional Resources
+> Here are some additional resources which can help you to enhance your typescript skills.
+
+#### Books
+##### Free Books
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+    <tr>
+      <td><a href="https://typescript-book.com/">TypeScript in 50 Lessons</a></td>
+      <td>By Stefan Baumgartner.</td>
+    </tr>
+     <tr>
+      <td> <a href="https://github.com/DefinitelyTyped/DefinitelyTyped">DefinitelyTyped/DefinitelyTyped</a></td>
+      <td>The repository for high-quality TypeScript type definitions maintained by Boris Yankov and thousands of contributors.</td>
+    </tr>
+     <tr>
+      <td><a href="https://www.learningtypescript.com">Learning TypeScript 2.x 2nd Ed.</a></td>
+      <td>By Remo H. Jansen.</td>
+    </tr>
+       <tr>
+      <td><a href="https://github.com/Microsoft/TypeScript">Microsoft/TypeScript on GitHub</a></td>
+      <td>Fork TypeScript on GitHub or just read the code.</td>
+    </tr>
+</table>
+
+##### Paid Books
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Resource Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.manning.com/books/typescript-quickly">TypeScript Quickly</a></td>
+      <td>Learn modern TypeScript and build your own blockchain. Supporting code samples on <a href="https://github.com/yfain/getts">GitHub</a>.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.manning.com/books/angular-development-with-typescript-second-edition">Angular Development with TypeScript, Second Edition</a></td>
+      <td>Intermediate-level tutorial introducing Angular and TypeScript. By Yakov Fain and Anton Moiseev.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.manning.com/books/angular-2-development-with-typescript">Angular 2 Development with TypeScript</a></td>
+      <td>By Yakov Fain and Anton Moiseev.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/application-development/mastering-typescript-second-edition">Mastering TypeScript 2nd Ed.</a></td>
+      <td>By Nathan Rozentals.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.amazon.com/Beginning-Angular-Typescript-Greg-Lim/dp/1542916674">Beginning Angular 4 with TypeScript</a></td>
+      <td>By Greg Lim.</td>
+    </tr>
+    <tr>
+      <td> <a href="https://aka.ms/typings">Type search</a></td>
+      <td>Search for typings on npm.</td>
+    </tr>
+    <tr>
+      <td> <a href="https://hackr.io/tutorials/learn-typescript">Community Curated Resources</a></td>
+      <td>A collection of community-curated resources for learning TypeScript.</td>
+    </tr>
+    <tr>
+      <td> <a href="https://github.com/labs42io/clean-code-typescript">Clean Code concepts adapted for TypeScript</a></td>
+      <td>A guide to applying Clean Code principles in TypeScript.</td>
+    </tr>
+    <tr>
+      <td> <a href="https://snipcart.com/blog/learn-typescript-why-use-ts">Should You Learn TypeScript? (Benefits & Resources)</a></td>
+      <td>An article discussing the benefits of learning TypeScript and providing additional resources.</td>
+    </tr>
+    <tr>
+      <td> <a href="https://type-level-typescript.com">Learn how to unleash the full potential of the Turing Complete type system of TypeScript!</a></td>
+      <td>An online course with free first 5 chapters.</td>
+    </tr>
+    <tr>
+      <td> <a href="https://github.com/gvanastasov/codebook-typescript">Codebook</a></td>
+      <td>Read and run small code snippets to progressively learn TypeScript from basic to advanced concepts.</td>
+    </tr>
+    
+   <tr>
+      <td><a href="https://www.manning.com/books/programming-with-types">Programming with Types</a></td>
+      <td>How to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. By Vlad Riscutia.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.manning.com/books/essential-typescript-5">Essential TypeScript 5</a></td>
+      <td>Third edition of the bestselling guide to TypeScript. By Adam Freeman.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.oreilly.com/library/view/effective-typescript/9781492053736/">Effective TypeScript</a></td>
+      <td>By Dan Vanderkam.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.packtpub.com/product/advanced-typescript-3-programming-projects/9781789133042">Advanced TypeScript 3 Programming Projects</a></td>
+      <td>By Peter O'Hanlon.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gibbok/typescript-book">The Concise TypeScript Book (Free and Open Source)</a></td>
+      <td>By Simone Poggiali.</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.typescriptlang.org/Handbook">Handbook - Welcome to TypeScript</a></td>
+      <td>The official resource for learning TypeScript.</td>
+    </tr>
+    <tr>
+      <td> <a href="https://basarat.gitbooks.io/typescript/">TypeScript Deep Dive by Basarat Ali Syed</a></td>
+      <td>An in-depth book on TypeScript features and best practices.</td>
+    </tr>
+     <tr>
+      <td><a href="https://www.amazon.com/TypeScript-Quickly-Yakov-Fain/dp/1617295948/">TypeScript Quickly by Yakov Fain and Anton Moiseev</a> </td>
+      <td>A fast-paced guide to TypeScript, covering basic to advanced topics with practical examples.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656/">Programming TypeScript by Boris Cherny</a></td>
+      <td>A comprehensive guide to TypeScript, designed to help developers build reliable and maintainable applications.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.amazon.com/Learning-TypeScript-2-x-Findings-JavaScript/dp/178839147X/">Learning TypeScript 2.x by Remo H. Jansen </a></td>
+      <td>A practical guide to learning TypeScript, with a focus on real-world applications and best practices.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.amazon.com/Pro-TypeScript-Application-Scale-JavaScript/dp/1484244507/">Pro TypeScript: Application-Scale JavaScript Development by Steve Fenton</a></td>
+      <td>Advanced TypeScript concepts and techniques for building large-scale applications.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.amazon.com/Essential-TypeScript-4-JavaScript-Development/dp/1098101075/">Essential TypeScript 4 by Adam Freeman </a></td>
+      <td>A detailed guide to TypeScript 4, covering new features and enhancements for modern JavaScript development.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Microsoft/TypeScript/wiki/Roadmap">The official TypeScript Roadmap</a></td>
+      <td>The official roadmap detailing planned features and improvements.</td>
+    </tr>
+    <tr>
+      <td><a href="http://blogs.msdn.com/b/typescript/">TypeScript Team Blog</a></td>
+      <td>Announcements and recent updates from the TypeScript team.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Coummunities
 
 <table width="100%">
   <tr>
@@ -1421,7 +1448,7 @@ Below are some essential resources to help you get started and deepen your under
   </tr>
 </table>
 
-### TypeScript Cheatsheets
+### Cheatsheets
 
 > Cheat sheets for TypeScript programming, providing quick reference guides for various aspects of the language.
 

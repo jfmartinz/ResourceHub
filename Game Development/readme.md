@@ -21,7 +21,7 @@ Game development involves the creation of video games, encompassing everything f
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://roadmap.sh/game">Game Development Roadmap</a></td>
+    <td><a href="https://roadmap.sh/game-developer">Game Development Roadmap</a></td>
     <td>Start your game development journey with roadmap.sh's guide. This comprehensive resource covers basic to advanced topics, including game design, programming, art creation, and testing. Featuring best practices, tutorials, interactive videos, and community support, it's ideal for all skill levels.</td>
   </tr>
 </table>

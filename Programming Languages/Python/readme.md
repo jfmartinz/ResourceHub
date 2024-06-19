@@ -1,4 +1,4 @@
-# Python Development 🐍🐍
+# Python 
 Python development refers to creating applications, scripts, and software solutions using the Python programming language. Known for its simplicity, readability, and extensive libraries, Python is widely used in web development, data science, machine learning, automation, and more. It emphasizes rapid development and clear, maintainable code, making it a popular choice for both beginners and experienced developers. 
 
 Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming, and has a large, supportive community, contributing to a vast ecosystem of tools and resources.
@@ -797,6 +797,52 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td>A simple Python script to show the live update for Weather information.</td>
   </tr>
   <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/Currency_Converter">Currency Converter</a></td>
+  <td>A Currency Converter in Python is a simple application that converts an amount from one currency to another using current exchange rates. It typically involves fetching real-time currency data from an API and providing a user interface or command-line interaction for input and output. This tool is useful for travelers, businesses, and developers who need to handle multiple currencies.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/Dice_Rolling_Stimulator">Dice Rolling timulator</a></td>
+  <td>A Dice Rolling Simulator in Python is a program that simulates the rolling of a die, generating random outcomes each time the user rolls the dice. It typically uses Python's `random` module to produce a random integer between 1 and 6, mimicking the behavior of a physical six-sided die. This can be extended to simulate dice with different numbers of sides or to roll multiple dice at once.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/Password%20Generator">Password Generator</a></td>
+  <td>A password generator using Python is a tool that creates random and secure passwords. It typically leverages libraries like `random` or `secrets` to generate strings of specified lengths containing a mix of uppercase and lowercase letters, numbers, and special characters. This helps ensure strong, unpredictable passwords for enhanced security.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/QR%20Code%20Generator">QR Generator</a></td>
+  <td>A QR code generator in Python is a handy tool for creating QR codes programmatically. It can encode various types of information such as URLs, text, or contact details into a QR code image, which can be easily scanned by smartphones or QR readers. Python libraries like `qrcode` make it straightforward to generate and customize QR codes with minimal code.</td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/Rock_Paper_Scissors_Spock">Rock Paper Scissors</td>
+  <td>Rock Paper Scissors is a classic hand game played between two people where each player simultaneously forms one of three shapes: rock (a fist), paper (an open hand), or scissors (a fist with the index and middle fingers extended, forming a V). In Python, it can be implemented using basic conditional statements and random number generation for the computer's choice.</td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/king04aman/All-In-One-Python-Projects/tree/main/Age%20Calculator">Age Calculator</a></td>
+  <td>An age calculator in Python is a program that computes a person's age based on their birthdate. It typically uses Python's `datetime` module to compare the birthdate with the current date, calculating the difference in years, months, and days. This tool can be useful for applications requiring age verification or demographic analysis.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/king04aman/All-In-One-Python-Projects/tree/main/CountDown%20Timer">Count Domn Timer</a></td>
+  <td>A countdown timer in Python is a simple program that counts down from a specified number of seconds to zero, displaying the remaining time at regular intervals. This can be implemented using the `time` module, utilizing a loop to decrement the time and update the display until the countdown reaches zero.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/king04aman/All-In-One-Python-Projects/tree/main/Digital%20Clock">Digital Clock</a></td>
+  <td>A digital clock in Python typically uses the Tkinter library to create a graphical user interface that displays the current time. The time is continuously updated using a loop and the `strftime` method from the `time` module to format the display. This project helps illustrate basic GUI programming and time handling in Python.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/Snake_game">Snake Game</a></td>
+  <td>The classic Snake game in Python involves controlling a snake to eat food, growing longer with each meal while avoiding collisions with walls and itself. It's a simple yet addictive exercise in real-time strategy and game mechanics, often implemented using the Pygame library for graphical interface and interactivity.</td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/Todo_App">Todo_App</a></td>
+  <td>A to-do list in Python can be implemented using lists or dictionaries to store tasks, with functions to add, remove, or mark tasks as completed. It can include features like prioritization, due dates, and reminders, making it a versatile tool for organizing tasks efficiently.</td>
+  </tr>
+  <tr>
     <td><a href="https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/">Countdown Timer</a></td>
     <td>The code will take input from the user regarding the length of the countdown in seconds. After that, a countdown will begin on the screen of the format ‘minutes: seconds’. </td>
   </tr>
@@ -813,6 +859,36 @@ Python supports multiple programming paradigms, including procedural, object-ori
   <tr>
     <td><a href="https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/">Twitter Bot</a></td>
     <td>Python can be used to develop an automatic Twitter bot that can do many tasks by its own such as retweets,likes, follow and DMs.</td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/Shape_Recognition">Shape Recognition</a></td>
+  <td>Shape recognition using Python involves employing computer vision techniques to identify and classify geometric shapes such as circles, triangles, squares, and rectangles from images or live video feeds. Utilizing libraries like OpenCV and machine learning models such as neural networks, Python enables robust and accurate shape detection for various applications including robotics, image processing, and augmented reality.</td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/Slideshare%20to%20PDF">Slide Share PDF</a></td>
+  <td>SlideShare PDFs can be accessed and manipulated using Python libraries like PyPDF2 or pdfminer. These tools enable extraction of text, metadata, and even editing capabilities, making it easier to automate tasks such as content analysis or slide deck management directly through scripting.</td>
+  </tr>
+   <tr>
+  <td><a href ="https://github.com/ndleah/python-mini-project/tree/main/TextToSpeech">Text to Speech</a></td>
+  <td>Text-to-speech (TTS) in Python converts written text into spoken words using libraries like pyttsx3 or gTTS. It enables applications to vocalize information, aiding accessibility and enhancing user interaction with synthesized speech.</td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/king04aman/All-In-One-Python-Projects/tree/main/Audio%20Book%20Generator">Audi Book Generator</a></td>
+  <td>An audiobook generator in Python converts text into spoken audio files, utilizing text-to-speech (TTS) libraries like pyttsx or gTTS. It automates the process of reading aloud text-based content, enabling users to listen to books or documents without manual reading.</td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/king04aman/All-In-One-Python-Projects/tree/main/Notepad">Note PAd</a></td>
+  <td>Notepad done in Python is a simple text editor application typically built using libraries like Tkinter for the graphical interface. It allows users to create, edit, and save text files with basic functionalities such as formatting options and file management, making it a versatile tool for quick note-taking and text manipulation tasks.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/king04aman/All-In-One-Python-Projects/tree/main/Random%20Quotes%20Generator">Random Quotes Generator</a></td>
+  <td>A random quote generator in Python selects and displays quotes from a predefined list or external API. It uses random selection techniques to present inspiring, humorous, or thought-provoking quotes each time it runs, offering users a variety of quotes with every execution.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/Url_Shortener">Url Shortener</a></td>
+  <td>A Python-based URL shortener efficiently condenses long URLs into shorter, more manageable links, ideal for sharing across platforms like social media and messaging apps. Its streamlined design emphasizes simplicity and speed, making it a practical tool for enhancing accessibility and engagement online.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/file-sharing-app-using-python/">File Sharing App</a></td>
@@ -841,6 +917,25 @@ Python supports multiple programming paradigms, including procedural, object-ori
   <tr>
     <td><a href="https://www.geeksforgeeks.org/automatic-birthday-mail-sending-with-python/">Automatic Birthday Mails</a></td>
     <td>Wish Happy Birthday to your friends at exactly 12 a.m. automatically.</td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/king04aman/All-In-One-Python-Projects/tree/main/Plagiarism-Checker">Plagiarism Checker</a></td>
+  <td>A Python-based plagiarism checker is a tool designed to analyze text documents and identify similarities with existing content. Using algorithms like cosine similarity or fingerprinting techniques, it compares input text against a database or corpus, highlighting potential instances of plagiarism by assessing textual overlaps and similarities. This tool aids in academic integrity by assisting educators and researchers in verifying originality and identifying improper use of content.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/ndleah/python-mini-project/tree/main/simple-chatbot">Simple Chatbot</a></td>
+  <td>A Simple ChatBot in Python typically uses basic natural language processing techniques such as pattern matching and predefined responses to interact with users. It can handle straightforward queries and provide predefined information or engage in basic conversation based on scripted responses.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/king04aman/All-In-One-Python-Projects/tree/main/Video%20To%20Audio">Video to Audio</a></td>
+  <td>In Python, converting audio to video typically involves libraries like `moviepy` or `ffmpeg-python`. These libraries allow developers to combine audio files (such as MP3 or WAV) with static images or video frames to create a video file. This process is useful for generating dynamic content like music visualizations, audiograms, or simple video presentations programmatically.
+  </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/king04aman/All-In-One-Python-Projects/tree/main/Validate-Email">Validate Email</a></td>
+  <td>Validating email addresses in Python typically involves using regular expressions to ensure the format adheres to standards like RFC 5322. Python provides libraries like `re` for pattern matching to verify email structure, ensuring it includes an optional local part, "@" symbol, domain part with appropriate characters, and proper domain extensions. This process helps ensure email addresses are correctly formatted before usage in applications or databases.</td>
   </tr>
   <tr>
     <td><a href="https://www.geeksforgeeks.org/create-a-screen-recorder-using-python/">Screen Recorder</a></td>
@@ -888,12 +983,52 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <td>Corey Schafer offers in-depth tutorials on Python programming, covering topics from basics to advanced concepts, along with practical examples and projects.</td>
       </tr>
       <tr>
+      <td><a href="https://www.youtube.com/@ApnaCollegeOfficial">Apna College</a></td>
+      <td>Apna College's YouTube channel provides comprehensive tutorials on Python programming, aimed at beginners and intermediate learners. The channel features step-by-step coding lessons, practical projects, and problem-solving techniques to help viewers build a strong foundation in Python.
+      </td>
+      </tr>
+      <tr>
+      <td><a href = "">Code With Harry</a></td>
+      <td>Code with Harry is a popular YouTube channel dedicated to programming tutorials, particularly in Python. The channel offers comprehensive and beginner-friendly content, ranging from basic concepts to advanced programming techniques, making it accessible for learners at all levels. With clear explanations and practical examples, Code with Harry aims to simplify complex topics and help viewers build their coding skills effectively.
+      </td>
+      </tr>
+      <tr>
+      <td><a href = "https://www.youtube.com/@GateSmashers">Gate Smashers</a></td>
+      <td>Gate Smashers is a YouTube channel offering a comprehensive Python course aimed at beginners and intermediate learners. The course covers fundamental concepts, data structures, and real-world applications of Python, presented through clear and concise tutorials. The channel focuses on making complex topics accessible and understandable for students and aspiring programmers.
+      </td>
+      </tr>
+      <tr>
+      <td><a href = "https://www.youtube.com/@JennyslecturesCSIT">Jenny Lectures</a></td>
+      <td>Jenny's Lectures YouTube channel offers a comprehensive Python course, ideal for beginners and intermediate learners. The course covers fundamental concepts, data structures, algorithms, and practical coding exercises, presented in an easy-to-understand manner. Jenny's clear explanations and step-by-step approach make complex topics accessible and engaging.
+      </td>
+      </tr>
+      <tr>
+      <td><a href = "https://www.youtube.com/@Telusko">Telusko</a></td>
+      <td>
+      The Telusko YouTube channel offers comprehensive Python courses that cover a wide range of topics from basic to advanced levels. The courses are designed to be beginner-friendly, featuring clear explanations, practical examples, and interactive coding sessions. Naveen Reddy, the instructor, uses an engaging teaching style that makes complex concepts easier to understand.
+      </td>
+      </tr>
+      <tr>
         <td><a href="https://www.youtube.com/user/sentdex">sentdex</a></td>
         <td>sentdex (Harrison Kinsley) provides Python tutorials focusing on data science, machine learning, and artificial intelligence, with clear explanations and practical applications.</td>
       </tr>
       <tr>
+      <td><a href = "https://www.youtube.com/@sahilandsarra">Sahil & Sara</a></td>
+      <td>Sahil & Sara's YouTube channel focuses on Python programming, offering tutorials and guides that cater to both beginners and advanced users. They cover various topics from basic syntax to complex projects, making learning Python engaging and accessible.
+      </td>
+      </tr>
+      <tr>
         <td><a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp.org</a></td>
         <td>freeCodeCamp.org offers a variety of Python tutorials covering different aspects such as web development, data analysis, and more, suitable for beginners and intermediate learners.</td>
+      </tr>
+      <tr>
+      <td><a href = "https://www.youtube.com/@IshanSharma7390">Ishan Sharma</a></td>
+      <td>Ishan Sharma's YouTube channel focuses on providing comprehensive tutorials and insights on Python programming, including beginner to advanced concepts. He covers practical coding tips, project-based learning, and industry-relevant topics to help viewers enhance their Python skills.</td>
+      </tr>
+      <tr>
+      <td><a href ="https://www.youtube.com/@PythonLifetelugu">Python Life</a></td>
+      <td>Python Life is a YouTube channel dedicated to providing comprehensive tutorials, tips, and resources for learning Python programming. The channel covers a wide range of topics, from basic syntax and data structures to advanced concepts like web development, data science, and automation, making it a valuable resource for Python enthusiasts of all skill levels.
+      </td>
       </tr>
       <tr>
         <td><a href="https://www.youtube.com/user/programmingwithmosh">Programming with Mosh</a></td>

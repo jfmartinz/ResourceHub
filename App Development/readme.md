@@ -12,6 +12,7 @@ App development refers to crafting software for diverse devices, involving plann
 - [YouTube Channels](#youtube-channels)<br>
 - [YouTube Playlists](#youtube-playlists)
 - [GitHub Repositories](#github-repositories)
+- [Projects](#github-repositories)
 - [Interview](#interview)
 - [Conclusion](#conclusion)
 
@@ -506,6 +507,55 @@ App development refers to crafting software for diverse devices, involving plann
         <td>Library for handling localization and internationalization in React Native apps, supporting language and region detection.</td>
       </tr>
 </table>
+
+### projects
+
+<table width = "100%">
+  <tr>
+  <th>Resource</th>
+  <th>Description</th>
+  </tr>
+  <tr>
+      <td><a href = "https://github.com/GAVINESHWAR/-_-_1_unit_convertor">Unit Convertor App</a></td>
+      <td>A Unit Converter app built with Jetpack Compose provides a sleek, modern interface for converting between various units of measurement, such as length, weight, and temperature. It leverages Compose's declarative UI toolkit to offer real-time updates, intuitive navigation, and a responsive layout that adapts seamlessly to different screen sizes and orientations.</td>
+  </tr>
+  <tr>
+      <td><a href = "https://github.com/GAVINESHWAR/-_-_5_Stop_watch">Stop Watch</a></td>
+      <td>A simple stopwatch app using Jetpack Compose features a clean and intuitive interface. It allows users to start, pause, and reset the timer with responsive buttons and displays elapsed time in a large, easily readable format. The app leverages state management and composables for smooth animations and performance.
+      </td>
+      </tr>
+  <tr>
+      <td><a href = "https://github.com/GAVINESHWAR/CSETech">CSETech</a></td>
+      <td>CSETech is a cutting-edge mobile application designed for Computer Science Engineering (CSE) students, offering a wealth of resources such as lecture notes, suggestions, and PVQ papers. Built using Jetpack Compose, it delivers a modern, intuitive, and highly responsive user interface, ensuring seamless access to educational materials on the go.
+      </td>
+      </tr>
+  <tr>
+      <td><a href = "https://github.com/GAVINESHWAR/Music-Streaming">Music Streaming Application</a></td>
+      <td>
+      A **Static Music Streaming Application** using Jetpack Compose is a mobile app prototype that showcases the user interface and design elements of a music streaming service. It does not include backend functionality, but highlights components such as music libraries, playlists, and media controls using Jetpack Compose for a modern, declarative UI.
+      </td>
+      </tr>
+  <tr>
+      <td><a href = "https://github.com/GAVINESHWAR/Voice-Assistance">Voice to Text Convertor</a></td>
+      <td>A voice-to-text app using Jetpack Compose is an Android application that converts spoken words into written text. It leverages Jetpack Compose for its UI components, providing a modern, declarative approach to building the user interface, and integrates with Android's SpeechRecognizer API to capture and transcribe voice input in real-time.
+      </td>
+      </tr>
+  <tr>
+      <td><a href = "https://github.com/GAVINESHWAR/flip_a_coin">Flip a Cpoin</a></td>
+      <td>A "Flip a Coin" app built with Jetpack Compose provides a simple and intuitive interface for simulating a coin toss. Users can tap a button to flip the coin, which will display an animation or result showing either heads or tails. The app utilizes Jetpack Compose's declarative UI framework for a seamless and modern user experience.
+      </td>
+      </tr>
+  <tr>
+    <td><a href = "https://github.com/GAVINESHWAR/To_do_List">To do list</a></td>
+    <td>A To-Do List app built with Jetpack Compose provides a sleek and intuitive interface for managing tasks. Users can easily add, edit, and delete tasks, with real-time updates and smooth animations enhancing the user experience. The app leverages Compose's declarative UI to ensure a modern, responsive design that adapts seamlessly to different screen sizes.
+    </td>
+  </tr>
+  <tr>
+  <td><a href = "https://github.com/GAVINESHWAR/Dice_a_Roll">Dice a Roll</a></td>
+  <td>Dice Roll App: Enjoy a sleek and intuitive experience with Jetpack Compose. Roll using images, making every gaming moment immersive and fun.</td>
+  </tr>
+</table>
+
 ### Interview
   
   Here are some Interview Preparation Resources.
