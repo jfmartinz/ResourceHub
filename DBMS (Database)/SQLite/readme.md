@@ -19,6 +19,8 @@ This Section is a Curated Collection of resources for GraphQL
     - [SQLite Joins](#sqlite-joins)
 - [Intermediate Concepts](#intermediate-concepts)
 - [Advanced Concepts](#advanced-concepts)
+- [Performance and Optimization](#performance-and-optimization)
+
 
 
 ### Roadmap
@@ -245,5 +247,27 @@ SQLite is a software library that implements a self-contained, serverless, zero-
   <tr>
     <td><a href="https://www.sqlite.org/vtab.html">Virtual Tables and Modules</a></td>
     <td>Comprehensive guide to using virtual tables and modules in SQLite.</td>
+  </tr>
+</table>
+
+### Performance and Optimization
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.sqlite.org/optoverview.html">Query Optimization</a></td>
+    <td>Overview of query optimization techniques in SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@kimberlylpalmer/best-practices-for-efficient-database-design-in-sqlite-e488ed739b92?responsesOpen=true&sortBy=REVERSE_CHRON">Database Design Best Practices</a></td>
+    <td>Best practices for designing efficient SQLite databases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ibiblio.org/elemental/howto/sqlite-backup.html#:~:text=Restoring%20the%20database%20from%20a,a%20new%20one%20for%20you.&text=After%20restoring%2C%20verify%20the%20results.">Backup and Restore</a></td>
+    <td>Guide on how to backup and restore SQLite databases.</td>
   </tr>
 </table>
