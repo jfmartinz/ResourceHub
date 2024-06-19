@@ -18,6 +18,7 @@ This Section is a Curated Collection of resources for GraphQL
     - [CRUD Operations](#crud-operations)
     - [SQLite Joins](#sqlite-joins)
 - [Intermediate Concepts](#intermediate-concepts)
+- [Advanced Concepts](#advanced-concepts)
 
 
 ### Roadmap
@@ -218,5 +219,31 @@ SQLite is a software library that implements a self-contained, serverless, zero-
   <tr>
     <td><a href="https://www.sqlite.org/lang_transaction.html">SQLite Transactions</a></td>
     <td>Explanation of transactions in SQLite, including how to use BEGIN, COMMIT, and ROLLBACK.</td>
+  </tr>
+</table>
+
+### Advanced Concepts
+> 
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/sqlite/sqlite_views.htm">SQLite Views</a></td>
+    <td>Guide on how to create and use views in SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sqlitetutorial.net/sqlite-trigger/">SQLite Triggers</a></td>
+    <td>Explanation and examples of using triggers in SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sqlite.org/fts5.html">Full-Text Search (FTS)</a></td>
+    <td>Details on implementing full-text search using FTS5 in SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sqlite.org/vtab.html">Virtual Tables and Modules</a></td>
+    <td>Comprehensive guide to using virtual tables and modules in SQLite.</td>
   </tr>
 </table>
