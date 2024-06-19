@@ -22,7 +22,8 @@ This Section is a Curated Collection of resources for GraphQL
 - [Performance and Optimization](#performance-and-optimization)
 - [Integrating SQLite with Applications](#integrating-sqlite-with-applications)
 - [Practical Projects](#practical-projects)
-
+- [SQLite Documentation](#sqlite-documentation)
+- [Books](#sqlite-books)
 
 ### Roadmap
 > 
@@ -323,3 +324,20 @@ SQLite is a software library that implements a self-contained, serverless, zero-
     <td>Details of an Android app project using Java and SQLite for medical advice.</td>
   </tr>
 </table>
+
+
+### SQLite Documentation
+>
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://en.wikipedia.org/wiki/SQLite">Article: SQLite @ Wikipedia</a></td>
+    <td>Overview and detailed information about SQLite on Wikipedia.</td>
+  </tr>
+</table>
+
+### SQLite Books
+>
