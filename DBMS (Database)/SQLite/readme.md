@@ -80,4 +80,26 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 
 ### Basic Concepts 
 >
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-syntax">SQLite Syntax</a></td>
+    <td>Explanation of the syntax used in SQLite for writing queries and commands.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-data-types">SQLite Data Types</a></td>
+    <td>Detailed description of the different data types supported by SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-operators">SQLite Operators</a></td>
+    <td>Comprehensive guide to the operators available in SQLite for use in queries and expressions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-expressions">SQLite Expressions</a></td>
+    <td>Information on how to use expressions in SQLite to perform calculations and manipulate data.</td>
+  </tr>
+</table>
  
