@@ -174,3 +174,21 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 ### Intermediate Concepts
 >
 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.kevsrobots.com/learn/sqlite3/07_advanced_queries.html">Advanced SQL Queries</a></td>
+    <td>Detailed guide on writing advanced SQL queries in SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sqlitetutorial.net/sqlite-functions/">SQLite Functions</a></td>
+    <td>Comprehensive list of functions available in SQLite with examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.sqlite.org/lang_transaction.html">SQLite Transactions</a></td>
+    <td>Explanation of transactions in SQLite, including how to use BEGIN, COMMIT, and ROLLBACK.</td>
+  </tr>
+</table>
