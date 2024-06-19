@@ -588,11 +588,11 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/playlist?list=PLAFDF86F7552393D0">Operating System Concepts Playlist</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLW2ssKJ5EDP9kp4yvCSBORrOTiR2enkn7">Operating System Concepts Playlist</a></td>
     <td>A YouTube playlist covering fundamental concepts in operating systems, ideal for beginners.</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMK6f7RX0xhEki0a8XjyI7">Linux Kernel Development Playlist</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLsI2APLEA9Eq6z8zUlOJrqmc5KBwLTV4A">Linux Kernel Development Playlist</a></td>
     <td>A YouTube playlist focused on Linux kernel development, including tutorials on various aspects of kernel programming.</td>
   </tr>
   <tr>
