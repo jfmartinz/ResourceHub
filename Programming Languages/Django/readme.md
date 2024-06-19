@@ -325,13 +325,11 @@ Django is a high-level Python web framework that encourages rapid development an
     <td>A comprehensive tutorial on building a local library website with Django.</td>
   </tr>
   <tr>
-    <td><a href="
-  https://www.w3schools.com/django/index.php">w3schools - Learn Django</a></td>
+    <td><a href="https://www.w3schools.com/django/index.php">w3schools - Learn Django</a></td>
     <td>A comprehensive tutorial on Django.</td>
   </tr>
   <tr>
-    <td><a href="
-  https://www.tutorialspoint.com/django/index.htm">Tutorials Point- Django Tutorial</a></td>
+    <td><a href="https://www.tutorialspoint.com/django/index.htm">Tutorials Point- Django Tutorial</a></td>
     <td>Tutorials on Django.</td>
   </tr>
 </table>
