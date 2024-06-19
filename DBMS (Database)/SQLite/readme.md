@@ -24,6 +24,7 @@ This Section is a Curated Collection of resources for GraphQL
 - [Practical Projects](#practical-projects)
 - [SQLite Documentation](#sqlite-documentation)
 - [Books](#sqlite-books)
+- [Language Bindings](#language-bindings)
 
 ### Roadmap
 > 
@@ -370,5 +371,47 @@ SQLite is a software library that implements a self-contained, serverless, zero-
     <td>2016</td>
     <td>O'Reilly</td>
     <td>134</td>
+  </tr>
+</table>
+
+
+### Language Bindings
+>
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Library/Interface</th>
+    <th>Repository/Gem/Web</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>R Language</td>
+    <td>RSQLite</td>
+    <td><a href="https://github.com/rstats-db/RSQLite">rstats-db/RSQLite</a> (GitHub), <a href="http://cran.r-project.org/web/packages/RSQLite">RSQLite (CRAN)</a></td>
+    <td>SQLite interface for R</td>
+  </tr>
+  <tr>
+    <td>Ruby</td>
+    <td>sqlite3</td>
+    <td><a href="https://github.com/sparklemotion/sqlite3-ruby">sparklemotion/sqlite3-ruby</a> (GitHub), <a href="https://rubygems.org/gems/sqlite3">sqlite3 (Gem)</a></td>
+    <td>SQLite interface for Ruby</td>
+  </tr>
+  <tr>
+    <td>Microsoft .NET</td>
+    <td>System.Data.SQLite</td>
+    <td><a href="http://system.data.sqlite.org">system.data.sqlite.org</a></td>
+    <td>SQLite ActiveX Data Objects (ADO).NET driver with LINQ and Entity Framework support; official support by SQLite HQ</td>
+  </tr>
+  <tr>
+    <td>Visual Basic for Applications (VBA)</td>
+    <td>SQLite for Excel</td>
+    <td><a href="https://sqliteforexcel.codeplex.com">sqliteforexcel (CodePlex)</a></td>
+    <td>SQLite wrapper for VBA</td>
+  </tr>
+  <tr>
+    <td>Swift</td>
+    <td>Lighter.swift</td>
+    <td><a href="https://github.com/lighter-swift/lighter">lighter-swift/lighter</a> (GitHub), <a href="https://github.com/Lighter-swift/Lighter">Lighter (pkg)</a></td>
+    <td>SQLite interface for Swift</td>
   </tr>
 </table>
