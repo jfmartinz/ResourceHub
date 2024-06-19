@@ -20,7 +20,7 @@ This Section is a Curated Collection of resources for GraphQL
 - [Intermediate Concepts](#intermediate-concepts)
 - [Advanced Concepts](#advanced-concepts)
 - [Performance and Optimization](#performance-and-optimization)
-
+- [Integrating SQLite with Applications](#integrating-sqlite-with-applications)
 
 
 ### Roadmap
@@ -269,5 +269,29 @@ SQLite is a software library that implements a self-contained, serverless, zero-
   <tr>
     <td><a href="https://www.ibiblio.org/elemental/howto/sqlite-backup.html#:~:text=Restoring%20the%20database%20from%20a,a%20new%20one%20for%20you.&text=After%20restoring%2C%20verify%20the%20results.">Backup and Restore</a></td>
     <td>Guide on how to backup and restore SQLite databases.</td>
+  </tr>
+</table>
+
+
+### Integrating SQLite with Applications
+>
+
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/python-sqlite">SQLite with Python</a></td>
+    <td>Guide on how to integrate SQLite with Python applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/java-sqlite">SQLite with Java</a></td>
+    <td>Instructions on integrating SQLite with Java applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/php-sqlite">SQLite with PHP</a></td>
+    <td>Steps to integrate SQLite with PHP applications.</td>
   </tr>
 </table>
