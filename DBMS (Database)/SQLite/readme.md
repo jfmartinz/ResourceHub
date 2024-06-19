@@ -21,6 +21,7 @@ This Section is a Curated Collection of resources for GraphQL
 - [Advanced Concepts](#advanced-concepts)
 - [Performance and Optimization](#performance-and-optimization)
 - [Integrating SQLite with Applications](#integrating-sqlite-with-applications)
+- [Practical Projects](#practical-projects)
 
 
 ### Roadmap
@@ -293,5 +294,32 @@ SQLite is a software library that implements a self-contained, serverless, zero-
   <tr>
     <td><a href="https://www.javatpoint.com/php-sqlite">SQLite with PHP</a></td>
     <td>Steps to integrate SQLite with PHP applications.</td>
+  </tr>
+</table>
+
+
+### Practical Projects
+>
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aniass/crud-sqlite3">Building a Simple CRUD Application</a></td>
+    <td>Repository containing code for a simple CRUD application using SQLite3.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@gopikaprabhu020/building-a-sqlite-flutter-to-do-list-app-35e8313d0d49">Developing a To-Do List Application</a></td>
+    <td>Article guide on building a to-do list app with SQLite in Flutter.</td>
+  </tr>
+  <tr>
+    <td><a href="https://1000projects.org/vehicle-management-system-project-using-python-and-sqlite.html">Vehicle Management System Project using Python and SQLite</a></td>
+    <td>Project details and code for a vehicle management system using Python and SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://1000projects.org/projects/sqlite-database-projects#:~:text=Medical%20Advisor%20Android%20App%20by%20using%20Java%20%26%20SQLite">Medical Advisor Android App by using Java & SQLite</a></td>
+    <td>Details of an Android app project using Java and SQLite for medical advice.</td>
   </tr>
 </table>
