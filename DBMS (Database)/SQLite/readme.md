@@ -341,3 +341,34 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 
 ### SQLite Books
 >
+
+<table>
+  <tr>
+    <th>Book Title</th>
+    <th>Author(s)</th>
+    <th>Year</th>
+    <th>Publisher</th>
+    <th>Pages</th>
+  </tr>
+  <tr>
+    <td><a href="http://www.apress.com/9781430232254">The Definitive Guide to SQLite (2nd Edition)</a></td>
+    <td>Mike Owens and Grant Allen</td>
+    <td>2010</td>
+    <td>Apress</td>
+    <td>368</td>
+  </tr>
+  <tr>
+    <td><a href="http://shop.oreilly.com/product/9780596521196.do">Using SQLite</a></td>
+    <td>Jay A. Kreibich</td>
+    <td>2010</td>
+    <td>O'Reilly</td>
+    <td>530</td>
+  </tr>
+  <tr>
+    <td><a href="http://shop.oreilly.com/product/0636920044994.do">Getting Started with SQL - A Hands-On Approach for Beginners</a></td>
+    <td>Thomas Nield</td>
+    <td>2016</td>
+    <td>O'Reilly</td>
+    <td>134</td>
+  </tr>
+</table>
