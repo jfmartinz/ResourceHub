@@ -28,7 +28,8 @@ This Section is a Curated Collection of resources for GraphQL
 - [Tutorials](#tutorials)
 
 ### Roadmap
-> 
+> A structured plan or guide for learning and working with SQLite, covering various topics and milestones.
+
 <table>
   <tr>
     <th>Resource Name</th>
@@ -41,10 +42,17 @@ This Section is a Curated Collection of resources for GraphQL
 </table>
 
 ### SQLite 
-SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. SQLite is the most widely deployed SQL database engine in the world. The source code for SQLite is in the public domain. This tutorial will give you a quick start with SQLite and make you comfortable with SQLite programming.
+> SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. SQLite is the most widely deployed SQL database engine in the world. The source code for SQLite is in the public domain. This tutorial will give you a quick start with SQLite and make you comfortable with SQLite programming.
+
+
+
 
 ### Introduction 
-> 
+>  Overview and introduction to SQLite, including its features and capabilities
+
+
+
+
 <table>
   <tr>
     <th>Resource Name</th>
@@ -74,9 +82,15 @@ SQLite is a software library that implements a self-contained, serverless, zero-
     <td><a href="https://www.javatpoint.com/sqlite-commands">SQLite Commands</a></td>
     <td>Comprehensive list of SQLite commands with examples.</td>
   </tr>
+
+
+
 </table>
 
 ### Installation and Setup 
+>  Instructions on how to install and set up SQLite for development.
+
+
 
 <table>
     <tr>
@@ -90,8 +104,11 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 </table>
 
 ### Basic Concepts 
->
+
+
 <table>
+
+
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
@@ -116,6 +133,10 @@ SQLite is a software library that implements a self-contained, serverless, zero-
  
 
 ### Databases 
+> Fundamentals of databases and how SQLite handles database operations.
+
+
+
 
 <table>
   <tr>
@@ -138,7 +159,7 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 
 
 ### SQLite Tables
-
+> Understanding SQLite tables and their creation, modification, and deletion.
 <table>
   <tr>
     <th>Resource Name</th>
@@ -154,7 +175,15 @@ SQLite is a software library that implements a self-contained, serverless, zero-
   </tr>
 </table>
 
+
+
+
 ### CRUD Operations
+> Explanation of CRUD operations (Create, Read, Update, Delete) in SQLite.
+
+
+
+
 <table>
   <tr>
     <th>Resource Name</th>
@@ -180,6 +209,11 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 
 
 ### SQLite Joins
+> Different types of joins and how they are implemented in SQLite.
+
+
+
+
 
 <table>
   <tr>
@@ -206,8 +240,12 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 
 
 
+
+
 ### Intermediate Concepts
->
+> Advanced topics and techniques beyond the basics of SQLite, including transactions, functions, and advanced queries.
+
+
 
 <table>
   <tr>
@@ -229,7 +267,7 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 </table>
 
 ### Advanced Concepts
-> 
+> In-depth exploration of advanced features and functionalities of SQLite, such as views, triggers, and full-text search.
 
 <table>
   <tr>
@@ -255,7 +293,12 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 </table>
 
 ### Performance and Optimization
->
+> Strategies and techniques for optimizing performance and improving efficiency in SQLite databases.
+
+
+
+
+
 
 <table>
   <tr>
@@ -274,11 +317,18 @@ SQLite is a software library that implements a self-contained, serverless, zero-
     <td><a href="https://www.ibiblio.org/elemental/howto/sqlite-backup.html#:~:text=Restoring%20the%20database%20from%20a,a%20new%20one%20for%20you.&text=After%20restoring%2C%20verify%20the%20results.">Backup and Restore</a></td>
     <td>Guide on how to backup and restore SQLite databases.</td>
   </tr>
+
 </table>
 
 
+
+
+
 ### Integrating SQLite with Applications
->
+> Integration of SQLite with various programming languages and platforms, including Python, Java, and .NET.
+
+
+
 
 
 <table>
@@ -301,8 +351,14 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 </table>
 
 
+
+
+
 ### Practical Projects
->
+> Hands-on projects and applications built using SQLite, showcasing its real-world usage and implementation.
+
+
+
 
 <table>
   <tr>
@@ -328,8 +384,12 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 </table>
 
 
+
+
+
 ### SQLite Documentation
->
+> Resources and documentation sources for learning more about SQLite, including official documentation and articles.
+
 <table>
   <tr>
     <th>Resource Name</th>
@@ -341,8 +401,14 @@ SQLite is a software library that implements a self-contained, serverless, zero-
   </tr>
 </table>
 
+
+
+
+
 ### SQLite Books
->
+> Recommended books for learning SQLite, covering topics from beginner to advanced levels.
+
+
 
 <table>
   <tr>
@@ -377,7 +443,8 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 
 
 ### Language Bindings
->
+>Libraries and interfaces for integrating SQLite with different programming languages, such as R, Ruby, and Swift.
+
 <table>
   <tr>
     <th>Language</th>
@@ -419,7 +486,7 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 
 
 ### Tutorials
->
+>  Online tutorials, videos, and resources for learning SQLite, including GitHub repositories, websites, and YouTube channels.
 
 <table>
   <tr>
