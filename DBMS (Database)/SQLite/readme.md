@@ -128,3 +128,21 @@ SQLite is a software library that implements a self-contained, serverless, zero-
     <td>Steps to detach a database from the current database connection.</td>
   </tr>
 </table>
+
+
+### SQLite Tables
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-create-table">SQLite Create Table</a></td>
+    <td>Instructions on how to create a new table in an SQLite database.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-drop-table">SQLite Drop Table</a></td>
+    <td>Guide on how to drop an existing table from an SQLite database.</td>
+  </tr>
+</table>
