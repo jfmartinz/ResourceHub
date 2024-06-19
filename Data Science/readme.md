@@ -501,6 +501,13 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 #### Beginners projects
 
 <table width="100%">
+ <tr>
+   <th>Weather Data Analysis</th>
+   <th>This is a Beginner level project for data analysis which has some data analysis questinos solved.</th>
+ </tr>
+ <tr>
+   <td>The resource is present in the github repository names as Weather_Data_Analysis /td>
+ </tr>
       <tr>
         <th>Resource</th>
         <th>Description</th>
