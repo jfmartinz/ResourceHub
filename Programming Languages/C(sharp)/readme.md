@@ -1,4 +1,4 @@
-# C# Programming Language 💻
+# C# 
 
 C# (C-Sharp) is a modern, object-oriented programming language developed by Microsoft. 
 It is part of the .NET framework and is widely used for building Windows applications, web services, and games. 

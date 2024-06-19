@@ -1,5 +1,5 @@
 
-# Django 🖥️
+# Django 
 
 Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. It is known for its "batteries-included" philosophy, which includes everything you need to build web applications. The resources below will guide you through Django's core concepts and advanced techniques.
 
