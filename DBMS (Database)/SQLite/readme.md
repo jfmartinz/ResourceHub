@@ -10,7 +10,9 @@ This Section is a Curated Collection of resources for GraphQL
 
 - [Roadmap](#roadmap)
 - [SQLite](#sqlite-1)
-    - 
+    - [Introduction](#introduction)
+    - [Installation and Setup](#installation-and-setup)
+- [Basic Concepts](#basic-concepts)
 
 
 
@@ -42,10 +44,6 @@ SQLite is a software library that implements a self-contained, serverless, zero-
     <td>Overview and introduction to SQLite, including its features and use cases.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tutorialspoint.com/sqlite/sqlite_installation.htm">Installation and Setup of SQLite</a></td>
-    <td>Step-by-step guide on installing and setting up SQLite.</td>
-  </tr>
-  <tr>
     <td><a href="https://www.javatpoint.com/sqlite-features">SQLite Features</a></td>
     <td>Detailed description of the features offered by SQLite.</td>
   </tr>
@@ -66,3 +64,20 @@ SQLite is a software library that implements a self-contained, serverless, zero-
     <td>Comprehensive list of SQLite commands with examples.</td>
   </tr>
 </table>
+
+### Installation and Setup 
+
+<table>
+    <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+<tr>
+    <td><a href="https://www.tutorialspoint.com/sqlite/sqlite_installation.htm">Installation and Setup of SQLite</a></td>
+    <td>Step-by-step guide on installing and setting up SQLite.</td>
+  </tr>
+</table>
+
+### Basic Concepts 
+>
+ 
