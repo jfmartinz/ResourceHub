@@ -32,3 +32,37 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 
 ### Introduction 
 > 
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.simplilearn.com/tutorials/sql-tutorial/what-is-sqlite">What is SQLite?</a></td>
+    <td>Overview and introduction to SQLite, including its features and use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tutorialspoint.com/sqlite/sqlite_installation.htm">Installation and Setup of SQLite</a></td>
+    <td>Step-by-step guide on installing and setting up SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-features">SQLite Features</a></td>
+    <td>Detailed description of the features offered by SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sql-vs-sqlite">SQL vs SQLite</a></td>
+    <td>Comparison between SQL and SQLite, highlighting their differences and use cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-history">SQLite History</a></td>
+    <td>Historical background and development of SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-advantages-and-disadvantages">SQLite Advantages</a></td>
+    <td>Advantages and disadvantages of using SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-commands">SQLite Commands</a></td>
+    <td>Comprehensive list of SQLite commands with examples.</td>
+  </tr>
+</table>
