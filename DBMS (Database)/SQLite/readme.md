@@ -25,6 +25,7 @@ This Section is a Curated Collection of resources for GraphQL
 - [SQLite Documentation](#sqlite-documentation)
 - [Books](#sqlite-books)
 - [Language Bindings](#language-bindings)
+- [Tutorials](#tutorials)
 
 ### Roadmap
 > 
@@ -415,3 +416,35 @@ SQLite is a software library that implements a self-contained, serverless, zero-
     <td>SQLite interface for Swift</td>
   </tr>
 </table>
+
+
+### Tutorials
+>
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/codewithlennylen/Python-SQLite-Tutorials">Python-SQLite-Tutorials</a></td>
+    <td>GitHub repository with tutorials on using SQLite with Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3resource.com/sqlite/">w3resource</a></td>
+    <td>Website providing SQLite tutorials and resources.</td>
+  </tr>
+  <tr>
+    <td><a href="https://opensource.com/article/21/2/sqlite3-cheat-sheet">opensource.com</a></td>
+    <td>Cheat sheet for SQLite3 commands and usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=GMHK-0TKRVk">tutorialBrain [YouTube]</a></td>
+    <td>YouTube video tutorial series on SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=byHcYRpMgI4">freeCodeCamp.org [YouTube]</a></td>
+    <td>YouTube tutorial on SQLite from freeCodeCamp.org.</td>
+  </tr>
+</table>
+
