@@ -22,9 +22,21 @@
         }
     </script>
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+
 </head>
 
 <body class="bg-white dark:bg-black dark:text-white">
+    
+    <!-- Progress Bar -->
+    <div id="progressBar"></div>
+    <script>
+      window.onscroll = function() {
+        var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        var scrolled = (winScroll / height) * 100;
+        document.getElementById("progressBar").style.width = scrolled + "%";
+      };
+    </script>
 
     <!-- NAVBAR -->
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
