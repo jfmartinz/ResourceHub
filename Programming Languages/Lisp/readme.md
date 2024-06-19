@@ -1,4 +1,4 @@
-# Lisp 🖥️
+# Lisp 
 
 Lisp is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation. It is known for its powerful macro system and suitability for symbolic computation. The resources below will guide you through Lisp's core concepts and advanced techniques.
 

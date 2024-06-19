@@ -1,4 +1,4 @@
-# Lua 👨🏻‍💻
+# Lua 
 Lua is a powerful, efficient, lightweight, and embeddable scripting language designed for flexibility and ease of use. It is widely used in game development, embedded systems, and software applications for its speed and small footprint. Lua's simplicity and versatility make it a popular choice for both beginners and experienced developers.
 - [Roadmap](#roadmap)<br>
 - [Lua](#lua)<br>

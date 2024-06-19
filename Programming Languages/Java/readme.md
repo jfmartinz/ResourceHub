@@ -1,4 +1,4 @@
-# Java ☕
+# Java 
 
 Java is a high-level, class-based, object-oriented programming language which is one of the most widely used and versatile programming languages in the world. Known for its portability across platforms, robustness, and rich API, Java is used in a variety of applications ranging from web development, mobile apps, enterprise solutions, and large-scale systems.
 

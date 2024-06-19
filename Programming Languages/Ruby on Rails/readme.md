@@ -1,4 +1,4 @@
-# Ruby on Rails 💎
+# Ruby on Rails 
 
 Ruby on Rails, often simply referred to as Rails, is a powerful and popular web application framework written in the Ruby programming language. It follows the model-view-controller (MVC) architecture pattern and is designed to make web development faster, easier, and more enjoyable.
 

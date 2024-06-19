@@ -1,4 +1,4 @@
-# Full Stack Web Development
+# Full Stack 
 
 Full-stack web development refers to the practice of working on both the frontend and backend components of web applications. A full-stack developer is proficient in multiple layers of the software stack, allowing them to handle everything from user interface design and client-side scripting to server-side programming, database management, and system architecture. On the frontend, full-stack developers are skilled in HTML, CSS, and JavaScript, enabling them to create visually appealing and interactive user interfaces that deliver a seamless user experience across different devices and browsers. They often work with frontend frameworks and libraries such as React, Angular, or Vue.js to build dynamic and responsive web applications.
 

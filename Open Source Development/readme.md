@@ -1,4 +1,4 @@
-# Open Source Development 🌈
+# Open Source Development 
 Open source development involves collaborative creation of software where the source code is freely available for anyone to view, modify, and distribute. It fosters transparency, innovation, and community-driven improvement. Developers globally contribute code, fix bugs, and suggest enhancements, often through platforms like GitHub. Projects range from small utilities to complex systems like Linux and Apache. Open source encourages diversity, enabling developers from diverse backgrounds to participate and learn. It democratizes technology, offering accessible solutions and empowering users to tailor software to their needs while promoting a culture of sharing and cooperation in the tech community.
 
 ## Table of Contents

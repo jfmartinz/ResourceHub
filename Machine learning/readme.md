@@ -1,4 +1,4 @@
-# Machine Learning 🤖
+# Machine Learning 
 
 ## Table of Contents
 
