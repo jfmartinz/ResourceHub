@@ -15,9 +15,8 @@ This Section is a Curated Collection of resources for GraphQL
 - [Basic Concepts](#basic-concepts)
     - [Databases](#databases)
     - [SQLite Tables](#sqlite-tables)
-    
-
-
+    - [CRUD Operations](#crud-operations)
+- [Intermediate Concepts](#intermediate-concepts)
 
 
 ### Roadmap
@@ -146,3 +145,32 @@ SQLite is a software library that implements a self-contained, serverless, zero-
     <td>Guide on how to drop an existing table from an SQLite database.</td>
   </tr>
 </table>
+
+### CRUD Operations
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-insert-query">SQLite Insert Query</a></td>
+    <td>Guide on how to insert data into an SQLite database using the INSERT statement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-select-query">SQLite Select Query</a></td>
+    <td>Instructions on how to retrieve data from an SQLite database using the SELECT statement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-update-query">SQLite Update Query</a></td>
+    <td>Steps to update existing data in an SQLite database using the UPDATE statement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-delete-query">SQLite Delete Query</a></td>
+    <td>Guide on how to delete data from an SQLite database using the DELETE statement.</td>
+  </tr>
+</table>
+
+
+### Intermediate Concepts
+>
+
