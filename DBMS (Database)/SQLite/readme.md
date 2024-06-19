@@ -16,6 +16,7 @@ This Section is a Curated Collection of resources for GraphQL
     - [Databases](#databases)
     - [SQLite Tables](#sqlite-tables)
     - [CRUD Operations](#crud-operations)
+    - [SQLite Joins](#sqlite-joins)
 - [Intermediate Concepts](#intermediate-concepts)
 
 
@@ -169,6 +170,33 @@ SQLite is a software library that implements a self-contained, serverless, zero-
     <td>Guide on how to delete data from an SQLite database using the DELETE statement.</td>
   </tr>
 </table>
+
+
+### SQLite Joins
+
+<table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-joins">SQLite Joins</a></td>
+    <td>Overview of different types of joins in SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-inner-join">SQLite Inner Join</a></td>
+    <td>Explanation and examples of using INNER JOIN in SQLite.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-outer-join">SQLite Outer Join</a></td>
+    <td>Guide to using OUTER JOIN in SQLite with examples.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.javatpoint.com/sqlite-cross-join">SQLite Cross Join</a></td>
+    <td>Details on using CROSS JOIN in SQLite with practical examples.</td>
+  </tr>
+</table>
+
 
 
 ### Intermediate Concepts
