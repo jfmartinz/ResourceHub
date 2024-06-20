@@ -5,8 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>README Renderer</title>
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
     <style>
         .markdown-body {
             box-sizing: border-box;
@@ -21,89 +22,148 @@
             color: black !important;
         }
 
-        .dark-mode nav{
+        .dark-mode nav {
             background-color: black !important;
             color: white !important;
         }
 
-/* Container for aligning items to the right */
-.right-corner {
-    display: flex;
-    align-items: center;
-    margin-left: auto; /* Pushes the content to the right */
-}
+        /* Container for aligning items to the right */
+        .right-corner {
+            display: flex;
+            align-items: center;
+            margin-left: auto;
+            /* Pushes the content to the right */
+        }
 
-/* Dark mode toggle switch styles */
-.slider {
-    display: none;
-}
+        /* Dark mode toggle switch styles */
+        .slider {
+            display: none;
+        }
 
-.slider-label {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 2px;
-    cursor: pointer;
-    border-radius: 9999px;
-    width: 48px;
-    height: 26px;
-    background-color: #ccc;
-    position: relative;
-    transition: background-color 0.5s;
-}
+        .slider-label {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 2px;
+            cursor: pointer;
+            border-radius: 9999px;
+            width: 48px;
+            height: 26px;
+            background-color: #ccc;
+            position: relative;
+            transition: background-color 0.5s;
+        }
 
-.slider-circle {
-    width: 10px;
-    height: 10px;
-    background-color: white;
-    border-radius: 50%;
-    transition: transform 0.5s;
-    position: absolute;
-    top: 1px;
-    left: 2px;
-}
+        .slider-circle {
+            width: 10px;
+            height: 10px;
+            background-color: white;
+            border-radius: 50%;
+            transition: transform 0.5s;
+            position: absolute;
+            top: 1px;
+            left: 2px;
+        }
 
-.slider:checked + .slider-label .slider-circle {
-    transform: translateX(1.3rem);
-    background: #000000; /* Sun color */
-}
+        .slider:checked+.slider-label .slider-circle {
+            transform: translateX(1.3rem);
+            background: #000000;
+            /* Sun color */
+        }
 
-.slider:checked + .slider-label {
-    background: #515151; /* Dark mode background */
-}
+        .slider:checked+.slider-label {
+            background: #515151;
+            /* Dark mode background */
+        }
 
-.slider-circle::before {
-    position: absolute;
-    top: 50%;
-    left: 10px;
-    transform: translate(50%, -50%);
-    display: block;
-    font-size: 16px; /* Adjust the font size for the icons */
-}
+        .slider-circle::before {
+            position: absolute;
+            top: 50%;
+            left: 10px;
+            transform: translate(50%, -50%);
+            display: block;
+            font-size: 16px;
+            /* Adjust the font size for the icons */
+        }
 
-.slider:checked + .slider-label .slider-circle::before {
-    content: '🌙'; /* Moon icon */
-    transform: translate(-50%, -50%);
-}
+        .slider:checked+.slider-label .slider-circle::before {
+            content: '🌙';
+            /* Moon icon */
+            transform: translate(-50%, -50%);
+        }
 
-.slider + .slider-label .slider-circle::before {
-    content: '☀️'; /* Sun icon */
-    transform: translate(-50%, -50%);
-}
+        .slider+.slider-label .slider-circle::before {
+            content: '☀️';
+            /* Sun icon */
+            transform: translate(-50%, -50%);
+        }
 
 
-#progressBar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 0%;
-  height: 7px;
-  background-color: #288cff;
-  z-index: 99;
-  border-radius: 20px;
+        #progressBar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 0%;
+            height: 7px;
+            background-color: #288cff;
+            z-index: 99;
+            border-radius: 20px;
 
-}
+        }
 
+        /* Back-to-top */
+        footer {
+            position: relative;
+            padding: 50px 0;
+        }
+
+        #back-to-top-container {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            cursor: pointer;
+            z-index: 1000;
+        }
+
+        .circle1 {
+            background-color: #fff;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: background-color 0.3s;
+        }
+
+        #back-to-top {
+            width: 40px;
+            height: 40px;
+            fill: currentColor;
+            transition: fill 0.3s;
+        }
+
+        #back-to-top:hover {
+            fill: rgb(83, 79, 79);
+            transform: scale(1.06);
+            transition: all .2s ease-in-out;
+        }
+
+        .dark-mode .circle1 {
+            background-color: #000000;
+        }
+
+        .dark-mode #back-to-top:hover {
+            fill: rgb(173, 168, 168);
+            transform: scale(1.06);
+            transition: all .2s ease-in-out;
+        }
+
+        /* .dark-mode  svg path{
+  fill: rgb(255, 255, 255);
+} */
+
+        /* .dark-mode svg path:hover {
+  fill:  rgb(139, 71, 236);
+} */
     </style>
     <link rel="shortcut icon" href="/ResourceHub/website/assets/logo.png" type="image/x-icon">
     <link rel="icon" href="assets/logo.png">
@@ -112,18 +172,56 @@
 </head>
 
 <body class="light-mode">
-        <!-- Progress Bar -->
-        <div id="progressBar"></div>
-        <script>
-          window.onscroll = function() {
+    <!-- Progress Bar -->
+    <div id="progressBar"></div>
+    <script>
+        window.onscroll = function () {
             var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
             var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
             var scrolled = (winScroll / height) * 100;
             document.getElementById("progressBar").style.width = scrolled + "%";
-          };
-        </script>
+        };
+    </script>
 
-    <nav class="content-display-nav dark-mode sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-black">
+    <div id="back-to-top-container">
+        <div class="circle1">
+            <svg id="back-to-top" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                class="bi bi-arrow-up-circle-fill" viewBox="0 0 16 16">
+                <path
+                    d="M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0m-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707z" />
+            </svg>
+        </div>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                const backToTopButton = document.getElementById('back-to-top-container');
+
+                function checkButtonVisibility() {
+                    if (window.innerWidth > 100 && window.scrollY > 100) {
+                        backToTopButton.style.display = 'block';
+                    } else {
+                        backToTopButton.style.display = 'none';
+                    }
+                }
+
+                window.addEventListener('scroll', checkButtonVisibility);
+                window.addEventListener('resize', checkButtonVisibility);
+
+                backToTopButton.addEventListener('click', function () {
+                    window.scrollTo({
+                        top: 0,
+                        behavior: 'smooth'
+                    });
+                });
+                checkButtonVisibility();
+            });
+
+        </script>
+    </div>
+    </div>
+
+    <nav
+        class="content-display-nav dark-mode sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 text-black">
         <div class="container px-4 py-0 border-none mx-auto relative lg:text-sm">
             <div class="flex justify-between mt-4 items-center">
                 <div class="flex items-center flex-shrink-0">
@@ -135,13 +233,16 @@
                 <div class="flex items-center ml-auto">
                     <!-- Dark mode toggle icon -->
                     <input type="checkbox" id="slider" class="slider hidden" onclick="toggleDarkMode()">
-                    <label for="slider" class="slider-label bg-gray-300 dark:bg-gray-700 w-16 h-8 flex items-center rounded-full p-1 cursor-pointer transition duration-500">
-                        <div class="slider-circle bg-white w-6 h-6 rounded-full shadow-md transform transition duration-500"></div>
+                    <label for="slider"
+                        class="slider-label bg-gray-300 dark:bg-gray-700 w-16 h-8 flex items-center rounded-full p-1 cursor-pointer transition duration-500">
+                        <div
+                            class="slider-circle bg-white w-6 h-6 rounded-full shadow-md transform transition duration-500">
+                        </div>
                     </label>
                     <!-- End dark mode toggle icon -->
                 </div>
             </div>
-            
+
         </div>
     </nav>
 
@@ -150,14 +251,14 @@
         <div class="light-mode content-display markdown-body" id="readme-content">
             <!-- README content will be injected here -->
         </div>
-        
+
 
     </div>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
-//         document.addEventListener("contextmenu", function (event) {
-//   event.preventDefault();
-// });
+        //         document.addEventListener("contextmenu", function (event) {
+        //   event.preventDefault();
+        // });
         // Dark mode toggle script
         function toggleDarkMode() {
             console.log('Toggling dark mode...');
