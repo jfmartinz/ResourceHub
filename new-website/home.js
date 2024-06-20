@@ -9,7 +9,7 @@ function toggleDarkMode() {
     // Set the new image source based on dark mode state
     orgLogoImg.src = isDarkModeEnabled ? 'assets/GSSocDark.png' : 'assets/GSSocLight.png';
     const footerImg = document.getElementById('logo-image');
-    footerImg.src = isDarkModeEnabled ? 'assets/footerDark.png' : 'assets/footerLight.png';
+    footerImg.src = isDarkModeEnabled ? 'assets/footerDark.png' : 'assets/footer-light.png';
 }
 
 // For particles
