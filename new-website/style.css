@@ -1098,9 +1098,6 @@ body{
   font-weight: bold;
 }
 
-.dark svg path{
-  fill: white ;
-}
 
 /* Add these styles to the end of your existing style.css file */
 
@@ -1325,8 +1322,10 @@ body{
   color: black;
   font-weight: bold;
 }
-/* Back-to-top */
-footer {
+
+
+ /* Back-to-top */
+ footer {
   position: relative;
   padding: 50px 0;
 }
@@ -1355,5 +1354,25 @@ footer {
   transition: fill 0.3s;
 }
 #back-to-top:hover{
-  fill: rgba(58, 55, 55);
+    fill: rgb(83, 79, 79);
+    transform: scale(1.06);  
+    transition: all .2s ease-in-out;
+}
+
+.dark .circle1 {
+    background-color: #000000;
+}
+
+.dark #back-to-top:hover{
+  fill: rgb(207, 200, 200);
+  transform: scale(1.06);
+  transition: all .2s ease-in-out;
+}
+
+ .dark  svg path{
+  fill: rgb(255, 255, 255);
+}
+
+.dark svg path:hover {
+  fill:  rgb(207, 200, 200);
 }
