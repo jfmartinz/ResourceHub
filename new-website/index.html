@@ -29,6 +29,9 @@
 </head>
 
 <body class="bg-white dark:bg-black dark:text-white">
+    <div id="loading-spinner" class="loading-spinner">
+        <div class="spinner"></div>
+    </div>
     
     <!-- Progress Bar -->
     <div id="progressBar"></div>
@@ -302,6 +305,10 @@
             checkButtonVisibility();
         });
         
+         // Hide the loading spinner once the page has fully loaded
+    window.addEventListener('load', function() {
+        document.getElementById('loading-spinner').style.display = 'none';
+    });
           </script>
 </body>
 
