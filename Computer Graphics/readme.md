@@ -5,7 +5,7 @@ Computer graphics refers to the imathat are generated using a computer. This can
 ## Table of Contents
 
 - [Roadmap](#Roadmap)<br>
-- [Tutorials or Courses](#tutorials-or-courses)<br>
+- [Courses](courses)<br>
   - [Free Cources](#free-courses)<br>
   - [Paid Courses](#paid-courses)<br>
 - [TCP/IP Protocols](#tcpip-protocol)
@@ -34,7 +34,7 @@ Computer graphics refers to the imathat are generated using a computer. This can
       <th>This is the Roadmap for Graphics Engineer</th>
 </table>
 
-## Tutorials or Courses
+## Courses
 
 > You can consider these courses for learning Computer Graphics:
 
@@ -166,84 +166,6 @@ Computer graphics refers to the imathat are generated using a computer. This can
 </table>
 
 # Computer Graphics Resources
-
-## Basic Concepts in Computer Graphics
-
-<table>
-    <thead>
-        <tr>
-            <th>Author</th>
-            <th>Article</th>
-            <th>Level</th>
-            <th>Comments</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Computer Science</td>
-            <td><a href="https://www.cs.cornell.edu/courses/cs4620/2014fa/lectures/01introduction.pdf">Introduction to Computer Graphics</a></td>
-            <td>Beginner</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Michael Abrash</td>
-            <td><a href="http://www.jagregory.com/abrash-black-book/">Graphics Programming Black Book</a></td>
-            <td>Beginner</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Real-Time Rendering</td>
-            <td><a href="http://www.realtimerendering.com/transformations.html">Transformations</a></td>
-            <td>Beginner</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Scratchapixel</td>
-            <td><a href="https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation">Rasterization: a Practical Implementation</a></td>
-            <td>Beginner</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-## Advanced Computer Graphics
-
-<table>
-    <thead>
-        <tr>
-            <th>Author</th>
-            <th>Article</th>
-            <th>Level</th>
-            <th>Comments</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Nvidia</td>
-            <td><a href="https://developer.nvidia.com/ray-tracing-gems">Ray Tracing Gems</a></td>
-            <td>Advanced</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Real-Time Rendering</td>
-            <td><a href="http://www.realtimerendering.com/global_illumination.html">Global Illumination</a></td>
-            <td>Advanced</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Scratchapixel</td>
-            <td><a href="https://www.scratchapixel.com/lessons/physically-based-rendering/physically-based-rendering-and-the-principled-bsdf">Physically Based Rendering and The Principled BSDF</a></td>
-            <td>Advanced</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Tomas Akenine-Möller</td>
-            <td><a href="https://www.realtimerendering.com/">Real-Time Rendering 4th Edition</a></td>
-            <td>Advanced</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
 
 ## Communities
 
