@@ -858,6 +858,18 @@ Writing to Files File Streams input and output operations in C++.</td>
     <td><a href="https://www.amazon.com/Modern-Effective-Specific-Improve-Programming/dp/1491903996">Modern Effective C++: 42 Specific Ways to Improve Your Use of C++11 and C++14</a></td>
     <td>This book offers insights and advice on how to use modern C++ features effectively to write robust and efficient code.</td>
   </tr>
+    <tr>
+    <td><a href="https://drive.google.com/file/d/163kA7b6tT4cpZuXixD0EH5VUjWLQlFqT/view?usp=sharing">C++ Advanced Level Concepts</a></td>
+    <td>This book Cover all the begineer level to advanced Concepts.</td>
+  </tr>
+    <tr>
+    <td><a href="https://drive.google.com/file/d/1nYeNFTDD0-X_j-bqyW1oUMCleNEkxTD2/view?usp=sharing">DSA Supreme </a></td>
+    <td>Covers A to Z concepts of C++</td>
+  </tr>
+    <tr>
+    <td><a href="https://drive.google.com/file/d/1yVgbn0KVI5J_hUnfRU2tniZKEO3NJRGc/view?usp=sharing">DSA by love Babbar </a></td>
+    <td>This pdf covers all concepts along with theory and practicals Questions. </td>
+  </tr>
 </table>
 
 

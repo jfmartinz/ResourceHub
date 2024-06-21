@@ -774,6 +774,10 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
     <td><a href="https://www.amazon.com/Kotlin-Enterprise-Applications-using-Java/dp/1801077189/">Kotlin for Enterprise Applications using Java EE</a></td>
     <td>This book focuses on using Kotlin for enterprise application development, specifically with Java EE technologies. It covers topics like building RESTful services, handling databases, and deploying applications.</td>
   </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1GTFdf0IJhdBXttxVGdV-mb7sLqa1fB5h/view?usp=sharing">Kotlin for Begineers </a></td>
+    <td>Notes by TutorialsPoint for Kotlin.</td>
+  </tr>
 </table>
 
 

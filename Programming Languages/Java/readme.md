@@ -446,6 +446,10 @@ Here's the updated table:
     <td><a href="https://developer.android.com/training/testing">Android Testing - Official</a></td>
     <td>Official guide by Android on testing Android apps using frameworks like JUnit, Espresso, and UI Automator.</td>
   </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1BanPy4hJ3G3x_Sp1Ver38dYdW8KdG_o8/view?usp=sharing">Android Notes</a></td>
+    <td>Android Handwritten Notes by Code With Harry .</td>
+  </tr>
 </table>
 
 
@@ -575,6 +579,14 @@ Here's the updated table:
   <tr>
     <td><a href="https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486">Thinking in Java</a></td>
     <td>An insightful book that delves deep into Java language features, object-oriented concepts, and programming techniques, suitable for intermediate to advanced readers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1sk9Ui_cx4G64NI44EQ1e9obzV-e_EdKv/view?usp=sharing">Java Notes fot Professionals .</a></td>
+    <td>In depth explanation for Each topic.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1_a433YmB9Ha6GJWzA3iwmwQjemf3pt3p/view?usp=sharing">Java full Guide</a></td>
+    <td>This Book Cover all Concepts which requires for technical Round Question in java </td>
   </tr>
 </table>
 

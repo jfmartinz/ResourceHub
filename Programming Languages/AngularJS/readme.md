@@ -1073,6 +1073,10 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
    <td><a href="https://www.manning.com/books/angularjs-in-action">AngularJS Directives</a></td>
    <td>Focused guide on creating custom directives in AngularJS, including practical examples and best practices.</td>
  </tr>
+  <tr>
+   <td><a href="https://drive.google.com/file/d/1tyjoZYGQ83iR7Y9jJubCfaqoOBNQlGxL/view?usp=sharing">AngularJS Notes</a></td>
+   <td>AngularJs TutorialsPoint Notes.</td>
+ </tr>
 </table>
 
 ## Conclusion

@@ -776,6 +776,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
       <td><a href="https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition">Python Machine Learning</a></td>
       <td>Sebastian Raschka and Vahid Mirjalili's book, published by Packt Publishing in 2017 (second edition), provides insights into machine learning using Python across 622 pages.</td><td>Free</td>
     </tr>
+    <tr>
+      <td><a href="https://drive.google.com/file/d/1V36jUB16ZycBPfVph_5GXnzapKwHeCv0/view?usp=sharing">Python Frequently asked Question</a></td>
+      <td>Covers all the important topics for interview Questions..</td><td>Free</td>
+    </tr>
 </table>
 
 ### Python Projects

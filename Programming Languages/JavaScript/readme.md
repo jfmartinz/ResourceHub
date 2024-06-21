@@ -126,6 +126,14 @@ This section is dedicated to providing valuable resources for learning and maste
     <td><a href="https://www.scaler.com/topics/javascript/what-is-ajax/"> What is AJAX?</a></td>
     <td>An article understanding What is AJAX?..</td>
       </tr>
+    <tr>
+    <td><a href="https://drive.google.com/file/d/1Oay4898Fb-ZzmnRyxQOmxHjyFm4inOSh/view?usp=sharing"> Frequently Asked javascript Question</a></td>
+    <td>This pdf covers all the commonly asked inteview question </td>
+      </tr>
+     <tr>
+    <td><a href="https://drive.google.com/file/d/1aolxufhIkxvIPH6R-epEkrpjWHC3ZNEH/view?usp=sharing"> Javascript Notes</a></td>
+    <td>A handwritten Notes pdf which cover all the topic..</td>
+      </tr>
 </table>
 
 #### Fundamentals
