@@ -29,7 +29,10 @@
 </head>
 
 <body class="bg-white dark:bg-black dark:text-white">
-    
+    <!-- Loading Spinner -->
+    <div id="loading-spinner" class="loading-spinner">
+        <div class="spinner"></div>
+    </div>
     <!-- Progress Bar -->
     <div id="progressBar"></div>
     <script>
@@ -354,22 +357,14 @@
             });
             checkButtonVisibility();
         });
-
-        document.querySelectorAll('.faq-question').forEach(item => {
-            item.addEventListener('click', (event) => {
-                event.preventDefault();
-                item.classList.toggle('open');
-                const answer = item.nextElementSibling;
-                if (answer.style.display === 'block') {
-                answer.style.display = 'none';
-                } else {
-                answer.style.display = 'block';
-                }
-            });
-        });
-
-
+        
           </script>
+        <script>
+            // Hide the loading spinner once the page has fully loaded
+            window.addEventListener('load', function() {
+                document.getElementById('loading-spinner').style.display = 'none';
+            });
+        </script>
 </body>
 
 </html>
