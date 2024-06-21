@@ -190,6 +190,14 @@ Computer Architecture is the study of the structure, organization, and design of
         <td><a href="https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-383872-8">Computer Architecture: A Quantitative Approach by John Hennessy and David Patterson</a></td>
         <td>A comprehensive book that provides in-depth coverage of computer architecture concepts and practices.</td>
       </tr>
+   <tr>
+        <td><a href="https://www.amazon.in/Computer-System-Architecture-Update-Pearson/dp/9332585601/">Computer System Architecture by Morris Mano</a></td>
+        <td>This revised text is spread across fifteen chapters with substantial updates to include the latest developments in the field. The first eight chapters of the book focuses on the hardware design and computer organization, while the remaining seven chapters introduces the functional Units of digital computer. </td>
+      </tr>
+   <tr>
+        <td><a href="https://www.amazon.in/COMPUTER-ORGANIZATION-ARCHITECTURE-11TH-Stallings/dp/9356061599/">Computer Organization & Architecture by William Stallings</a></td>
+        <td>A comprehensive book whose purpose is to present, as clearly and completely as possible, the nature and characteristics of modern-day computer systems. </td>
+      </tr>
 </table>
 
 ### YouTube Channels
