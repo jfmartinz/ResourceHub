@@ -321,6 +321,15 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td><a href="https://github.com/TheAlgorithms/C-Plus-Plus/tree/master/searching">Search Algorithms</a</td>
 <td>Example code for different searching algorithms in C++.</td>
 </tr>
+ <tr>
+<td><a href="https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/#basic-operations-on-stack">Stack Implementation</a</td>
+<td>Example code for implementing stacks in C++.</td>
+</tr>
+ <tr>
+<td><a href="https://www.geeksforgeeks.org/introduction-to-queue-data-structure-and-algorithm-tutorials/">Queue Implementation</a</td>
+<td>Example code for implementing queues in C++.</td>
+</tr>
+<tr>
   <td><a href="https://github.com/TheAlgorithms/C-Plus-Plus">The Algorithms</a></td>
 <td>A collection of DSA implementations in C++.</td>
 </tr>
