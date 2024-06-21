@@ -7,7 +7,7 @@
     align-items: center;
 }
 .container{
-    background-color: rgb(201, 201, 201);
+    background-color: #d1d5db;
     text-align: center;
     align-items: center;
     width: 300px;
@@ -16,6 +16,9 @@
 
 }
 
+.dark h1{
+    color: white;
+}
 .main{
     text-align: center;
    
@@ -29,10 +32,14 @@
     color:white;
 }
 .content{
-    padding: 10px;
+    padding: 5px;
     display: flex;
     flex-direction: column;
     gap:5px;
+}
+
+.dark .container{
+    background-color: rgb(91, 91, 91);
 }
 .container .content h2{
     font-size: 20px;
