@@ -203,6 +203,7 @@
 
         </div>
     </center>
+    <a href=""></a>
     <div class="container">
         <div class="content">
             <div class="title-container">
@@ -220,6 +221,43 @@
             <img id="org-logo" src="assets/GSSocLight.png" alt="GirlScript Summer of Code Logo">
         </div>
     </div>
+
+
+    <!-- FAQ Section -->
+    <div class="faq-container">
+        <div class="title-container">
+            <i class="fas fa-link link-icon"></i>
+            <div class="title dark:text-white" id="faq-title">Frequently Asked Questions (FAQs)</div>
+        </div>
+        <div class="faq-items">
+            <div class="faq-item">
+                <div class="faq-question">What is ResourceHub?</div>
+                <div class="faq-answer">ResourceHub is an open-source project that serves as a one-stop repository of
+                    valuable resources curated by the amazing contributors in the community. You can contribute with helpful
+                    resources you've discovered on the internet and share them with us!</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">How can I contribute to ResourceHub?</div>
+                <div class="faq-answer">Read CONTRIBUTING.md and create your fork of this repository before submitting any
+                    contributions. Expand the following section for a quick guide on how to create a fork:
+    
+                    How to Fork this Repo and Submit a Pull Request (PR)
+                    Alternatively use GitHub Desktop</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Is ResourceHub free to use?</div>
+                <div class="faq-answer">Yes, ResourceHub is completely free to use for everyone.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">What is category and section?</div>
+                <div class="faq-answer">Category: In ResourceHub, categories refer to broad classifications of resources
+                    based on their topic or domain, such as Web Development, UI & UX Design, Data Science, etc.
+                    Section: Sections further categorize resources within a specific category. An example of a section in
+                    web development is Tools, Animations, and many more. Take a look</div>
+            </div>
+        </div>
+    </div>
+
      <!-- License section -->
     <div class="license-container">
         <div class="license-content">
@@ -316,7 +354,21 @@
             });
             checkButtonVisibility();
         });
-        
+
+        document.querySelectorAll('.faq-question').forEach(item => {
+            item.addEventListener('click', (event) => {
+                event.preventDefault();
+                item.classList.toggle('open');
+                const answer = item.nextElementSibling;
+                if (answer.style.display === 'block') {
+                answer.style.display = 'none';
+                } else {
+                answer.style.display = 'block';
+                }
+            });
+        });
+
+
           </script>
 </body>
 
