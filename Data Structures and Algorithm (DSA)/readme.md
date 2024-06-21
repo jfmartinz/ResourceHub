@@ -12,16 +12,22 @@ This section serves as a curated collection of valuable resources for learning a
 - [Interview Questions](#interview-questions)
 - [Types of Data Structures](#data-structures-and-algorithm)
 - [Tutorials or Courses](#tutorials)
-- [Youtube Channels](#youtube-channels)
+- [YouTube](#youtube)
+   - [YouTube Channels](#youtube-channels)
+   - [YouTube Playlist](#types-of-data-structures)
 - [Coding Platforms](#coding-platforms)
 - [Practice Sheets](#sheets)
 - [DSA by language](#dsa-by-languages)
-
    - [C++](#c)<br>
    - [Java](#java)<br>
    - [Python](#python)<br>
    - [Javascript](#javascript)<br>
 - [CheatSheet](#cheatsheet)
+- [GitHub Repositories](#github-repositories)
+- [Books](#books)
+   - [Free Books](#free-books)
+   - [Paid Books](#paid-books)
+- [Communities](#communities)
 - [Algorithm by Languages](#algorithm-by-languages)
 - [Conclusion](#conclusion)
 
@@ -149,11 +155,15 @@ Let's make coding fun and exciting! 🚀.</td>
   </tr>
   </table>
 
-## YouTube Channels
+## YouTube
+
+> These resources by youtube helps you to imporve your skills in DSA.
+
+### YouTube Channels
 
 <table width="100%" id="youtube-channels">
   <tr>
-    <th>Channel Name</th>
+    <th>Resource Name</th>
     <th>Description</th>
   </tr>
 <tr>
@@ -191,6 +201,31 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td><a href="https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ">Kunal Kushwaha</a></td>
 <td>This playlist contains java concepts taught from scratch in detail.The best thing about this platlist is that it not only contains the theory part , but also consists of mostly frequently asked interview questions of Amazon , Google , Microsoft etc.
 </td>
+</tr>
+</table>
+
+### YouTube Playlist
+
+<table width="100%" id="youtube-channels">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU"> Data strctures and Algorithms </a></td>
+<td> The YouTube playlist "Data Structures and Algorithms" offers a comprehensive series of tutorials covering key concepts in data structures and algorithms. It includes explanations and practical examples of various data structures like arrays, linked lists, stacks, queues, trees, and graphs, as well as algorithmic techniques such as sorting, searching, and dynamic programming. </td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y"> Data structures using C</a></td>
+<td>The YouTube playlist "Data Structures" is a detailed educational series designed to teach viewers about various data structures used in computer science. It covers fundamental concepts and provides in-depth explanations of structures such as arrays, linked lists, stacks, queues, trees, and graphs.  </td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H"> DSA</a></td>
+<td> The YouTube playlist "Data Structures and Algorithms" offers an extensive series of videos focusing on essential topics in data structures and algorithms. It covers fundamental concepts such as arrays, linked lists, stacks, queues, trees, and graphs, as well as various algorithms for sorting, searching, and more.  </td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12">DSA using Python </a></td>
+<td>The YouTube playlist "Data Structures and Algorithms in Python" provides a comprehensive series of tutorials focusing on implementing data structures and algorithms using the Python programming language. It covers fundamental topics such as arrays, linked lists, stacks, queues, trees, and graphs, along with various sorting and searching algorithms. </td> 
 </tr>
 </table>
 
@@ -321,6 +356,15 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td><a href="https://github.com/TheAlgorithms/C-Plus-Plus/tree/master/searching">Search Algorithms</a</td>
 <td>Example code for different searching algorithms in C++.</td>
 </tr>
+ <tr>
+<td><a href="https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/#basic-operations-on-stack">Stack Implementation</a</td>
+<td>Example code for implementing stacks in C++.</td>
+</tr>
+ <tr>
+<td><a href="https://www.geeksforgeeks.org/introduction-to-queue-data-structure-and-algorithm-tutorials/">Queue Implementation</a</td>
+<td>Example code for implementing queues in C++.</td>
+</tr>
+<tr>
   <td><a href="https://github.com/TheAlgorithms/C-Plus-Plus">The Algorithms</a></td>
 <td>A collection of DSA implementations in C++.</td>
 </tr>
@@ -519,8 +563,118 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 </table>
 
-### Algorithms by Languages
+## GitHub Repositories
+
+> Here are some popular GitHub repositories for learning data structures and algorithms:
+
+<table width="100%" id="sheets">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr><td><a href="https://github.com/necusjz/awesome-dsa">Awesome DSA</a></td>
+<td>The GitHub repository "awesome-dsa" by necusjz is a curated collection of resources for learning data structures and algorithms. It includes links to tutorials, books, courses, and coding practice platforms, aiming to help learners improve their understanding and skills in these critical areas of computer science.</td>
+</tr>
+<tr><td><a href="https://github.com/codehariom/DSA-in-Python">DSA in python</a></td>
+<td>The GitHub repository "DSA-in-Python" by codehariom is a comprehensive resource for learning data structures and algorithms using Python. It contains well-organized code implementations, detailed explanations, and example problems covering a wide range of topics such as arrays, linked lists, stacks, queues, trees, graphs, and various algorithms.</td>
+</tr>
+<tr><td><a href="https://github.com/yashsiwach/DSA-Notes">DSA Notes</a></td>
+<td>The GitHub repository "DSA-Notes" by yashsiwach offers a comprehensive collection of notes on data structures and algorithms. It includes detailed explanations, code snippets, and examples for various topics such as arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, and more. </td>
+</tr>
+<tr><td><a href="https://github.com/abhiXsliet/DSA-Busted-A-Complete-CPP-DSA-Series">DSA using CPP</a></td>
+<td>The GitHub repository "DSA-Busted: A Complete C++ DSA Series" by abhiXsliet offers an extensive series on data structures and algorithms using C++. It includes detailed code implementations, explanations, and problem-solving techniques for various topics such as arrays, linked lists, stacks, queues, trees, graphs, and algorithms. </td>
+</tr>
+</table>
+
+## Books
+
+> These books helps you to learn and understand DSA very efficiently.
+
+### Free Books
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td> <a href="https://freecomputerbooks.com/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python.html">Problem solving with DSA using python</a></td>
+        <td>The online book "Problem Solving with Algorithms and Data Structures Using Python" provides a comprehensive introduction to algorithms and data structures, utilizing Python for practical implementation. It covers fundamental topics such as recursion, sorting, searching, and graph algorithms, combining theoretical concepts with hands-on coding examples.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://freecomputerbooks.com/Algorithms-4th-Edition-by-Robert-Sedgewick-and-Kevin-Wayne.html">Algorithms4rh edition</a></td>
+        <td>The website "Free Computer Books" hosts "Algorithms, 4th Edition" by Robert Sedgewick and Kevin Wayne, a comprehensive and widely acclaimed textbook in the field of computer science. This authoritative text covers fundamental algorithms, data structures, and their analysis, catering to both students and professionals in the realm of software development and algorithm design.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://freecomputerbooks.com/Data-Structures-and-Algorithm-Analysis-in-Cpp.html">Data Structures and Algorithms analysis with C++</a></td>
+        <td>"Data Structures and Algorithm Analysis in C++" by Mark Allen Weiss, a well-regarded textbook in the realm of computer science and programming. This book focuses on providing a comprehensive understanding of data structures and algorithms using the C++ programming language.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://freecomputerbooks.com/Data-Structures-and-Algorithm-Analysis-in-Java.html">DSA analysis using Java</a></td>
+        <td>"Data Structures and Algorithm Analysis in Java" by Mark Allen Weiss, a comprehensive textbook focusing on data structures and algorithms using the Java programming language. This book is widely recognized for its thorough coverage and educational value in the field of computer science.</td>
+      </tr>
+  </table>
+
+### Paid Books
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td> <a href="https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/">Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein</a></td>
+        <td>A comprehensive textbook widely used in computer science education, covering a broad range of algorithms in depth with rigorous analysis and practical applications.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/">Algorithms by Robert Sedgewick and Kevin Wayne</a></td>
+        <td>Offers an in-depth look at algorithms and data structures with a focus on practical implementations in Java, complete with code examples and exercises.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.amazon.com/Data-Structures-Algorithms-Made-Easy/dp/819324527X/">Data Structures and Algorithms Made Easy by Narasimha Karumanchi</a></td>
+        <td>Provides easy-to-understand explanations and solutions to complex data structure and algorithm problems, making it a great resource for beginners and intermediate learners.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/">Grokking Algorithms by Aditya Bhargava</a></td>
+        <td>A visually rich guide to learning algorithms, using illustrations and step-by-step examples to make complex concepts more accessible and engaging for beginners.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/">The Algorithm Design Manual by Steven S. Skiena</a></td>
+        <td>Combines practical algorithm design techniques with real-world examples, providing a comprehensive resource for both students and professionals in the field of computer science.</td>
+      </tr>
+  </table>
+
+### Communities
+
+> These are some communities of Data sturctures and algorithms enthusiasts where you can seek help and guidelines.
+<table width="100%">
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td> <a href="https://www.reddit.com/r/datastructure/">r/datastructure</a></td>
+    <td>This subreddit is dedicated to discussions, resources, and questions related to data structures. It serves as a community hub for enthusiasts, students, and professionals interested in exploring and sharing insights on various data structures used in computer science and programming.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.reddit.com/r/algorithms/">r/algorithms</a></td>
+    <td>This subreddit is a community focused on discussions, resources, and questions related to algorithms. It provides a platform for algorithm enthusiasts, researchers, and professionals to share insights, ask questions, and collaborate on topics ranging from algorithm design to optimization techniques and computational complexity.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.kaggle.com/discussion">Kaggle Forums</a></td>
+    <td>Discussion forums on Kaggle where data scientists discuss competitions, datasets, and more.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.reddit.com/r/cpp/">CPP</a></td>
+    <td>This subreddit is dedicated to discussions and resources related to the C++ programming language. It serves as a community hub for C++ developers, enthusiasts, and learners to share news, ask questions, and discuss topics ranging from language features and standards to best practices and advanced programming techniques.</td>
+  </tr>
+</table>
+
+
+## Algorithms by Languages
+
 > Here are some   Sorting and Searching Algorithms resources and their Implementation in different Languages.
+
 ### JavaScript
 <table width="100%" id="algorithms-by-languages">
 <tr>
@@ -569,7 +723,6 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <tr>
 <th>Resource Name</th>
 <th>Description</th>
-
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=kFeXwkgnQ9U&t=1s">Quick Sort</a></td>
@@ -583,8 +736,6 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td><a href="https://www.youtube.com/watch?v=cVZMah9kEjI&t=1s">Binary Search</a></td>
 <td>This tutorial explains about Binary Search and provides implementation in Python .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
 </tr>
-
-
 </table>
 
 ##  Conclusion
