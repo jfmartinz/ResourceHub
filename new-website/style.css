@@ -898,7 +898,14 @@ body{
   z-index: -1;
   overflow: hidden;
 }
-
+/* For back to top button */
+#back-to-top-container{
+  position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 3;
+    cursor: pointer;
+}
 /* Round buttons */
 
 .roundbtn{
@@ -1099,11 +1106,12 @@ body{
 }
 
 .dark #back-to-top{
-  fill: black ;
+  fill: rgb(255, 255, 255) ;
+  
 }
 
 .dark a svg path{
-  fill: white ;
+  fill: rgb(0, 0, 0) ;
 }
 
 
