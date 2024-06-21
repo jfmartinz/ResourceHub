@@ -45,15 +45,6 @@ Theoretical knowledge of algorithms is important to competitive programmers. Typ
   </tr>
 </table>
 
-### How to Start and Keep Yourself Motivated
-
-1. **Start Small**: Begin with basic problems on platforms like CodeChef, LeetCode, or HackerRank to build confidence.
-2. **Set Goals**: Define clear, achievable goals. For example, solve a certain number of problems daily or weekly.
-3. **Join a Community**: Engage with online communities or local coding clubs to stay motivated and get support.
-4. **Participate in Contests**: Regularly participate in coding contests to test your skills and track your progress.
-5. **Review and Learn**: After each contest, review the solutions and learn from mistakes. Understanding where you went wrong is crucial.
-6. **Balanced Learning**: Mix problem-solving with learning new algorithms and data structures.
-7. **Stay Inspired**: Follow competitive programming champions and watch their problem-solving techniques.
 
 ### Key Topics in Competitive Programming (CP)
 
