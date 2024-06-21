@@ -169,39 +169,81 @@ Computer graphics refers to the imathat are generated using a computer. This can
 
 ## Basic Concepts in Computer Graphics
 
-| Author              | Article                                                                                                                                      | Level    | Comments |
-| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| Computer Science    | [Introduction to Computer Graphics](https://www.cs.cornell.edu/courses/cs4620/2014fa/lectures/01introduction.pdf)                            | Beginner |          |
-| Michael Abrash      | [Graphics Programming Black Book](http://www.jagregory.com/abrash-black-book/)                                                               | Beginner |          |
-| Real-Time Rendering | [Transformations](http://www.realtimerendering.com/transformations.html)                                                                     | Beginner |          |
-| Scratchapixel       | [Rasterization: a Practical Implementation](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation) | Beginner |          |
+<table>
+    <thead>
+        <tr>
+            <th>Author</th>
+            <th>Article</th>
+            <th>Level</th>
+            <th>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Computer Science</td>
+            <td><a href="https://www.cs.cornell.edu/courses/cs4620/2014fa/lectures/01introduction.pdf">Introduction to Computer Graphics</a></td>
+            <td>Beginner</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Michael Abrash</td>
+            <td><a href="http://www.jagregory.com/abrash-black-book/">Graphics Programming Black Book</a></td>
+            <td>Beginner</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Real-Time Rendering</td>
+            <td><a href="http://www.realtimerendering.com/transformations.html">Transformations</a></td>
+            <td>Beginner</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Scratchapixel</td>
+            <td><a href="https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation">Rasterization: a Practical Implementation</a></td>
+            <td>Beginner</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ## Advanced Computer Graphics
 
-| Author               | Article                                                                                                                                                                   | Level    | Comments |
-| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------- |
-| Nvidia               | [Ray Tracing Gems](https://developer.nvidia.com/ray-tracing-gems)                                                                                                         | Advanced |          |
-| Real-Time Rendering  | [Global Illumination](http://www.realtimerendering.com/global_illumination.html)                                                                                          | Advanced |          |
-| Scratchapixel        | [Physically Based Rendering and The Principled BSDF](https://www.scratchapixel.com/lessons/physically-based-rendering/physically-based-rendering-and-the-principled-bsdf) | Advanced |          |
-| Tomas Akenine-Möller | [Real-Time Rendering 4th Edition](https://www.realtimerendering.com/)                                                                                                     | Advanced |          |
-
-## OpenGL and DirectX
-
-| Author         | Article                                                                         | Level    | Comments |
-| :------------- | :------------------------------------------------------------------------------ | -------- | -------- |
-| Joey de Vries  | [Learn OpenGL](https://learnopengl.com/)                                        | Beginner |          |
-| Microsoft      | [DirectX Documentation](https://docs.microsoft.com/en-us/windows/win32/directx) | Beginner |          |
-| Khronos Group  | [OpenGL Tutorial](https://www.khronos.org/opengl/wiki/Getting_Started)          | Beginner |          |
-| Anton Gerdelan | [OpenGL Book](https://antongerdelan.net/opengl/)                                | Beginner |          |
-
-## Unity and Unreal Engine
-
-| Author         | Article                                                                                                         | Level    | Comments |
-| :------------- | :-------------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| Unity          | [Unity Learn](https://learn.unity.com/)                                                                         | Beginner |          |
-| Unreal Engine  | [Unreal Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses)                             | Beginner |          |
-| Ray Wenderlich | [Unity Tutorials](https://www.raywenderlich.com/unity)                                                          | Beginner |          |
-| Unreal Engine  | [Blueprint Visual Scripting](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/index.html) | Beginner |          |
+<table>
+    <thead>
+        <tr>
+            <th>Author</th>
+            <th>Article</th>
+            <th>Level</th>
+            <th>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nvidia</td>
+            <td><a href="https://developer.nvidia.com/ray-tracing-gems">Ray Tracing Gems</a></td>
+            <td>Advanced</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Real-Time Rendering</td>
+            <td><a href="http://www.realtimerendering.com/global_illumination.html">Global Illumination</a></td>
+            <td>Advanced</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Scratchapixel</td>
+            <td><a href="https://www.scratchapixel.com/lessons/physically-based-rendering/physically-based-rendering-and-the-principled-bsdf">Physically Based Rendering and The Principled BSDF</a></td>
+            <td>Advanced</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Tomas Akenine-Möller</td>
+            <td><a href="https://www.realtimerendering.com/">Real-Time Rendering 4th Edition</a></td>
+            <td>Advanced</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ## Communities
 
@@ -209,19 +251,46 @@ Computer graphics refers to the imathat are generated using a computer. This can
 
 ### Reddit Communities
 
-| Resource                                                               | Description                                                                                                                                                                                                 |
-| :--------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [r/computergraphics](https://www.reddit.com/r/computergraphics/)       | The r/computergraphics subreddit is a community for computer graphics professionals, enthusiasts, and students to discuss and share news, insights, tools, and best practices related to computer graphics. |
-| [r/gamedev](https://www.reddit.com/r/gamedev/)                         | The r/gamedev subreddit is a community for game developers of all levels to discuss all aspects of game development, including computer graphics, game design, programming, and more.                       |
-| [r/GraphicsProgramming](https://www.reddit.com/r/GraphicsProgramming/) | The r/GraphicsProgramming subreddit is focused on the technical side of computer graphics, including algorithms, techniques, and code related to rendering, shaders, and other graphics programming topics. |
+<table width="100%">
+  <tr>
+    <th>Resource</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.reddit.com/r/computergraphics/">r/computergraphics</a></td>
+    <td>The r/computergraphics subreddit is a community for computer graphics professionals, enthusiasts, and students to discuss and share news, insights, tools, and best practices related to computer graphics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.reddit.com/r/gamedev/">r/gamedev</a></td>
+    <td>The r/gamedev subreddit is a community for game developers of all levels to discuss all aspects of game development, including computer graphics, game design, programming, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.reddit.com/r/GraphicsProgramming/">r/GraphicsProgramming</a></td>
+    <td>The r/GraphicsProgramming subreddit is focused on the technical side of computer graphics, including algorithms, techniques, and code related to rendering, shaders, and other graphics programming topics.</td>
+  </tr>
+</table>
 
 ### Other Communities
 
-| Resource                                                       | Description                                                                                                                                                           |
-| :------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [CGSociety](http://cgsociety.org/)                             | CGSociety is a community for digital artists and professionals working in the computer graphics industry, offering forums, galleries, and articles on various topics. |
-| [Polycount](https://polycount.com/)                            | Polycount is a community for game artists focused on 3D art, modeling, texturing, and game design, with forums, challenges, and resources for artists.                |
-| [Real-Time Rendering Community](http://realtimerendering.com/) | The Real-Time Rendering Community offers resources and discussions on real-time rendering techniques, tools, and technologies.                                        |
+<table width="100%">
+  <tr>
+    <th>Resource</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="http://cgsociety.org/">CGSociety</a></td>
+    <td>CGSociety is a community for digital artists and professionals working in the computer graphics industry, offering forums, galleries, and articles on various topics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://polycount.com/">Polycount</a></td>
+    <td>Polycount is a community for game artists focused on 3D art, modeling, texturing, and game design, with forums, challenges, and resources for artists.</td>
+  </tr>
+  <tr>
+    <td><a href="http://realtimerendering.com/">Real-Time Rendering Community</a></td>
+    <td>The Real-Time Rendering Community offers resources and discussions on real-time rendering techniques, tools, and technologies.</td>
+  </tr>
+</table>
+                                       |
 
 ## GitHub Repositories
 
