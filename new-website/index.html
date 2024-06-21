@@ -48,12 +48,12 @@
 
 
     <div
-        class="w-full navbr text-gray-800 bg-transparent dark:text-slate-200 dark-mode:text-gray-200 dark-mode:bg-gray-800">
+        class="w-full text-gray-800 bg-transparent navbr dark:text-slate-200 dark-mode:text-gray-200 dark-mode:bg-gray-800">
         <div x-data="{ open: true }"
             class="flex flex-col items-center justify-between max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
-            <div class="flex flex-row items-center justify-between p-4">
+            <div class="flex flex-row items-center justify-between gap-20 p-4" id="topbar">
                 <a style="font-family: 'Righteous'; text-transform: none;" href="#"
-                    class="text-lg font-semibold tracking-widest text-gray-900 dark:text-slate-200 uppercase rounded-lg dark-mode:text-white focus:outline-none focus:shadow-outline">ResourceHub</a>
+                    class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark:text-slate-200 dark-mode:text-white focus:outline-none focus:shadow-outline">ResourceHub</a>
                 <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open">
                     <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
                         <path x-show="!open" fill-rule="evenodd"
@@ -78,12 +78,29 @@
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
         href="#organization">Organization</a>
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
-        href="#faq">FAQ</a>
+        href="#faq">FAQ</a
+                class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-center md:flex-row">
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                    href="https://discord.com/channels/1243120700626309131/1243121246217175081" target="_blank"
+                    aria-label="Discord">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path fill="black"
+                            d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2763-3.68-.2763-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561 19.911 19.911 0 004.967 2.5225.0777.0777 0 00.0842-.0276c.3841-.5234.7217-1.0782 1.0062-1.657a.076.076 0 00-.0416-.1057 13.1141 13.1141 0 01-1.872-1.0279.077.077 0 01-.0076-.1257c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.0991.246.1981.3728.2924a.077.077 0 01-.0066.1256 12.7578 12.7578 0 01-1.873 1.0279.0766.0766 0 00-.0407.1067c.2845.5788.6221 1.1336 1.0062 1.657a.076.076 0 00.0842.0276 19.9183 19.9183 0 004.967-2.5225.077.077 0 00.0313-.0561c.5004-5.177-.8382-9.6739-3.5485-13.6607a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.955 2.4189-2.1568 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z" />
+                    </svg>
+                </a>
+
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                    href="https://github.com/jfmartinz/ResourceHub" target="_blank" aria-label="Github">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path fill="black"
+                            d="M12 0a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.1c-3.4.7-4.1-1.6-4.1-1.6-.5-1.2-1.3-1.6-1.3-1.6-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.3 1.8 1.3 1 .2 1.7.7 2 .9.2-.7.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-5.6 0-1.3.4-2.3 1.2-3.2-.1-.3-.5-1.4.1-3 0 0 1-.3 3.4 1.2a11.4 11.4 0 0 1 6.2 0c2.4-1.5 3.4-1.2 3.4-1.2.6 1.6.2 2.7.1 3 .8.9 1.2 1.9 1.2 3.2 0 4.3-2.8 5.3-5.5 5.6.4.4.7 1.1.7 2.1v3c0 .3.2.7.8.6A12 12 0 0 0 12 0Z" />
+                    </svg>
+                </a>
+                <input type="checkbox" id="slider" class="hidden slider" onclick="toggleDarkMode()">
+               
+
     <!-- Github and discord icons -->
-    <div class="icons">
-        <a href="https://discord.com/channels/1243120700626309131/1243121246217175081" class="icon-link"><i class="fa-brands fa-discord"></i></a>
-        <a href="https://github.com/jfmartinz/ResourceHub" class="icon-link"><i class="fa-brands fa-github"></i></a>
-    </div>    
+   
 </nav>
 
 <style>
@@ -98,11 +115,11 @@
         transform: scale(1.2);
     }
 </style>
-                <input type="checkbox" id="slider" class="slider hidden" onclick="toggleDarkMode()">
+                <input type="checkbox" id="slider" class="hidden slider" onclick="toggleDarkMode()">
                 <label for="slider"
-                    class="slider-label bg-gray-300 dark:bg-gray-700 w-16 h-8 flex items-center rounded-full p-1 cursor-pointer transition duration-500">
+                    class="flex items-center w-16 h-8 p-1 transition duration-500 bg-gray-300 rounded-full cursor-pointer slider-label dark:bg-gray-700">
                     <div
-                        class="slider-circle bg-white w-6 h-6 rounded-full shadow-md transform transition duration-500">
+                        class="w-6 h-6 transition duration-500 transform bg-white rounded-full shadow-md slider-circle">
                     </div>
                 </label>
 
@@ -121,71 +138,71 @@
         <div class="mt-36 items-center p-10 max-w-[60rem]" id="Home">
 
 
-            <h1 class=" text-xl text-center sm:text-2xl md:text-6xl lg:text-8xl font-bold mb-20 ">ResourceHub
+            <h1 class="mb-20 text-xl font-bold text-center sm:text-2xl md:text-6xl lg:text-8xl">ResourceHub
             </h1>
 
-            <p class=" mb-20 max-w-2xl dark:text-gray-400">ResourceHub is an open-source project that
+            <p class="max-w-2xl mb-20 dark:text-gray-400">ResourceHub is an open-source project that
                 serves as a
                 one-stop
                 repository of valuable
                 resources curated by the amazing contributors in the community</p>
 
-            <div class="space-x-4 mb-40 ">
+            <div class="flex flex-col mb-40 space-x-4 gap-35px md:justify-center md:flex-row">
                 <button
-                    class="roundbtn px-4 py-4 bg-gray-300  dark:text-white hover:bg-black dark:bg-gray-800    hover:text-white dark:hover:bg-white dark:hover:text-black " ><a 
+                    class="px-4 py-4 bg-gray-300 roundbtn dark:text-white hover:bg-black dark:bg-gray-800 hover:text-white dark:hover:bg-white dark:hover:text-black " ><a 
                     href="#resources"> Explore
                     Resources
                 </button>
                 <button
-                    class="px-4 py-4 rounded bg-gray-300 dark:text-white dark:bg-gray-800 hover:bg-black roundbtn hover:text-white dark:hover:bg-white dark:hover:text-black"><a
+                    class="px-4 py-4 bg-gray-300 rounded dark:text-white dark:bg-gray-800 hover:bg-black roundbtn hover:text-white dark:hover:bg-white dark:hover:text-black"><a
                         href="https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md" target="_blank"
                         >How
                         to Contribute</button>
                 <button
-                    class="px-4 py-4 rounded bg-gray-300 dark:text-white hover:bg-black hover:text-white dark:bg-gray-800 roundbtn  dark:hover:bg-white dark:hover:text-black"><a
+                    class="px-4 py-4 bg-gray-300 rounded dark:text-white hover:bg-black hover:text-white dark:bg-gray-800 roundbtn dark:hover:bg-white dark:hover:text-black"><a
                         href="https://github.com/jfmartinz/ResourceHub" target="_blank">View
                         on GitHub</button>
             </div>
-            <div class="mt-20 grid grid-cols-2 md:grid-cols-4 gap-5" id="resources">
-                <!-- <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div>
-                <div id="card1" class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "></div> -->
-                <!-- <div class="roundbtn1 px-4 py-2 bg-gray-300 dark:bg-gray-800 "><a
+            <div class="grid grid-cols-1 gap-5 mt-20 md:grid-cols-4" id="resources">
+                <!-- <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div>
+                <div id="card1" class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "></div> -->
+                <!-- <div class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800 "><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development" target="_blank">Web
                         Development</a></div>
-                <div class="px-4 roundbtn1 py-4  bg-gray-300 dark:bg-gray-800"><a
+                <div class="px-4 py-4 bg-gray-300 roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/App%20Development" target="_blank">App
                         Development</a></div>
-                <div class="px-4 py-4 roundbtn1 bg-gray-300 dark:bg-gray-800"><a
+                <div class="px-4 py-4 bg-gray-300 roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/DevOps" target="_blank">DevOps
                     </a> </div>
-                <div class="px-4 py-4 rounded bg-gray-300 roundbtn1 dark:bg-gray-800"><a
+                <div class="px-4 py-4 bg-gray-300 rounded roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database)"
                         target="_blank">Database</a></div>
-                <div class="px-4 py-2 rounded bg-gray-300 roundbtn1 dark:bg-gray-800"><a
+                <div class="px-4 py-2 bg-gray-300 rounded roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Programming%20Languages"
                         target="_blank">Programming Languages</a></div>
-                <div class="px-4 py-2  bg-gray-300 roundbtn1 dark:bg-gray-800"><a
+                <div class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/UI-UX%20Design" target="_blank">UI/UX
                         Design</a></div>
-                <div class="px-4 py-2 rounded bg-gray-300 roundbtn1 dark:bg-gray-800"><a
+                <div class="px-4 py-2 bg-gray-300 rounded roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Machine%20learning"
                         target="_blank">Machine Learning</a></div>
-                <div class="px-4 py-2 roundbtn1  bg-gray-300 dark:bg-gray-800"><a href="#Home" target="_blank">Web3</a>
+                <div class="px-4 py-2 bg-gray-300 roundbtn1 dark:bg-gray-800"><a href="#Home" target="_blank">Web3</a>
                 </div>
-                <div class="px-4 py-2 rounded bg-gray-300 roundbtn1 dark:bg-gray-800"><a
+                <div class="px-4 py-2 bg-gray-300 rounded roundbtn1 dark:bg-gray-800"><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Data%20Science" target="_blank">Data
                         Science</a> </div>
-                <div class="px-4 py-2 rounded roundbtn1 dark:bg-gray-800 bg-gray-300 "><a
+                <div class="px-4 py-2 bg-gray-300 rounded roundbtn1 dark:bg-gray-800 "><a
                         href="https://github.com/jfmartinz/ResourceHub/tree/main/Open%20Source%20Development"
                         target="_blank">Open Source Development</a></div>
             </div> -->
@@ -207,6 +224,8 @@
                 </p>
             </div>
             </div> 
+
+    <a href=""></a>
     <div class="container">
         <div class="content">
             <div class="title-container">
@@ -224,6 +243,43 @@
             <img id="org-logo" src="assets/GSSocLight.png" alt="GirlScript Summer of Code Logo">
         </div>
     </div>
+
+
+    <!-- FAQ Section -->
+    <div  id="faq" class="faq-container">
+        <div class="title-container">
+            <i class="fas fa-link link-icon"></i>
+            <div class="title dark:text-white" id="faq-title">Frequently Asked Questions (FAQs)</div>
+        </div>
+        <div class="faq-items">
+            <div class="faq-item">
+                <div class="faq-question">What is ResourceHub?</div>
+                <div class="faq-answer">ResourceHub is an open-source project that serves as a one-stop repository of
+                    valuable resources curated by the amazing contributors in the community. You can contribute with helpful
+                    resources you've discovered on the internet and share them with us!</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">How can I contribute to ResourceHub?</div>
+                <div class="faq-answer">Read CONTRIBUTING.md and create your fork of this repository before submitting any
+                    contributions. Expand the following section for a quick guide on how to create a fork:
+    
+                    How to Fork this Repo and Submit a Pull Request (PR)
+                    Alternatively use GitHub Desktop</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Is ResourceHub free to use?</div>
+                <div class="faq-answer">Yes, ResourceHub is completely free to use for everyone.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">What is category and section?</div>
+                <div class="faq-answer">Category: In ResourceHub, categories refer to broad classifications of resources
+                    based on their topic or domain, such as Web Development, UI & UX Design, Data Science, etc.
+                    Section: Sections further categorize resources within a specific category. An example of a section in
+                    web development is Tools, Animations, and many more. Take a look</div>
+            </div>
+        </div>
+    </div>
+
      <!-- License section -->
     <div class="license-container">
         <div class="license-content">
@@ -239,7 +295,7 @@
     </div>
     <!-- Footer Section -->
 <div class="footer-container">
-    <div class="footer-content">
+    <div class="flex flex-col footer-content md:flex-row">
         <div class="footer-left">
             <div class="logo-and-title">
                 <img id="logo-image" src="assets/footerLight.png" alt="ResourceHub Image">
@@ -265,11 +321,11 @@
         </div>
         <div class="footer-right">
             <ul class="footer-links">
-                <li><a href="https://github.com/jfmartinz/ResourceHub" target="_blank">View on GitHub</a></li>
-                <li><a href="https://github.com/jfmartinz/ResourceHub/stargazers" target="_blank">Star on GitHub</a></li>
-                <li><a href="https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md" target="_blank">How to Contribute</a></li>
-                <li><a href="https://github.com/jfmartinz/ResourceHub/edit/main/README.md" target="_blank">Edit on GitHub</a></li>
-                <li><a href="feedback.html">Feedback</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub" target="_blank" class="hov">View on GitHub</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub/stargazers" target="_blank" class="hov">Star on GitHub</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md" target="_blank" class="hov">How to Contribute</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub/edit/main/README.md" target="_blank" class="hov">Edit on GitHub</a></li>
+                <li><a href="feedback.html" class="hov">Feedback</a></li>
             </ul>
         </div>
     </div>
@@ -320,7 +376,21 @@
             });
             checkButtonVisibility();
         });
-        
+
+        document.querySelectorAll('.faq-question').forEach(item => {
+            item.addEventListener('click', (event) => {
+                event.preventDefault();
+                item.classList.toggle('open');
+                const answer = item.nextElementSibling;
+                if (answer.style.display === 'block') {
+                answer.style.display = 'none';
+                } else {
+                answer.style.display = 'block';
+                }
+            });
+        });
+
+
           </script>
 </body>
 

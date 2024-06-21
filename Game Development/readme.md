@@ -10,6 +10,7 @@ Game development involves the creation of video games, encompassing everything f
 - [Books](#books)
 - [YouTube Channels](#youtube-channels)
 - [GitHub Repositories](#github-repositories)
+- [Interview](#interview)
 
 ### Roadmap
 
@@ -252,4 +253,23 @@ Game development involves the creation of video games, encompassing everything f
     <td><a href="https://github.com/Unity-Technologies/UnityCsReference">Unity Tech Demos</a></td>
     <td>Unity Technologies' repository of tech demos and sample projects.</td>
   </tr>
+</table>
+
+### Interview
+> Here are some resources for Interview Preparation.
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://career.guru99.com/top-25-interview-questions-for-game-developer/">Top 25 game developer interview questions.</a></td>
+    <td>Curated list of game development  interview questions with answer.</td>
+  </tr>
+  <tr>
+    <td><a href="https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/game-developer/interview-questions">Game Developer Interview Preparation guide.</a></td>
+    <td>This article by linkedin business solution provides interview preparation guide for game development and questions which were frequently asked in interview.</td>
+  </tr>
+  
 </table>

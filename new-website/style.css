@@ -1098,8 +1098,23 @@ body{
   font-weight: bold;
 }
 
-.dark svg path{
+.dark #back-to-top{
+  fill: black ;
+}
+
+.dark a svg path{
   fill: white ;
+}
+
+
+.dark .faq-question  {
+  background-color: #31332f;
+  color: white;
+}
+
+.dark .faq-answer  {
+  background-color: #5f615f;
+  color: white;
 }
 
 /* Add these styles to the end of your existing style.css file */
@@ -1156,6 +1171,12 @@ body{
   height: auto;
 }
 @media (max-width: 768px) {
+  #topbar{
+    gap: 240px;
+  }
+  center div {
+    gap: 20px;
+  }
   .container {
       flex-direction: column;
       align-items: flex-start;
@@ -1171,6 +1192,61 @@ body{
       height: auto;
   }
 }
+
+.faq-container {
+  width: 90%;
+  max-width: 1000px; /* Adjusted for wider width */
+  margin: 0 auto;
+}
+
+.faq-items {
+  width: 100%;
+}
+
+.faq-item {
+  background: #e0e0e0;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.faq-answer {
+  display: none; /* Initially hide answers */
+}
+
+.faq-answer.visible {
+  display: block; /* Show answers when .visible class is applied */
+}
+
+
+.faq-question {
+  font-family: "righteous";
+  padding: 15px;
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.faq-answer {
+  display: none;
+  padding: 10px;
+  font-size: 16px;
+  background: #f9f9f9;
+  border-top: 1px solid #ddd;
+  border-radius: 0 0 5px 5px;
+}
+
+.faq-question::after {
+  content: '+';
+  font-size: 24px;
+}
+
+.faq-question.open::after {
+  content: '-';
+}
+
+
 .license-container {
   display: flex;
   justify-content: space-between;
@@ -1325,35 +1401,7 @@ body{
   color: black;
   font-weight: bold;
 }
-/* Back-to-top */
-footer {
-  position: relative;
-  padding: 50px 0;
-}
 
-#back-to-top-container {
-  position: fixed;
-  bottom: 30px;
-  right: 30px; 
-  cursor: pointer;
-  z-index: 1000;
-}
-
-.circle1 {
-  background-color: #fff;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  transition: background-color 0.3s;
-}
-
-#back-to-top {
-  width: 40px; 
-  height: 40px; 
-  fill:  currentColor;
-  transition: fill 0.3s;
-}
-#back-to-top:hover{
-  fill: rgba(58, 55, 55);
+.hov:hover{
+  color: rgba(58, 113, 224, 0.755);
 }
