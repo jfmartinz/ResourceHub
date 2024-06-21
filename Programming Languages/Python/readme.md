@@ -846,6 +846,10 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td><a href="https://www.geeksforgeeks.org/how-to-create-a-countdown-timer-using-python/">Countdown Timer</a></td>
     <td>The code will take input from the user regarding the length of the countdown in seconds. After that, a countdown will begin on the screen of the format ‘minutes: seconds’. </td>
   </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/watch?v=ORsJn-71__0">Text-based Adventure Game</a></td>
+  <td>A simple text-based adventure game involves players navigating through a series of choices to reach different outcomes .This project makes use of conditional statements.</td>
+  </tr>
 
 </table>
 
