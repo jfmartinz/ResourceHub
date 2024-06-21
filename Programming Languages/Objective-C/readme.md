@@ -1,4 +1,4 @@
-# Objective-C
+# Objective-C 👩‍💻 
 Objective-C is an object-oriented programming language that extends the C language with Smalltalk-style messaging, allowing for dynamic runtime capabilities and flexible, powerful coding paradigms. It was the primary language used by Apple for iOS and macOS development before Swift's introduction in 2014. Key features include categories for adding methods to existing classes, protocols for defining methods that can be implemented by any class, and properties for simplifying getter and setter methods. Despite being largely replaced by Swift, Objective-C remains important for understanding and maintaining legacy Apple software.
 
 ## Table of Contents
@@ -15,12 +15,7 @@ Objective-C is an object-oriented programming language that extends the C langua
 - [Tools](#tools)<br>
 - [Advanced Topics](#advanced-topics)<br>
 - [Projects](#projects)
-  - [Beginner Level Projects](#beginner-level-projects)
-  - [Intermediate Level Projects](#intermediate-level-projects)
-  - [Advance Level Projects](#advance-level-projects)
 - [Courses](#courses)
-   - [Free Courses](#free-courses)
-   - [Paid Courses](#paid-courses)
 - [Youtube](#youtube)<br>
 - [Conclusion](#conclusion)
 
@@ -270,3 +265,95 @@ Helps beginners understand fundamental concepts and advanced users explore new t
     <td>This article deals with the concept of serialization.</td>
   </tr>
 </table>
+
+## Projects
+> Here are some great ideas for projects in Objective-C language.
+
+   <table>
+        <tr>
+            <th>Resource Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+           <td><a href="https://www.youtube.com/watch?v=ShInM9K7GbI" >Calculator App</a></td>
+            <td>A basic calculator that can perform simple arithmetic operations like addition, subtraction, multiplication, and division.</td>
+        </tr>
+        <tr>
+           <td><a href="https://www.youtube.com/watch?v=X2W9MPjrIbk" >Weather App</a></td>
+            <td>A weather application that fetches and displays the current weather for a user’s location.</td>        
+        </tr>
+        <tr>
+            <td><a href="https://www.youtube.com/watch?v=6-891CSz6v0&list=PLVE5czp3KIIzdCllHLYrPt7zEH1BZ4qNi" >Recipe Book</a></td>
+            <td>An app where users can save and organize their favorite recipes.</td> 
+        </tr>
+        <tr>
+           <td><a href="https://www.youtube.com/watch?v=mYDWk3Oq3tg" >Music Player App</a></td>
+            <td>A music player app that can play local music files, create playlists, and manage music playback.</td>        
+        </tr>
+    </table>
+
+## Courses
+> Here are some free and paid courses you may consider:
+
+<table>
+  <tr>
+    <th>Course </th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html">Apple Developer Objective-C</a></td>
+    <td>A powerful programming language developed by Apple for iOS, macOS, and more.</td> 
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/learning-objective-c-programming/?couponCode=IND21PM">Udemy - Learning Objective-C Programming</a></td>
+    <td>This course is aimed to learn how to create code with the C-based programming language at the heart of Mac and iOS applications.</td> 
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/learn/objective-c?">Coursera - Foundations of Objective-C App Development</a></td>
+    <td>This course deals with the introduction to the Objective-C programming language.  This will prepare you for more extensive iOS app development and build a foundation for advanced iOS development topics.</td> 
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/ios-12-objective-c/?couponCode=IND21PM">Udemy - iOS 12 & Objective-C - Complete Developer Course</a></td>
+    <td>A Complete iOS 12 and Xcode 10 Course with Objective-C</td> 
+  </tr>
+  <tr>
+    <td><a href="https://www.udacity.com/course/objective-c-for-swift-developers--ud1009">Udacity- Objective-C for Swift Developers</a></td>
+    <td>Learn the distinguishing language features of Objective-C. Practice Objective-C syntax by writing classes, and writing and calling methods.</td> 
+  </tr>
+</table>
+
+## Youtube
+> Curates a list of YouTube channels dedicated to teaching Swift programming.
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/c/letsbuildthatapp">Lets Build That App</a></td>
+   <td>This channel is completely dedicated to Swift and Objective-C programming.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/c/iosacademy">ios Academy</a></td>
+   <td>This channel is dedicated to Swift programming,Objective-C and Software Engineering.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/c/SeanAllen">Sean Allen</a></td>
+   <td>Level up your iOS development skills.
+</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.youtube.com/user/CodeWithChris">CodeWithChris</a></td>
+   <td>Learn how to make an app with Swift, SwiftUI, Objective-C and Xcode.
+</td>
+ </tr>
+</table>
+
+## Conclusion
+
+Objective-C programming, once the primary language for iOS and macOS development, remains a powerful and versatile language despite being largely supplanted by Swift. Its deep integration with Apple's frameworks and its unique features, such as dynamic runtime capabilities, make it a valuable skill for maintaining and understanding legacy codebases. Learning Objective-C equips developers with a robust foundation in object-oriented programming and prepares them to work effectively within the Apple ecosystem. As such, mastering Objective-C not only enhances your coding proficiency but also broadens your ability to contribute to a wide range of iOS and macOS applications.
+
+Remember to practice regularly, engage with the community, and explore real-world projects to solidify your skills and become proficient in Objective-C programming.
+
+Happy coding!
