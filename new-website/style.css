@@ -1432,6 +1432,57 @@ body{
   color: black;
   font-weight: bold;
 }
+footer {
+  position: relative;
+  padding: 50px 0;
+}
+@media (max-width: 670px) {
+  .footer-content {
+      flex-direction: column;
+      text-align: center;
+  }
+
+  .footer-left, .footer-right {
+      min-width: 100%;
+  }
+
+  .footer-right {
+      margin-top: 20px;
+  }
+
+  .footer-icons {
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      gap: 20px;
+  }
+
+  .footer-links {
+      align-items: center;
+      text-align: center;
+      padding: 0px;
+  }
+}
+
+@media (max-width: 400px) {
+
+  .footer-description {
+      text-align: center;
+  }
+
+  .footer-links {
+      align-items: center;
+      text-align: start;
+  }
+}
+/* Back-to-top */
+#back-to-top-container {
+  position: fixed;
+  bottom: 30px;
+  right: 30px; 
+  cursor: pointer;
+  z-index: 1000;
+}
 
 .hov:hover{
   color: rgba(58, 113, 224, 0.755);
