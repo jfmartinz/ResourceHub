@@ -1279,16 +1279,16 @@ body{
 
 
 .license-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  display: grid;
+  justify-content: baseline;
   width: 90%;
   max-width: 1000px;
   background-color: #ffffff;
   padding: 20px;
-  box-sizing: border-box;
+  box-sizing: content-box;
   margin: 40px auto;
 }
+
 
 .license-content {
   flex: 1;
