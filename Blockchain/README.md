@@ -126,7 +126,7 @@ These are some of the books that can be used to learn Blockchain.
    <th>Description</th>
  </tr>
  <tr>
-   <td><a href="https://www.google.co.in/books/edition/Mastering_Blockchain/Ql1iDwAAQBAJ?hl=en">Mastering Blockchain</a></td>
+   <td><a href="https://www.amazon.in/Mastering-Blockchain-distributed-consensus-cryptocurrencies/dp/1839213191">Mastering Blockchain</a></td>
    <td>The book covers the technical foundations of blockchain, blockchain programming, and real-world applications.</td>
  </tr>
  <tr>
