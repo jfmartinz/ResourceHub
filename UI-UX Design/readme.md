@@ -65,8 +65,14 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
         <th>Resource Name</th>
         <th>Description</th>
       </tr>
-      <th ><a href="https://www.geeksforgeeks.org/how-to-become-a-ui-ux-designer-a-complete-roadmap/">UI/UX </a></th>
+      <tr>
+        <th ><a href="https://www.geeksforgeeks.org/how-to-become-a-ui-ux-designer-a-complete-roadmap/">UI/UX </a></th>
         <th>This is the Roadmap for UI/UX</th>
+      </tr>
+      <tr>
+        <th ><a href="https://roadmap.sh/ux-design">UX DESIGN</a></th>
+        <th>Step by step guide to becoming a UX Designer in 2024</th>
+      </tr>
  
   </table>
 
