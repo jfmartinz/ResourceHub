@@ -1124,6 +1124,13 @@ body{
   background-color: #5f615f;
   color: white;
 }
+.dark .slider + .slider-label .slider-circle::before{
+  content: '🌙' !important;
+ 
+}
+.dark .slider-circle{
+  transform: translateX(30px) !important;
+}
 
 /* Add these styles to the end of your existing style.css file */
 
