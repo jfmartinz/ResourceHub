@@ -6,6 +6,37 @@
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
 */
+
+/* Loading Spinner Styles */
+.loading-spinner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.spinner {
+  border: 8px solid #f3f3f3; /* Light grey */
+  border-top: 8px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
+
 ::-webkit-scrollbar {
   width: 8.5px;
 }
@@ -1416,7 +1447,85 @@ body{
   color: black;
   font-weight: bold;
 }
+footer {
+  position: relative;
+  padding: 50px 0;
+}
+@media (max-width: 670px) {
+  .footer-content {
+      flex-direction: column;
+      text-align: center;
+  }
+
+  .footer-left, .footer-right {
+      min-width: 100%;
+  }
+
+  .footer-right {
+      margin-top: 20px;
+  }
+
+  .footer-icons {
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      gap: 20px;
+  }
+
+  .footer-links {
+      align-items: center;
+      text-align: center;
+      padding: 0px;
+  }
+}
+
+@media (max-width: 400px) {
+
+  .footer-description {
+      text-align: center;
+  }
+
+  .footer-links {
+      align-items: center;
+      text-align: start;
+  }
+}
+/* Back-to-top */
+#back-to-top-container {
+  position: fixed;
+  bottom: 30px;
+  right: 30px; 
+  cursor: pointer;
+  z-index: 1000;
+}
 
 .hov:hover{
   color: rgba(58, 113, 224, 0.755);
+}
+
+#back-to-top-container {
+  position: fixed;
+  bottom: 30px;
+  right: 30px; 
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.circle1 {
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s;
+}
+
+#back-to-top {
+  width: 40px; 
+  height: 40px; 
+  fill:  currentColor;
+  transition: fill 0.3s;
+}
+#back-to-top:hover{
+  fill: rgba(58, 55, 55);
 }
