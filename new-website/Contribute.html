@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contributing Guidelines</title>
+    <link rel="icon" href="assets/logo.png" />
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+        background-color: #fff;
+      }
+
+      header {
+        color: #fff;
+        padding: 10px 20px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      header img {
+        margin-right: 10px;
+        width: 50px;
+        height: 50px;
+      }
+      header h1 a {
+        color: black;
+        text-decoration: none;
+      }
+      header h1 a:hover {
+        text-decoration: none;
+      }
+
+      main {
+        max-width: 800px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: auto;
+        margin-top: 2px;
+        background: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+      }
+
+      section {
+        margin-bottom: 2em;
+      }
+
+      h1,
+      h2,
+      h3 {
+        color: #333;
+      }
+
+      p,
+      ul,
+      ol,
+      pre,
+      code {
+        color: #555;
+      }
+
+      a {
+        color: #007acc;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      ul {
+        list-style: disc;
+        margin-left: 2em;
+      }
+
+      pre {
+        background: #f4f4f4;
+        padding: 1em;
+        overflow: auto;
+        border: 1px solid #ddd;
+      }
+
+      code {
+        background: #f4f4f4;
+        padding: 0.2em 0.4em;
+        border-radius: 3px;
+      }
+      .footer-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;
+        max-width: 1000px;
+        background-color: #ffffff;
+        padding: 20px;
+        box-sizing: border-box;
+        margin: 40px auto;
+      }
+
+      .footer-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        width: 100%;
+      }
+
+      .footer-left,
+      .footer-right {
+        flex: 1;
+        max-width: 600px;
+        padding-right: 20px;
+        box-sizing: border-box;
+      }
+
+      .logo-and-title {
+        display: flex;
+        align-items: center; /* Align items vertically */
+      }
+
+      .logo-and-title img {
+        width: 50px; /* Adjust the width as needed */
+        height: auto; /* Maintain aspect ratio */
+        margin-right: 10px; /* Adjust the margin as needed */
+        margin-top: -15px;
+      }
+
+      .footer-right {
+        margin-top: 6%;
+      }
+
+      .footer-title {
+        font-size: 2em;
+        margin-bottom: 20px;
+      }
+
+      .footer-description {
+        font-size: 1em;
+        line-height: 1.5;
+        color: #333333;
+        margin-bottom: 20px;
+      }
+
+      .footer-icons {
+        display: flex;
+        align-items: center; /* Align items vertically in the center */
+      }
+
+      .footer-icons a {
+        margin-right: 10px;
+        color: black;
+      }
+
+      .footer-links {
+        list-style: none;
+        padding: 0;
+        padding-left: 100px; /* Add right padding to move the links towards the right */
+      }
+
+      .footer-links li {
+        margin-bottom: 10px;
+        position: relative; /* To position the pseudo-element */
+      }
+
+      .footer-links a {
+        color: black;
+        text-decoration: underline;
+        font-size: 1em;
+        padding-left: 30px; /* Increased padding to make space for the larger arrow */
+        position: relative; /* Position relative for absolute positioning of arrow */
+      }
+
+      .footer-links a::before {
+        content: "→"; /* Unicode for right arrow */
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%); /* Center the arrow vertically */
+        color: black;
+        font-size: 1.5em; /* Increase the font size to make the arrow larger */
+        height: 1.5em; /* Set the height of the arrow */
+        width: 1.5em; /* Set the width of the arrow */
+      }
+
+      .footer-bottom {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 0.875em;
+        width: 100%;
+      }
+
+      .footer-bottom a {
+        color: black;
+        font-weight: bold;
+      }
+      footer {
+        position: relative;
+        padding: 50px 0;
+      }
+      @media (max-width: 670px) {
+        .footer-content {
+          flex-direction: column;
+          text-align: center;
+        }
+
+        .footer-left,
+        .footer-right {
+          min-width: 100%;
+        }
+
+        .footer-right {
+          margin-top: 20px;
+        }
+
+        .footer-icons {
+          display: flex;
+          justify-content: center;
+          width: 100%;
+          gap: 20px;
+        }
+
+        .footer-links {
+          align-items: center;
+          text-align: center;
+          padding: 0px;
+        }
+      }
+
+      @media (max-width: 400px) {
+        .footer-description {
+          text-align: center;
+        }
+
+        .footer-links {
+          align-items: center;
+          text-align: start;
+        }
+      }
+      /* Back-to-top */
+      #back-to-top-container {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        cursor: pointer;
+        z-index: 1000;
+      }
+
+      .hov:hover {
+        color: rgba(58, 113, 224, 0.755);
+      }
+
+      #back-to-top-container {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        cursor: pointer;
+        z-index: 1000;
+      }
+
+      .circle1 {
+        background-color: #fff;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: background-color 0.3s;
+      }
+
+      #back-to-top {
+        width: 40px;
+        height: 40px;
+        fill: currentColor;
+        transition: fill 0.3s;
+      }
+      #back-to-top:hover {
+        fill: rgba(58, 55, 55);
+      }
+      #progressBar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 0%;
+        height: 7px;
+        background-color: #288cff;
+        z-index: 99;
+        border-radius: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Progress Bar -->
+    <div id="progressBar"></div>
+    <script>
+      window.onscroll = function () {
+        var winScroll =
+          document.body.scrollTop || document.documentElement.scrollTop;
+        var height =
+          document.documentElement.scrollHeight -
+          document.documentElement.clientHeight;
+        var scrolled = (winScroll / height) * 100;
+        document.getElementById("progressBar").style.width = scrolled + "%";
+      };
+    </script>
+    <header>
+      <a href="index.html">
+        <img
+          id="logo-image"
+          src="assets/footerLight.png"
+          alt="ResourceHub Image"
+      /></a>
+      <h1><a href="index.html">ResourceHub </a>- How to Contribute</h1>
+    </header>
+    <main>
+      <section>
+        <h2>Welcome!</h2>
+        <p>
+          We're excited that you're interested in contributing to our
+          open-source project. Whether you're new to open source or an
+          experienced developer, we want your contributions to be smooth and
+          enjoyable. Below, you'll find some guidelines and tips to help you get
+          started.
+        </p>
+        <p>
+          Please adhere to and review our
+          <a
+            href="https://github.com/jfmartinz/ResourceHub/blob/main/CODE_OF_CONDUCT.md"
+            target="_blank"
+            >Code Of Conduct</a
+          >.
+        </p>
+      </section>
+
+      <section>
+        <h2>Important Rules</h2>
+        <ul>
+          <li>
+            <strong>Relevance:</strong> Ensure that the resource you're adding
+            aligns with the appropriate category. Web development resources
+            belong in the web development category, UI/UX design resources in
+            the UI/UX design category, and so forth. Additionally, ensure that
+            your resource aligns with the specific section of the category. For
+            example, if you have a resource named
+            <a href="https://animejs.com/" target="_blank">anime.js</a>, it
+            should be placed in the
+            <a
+              href="https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development"
+              target="_blank"
+              >web development</a
+            >
+            category under the
+            <a
+              href="https://github.com/jfmartinz/ResourceHub/tree/main/Web%20Development#animations"
+              target="_blank"
+              >animation</a
+            >
+            section. This precision ensures that users can easily locate and
+            benefit from the resources in their intended context.
+          </li>
+          <li>
+            <strong>Use the PR and Issue Template:</strong> When creating a PR
+            or Issue, please follow the specified template, it will help me to
+            review your Issue or PR more efficiently.
+          </li>
+          <li>
+            <strong>Category:</strong> refers to topics such as Web Development,
+            Web3, or UI/UX Design.
+          </li>
+          <li>
+            <strong>Section:</strong> refers to a specific part within a
+            category. For example, in the Database category, we have a section
+            called
+            <a
+              href="https://github.com/jfmartinz/ResourceHub/tree/main/DBMS%20(Database)#challenges"
+              target="_blank"
+              >Challenges</a
+            >.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>How to Add a Resource</h2>
+        <p>
+          <strong>URL Format:</strong> When adding a resource, follow this
+          format:
+        </p>
+        <pre><code>&lt;a href="URL_here"&gt;Resource Name&lt;/a&gt;</code></pre>
+        <p>Example:</p>
+        <pre><code>
+&lt;table width="100%"&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Resource Name&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;a href="URL HERE"&gt;RESOURCE NAME&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;RESOURCE DESCRIPTION&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+            </code></pre>
+        <p>
+          Note: Replace "URL_here" with the actual resource URL and provide a
+          brief description.
+        </p>
+        <p>
+          By following these rules, you will help maintain consistency and
+          clarity in our repository.
+        </p>
+      </section>
+
+      <section>
+        <h2>How to Contribute</h2>
+        <p>
+          There are many ways to contribute, and you don't need to be a coding
+          wizard to get involved. Here are some beginner-friendly ways to
+          contribute:
+        </p>
+        <h3>Share Your Ideas</h3>
+        <p>
+          We value your input, whether it's proposing a new section to a
+          category, suggesting additional categories, or sharing any ideas for
+          the project's enhancement.
+        </p>
+        <p>Here's how you can contribute your ideas:</p>
+        <ul>
+          <li>
+            <strong>Direct Message:</strong> Feel free to reach out to me
+            personally. You can connect with me on
+            <a href="https://www.linkedin.com/in/jfmartinz/" target="_blank"
+              >LinkedIn</a
+            >
+            or reach out via
+            <a href="https://twitter.com/jfmartinz" target="_blank">Twitter</a>.
+          </li>
+        </ul>
+
+        <h3>Add Valuable Resources</h3>
+        <p>
+          If you come across a resource that you believe would benefit others,
+          we encourage you to share it with us.
+        </p>
+        <p>Here's how you can contribute valuable resources:</p>
+        <ul>
+          <li>
+            Review the
+            <a
+              href="https://github.com/jfmartinz/ResourceHub/edit/main/CONTRIBUTING.md#important-rules"
+              target="_blank"
+              >Rules</a
+            >
+            for Adding Resources: Carefully read and understand the guidelines
+            on how to add a resource, the format used for adding new resources,
+            and more.
+          </li>
+          <li>Ensure that you followed the specified issue template</li>
+        </ul>
+
+        <h3>Grammatical Errors</h3>
+        <p>
+          Help us maintain clean and error-free content by fixing typos or
+          grammar issues. Your attention to detail ensures a seamless reading
+          experience for everyone involved.
+        </p>
+
+        <h3>Enhance Documentation</h3>
+        <p>
+          Improving our project documentation is crucial for creating a
+          user-friendly experience. If you have ideas on how to enhance the
+          current documentation, please share them.
+        </p>
+
+        <h3>Report Outdated or Broken Links</h3>
+        <p>
+          Help us maintain the reliability of our resources by reporting any
+          broken links or outdated information. Include details on the category
+          or location where you found the issue. This will help us swiftly
+          address and update the information.
+        </p>
+
+        <h3>Others</h3>
+        <p>Here are other ways you can contribute to ResourceHub:</p>
+        <ul>
+          <li>Adding new sections within a category.</li>
+          <li>
+            Removing or relocating resources that are not relevant to the
+            current section or category.
+          </li>
+          <li>
+            Enhancing categories through formatting, adding new resources, and
+            more.
+          </li>
+          <li>
+            Any other contributions you can think of—just send a personal
+            message so we can discuss it.
+          </li>
+        </ul>
+        <p>
+          Thank you for considering contributing to ResourceHub! Your
+          contributions play a crucial role in making this project a valuable
+          resource for the web development community. 🌐✨
+        </p>
+        <p>Happy contributing! 🚀</p>
+      </section>
+    </main>
+    <!-- Footer Section -->
+    <div class="footer-container">
+      <div class="flex flex-col footer-content md:flex-row">
+        <div class="footer-left">
+          <div class="logo-and-title">
+            <img
+              id="logo-image"
+              src="assets/footerLight.png"
+              alt="ResourceHub Image"
+            />
+            <h2 class="footer-title">ResourceHub</h2>
+          </div>
+          <p class="footer-description">
+            ResourceHub is an open-source project that serves as a one-stop
+            repository of valuable resources curated by the amazing contributors
+            in the community
+          </p>
+          <div class="footer-icons">
+            <a
+              href="https://github.com/jfmartinz/ResourceHub"
+              target="_blank"
+              aria-label="Github"
+            >
+              <svg
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  fill="black"
+                  d="M12 0a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.1c-3.4.7-4.1-1.6-4.1-1.6-.5-1.2-1.3-1.6-1.3-1.6-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.3 1.8 1.3 1 .2 1.7.7 2 .9.2-.7.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-5.6 0-1.3.4-2.3 1.2-3.2-.1-.3-.5-1.4.1-3 0 0 1-.3 3.4 1.2a11.4 11.4 0 0 1 6.2 0c2.4-1.5 3.4-1.2 3.4-1.2.6 1.6.2 2.7.1 3 .8.9 1.2 1.9 1.2 3.2 0 4.3-2.8 5.3-5.5 5.6.4.4.7 1.1.7 2.1v3c0 .3.2.7.8.6A12 12 0 0 0 12 0Z"
+                />
+              </svg>
+            </a>
+            <a
+              href="https://discord.com/channels/1243120700626309131/1243121246217175081"
+              target="_blank"
+              aria-label="Discord"
+            >
+              <svg
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  fill="black"
+                  d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2763-3.68-.2763-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561 19.911 19.911 0 004.967 2.5225.0777.0777 0 00.0842-.0276c.3841-.5234.7217-1.0782 1.0062-1.657a.076.0766 0 00-.0416-.1057 13.1141 13.1141 0 01-1.872-1.0279.077.077 0 01-.0076-.1257c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.0991.246.1981.3728.2924a.077.077 0 01-.0066.1256 12.7578 12.7578 0 01-1.873 1.0279.0766.0766 0 00-.0407.1067c.2845.5788.6221 1.1336 1.0062 1.657a.076.076 0 00.0842.0276 19.9183 19.9183 0 004.967-2.5225.077.077 0 00.0313-.0561c.5004-5.177-.8382-9.6739-3.5485-13.6607a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.955 2.4189-2.1568 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"
+                />
+              </svg>
+            </a>
+          </div>
+        </div>
+        <div class="footer-right">
+          <ul class="footer-links">
+            <li>
+              <a
+                href="https://github.com/jfmartinz/ResourceHub"
+                target="_blank"
+                class="hov"
+                >View on GitHub</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://github.com/jfmartinz/ResourceHub/stargazers"
+                target="_blank"
+                class="hov"
+                >Star on GitHub</a
+              >
+            </li>
+            <li><a href="Contribute.html" class="hov">How to Contribute</a></li>
+            <li>
+              <a
+                href="https://github.com/jfmartinz/ResourceHub/edit/main/README.md"
+                target="_blank"
+                class="hov"
+                >Edit on GitHub</a
+              >
+            </li>
+            <li><a href="feedback.html" class="hov">Feedback</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>
+          Copyright &copy; 2024 <a href="#">ResourceHub</a>. All Rights
+          Reserved.
+        </p>
+      </div>
+      <div id="back-to-top-container">
+        <div class="circle1">
+          <svg
+            id="back-to-top"
+            xmlns="http://www.w3.org/2000/svg"
+            width="48"
+            height="48"
+            fill="currentColor"
+            class="bi bi-arrow-up-circle-fill"
+            viewBox="0 0 16 16"
+          >
+            <path
+              d="M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0m-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707z"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const backToTopButton = document.getElementById(
+          "back-to-top-container"
+        );
+
+        function checkButtonVisibility() {
+          if (window.innerWidth > 100 && window.scrollY > 100) {
+            backToTopButton.style.display = "block";
+          } else {
+            backToTopButton.style.display = "none";
+          }
+        }
+
+        window.addEventListener("scroll", checkButtonVisibility);
+        window.addEventListener("resize", checkButtonVisibility);
+
+        backToTopButton.addEventListener("click", function () {
+          window.scrollTo({
+            top: 0,
+            behavior: "smooth",
+          });
+        });
+        checkButtonVisibility();
+      });
+
+      // Hide the loading spinner once the page has fully loaded
+      window.addEventListener("load", function () {
+        document.getElementById("loading-spinner").style.display = "none";
+      });
+
+      document.querySelectorAll(".faq-question").forEach((item) => {
+        item.addEventListener("click", (event) => {
+          event.preventDefault();
+          item.classList.toggle("open");
+          const answer = item.nextElementSibling;
+          if (answer.style.display === "block") {
+            answer.style.display = "none";
+          } else {
+            answer.style.display = "block";
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
