@@ -401,6 +401,14 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td><a href="https://www.geeksforgeeks.org/linked-list-data-structure/">Linked List Operations</a></td>
 <td>Detailed explanations of linked list operations in Java.</td>
 </tr>
+<tr>
+<td><a href="https://www.geeksforgeeks.org/stack-class-in-java/">Stack implementation</a></td>
+<td>Example code for implementing stacks in java</td>
+</tr>
+<tr>
+<td><a href="https://www.geeksforgeeks.org/queue-interface-java/">Queue implementation in java</a></td>
+<td>Example code for implementing queues in java</td>
+</tr>
    <tr>
 <td><a href="https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Trees/Tree.java">Tree Implementation</a></td>
 <td>Example code for implementing trees in Java.</td>
