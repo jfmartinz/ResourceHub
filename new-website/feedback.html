@@ -22,6 +22,7 @@
     <title>ResourceHub</title>
 </head>
 <body>
+
     <div class="col-md-10">
         <a href="index.html" class="home-link"><i class="fas fa-arrow-left"> </i></a>
     </div>
@@ -34,7 +35,18 @@
                         <div class="col-lg-7 mb-5 mb-lg-0">
                          <h2 class="mb-5">Fill this feedback form</h2><h3>Reach out to us.</h3>
                             <form action="" class="border-right pr-5 mb-5" method="post" id="contactForm" name="contactForm"> 
-                                <!-- replace email id accordingly -->
+                                <!--Star rating-->
+                                <div class="star-rating">
+                                    <ul>
+                                        <li class="star" data-value="1">&#9733;</li>
+                                        <li class="star" data-value="2">&#9733;</li>
+                                        <li class="star" data-value="3">&#9733;</li>
+                                        <li class="star" data-value="4">&#9733;</li>
+                                        <li class="star" data-value="5">&#9733;</li>
+                                    </ul>
+                                </div>
+
+                                <!--Replace email accordingly-->
                                 <div class="row">
                                   <div class="col-md-6 form-group">
                                      <input type="text" class="form-control" name="fname" id="fname" placeholder="First name">
@@ -78,7 +90,57 @@
 </div>
 <script src="scripts.js"></script>
 <script src="home.js"></script>
+<script>
     
+        document.addEventListener('DOMContentLoaded', () => {
+            const stars = document.querySelectorAll('.star-rating .star');
+
+            console.log('Stars:', stars); // Debugging
+
+            if (stars.length === 0) {
+                console.error('No stars found!'); // Debugging
+                return;
+            }
+
+            stars.forEach(star => {
+                star.addEventListener('mouseover', handleMouseOver);
+                star.addEventListener('mouseout', handleMouseOut);
+                star.addEventListener('click', handleClick);
+            });
+
+            function handleMouseOver(event) {
+                console.log('Mouse Over:', event.target); // Debugging
+                const value = event.target.dataset.value;
+                highlightStars(value);
+            }
+
+            function handleMouseOut() {
+                console.log('Mouse Out'); // Debugging
+                highlightStars(0);
+            }
+
+            function handleClick(event) {
+                console.log('Click:', event.target); // Debugging
+                const value = event.target.dataset.value;
+                setRating(value);
+            }
+
+            function highlightStars(value) {
+                stars.forEach(star => {
+                    star.classList.toggle('hover', star.dataset.value <= value);
+                });
+            }
+
+            function setRating(value) {
+                stars.forEach(star => {
+                    star.classList.toggle('selected', star.dataset.value <= value);
+                });
+            }
+        });
+   
+
+
+</script>    
   
 </body>
 </html>
