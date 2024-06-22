@@ -5,8 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ResourceHub</title>
-    
 
+    
+    <link rel="stylesheet" href="cursorAnimation.css">
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2" defer></script>
     <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">  
@@ -315,12 +316,13 @@
     </div>
     <div id="back-to-top-container">
         <div class="circle1">
-      <svg id="back-to-top" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-up-circle-fill" viewBox="0 0 16 16">
+      <svg id="back-to-top" xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-arrow-up-circle-fill" viewBox="0 0 16 16">
         <path d="M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0m-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707z"/>
       </svg>
       </div>
       </div>
 </div>
+<div class="cursor"></div>
 
     <!-- for particle effet -->
 
@@ -358,6 +360,24 @@
             checkButtonVisibility();
         });
         
+        // Hide the loading spinner once the page has fully loaded
+        window.addEventListener('load', function() {
+            document.getElementById('loading-spinner').style.display = 'none';
+        });
+
+        document.querySelectorAll('.faq-question').forEach(item => {
+            item.addEventListener('click', (event) => {
+                event.preventDefault();
+                item.classList.toggle('open');
+                const answer = item.nextElementSibling;
+                if (answer.style.display === 'block') {
+                answer.style.display = 'none';
+                } else {
+                answer.style.display = 'block';
+                }
+            });
+        });
+        
           </script>
         <script>
             // Hide the loading spinner once the page has fully loaded
@@ -365,6 +385,7 @@
                 document.getElementById('loading-spinner').style.display = 'none';
             });
         </script>
+        <script src="cursorAnimation.js"></script>
 </body>
 
 </html>
