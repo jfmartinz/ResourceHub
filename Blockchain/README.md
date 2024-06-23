@@ -4,17 +4,17 @@ Blockchain involves the practice of creating, managing, and securing decentraliz
 This curated collection offers valuable Blockchain resources contributed by experts in the field.
 
 ## Table of Contents
-- Roadmap
-- Courses
-  - Free Courses
-  - Paid Courses
-- Protocols
-- Frameworks
-- Books
-- YouTube
-  - YouTube Channels
-  - YouTube Playlists
-- Community
+- [Roadmap](#roadmap)
+- [Courses](#courses)
+  - [Free Courses](#free-courses)
+  - [Paid Courses](#paid-courses)
+- [Protocols](#protocols)
+- [Frameworks](#frameworks)
+- [Books](#books)
+- [YouTube](#youtube)
+  - [YouTube Channels](#youtube-channels)
+  - [YouTube Playlists](#youtube-playlists)
+- [Community](#community)
 
 ## Roadmap
 This is a roadmap to learn blockchain.
