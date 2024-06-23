@@ -653,6 +653,10 @@ Blockchain Supply chain management plays a critical role in ensuring efficient o
         <td><a href="https://youtu.be/cxxKdJk55Lk?si=J3tVZ1Uqvkvrr_uN">Buy Me a Coffee DeFi Dapp</a></td>
         <td> In this Projrct Build your own Buy Me a Coffee DeFi Dapp from Scratch using: Solidity, Hardhat, Ethers.js, Alchemy!</td>
       </tr>
+      <tr>
+        <td><a href="https://youtu.be/JzsTfOFjC1o?si=PLH0MzJfsYTqY6os">Create an NFT Gallery</a></td>
+        <td> In this Projrct Build your own you will learn how to develop an NFT gallery that displays NFTs by wallet address and smart contract address.</td>
+      </tr>
 
 
 </table>
