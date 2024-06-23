@@ -1136,14 +1136,14 @@ body{
   font-weight: bold;
 }
 
-.dark #back-to-top{
-  fill: rgb(255, 255, 255) ;
-  
+.dark #back-to-top {
+  fill: rgb(255, 255, 255); /* White */
 }
 
-.dark a svg path{
-  fill: rgb(0, 0, 0) ;
+.dark a svg path {
+  fill: rgb(0, 0, 0); /* Black */
 }
+
 
 
 .dark .faq-question  {
@@ -1154,6 +1154,13 @@ body{
 .dark .faq-answer  {
   background-color: #5f615f;
   color: white;
+}
+.dark .slider + .slider-label .slider-circle::before{
+  content: '🌙' !important;
+ 
+}
+.dark .slider-circle{
+  transform: translateX(30px) !important;
 }
 
 /* Add these styles to the end of your existing style.css file */
@@ -1287,16 +1294,16 @@ body{
 
 
 .license-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  display: grid;
+  justify-content: baseline;
   width: 90%;
   max-width: 1000px;
   background-color: #ffffff;
   padding: 20px;
-  box-sizing: border-box;
+  box-sizing: content-box;
   margin: 40px auto;
 }
+
 
 .license-content {
   flex: 1;
@@ -1440,62 +1447,12 @@ body{
   color: black;
   font-weight: bold;
 }
+/* Back-to-top */
+
 footer {
   position: relative;
   padding: 50px 0;
 }
-@media (max-width: 670px) {
-  .footer-content {
-      flex-direction: column;
-      text-align: center;
-  }
-
-  .footer-left, .footer-right {
-      min-width: 100%;
-  }
-
-  .footer-right {
-      margin-top: 20px;
-  }
-
-  .footer-icons {
-      display: flex;
-      justify-content: center;
-      width: 100%;
-      gap: 20px;
-  }
-
-  .footer-links {
-      align-items: center;
-      text-align: center;
-      padding: 0px;
-  }
-}
-
-@media (max-width: 400px) {
-
-  .footer-description {
-      text-align: center;
-  }
-
-  .footer-links {
-      align-items: center;
-      text-align: start;
-  }
-}
-/* Back-to-top */
-#back-to-top-container {
-  position: fixed;
-  bottom: 30px;
-  right: 30px; 
-  cursor: pointer;
-  z-index: 1000;
-}
-
-.hov:hover{
-  color: rgba(58, 113, 224, 0.755);
-}
-
 #back-to-top-container {
   position: fixed;
   bottom: 30px;
@@ -1516,9 +1473,101 @@ footer {
 #back-to-top {
   width: 40px; 
   height: 40px; 
-  fill:  currentColor;
+  fill: currentColor;
   transition: fill 0.3s;
 }
-#back-to-top:hover{
+
+#back-to-top:hover {
+  fill: rgb(83, 79, 79);
+  transform: scale(1.06);  
+  transition: all .2s ease-in-out;
+}
+
+.dark .circle1 {
+  background-color: #000000;
+}
+
+.dark #back-to-top:hover {
+  fill: rgb(207, 200, 200);
+  transform: scale(1.06);
+  transition: all .2s ease-in-out;
+}
+
+@media (max-width: 670px) {
+  .footer-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-left, .footer-right {
+    min-width: 100%;
+  }
+
+  .footer-right {
+    margin-top: 20px;
+  }
+
+  .footer-icons {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 20px;
+  }
+
+  .footer-links {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+  }
+}
+
+@media (max-width: 400px) {
+  .footer-description {
+    text-align: center;
+  }
+
+  .footer-links {
+    align-items: center;
+    text-align: start;
+  }
+}
+
+.dark svg path {
+  fill: rgb(255, 255, 255);
+}
+
+.dark svg path:hover {
+  fill: rgb(207, 200, 200);
+}
+
+.hov:hover {
+  color: rgba(58, 113, 224, 0.755);
+}
+
+#back-to-top-container {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.circle1 {
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s;
+}
+
+#back-to-top {
+  width: 40px;
+  height: 40px;
+  fill: currentColor;
+  transition: fill 0.3s;
+}
+
+#back-to-top:hover {
   fill: rgba(58, 55, 55);
 }
