@@ -16,6 +16,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="loading.css">
+    <link rel="stylesheet" href="about.css">
+
     
     <link rel="icon" href="assets/logo.png">
 
@@ -68,16 +70,20 @@
                 </button>
             </div>
             <nav :class="{'flex': open, 'hidden': !open}"
+                class="flex-col flex-grow hidden pb-4  md:pb-0 md:flex md:justify-center md:flex-row">
+    <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200  focus:shadow-outline dark:bg-transparent  md:mt-0 md:ml-4 
+                dark:text-slate-200 focus:outline-none focus:shadow-outline" href="#Home">Home</a>
+    <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+        href="#about">About</a>
+    <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+        href="#resources">Resources</a>
+        <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+        href="contributor.html">Contributors</a>
+    <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+        href="#organization">Organization</a>
+    <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+        href="#faq">FAQ</a
                 class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-center md:flex-row">
-                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:shadow-outline dark:bg-transparent md:mt-0 md:ml-4 dark:text-slate-200 focus:outline-none" href="#Home">Home</a>
-                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
-                    href="#about">About</a>
-                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
-                    href="#resources">Resources</a>
-                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
-                    href="#organization">Organization</a>
-                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
-                    href="#faq">FAQ</a>
                 <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                     href="https://discord.com/channels/1243120700626309131/1243121246217175081" target="_blank"
                     aria-label="Discord">
@@ -113,13 +119,12 @@
         transform: scale(1.2);
     }
 </style>
-                <input type="checkbox" id="slider" class="hidden slider" onclick="toggleDarkMode()">
-                <label for="slider"
-                    class="flex items-center w-16 h-8 p-1 transition duration-500 bg-gray-300 rounded-full cursor-pointer slider-label dark:bg-gray-700">
-                    <div
-                        class="w-6 h-6 transition duration-500 transform bg-white rounded-full shadow-md slider-circle">
-                    </div>
-                </label>
+                
+<input type="checkbox" id="slider" class="slider hidden" onclick="toggleDarkMode()">
+<label for="slider"
+    class="flex items-center w-16 h-8 p-1 transition duration-500 bg-gray-300 rounded-full cursor-pointer slider-label dark:bg-gray-700">
+    <div class="w-6 h-6 transition duration-500 transform bg-white rounded-full shadow-md slider-circle"></div>
+</label>
 
                 <div class="btn-container">
 
@@ -207,6 +212,22 @@
 
         </div>
     </center>
+       <!-- <a href="#about"> -->
+        <div id="center"  href="#about" >
+            <div class="about-section" id="about">
+                <h2><img src="/img3.png" id="imgl">  About</h2>
+                <p>
+                    <strong>ResourceHub</strong> is an open-source project I created on September 14, 2023, with the goal of compiling helpful resources for web development initially. My aim was to provide developers with valuable resources they could use to enhance their workflow or in their journey as a developer.
+                </p>
+                <p>
+                    Today, <strong>ResourceHub</strong> features a wide range of categories for users to choose from. Each category contains sections and resources designed to be beneficial for developers.
+                </p>
+                <p>
+                    We're also participating in GSSoC annually to collaborate with amazing contributors and help newcomers start their open-source journey with us.
+                </p>
+            </div>
+            </div> 
+
     <a href=""></a>
     <div class="container">
         <div class="content">
@@ -228,7 +249,7 @@
 
 
     <!-- FAQ Section -->
-    <div class="faq-container">
+    <div  id="faq" class="faq-container">
         <div class="title-container">
             <i class="fas fa-link link-icon"></i>
             <div class="title dark:text-white" id="faq-title">Frequently Asked Questions (FAQs)</div>

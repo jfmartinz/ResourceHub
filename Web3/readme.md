@@ -649,6 +649,10 @@ Blockchain Supply chain management plays a critical role in ensuring efficient o
         <td><a href="https://youtu.be/y6JfVdcJh1k?si=Vp8KimEBzUUu4RPD"> Build an NFT Marketplace </a></td>
         <td> In this Projrct Build your own NFT marketplace from Scratch using: Metamask, Hardhat, IPFS (Pinata)and Alchemy!</td>
       </tr>
+      <tr>
+        <td><a href="https://youtu.be/cxxKdJk55Lk?si=J3tVZ1Uqvkvrr_uN">Buy Me a Coffee DeFi Dapp</a></td>
+        <td> In this Projrct Build your own Buy Me a Coffee DeFi Dapp from Scratch using: Solidity, Hardhat, Ethers.js, Alchemy!</td>
+      </tr>
 
 
 </table>
