@@ -585,6 +585,11 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
         <td><a href="https://www.analyticsvidhya.com/blog/2023/04/how-to-prepare-for-data-science-interview/">Interview Preparation Guide- AnalyticsVidya</a></td>
         <td>This article contains Interview questions  and interview prepartion guide on data science.This article contains the common mistakes the candidates does in the Interview and provides how to deliver our answers in the Interview.It is an ultimate guide for DataScience Interview Preparation.</td>
       </tr>
+      <tr>
+      <td><a href="https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions">DataScience Interview questions </a>
+      </td>
+      <td>This article by Simplilearn consists of top 90+ DataScience interview questions along with their answers </td>
+      </tr>
       
 </table>
 
