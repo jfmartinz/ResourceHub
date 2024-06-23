@@ -18,6 +18,11 @@ This curated collection offers valuable Cybersecurity resources contributed by l
 - [Youtube](#youtube)
   - [YouTube Channels](#youtube-channels)
   - [YouTube Playlist](#youtube-playlists)
+- [Projects](#projects)
+  - [Beginner Level Projects](#beginner-level-projects)
+  - [Intermediate Level Projects](#intermediate-level-projects)
+  - [Advance Level Projects](#advance-level-projects)
+- [Interview Preparations](#interview-preparation)
 - [Community](#community)
   - [Reddit Communities](#reddit-communities)
   - [Other Communites](#other-communities)
@@ -368,6 +373,69 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
       <a href="https://www.youtube.com/playlist?list=PLTZYG7bZ1u6ocTMdhDwwmfjaNv134KcWn">Google Cybersecurity Certificate</a>
     </td>
     <td>Prepare for a career in high-growth field of Cybersecurity.</td>
+  </tr>
+</table>
+
+
+### Projects
+> Here are some beginner to advanced projects to develop your project based learning experience.
+
+
+### Beginner Level Projects
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+  <td><a href="https://www.geeksforgeeks.org/top-6-cybersecurity-projects-ideas-for-beginners/">Cybersecurity projects for beginners</a></td>
+  <td>This article from GFG consists of top 6 cybersecurity projects for beginners</td>
+  </tr>
+</table>
+
+
+### Intermediate Level Projects
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th> Description</th>
+  </tr>
+  <tr>
+  <td><a href="https://www.knowledgehut.com/blog/security/top-cyber-security-projects">25 Cybersecurity projects </a></td>
+  <td>This article consists of  cybersecurity projects along with their source code</td>
+  </tr>
+</table>
+
+
+### Advance Level Projects
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th> Description</th>
+  </tr>
+   <tr>
+  <td><a href="https://www.interviewbit.com/blog/cyber-security-projects/"> Cybersecurity projects -InterviewBit</a></td>
+  <td>This article  from InterviewBit consists of top 10 cybersecurity projects along with their source code</td>
+  </tr>
+</table
+
+
+
+### Interview Preparation
+> Here are some resources which can help you to prepare for Cybersecurity interview rounds
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr><td>
+  <a href="https://www.simplilearn.com/tutorials/cyber-security-tutorial/cyber-security-interview-questions">Cybersecurity Interview questions</a>
+  </td>
+  <td>Top Cybersecurity interview questions along with their answers - Simplilearn.</td>
   </tr>
 </table>
 
