@@ -22,6 +22,7 @@ This curated collection offers valuable Cybersecurity resources contributed by l
   - [Reddit Communities](#reddit-communities)
   - [Other Communites](#other-communities)
 - [GitHub Repositories](#github-repositories)
+- [Interview](#interview)
 
 ### Roadmap
 > This ia a roadmap to learn cybersecurity
@@ -450,6 +451,28 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
         <td>This is a curated collection of resources, tools, and educational materials focused on various aspects of cybersecurity. It serves as a comprehensive guide for cybersecurity professionals, enthusiasts, and students looking to expand their knowledge and skills in the field. The repository includes links to resources covering topics such as network security, web application security, cryptography, malware analysis, incident response, ethical hacking and more.</td>
       </tr>
 </table>
+
+###   Interview
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.edureka.co/blog/interview-questions/cybersecurity-interview-questions/">Top 50 Cyber Security Interview Questions and answers 2024</a></td>
+        <td>This article by edureka has provided cyber security interview questions and answers.This article consists of questions and answers with visually appealing tables  and imageswhich makes users to get attracted to this article.This is one of the best article for interview preparation.</td>
+      </tr>
+      <tr>
+        <td><a href="https://shifacyclewala.medium.com/a-guide-to-scenario-based-cyber-security-interview-questions-36a628694d70">Cyber Security Interview Preparation guide</a></td>
+        <td>This article consists of interview preparation guide for cybersecurity ,tips and tricks to crack cyber security interview.</td>
+      </tr>
+</table>
+
+
+
+
+
 
 
 
