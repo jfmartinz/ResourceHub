@@ -948,8 +948,10 @@ body{
 }
 
 .roundbtn1:hover{
-  background-color: black;
-  color: white;
+  /* background-color: black; */
+  /* color: white; */
+  background-color: var(--tw-ring-offset-color);
+  color: black;
 }
 
 .hover\:bg-black:hover {
@@ -1166,6 +1168,28 @@ body{
 }
 
 /* Add these styles to the end of your existing style.css file */
+
+.about-section {
+  background-color: white;
+  padding: 40px;
+  width: 90%;
+  max-width: 1000px;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.about-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 1em !important;
+  line-height: 1.5 !important;
+  margin-bottom: 20px;
+  color: #333;
+}
 
 .container {
   display: flex;
