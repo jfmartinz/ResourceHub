@@ -7,7 +7,7 @@
 - [Tutorials or Courses](#tutorials-or-courses)
     - [Fundamentals of Programming Language](#fundamentals-of-programming-language)
     - [Modules](#moduleslibraries)
-    - [Introduction to Machine Learning](#introduction-to-machine-learning)
+    - [Introduction to Deep Learning](#introduction-to-deep-learning)
     - [Artificial Neural Networks (ANNs)](#artificial-neural-networks)
     - [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks)
     - [Recurrent Neural Networks (RNNs)](#recurrent-neural-networks)
