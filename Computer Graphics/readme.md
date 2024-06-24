@@ -211,6 +211,27 @@ Computer graphics refers to the imathat are generated using a computer. This can
   </tr>
 </table>
 
+## GiHub Repositories
+
+<table width="100%">
+  <tr>
+    <th>Resource</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ericjang/awesome-graphics">awesome graphics</a></td>
+    <td>The GitHub repository "awesome-graphics" maintained by Eric Jang is a curated list of resources related to computer graphics. It serves as a comprehensive collection of links to software libraries, frameworks, tools, academic papers, tutorials, and other materials relevant to graphics programming, rendering techniques, simulation, and related fields. </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zheng95z/fun-with-computer-graphics">Fun with Computer graphics</a></td>
+    <td>The GitHub repository "fun-with-computer-graphics" maintained by Zheng Zhang appears to be a collection of projects and resources related to computer graphics. It likely includes code examples, tutorials, and possibly educational materials aimed at exploring various aspects of computer graphics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ggambetta/computer-graphics-from-scratch">Computer graphics from scratch</a></td>
+    <td>The GitHub repository "computer-graphics-from-scratch" maintained by ggambetta is dedicated to building computer graphics systems and algorithms from the ground up. It likely includes code, tutorials, and documentation aimed at understanding and implementing fundamental concepts in computer graphics.</td>
+  </tr>
+</table>
+
 ## Communities
 
 > These communities help you learn from others' mistakes, share knowledge, clear doubts, and more.
