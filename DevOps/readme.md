@@ -1358,7 +1358,7 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
         <td>This article contains advanced interview questions on DevOps from Turing.</td>
       </tr>
       <tr>
-        <td><a href="https://www.projectpro.io/article/devops-interview-questions-and-answers/590/">DevOps Interview Questions and Answers/a></td>
+        <td><a href="https://www.projectpro.io/article/devops-interview-questions-and-answers/590/">DevOps Interview Questions and Answers</a></td>
         <td>This article consists of the top 50 most popular DevOps interview questions.</td>
       </tr>
       <tr>
