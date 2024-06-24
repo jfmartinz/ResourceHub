@@ -1362,7 +1362,7 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
         <td>This article consists of the top 50 most popular DevOps interview questions.</td>
       </tr>
       <tr>
-        <td><a href="https://www.projectpro.io/article/devops-interview-questions-and-answers/590/">Top 50+ DevOps Interview Questions and Answers - GeeksforGeeks</a></td>
+        <td><a href="https://www.geeksforgeeks.org/devops-interview-questions/">Top 50+ DevOps Interview Questions and Answers - GeeksforGeeks</a></td>
         <td>This article consists of DevOps interview questions and answers for freshers as well as experienced candidates to get their dream job.</td>
       </tr>
     
