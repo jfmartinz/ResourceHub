@@ -165,6 +165,52 @@ Computer graphics refers to the imathat are generated using a computer. This can
   </tr>
 </table>
 
+## Books
+
+> These books helps you to learn computer graphics more clearly and briefly.
+
+### Free Books
+
+<table width="100%">
+  <tr>
+    <th>Resource</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://freecomputerbooks.com/Computer-Graphics-from-Scratch-A-Programmers-Introduction-to-3D-Rendering.html">Computer graphics from scratch</a></td>
+    <td>This resource serves as an introductory guide for programmers looking to delve into the field of 3D rendering. It likely covers fundamental concepts such as graphics pipelines, rendering techniques, shader programming, and more. </td>
+  </tr>
+  <tr>
+    <td><a href="https://freecomputerbooks.com/Introduction-to-Computer-Graphics.html">Introduction to computer graphics</a></td>
+    <td>"Introduction to Computer Graphics" on FreeComputerBooks.com is likely a resource that provides a foundational overview of computer graphics concepts and techniques. This book typically covers topics such as graphics hardware, algorithms for rendering and animation, 2D and 3D transformations, rasterization, and possibly introductory computer vision concepts. </td>
+  </tr>
+  <tr>
+    <td><a href="https://freecomputerbooks.com/Fundamentals-of-Computer-Graphics-with-Java.html">Fundamentals of computer grahpics using java</a></td>
+    <td>This is likely a book that focuses on teaching the foundational principles of computer graphics using the Java programming language. This resource is designed to introduce readers to essential concepts such as graphics rendering, transformations, animation techniques, and possibly interaction methods within a Java environment. </td>
+  </tr>
+</table>
+
+### Paid Books
+
+<table width="100%">
+  <tr>
+    <th>Resource</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Computer-Graphics-C-Version-2e/dp/817758765X/">Computer graphics</a></td>
+    <td>This is a comprehensive guide to computer graphics programming using the C programming language. Authored by Donald Hearn and M. Pauline Baker, this textbook covers fundamental concepts such as graphics hardware, algorithms for 2D and 3D graphics, rendering techniques, geometric transformations, and more. </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Fundamentals-Computer-Graphics-Steve-Marschner/dp/1138744816/">Fundamentals of computer graphics</a></td>
+    <td>This book is a comprehensive textbook that covers essential topics in computer graphics. This book is widely used in academic settings and is suitable for both undergraduate and graduate students studying computer graphics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.amazon.in/Computer-Graphics-Concepts-Algorithms-Godse/dp/9333223347/">Computer graphics algorithms godse</a></td>
+    <td>This book is a comprehensive guide that covers fundamental concepts and algorithms in computer graphics. This textbook is designed to provide readers with a thorough understanding of both theoretical principles and practical techniques used in computer graphics. </td>
+  </tr>
+</table>
+
 ## YouTube
 
 > These resources provided by youtube helps you to understand computer graphics more clearly.
@@ -230,6 +276,26 @@ Computer graphics refers to the imathat are generated using a computer. This can
     <td><a href="https://github.com/ggambetta/computer-graphics-from-scratch">Computer graphics from scratch</a></td>
     <td>The GitHub repository "computer-graphics-from-scratch" maintained by ggambetta is dedicated to building computer graphics systems and algorithms from the ground up. It likely includes code, tutorials, and documentation aimed at understanding and implementing fundamental concepts in computer graphics.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/microsoft/DirectX-Graphics-Samples">DirectX-Graphics-Samples</a></td>
+    <td>Microsoft's DirectX-Graphics-Samples repository contains samples demonstrating the use of DirectX 12 and other DirectX graphics APIs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/JoeyDeVries/LearnOpenGL">LearnOpenGL</a></td>
+    <td>This repository by Joey De Vries contains all the source code for the tutorials on the LearnOpenGL website, which is a comprehensive resource for learning modern OpenGL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ssloy/tinyrenderer">tinyrenderer</a></td>
+    <td>TinyRenderer is a tiny software renderer, a step-by-step software rendering tutorial written in C++.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/KhronosGroup/Vulkan-Samples">Vulkan-Samples</a></td>
+    <td>The Vulkan-Samples repository by the Khronos Group is a collection of resources and samples demonstrating the Vulkan graphics API.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cg-tutor/PyOpenGL">PyOpenGL</a></td>
+    <td>PyOpenGL is the most common cross-platform Python binding to OpenGL and related APIs, which is useful for prototyping and learning OpenGL.</td>
+  </tr>
 </table>
 
 ## Communities
@@ -279,36 +345,6 @@ Computer graphics refers to the imathat are generated using a computer. This can
 </table>
                                        |
 
-## GitHub Repositories
-
-> These are some GitHub repositories that you can refer to for your journey in computer graphics.
-
-<table width="100%">
-  <tr>
-    <th>Resource Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/microsoft/DirectX-Graphics-Samples">DirectX-Graphics-Samples</a></td>
-    <td>Microsoft's DirectX-Graphics-Samples repository contains samples demonstrating the use of DirectX 12 and other DirectX graphics APIs.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/JoeyDeVries/LearnOpenGL">LearnOpenGL</a></td>
-    <td>This repository by Joey De Vries contains all the source code for the tutorials on the LearnOpenGL website, which is a comprehensive resource for learning modern OpenGL.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ssloy/tinyrenderer">tinyrenderer</a></td>
-    <td>TinyRenderer is a tiny software renderer, a step-by-step software rendering tutorial written in C++.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/KhronosGroup/Vulkan-Samples">Vulkan-Samples</a></td>
-    <td>The Vulkan-Samples repository by the Khronos Group is a collection of resources and samples demonstrating the Vulkan graphics API.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/cg-tutor/PyOpenGL">PyOpenGL</a></td>
-    <td>PyOpenGL is the most common cross-platform Python binding to OpenGL and related APIs, which is useful for prototyping and learning OpenGL.</td>
-  </tr>
-</table>
 
 ## Projects
 
