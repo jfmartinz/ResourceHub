@@ -165,7 +165,51 @@ Computer graphics refers to the imathat are generated using a computer. This can
   </tr>
 </table>
 
-# Computer Graphics Resources
+## YouTube
+
+> These resources provided by youtube helps you to understand computer graphics more clearly.
+
+### YouTube Channels
+
+<table width="100%">
+  <tr>
+    <th>Resource</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/@cem_yuksel/videos">Cem Yuksel</a></td>
+    <td> Cem Yüksel is known for his educational videos in computer graphics and related topics. His channel likely features tutorials, lectures, and discussions on subjects such as rendering, programming, and graphics technology.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/@LearnwithMaktum">Learn with Maktum</a></td>
+    <td>"LearnwithMaktum" typically focus on educational content aimed at teaching specific skills such as computer graphics and more. They often feature tutorials, lessons, tips, and sometimes motivational content to help viewers learn and improve in their chosen field or interest.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/@keenancrane">Keenancrane</a></td>
+    <td> Keenan Crane is known for his expertise in computer graphics, geometry processing, and related fields. His YouTube channel likely features educational content, tutorials, lectures, and discussions on topics such as geometry, mathematics, and computational techniques. </td>
+  </tr>
+</table>
+
+### YouTube playlists
+
+<table width="100%">
+  <tr>
+    <th>Resource</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY">computer graphics</a></td>
+    <td>This youtube playlist by education4u is one of the valuable resources for learning computer graphics, this includes a wide range of topics including types of graphics, I/O devices, 2d graphics,2d simulation and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh">Introduction to Computer graphics</a></td>
+    <td>This playlist is a comprehensive collection for learning the basics of computer graphics, this playlist gives you the knowledge of computer simulation, physics based animation andmore.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL112A527F83F7A5E4">Computer Sc - Introduction to Computer Graphics</a></td>
+    <td>This playlist is very valuable resource as it is taught by Prof.Prem Kalra Department of Computer Science Engineering IIT Delhi, this is one of the classic playlist for learning computer graphics.</td>
+  </tr>
+</table>
 
 ## Communities
 
