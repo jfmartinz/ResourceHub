@@ -18,10 +18,16 @@ This curated collection offers valuable Cybersecurity resources contributed by l
 - [Youtube](#youtube)
   - [YouTube Channels](#youtube-channels)
   - [YouTube Playlist](#youtube-playlists)
+- [Projects](#projects)
+  - [Beginner Level Projects](#beginner-level-projects)
+  - [Intermediate Level Projects](#intermediate-level-projects)
+  - [Advance Level Projects](#advance-level-projects)
+- [Interview Preparations](#interview-preparation)
 - [Community](#community)
   - [Reddit Communities](#reddit-communities)
   - [Other Communites](#other-communities)
 - [GitHub Repositories](#github-repositories)
+- [Interview](#interview)
 
 ### Roadmap
 > This ia a roadmap to learn cybersecurity
@@ -371,6 +377,69 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
   </tr>
 </table>
 
+
+### Projects
+> Here are some beginner to advanced projects to develop your project based learning experience.
+
+
+### Beginner Level Projects
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+  <td><a href="https://www.geeksforgeeks.org/top-6-cybersecurity-projects-ideas-for-beginners/">Cybersecurity projects for beginners</a></td>
+  <td>This article from GFG consists of top 6 cybersecurity projects for beginners</td>
+  </tr>
+</table>
+
+
+### Intermediate Level Projects
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th> Description</th>
+  </tr>
+  <tr>
+  <td><a href="https://www.knowledgehut.com/blog/security/top-cyber-security-projects">25 Cybersecurity projects </a></td>
+  <td>This article consists of  cybersecurity projects along with their source code</td>
+  </tr>
+</table>
+
+
+### Advance Level Projects
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th> Description</th>
+  </tr>
+   <tr>
+  <td><a href="https://www.interviewbit.com/blog/cyber-security-projects/"> Cybersecurity projects -InterviewBit</a></td>
+  <td>This article  from InterviewBit consists of top 10 cybersecurity projects along with their source code</td>
+  </tr>
+</table
+
+
+
+### Interview Preparation
+> Here are some resources which can help you to prepare for Cybersecurity interview rounds
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr><td>
+  <a href="https://www.simplilearn.com/tutorials/cyber-security-tutorial/cyber-security-interview-questions">Cybersecurity Interview questions</a>
+  </td>
+  <td>Top Cybersecurity interview questions along with their answers - Simplilearn.</td>
+  </tr>
+</table>
+
 ### Community
 
 > These are some communities you can seek help from to learn about cybersecurity.
@@ -450,6 +519,28 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
         <td>This is a curated collection of resources, tools, and educational materials focused on various aspects of cybersecurity. It serves as a comprehensive guide for cybersecurity professionals, enthusiasts, and students looking to expand their knowledge and skills in the field. The repository includes links to resources covering topics such as network security, web application security, cryptography, malware analysis, incident response, ethical hacking and more.</td>
       </tr>
 </table>
+
+###   Interview
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.edureka.co/blog/interview-questions/cybersecurity-interview-questions/">Top 50 Cyber Security Interview Questions and answers 2024</a></td>
+        <td>This article by edureka has provided cyber security interview questions and answers.This article consists of questions and answers with visually appealing tables  and imageswhich makes users to get attracted to this article.This is one of the best article for interview preparation.</td>
+      </tr>
+      <tr>
+        <td><a href="https://shifacyclewala.medium.com/a-guide-to-scenario-based-cyber-security-interview-questions-36a628694d70">Cyber Security Interview Preparation guide</a></td>
+        <td>This article consists of interview preparation guide for cybersecurity ,tips and tricks to crack cyber security interview.</td>
+      </tr>
+</table>
+
+
+
+
+
 
 
 
