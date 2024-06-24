@@ -948,8 +948,10 @@ body{
 }
 
 .roundbtn1:hover{
-  background-color: black;
-  color: white;
+  /* background-color: black; */
+  /* color: white; */
+  background-color: var(--tw-ring-offset-color);
+  color: black;
 }
 
 .hover\:bg-black:hover {
