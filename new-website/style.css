@@ -1167,6 +1167,17 @@ body{
   transform: translateX(30px) !important;
 }
 
+.dark .about-section {
+  background-color: black;
+  color: white;
+}
+
+.dark .about-section p {
+  color: white;
+
+}
+
+
 /* Add these styles to the end of your existing style.css file */
 
 .about-section {
