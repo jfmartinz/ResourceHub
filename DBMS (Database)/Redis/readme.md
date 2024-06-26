@@ -1,4 +1,5 @@
-![redis](image-1.png)
+<img src="image-1.png" alt="redis" width="100"/>
+
 
 # Redis
 
@@ -56,26 +57,13 @@ Continue learning about advanced Redis features such as replication, clustering,
 
 
 ![Redis architecture](image.png)
-Data storage: Redis stores data in RAM as key-value pairs. Each key corresponds to a value, which can be a string, list, set, hash, or sorted set. Redis supports a wide range of operations on these data types, allowing you to store and manipulate data in different ways. Redis also supports data persistence, allowing you to store data on a disk to ensure that it is not lost in the event of a power outage or system crash.
 
-Memory management: Redis uses a dynamic memory allocation algorithm to ensure that memory is used efficiently and to minimize the amount of memory used by the database. The algorithm takes into account the size and type of the data being stored, as well as the current memory usage of the database, to determine how much memory to allocate. Redis also includes features such as eviction policies to free up memory when necessary.
 
-Networking: Redis includes a built-in networking layer that allows clients to connect and send commands over a variety of protocols, including TCP and Unix sockets. The networking layer is responsible for listening for connections, parsing commands, and forwarding them to the appropriate handler. Redis also supports connection pooling, allowing clients to reuse connections and reduce the overhead of establishing new connections.
-
-Replication: Redis supports master-slave replication, which allows data to be replicated across multiple servers for added availability and fault tolerance. In a master-slave setup, there is a primary Redis server (the master) that is responsible for processing requests and storing data and one or more secondary servers (the slaves) that replicate the data from the master. The slaves continuously replicate data from the master and can be promoted to take over if the master becomes unavailable.
-
-Clustering:
-In Redis, clustering is a method of grouping multiple Redis instances together to create a single logical database that is spread across multiple servers. Clustering in Redis allows for horizontal scaling, which means that the database can handle a larger number of requests and store more data as the number of servers in the cluster increases.
-
-There are several components that work together to support fast and scalable access to data in a Redis cluster:
-
-Shards: A shard in a Redis cluster is a group of keys that are stored on a single Redis instance. When a Redis cluster is created, the keys in the database are divided into smaller chunks, called shards, and distributed across the multiple Redis instances in the cluster. This allows the database to scale horizontally and support a larger number of reads and writes.
-
-Replication: Replication in a Redis cluster is the process of creating copies of data on multiple Redis instances to ensure that data is available and can be accessed even if one or more servers fail. Replication helps to increase data availability and improve fault tolerance in a Redis cluster.
-
-Load balancers: A load balancer in a Redis cluster is a component that distributes incoming traffic across the multiple Redis instances in the cluster, helping to evenly distribute the workload and improve performance.
-
-Query routers: A query router in a Redis cluster is a component that routes incoming queries to the appropriate shard or replica in the cluster. This helps to ensure that queries are directed to the correct location and that data is retrieved efficiently.
+- **Data storage:** Redis stores data in RAM as key-value pairs supporting various data types like string, list, set, hash, and sorted set, with options for persistence.
+- **Memory management:** Redis employs dynamic memory allocation to optimize efficiency and includes eviction policies for memory management.
+- **Networking:** Redis features a built-in networking layer for client communication via protocols like TCP and Unix sockets, supporting connection pooling.
+- **Replication:** Redis supports master-slave replication for data redundancy and fault tolerance, with slaves replicating data from a master.
+- **Clustering:** Redis clustering facilitates horizontal scaling by distributing data across shards on multiple instances, supported by replication, load balancers, and query routers.
 
 <table>
   <tr>
