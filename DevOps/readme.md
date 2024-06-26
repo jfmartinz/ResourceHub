@@ -30,6 +30,7 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 - [Books](#books)
 - [GitHub Repositories](#github-repositories)
 - [GitHub Projects](#github-projects)
+- [Interview](#interview)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -1341,6 +1342,32 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
     <td>Apache Maven core.</td>
   </tr>
 </table>
+
+### Interview
+<table width="100%" id="interview">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+   <tr>
+        <td><a href="https://www.turing.com/interview-questions/devops#basic-devops-interview-questions-and-answers/">Basic Interview Questions On DevOps</a></td>
+        <td>This article contains fundamental interview questions on DevOps from Turing.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.turing.com/interview-questions/devops#advanced-devops-interview-questions-and-answers/">Advanced Interview Questions On DevOps</a></td>
+        <td>This article contains advanced interview questions on DevOps from Turing.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.projectpro.io/article/devops-interview-questions-and-answers/590/">DevOps Interview Questions and Answers</a></td>
+        <td>This article consists of the top 50 most popular DevOps interview questions.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/devops-interview-questions/">Top 50+ DevOps Interview Questions and Answers - GeeksforGeeks</a></td>
+        <td>This article consists of DevOps interview questions and answers for freshers as well as experienced candidates to get their dream job.</td>
+      </tr>
+    
+</table>
+
 
 ## Conclusion
 
