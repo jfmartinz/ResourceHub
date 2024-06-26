@@ -1126,7 +1126,9 @@ body{
   color: white;
   background-color: black;
 }
-
+.dark .footer-icons a svg path{
+  fill: white;
+}
 .dark .footer-description,
 .dark .footer-links a,
 .dark .footer-links a::before{
