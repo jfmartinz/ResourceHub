@@ -22,7 +22,7 @@ Compiler design involves the creation of programs that translate high-level code
 
 ## Roadmap
 
-To become proficient in compiler design, one needs a thorough understanding of various aspects of compilers. Here’s a roadmap to help guide your learning journey.
+> To become proficient in compiler design, one needs a thorough understanding of various aspects of compilers. Here’s a roadmap to help guide your learning journey.
 
 <table width="100%" id="Roadmap">
   <tr>
@@ -41,7 +41,7 @@ To become proficient in compiler design, one needs a thorough understanding of v
 
 # Courses
 
-These courses will help you learn the fundamentals and advanced topics in compiler design.
+> These courses will help you learn the fundamentals and advanced topics in compiler design.
 
 ## Free Courses
 
@@ -83,7 +83,7 @@ These courses will help you learn the fundamentals and advanced topics in compil
 
 ## Books
 
-Essential books for mastering compiler design concepts.
+> Essential books for mastering compiler design concepts.
 
 <table width="100%">
   <tr>
@@ -108,7 +108,7 @@ Essential books for mastering compiler design concepts.
 
 ## YouTube Channels
 
-Channels that provide valuable tutorials and insights into compiler design.
+> Channels that provide valuable tutorials and insights into compiler design.
 
 <table width="100%">
   <tr>
@@ -127,7 +127,7 @@ Channels that provide valuable tutorials and insights into compiler design.
 
 ## YouTube Playlists
 
-Curated playlists focused on compiler design.
+> Curated playlists focused on compiler design.
 
 <table width="100%">
   <tr>
@@ -150,7 +150,7 @@ Curated playlists focused on compiler design.
 
 ## Interview Preparation
 
-Resources to help you prepare for interviews related to compiler design roles.
+> Resources to help you prepare for interviews related to compiler design roles.
 
 <table width="100%">
   <tr>
@@ -169,7 +169,7 @@ Resources to help you prepare for interviews related to compiler design roles.
 
 ## GitHub Repositories
 
-Helpful repositories that provide source code, examples, and tutorials on compiler design.
+> Helpful repositories that provide source code, examples, and tutorials on compiler design.
 
 <table width="100%">
   <tr>
@@ -188,7 +188,7 @@ Helpful repositories that provide source code, examples, and tutorials on compil
 
 ## Communities
 
-Join these communities to learn from others, share your knowledge, and stay updated with the latest trends in compiler design.
+> Join these communities to learn from others, share your knowledge, and stay updated with the latest trends in compiler design.
 
 ### Reddit Communities
 
@@ -226,11 +226,11 @@ Join these communities to learn from others, share your knowledge, and stay upda
 
 ## Conclusion
 
-Mastering compiler design requires a combination of theoretical knowledge and practical experience. Utilize the resources provided to build a strong foundation and stay engaged with the community to keep up with advancements in the field.
+> Mastering compiler design requires a combination of theoretical knowledge and practical experience. Utilize the resources provided to build a strong foundation and stay engaged with the community to keep up with advancements in the field.
 
 ## Projects
 
-Apply your knowledge by working on these projects to gain hands-on experience.
+> Apply your knowledge by working on these projects to gain hands-on experience.
 
 <table width="100%">
   <tr>
