@@ -22,6 +22,13 @@
   background: linear-gradient(rgb(104, 74, 126),rgb(102, 7, 236)); 
   border-radius: 10px;
   height:1px;
+  transition: background-color 0.3s ease; 
+}
+
+/* Hover on thumb  */
+::-webkit-scrollbar-thumb:hover {
+  background:  linear-gradient(rgb(152, 110, 169, 0.8), rgb(148, 42, 204, 0.8));
+  cursor: pointer; 
 }
 *,
 ::before,
@@ -35,7 +42,10 @@
   border-color: #e5e7eb;
   /* 2 */
 }
-
+::-webkit-scrollbar-thumb:hover {
+  color: black; 
+  cursor: pointer;
+}
 ::before,
 ::after {
   --tw-content: '';
