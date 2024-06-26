@@ -7,36 +7,6 @@
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
 */
 
-/* Loading Spinner Styles */
-.loading-spinner {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(255, 255, 255, 0.8);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 9999;
-}
-
-.spinner {
-  border: 8px solid #f3f3f3; /* Light grey */
-  border-top: 8px solid #3498db; /* Blue */
-  border-radius: 50%;
-  width: 60px;
-  height: 60px;
-  animation: spin 1s linear infinite;
-}
-
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
-
-
 ::-webkit-scrollbar {
   width: 8.5px;
 }
@@ -1126,7 +1096,9 @@ body{
   color: white;
   background-color: black;
 }
-
+.dark .footer-icons a svg path{
+  fill: white;
+}
 .dark .footer-description,
 .dark .footer-links a,
 .dark .footer-links a::before{
@@ -1157,6 +1129,11 @@ body{
   background-color: #5f615f;
   color: white;
 }
+
+.dark .contribtors-container {
+  background-color: black;
+}
+
 .dark .slider + .slider-label .slider-circle::before{
   content: '🌙' !important;
  
@@ -1165,7 +1142,40 @@ body{
   transform: translateX(30px) !important;
 }
 
+.dark .about-section {
+  background-color: black;
+  color: white;
+}
+
+.dark .about-section p {
+  color: white;
+
+}
+
+
 /* Add these styles to the end of your existing style.css file */
+
+.contribtors-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 1000px;
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 40px auto; /* Adjust as needed */
+}
+
+.contribtors-container{
+  display: block;
+}
+
+.contribtors-content {
+  flex: 1;
+  max-width: 600px;
+  padding-right: 20px;
+
+}
 
 .about-section {
   background-color: white;

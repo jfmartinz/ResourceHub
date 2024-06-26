@@ -547,6 +547,10 @@ develop software that works with them</td>
       <td>Step 10 - Refer to Hackathons section</td>
     <td>Gain Practical Experience: Participate in hackathons, build projects, and contribute to open-source blockchain initiatives to apply your knowledge in real-world scenarios.</td>
   </tr>
+  <tr>
+    <td><a href="https://roadmap.sh/blockchain">Blockchain Developer</a></td>
+    <td>Step by step guide to becoming a blockchain developer in 2024.</td>
+  </tr>
 </table>
 
 ### Challenges

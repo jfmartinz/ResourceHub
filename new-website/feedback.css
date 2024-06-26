@@ -123,3 +123,29 @@ body.dark #form-messages .alert-danger {
     color: #fff; /* Light text color for messages */
     border-color: #333; /* Darker border color for messages */
 }
+
+
+
+
+/*star rating*/
+.star-rating {
+  direction: ltr; /* Optional: this can change star direction */
+}
+
+.star-rating ul {
+  list-style-type: none;
+  padding: 0;
+  display: inline-block;
+}
+
+.star-rating .star {
+  display: inline-block;
+  font-size: 2em;
+  color: lightgrey;
+  cursor: pointer;
+}
+
+.star-rating .star.selected,
+.star-rating .star.hover {
+  color: gold;
+}

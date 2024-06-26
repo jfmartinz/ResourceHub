@@ -16,6 +16,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="loading.css">
+    <link rel="stylesheet" href="contributors.css">
     <link rel="stylesheet" href="about.css">
 
     
@@ -32,10 +33,6 @@
 </head>
 
 <body class="bg-white dark:bg-black dark:text-white">
-    <!-- Loading Spinner -->
-    <div id="loading-spinner" class="loading-spinner">
-        <div class="spinner"></div>
-    </div>
     <!-- Progress Bar -->
     <div id="progressBar"></div>
     <script>
@@ -77,15 +74,12 @@
         href="#about">About</a>
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
         href="#resources">Resources</a>
-        <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
-        href="contributor.html">Contributors</a>
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
         href="#organization">Organization</a>
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
         href="#faq">FAQ</a
                 class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-center md:flex-row">
-
-                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                <a class="social-icon px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                     href="https://discord.com/channels/1243120700626309131/1243121246217175081" target="_blank"
                     aria-label="Discord">
                     <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -94,7 +88,7 @@
                     </svg>
                 </a>
 
-                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                <a class="social-icon px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                     href="https://github.com/jfmartinz/ResourceHub" target="_blank" aria-label="Github">
                     <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                         <path fill="black"
@@ -115,7 +109,12 @@
         display: inline-block;
         transition: transform 0.3s ease;
     }
-
+    .dark .social-icon:hover svg path{
+        fill: black;
+    }
+     .dark .social-icon svg path{
+       fill: white;
+     }
     .icon-link:hover {
         transform: scale(1.2);
     }
@@ -251,6 +250,20 @@
         </div>
     </div>
 
+    <div class="contribtors-container">
+        <div class="contribtors-content">
+            <div class="title-container">
+                <i class="fas fa-link link-icon"></i>
+                <h1 class="title dark:text-white" id="contributor-title">Contributors</h1>
+            </div>
+            <p>
+                ResourceHub thrives thanks to our amazing contributors <br> who continually enhance and support the project. We are br deeply grateful for their invaluable efforts.
+            </p>
+        </div>
+        <div id="loading1"></div>
+        <div id="contributor" class="contributor-container"></div>
+    </div>
+
 
     <!-- FAQ Section -->
     <div  id="faq" class="faq-container">
@@ -359,6 +372,7 @@
         });
     </script>
     <script src="particles.js"></script>
+    <script src="contibuters.js"></script>
     <script src="home.js"></script>
     <script src="Resourse.js"></script>
     <script>
@@ -385,10 +399,6 @@
             checkButtonVisibility();
         });
         
-        // Hide the loading spinner once the page has fully loaded
-        window.addEventListener('load', function() {
-            document.getElementById('loading-spinner').style.display = 'none';
-        });
 
         document.querySelectorAll('.faq-question').forEach(item => {
             item.addEventListener('click', (event) => {
