@@ -9,6 +9,8 @@ Compiler design involves the creation of programs that translate high-level code
 - [Free Cources](#free-courses)<br>
 - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
+  - [Free Books](#free-books)
+  - [Paid Books](#paid-books)
 - [YouTube](#youtube)
   - [Youtube Channels](#youtube-channels)<br>
   - [YouTube Playlist](#youtube-playlists)<br>
@@ -84,6 +86,29 @@ These courses will help you learn the fundamentals and advanced topics in compil
 ## Books
 
 Essential books for mastering compiler design concepts.
+
+### Free Books
+
+<table width="100%">
+  <tr>
+    <th>Book Title</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://freecomputerbooks.com/Compiler-Design-Theory-Tools-and-Examples.html">Compilers design theroy tools and examples</a></td>
+    <td>This is an introductory level text for compiler design courses, that emphasizes problem solving skills. The concepts are clearly presented with sampler problems and diagrams to illustrate the concepts. The text also covers lex and yacc two compiler generating tools in UNIX.</td>
+  </tr>
+  <tr>
+    <td><a href="https://freecomputerbooks.com/Compiler-Design-in-C.html">Compiler design in C</a></td>
+    <td>Introduces the basics of compiler design, concentrating on the second pass (in a typical four-pass compiler), consisting of a lexical analyzer, parser, and a code generator. Uses the C language. Appropriate for compiler courses in CS departments.</td>
+  </tr>
+  <tr>
+    <td><a href="https://freecomputerbooks.com/Basics-of-Compiler-Design.html">Basics of Compiler design</a></td>
+    <td>This book presents techniques for making realistic, though non-optimizing compilers for simple programming languages using methods that are close to those used in "real" compilers, albeit slightly simplified in places for presentation purposes. </td>
+  </tr>
+</table>
+
+### Paid Books
 
 <table width="100%">
   <tr>

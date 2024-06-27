@@ -23,6 +23,8 @@ A computer network is a collection of interconnected devices that can communicat
    - [Security Monitoring](#security-monitoring)
    - [Network Inventory](#network-inventory)
 - [Books](#books)<br>
+  - [Free Books](#free-books)
+  - [Paid Books](#paid-books)<br> 
 - [YouTube](#youtube)
   - [Youtube Channels](#youtube-channels)<br>
   - [YouTube Playlist](#youtube-playlists)<br>
