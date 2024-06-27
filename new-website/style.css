@@ -1094,7 +1094,7 @@ body{
 
 .dark .footer-container{
   color: white;
-  background-color: black;
+  background-color: #31332f;
 }
 .dark .footer-icons a svg path{
   fill: white;
@@ -1104,10 +1104,19 @@ body{
 .dark .footer-links a::before{
   color: white;
 }
-
+.dark .footer-horizontal-line {
+  border: 1px solid white;
+  margin: 3px 0;
+  padding-inline-end: 100%;
+}
 .dark .footer-bottom a {
-  color: white;
+  color: rgb(151 184 255);
   font-weight: bold;
+}
+.dark .footer-links-below a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
 }
 
 .dark #back-to-top {
@@ -1378,9 +1387,10 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 90%;
-  max-width: 1000px;
-  background-color: #ffffff;
+  width: 100%;
+  max-width: 100%;
+  background-color: #e0e0e0d0;
+  color: black;
   padding: 20px;
   box-sizing: border-box;
   margin: 40px auto;
@@ -1419,18 +1429,20 @@ body{
 
 .footer-title {
   font-size: 2em;
+  font-weight: bold;
   margin-bottom: 20px;
 }
 
 .footer-description {
   font-size: 1em;
   line-height: 1.5;
-  color: #333333;
+  color: black;
   margin-bottom: 20px;
 }
 
 .footer-icons {
   display: flex;
+  color: black;
   align-items: center; /* Align items vertically in the center */
 }
 
@@ -1441,8 +1453,9 @@ body{
 
 .footer-links {
   list-style: none;
+  color: white;
   padding: 0;
-  padding-left: 100px; /* Add right padding to move the links towards the right */
+  padding-left: 300px; /* Add right padding to move the links towards the right */
 }
 
 .footer-links li {
@@ -1469,7 +1482,14 @@ body{
   height: 1.5em; /* Set the height of the arrow */
   width: 1.5em; /* Set the width of the arrow */
 }
-
+.bottom{
+  background-color: #e1b6b6;
+}
+.footer-horizontal-line {
+  border: 1px solid #000;
+  margin: 3px 0;
+  padding-inline-end: 100%;
+}
 .footer-bottom {
   text-align: center;
   margin-top: 20px;
@@ -1478,8 +1498,34 @@ body{
 }
 
 .footer-bottom a {
-  color: black;
+  color: rgb(68 110 201);
   font-weight: bold;
+}
+.footer-links-below {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer-links-below ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+
+.footer-links-below li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.footer-links-below a {
+  color: #2c2c2c;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-links-below a:hover {
+  color: #555;
 }
 /* Back-to-top */
 
@@ -1526,7 +1572,6 @@ footer {
   transform: scale(1.06);
   transition: all .2s ease-in-out;
 }
-
 @media (max-width: 670px) {
   .footer-content {
     flex-direction: column;
