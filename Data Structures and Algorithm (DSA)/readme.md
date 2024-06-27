@@ -573,6 +573,11 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <a href="https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/">Cheatsheets from GFG</a></td>
 <td>It consists of topic-wise sheets for better understanding</td>
 </tr>
+
+<tr><td>
+<a href="https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/">Cheatsheets from burcuco</a></td>
+<td>The cheat sheet on Cheatography by burcuco provides a concise summary of key concepts and operations related to data structures and algorithms.</td>
+</tr>
 </table>
 
 ## GitHub Repositories
