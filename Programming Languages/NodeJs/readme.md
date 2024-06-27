@@ -1132,6 +1132,16 @@ Integrating Node.js with IoT devices, machine learning models, and other technol
    <th>Resource Name</th>
    <th>Description</th>
  </tr>
+   <tr>
+      <td><a href="https://drive.google.com/file/d/1DzJkkC0EopoEoyNPoqi6lQDHMfAxAw9f/view?usp=sharing">Learning NodeJs development</td>
+         <td>Book for NodeJs Coding enthusiats</td>
+   </tr>
+   <tr>
+      <td><a href="https://drive.google.com/file/d/1tfz8Ope-y5echlAoThjkK6dcYrjYRxc3/view">Handwritten NodeJs Notes</td>
+         <td>This Book cover all fundamentals of NodeJs </td>
+   </tr>
+   
+         
  <tr>
    <td><a href="https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314">Node.js Design Patterns</a></td>
    <td>This book explores various design patterns and best practices for building robust and scalable Node.js applications. It covers topics like asynchronous programming, streams, modules, and more.</td>
