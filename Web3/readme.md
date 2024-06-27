@@ -547,6 +547,10 @@ develop software that works with them</td>
       <td>Step 10 - Refer to Hackathons section</td>
     <td>Gain Practical Experience: Participate in hackathons, build projects, and contribute to open-source blockchain initiatives to apply your knowledge in real-world scenarios.</td>
   </tr>
+  <tr>
+    <td><a href="https://roadmap.sh/blockchain">Blockchain Developer</a></td>
+    <td>Step by step guide to becoming a blockchain developer in 2024.</td>
+  </tr>
 </table>
 
 ### Challenges
@@ -645,6 +649,19 @@ Blockchain Supply chain management plays a critical role in ensuring efficient o
         <td><a href="https://youtu.be/BDCT6TYLYdI?si=dLHEYc5TndOlV-F6">Blockchain Crowdfunding Platform </a></td>
         <td> With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and, most importantly, the ability to create create, view, and donate to crowdfunding campaigns directly through the blockchain; this course is perfect to fully understand how web3, blockchain, Solidity, and smart contracts truly work behind the scenes.</td>
       </tr>
+      <tr>
+        <td><a href="https://youtu.be/y6JfVdcJh1k?si=Vp8KimEBzUUu4RPD"> Build an NFT Marketplace </a></td>
+        <td> In this Projrct Build your own NFT marketplace from Scratch using: Metamask, Hardhat, IPFS (Pinata)and Alchemy!</td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/cxxKdJk55Lk?si=J3tVZ1Uqvkvrr_uN">Buy Me a Coffee DeFi Dapp</a></td>
+        <td> In this Projrct Build your own Buy Me a Coffee DeFi Dapp from Scratch using: Solidity, Hardhat, Ethers.js, Alchemy!</td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/JzsTfOFjC1o?si=PLH0MzJfsYTqY6os">Create an NFT Gallery</a></td>
+        <td> In this Projrct Build your own you will learn how to develop an NFT gallery that displays NFTs by wallet address and smart contract address.</td>
+      </tr>
+
 
 </table>
 

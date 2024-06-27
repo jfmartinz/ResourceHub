@@ -13,10 +13,21 @@ This curated collection offers valuable Cybersecurity resources contributed by l
 - [Protocols](#protocols)
 - [Frameworks](#frameworks)
 - [Books](#books)
+  - [Free Books](#free-books)
+  - [Paid Books](#paid-books)
 - [Youtube](#youtube)
   - [YouTube Channels](#youtube-channels)
   - [YouTube Playlist](#youtube-playlists)
+- [Projects](#projects)
+  - [Beginner Level Projects](#beginner-level-projects)
+  - [Intermediate Level Projects](#intermediate-level-projects)
+  - [Advance Level Projects](#advance-level-projects)
+- [Interview Preparations](#interview-preparation)
 - [Community](#community)
+  - [Reddit Communities](#reddit-communities)
+  - [Other Communites](#other-communities)
+- [GitHub Repositories](#github-repositories)
+- [Interview](#interview)
 
 ### Roadmap
 > This ia a roadmap to learn cybersecurity
@@ -220,6 +231,33 @@ This curated collection offers valuable Cybersecurity resources contributed by l
 
 ### Books
 > These are some of the books that we can use to learn Cybersecurity.
+
+#### Free books
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+      <td ><a href="https://freecomputerbooks.com/Open-Source-Security-Tools.html">Open Source Scurity Tools</a></td>
+      <td>The "Open Source Security Tools" is a comprehensive book that serves as a guide to various open-source tools used in cybersecurity. It covers a wide range of topics including network scanning, vulnerability assessment, penetration testing, intrusion detection, encryption and more.  </td>
+    </tr>
+   <tr>
+        <td><a href="https://freecomputerbooks.com/Learn-Ethical-Hacking-from-Scratch.html">Learn Ethical hacking from scratch</a></td>
+        <td>The book "Learn Ethical Hacking from Scratch" is a comprehensive guide designed for beginners interested in mastering ethical hacking techniques and principles. It covers essential topics such as penetration testing, network scanning, vulnerability assessment, exploitation, and ethical hacking methodologies. </td>
+    </tr>
+    <tr>
+      <td ><a href="https://freecomputerbooks.com/Hacking-The-Art-of-Exploitation.html">Hacking : The art of Exploitation</a></td>
+      <td>This book is a renowned guide that delves into the fundamental principles and techniques of hacking and exploitation. It provides a hands-on introduction to various aspects of cybersecurity, including programming, network protocols, shellcode development, and vulnerability exploitation. Through practical examples and exercises, readers learn how to think like hackers, understand system vulnerabilities, and develop their skills in offensive security.</td>
+    </tr>
+   <tr>
+        <td><a href="https://freecomputerbooks.com/Kali-Linux-Wireless-Penetration-Testing-Beginners-Guide.html">Kali-Linux - penetration testing for beginners</a></td>
+        <td>This book serves as a practical and comprehensive resource for beginners interested in learning wireless network penetration testing using Kali Linux. It covers essential topics such as setting up a penetration testing lab, understanding wireless networking concepts, conducting reconnaissance, exploiting vulnerabilities, and securing wireless networks. </td>
+    </tr>
+</table>
+
+#### Paid Books
 <table>
 <tr>
   <th>Resource Name</th>
@@ -339,8 +377,103 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
   </tr>
 </table>
 
+
+### Projects
+> Here are some beginner to advanced projects to develop your project based learning experience.
+
+
+### Beginner Level Projects
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+  <td><a href="https://www.geeksforgeeks.org/top-6-cybersecurity-projects-ideas-for-beginners/">Cybersecurity projects for beginners</a></td>
+  <td>This article from GFG consists of top 6 cybersecurity projects for beginners</td>
+  </tr>
+</table>
+
+
+### Intermediate Level Projects
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th> Description</th>
+  </tr>
+  <tr>
+  <td><a href="https://www.knowledgehut.com/blog/security/top-cyber-security-projects">25 Cybersecurity projects </a></td>
+  <td>This article consists of  cybersecurity projects along with their source code</td>
+  </tr>
+</table>
+
+
+### Advance Level Projects
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th> Description</th>
+  </tr>
+   <tr>
+  <td><a href="https://www.interviewbit.com/blog/cyber-security-projects/"> Cybersecurity projects -InterviewBit</a></td>
+  <td>This article  from InterviewBit consists of top 10 cybersecurity projects along with their source code</td>
+  </tr>
+</table
+
+
+
+### Interview Preparation
+> Here are some resources which can help you to prepare for Cybersecurity interview rounds
+
+<table width="100%">
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr><td>
+  <a href="https://www.simplilearn.com/tutorials/cyber-security-tutorial/cyber-security-interview-questions">Cybersecurity Interview questions</a>
+  </td>
+  <td>Top Cybersecurity interview questions along with their answers - Simplilearn.</td>
+  </tr>
+</table>
+
 ### Community
+
 > These are some communities you can seek help from to learn about cybersecurity.
+
+#### Reddit Communities
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/cybersecurity/">r/cybersecurity</a></td>
+        <td>The r/cybersecurity subreddit is a community where cybersecurity professionals, enthusiasts, and students discuss and share news, insights, tools, and best practices related to cybersecurity. Topics include threat intelligence, incident response, ethical hacking, network security, and more. It's a valuable resource for staying updated and engaging with the cybersecurity community.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/ethicalhacking/">r/ethicalhacking</a></td>
+        <td>The r/ethicalhacking subreddit is dedicated to discussions and resources related to ethical hacking, penetration testing, and offensive security. Members share tutorials, tools, news, and discuss ethical considerations in cybersecurity. It's a community suitable for beginners and experienced professionals looking to learn and share insights about ethical hacking practices.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/cybersecurity101/">r/cybersecurity101</a></td>
+        <td>r/cybersecurity101 is a subreddit for beginners interested in cybersecurity. It covers introductory topics, resources, and advice for those new to the field of cybersecurity, including discussions on ethical hacking and cybersecurity fundamentals.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/hacking/">r/hacking</a></td>
+        <td>The r/hacking subreddit is a community for discussions related to hacking techniques, tools, news, and ethical considerations. Members share resources, tutorials, and engage in discussions about various aspects of hacking and cybersecurity.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.reddit.com/r/netsec/">r/netsec</a></td>
+        <td>The r/netsec subreddit is dedicated to network security discussions. It covers topics such as vulnerabilities, exploits, malware analysis, cryptography, and defensive security measures. It's geared towards cybersecurity professionals and enthusiasts interested in in-depth technical discussions.</td>
+      </tr>
+</table>
+
+#### Other Communities
 
 <table>
   <tr>
@@ -354,7 +487,6 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
     </td>
     <td>This well-known security forum is a great resource for your cybersecurity questions.Easily navigate from the homepage to sub-forums and over 2.5 million posts.</td>
   </tr>
-
   <tr>
     <td>
       <a href="https://cybersecurity.ieee.org/"> IEEE Cybersecurity</a>
@@ -362,6 +494,53 @@ Learn from industry experts to analyse, implement, and maintain a robust environ
     <td>IEEE’s cybersecurity-specific community is a great place to read resources, interact with other professionals, and find out about events.</td>
   </tr>
 </table>
+
+### GitHub Repositories
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Awesome Hacking</a></td>
+        <td>The GitHub repository "Awesome Hacking" is a curated list of resources, tools, and tutorials related to hacking and cybersecurity. It serves as a comprehensive collection of links to various repositories, books, courses, tools, and websites that cover topics such as penetration testing, ethical hacking, network security, cryptography, and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/enaqx/awesome-pentest">Pentesting</a></td>
+        <td>This is a curated collection of resources, tools, and guides specifically tailored for penetration testers and cybersecurity professionals. It serves as a comprehensive repository featuring links to tools, frameworks, scripts, and tutorials that are essential for conducting penetration testing and vulnerability assessments.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/sentinel184/Awesome-Ethical-Hacking-Resources">Ethical Hacking</a></td>
+        <td>This repo is a curated collection of tools, tutorials, books, and other resources focused on ethical hacking and cybersecurity. It serves as a comprehensive guide for individuals interested in learning ethical hacking techniques, penetration testing, and offensive security practices.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/fabionoth/awesome-cyber-security">Awesome cyber security</a></td>
+        <td>This is a curated collection of resources, tools, and educational materials focused on various aspects of cybersecurity. It serves as a comprehensive guide for cybersecurity professionals, enthusiasts, and students looking to expand their knowledge and skills in the field. The repository includes links to resources covering topics such as network security, web application security, cryptography, malware analysis, incident response, ethical hacking and more.</td>
+      </tr>
+</table>
+
+###   Interview
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.edureka.co/blog/interview-questions/cybersecurity-interview-questions/">Top 50 Cyber Security Interview Questions and answers 2024</a></td>
+        <td>This article by edureka has provided cyber security interview questions and answers.This article consists of questions and answers with visually appealing tables  and imageswhich makes users to get attracted to this article.This is one of the best article for interview preparation.</td>
+      </tr>
+      <tr>
+        <td><a href="https://shifacyclewala.medium.com/a-guide-to-scenario-based-cyber-security-interview-questions-36a628694d70">Cyber Security Interview Preparation guide</a></td>
+        <td>This article consists of interview preparation guide for cybersecurity ,tips and tricks to crack cyber security interview.</td>
+      </tr>
+</table>
+
+
+
+
+
 
 
 
