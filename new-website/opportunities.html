@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>opportunities</title>
+    
+    <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2" defer></script>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">  
+    <!-- added fontAwesome links to add github and discord icon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="icon" href="assets/logo.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="opportunities.css">
+
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+        }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+
+</head>
+<body>
+
+    
+    <!-- NAVBAR -->
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+
+
+    <div
+        class="w-full text-gray-800 bg-transparent navbr dark:text-slate-200 dark-mode:text-gray-200 dark-mode:bg-gray-800">
+        <div x-data="{ open: true }"
+            class="flex flex-col items-center justify-between max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+            <div class="flex flex-row items-center justify-between gap-20 p-4" id="topbar">
+                <a style="font-family: 'Righteous'; text-transform: none;" href="#"
+                    class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark:text-slate-200 dark-mode:text-white focus:outline-none focus:shadow-outline">ResourceHub</a>
+                <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open">
+                    <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
+                        <path x-show="!open" fill-rule="evenodd"
+                            d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z"
+                            clip-rule="evenodd"></path>
+                        <path x-show="open" fill-rule="evenodd"
+                            d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+                            clip-rule="evenodd"></path>
+                    </svg>
+                </button>
+            </div>
+            <nav :class="{'flex': open, 'hidden': !open}"
+                class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-center md:flex-row">
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:shadow-outline dark:bg-transparent md:mt-0 md:ml-4 dark:text-slate-200 focus:outline-none" href="#Home">Home</a>
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                    href="#about">About</a>
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                    href="#resources">Resources</a>
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                    href="#organization">Organization</a>
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                    href="opportunities.html">Opportunities</a>
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                    href="#faq">FAQ</a>
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                    href="https://discord.com/channels/1243120700626309131/1243121246217175081" target="_blank"
+                    aria-label="Discord">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path fill="black"
+                            d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2763-3.68-.2763-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561 19.911 19.911 0 004.967 2.5225.0777.0777 0 00.0842-.0276c.3841-.5234.7217-1.0782 1.0062-1.657a.076.076 0 00-.0416-.1057 13.1141 13.1141 0 01-1.872-1.0279.077.077 0 01-.0076-.1257c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.0991.246.1981.3728.2924a.077.077 0 01-.0066.1256 12.7578 12.7578 0 01-1.873 1.0279.0766.0766 0 00-.0407.1067c.2845.5788.6221 1.1336 1.0062 1.657a.076.076 0 00.0842.0276 19.9183 19.9183 0 004.967-2.5225.077.077 0 00.0313-.0561c.5004-5.177-.8382-9.6739-3.5485-13.6607a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.955 2.4189-2.1568 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z" />
+                    </svg>
+                </a>
+
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+                    href="https://github.com/jfmartinz/ResourceHub" target="_blank" aria-label="Github">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path fill="black"
+                            d="M12 0a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.1c-3.4.7-4.1-1.6-4.1-1.6-.5-1.2-1.3-1.6-1.3-1.6-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.3 1.8 1.3 1 .2 1.7.7 2 .9.2-.7.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-5.6 0-1.3.4-2.3 1.2-3.2-.1-.3-.5-1.4.1-3 0 0 1-.3 3.4 1.2a11.4 11.4 0 0 1 6.2 0c2.4-1.5 3.4-1.2 3.4-1.2.6 1.6.2 2.7.1 3 .8.9 1.2 1.9 1.2 3.2 0 4.3-2.8 5.3-5.5 5.6.4.4.7 1.1.7 2.1v3c0 .3.2.7.8.6A12 12 0 0 0 12 0Z" />
+                    </svg>
+                </a>
+                <input type="checkbox" id="slider" class="hidden slider" onclick="toggleDarkMode()">
+               
+
+    <!-- Github and discord icons -->
+   
+</nav>
+
+<style>
+    .icon-link {
+        font-size: 1.35rem; 
+        margin: 5px 15px; 
+        display: inline-block;
+        transition: transform 0.3s ease;
+    }
+
+    .icon-link:hover {
+        transform: scale(1.2);
+    }
+    
+</style>
+                <input type="checkbox" id="slider" class="hidden slider" onclick="toggleDarkMode()">
+                <label for="slider"
+                    class="flex items-center w-16 h-8 p-1 transition duration-500 bg-gray-300 rounded-full cursor-pointer slider-label dark:bg-gray-700">
+                    <div
+                        class="w-6 h-6 transition duration-500 transform bg-white rounded-full shadow-md slider-circle">
+                    </div>
+                </label>
+
+                <div class="btn-container">
+
+                    <div @click.away="open = false" class="" x-data="{ open: true }">
+
+
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div id="particles-js"></div>
+
+    <div class="mt-36 items-center p-10  main">
+        
+        <h1 class="mb-20 text-xl font-bold text-center sm:text-2xl md:text-6xl lg:text-4xl">Opportunites
+        </h1>
+        
+        <p class=" mb-20 dark:text-gray-400">Find opportunities based on your requirements and interests!</p>
+
+
+  
+    </div>
+    <div class='contain'>
+        <input type="text" id="searchInput" placeholder="Search..">
+        <div id='submitsearch'style="align-item:center;">
+          <span>Search</span>
+          
+        </div>
+      </div>
+
+    <div class="opps">
+        <div class="container">
+            <div class="content">
+                <h2>Internships</h2>
+                <p>Open Positions: 200</p>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="content">
+                <h2>Jobs</h2>
+                <p>Open Positions: 200</p>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="content">
+                <h2>Hackathons</h2>
+                <p>Open Positions: 200</p>
+            </div>
+        </div>
+    </div>
+
+
+     <!-- License section -->
+     <div class="license-container">
+        <div class="license-content">
+            <div class="license-title-container">
+                <i class="fas fa-link license-link-icon"></i>
+                <h1 class="license-title dark:text-white">License</h1>
+            </div>
+            <p class="license-description">
+                <span>ResourceHub is licensed under the MIT License - see</span><br> the
+                <a href="LICENSE" target="_blank">LICENSE</a> file for details.
+            </p>
+        </div>
+    </div>
+    <!-- Footer Section -->
+<div class="footer-container">
+    <div class="flex flex-col footer-content md:flex-row">
+        <div class="footer-left">
+            <div class="logo-and-title">
+                <img id="logo-image" src="assets/footerLight.png" alt="ResourceHub Image">
+                <h2 class="footer-title">ResourceHub</h2>
+            </div>
+            <p class="footer-description">ResourceHub is an open-source project that serves as a one-stop repository of
+                valuable resources curated by the amazing contributors in the community</p>
+            <div class="footer-icons">
+                <a href="https://github.com/jfmartinz/ResourceHub" target="_blank" aria-label="Github">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path fill="black"
+                            d="M12 0a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.1c-3.4.7-4.1-1.6-4.1-1.6-.5-1.2-1.3-1.6-1.3-1.6-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.3 1.8 1.3 1 .2 1.7.7 2 .9.2-.7.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-5.6 0-1.3.4-2.3 1.2-3.2-.1-.3-.5-1.4.1-3 0 0 1-.3 3.4 1.2a11.4 11.4 0 0 1 6.2 0c2.4-1.5 3.4-1.2 3.4-1.2.6 1.6.2 2.7.1 3 .8.9 1.2 1.9 1.2 3.2 0 4.3-2.8 5.3-5.5 5.6.4.4.7 1.1.7 2.1v3c0 .3.2.7.8.6A12 12 0 0 0 12 0Z" />
+                    </svg>
+                </a>
+                <a href="https://discord.com/channels/1243120700626309131/1243121246217175081" target="_blank"
+                    aria-label="Discord">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path fill="black"
+                            d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2763-3.68-.2763-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561 19.911 19.911 0 004.967 2.5225.0777.0777 0 00.0842-.0276c.3841-.5234.7217-1.0782 1.0062-1.657a.076.0766 0 00-.0416-.1057 13.1141 13.1141 0 01-1.872-1.0279.077.077 0 01-.0076-.1257c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.0991.246.1981.3728.2924a.077.077 0 01-.0066.1256 12.7578 12.7578 0 01-1.873 1.0279.0766.0766 0 00-.0407.1067c.2845.5788.6221 1.1336 1.0062 1.657a.076.076 0 00.0842.0276 19.9183 19.9183 0 004.967-2.5225.077.077 0 00.0313-.0561c.5004-5.177-.8382-9.6739-3.5485-13.6607a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.955 2.4189-2.1568 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.955-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+        <div class="footer-right">
+            <ul class="footer-links">
+                <li><a href="https://github.com/jfmartinz/ResourceHub" target="_blank" class="hov">View on GitHub</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub/stargazers" target="_blank" class="hov">Star on GitHub</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub/blob/main/CONTRIBUTING.md" target="_blank" class="hov">How to Contribute</a></li>
+                <li><a href="https://github.com/jfmartinz/ResourceHub/edit/main/README.md" target="_blank" class="hov">Edit on GitHub</a></li>
+                <li><a href="feedback.html" class="hov">Feedback</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <p>Copyright &copy; 2024 <a href="#">ResourceHub</a>. All Rights Reserved.</p>
+    </div>
+    <div id="back-to-top-container">
+        <div class="circle1">
+      <svg id="back-to-top" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-up-circle-fill" viewBox="0 0 16 16">
+        <path d="M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0m-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707z"/>
+      </svg>
+      </div>
+      </div>
+</div>
+
+<script src="home.js"></script>
+<script src="opportunities.js"></script>
+</body>
+</html>

@@ -137,6 +137,14 @@ Computer Architecture is the study of the structure, organization, and design of
         <td><a href="https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A7mD9XfO3ZQm6GeSkxOwk6x">YouTube - Computer Architecture by David Wentzlaff</a></td>
         <td>A series of lectures on computer architecture by a Princeton University professor.</td>
       </tr>
+      <tr>
+        <td><a href="https://nptel.ac.in/courses/106/103/106103068/">NPTEL - Computer Architecture by IIT Kharagpur</a></td>
+        <td>A course by NPTEL offering a deep dive into various computer architecture concepts.</td>
+      </tr>
+      <tr>
+        <td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/">MIT OCW - Computer System Architecture</a></td>
+        <td>An MIT OpenCourseWare offering on the subject of computer system architecture.</td>
+      </tr>
 </table>
 
 #### Paid Courses
@@ -158,6 +166,10 @@ Computer Architecture is the study of the structure, organization, and design of
         <td><a href="https://www.coursera.org/specializations/computer-architecture">Coursera - Computer Architecture Specialization by University of Illinois</a></td>
         <td>A series of courses covering fundamental and advanced topics in computer architecture.</td>
       </tr>
+      <tr>
+        <td><a href="https://www.udemy.com/course/computer-architecture/">Udemy - Computer Architecture and Organization</a></td>
+        <td>An in-depth course on computer architecture and organization available on Udemy.</td>
+      </tr>
 </table>
 
 ### Books
@@ -170,8 +182,16 @@ Computer Architecture is the study of the structure, organization, and design of
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf">CPU and Memory: Design, Interfacing, and Programming by FreeBSD</a></td>
-        <td>A comprehensive guide to CPU and memory design, interfacing, and programming, available as a free PDF.</td>
+        <td><a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf">CPU and Memory: Design, Optimization, and Testing</a></td>
+        <td>This book covers the fundamental concepts of CPU and memory design, optimization, and testing.</td>
+      </tr>
+      <tr>
+        <td><a href="http://www0.cs.ucl.ac.uk/staff/W.Luk/2dca/book.pdf">Computer Architecture</a></td>
+        <td>A book that provides an in-depth understanding of computer architecture.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.cl.cam.ac.uk/teaching/1617/CompArch/files/1617_CambridgeComputerArchitecture.pdf">Cambridge Computer Architecture</a></td>
+        <td>This book is a comprehensive guide to computer architecture.</td>
       </tr>
 </table>
 
@@ -183,18 +203,22 @@ Computer Architecture is the study of the structure, organization, and design of
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://www.pearson.com/store/p/computer-organization-and-design-the-hardware-software-interface/P100000044287/9780124077263">Computer Organization and Design: The Hardware/Software Interface by David Patterson and John Hennessy</a></td>
-        <td>A widely-used textbook that covers the fundamental concepts of computer organization and design.</td>
+        <td><a href="https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269">Computer Organization and Design: The Hardware/Software Interface by David A. Patterson and John L. Hennessy</a></td>
+        <td>This book provides a comprehensive introduction to the fundamentals of computer architecture and organization.</td>
       </tr>
       <tr>
-        <td><a href="https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-383872-8">Computer Architecture: A Quantitative Approach by John Hennessy and David Patterson</a></td>
-        <td>A comprehensive book that provides in-depth coverage of computer architecture concepts and practices.</td>
+        <td><a href="https://www.amazon.com/Computer-Architecture-Quantitative-Approach-5th/dp/012383872X">Computer Architecture: A Quantitative Approach by John L. Hennessy and David A. Patterson</a></td>
+        <td>This book covers advanced concepts in computer architecture, including performance analysis and parallelism.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.amazon.com/Modern-Processor-Design-Fundamentals-Superscalar/dp/0070570647">Modern Processor Design: Fundamentals of Superscalar Processors by John Paul Shen and Mikko H. Lipasti</a></td>
+        <td>This book provides an in-depth understanding of superscalar processor design.</td>
       </tr>
 </table>
 
 ### YouTube Channels
 
-> These YouTube channels offer valuable content on Computer Architecture:
+> Below are some YouTube channels offering educational content on Computer Architecture:
 
 <table width="100%">
       <tr>
@@ -203,17 +227,19 @@ Computer Architecture is the study of the structure, organization, and design of
       </tr>
       <tr>
         <td><a href="https://www.youtube.com/user/nptelhrd">NPTEL HRD</a></td>
-        <td>An educational channel offering a wide range of courses on computer science, including computer architecture.</td>
+        <td>Offers a wide range of courses on various subjects, including Computer Architecture.</td>
       </tr>
       <tr>
-        <td><a href="https://www.youtube.com/user/mitocw">MIT OpenCourseWare</a></td>
-        <td>Provides free course materials from a wide range of MIT's classes, including those on computer architecture.</td>
+        <td><a href="https://www.youtube.com/user/jaynmurthy">David Wentzlaff</a></td>
+        <td>Provides in-depth lectures on Computer Architecture by Princeton University professor David Wentzlaff.</td>
       </tr>
+     
+      
 </table>
 
 ### YouTube Playlists
 
-> These YouTube playlists offer structured series of lectures and tutorials on Computer Architecture:
+> Below are some YouTube playlists offering educational content on Computer Architecture:
 
 <table width="100%">
       <tr>
@@ -221,24 +247,26 @@ Computer Architecture is the study of the structure, organization, and design of
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PL9jciz8q9cXewN3sJHtYGJE-AxH4t5pCh">Computer Architecture by MIT OpenCourseWare</a></td>
-        <td>A series of lectures on computer architecture from MIT's OpenCourseWare initiative.</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A7mD9XfO3ZQm6GeSkxOwk6x">Computer Architecture by David Wentzlaff</a></td>
+        <td>A series of lectures on computer architecture by a Princeton University professor.</td>
       </tr>
       <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRi4toMqZhHt3C7vzS5lRvfQ">Computer Architecture by Neso Academy</a></td>
-        <td>A comprehensive playlist covering various topics in computer architecture.</td>
+        <td><a href="https://www.youtube.com/playlist?list=PL-JvKqQx2ApmBVg2kKBx8N6D5iA35x_zq">Computer Organization and Architecture by Neso Academy</a></td>
+        <td>A series of lectures covering various topics in computer organization and architecture.</td>
       </tr>
       <tr>
-      <td>
-      <a href="https://www.youtube.com/watch?v=kTdvOlA2ko0&list=PLXj4XH7LcRfDXDRzSLv1FfZ-SSA38SiC0">Computer Architecture by Sudhakar Atchala</a> </td>
-      <td>This playlist contains topic from computer architecture</td>
+        <td><a href="https://www.youtube.com/playlist?list=PLhSp9OSVmeyJl49pIfyyOC3RuNR-wJ8aT">Computer Architecture by NPTEL</a></td>
+        <td>A course by NPTEL offering a deep dive into various computer architecture concepts.</td>
       </tr>
-
+      <tr>
+        <td><a href="https://www.youtube.com/playlist?list=PLrRW1w6CGAcXx5MZzKQy2wKaXUY_BNBV1">Computer Architecture by MIT OpenCourseWare</a></td>
+        <td>An MIT OpenCourseWare offering on the subject of computer system architecture.</td>
+      </tr>
 </table>
 
 ### Resources for Finding Research Papers
 
-> These platforms provide access to research papers and articles on Computer Architecture:
+> Below are some resources for finding research papers related to Computer Architecture:
 
 <table width="100%">
       <tr>
@@ -247,17 +275,21 @@ Computer Architecture is the study of the structure, organization, and design of
       </tr>
       <tr>
         <td><a href="https://scholar.google.com/">Google Scholar</a></td>
-        <td>A freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats.</td>
+        <td>A freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines.</td>
       </tr>
       <tr>
-        <td><a href="https://ieeexplore.ieee.org/">IEEE Xplore</a></td>
-        <td>A research database for discovering and accessing scientific and technical content published by the IEEE and its publishing partners.</td>
+        <td><a href="https://www.researchgate.net/">ResearchGate</a></td>
+        <td>A European commercial social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.semanticscholar.org/">Semantic Scholar</a></td>
+        <td>A free, AI-powered research tool for scientific literature, based at the Allen Institute for AI.</td>
       </tr>
 </table>
 
 ### Competitions
 
-> Participating in these competitions can enhance your practical skills in Computer Architecture:
+> Below are some competitions that you can consider for honing your skills in Computer Architecture:
 
 <table width="100%">
       <tr>
@@ -265,18 +297,22 @@ Computer Architecture is the study of the structure, organization, and design of
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://www.topcoder.com/challenges">TopCoder Challenges</a></td>
-        <td>A platform offering various competitive programming challenges, including those related to computer architecture and system design.</td>
+        <td><a href="https://www.iccad.com/">ICCAD</a></td>
+        <td>International Conference on Computer-Aided Design offers a design contest that addresses real-world problems in computer architecture.</td>
       </tr>
       <tr>
-        <td><a href="https://icpc.global/">ACM ICPC</a></td>
-        <td>The International Collegiate Programming Contest (ICPC) is a multitier, team-based competition among universities around the world.</td>
+        <td><a href="https://www.ispass.org/">ISPASS</a></td>
+        <td>The IEEE International Symposium on Performance Analysis of Systems and Software offers a competition on performance analysis techniques.</td>
+      </tr>
+      <tr>
+        <td><a href="https://carrv.github.io/">CARRV</a></td>
+        <td>The Competition on Computer Architecture Research with RISC-V focuses on innovations and advancements in the RISC-V architecture.</td>
       </tr>
 </table>
 
 ### Communities
 
-> Joining these communities can provide support, networking opportunities, and additional resources:
+> Below are some communities that you can join to learn more about Computer Architecture:
 
 <table width="100%">
       <tr>
@@ -284,18 +320,22 @@ Computer Architecture is the study of the structure, organization, and design of
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://www.reddit.com/r/computerscience/">Reddit - Computer Science</a></td>
-        <td>A subreddit for discussions on computer science topics, including computer architecture.</td>
+        <td><a href="https://www.reddit.com/r/ComputerArchitecture/">Reddit - Computer Architecture</a></td>
+        <td>An online community for discussions, news, and insights about computer architecture.</td>
       </tr>
       <tr>
-        <td><a href="https://stackoverflow.com/">Stack Overflow</a></td>
-        <td>A question and answer site for professional and enthusiast programmers, often discussing topics in computer architecture.</td>
+        <td><a href="https://stackoverflow.com/questions/tagged/computer-architecture">Stack Overflow - Computer Architecture</a></td>
+        <td>A community of developers and researchers discussing questions related to computer architecture.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.researchgate.net/topic/Computer-Architecture">ResearchGate - Computer Architecture</a></td>
+        <td>A social networking site for scientists and researchers to share papers and find collaborators in the field of computer architecture.</td>
       </tr>
 </table>
 
 ### GitHub Repositories
 
-> These GitHub repositories offer valuable resources and projects on Computer Architecture:
+> Below are some GitHub repositories containing resources and projects related to Computer Architecture:
 
 <table width="100%">
       <tr>
@@ -303,18 +343,22 @@ Computer Architecture is the study of the structure, organization, and design of
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://github.com/ctfs/write-ups-2014/tree/master/plaidsctf-2014/pwnable/boi">CTF Write-Ups</a></td>
-        <td>A repository containing write-ups for various CTF (Capture The Flag) challenges, including those related to system and hardware exploitation.</td>
+        <td><a href="https://github.com/obonaventure/System-Architecture">System Architecture</a></td>
+        <td>A GitHub repository containing a collection of computer architecture resources and projects.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/ahrvo/Computer-Organization-and-Architecture">Computer Organization and Architecture</a></td>
-        <td>A repository containing notes, assignments, and projects related to computer organization and architecture.</td>
+        <td><a href="https://github.com/AngshumanGoswami/Computer-Architecture">Computer Architecture by AngshumanGoswami</a></td>
+        <td>This repository contains various resources and projects related to computer architecture.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/dividiti/ck-caffe">Collective Knowledge</a></td>
+        <td>A framework to organize and reproduce research projects, including those related to computer architecture.</td>
       </tr>
 </table>
 
 ### Projects
 
-> These project ideas can help you apply your knowledge of Computer Architecture:
+> Below are some projects that you can work on to improve your skills in Computer Architecture:
 
 #### Beginner Projects
 
@@ -324,12 +368,16 @@ Computer Architecture is the study of the structure, organization, and design of
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://github.com/ahrvo/Computer-Organization-and-Architecture">Simple ALU Design</a></td>
-        <td>Design a simple Arithmetic Logic Unit (ALU) that can perform basic arithmetic and logical operations.</td>
+        <td><a href="https://github.com/obonaventure/System-Architecture">Simple Processor Design</a></td>
+        <td>A project that involves designing a simple processor from scratch.</td>
       </tr>
       <tr>
-        <td><a href="https://www.nand2tetris.org/">Nand2Tetris</a></td>
-        <td>A project-based course that takes you through building a computer from scratch, starting with basic logic gates.</td>
+        <td><a href="https://www.coursera.org/learn/comparch">Pipeline Simulator</a></td>
+        <td>A project to build a pipeline simulator for a basic RISC processor.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.xilinx.com/support/university/vivado.html">FPGA-based Projects</a></td>
+        <td>Projects that involve designing and implementing processors on FPGA.</td>
       </tr>
 </table>
 
@@ -341,12 +389,16 @@ Computer Architecture is the study of the structure, organization, and design of
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://www.coursera.org/learn/comparch">CPU Simulator</a></td>
+        <td><a href="https://www.coursera.org/learn/computer-simulations">CPU Simulator</a></td>
         <td>Create a simulator for a simple CPU that can execute a set of instructions and demonstrate pipelining.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/ahrvo/Computer-Organization-and-Architecture">Cache Memory Simulator</a></td>
-        <td>Develop a simulator for cache memory, exploring different cache replacement policies and their performance impacts.</td>
+        <td><a href="https://github.com/ucb-bar/chisel-tutorial">Chisel Tutorial</a></td>
+        <td>A tutorial that provides an introduction to Chisel, a hardware design language used to design complex computer architecture projects.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.coursera.org/learn/risc-v">RISC-V Projects</a></td>
+        <td>Projects that involve designing and implementing processors using the RISC-V instruction set architecture.</td>
       </tr>
 </table>
 
@@ -358,38 +410,17 @@ Computer Architecture is the study of the structure, organization, and design of
         <th>Description</th>
       </tr>
       <tr>
-        <td><a href="https://github.com/ahrvo/Computer-Organization-and-Architecture">Multicore Processor Design</a></td>
-        <td>Design a simple multicore processor and implement basic parallel processing capabilities.</td>
+        <td><a href="https://www.gem5.org/5">gem5 Simulator</a></td>
+        <td>A project to use and extend the gem5 simulator for advanced computer architecture research.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/ahrvo/Computer-Organization-and-Architecture">Custom Instruction Set Architecture</a></td>
-        <td>Design and implement a custom Instruction Set Architecture (ISA) and create a compiler for it.</td>
-      </tr>
-</table>
-
-### Interview
-<table width="100%" id="interview">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-   <tr>
-        <td><a href="https://www.analyticsvidhya.com/blog/2022/08/basic-interview-questions-on-computer-architecture/">Basic Interview Questions On Computer Architecture - Analytics Vidhya</a></td>
-        <td>This article contains fundamental interview questions on computer architecture from Analytics Vidhya.</td>
+        <td><a href="https://github.com/riscv-software-src/riscv-isa-sim">RISC-V ISA Simulators</a></td>
+        <td>Projects that involve working with RISC-V ISA simulators for computer architecture research.</td>
       </tr>
       <tr>
-        <td><a href="https://www.indeed.com/career-advice/interviewing/computer-architecture-interview-questions">Top 25 Computer Architecture Interview Questions(and Example Answers)</a></td>
-        <td>Here are 25 computer architecture interview questions from the Indeed website.</td>
+        <td><a href="https://github.com/cornell-brg/pydgin">PyDGin</a></td>
+        <td>A project that involves building a dynamic binary translator using the PyDGin framework.</td>
       </tr>
-      <tr>
-        <td><a href="https://www.naukri.com/code360/library/computer-architecture-interview-questions">Computer Architecture Interview Questions and Answers - Naukri</a></td>
-        <td>This article consists of the top 30 most popular Computer Architecture interview questions.</td>
-      </tr>
-      <tr>
-        <td><a href="https://career.guru99.com/top-21-cad-interview-questions/">Top 21 Computer Architecture Interview Questions and Answers - Career Guru99</a></td>
-        <td>This article consists of Computer Architecture interview questions and answers for freshers as well as experienced candidates to get their dream job.</td>
-      </tr>
-    
 </table>
 
 ### Conclusion
