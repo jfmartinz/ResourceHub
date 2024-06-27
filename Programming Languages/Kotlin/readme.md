@@ -738,6 +738,10 @@ This list of valuable resources will help you to learn and master Kotlin. Whethe
         <td><a href="https://www.manning.com/books/kotlin-in-action">Kotlin in Action</a></td>
         <td>A hands-on guide to using Kotlin for real-world applications, written by Kotlin experts.</td>
     </tr>
+   <tr>
+      <td><a href="https://drive.google.com/file/d/1GTFdf0IJhdBXttxVGdV-mb7sLqa1fB5h/view?usp=sharing"> Kotlin new Book</td>
+         <td>A new and easy book for kotln begineers learner</td>
+   </tr>
     <tr>
         <td><a href="https://www.atomickotlin.com/">Atomic Kotlin</a></td>
         <td>A beginner-friendly book that introduces Kotlin concepts through exercises and examples.</td>
