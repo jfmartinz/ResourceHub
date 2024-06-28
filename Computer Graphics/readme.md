@@ -10,6 +10,8 @@ Computer graphics refers to the imathat are generated using a computer. This can
   - [Paid Courses](#paid-courses)<br>
 - [TCP/IP Protocols](#tcpip-protocol)
 - [Books](#books)<br>
+  - [Free Books](#free-books)
+  - [Paid Books](#paid-books)
 - [YouTube](#youtube)
   - [Youtube Channels](#youtube-channels)<br>
   - [YouTube Playlist](#youtube-playlists)<br>
