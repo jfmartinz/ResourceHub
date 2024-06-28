@@ -1089,24 +1089,38 @@ body{
 }
 
 .dark .license-description{
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .dark .footer-container{
-  color: white;
-  background-color: black;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+.dark .footer-title {
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: rgb(0, 0, 0);
 }
 .dark .footer-icons a svg path{
-  fill: white;
+  fill: rgb(0, 0, 0);
 }
 .dark .footer-description,
 .dark .footer-links a,
 .dark .footer-links a::before{
-  color: white;
+  color: rgb(0, 0, 0);
+}
+
+.dark .footer-bottom {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.875em;
+  width: 100%;
+  color: rgb(0, 0, 0);
 }
 
 .dark .footer-bottom a {
-  color: white;
+  color: rgb(0, 0, 0);
   font-weight: bold;
 }
 
@@ -1378,12 +1392,12 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 90%;
-  max-width: 1000px;
-  background-color: #ffffff;
-  padding: 20px;
+  width: auto;
+  max-width: none;
+  background-color: #000000;
+  padding: 30px;
   box-sizing: border-box;
-  margin: 40px auto;
+  margin: 0px auto;
 }
 
 .footer-content {
@@ -1393,11 +1407,17 @@ body{
   width: 100%;
 }
 
-.footer-left,
+.footer-left{  
+  flex: 1;
+  max-width: 950px;
+  padding-right: 10px;
+  padding-left: 300px;
+  box-sizing: border-box;
+}
 .footer-right {
   flex: 1;
-  max-width: 600px;
-  padding-right: 20px;
+  max-width: 500px;
+  padding-right: 10px;
   box-sizing: border-box;
 }
 
@@ -1420,12 +1440,13 @@ body{
 .footer-title {
   font-size: 2em;
   margin-bottom: 20px;
+  color: white;
 }
 
 .footer-description {
   font-size: 1em;
   line-height: 1.5;
-  color: #333333;
+  color: #ffffff;
   margin-bottom: 20px;
 }
 
@@ -1436,13 +1457,16 @@ body{
 
 .footer-icons a {
   margin-right: 10px;
-  color: black;
+  color: rgb(255, 255, 255);
+}
+.footer-icons a svg path{
+  fill: rgb(255, 255, 255);
 }
 
 .footer-links {
   list-style: none;
   padding: 0;
-  padding-left: 100px; /* Add right padding to move the links towards the right */
+  padding-left: auto; /* Add right padding to move the links towards the right */
 }
 
 .footer-links li {
@@ -1451,7 +1475,7 @@ body{
 }
 
 .footer-links a {
-  color: black;
+  color: rgb(255, 255, 255);
   text-decoration: underline;
   font-size: 1em;
   padding-left: 30px; /* Increased padding to make space for the larger arrow */
@@ -1464,7 +1488,7 @@ body{
   left: 0;
   top: 50%;
   transform: translateY(-50%); /* Center the arrow vertically */
-  color: black;
+  color: rgb(255, 255, 255);
   font-size: 1.5em; /* Increase the font size to make the arrow larger */
   height: 1.5em; /* Set the height of the arrow */
   width: 1.5em; /* Set the width of the arrow */
@@ -1475,10 +1499,11 @@ body{
   margin-top: 20px;
   font-size: 0.875em;
   width: 100%;
+  color: white;
 }
 
 .footer-bottom a {
-  color: black;
+  color: rgb(255, 255, 255);
   font-weight: bold;
 }
 /* Back-to-top */
