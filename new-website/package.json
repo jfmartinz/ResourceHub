@@ -1,8 +1,16 @@
 {
+  "name": "resourcehub",
+  "version": "1.0.0",
+  "description": "Your description here",
+  "main": "cursorAnimation.js",
+  "scripts": {
+    "start": "node cursorAnimation.js"
+  },
   "devDependencies": {
     "tailwindcss": "^3.4.4"
   },
   "dependencies": {
+    "jsdom": "^22.1.0",
     "particles.js": "^2.0.0"
   }
 }
