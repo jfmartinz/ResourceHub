@@ -32,10 +32,7 @@ Backend development is also crucial for creating APIs (Application Programming I
   - [Testing](#testing)
   - [Deployment](#deployment)
   - [CI/CD](#ci-cd)
-- [Template Engines](#templateEngines)
-  - [Pug](#pug)
-  - [Ejs](#Ejs)
-  - [Handlebars](#hbs)
+- [Template Engines](#templateEngines) 
 - [UI compounets](#ui-compounets)
 - [Version Control](#version-control)
 - [Communities](#communities)
@@ -655,7 +652,7 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
     </tr>
 </table>
 
-### Template Engines {#templateEngines}
+## Template Engines
 
 <table width="100%">
     <tr>
