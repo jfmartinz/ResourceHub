@@ -1660,3 +1660,14 @@ footer {
 #back-to-top:hover {
   fill: rgba(58, 55, 55);
 }
+
+.dot {
+  width: 30px;
+  height: 30px;
+  background: rgb(70, 70, 70);
+  position: fixed;
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+}
