@@ -1,18 +1,20 @@
 # Computer Graphics
 
-Computer graphics refers to the imathat are generated using a computer. This can include 2D images, such as photos or illustrations, as well as 3D images, which are generated using specialized software and require more processing power. Computer graphics are used in a wide range of applications, including video games, animation, architecture, engineering, and medical imaging. Advances in computer technology have made it possible to create increasingly realistic and detailed graphics, and the use of computer graphics continues to grow and evolve.
+Computer graphics refers to the images that are generated using a computer. This can include 2D images, such as photos or illustrations, as well as 3D images, which are generated using specialized software and require more processing power. Computer graphics are used in a wide range of applications, including video games, animation, architecture, engineering, and medical imaging. Advances in computer technology have made it possible to create increasingly realistic and detailed graphics, and the use of computer graphics continues to grow and evolve.
 
 ## Table of Contents
 
-- [Roadmap](#Roadmap)<br>
-- [Courses](courses)<br>
-  - [Free Cources](#free-courses)<br>
+- [Roadmap](#roadmap)<br>
+- [Courses](#courses)<br>
+  - [Free Courses](#free-courses)<br>
   - [Paid Courses](#paid-courses)<br>
 - [TCP/IP Protocols](#tcpip-protocol)
 - [Books](#books)<br>
+  - [Free Books](#free-books)
+  - [Paid Books](#paid-books)
 - [YouTube](#youtube)
-  - [Youtube Channels](#youtube-channels)<br>
-  - [YouTube Playlist](#youtube-playlists)<br>
+  - [YouTube Channels](#youtube-channels)<br>
+  - [YouTube Playlists](#youtube-playlists)<br>
 - [Interview](#interview)<br>
 - [GitHub Repositories](#github-repositories)<br>
 - [Communities](#communities)
@@ -26,75 +28,79 @@ Computer graphics refers to the imathat are generated using a computer. This can
 > To become a computer graphics Engineer there are a lot of skills that one requires. Let’s look into each field and learn how to proceed to be a successful Graphics Engineer.
 
 <table width="100%" id="Roadmap">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <th ><a href="https://github.com/prographon/graphics-developer-roadmap">Computer Graphics </a></th>
-      <th>This is the Roadmap for Graphics Engineer</th>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/prographon/graphics-developer-roadmap">Computer Graphics</a></td>
+    <td>This is the Roadmap for Graphics Engineer</td>
+  </tr>
 </table>
 
 ## Courses
 
 > You can consider these courses for learning Computer Graphics:
 
-#### Free Courses
+### Free Courses
 
 <table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-       <tr>
-        <td> <a href="https://www.classcentral.com/subject/computer-graphics">Computer Graphics Courses and Certifications</a></td>
-        <td>earn Computer Graphics, earn certificates with paid and free online courses from Stanford, Alexander Amini, UC San Diego, Georgia Tech and other top universities around the world. Read reviews to decide if a class is right for you.</td>
-      </tr>
-        <td> <a href="https://www.classcentral.com/course/edx-computer-graphics-548">Computer Graphics</a></td>
-        <td>Today, computer graphics is a central part of our lives, in movies, games, computer-aided design, virtual simulators, visualization and even imaging products and cameras. This course teaches the basics of computer graphics that apply to all of these domains.</td>
-      </tr>
-     <tr>
-     <td> <a href="https://www.coursera.org/learn/interactive-computer-graphics">Interactive Computer Graphics</a></td>
-     <td> Computer graphics can be a powerful tool for supporting visual problem solving, and interactivity plays a central role in harnessing the users' creativity. </td>
-     </tr>
-      <tr>
-      <td><a href="https://youtu.be/qiQR5rTSshw?si=NB5Yu4B4OKRQUKqg">Computer Networking Course - Network Engineering by freeCodeCamp</a></td>
-      <td>This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks. It will also help you prepare for CompTIA's Network+ exam.</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.coursera.org/specializations/graphic-design">Graphic Design Specialization</a></td>
-      <td>Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal.</td>
-      </tr>
-  </table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.classcentral.com/subject/computer-graphics">Computer Graphics Courses and Certifications</a></td>
+    <td>Learn Computer Graphics, earn certificates with paid and free online courses from Stanford, Alexander Amini, UC San Diego, Georgia Tech and other top universities around the world. Read reviews to decide if a class is right for you.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.classcentral.com/course/edx-computer-graphics-548">Computer Graphics</a></td>
+    <td>Today, computer graphics is a central part of our lives, in movies, games, computer-aided design, virtual simulators, visualization and even imaging products and cameras. This course teaches the basics of computer graphics that apply to all of these domains.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/learn/interactive-computer-graphics">Interactive Computer Graphics</a></td>
+    <td>Computer graphics can be a powerful tool for supporting visual problem solving, and interactivity plays a central role in harnessing the users' creativity.</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/qiQR5rTSshw?si=NB5Yu4B4OKRQUKqg">Computer Networking Course - Network Engineering by freeCodeCamp</a></td>
+    <td>This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks. It will also help you prepare for CompTIA's Network+ exam.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/specializations/graphic-design">Graphic Design Specialization</a></td>
+    <td>Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal.</td>
+  </tr>
+</table>
 
-#### Paid Courses
+### Paid Courses
 
 <table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-       <tr>
-        <td> <a href="https://www.udemy.com/course/computer_graphics_subject/">Udemy -Learn 2D, 3D, Colour Models and Technical Aspects of Graphics</a></td>
-        <td>This video tutorial is popular video tutorials on the web and it covers all the required concepts to master in Computer Graphics.</td>
-      </tr>
-        <td> <a href="https://www.linkedin.com/learning/topics/graphic-design">LinkedIn Learning -Network Administration: Graphic Design </a></td>
-        <td>Discover the life of a designer and how to start a career in graphic design. Learn core design skills (color, typography and layout) and core tools (Photoshop, InDesign and Illustrator) used in graphic design. </td>
-      </tr>
-      <tr>
-            <td><a href="https://www.udemy.com/course/course-opengl/?couponCode=LETSLEARNNOWPP">Computer Graphics</a></td>
-            <td>Learn OpenGL in a Professional way from scratch. Become an expert in Computer Graphics, from Zero to Hero!</td>
-      </tr>
-      <tr>
-            <td><a href="https://onlinecourses.nptel.ac.in/noc20_cs90/preview">Computer Graphics by NEPTEL</a></td>
-            <td>This course is designed to provide a full overview of computer Graphics.</td>
-      </tr>
-  </table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/computer_graphics_subject/">Udemy -Learn 2D, 3D, Colour Models and Technical Aspects of Graphics</a></td>
+    <td>This video tutorial is popular video tutorials on the web and it covers all the required concepts to master in Computer Graphics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/learning/topics/graphic-design">LinkedIn Learning -Network Administration: Graphic Design</a></td>
+    <td>Discover the life of a designer and how to start a career in graphic design. Learn core design skills (color, typography and layout) and core tools (Photoshop, InDesign and Illustrator) used in graphic design.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.udemy.com/course/course-opengl/?couponCode=LETSLEARNNOWPP">Computer Graphics</a></td>
+    <td>Learn OpenGL in a Professional way from scratch. Become an expert in Computer Graphics, from Zero to Hero!</td>
+  </tr>
+  <tr>
+    <td><a href="https://onlinecourses.nptel.ac.in/noc20_cs90/preview">Computer Graphics by NEPTEL</a></td>
+    <td>This course is designed to provide a full overview of computer Graphics.</td>
+  </tr>
+</table>
 
 ### TCP/IP Protocol
 
 > The TCP/IP or the Transmission Control Protocol/Internet Protocol is a communication protocol suite using which network devices can be connected to the Internet.
 
-<table>
+<table width="100%">
   <tr>
     <th>Resource Name</th>
     <th>Description</th>
@@ -144,230 +150,252 @@ Computer graphics refers to the imathat are generated using a computer. This can
     <td>Standard communication protocol used for electronic mail transmission over the Internet.</td>
   </tr>
   <tr>
-    <td><a href="https://datatracker.ietf.org/doc/rfc1157/">Simple Network Management Protocol (SNMP)</a></td>
-    <td>Network management protocol used for collecting and organizing information about managed devices on IP networks.</td>
-  </tr>
-  <tr>
-    <td><a href="https://datatracker.ietf.org/doc/rfc4251/">Secure Shell (SSH)</a></td>
-    <td>Secure protocol used to access remote servers and perform network services securely over an unsecured network.</td>
-  </tr>
-  <tr>
     <td><a href="https://datatracker.ietf.org/doc/rfc793/">Transmission Control Protocol (TCP)</a></td>
-    <td>Standard that defines how to establish and maintain a network conversation through which applications can exchange data.</td>
-  </tr>
-  <tr>
-    <td><a href="https://datatracker.ietf.org/doc/rfc854/">Telnet</a></td>
-    <td>Network protocol used on the Internet or local area networks to provide bidirectional interactive text-oriented communication.</td>
+    <td>Core protocol of the Internet Protocol Suite; provides reliable, ordered, and error-checked delivery of data between applications running on hosts.</td>
   </tr>
   <tr>
     <td><a href="https://datatracker.ietf.org/doc/rfc768/">User Datagram Protocol (UDP)</a></td>
-    <td>Connectionless protocol used for communication over a network that supports the transmission of data segments.</td>
+    <td>Core protocol of the Internet Protocol Suite; provides a simpler message-based connectionless communication model.</td>
   </tr>
 </table>
 
 ## Books
 
-> These books helps you to learn computer graphics more clearly and briefly.
-
-### Free Books
-
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Book Name</th>
+    <th>Author</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://freecomputerbooks.com/Computer-Graphics-from-Scratch-A-Programmers-Introduction-to-3D-Rendering.html">Computer graphics from scratch</a></td>
-    <td>This resource serves as an introductory guide for programmers looking to delve into the field of 3D rendering. It likely covers fundamental concepts such as graphics pipelines, rendering techniques, shader programming, and more. </td>
+    <td><a href="https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528">Computer Graphics: Principles and Practice</a></td>
+    <td>John F. Hughes, Andries van Dam</td>
+    <td>The most comprehensive and up-to-date coverage of the field of computer graphics, from the basics to advanced techniques.</td>
   </tr>
   <tr>
-    <td><a href="https://freecomputerbooks.com/Introduction-to-Computer-Graphics.html">Introduction to computer graphics</a></td>
-    <td>"Introduction to Computer Graphics" on FreeComputerBooks.com is likely a resource that provides a foundational overview of computer graphics concepts and techniques. This book typically covers topics such as graphics hardware, algorithms for rendering and animation, 2D and 3D transformations, rasterization, and possibly introductory computer vision concepts. </td>
+    <td><a href="https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367022995">Fundamentals of Computer Graphics</a></td>
+    <td>Steve Marschner, Peter Shirley</td>
+    <td>An introduction to the fundamentals of computer graphics, with a focus on practical applications and hands-on learning.</td>
   </tr>
   <tr>
-    <td><a href="https://freecomputerbooks.com/Fundamentals-of-Computer-Graphics-with-Java.html">Fundamentals of computer grahpics using java</a></td>
-    <td>This is likely a book that focuses on teaching the foundational principles of computer graphics using the Java programming language. This resource is designed to introduce readers to essential concepts such as graphics rendering, transformations, animation techniques, and possibly interaction methods within a Java environment. </td>
-  </tr>
-</table>
-
-### Paid Books
-
-<table width="100%">
-  <tr>
-    <th>Resource</th>
-    <th>Description</th>
+    <td><a href="https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240">Real-Time Rendering</a></td>
+    <td>Tomas Akenine-Möller, Eric Haines, Naty Hoffman</td>
+    <td>An in-depth guide to the techniques and algorithms used in real-time rendering, including coverage of the latest hardware and software technologies.</td>
   </tr>
   <tr>
-    <td><a href="https://www.amazon.in/Computer-Graphics-C-Version-2e/dp/817758765X/">Computer graphics</a></td>
-    <td>This is a comprehensive guide to computer graphics programming using the C programming language. Authored by Donald Hearn and M. Pauline Baker, this textbook covers fundamental concepts such as graphics hardware, algorithms for 2D and 3D graphics, rendering techniques, geometric transformations, and more. </td>
+    <td><a href="https://www.amazon.com/OpenGL-Programming-Guide-Official-Learning/dp/0321773039">OpenGL Programming Guide</a></td>
+    <td>Dave Shreiner, Graham Sellers</td>
+    <td>A comprehensive guide to programming with OpenGL, the industry-standard API for creating high-performance graphics.</td>
   </tr>
   <tr>
-    <td><a href="https://www.amazon.in/Fundamentals-Computer-Graphics-Steve-Marschner/dp/1138744816/">Fundamentals of computer graphics</a></td>
-    <td>This book is a comprehensive textbook that covers essential topics in computer graphics. This book is widely used in academic settings and is suitable for both undergraduate and graduate students studying computer graphics.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.amazon.in/Computer-Graphics-Concepts-Algorithms-Godse/dp/9333223347/">Computer graphics algorithms godse</a></td>
-    <td>This book is a comprehensive guide that covers fundamental concepts and algorithms in computer graphics. This textbook is designed to provide readers with a thorough understanding of both theoretical principles and practical techniques used in computer graphics. </td>
+    <td><a href="https://www.amazon.com/Computer-Graphics-Using-Open-GL/dp/0131392059">Computer Graphics Using OpenGL</a></td>
+    <td>Francis S. Hill Jr., Stephen M. Kelley</td>
+    <td>An introduction to computer graphics programming using OpenGL, with a focus on practical applications and hands-on learning.</td>
   </tr>
 </table>
 
 ## YouTube
 
-> These resources provided by youtube helps you to understand computer graphics more clearly.
-
 ### YouTube Channels
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Channel Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/@cem_yuksel/videos">Cem Yuksel</a></td>
-    <td> Cem Yüksel is known for his educational videos in computer graphics and related topics. His channel likely features tutorials, lectures, and discussions on subjects such as rendering, programming, and graphics technology.</td>
+    <td><a href="https://www.youtube.com/c/3blue1brown">3Blue1Brown</a></td>
+    <td>This channel is full of visually stunning videos that explain complex mathematical concepts, many of which are directly applicable to computer graphics.</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/@LearnwithMaktum">Learn with Maktum</a></td>
-    <td>"LearnwithMaktum" typically focus on educational content aimed at teaching specific skills such as computer graphics and more. They often feature tutorials, lessons, tips, and sometimes motivational content to help viewers learn and improve in their chosen field or interest.</td>
+    <td><a href="https://www.youtube.com/user/minutephysics">MinutePhysics</a></td>
+    <td>This channel features short videos that explain physics concepts in a simple and engaging way, many of which are relevant to computer graphics.</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/@keenancrane">Keenancrane</a></td>
-    <td> Keenan Crane is known for his expertise in computer graphics, geometry processing, and related fields. His YouTube channel likely features educational content, tutorials, lectures, and discussions on topics such as geometry, mathematics, and computational techniques. </td>
+    <td><a href="https://www.youtube.com/c/Computerphile">Computerphile</a></td>
+    <td>This channel features videos on a wide range of computer science topics, including computer graphics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/cs50tv">CS50</a></td>
+    <td>This channel features lectures and tutorials from Harvard's popular introductory computer science course, which covers many topics relevant to computer graphics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/user/cs50tv">The Coding Train</a></td>
+    <td>This channel features coding tutorials and challenges, many of which focus on creative coding and computer graphics.</td>
   </tr>
 </table>
 
-### YouTube playlists
+### YouTube Playlists
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Playlist Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY">computer graphics</a></td>
-    <td>This youtube playlist by education4u is one of the valuable resources for learning computer graphics, this includes a wide range of topics including types of graphics, I/O devices, 2d graphics,2d simulation and more.</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLrSfXmf5jzFtZgCcu2raPOvfEk21ZZ_HF">Computer Graphics - Three Tier Systems</a></td>
+    <td>This playlist covers the basics of computer graphics, including 2D and 3D graphics, transformations, and more.</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh">Introduction to Computer graphics</a></td>
-    <td>This playlist is a comprehensive collection for learning the basics of computer graphics, this playlist gives you the knowledge of computer simulation, physics based animation andmore.</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLJ-qpFV3GKUmC4s8YO4fhdunV8QNbWHhn">Computer Graphics and Visualization</a></td>
+    <td>This playlist covers the fundamentals of computer graphics and visualization, including topics such as rendering, shading, and more.</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/playlist?list=PL112A527F83F7A5E4">Computer Sc - Introduction to Computer Graphics</a></td>
-    <td>This playlist is very valuable resource as it is taught by Prof.Prem Kalra Department of Computer Science Engineering IIT Delhi, this is one of the classic playlist for learning computer graphics.</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLRwV5mYRR2q-o6z5w_Jfs8XB9djvCbxvq">Computer Graphics with Modern OpenGL and C++</a></td>
+    <td>This playlist covers the basics of computer graphics programming using modern OpenGL and C++.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL3oXkV_Gu2aSPUuGyvFfi14tP7d_tgt6Z">Introduction to Computer Graphics</a></td>
+    <td>This playlist covers the fundamentals of computer graphics, including topics such as transformations, lighting, and more.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PL-xUhiOY-9aNFVDkdXb6pAxmq5LUt67Cs">Computer Graphics</a></td>
+    <td>This playlist covers the basics of computer graphics, including 2D and 3D graphics, transformations, and more.</td>
   </tr>
 </table>
 
-## GiHub Repositories
+## Interview
+
+> Here are a few interview questions for a Graphics Engineer role:
+
+### Behavioral Questions:
+
+- Can you describe a challenging graphics problem you've encountered and how you solved it?
+- How do you stay current with the latest advancements in computer graphics technology?
+- Describe a time when you had to collaborate with a team to complete a graphics project.
+
+### Technical Questions:
+
+- Explain the difference between rasterization and ray tracing.
+- What is the graphics pipeline, and can you describe its stages?
+- How do you optimize the performance of a graphics application?
+- Describe the process of texture mapping in computer graphics.
+- Explain the concept of shaders and their types.
+
+### Practical Problems:
+
+- Write a shader program to implement basic lighting in a 3D scene.
+- Given a set of 3D points, write a program to render them using OpenGL.
+- Explain how you would implement a shadow mapping technique in a graphics engine.
+
+### Additional Tips:
+
+- Practice coding problems related to computer graphics on platforms like LeetCode, HackerRank, or CodeSignal.
+- Review the basics of linear algebra and calculus, as they are fundamental to many graphics algorithms.
+- Familiarize yourself with graphics APIs like OpenGL, DirectX, or Vulkan.
+- Build a portfolio of graphics projects to showcase your skills to potential employers.
+
+## GitHub Repositories
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Repository Name</th>
     <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ericjang/awesome-graphics">awesome graphics</a></td>
-    <td>The GitHub repository "awesome-graphics" maintained by Eric Jang is a curated list of resources related to computer graphics. It serves as a comprehensive collection of links to software libraries, frameworks, tools, academic papers, tutorials, and other materials relevant to graphics programming, rendering techniques, simulation, and related fields. </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zheng95z/fun-with-computer-graphics">Fun with Computer graphics</a></td>
-    <td>The GitHub repository "fun-with-computer-graphics" maintained by Zheng Zhang appears to be a collection of projects and resources related to computer graphics. It likely includes code examples, tutorials, and possibly educational materials aimed at exploring various aspects of computer graphics.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ggambetta/computer-graphics-from-scratch">Computer graphics from scratch</a></td>
-    <td>The GitHub repository "computer-graphics-from-scratch" maintained by ggambetta is dedicated to building computer graphics systems and algorithms from the ground up. It likely includes code, tutorials, and documentation aimed at understanding and implementing fundamental concepts in computer graphics.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/microsoft/DirectX-Graphics-Samples">DirectX-Graphics-Samples</a></td>
-    <td>Microsoft's DirectX-Graphics-Samples repository contains samples demonstrating the use of DirectX 12 and other DirectX graphics APIs.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/JoeyDeVries/LearnOpenGL">LearnOpenGL</a></td>
-    <td>This repository by Joey De Vries contains all the source code for the tutorials on the LearnOpenGL website, which is a comprehensive resource for learning modern OpenGL.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/ssloy/tinyrenderer">tinyrenderer</a></td>
-    <td>TinyRenderer is a tiny software renderer, a step-by-step software rendering tutorial written in C++.</td>
+    <td>A small software renderer written in C++.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KhronosGroup/Vulkan-Samples">Vulkan-Samples</a></td>
-    <td>The Vulkan-Samples repository by the Khronos Group is a collection of resources and samples demonstrating the Vulkan graphics API.</td>
+    <td><a href="https://github.com/graphitemaster/normals_revisited">normals_revisited</a></td>
+    <td>An exploration of different ways to compute normals in computer graphics.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/cg-tutor/PyOpenGL">PyOpenGL</a></td>
-    <td>PyOpenGL is the most common cross-platform Python binding to OpenGL and related APIs, which is useful for prototyping and learning OpenGL.</td>
+    <td><a href="https://github.com/diharaw/SoftwareRasterizer">SoftwareRasterizer</a></td>
+    <td>A simple software rasterizer implemented in C++.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ssloy/tinyraytracer">tinyraytracer</a></td>
+    <td>A small ray tracer written in C++.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/diharaw/SoftwareRenderer">SoftwareRenderer</a></td>
+    <td>A simple software renderer implemented in C++.</td>
   </tr>
 </table>
 
 ## Communities
 
-> These communities help you learn from others' mistakes, share knowledge, clear doubts, and more.
+> These are the communities to follow for Computer Graphics.
 
 ### Reddit Communities
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Subreddit Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.reddit.com/r/computergraphics/">r/computergraphics</a></td>
-    <td>The r/computergraphics subreddit is a community for computer graphics professionals, enthusiasts, and students to discuss and share news, insights, tools, and best practices related to computer graphics.</td>
+    <td><a href="https://www.reddit.com/r/computergraphics">r/computergraphics</a></td>
+    <td>This subreddit is dedicated to the discussion of computer graphics, including news, research, and tutorials.</td>
   </tr>
   <tr>
-    <td><a href="https://www.reddit.com/r/gamedev/">r/gamedev</a></td>
-    <td>The r/gamedev subreddit is a community for game developers of all levels to discuss all aspects of game development, including computer graphics, game design, programming, and more.</td>
+    <td><a href="https://www.reddit.com/r/gamedev">r/gamedev</a></td>
+    <td>This subreddit is dedicated to the discussion of game development, including graphics programming.</td>
   </tr>
   <tr>
-    <td><a href="https://www.reddit.com/r/GraphicsProgramming/">r/GraphicsProgramming</a></td>
-    <td>The r/GraphicsProgramming subreddit is focused on the technical side of computer graphics, including algorithms, techniques, and code related to rendering, shaders, and other graphics programming topics.</td>
+    <td><a href="https://www.reddit.com/r/GraphicsProgramming">r/GraphicsProgramming</a></td>
+    <td>This subreddit is dedicated to the discussion of graphics programming, including techniques, algorithms, and APIs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.reddit.com/r/opengl">r/opengl</a></td>
+    <td>This subreddit is dedicated to the discussion of OpenGL, the industry-standard API for creating high-performance graphics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.reddit.com/r/vulkan">r/vulkan</a></td>
+    <td>This subreddit is dedicated to the discussion of Vulkan, the next-generation graphics API from the Khronos Group.</td>
   </tr>
 </table>
 
-### Other Communities
+### Stack Exchange Sites
 
 <table width="100%">
   <tr>
-    <th>Resource</th>
+    <th>Site Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="http://cgsociety.org/">CGSociety</a></td>
-    <td>CGSociety is a community for digital artists and professionals working in the computer graphics industry, offering forums, galleries, and articles on various topics.</td>
+    <td><a href="https://computergraphics.stackexchange.com/">Computer Graphics Stack Exchange</a></td>
+    <td>This site is a question-and-answer platform for computer graphics topics.</td>
   </tr>
   <tr>
-    <td><a href="https://polycount.com/">Polycount</a></td>
-    <td>Polycount is a community for game artists focused on 3D art, modeling, texturing, and game design, with forums, challenges, and resources for artists.</td>
+    <td><a href="https://gamedev.stackexchange.com/">Game Development Stack Exchange</a></td>
+    <td>This site is a question-and-answer platform for game development topics, including graphics programming.</td>
   </tr>
   <tr>
-    <td><a href="http://realtimerendering.com/">Real-Time Rendering Community</a></td>
-    <td>The Real-Time Rendering Community offers resources and discussions on real-time rendering techniques, tools, and technologies.</td>
+    <td><a href="https://stackoverflow.com/">Stack Overflow</a></td>
+    <td>This site is a question-and-answer platform for a wide range of programming topics, including computer graphics.</td>
   </tr>
 </table>
-                                       |
 
+## Conferences and Events
 
-## Projects
+> These are the conferences and events to attend for Computer Graphics.
 
 <table width="100%">
   <tr>
-    <th>Resource Name</th>
+    <th>Conference Name</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/erwincoumans/pybullet">pybullet</a></td>
-    <td>PyBullet is an easy-to-use Python module for physics simulation, robotics, and machine learning, which includes computer graphics for visualization.</td>
+    <td><a href="https://s2021.siggraph.org/">SIGGRAPH</a></td>
+    <td>The premier conference and exhibition on computer graphics and interactive techniques.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/TheCherno/Sparky">Sparky</a></td>
-    <td>Sparky is a game engine created by TheCherno as part of a YouTube series, designed for learning about game engine development and computer graphics.</td>
+    <td><a href="https://www.gdconf.com/">GDC (Game Developers Conference)</a></td>
+    <td>The largest event for professionals in the game industry, featuring a wide range of topics, including graphics programming.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ssloy/tinyraytracer">tinyraytracer</a></td>
-    <td>TinyRayTracer is a simple ray tracer written in C++ in 500 lines of code, useful for understanding the fundamentals of ray tracing.</td>
+    <td><a href="https://eurographics2021.eg.org/">Eurographics</a></td>
+    <td>The annual conference of the European Association for Computer Graphics.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR">Vulkan Ray Tracing Tutorials</a></td>
-    <td>This repository contains tutorials demonstrating ray tracing techniques using the Vulkan API, created by Nvidia.</td>
+    <td><a href="https://www.graphicshardware.org/">Graphics Hardware</a></td>
+    <td>A conference focused on the latest research and developments in graphics hardware.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.highperformancegraphics.org/">High Performance Graphics</a></td>
+    <td>A conference focused on the latest research and developments in high-performance graphics.</td>
   </tr>
 </table>
 
@@ -376,3 +404,4 @@ Computer graphics refers to the imathat are generated using a computer. This can
 Computer graphics is a fascinating and rapidly evolving field that underpins many of the visual technologies we use today. From video games and movies to virtual reality and scientific visualization, computer graphics techniques bring digital content to life. To master computer graphics, it's essential to understand both the theoretical foundations and practical applications. Engaging with the vibrant graphics community, participating in projects, and continually learning through tutorials and documentation will significantly enhance your skills. Whether you are interested in real-time rendering, ray tracing, or game development, there is a wealth of resources and communities to support your journey. Stay creative, keep experimenting, and continue pushing the boundaries of what’s possible with computer graphics!
 
 Stay curious and keep creating!
+

@@ -57,16 +57,16 @@
                     class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark:text-slate-200 dark-mode:text-white focus:outline-none focus:shadow-outline">ResourceHub</a>
                 <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open">
                     <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
-                        <path x-show="!open" fill-rule="evenodd"
+                        <path x-show="open" fill-rule="evenodd"
                             d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z"
                             clip-rule="evenodd"></path>
-                        <path x-show="open" fill-rule="evenodd"
+                        <path x-show="!open" fill-rule="evenodd"
                             d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
                             clip-rule="evenodd"></path>
                     </svg>
                 </button>
             </div>
-            <nav :class="{'flex': open, 'hidden': !open}"
+            <nav :class="{'flex': !open, 'hidden': open}"
                 class="flex-col flex-grow hidden pb-4  md:pb-0 md:flex md:justify-center md:flex-row">
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200  focus:shadow-outline dark:bg-transparent  md:mt-0 md:ml-4 
                 dark:text-slate-200 focus:outline-none focus:shadow-outline" href="#Home">Home</a>
@@ -323,6 +323,7 @@
             </div>
             <p class="footer-description">ResourceHub is an open-source project that serves as a one-stop repository of
                 valuable resources curated by the amazing contributors in the community</p>
+<br>
             <div class="footer-icons">
                 <a href="https://github.com/jfmartinz/ResourceHub" target="_blank" aria-label="Github">
                     <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -348,9 +349,16 @@
                 <li><a href="feedback.html" class="hov">Feedback</a></li>
             </ul>
         </div>
-    </div>
+    </div><br>
+    <div class="footer-horizontal-line"></div>
     <div class="footer-bottom">
         <p>Copyright &copy; 2024 <a href="#">ResourceHub</a>. All Rights Reserved.</p>
+    </div>
+    <div class="footer-links-below">
+        <ul>
+            <li><a href="terms.html" class="hov">Terms of Service</a></li>
+            <li><a href="privacy.html" class="hov">Privacy Policy</a></li>
+        </ul>
     </div>
     <div id="back-to-top-container">
         <div class="circle1">
@@ -421,6 +429,28 @@
             });
         </script>
         <script src="cursorAnimation.js"></script>
+
+        <script>
+            // Check the dark mode preference on page load
+            document.addEventListener('DOMContentLoaded', () => {
+                const darkMode = localStorage.getItem('darkMode');
+                if (darkMode === 'enabled') {
+                    document.body.classList.add('dark');
+                }
+            });
+        
+            // Function to toggle dark mode
+            function toggleDarkMode() {
+                const body = document.body;
+                if (body.classList.contains('dark')) {
+                    body.classList.remove('dark');
+                    localStorage.setItem('darkMode', 'disabled');
+                } else {
+                    body.classList.add('dark');
+                    localStorage.setItem('darkMode', 'enabled');
+                }
+            }
+        </script>
 </body>
 
 </html>

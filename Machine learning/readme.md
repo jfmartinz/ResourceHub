@@ -775,6 +775,26 @@
         <td>This article by Bharathi Priya shared her Machine Learning experiences provided the questions which were asked in her interview and provided tips and tricks to crack any machine leaning interview.
         </td>
       </tr>  
+      <tr>
+        <td><a href="https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions">Top 45 Machine Learning Interview Questions (2024) by Simplilearn</a></td>
+        <td>This collection of 45 machine learning interview questions provided by Simplilearn offers a comprehensive overview of essential ML concepts. These questions cover the fundamental principles necessary for any machine learning interview.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.interviewbit.com/machine-learning-interview-questions/">Top Machine Learning Interview Questions & Answers by InterviewBit(2024)</a></td>
+        <td>This page from InterviewBit will help refresh important machine learning skills to ace interviews. It focuses on real-world ML interview questions commonly asked by companies like Microsoft and Amazon, along with guidance on how to answer them effectively.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.turing.com/interview-questions/machine-learning">100 Machine Learning Interview Questions and Answers by Turing</a></td>
+        <td>This page by Turing provides a collection of 100 machine learning interview questions categorized into basic, intermediate, and advanced levels. These questions cover a wide range of ML topics, making it excellent revision material for interviews.</td>
+      </tr>
+      <tr>
+        <td><a href="https://intellipaat.com/blog/interview-question/machine-learning-interview-questions/">Machine Learning Interview Questions and Answers by IntelliPaat</a></td>
+        <td>This write-up by IntelliPaat provides basic, intermediate, and advanced machine learning questions. It covers role-based and FAANG ML questions, along with a guide on how to prepare effectively for an ML interview and much more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.mygreatlearning.com/blog/machine-learning-interview-questions/">Top 170 Machine Learning Interview Questions 2024 by Great Learning</a></td>
+        <td>This article from Great Learning features 170 machine learning questions tailored for both freshers and experts. Additionally, it includes questions on Python and coding, making it a thorough resource for interview preparation.</td>
+      </tr>
 </table>
 
 ### Others

@@ -23,6 +23,8 @@ A computer network is a collection of interconnected devices that can communicat
    - [Security Monitoring](#security-monitoring)
    - [Network Inventory](#network-inventory)
 - [Books](#books)<br>
+  - [Free Books](#free-books)
+  - [Paid Books](#paid-books)<br> 
 - [YouTube](#youtube)
   - [Youtube Channels](#youtube-channels)<br>
   - [YouTube Playlist](#youtube-playlists)<br>
@@ -606,6 +608,33 @@ A computer network is a collection of interconnected devices that can communicat
 
 > You can refer to these books on Computer Networks. They are listed below:
 
+#### Free Books
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://freecomputerbooks.com/Computer-Networks-A-Systems-Approach.html">Computer Networks: A systems Approach</a></td>
+        <td>This book is a comprehensive textbook that provides an in-depth exploration of computer networking concepts and principles from a systems perspective. The book covers fundamental topics such as network architecture, protocols, routing, switching, network security, and performance optimization.</td>
+      </tr>
+      <tr>
+        <td><a href="https://freecomputerbooks.com/An-Introduction-to-Computer-Networks-by-Peter-Dordal.html">Introduction to Computer Networks</a></td>
+        <td>"An Introduction to Computer Networks" by Peter Dordal is a foundational textbook designed to introduce readers to the fundamental concepts and principles of computer networks. The book covers essential topics such as network architecture, protocols, data transmission, network security, network applications and more.</td>
+      </tr>
+      <tr>
+        <td><a href="https://freecomputerbooks.com/Computer-Networks-From-Scratch.html">Computer networks from scratch</a></td>
+        <td>This is a comprehensive guide designed for beginners looking to understand the fundamentals of computer networks from the ground up. The book starts with foundational concepts such as network architecture, protocols, and data transmission principles. It progresses through more advanced topics including network security, routing algorithms, and network management.</td>
+      </tr>
+      <tr>
+        <td><a href="https://freecomputerbooks.com/Computer-Networking-Principles-Protocols-and-Practice.html">Computer Networks</a></td>
+        <td>The "Computer Networking: Principles, Protocols, and Practice" is a comprehensive textbook that delves into the fundamental aspects of computer networking. Written for both students and professionals, this book covers a wide range of topics essential for understanding modern network systems.</td>
+      </tr>
+</table>
+
+### Paid Books
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -620,7 +649,7 @@ A computer network is a collection of interconnected devices that can communicat
         <td>This textbook on computer networks follows a top-down approach. It is designed to help students understand the basics of networking in general and the protocols used in the Internet, in particular.</td>
       </tr>
       <tr>
-        <td> <a href="https://www.amazon.com/Computer-Networks-Sixth-Pearson-Tanenbaum/dp/9356063605/">Computer Networks, 6e by  Tanenbaum (Author)</a></td>
+        <td> <a href="https://www.amazon.com/Computer-Networks-Global-Andrew-Tanenbaum/dp/1292374063/">Computer Networks, 6e by  Tanenbaum (Author), David Wetherall (Author)</a></td>
         <td>In Computer Networks, Tanenbaum et al. explain how networks work from the inside out. They start with the physical layer of networking, computer hardware and transmission systems, then work their way up to network applications </td>
       </tr>
       <tr>
