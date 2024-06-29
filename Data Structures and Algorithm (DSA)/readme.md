@@ -231,6 +231,26 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td> The best thing about this channel is, you will find the thought process behind every problem and not just simple data structures and algorithms. All of the content is in English so that anyone can watch it. It has got so many views and one can also check the comments if they have any doubt. </td>
 </tr>
 <tr>
+<td><a href = "https://www.youtube.com/@sahilandsarra">Sahil and Sarra</a></td>
+<td>The Sahil and Sarra YouTube channel provides comprehensive tutorials on Data Structures and Algorithms (DSA), aimed at simplifying complex concepts for students and professionals. They offer in-depth explanations, practical coding examples, and tips for acing technical interviews, making it a valuable resource for anyone looking to master DSA.</td>
+</tr>
+<tr>
+<td><a href = "https://www.youtube.com/@Telusko">Telusko</a></td>
+<td>Telusko is a popular YouTube channel offering comprehensive tutorials on Data Structures and Algorithms (DSA). The channel features clear, concise explanations and practical examples, making complex concepts accessible for learners at all levels. It is highly regarded for its structured approach and engaging teaching style.</td>
+</tr>
+<tr>
+<td><a href = "https://www.youtube.com/@JennyslecturesCSIT">Jennys lectures</a></td>
+<td>Jenny's Lectures is a YouTube channel that offers comprehensive tutorials on Data Structures and Algorithms (DSA). The channel provides clear, step-by-step explanations suitable for beginners and advanced learners alike, covering key concepts, problem-solving techniques, and practical coding examples to enhance understanding and application of DSA principles.</td>
+</tr>
+<tr>
+<td><a href = "https://www.youtube.com/@freecodecamp">Freecode camp</a></td>
+<td>The FreeCodeCamp YouTube channel offers comprehensive and beginner-friendly tutorials on Data Structures and Algorithms (DSA). It features detailed, step-by-step lessons that cover fundamental concepts, coding implementations, and problem-solving techniques, making it an excellent resource for learners aiming to master DSA for interviews and programming challenges.</td>
+</tr>
+<tr>
+<td><a href = "https://www.youtube.com/@NareshIT">Naresh IT</a></td>
+<td>Naresh IT's YouTube channel offers comprehensive tutorials on Data Structures and Algorithms (DSA), designed to cater to both beginners and advanced learners. Their videos cover fundamental concepts, practical coding examples, and detailed explanations, making complex topics accessible and easier to understand.</td>
+</tr>
+<tr>
 <td><a href="https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&si=IX12vP-NN3VaLpuM"> Apna College </a></td>
 <td> The "Apna College DSA Playlist" in Java offers clear explanations and practical coding examples to master Data Structures and Algorithms effectively. Perfect for beginners and advanced learners alike. </td>
 </tr>
@@ -251,6 +271,19 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <tr>
 <td><a href="https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU"> Data strctures and Algorithms </a></td>
 <td> The YouTube playlist "Data Structures and Algorithms" offers a comprehensive series of tutorials covering key concepts in data structures and algorithms. It includes explanations and practical examples of various data structures like arrays, linked lists, stacks, queues, trees, and graphs, as well as algorithmic techniques such as sorting, searching, and dynamic programming. </td>
+</tr>
+<tr>
+<td><a href = "
+https://www.youtube.com/watch?v=pkYVOmU3MgA&t=2277s">DSA using Python</a></td>
+<td>The FreeCodeCamp YouTube channel offers a comprehensive Data Structures and Algorithms (DSA) course using Python. This series covers fundamental concepts, from basic data structures like arrays and linked lists to advanced algorithms for sorting and searching, providing clear explanations and practical coding examples suitable for beginners and intermediate learners.</td>
+</tr>
+<tr>
+<td><a href = "https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop">DSA using Java</a></td>
+<td>Apna College's YouTube channel offers comprehensive tutorials on Data Structures and Algorithms (DSA) using Java, tailored for beginners and intermediate learners. The channel provides clear explanations, practical coding examples, and step-by-step guidance to help viewers understand and implement key DSA concepts effectively.</td>
+</tr>
+<tr>
+<td><a href = "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ">DSA using C++</a></td>
+<td>The Apna College DSA using C++ YouTube channel offers comprehensive tutorials on Data Structures and Algorithms, aimed at helping students master the fundamentals and advanced concepts. The channel covers a wide range of topics including arrays, linked lists, trees, graphs, and dynamic programming, with clear explanations and practical coding examples in C++.</td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y"> Data structures using C</a></td>
@@ -298,8 +331,20 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td> Interviewbit is a platform, providing preparation for technical interviews, coding interviews. Has a vast list of coding questions from all topics along with their company tags.</td>
 </tr>
 <tr>
+<td><a href = "https://www.freecodecamp.org/">Freecode camp</a></td>
+<td>FreeCodeCamp offers a comprehensive Data Structures and Algorithms (DSA) curriculum designed to build foundational coding skills. Through interactive lessons and practical coding challenges, it covers essential topics such as arrays, linked lists, trees, and sorting algorithms, making it ideal for beginners and those preparing for technical interviews.</td>
+</tr>
+<tr>
+<td><a href = "https://www.hackerearth.com/">Hacker Earth</a></td>
+<td>HackerEarth is a renowned coding platform known for its robust challenges and contests focused on Data Structures and Algorithms (DSA). It offers a diverse range of problems to hone programming skills and hosts competitive programming events that attract skilled developers worldwide.</td>
+</tr>
+<tr>
 <td><a href="https://www.geeksforgeeks.org/">GeeksforGeeks </a></td>
 <td> GeeksforGeeks has a dedicated practicing platform where people can go and practice problems by sorting them by Company Name and difficulty.</td>
+</tr>
+<tr>
+<td><a href = "https://www.codingninjas.com/blog/2021/03/22/codestudio-a-coding-platform-to-prepare-practice/">Coding Ninja</a></td>
+<td>Coding Ninjas is an educational platform that offers comprehensive courses in Data Structures and Algorithms (DSA). These courses are designed to provide in-depth knowledge and practical skills through a structured curriculum, interactive coding assignments, and personalized mentorship. The platform aims to help learners master DSA concepts essential for competitive programming and technical interviews.</td>
 </tr>
 </table>
 
