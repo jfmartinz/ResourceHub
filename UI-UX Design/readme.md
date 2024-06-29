@@ -79,6 +79,13 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
       <td>This is roadmap to learn UI/UX</td>
 
       </tr>
+
+      <tr>
+        <td ><a href="https://www.guvi.in/blog/ui-ux-designer-roadmap-for-beginners/">UI/UX Roadmap</a></td>
+        <td>This link contains UI/UX roadmap for beginners .</td>
+
+      </tr>
+      
  
   </table>
 

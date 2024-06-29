@@ -82,6 +82,11 @@ An operating system (OS) serves as the intermediary between computer hardware an
     <td><a href="https://roadmap.sh/">OS Development Roadmap</a></td>
     <td>A comprehensive guide covering basic to advanced topics in OS development, including kernel programming, memory management, and more.</td>
   </tr>
+
+  <tr>
+  <td><a href="https://roadmap.sh/r/operating-system-9f83n">OS Roadmap</a></td>
+  <td>This link contains a detailed roadmap for learning about operating systems. It includes a step-by-step guide to understanding various concepts and components of operating systems</td>
+  </tr>
 </table>
 
 ## Introduction
