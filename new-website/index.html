@@ -421,6 +421,28 @@
             });
         </script>
         <script src="cursorAnimation.js"></script>
+
+        <script>
+            // Check the dark mode preference on page load
+            document.addEventListener('DOMContentLoaded', () => {
+                const darkMode = localStorage.getItem('darkMode');
+                if (darkMode === 'enabled') {
+                    document.body.classList.add('dark');
+                }
+            });
+        
+            // Function to toggle dark mode
+            function toggleDarkMode() {
+                const body = document.body;
+                if (body.classList.contains('dark')) {
+                    body.classList.remove('dark');
+                    localStorage.setItem('darkMode', 'disabled');
+                } else {
+                    body.classList.add('dark');
+                    localStorage.setItem('darkMode', 'enabled');
+                }
+            }
+        </script>
 </body>
 
 </html>
