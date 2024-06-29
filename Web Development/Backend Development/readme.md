@@ -32,6 +32,10 @@ Backend development is also crucial for creating APIs (Application Programming I
   - [Testing](#testing)
   - [Deployment](#deployment)
   - [CI/CD](#ci-cd)
+- [Template Engines](#templateEngines)
+  - [Pug](#pug)
+  - [Ejs](#Ejs)
+  - [Handlebars](#hbs)
 - [UI compounets](#ui-compounets)
 - [Version Control](#version-control)
 - [Communities](#communities)
@@ -648,6 +652,31 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
     <tr>
         <td><a href="https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops">Azure Pipelines Documentation</a></td>
         <td>Azure DevOps, part of the Microsoft ecosystem, provides a comprehensive set of tools for CI/CD, including Azure Pipelines for building, testing, and deploying applications across different platforms and cloud environments.</td>
+    </tr>
+</table>
+
+### Template Engines
+
+<table width="100%">
+    <tr>
+        <th>Template Engine</th>
+        <th>Description</th>
+        <th>Example</th>
+    </tr>
+    <tr>
+        <td><a href="https://pugjs.org/api/getting-started.html">Pug</a></td>
+        <td>Pug (formerly Jade) is a high-performance template engine for Node.js and browsers, known for its concise and readable syntax that compiles to HTML.</td>
+        <td>`app.set('view engine', 'pug');`</td>
+    </tr>
+    <tr>
+        <td><a href="https://ejs.co/">EJS</a></td>
+        <td>EJS (Embedded JavaScript) is a simple templating language that lets you generate HTML markup with plain JavaScript.</td>
+        <td>`app.set('view engine', 'ejs');`</td>
+    </tr>
+    <tr>
+        <td><a href="https://handlebarsjs.com/">Handlebars</a></td>
+        <td>HBS (Handlebars) is a popular templating engine for Node.js and web browsers that allows you to create semantic templates with minimal syntax, helping to build dynamic HTML pages efficiently.</td>
+        <td>`app.set('view engine', 'hbs');`</td>
     </tr>
 </table>
 
