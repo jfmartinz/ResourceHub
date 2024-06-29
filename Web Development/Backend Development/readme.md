@@ -658,23 +658,19 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
 <table width="100%">
     <tr>
         <th>Template Engine</th>
-        <th>Description</th>
-        <th>Example</th>
+        <th>Description</th> 
     </tr>
     <tr>
         <td><a href="https://pugjs.org/api/getting-started.html">Pug</a></td>
         <td>Pug (formerly Jade) is a high-performance template engine for Node.js and browsers, known for its concise and readable syntax that compiles to HTML.</td>
-        <td>`app.set('view engine', 'pug');`</td>
     </tr>
     <tr>
         <td><a href="https://ejs.co/">EJS</a></td>
-        <td>EJS (Embedded JavaScript) is a simple templating language that lets you generate HTML markup with plain JavaScript.</td>
-        <td>`app.set('view engine', 'ejs');`</td>
+        <td>EJS (Embedded JavaScript) is a simple templating language that lets you generate HTML markup with plain JavaScript.</td> 
     </tr>
     <tr>
         <td><a href="https://handlebarsjs.com/">Handlebars</a></td>
-        <td>HBS (Handlebars) is a popular templating engine for Node.js and web browsers that allows you to create semantic templates with minimal syntax, helping to build dynamic HTML pages efficiently.</td>
-        <td>`app.set('view engine', 'hbs');`</td>
+        <td>HBS (Handlebars) is a popular templating engine for Node.js and web browsers that allows you to create semantic templates with minimal syntax, helping to build dynamic HTML pages efficiently.</td> 
     </tr>
 </table>
 
