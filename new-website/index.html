@@ -100,32 +100,31 @@
 
     <!-- Github and discord icons -->
    
+    <style>
+        .icon-link {
+            font-size: 1.35rem; 
+            margin: 5px 15px; 
+            display: inline-block;
+            transition: transform 0.3s ease;
+        }
+        .dark .social-icon:hover svg path{
+            fill: black;
+        }
+         .dark .social-icon svg path{
+           fill: white;
+         }
+        .icon-link:hover {
+            transform: scale(1.2);
+        }
+    </style>
+                    
+    <input type="checkbox" id="slider" class="slider hidden" onclick="toggleDarkMode()">
+    <label for="slider"
+        class="flex items-center w-16 h-8 p-1 transition duration-500 bg-gray-300 rounded-full cursor-pointer slider-label dark:bg-gray-700">
+        <div class="w-6 h-6 transition duration-500 transform bg-white rounded-full shadow-md slider-circle"></div>
+    </label>
+    
 </nav>
-
-<style>
-    .icon-link {
-        font-size: 1.35rem; 
-        margin: 5px 15px; 
-        display: inline-block;
-        transition: transform 0.3s ease;
-    }
-    .dark .social-icon:hover svg path{
-        fill: black;
-    }
-     .dark .social-icon svg path{
-       fill: white;
-     }
-    .icon-link:hover {
-        transform: scale(1.2);
-    }
-</style>
-                
-<input type="checkbox" id="slider" class="slider hidden" onclick="toggleDarkMode()">
-<label for="slider"
-    class="flex items-center w-16 h-8 p-1 transition duration-500 bg-gray-300 rounded-full cursor-pointer slider-label dark:bg-gray-700">
-    <div class="w-6 h-6 transition duration-500 transform bg-white rounded-full shadow-md slider-circle"></div>
-</label>
-
                 <div class="btn-container">
 
                     <div @click.away="open = false" class="" x-data="{ open: true }">
