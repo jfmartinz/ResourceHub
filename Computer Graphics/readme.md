@@ -10,6 +10,8 @@ Computer graphics refers to the images that are generated using a computer. This
   - [Paid Courses](#paid-courses)<br>
 - [TCP/IP Protocols](#tcpip-protocol)
 - [Books](#books)<br>
+  - [Free Books](#free-books)
+  - [Paid Books](#paid-books)
 - [YouTube](#youtube)
   - [YouTube Channels](#youtube-channels)<br>
   - [YouTube Playlists](#youtube-playlists)<br>
