@@ -722,6 +722,16 @@ Python supports multiple programming paradigms, including procedural, object-ori
         <th>Description</th>
          <th>Cost</th>
       </tr>
+   <tr>
+        <td><a href="https://drive.google.com/file/d/1V36jUB16ZycBPfVph_5GXnzapKwHeCv0/view">INTERVIEW QUESTIONS</a></td>
+        <td>Introduces Python interview questions with answer.</td>
+          <td>FREE</td>
+      </tr>
+   <tr>
+        <td><a href="https://docs.google.com/document/d/1SpQWCjLWGw9tf_hDQzJ9i8xmmJT0TfQ-oEnfrXCAYss/edit">Python: Codes+ theory</a></td>
+        <td>python notes along with sample codes are available for begineers .</td>
+          <td>Paid</td>
+      </tr>
        <tr>
         <td><a href="https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280">Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes</a></td>
         <td>Introduces Python through practical projects and exercises, ideal for beginners and those transitioning from other languages.</td>
