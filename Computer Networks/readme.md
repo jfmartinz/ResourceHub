@@ -620,7 +620,7 @@ A computer network is a collection of interconnected devices that can communicat
         <td>This textbook on computer networks follows a top-down approach. It is designed to help students understand the basics of networking in general and the protocols used in the Internet, in particular.</td>
       </tr>
       <tr>
-        <td> <a href="https://www.amazon.com/Computer-Networks-Sixth-Pearson-Tanenbaum/dp/9356063605/">Computer Networks, 6e by  Tanenbaum (Author)</a></td>
+        <td> <a href="https://www.amazon.com/Computer-Networks-Global-Andrew-Tanenbaum/dp/1292374063/">Computer Networks, 6e by  Tanenbaum (Author), David Wetherall (Author)</a></td>
         <td>In Computer Networks, Tanenbaum et al. explain how networks work from the inside out. They start with the physical layer of networking, computer hardware and transmission systems, then work their way up to network applications </td>
       </tr>
       <tr>
