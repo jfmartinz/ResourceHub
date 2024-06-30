@@ -186,6 +186,18 @@
     <td><a href="https://lightgbm.readthedocs.io/en/stable/">LightGBM</a></td>
     <td>The LightGBM documentation provides resources for learning LightGBM, a fast and efficient gradient boosting framework by Microsoft. It covers installation, parameters, training models, and usage examples.</td>
   </tr>
+  <tr>
+  <td><a href="https://docs.scipy.org/doc/scipy/">Scipy</a></td>
+  <td>The link contains the official documentation for SciPy. It includes sections on:Installation,User Guide,API Reference,Building from Source,Development,Release Notes
+  </td>
+  </tr>
+
+   <tr>
+  <td><a href="https://spacy.io/usage/spacy-101">spaCy</a></td>
+  <td>This documentation will explain spaCy’s features in simple terms and with examples or illustrations.It contains sections like linguistic annotations,Statistical models,tokenization etc.
+  </td>
+  </tr>
+
 </table>
 
 #### Introduction to Machine Learning
