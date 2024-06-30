@@ -35,7 +35,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-7 mb-5 mb-lg-0">
                          <h2 class="mb-5">Fill this feedback form</h2><h3>Reach out to us.</h3>
-                            <form action="" class="border-right pr-5 mb-5" method="post" id="contactForm" name="contactForm"> 
+                            <form action="" class="border-right pr-5 mb-5" method="post" id="feedback-form" name="contactForm"> 
                                 <!--Star rating-->
                                 <div class="star-rating">
                                     <ul>
@@ -58,7 +58,7 @@
                             </div>
                 <div class="row">
                     <div class="col-md-12 form-group">
-                        <input type="text" class="form-control" name="email" id="email" placeholder="youremail@somemail.com">
+                        <input type="text" class="form-control" name="from_email" id="email" placeholder="youremail@somemail.com">
                     </div>
                 </div>
                 <div class="row">
@@ -68,14 +68,13 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <input type="submit" value="Send Message" class="btn btn-primary rounded-0 px-2">
+                        <input  value="Send Message" onclick="handleSubmit()" class="btn btn-primary rounded-0 px-2">
                         <span class="submitting"></span>
                      </div>
                 </div>
             <p>Created by <a href="index.html" target="_blank">ResourceHub</a></p>
                 </form>
-            <div id="form-message-warning mt-4"></div>
-                <div id="form-message-success" style="display: none;">
+                <div id="thank-you-message">
                     Your message was sent, thank you!
                 </div>
             </div>
@@ -144,6 +143,41 @@
 
 
 </script>    
-  
+<script type="text/javascript"
+src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+</script>
+<script type="text/javascript">
+    (function(){
+       emailjs.init({
+         publicKey: "hy4H1lNcyJFX5uy-W",
+       });
+    })();
+  </script>
+<script>
+    // Feedback JS
+    function handleSubmit() {
+    
+    emailjs.sendForm('service_xul7il5', 'template_h4wikn8',"#feedback-form").then(
+  (response) => {
+    console.log('SUCCESS!',  response.status, response.text);
+  },
+  (error) => {
+    console.log('FAILED...', error);
+  },
+);
+
+   
+document.getElementById('thank-you-message').style.display='block'
+    setTimeout(() => {
+        document.getElementById('thank-you-message').style.display='none '
+
+    }, 2000);
+
+
+
+}
+  </script><script>
+    document.getElementById('thank-you-message').style.display='none '
+  </script>
 </body>
 </html>
