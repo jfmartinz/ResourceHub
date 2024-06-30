@@ -1,0 +1,8 @@
+{
+  "label": "Core Concept",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Tailwind CSS is a design system implementation in pure CSS. It is also configurable. It gives developers super powers. It allows them to build websites with a clean consistent UI out of the box."
+  }
+}
