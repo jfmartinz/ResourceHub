@@ -174,7 +174,6 @@ This section is a curated collection of valuable Java and Java development resou
     <td><a href="https://www.geeksforgeeks.org/file-handling-in-java/">File Handling</a></td>
     <td>An article covering exception handling in Java, including try-catch blocks and custom exceptions.</td>
   </tr>
-
   <tr>
     <td><a href="https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples/">Input/Output (I/O)</a></td>
     <td>An article explaining input/output (I/O) operations in Java, including file handling and streams.</td>
@@ -182,6 +181,14 @@ This section is a curated collection of valuable Java and Java development resou
   <tr>
     <td><a href="https://www.tutorialspoint.com/java/java_multithreading.htm">Multithreading in Java</a></td>
     <td>An article covering multithreading in Java, including the Thread class, Runnable interface, and synchronization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/javarevisited/introduction-to-java-stream-apis-25542140a279">Stream Apis</a></td>
+    <td>An article covering about stream api operations.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@dharshib.8/beginners-guide-to-generics-in-java-c758ac97ffe0">Generics</a></td>
+    <td>An article covering generic classes, generic methods and wildcards.</td>
   </tr>
 </table>
 
@@ -226,6 +233,18 @@ This section is a curated collection of valuable Java and Java development resou
     <td><a href="https://maven.apache.org/guides/getting-started/index.html">Apache Maven</a></td>
     <td>Getting started guide for Apache Maven, a build automation tool and dependency management tool for Java projects.</td>
   </tr>
+  <tr>
+    <td><a href="https://medium.com/javarevisited/building-a-secure-restful-user-crud-with-spring-boot-a-step-by-step-guide-486ed3fd4e5a">Practical guide to spring boot rest api crud</a></td>
+    <td>In this comprehensive guide, it delve into the process of creating a RESTful CRUD (Create, Read, Update, Delete) API for managing user data using Spring Boot and MySQL.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/javarevisited/getting-started-with-unit-testing-in-spring-boot-bada732a5baa">Unit testing in springboot </a></td>
+    <td>In this comprehensive guide, you will learn how to write unit testing for a baseic crud application with JUNIT and MOCKITO.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/@dharshib.8/securing-spring-boot-applications-with-jwt-part-1-5bff0f56578e">Securing springboot applications with JWT </a></td>
+    <td>In this comprehensive guide, How to secure the spring boot applications with JWT with a practical example.</td>
+  </tr>
 </table>
 
 #### Microservices
@@ -254,6 +273,10 @@ This section is a curated collection of valuable Java and Java development resou
   <tr>
     <td><a href="https://kubernetes.io/">Kubernetes - Official Website</a></td>
     <td>Official website for Kubernetes, an open-source container orchestration platform for automating deployment, scaling, and management of containerized applications.</td>
+  </tr>
+  <tr>
+    <td><a href="https://medium.com/javarevisited/getting-started-with-microservices-4266f440086f">Practical guide to microservices in springboot</a></td>
+    <td>In the comprehensive guide, you will understand what microservice architecture by developing a simple microservice project.</td>
   </tr>
 </table>
 
