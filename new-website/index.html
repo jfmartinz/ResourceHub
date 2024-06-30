@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="loading.css">
     <link rel="stylesheet" href="contributors.css">
     <link rel="stylesheet" href="about.css">
+    <link rel="script" href="home.js">
 
     
     <link rel="icon" href="assets/logo.png">
@@ -156,11 +157,12 @@ window.ScrollProgress = ScrollProgress;
     <!-- NAVBAR -->
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
 
-
+    
     <div
         class="w-full text-gray-800 bg-transparent navbr dark:text-slate-200 dark-mode:text-gray-200 dark-mode:bg-gray-800">
         <div x-data="{ open: true }"
             class="flex flex-col items-center justify-between max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+            <img id="LogoImage" src="assets/footerLight.png" style="width:30px;">
             <div class="flex flex-row items-center justify-between gap-20 p-4" id="topbar">
                 <a style="font-family: 'Righteous'; text-transform: none;" href="#"
                     class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark:text-slate-200 dark-mode:text-white focus:outline-none focus:shadow-outline">ResourceHub</a>
@@ -177,6 +179,7 @@ window.ScrollProgress = ScrollProgress;
             </div>
             <nav :class="{'flex': !open, 'hidden': open}"
                 class="flex-col flex-grow hidden pb-4  md:pb-0 md:flex md:justify-center md:flex-row">
+                
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200  focus:shadow-outline dark:bg-transparent  md:mt-0 md:ml-4 
                 dark:text-slate-200 focus:outline-none focus:shadow-outline" href="#Home">Home</a>
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
@@ -248,8 +251,6 @@ window.ScrollProgress = ScrollProgress;
     <div id="particles-js"></div>
     <center>
         <div class="mt-36 items-center p-10 max-w-[60rem]" id="Home">
-
-
             <h1 class="mb-20 text-xl font-bold text-center sm:text-2xl md:text-6xl lg:text-8xl">ResourceHub
             </h1>
 
