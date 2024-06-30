@@ -8,47 +8,49 @@ Backend development is also crucial for creating APIs (Application Programming I
 
 ## Table of Contents
 
-- [Roadmap](#roadmap)
-- [Courses](#courses)
-- [Tutorials](#tutorials)
-  - [Basics](#basics)
-- [Frameworks](#frameworks)
-  - [JavaScript Frameworks](#javascript-frameworks)
-  - [Python Frameworks](#python-frameworks)
-  - [Ruby Frameworks](#ruby-frameworks)
-  - [PHP Frameworks](#php-frameworks)
-- [Advanced Topics](#advanced-topics)
-    - [Microservices](#microservices)
-    - [Scalability](#scalability)
+- [Backend Development](#backend-development)
+  - [Table of Contents](#table-of-contents)
+      - [Back-End Roadmap](#back-end-roadmap)
+      - [Courses(](#courses)
+    - [Tutorials](#tutorials)
+      - [Introduction](#introduction)
+    - [Frameworks](#frameworks)
+      - [Python Frameworks](#python-frameworks)
+      - [PHP Frameworks](#php-frameworks)
+      - [Ruby Frameworks](#ruby-frameworks)
+    - [Advanced Topics](#advanced-topics)
+      - [Microservices](#microservices)
+      - [Scalability](#scalability)
     - [Serverless Architecture](#serverless-architecture)
-    - [Security](#security)
-- [Online code playgrounds](#online-code-playgrounds)
-- [code editors](#code-editors)
-- [Tools](#tools)
-  - [Database Management](#database-management)
-  - [API Development](#api-development)
-  - [Authentication](#authentication)
-  - [Logging](#logging)
-  - [Testing](#testing)
-  - [Deployment](#deployment)
-  - [CI/CD](#ci-cd)
-- [UI compounets](#ui-compounets)
-- [Version Control](#version-control)
-- [Communities](#communities)
-  - [Discord](#discord)
-  - [Reddit](#reddit)
-- [YouTube](#youtube)
-  - [YouTube Channels](#youtube-channels)
-  - [YouTube Playlists](#youtube-playlists)
-- [Books](#books)
-    - [Free Books](#free-books)
-    - [Paid Books](#paid-books)
-- [Projects](#projects)
-    - [Beginner Level](#beginner-level)
-    - [Intermediate Level](#intermediate-level)
-    - [Advance Level](#advanced-level)
-- [Official Documentation](#official-documentation)
-- [Conclusion](#conclusion)
+      - [Security](#security)
+    - [Online Code Playgrounds](#online-code-playgrounds)
+    - [Code Editors](#code-editors)
+    - [Tools](#tools)
+      - [Database Management](#database-management)
+      - [API Development](#api-development)
+      - [Authentication](#authentication)
+      - [Logging](#logging)
+      - [Testing](#testing)
+      - [Deploying](#deploying)
+      - [CI CD](#ci-cd)
+  - [Template Engines](#template-engines)
+      - [UI compounets](#ui-compounets)
+    - [Version control](#version-control)
+    - [Communities](#communities)
+      - [Discord](#discord)
+      - [Reddit](#reddit)
+    - [YouTube](#youtube)
+      - [YouTube Channels](#youtube-channels)
+      - [YouTube Playlist](#youtube-playlist)
+    - [Books](#books)
+      - [Free Books](#free-books)
+      - [Paid Books](#paid-books)
+    - [Projects](#projects)
+      - [Beginner Level](#beginner-level)
+      - [Intermediate Level](#intermediate-level)
+      - [Advanced Level](#advanced-level)
+    - [Official Documentation](#official-documentation)
+    - [Conclusion](#conclusion)
 
 #### Back-End Roadmap
 
@@ -63,7 +65,7 @@ Backend development is also crucial for creating APIs (Application Programming I
 </tr>
 </table>
 
-#### Courses
+#### Courses(
 
 > These courses help you learn React in a structure way and help you improve your skills at backend development.
 
@@ -648,6 +650,27 @@ Fortunately, Spring Boot provides seamless integration with JSON Web Tokens (JWT
     <tr>
         <td><a href="https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops">Azure Pipelines Documentation</a></td>
         <td>Azure DevOps, part of the Microsoft ecosystem, provides a comprehensive set of tools for CI/CD, including Azure Pipelines for building, testing, and deploying applications across different platforms and cloud environments.</td>
+    </tr>
+</table>
+
+## Template Engines
+
+<table width="100%">
+    <tr>
+        <th>Template Engine</th>
+        <th>Description</th> 
+    </tr>
+    <tr>
+        <td><a href="https://pugjs.org/api/getting-started.html">Pug</a></td>
+        <td>Pug (formerly Jade) is a high-performance template engine for Node.js and browsers, known for its concise and readable syntax that compiles to HTML.</td>
+    </tr>
+    <tr>
+        <td><a href="https://ejs.co/">EJS</a></td>
+        <td>EJS (Embedded JavaScript) is a simple templating language that lets you generate HTML markup with plain JavaScript.</td> 
+    </tr>
+    <tr>
+        <td><a href="https://handlebarsjs.com/">Handlebars</a></td>
+        <td>HBS (Handlebars) is a popular templating engine for Node.js and web browsers that allows you to create semantic templates with minimal syntax, helping to build dynamic HTML pages efficiently.</td> 
     </tr>
 </table>
 
