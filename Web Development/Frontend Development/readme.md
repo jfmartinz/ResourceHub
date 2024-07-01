@@ -976,6 +976,15 @@ to everyone - everywhere!</td>
    <td><a href="https://www.youtube.com/playlist?list=PLYQSCk-qyTW37zDPzcAyzCsnypFQrhUcq">Course: Frontend Web Development for Beginners</a></td>
     <td>This playlist by Full Stack Zack is the collection of frontend web development resources. Throughout the series, he will teach you to build your own personal website and blog and along the way, will learn various web development technologies and more.  </td>
   </tr>
+  <tr>
+   <td><a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w">Course: Sigma Web Development Course</a></td>
+    <td>📚 About this Playlist:
+    Are you interested in learning web development but find most tutorials in English hard to follow? Look no further! This course is entirely in Hindi and is designed to take you from beginner to pro, one step at a time.
+    👨‍💻 Who is this for?
+    Beginners who want to dive into web development
+    Intermediate developers looking to sharpen their skills.
+    </td>
+  </tr>
 </table>
 
 ### GitHub Repositories
