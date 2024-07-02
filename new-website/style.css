@@ -1660,3 +1660,10 @@ footer {
 #back-to-top:hover {
   fill: rgba(58, 55, 55);
 }
+.sec{
+  height: 93vh;
+  position: fixed;
+  width: 100%;
+  top: 60px;
+  overflow: auto;
+}
