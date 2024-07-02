@@ -41,6 +41,77 @@
     top: 0;
     left: 0;
 }
+.popupOverlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      display: none;
+      justify-content: center;
+      align-items: flex-start;
+      padding-top: 50px; /* Adjust this value to position the popup further down */
+      z-index: 1000;
+    }
+
+    .popup {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      width: 400px;
+      max-width: 90%;
+      text-align: center;
+      position: relative;
+    }
+
+    .closeButton {
+      background: transparent;
+      border: none;
+      font-size: 24px;
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      cursor: pointer;
+    }
+
+    .starRating {
+      margin: 20px 0;
+      font-size: 24px;
+    }
+
+    .starRating span {
+      cursor: pointer;
+      color: #ddd;
+    }
+
+    .starRating .filled {
+      color: #ffd700;
+    }
+
+    textarea {
+      width: calc(100% - 20px);
+      margin: 10px;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      resize: vertical;
+    }
+
+    .submitButton {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .submitButton:hover {
+      background-color: #0056b3;
+    }
 </style>
 
 
@@ -192,6 +263,9 @@ window.ScrollProgress = ScrollProgress;
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
         href="#faq">FAQ</a
                 class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-center md:flex-row">
+                <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline" onclick="openRateUsPopup()">
+                    Rate Us
+                </a>
                 <a class="social-icon px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
                     href="https://discord.com/channels/1243120700626309131/1243121246217175081" target="_blank"
                     aria-label="Discord">
@@ -214,7 +288,58 @@ window.ScrollProgress = ScrollProgress;
     <!-- Github and discord icons -->
    
 </nav>
+<div id="rateUsPopup" class="popupOverlay">
+    <div class="popup">
+      <button class="closeButton" onclick="closeRateUsPopup()">&times;</button>
+      <h2>Rate Us</h2>
+      <form id="rateUsForm">
+        <div class="starRating">
+          <span class="empty" onclick="setRating(1)">★</span>
+          <span class="empty" onclick="setRating(2)">★</span>
+          <span class="empty" onclick="setRating(3)">★</span>
+          <span class="empty" onclick="setRating(4)">★</span>
+          <span class="empty" onclick="setRating(5)">★</span>
+        </div>
+        <textarea
+          id="feedback"
+          placeholder="Leave your feedback here..."
+          required
+        ></textarea>
+        <button type="submit" class="submitButton">Submit</button>
+      </form>
+    </div>
+  </div>
+  <script>
+    let rating = 0;
 
+function setRating(value) {
+  rating = value;
+  const stars = document.querySelectorAll('.starRating span');
+  stars.forEach((star, index) => {
+    star.classList.toggle('filled', index < rating);
+    star.classList.toggle('empty', index >= rating);
+  });
+}
+
+function openRateUsPopup() {
+  document.getElementById('rateUsPopup').style.display = 'flex';
+  // Reset rating and feedback fields
+  setRating(0);
+  document.getElementById('feedback').value = '';
+}
+
+function closeRateUsPopup() {
+  document.getElementById('rateUsPopup').style.display = 'none';
+}
+
+document.getElementById('rateUsForm').addEventListener('submit', function(e) {
+  e.preventDefault();
+  const feedback = document.getElementById('feedback').value;
+  console.log({ rating, feedback });
+  closeRateUsPopup();
+});
+  </script>
+  
 <style>
     .icon-link {
         font-size: 1.35rem; 
