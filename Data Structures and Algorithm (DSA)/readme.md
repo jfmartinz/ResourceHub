@@ -12,6 +12,8 @@ This section serves as a curated collection of valuable resources for learning a
 - [Interview Questions](#interview-questions)
 - [Types of Data Structures](#data-structures-and-algorithm)
 - [Tutorials or Courses](#tutorials)
+- [Books](#books)
+- [Youtube Channels](#youtube-channels)
 - [YouTube](#youtube)
    - [YouTube Channels](#youtube-channels)
    - [YouTube Playlist](#types-of-data-structures)
@@ -56,6 +58,10 @@ Let's make coding fun and exciting! 🚀.</td>
    <tr>
     <td><a href="https://www.scaler.com/topics/dsa-roadmap/"> DSA Roadmap for Complete Learning </a></td>
     <td>This DSA roadmap will provide a structured approach to mastering data structures and algorithms, covering essential concepts, practical coding exercises, and optimization techniques to enhance problem-solving skills and coding efficiency.</td>
+    </tr>
+   <tr>
+    <td><a href="https://roadmap.sh/datastructures-and-algorithms">Data Structures & Algorithms Roadmap</a></td>
+    <td>Step by step guide to learn Data Structures and Algorithms in 2024</td>
     </tr>
 </table>
 
@@ -130,6 +136,37 @@ Let's make coding fun and exciting! 🚀.</td>
 </td>
 </tr>
 </table>
+
+## Books
+
+> You can refer to these books on Data Structures and Algorithms. They are listed below:
+
+<table width="100%">
+      <tr>
+        <th>Book Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td> <a href="https://www.amazon.in/INTRODUCTION-ALGORITHMS-FOURTH-Charles-Leiserson/dp/026204630X/">Introduction to Algorithms, by Coremen (Author) </a></td>
+        <td> This book covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers, with self-contained chapters and algorithms in pseudocode.</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.amazon.in/FUNDAMENTALS-DATA-STRUCTURES-C-Horowitz/dp/B00D52P708/">Fundamentals of Data Structures in C by E.Horowitz (Author), S. Sahni (Author)</a></td>
+        <td>This book is a comprehensive and technically rigorous introduction to data structures in C</td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.amazon.in/Data-Structures-Algorithm-Analysis-2e/dp/8177583581/">Data Structures and Algorithm Analysis in C by Mark Allen Weiss (Author)</a></td>
+        <td>In this book, the author refines and enhances his innovative approach to algorithms and data structures. Using C implementation, he highlights conceptual topics, focusing on ADTs and the analysis of algorithms for efficiency as well as performance and running time. </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.amazon.in/Data-Structures-C-Schaums-Outline/dp/0070701989/">Data Structures With C (Schaum's Outline Series) by Seymour Lipschutz (Author) </a></td>
+        <td> Data Structures with C (Schaum's Outline Series) is a vital guidebook for students and helps understand the concepts and theories behind data structures.The book is divided into 30 chapters which cover various topics such as string processing, arrays, pointers, records, linked lists, graphs and their applications, sorting and searching, cryptography and network security, IPv6 Protocol etc. </td>
+      </tr>
+      <tr>
+        <td> <a href="https://www.amazon.in/Computer-Algorithms-C-Sahni-Horowitz/dp/8173716110/">Computer Algorithms/C++ by E. Horowitz (Author), S. Sahni (Author) </a></td>
+        <td>  Using the popular object-oriented language C++, the text incorporates the latest research and state-of-the-art applications, bringing this classic to the forefront of modern computer science education. </td>
+      </tr>
+  </table>
 
 ## Interview Questions
 

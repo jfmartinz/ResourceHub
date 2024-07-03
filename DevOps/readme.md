@@ -28,8 +28,11 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
     - [YouTube Videos & Playlists](#youtube-videos--playlists)
 - [Communities](#communities)
 - [Books](#books)
+  - [Free Books](#free-books)
+  - [Paid Books](#paid-books)
 - [GitHub Repositories](#github-repositories)
 - [GitHub Projects](#github-projects)
+- [Interview](#interview)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -1094,6 +1097,24 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
 
 > These are some books, you can checkout for learning DevOps.
 
+#### Free Books
+
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+       <tr>
+        <td><a href="https://freecomputerbooks.com/Enterprise-DevOps-Playbook.html">Enterprize devops playbook </a></td>
+        <td>Provides a practical roadmap that will help you define the steps necessary to meet your DevOps goals. The playbook distills DevOps into seven key practice areas that you can adapt to the DevOps style that best fits your organization. You'll understand how company culture plays a fundamental role in your ability to use DevOps effectively.</td>
+      </tr>
+      <tr>
+        <td><a href="https://freecomputerbooks.com/Effective-DevOps-with-AWS.html">Effective DevOps with AWS</a></td>
+        <td>This book will help you to understand how the most successful tech start-ups launch and scale their services on AWS, and will teach you how you can do the same.</td>
+      </tr>
+  </table>
+
+#### paid Books
 
 <table width="100%">
     <tr>
@@ -1341,6 +1362,32 @@ It emphasizes collaboration, automation, integration and rapid feedback cycles. 
     <td>Apache Maven core.</td>
   </tr>
 </table>
+
+### Interview
+<table width="100%" id="interview">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+   <tr>
+        <td><a href="https://www.turing.com/interview-questions/devops#basic-devops-interview-questions-and-answers/">Basic Interview Questions On DevOps</a></td>
+        <td>This article contains fundamental interview questions on DevOps from Turing.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.turing.com/interview-questions/devops#advanced-devops-interview-questions-and-answers/">Advanced Interview Questions On DevOps</a></td>
+        <td>This article contains advanced interview questions on DevOps from Turing.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.projectpro.io/article/devops-interview-questions-and-answers/590/">DevOps Interview Questions and Answers</a></td>
+        <td>This article consists of the top 50 most popular DevOps interview questions.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/devops-interview-questions/">Top 50+ DevOps Interview Questions and Answers - GeeksforGeeks</a></td>
+        <td>This article consists of DevOps interview questions and answers for freshers as well as experienced candidates to get their dream job.</td>
+      </tr>
+    
+</table>
+
 
 ## Conclusion
 

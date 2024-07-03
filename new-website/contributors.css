@@ -1,3 +1,8 @@
+.contributor-card:hover{
+  transition: 0.5s;
+transform: scale(1.20);
+}
+
 ::before,
 ::after {
   box-sizing: border-box;
@@ -49,11 +54,11 @@ h1 {
   }
   
   #contributor {
-    margin: 0;
-    padding: 50px 0;
+    width: 90%;
+    max-width: 1000px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
   }
   .loading{

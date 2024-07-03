@@ -1,5 +1,6 @@
 
-document.querySelector("input[type='checkbox']#dark-toggle").addEventListener("click", darkModeListener);
+//document.querySelector("input[type='checkbox']#dark-toggle").addEventListener("click", darkModeListener);
+document.querySelector("input[type='checkbox']#slider").addEventListener("click", toggleDarkMode);
 function toggleDarkMode() {
     document.documentElement.classList.toggle('dark');
     // Check if dark mode is enabled
@@ -10,6 +11,8 @@ function toggleDarkMode() {
     orgLogoImg.src = isDarkModeEnabled ? 'assets/GSSocDark.png' : 'assets/GSSocLight.png';
     const footerImg = document.getElementById('logo-image');
     footerImg.src = isDarkModeEnabled ? 'assets/footerDark.png' : 'assets/footerLight.png';
+    const logoImg = document.getElementById('LogoImage');
+    logoImg.src = isDarkModeEnabled ? 'assets/footerDark.png' : 'assets/footerLight.png';
 }
 
 // For particles
@@ -18,3 +21,4 @@ function toggleDarkMode() {
 particlesJS.load('particles-js', './assets/homeparticles.json', function () {
     console.log('callback - particles.js config loaded');
 });
+

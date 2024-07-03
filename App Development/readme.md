@@ -39,6 +39,14 @@ App development refers to crafting software for diverse devices, involving plann
       <th><a href="https://wdevon99.medium.com/road-map-to-becoming-a-react-native-developer-in-2018-for-beginners-cc26af18c71">Roadmap to become ReactNative Developer</a> </th>
       <th> This is an excellent blog that gives quick insight and roadmap to become successful ReactNative developer.</th>
       </tr>
+      <tr>
+      <th><a href="https://roadmap.sh/flutter">Flutter Roadmap</a> </th>
+      <th>Step by step guide to becoming a Flutter developer in 2024</th>
+      </tr>
+      <tr>
+      <th><a href="https://roadmap.sh/android">Android Developer</a> </th>
+      <th>Step by step guide to becoming an Android developer in 2024</th>
+      </tr>
   </table>
 
 ### Tools
