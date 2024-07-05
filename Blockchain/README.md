@@ -16,6 +16,7 @@ This curated collection offers valuable Blockchain resources contributed by expe
 - [YouTube](#youtube)
   - [YouTube Channels](#youtube-channels)
   - [YouTube Playlists](#youtube-playlists)
+- [CheatSheet](#cheatsheet)
 - [Community](#community)
 
 ## Roadmap
@@ -52,6 +53,14 @@ These are some free and paid courses to learn Blockchain.
  <tr>
    <td><a href="https://www.coursera.org/learn/cryptocurrency">Bitcoin and Cryptocurrency Technologies</a></td>
    <td>This Princeton course covers the workings of Bitcoin and other cryptocurrencies.</td>
+ </tr>
+ <tr>
+   <td><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/blockchain-basics">Free Blockchain Course with Certificate</a></td>
+   <td>This course covers all basic to intermediate concepts of blockchain and certificate will be provided upon completion of course.</td>
+ </tr>
+ <tr>
+   <td><a href="https://blockchaintrainingalliance.com/products/blockchain-basics">Blockchain Basics by Blockchain training alliance.</a></td>
+   <td>This is a 90-minute course which provides overview of blockchain.</td>
  </tr>
 </table>
 
@@ -223,6 +232,25 @@ These resources provided by YouTube help you to learn blockchain more efficientl
    <td>This playlist covers the development of smart contracts on various blockchain platforms.</td>
  </tr>
 </table>
+
+### CheatSheet
+Here are some cheatsheets for blockchain.
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://intellipaat.com/blog/tutorial/blockchain-tutorial/blockchain-cheat-sheet/">Blockchain CheatSheet</a></td>
+   <td>This is a handy reference sheet of blockchain.</td>
+ </tr>
+ <tr>
+   <td><a href="https://steemit.com/blockchain/@ryan313/blockchain-cheatsheet">Glossary of Blockchain Terms</a></td>
+   <td>This cheatsheet contains all important terms in blockchain with their meanings.</td>
+ </tr>
+ 
+</table>
+
 
 ## Community
 These are some communities you can seek help from to learn about blockchain.
