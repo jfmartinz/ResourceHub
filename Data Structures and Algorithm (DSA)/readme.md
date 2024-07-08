@@ -301,6 +301,10 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td><a href="https://www.geeksforgeeks.org/">GeeksforGeeks </a></td>
 <td> GeeksforGeeks has a dedicated practicing platform where people can go and practice problems by sorting them by Company Name and difficulty.</td>
 </tr>
+   <tr>
+<td><a href="https://www.codewars.com/">Codewars </a></td>
+<td>Codewars focuses on improving coding skills through gamified challenges known as kata.</td>
+</tr>
 </table>
 
 ## Practice Sheet
