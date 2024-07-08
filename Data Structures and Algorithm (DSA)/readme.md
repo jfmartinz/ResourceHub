@@ -102,6 +102,10 @@ Let's make coding fun and exciting! 🚀.</td>
   <td><a href="https://youtu.be/bvWVs0tJUOY?si=49dbm82Ck8_V2E70"> Graph </a></td>
   <td> A Graph is a non-linear data structure consisting of a finite set of vertices(or nodes) and a set of edges that connect a pair of nodes. Another important non-linear data structure is the graph. It is similar to the Tree data structure, with the difference that there is no particular root or leaf node, and it can be traversed in any order. </td>
   </tr>
+   <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLzjZaW71kMwTF8ZcUwm9md_3MvtOfwGow"> Heap </a></td>
+  <td> A heap is a specialized tree-based data structure that satisfies the heap property: in a max-heap, each parent node is greater than or equal to its children; in a min-heap, each parent node is less than or equal to its children. </td>
+  </tr>
   </table>
 
 ## Tutorials or Courses
