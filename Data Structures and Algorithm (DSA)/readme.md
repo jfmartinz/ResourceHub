@@ -190,6 +190,10 @@ Let's make coding fun and exciting! 🚀.</td>
   <td><a href="https://www.javatpoint.com/data-structure-interview-questions">Most frequently asked DSA interview questions and answers</a></td>
   <td>These are the most frequently asked Data Structures and Algorithms Interview questions provided along with their answers required to crack any top product based company.</td>
   </tr>
+   <tr>
+  <td><a href="https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/">Top 100 Data Structure and Algorithms Interview Questions Topic-wise</a></td>
+  <td>Top 100 most asked DSA interview questions Topic-wise to help you sail through your technical rounds.</td>
+  </tr>
   </table>
 
 ## YouTube
