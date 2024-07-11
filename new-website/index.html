@@ -18,9 +18,30 @@
     <link rel="stylesheet" href="loading.css">
     <link rel="stylesheet" href="contributors.css">
     <link rel="stylesheet" href="about.css">
+    <link rel="script" href="home.js">
 
     
     <link rel="icon" href="assets/logo.png">
+
+<style>
+    @charset "UTF-8";
+/**
+ *
+ * @authors Ted Shiu (tedshd@gmail.com)
+ * @date    2014-03-02 00:16:13
+ * @version $Id$
+ */
+
+.scroll_progress {
+    position: fixed;
+    overflow: hidden;
+}
+.scroll_progress div {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+</style>
 
 
     <script>
@@ -33,47 +54,139 @@
 </head>
 
 <body class="bg-white dark:bg-black dark:text-white">
-    <!-- Progress Bar -->
+    <!-- Progress Bar 
     <div id="progressBar"></div>
     <script>
-      window.onscroll = function() {
+        for (var i = 1; 100 >= i; i++) {
+            var li = document.createElement('li');
+            li.innerHTML = '<img src="" alt="img" width="90" height="90"><span>'+i+'</span>';
+            document.querySelector('ul').appendChild(li);
+        };
+    </script>-->
+    <script>
+      /*window.onscroll = function() {
         var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
         var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
         var scrolled = (winScroll / height) * 100;
         document.getElementById("progressBar").style.width = scrolled + "%";
-      };
+      };*/
+      /*global $, jQuery, alert, console, angular*/
+/**
+ *
+ * @authors Ted Shiu (tedshd@gmail.com)
+ * @date    2014-03-01 23:51:21
+ * @version $Id$
+ */
+
+function ScrollProgress (option) {
+    console.log('init');
+    var d4 = {
+        position: 'top',
+        thick: 5,
+        color: 'red'
+    };
+    var percent;
+    var dom = document.querySelector('body'),
+        progress = document.createElement('div'),
+        div = document.createElement('div');
+
+    option = option || {};
+    option.position = option.position || d4.position;
+    option.thick = option.thick || d4.thick;
+    option.color = option.color || d4.color;
+
+    // init position
+    switch(option.position) {
+        case 'top':
+            progress.style.top = 0;
+            progress.style.left = 0;
+            progress.style.width = '100%';
+            progress.style.height = option.thick + 'px';
+            div.style.height = '100%';
+        break;
+        case 'bottom':
+            progress.style.bottom = 0;
+            progress.style.left = 0;
+            progress.style.width = '100%';
+            progress.style.height = option.thick + 'px';
+            div.style.height = '100%';
+        break;
+        case 'left':
+            progress.style.top = 0;
+            progress.style.left = 0;
+            progress.style.width = option.thick + 'px';
+            progress.style.height = '100%';
+            div.style.width = '100%';
+        break;
+        case 'right':
+            progress.style.top = 0;
+            progress.style.right = 0;
+            progress.style.width = option.thick + 'px';
+            progress.style.height = '100%';
+            div.style.width = '100%';
+        break;
+        default:
+        return;
+    }
+
+    // detect scroll progress
+    window.addEventListener('scroll', function() {
+        if (dom.scrollTop) {
+            percent = (dom.scrollTop/(dom.scrollHeight - document.documentElement.clientHeight))*100 + '%';
+        } else {
+            percent = (window.pageYOffset/(dom.scrollHeight - document.documentElement.clientHeight))*100 + '%';
+        }
+        if (option.position === 'top' || option.position === 'bottom') {
+            div.style.width = percent;
+        }
+        if (option.position === 'left' || option.position === 'right') {
+            div.style.height = percent;
+        }
+    });
+
+    div.style.backgroundColor = option.color;
+    progress.setAttribute('class', 'scroll_progress');
+    progress.appendChild(div);
+    dom.appendChild(progress);
+}
+
+window.ScrollProgress = ScrollProgress;
+
     </script>
 
     <!-- NAVBAR -->
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
 
-
+    
     <div
         class="w-full text-gray-800 bg-transparent navbr dark:text-slate-200 dark-mode:text-gray-200 dark-mode:bg-gray-800">
         <div x-data="{ open: true }"
             class="flex flex-col items-center justify-between max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+            <img id="LogoImage" src="assets/footerLight.png" style="width:30px;">
             <div class="flex flex-row items-center justify-between gap-20 p-4" id="topbar">
                 <a style="font-family: 'Righteous'; text-transform: none;" href="#"
                     class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark:text-slate-200 dark-mode:text-white focus:outline-none focus:shadow-outline">ResourceHub</a>
                 <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open">
                     <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
-                        <path x-show="!open" fill-rule="evenodd"
+                        <path x-show="open" fill-rule="evenodd"
                             d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z"
                             clip-rule="evenodd"></path>
-                        <path x-show="open" fill-rule="evenodd"
+                        <path x-show="!open" fill-rule="evenodd"
                             d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
                             clip-rule="evenodd"></path>
                     </svg>
                 </button>
             </div>
-            <nav :class="{'flex': open, 'hidden': !open}"
+            <nav :class="{'flex': !open, 'hidden': open}"
                 class="flex-col flex-grow hidden pb-4  md:pb-0 md:flex md:justify-center md:flex-row">
+                
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200  focus:shadow-outline dark:bg-transparent  md:mt-0 md:ml-4 
                 dark:text-slate-200 focus:outline-none focus:shadow-outline" href="#Home">Home</a>
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
-        href="#about">About</a>
-    <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
         href="#resources">Resources</a>
+    <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+        href="#about">About</a>
+    
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
         href="#organization">Organization</a>
     <a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 dark-mode:focus:bg-gray-600 dark-mode:focus:text-white dark-mode:hover:text-white dark-mode:text-gray-200 md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
@@ -139,8 +252,6 @@
     <div id="particles-js"></div>
     <center>
         <div class="mt-36 items-center p-10 max-w-[60rem]" id="Home">
-
-
             <h1 class="mb-20 text-xl font-bold text-center sm:text-2xl md:text-6xl lg:text-8xl">ResourceHub
             </h1>
 
@@ -321,7 +432,7 @@
                 <img id="logo-image" src="assets/footerLight.png" alt="ResourceHub Image">
                 <h2 class="footer-title">ResourceHub</h2>
             </div>
-            <p class="footer-description">ResourceHub is an open-source project that serves as a one-stop repository of valuable resources curated by the amazing contributors in the community. It aims to provide users with easy access to a wide range of high-quality materials, from tutorials and guides to tools and templates. By fostering collaboration and sharing, ResourceHub empowers individuals to learn, grow, and achieve their goals more efficiently. Join us and be a part of this thriving ecosystem where knowledge and resources are freely exchanged for the benefit of all.</p>
+
             <div class="footer-icons">
                 <a href="https://github.com/jfmartinz/ResourceHub" target="_blank" aria-label="Github">
                     <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -347,9 +458,16 @@
                 <li><a href="feedback.html" class="hov">Feedback</a></li>
             </ul>
         </div>
-    </div>
+    </div><br>
+    <div class="footer-horizontal-line"></div>
     <div class="footer-bottom">
         <p>Copyright &copy; 2024 <a href="#">ResourceHub</a>. All Rights Reserved.</p>
+    </div>
+    <div class="footer-links-below">
+        <ul>
+            <li><a href="terms.html" class="hov">Terms of Service</a></li>
+            <li><a href="privacy.html" class="hov">Privacy Policy</a></li>
+        </ul>
     </div>
     <div id="back-to-top-container">
         <div class="circle1">
@@ -420,6 +538,37 @@
             });
         </script>
         <script src="cursorAnimation.js"></script>
+
+        <script>
+            // Check the dark mode preference on page load
+            document.addEventListener('DOMContentLoaded', () => {
+                const darkMode = localStorage.getItem('darkMode');
+                if (darkMode === 'enabled') {
+                    document.body.classList.add('dark');
+                }
+            });
+        
+            // Function to toggle dark mode
+            function toggleDarkMode() {
+                const body = document.body;
+                if (body.classList.contains('dark')) {
+                    body.classList.remove('dark');
+                    localStorage.setItem('darkMode', 'disabled');
+                } else {
+                    body.classList.add('dark');
+                    localStorage.setItem('darkMode', 'enabled');
+                }
+            }
+        </script>
 </body>
 
+<script>
+    var setting = {
+        position: 'left',
+        thick: 10,
+        color: '#ff8800'
+    }
+    // ScrollProgress(setting);
+    ScrollProgress();
+</script>
 </html>

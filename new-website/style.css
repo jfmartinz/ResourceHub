@@ -22,6 +22,13 @@
   background: linear-gradient(rgb(104, 74, 126),rgb(102, 7, 236)); 
   border-radius: 10px;
   height:1px;
+  transition: background-color 0.3s ease; 
+}
+
+/* Hover on thumb  */
+::-webkit-scrollbar-thumb:hover {
+  background:  linear-gradient(rgb(152, 110, 169, 0.8), rgb(148, 42, 204, 0.8));
+  cursor: pointer; 
 }
 *,
 ::before,
@@ -35,7 +42,10 @@
   border-color: #e5e7eb;
   /* 2 */
 }
-
+::-webkit-scrollbar-thumb:hover {
+  color: black; 
+  cursor: pointer;
+}
 ::before,
 ::after {
   --tw-content: '';
@@ -1093,14 +1103,7 @@ body{
 }
 
 .dark .footer-container{
-  color: rgb(0, 0, 0);
-  background-color: rgb(255, 255, 255);
-}
 
-.dark .footer-title {
-  font-size: 2em;
-  margin-bottom: 20px;
-  color: rgb(0, 0, 0);
 }
 .dark .footer-icons a svg path{
   fill: rgb(0, 0, 0);
@@ -1118,10 +1121,19 @@ body{
   width: 100%;
   color: rgb(0, 0, 0);
 }
-
+.dark .footer-horizontal-line {
+  border: 1px solid white;
+  margin: 3px 0;
+  padding-inline-end: 100%;
+}
 .dark .footer-bottom a {
-  color: rgb(0, 0, 0);
+
   font-weight: bold;
+}
+.dark .footer-links-below a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
 }
 
 .dark #back-to-top {
@@ -1392,10 +1404,7 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: auto;
-  max-width: none;
-  background-color: #000000;
-  padding: 30px;
+
   box-sizing: border-box;
   margin: 0px auto;
 }
@@ -1439,6 +1448,7 @@ body{
 
 .footer-title {
   font-size: 2em;
+  font-weight: bold;
   margin-bottom: 20px;
   color: white;
 }
@@ -1446,12 +1456,13 @@ body{
 .footer-description {
   font-size: 1em;
   line-height: 1.5;
-  color: #ffffff;
+
   margin-bottom: 20px;
 }
 
 .footer-icons {
   display: flex;
+  color: black;
   align-items: center; /* Align items vertically in the center */
 }
 
@@ -1465,8 +1476,9 @@ body{
 
 .footer-links {
   list-style: none;
+  color: white;
   padding: 0;
-  padding-left: auto; /* Add right padding to move the links towards the right */
+
 }
 
 .footer-links li {
@@ -1493,7 +1505,14 @@ body{
   height: 1.5em; /* Set the height of the arrow */
   width: 1.5em; /* Set the width of the arrow */
 }
-
+.bottom{
+  background-color: #e1b6b6;
+}
+.footer-horizontal-line {
+  border: 1px solid #000;
+  margin: 3px 0;
+  padding-inline-end: 100%;
+}
 .footer-bottom {
   text-align: center;
   margin-top: 20px;
@@ -1503,8 +1522,34 @@ body{
 }
 
 .footer-bottom a {
-  color: rgb(255, 255, 255);
+
   font-weight: bold;
+}
+.footer-links-below {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer-links-below ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+
+.footer-links-below li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.footer-links-below a {
+  color: #2c2c2c;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-links-below a:hover {
+  color: #555;
 }
 /* Back-to-top */
 
@@ -1551,7 +1596,6 @@ footer {
   transform: scale(1.06);
   transition: all .2s ease-in-out;
 }
-
 @media (max-width: 670px) {
   .footer-content {
     flex-direction: column;

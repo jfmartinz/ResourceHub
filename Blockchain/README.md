@@ -11,6 +11,8 @@ This curated collection offers valuable Blockchain resources contributed by expe
 - [Protocols](#protocols)
 - [Frameworks](#frameworks)
 - [Books](#books)
+  - [Free Books](#free-books)
+  - [Paid Books](#paid-books)
 - [YouTube](#youtube)
   - [YouTube Channels](#youtube-channels)
   - [YouTube Playlists](#youtube-playlists)
@@ -119,6 +121,30 @@ Some important frameworks in Blockchain.
 
 ## Books
 These are some of the books that can be used to learn Blockchain.
+
+### Free Books
+
+<table width="100%">
+ <tr>
+   <th>Resource Name</th>
+   <th>Description</th>
+ </tr>
+ <tr>
+   <td><a href="https://freecomputerbooks.com/Blockchain-for-Dummies-IBM-Limited-Edition.html">Blockchain for dummies</a></td>
+   <td>This book provides a fast way to catch up with the essentials of this quickly evolving tech. Written by an author involved in founding and analyzing blockchain solutions, this book serves to help those who need to understand what a blockchain can do (and can't do).</td>
+ </tr>
+ <tr>
+   <td><a href="https://freecomputerbooks.com/Building-Blockchain-Projects.html">Blockchain by example</a></td>
+   <td>This book will walk you through the process of building multiple blockchain projects with different complexity levels and hurdles. Each project will teach you just enough about the field's leading technologies, Bitcoin, Ethereum, Quorum, and Hyperledger in order to be productive from the outset.</td>
+ </tr>
+ <tr>
+   <td><a href="https://freecomputerbooks.com/Blockchain.html">Blockchain </a></td>
+   <td>This book is a basic guide for anyone who wishes to start with Blockchain technology. It tries to organize the topics in a way that both developers and technology enthusiasts can go through it and understand the topics without any effort.</td>
+ </tr>
+</table>
+
+
+### Paid Books
 
 <table width="100%">
  <tr>

@@ -13,8 +13,9 @@ Data science is the field that utilizes scientific methods, algorithms, and syst
 - [Books](#books)<br>
   - [Free books](#free-books)
   - [Paid Books](#paid-books)
-- [YouTube Channels](#youtube-channels)<br>
-- [YouTube Playlists](#youtube-playlists)<br>
+- [YouTube](#youTube)
+  - [YouTube Channels](#youtube-channels)<br>
+  - [YouTube Playlists](#youtube-playlists)<br>
 - [Resources for Finding Datasets](#resources-for-finding-datasets)<br>
 - [Competitions](#competitions)<br>
 - [Communities](#communities)<br>
