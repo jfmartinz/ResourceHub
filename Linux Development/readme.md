@@ -359,3 +359,37 @@ Linux development refers to creating software for the Linux operating system, en
   <td>The command-line tool for quick, simple deployment and management of Linux dedicated game servers.</td>
   </tr>
 </table>
+
+###  Interview 
+
+> These are some interview preparation resources.
+
+  <table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.geeksforgeeks.org/linux-interview-questions/">Linux Interview questions by geeksforgeeks</a></td>
+        <td>This link which navigates to geekforgeeks article focuses on Linux Interview questions 
+        for both freshers and experienced individuals, ensuring thorough preparation for Linux interview.
+        </td>
+      </tr> 
+      <tr>
+        <td><a href="https://www.testgorilla.com/blog/tricky-linux-interview-questions-answers/">Tricky 20 Linux Interview Questions</a></td>
+        <td>This article contains tricky 20 interview questions. 
+        </td>
+      </tr>  
+      <tr>
+        <td><a href="https://www.interviewbit.com/linux-interview-questions/">Linux Interview Questions - Interviewbit</a></td>
+        <td>This collection of Linux interview questions provided by Interviewbit offers a comprehensive overview of essential Linux concepts.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.simplilearn.com/linux-commands-interview-questions-article">Top 30 Linux Interview Questions - Simplilearn</a></td>
+        <td>Top 30 Linux Interview Questions.</td>
+      </tr>
+      <tr>
+        <td><a href="https://intellipaat.com/blog/interview-question/linux-interview-questions/">Linux Interview Questions and Answers by IntelliPaat</a></td>
+        <td>This write-up by IntelliPaat provides basic, intermediate, and advanced Linux questions.</td>
+      </tr>
+</table>
