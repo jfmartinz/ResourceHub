@@ -1,33 +1,33 @@
-# Python 
-Python development refers to creating applications, scripts, and software solutions using the Python programming language. Known for its simplicity, readability, and extensive libraries, Python is widely used in web development, data science, machine learning, automation, and more. It emphasizes rapid development and clear, maintainable code, making it a popular choice for both beginners and experienced developers. 
+# Python
+
+Python development refers to creating applications, scripts, and software solutions using the Python programming language. Known for its simplicity, readability, and extensive libraries, Python is widely used in web development, data science, machine learning, automation, and more. It emphasizes rapid development and clear, maintainable code, making it a popular choice for both beginners and experienced developers.
 
 Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming, and has a large, supportive community, contributing to a vast ecosystem of tools and resources.
 
 ## Table of Contents
 
-
 - [Roadmap](#roadmap)<br>
 - [Tutorials](#tutorials)<br>
-   - [Fundamentals](#fundamentals)<br>
-   - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)<br>
-   - [Core Python Libraries](#core-python-libraries)<br>
-   - [Frameworks and Libraries](#frameworks-and-libraries)<br>
-   - [Data Visulization Libraries](#data-visualization-libraries)
-   - [3D visualization](#3d-visualization)
-   - [Image Processing](#image-processing)
-   - [Neural Networks](#neural-networks)
-   - [Web Development with Flask](#web-development-with-flask)<br>
-   - [Web Development with Django](#web-development-with-django)<br>
-   - [Data Science and Machine Learning](#data-science-and-machine-learning)<br>
-   - [Automation with Python](#automation-with-python)<br>
+  - [Fundamentals](#fundamentals)<br>
+  - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)<br>
+  - [Core Python Libraries](#core-python-libraries)<br>
+  - [Frameworks and Libraries](#frameworks-and-libraries)<br>
+  - [Data Visulization Libraries](#data-visualization-libraries)
+  - [3D visualization](#3d-visualization)
+  - [Image Processing](#image-processing)
+  - [Neural Networks](#neural-networks)
+  - [Web Development with Flask](#web-development-with-flask)<br>
+  - [Web Development with Django](#web-development-with-django)<br>
+  - [Data Science and Machine Learning](#data-science-and-machine-learning)<br>
+  - [Automation with Python](#automation-with-python)<br>
 - [Tools](#tools)<br>
-   - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)<br>
-   - [Online Interpreters/Compilers](#online-interpreters)<br>
+  - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)<br>
+  - [Online Interpreters/Compilers](#online-interpreters)<br>
 - [Technologies](#technologies)<br>
 - [Design Patterns](#design-patterns)
 - [Courses](#courses)<br>
-   - [Free Courses](#free-courses)<br>
-   - [Paid Courses](#paid-courses)<br>
+  - [Free Courses](#free-courses)<br>
+  - [Paid Courses](#paid-courses)<br>
 - [Books](#books)<br>
 - [Python Projects](#python-projects)
   - [Beginner Level Projects](#beginner-level-projects)
@@ -56,10 +56,12 @@ Python supports multiple programming paradigms, including procedural, object-ori
       </tr>
   </table>
 
- ### Tutorials
+### Tutorials
+
 > Start your journey into Python programming with these essential tutorials covering basic syntax and concepts.
 
 #### Fundamentals
+
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -210,6 +212,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 </table>
 
 #### Data visualization Libraries
+
 <table>
   <thead>
     <tr>
@@ -254,6 +257,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 </table>
 
 #### 3D visualization
+
 <table>
   <thead>
     <tr>
@@ -280,7 +284,6 @@ Python supports multiple programming paradigms, including procedural, object-ori
     </tr>
   </tbody>
 </table>
-
 
 #### Image Processing
 
@@ -421,7 +424,6 @@ Python supports multiple programming paradigms, including procedural, object-ori
 
 #### Automation with Python
 
-
 <table width="100%">
   <tr>
     <th>Resource Name</th>
@@ -445,11 +447,12 @@ Python supports multiple programming paradigms, including procedural, object-ori
   </tr>
 </table>
 
-
 ### Tools
 
->Discover a wide variety of tools essential for Python Development. They are listed below:
-#### Integrated Development Environment (IDE) 
+> Discover a wide variety of tools essential for Python Development. They are listed below:
+
+#### Integrated Development Environment (IDE)
+
 <table width="100%">
       <tr>
         <th>Resource Name</th>
@@ -588,6 +591,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
   </table>
 
 ### Design Patterns
+
 > Design patterns are typical solutions to commonly occurring problems in software design. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code.
 
 <table>
@@ -617,10 +621,11 @@ Python supports multiple programming paradigms, including procedural, object-ori
   </tr>
 </table>
 
-  
 ### Courses
+
 > You can consider these courses for learning Python :
-  #### Free Courses
+
+#### Free Courses
 
 <table width="100%">
       <tr>
@@ -693,7 +698,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
       </tr>
   </table>
 
-  #### Paid Courses
+#### Paid Courses
 
 <table width="100%">
       <tr>
@@ -714,6 +719,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
   </table>
 
 ### Books
+
 > You can refer these books on Python Development. They are listed below:
 
 <table width="100%">
@@ -779,6 +785,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
 </table>
 
 ### Python Projects
+
 > Python Projects which can help you to enhance your development skills and build your resumes.
 
 ### Beginner Level Projects
@@ -904,7 +911,7 @@ Python supports multiple programming paradigms, including procedural, object-ori
   </tr>
 </table>
   
-### Advance Level Projects
+### Advanced Level Projects
 <table>
   <tr>
     <th>Resource Name</th>
@@ -941,9 +948,11 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td><a href="https://www.geeksforgeeks.org/create-a-screen-recorder-using-python/">Screen Recorder</a></td>
     <td>Create a screen-recorder using module provided by Python (pyautogui).</td>
   </tr>
+   
 </table>
 
 ### Interview Preparation
+
 > Here are some resources which can help you to prepare for Python interview rounds
 
 <table width="100%">
@@ -1155,7 +1164,6 @@ Python supports multiple programming paradigms, including procedural, object-ori
     <td>A Python cheat sheet by Zero to Mastery to help beginners learn and remember common Python syntax.</td>
   </tr>
 </table>
-
 
 ### Conclusion
 

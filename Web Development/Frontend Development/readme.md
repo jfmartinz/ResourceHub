@@ -1,5 +1,7 @@
-# FrontEnd Web Development 
+# FrontEnd Web Development
+
 ## Overview
+
 - [Roadmap](#roadmap)
 - [Courses](#courses)
 - [Tutorials](#tutorials)
@@ -947,6 +949,10 @@ to everyone - everywhere!</td>
     <td><a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q">Dev Ed</a></td>
     <td>Dev Ed, run by Eduard “Ed” Vladimirov, offers a blend of frontend development tutorials, coding challenges, and advice on improving as a developer. The channel covers HTML, CSS, JavaScript, and frontend frameworks like React and Svelte, catering to both beginners and intermediate learners.</td>
   </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=HGTJBPNC-Gw">Bro Code</a></td>
+    <td>Chris, also known by his YouTube name as Bro Code, is an American educational YouTuber and professional programmer who is known for offering free programming courses for several programming languages. Bro Code offers a variety of tutorials to master HTML, CSS, Javascript and libraries/frameworks; guiding you to build real-life projects.</td>
+  </tr>
 </table>
 
 #### YouTube Playlists
@@ -1132,9 +1138,7 @@ to everyone - everywhere!</td>
       <td><a href="https://www.youtube.com/watch?v=cb4d1QQY_BY">Netflix Landing Page</a></td>
       <td>Netflix landing Page  tutorial using HTML,CSS and JavaScript which resembles like Netflix Home Page where user can login to his netflix account and contains FAQ section.</td>
     </tr>
-    
 
-    
 </table>
 
 #### Intermediate projects
