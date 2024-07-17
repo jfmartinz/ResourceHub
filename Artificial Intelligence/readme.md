@@ -42,6 +42,7 @@ This section is a curated collection of Artificial Intelligence beginner to adva
   - [AI Job Sites](#ai-job-sites)
   - [Blogs](#blogs)
   - [AI Cheatsheets](#ai-cheatsheets)
+- [Interview](#interview)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -1498,6 +1499,29 @@ This section is a curated collection of Artificial Intelligence beginner to adva
     <td><a href="http://www.aicheatsheets.com/">Collection of AI Cheat-Sheets</a></td>
     <td>Various AI cheat sheets compiled in one place.</td>
   </tr>
+</table>
+
+###   Interview
+
+<table width="100%">
+      <tr>
+        <th>Resource</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.interviewbit.com/artificial-intelligence-interview-questions/">Artificial Intelligence Interview Questions.</a></td>
+        <td>This article consists of most commonly asked artificial intelligence interview questions with answers provided.</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.upwork.com/resources/prepare-for-ai-interview">How To Prepare for an AI Job Interview: 10 Tips for Success</a></td>
+        <td>This article consists of interview preparation guide for Artificial Intelligence ,tips and tricks to crack AI job interview.</td>
+      </tr>
+       <tr>
+        <td><a href="https://interviewprep-ai.com/">Interviewprep AI</a></td>
+        <td>In this website users can practice for their interview with AI as many times they want.This is an ultimate website for Interview Practice.</td>
+      </tr>
+      
+     
 </table>
 
 ## Conclusion

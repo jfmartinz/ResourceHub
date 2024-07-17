@@ -6,6 +6,7 @@
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
 */
+
 ::-webkit-scrollbar {
   width: 8.5px;
 }
@@ -21,6 +22,13 @@
   background: linear-gradient(rgb(104, 74, 126),rgb(102, 7, 236)); 
   border-radius: 10px;
   height:1px;
+  transition: background-color 0.3s ease; 
+}
+
+/* Hover on thumb  */
+::-webkit-scrollbar-thumb:hover {
+  background:  linear-gradient(rgb(152, 110, 169, 0.8), rgb(148, 42, 204, 0.8));
+  cursor: pointer; 
 }
 *,
 ::before,
@@ -34,7 +42,10 @@
   border-color: #e5e7eb;
   /* 2 */
 }
-
+::-webkit-scrollbar-thumb:hover {
+  color: black; 
+  cursor: pointer;
+}
 ::before,
 ::after {
   --tw-content: '';
@@ -898,7 +909,14 @@ body{
   z-index: -1;
   overflow: hidden;
 }
-
+/* For back to top button */
+#back-to-top-container{
+  position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 3;
+    cursor: pointer;
+}
 /* Round buttons */
 
 .roundbtn{
@@ -910,8 +928,10 @@ body{
 }
 
 .roundbtn1:hover{
-  background-color: black;
-  color: white;
+  /* background-color: black; */
+  /* color: white; */
+  background-color: var(--tw-ring-offset-color);
+  color: black;
 }
 
 .hover\:bg-black:hover {
@@ -1084,25 +1104,119 @@ body{
 
 .dark .footer-container{
   color: white;
-  background-color: black;
+  background-color: #31332f;
 }
-
+.dark .footer-icons a svg path{
+  fill: white;
+}
 .dark .footer-description,
 .dark .footer-links a,
 .dark .footer-links a::before{
   color: white;
 }
-
+.dark .footer-horizontal-line {
+  border: 1px solid white;
+  margin: 3px 0;
+  padding-inline-end: 100%;
+}
 .dark .footer-bottom a {
-  color: white;
+  color: rgb(151 184 255);
   font-weight: bold;
 }
-
-.dark svg path{
-  fill: white ;
+.dark .footer-links-below a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
 }
 
+.dark #back-to-top {
+  fill: rgb(255, 255, 255); /* White */
+}
+
+.dark a svg path {
+  fill: rgb(0, 0, 0); /* Black */
+}
+
+
+
+.dark .faq-question  {
+  background-color: #31332f;
+  color: white;
+}
+
+.dark .faq-answer  {
+  background-color: #5f615f;
+  color: white;
+}
+
+.dark .contribtors-container {
+  background-color: black;
+}
+
+.dark .slider + .slider-label .slider-circle::before{
+  content: '🌙' !important;
+ 
+}
+.dark .slider-circle{
+  transform: translateX(30px) !important;
+}
+
+.dark .about-section {
+  background-color: black;
+  color: white;
+}
+
+.dark .about-section p {
+  color: white;
+
+}
+
+
 /* Add these styles to the end of your existing style.css file */
+
+.contribtors-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 1000px;
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 40px auto; /* Adjust as needed */
+}
+
+.contribtors-container{
+  display: block;
+}
+
+.contribtors-content {
+  flex: 1;
+  max-width: 600px;
+  padding-right: 20px;
+
+}
+
+.about-section {
+  background-color: white;
+  padding: 40px;
+  width: 90%;
+  max-width: 1000px;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.about-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 1em !important;
+  line-height: 1.5 !important;
+  margin-bottom: 20px;
+  color: #333;
+}
 
 .container {
   display: flex;
@@ -1156,6 +1270,12 @@ body{
   height: auto;
 }
 @media (max-width: 768px) {
+  #topbar{
+    gap: 240px;
+  }
+  center div {
+    gap: 20px;
+  }
   .container {
       flex-direction: column;
       align-items: flex-start;
@@ -1171,17 +1291,72 @@ body{
       height: auto;
   }
 }
-.license-container {
+
+.faq-container {
+  width: 90%;
+  max-width: 1000px; /* Adjusted for wider width */
+  margin: 0 auto;
+}
+
+.faq-items {
+  width: 100%;
+}
+
+.faq-item {
+  background: #e0e0e0;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.faq-answer {
+  display: none; /* Initially hide answers */
+}
+
+.faq-answer.visible {
+  display: block; /* Show answers when .visible class is applied */
+}
+
+
+.faq-question {
+  font-family: "righteous";
+  padding: 15px;
+  font-size: 18px;
+  cursor: pointer;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.faq-answer {
+  display: none;
+  padding: 10px;
+  font-size: 16px;
+  background: #f9f9f9;
+  border-top: 1px solid #ddd;
+  border-radius: 0 0 5px 5px;
+}
+
+.faq-question::after {
+  content: '+';
+  font-size: 24px;
+}
+
+.faq-question.open::after {
+  content: '-';
+}
+
+
+.license-container {
+  display: grid;
+  justify-content: baseline;
   width: 90%;
   max-width: 1000px;
   background-color: #ffffff;
   padding: 20px;
-  box-sizing: border-box;
+  box-sizing: content-box;
   margin: 40px auto;
 }
+
 
 .license-content {
   flex: 1;
@@ -1222,9 +1397,10 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 90%;
-  max-width: 1000px;
-  background-color: #ffffff;
+  width: 100%;
+  max-width: 100%;
+  background-color: #e0e0e0d0;
+  color: black;
   padding: 20px;
   box-sizing: border-box;
   margin: 40px auto;
@@ -1263,18 +1439,20 @@ body{
 
 .footer-title {
   font-size: 2em;
+  font-weight: bold;
   margin-bottom: 20px;
 }
 
 .footer-description {
   font-size: 1em;
   line-height: 1.5;
-  color: #333333;
+  color: black;
   margin-bottom: 20px;
 }
 
 .footer-icons {
   display: flex;
+  color: black;
   align-items: center; /* Align items vertically in the center */
 }
 
@@ -1285,8 +1463,9 @@ body{
 
 .footer-links {
   list-style: none;
+  color: white;
   padding: 0;
-  padding-left: 100px; /* Add right padding to move the links towards the right */
+  padding-left: 300px; /* Add right padding to move the links towards the right */
 }
 
 .footer-links li {
@@ -1313,7 +1492,14 @@ body{
   height: 1.5em; /* Set the height of the arrow */
   width: 1.5em; /* Set the width of the arrow */
 }
-
+.bottom{
+  background-color: #e1b6b6;
+}
+.footer-horizontal-line {
+  border: 1px solid #000;
+  margin: 3px 0;
+  padding-inline-end: 100%;
+}
 .footer-bottom {
   text-align: center;
   margin-top: 20px;
@@ -1322,15 +1508,41 @@ body{
 }
 
 .footer-bottom a {
-  color: black;
+  color: rgb(68 110 201);
   font-weight: bold;
 }
+.footer-links-below {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer-links-below ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+
+.footer-links-below li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.footer-links-below a {
+  color: #2c2c2c;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-links-below a:hover {
+  color: #555;
+}
 /* Back-to-top */
+
 footer {
   position: relative;
   padding: 50px 0;
 }
-
 #back-to-top-container {
   position: fixed;
   bottom: 30px;
@@ -1351,9 +1563,100 @@ footer {
 #back-to-top {
   width: 40px; 
   height: 40px; 
-  fill:  currentColor;
+  fill: currentColor;
   transition: fill 0.3s;
 }
-#back-to-top:hover{
+
+#back-to-top:hover {
+  fill: rgb(83, 79, 79);
+  transform: scale(1.06);  
+  transition: all .2s ease-in-out;
+}
+
+.dark .circle1 {
+  background-color: #000000;
+}
+
+.dark #back-to-top:hover {
+  fill: rgb(207, 200, 200);
+  transform: scale(1.06);
+  transition: all .2s ease-in-out;
+}
+@media (max-width: 670px) {
+  .footer-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-left, .footer-right {
+    min-width: 100%;
+  }
+
+  .footer-right {
+    margin-top: 20px;
+  }
+
+  .footer-icons {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 20px;
+  }
+
+  .footer-links {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+  }
+}
+
+@media (max-width: 400px) {
+  .footer-description {
+    text-align: center;
+  }
+
+  .footer-links {
+    align-items: center;
+    text-align: start;
+  }
+}
+
+.dark svg path {
+  fill: rgb(255, 255, 255);
+}
+
+.dark svg path:hover {
+  fill: rgb(207, 200, 200);
+}
+
+.hov:hover {
+  color: rgba(58, 113, 224, 0.755);
+}
+
+#back-to-top-container {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.circle1 {
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s;
+}
+
+#back-to-top {
+  width: 40px;
+  height: 40px;
+  fill: currentColor;
+  transition: fill 0.3s;
+}
+
+#back-to-top:hover {
   fill: rgba(58, 55, 55);
 }

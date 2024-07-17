@@ -157,14 +157,37 @@ Welcome to the Computer Engineering resource repository! This collection offers 
     <th>Book Name</th>
     <th>Description</th>
   </tr>
+
   <tr>
     <td><a href="https://www.circuitstoday.com/learning-embedded-system-programming">Learning Embedded System Programming</a></td>
     <td>A free book that covers the basics of embedded system programming.</td>
   </tr>
+
   <tr>
     <td><a href="https://www.ece.rutgers.edu/~marsic/books/SEbook/">Software Engineering for Internet Applications</a></td>
     <td>A free book that covers the basics of software engineering for web applications.</td>
   </tr>
+
+  <tr>
+    <td><a href="https://www.gtuapymaterials.com/p/3130703-database-management-systems-sem.html">DataBase and Management System</a></td>
+    <td>A free book that covers the basics of Database and Management System.</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://www.gtuapymaterials.com/2022/06/gtu-operating-system-3140702-sem-4.html">Operating System</a></td>
+    <td>A free book that covers the basics of Operating System.</td>
+  </tr>
+
+   <tr>
+    <td><a href="https://www.gtuapymaterials.com/p/computer-network-2140709.html">Computer Networks</a></td>
+    <td>A free book that covers the basics of Computer Networks.</td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://www.gtuapymaterials.com/p/3130702-data-structures-sem-3-ds-gtu.html">Data Structures</a></td>
+    <td>A free book that covers the basics of Data Structures.</td>
+  </tr>
+
 </table>
 
 #### Paid Books
