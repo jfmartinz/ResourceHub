@@ -1450,36 +1450,46 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 /* FOOTER STYLES */
-
-.footerclass a{
-  transition:all 0.3s linear;
+.footer-container {
+  padding: 20px;
+  background-color: #f8f8f8; /* Light background color */
 }
 
-.footerclass a:hover{
-  color:#00aaff;
-  font:bolder;
-  text-decoration: underline;
+.footer-title {
+  font-size: 1.5em;
+  margin: 0;
 }
 
-/* CONTENT DISPLAY PAGE STYLES */
+.footer-description {
+  margin: 10px 0;
+}
 
-#project-title {
+.footer-links {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  margin: 5px 0;
+}
+
+.footer-icons {
+  display: flex;
+  gap: 10px; /* Space between icons */
+}
+
+.footer-bottom {
   text-align: center;
-  font-size: 48px;
   margin-top: 20px;
-  font-family: 'Arial', sans-serif;
 }
 
-.dark-mode {
-  background-color: #000000;
-  color: white;
+.footer-horizontal-line {
+  border-top: 1px solid #ccc; /* Example horizontal line */
+  margin: 20px 0;
 }
 
-.light-mode
-{
-  background-color: white;
-  color: black;
-}
+
+
 
 /* Toggle button style */
 
