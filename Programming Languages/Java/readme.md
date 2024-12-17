@@ -537,6 +537,14 @@ Here's the updated table:
     <th>Description</th>
   </tr>
   <tr>
+    <td><a href="https://drive.google.com/file/d/1sk9Ui_cx4G64NI44EQ1e9obzV-e_EdKv/view?usp=sharing">Java NOtes for professionals</td>
+      <td>A Complete note for java begineers </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1_a433YmB9Ha6GJWzA3iwmwQjemf3pt3p/view?usp=sharing">Java Notes by durga SCJP</td>
+      <td>A Complete note for java begineers with theory and code </td>
+  </tr> 
+  <tr>
     <td><a href="https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208">Head First Java</a></td>
     <td>A beginner-friendly book that takes a unique approach to teaching Java programming through engaging visuals, puzzles, quizzes, and exercises.</td>
   </tr>
