@@ -1248,6 +1248,26 @@ Writing to Files File Streams input and output operations in C++.</td>
   </tr>
 </table>
 
+### Books
+<table width="100%">
+   <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/163kA7b6tT4cpZuXixD0EH5VUjWLQlFqT/view?usp=sharing">C++ Books for Begineers</td>
+      <td>Any Absolute begineer can go with this book</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1yVgbn0KVI5J_hUnfRU2tniZKEO3NJRGc/view?usp=sharing">DSA BY LOVE BABBAR</td>
+    <td>DSA book from scratch to advanced </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/163kA7b6tT4cpZuXixD0EH5VUjWLQlFqT/view?usp=sharing">DSA SUPREME </td>
+    <td>concepts with theory and code</td>
+  </tr>
+</table>
+
 ### Interview Preparation
 > Here are some resources which can help you to prepare for C++ interview rounds
 
