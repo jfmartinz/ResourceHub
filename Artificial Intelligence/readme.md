@@ -1397,6 +1397,10 @@ This section is a curated collection of Artificial Intelligence beginner to adva
     <td><a href="https://aijobsboard.com/">AI Jobs Board</a></td>
     <td>Platform for finding and posting AI job opportunities.</td>
   </tr>
+  <tr>
+    <td><a href="https://agentic-engineering-jobs.com">Agentic Engineering Jobs</a></td>
+    <td>Job board for engineers building agentic systems: RAG, AI agents, LLM-powered products, and agent orchestration. Free to post and free to browse.</td>
+  </tr>
 </table>
 
 ### Blogs
