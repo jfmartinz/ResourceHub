@@ -267,3 +267,13 @@ ResourceHub is licensed under the MIT License - see the [LICENSE](https://github
 <br>
 
 ###### If you find this repository useful, please consider giving it a ⭐️
+
+###### Python Learning Resource
+
+Here are some useful resources to learn Python:
+
+- Official Python Documentation: https://docs.python.org/3/
+- W3Schools Python Tutorial: https://www.w3schools.com/python/
+- GeeksforGeeks Python: https://www.geeksforgeeks.org/python-programming-language/
+- FreeCodeCamp Full Python Course: https://www.youtube.com/watch?v=rfscVS0vtbw
+- Programiz Python Tutorial: https://www.programiz.com/python-programming
