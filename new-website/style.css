@@ -1610,6 +1610,12 @@ footer {
   }
 }
 
+@media (max-width: 768px) {
+  .slider-label {
+    margin: 10px auto;
+  }
+}
+
 @media (max-width: 400px) {
   .footer-description {
     text-align: center;
