@@ -1247,6 +1247,13 @@ video {
 
 body{
   overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.footer-container {
+  margin-top: auto;
 }
 
 .hidden-mobile {
@@ -1435,6 +1442,15 @@ body::-webkit-scrollbar-thumb:hover {
 .card:hover{
   background-color: rgba(255, 255, 255, 0.672);
   color:black;
+}
+
+.card {
+  overflow: hidden;
+  word-break: break-word;
+}
+
+body:not(.dark) .card:hover {
+  background-color: #e0e0e0;
 }
 
 .search-input{
