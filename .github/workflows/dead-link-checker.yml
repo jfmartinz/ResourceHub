@@ -1,0 +1,30 @@
+name: Dead Link Checker
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * 1'
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check Markdown links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --timeout 30 --retry 3 --no-progress './**/*.md'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create issue from report
+        if: failure()
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: 'Dead links detected'
+          content-filepath: ./lychee/out.md
+          labels: 'bug, documentation'
