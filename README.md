@@ -267,3 +267,4 @@ ResourceHub is licensed under the MIT License - see the [LICENSE](https://github
 <br>
 
 ###### If you find this repository useful, please consider giving it a ⭐️
+# TODO: 💡 [feature] - <redirecting to the top of the page when click on logo in the footer section>
