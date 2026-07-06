@@ -267,3 +267,4 @@ ResourceHub is licensed under the MIT License - see the [LICENSE](https://github
 <br>
 
 ###### If you find this repository useful, please consider giving it a ⭐️
+# TODO: ➕ [resource] - want to add more youtube playlist for open source development
