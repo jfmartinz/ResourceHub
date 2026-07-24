@@ -7,7 +7,9 @@
 //   }, 500);
 // });
 const loading = document.getElementById("loading1");
-loading.innerHTML = `<h1 class="loading">Loading</h1>`;
+if (loading) {
+  loading.innerHTML = `<h1 class="loading">Loading</h1>`;
+}
 // Hamburger menu
 // hamBurger.addEventListener("click", mobileMenu);
 // function mobileMenu() {
@@ -104,16 +106,18 @@ let calcScrollValue = () => {
   let calcHeight =
     document.documentElement.scrollHeight -
     document.documentElement.clientHeight;
-  let scrollValue = Math.round((pos * 100) / calcHeight);
+  let scrollValue = calcHeight > 0 ? Math.round((pos * 100) / calcHeight) : 0;
   if (pos > 100) {
     scrollProg.style.display = "grid";
   } else {
     scrollProg.style.display = "none";
   }
-  scrollProg.addEventListener("click", () => {
-    document.documentElement.scrollTop = 0;
-  });
   scrollProg.style.background = `conic-gradient(#0063ba ${scrollValue}%, #d499de ${scrollValue}%)`;
+};
+
+document.getElementById("progress")?.addEventListener("click", () => {
+  document.documentElement.scrollTop = 0;
+});
 };
 
 window.addEventListener("scroll", function () {
