@@ -9,7 +9,7 @@
 //     })
 //       .then((response) => {
 //         if (response.status === 403) {
-//           const retryAfter = parseInt(response.headers.get("Retry-After"));
+//           const retryAfter = parseInt(response.headers.get("Retry-After", 10));
 //           if (retryAfter) {
 //             console.log(`Rate limit exceeded. Retrying after ${retryAfter} seconds.`);
 //             setTimeout(() => fetchGitHubData(url, token), retryAfter * 1000);
@@ -116,15 +116,15 @@ document.addEventListener("DOMContentLoaded", async function () {
     while (!![]) {
       try {
         const _0x2ed836 =
-          -parseInt(_0xe739c1(0xef)) / 0x1 +
-          -parseInt(_0xe739c1(0xec)) / 0x2 +
-          parseInt(_0xe739c1(0xe4)) / 0x3 +
-          (-parseInt(_0xe739c1(0xeb)) / 0x4) *
-            (parseInt(_0xe739c1(0xed)) / 0x5) +
-          (parseInt(_0xe739c1(0xe6)) / 0x6) *
-            (-parseInt(_0xe739c1(0xf1)) / 0x7) +
-          -parseInt(_0xe739c1(0xea)) / 0x8 +
-          (parseInt(_0xe739c1(0xee)) / 0x9) * (parseInt(_0xe739c1(0xe9)) / 0xa);
+          -parseInt(_0xe739c1(0xef, 10)) / 0x1 +
+          -parseInt(_0xe739c1(0xec, 10)) / 0x2 +
+          parseInt(_0xe739c1(0xe4, 10)) / 0x3 +
+          (-parseInt(_0xe739c1(0xeb, 10)) / 0x4) *
+            (parseInt(_0xe739c1(0xed, 10)) / 0x5) +
+          (parseInt(_0xe739c1(0xe6, 10)) / 0x6) *
+            (-parseInt(_0xe739c1(0xf1, 10)) / 0x7) +
+          -parseInt(_0xe739c1(0xea, 10)) / 0x8 +
+          (parseInt(_0xe739c1(0xee, 10)) / 0x9) * (parseInt(_0xe739c1(0xe9, 10)) / 0xa);
         if (_0x2ed836 === _0x4a9d87) break;
         else _0x469b9e["push"](_0x469b9e["shift"]());
       } catch (_0x1b8abe) {
@@ -206,7 +206,7 @@ document.addEventListener("DOMContentLoaded", async function () {
       .then((response) => {
         if (response.status === 403) {
           // If rate limit exceeded, parse the Retry-After header to calculate wait time
-          const retryAfter = parseInt(response.headers.get("Retry-After"));
+          const retryAfter = parseInt(response.headers.get("Retry-After", 10));
           if (retryAfter) {
             console.log(
               `Rate limit exceeded. Retrying after ${retryAfter} seconds.`
