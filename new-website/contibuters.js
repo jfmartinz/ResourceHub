@@ -7,7 +7,7 @@
 //   }, 500);
 // });
 const loading = document.getElementById("loading1");
-loading.innerHTML = `<h1 class="loading">Loading</h1>`;
+loading.textContent = `<h1 class="loading">Loading</h1>`;
 // Hamburger menu
 // hamBurger.addEventListener("click", mobileMenu);
 // function mobileMenu() {
@@ -70,7 +70,7 @@ async function fetchAllContributors() {
       pageNumber++;
     }
     allContributors.forEach((contributor) => {
-      if (loading) loading.innerHTML = ``;
+      if (loading) loading.textContent = ``;
       if (contributor.login === owner) {
         return;
       }
